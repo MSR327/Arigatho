@@ -162,3 +162,83 @@ def sort_pending(archive, state, runner=run_claude, batch_size=BATCH_SIZE, limit
         new_rows += rows
         log(f"batch {min(ids)}-{max(ids)}: {len(rows)} questions")
     return new_rows
+
+
+DEDUPE_SCHEMA = {
+    "type": "object",
+    "properties": {"matches": {"type": "array", "items": {
+        "type": "object",
+        "properties": {"qid": {"type": "string"},
+                       "duplicate_of": {"type": ["string", "null"]}},
+        "required": ["qid", "duplicate_of"], "additionalProperties": False}}},
+    "required": ["matches"], "additionalProperties": False,
+}
+
+
+def _brief(r):
+    return f"- {r['qid']}: {r['title']} :: {r['text'][:400]}"
+
+
+def dedupe(new_rows, all_rows, runner=run_claude):
+    new_ids = {r["qid"] for r in new_rows}
+    dupes = {}
+    for company in sorted({r["company"] for r in new_rows}):
+        same = [r for r in all_rows if r["company"].lower() == company.lower()]
+        existing = [r for r in same if r["qid"] not in new_ids and not r["duplicate_of"]]
+        new = [r for r in same if r["qid"] in new_ids]
+        if not existing and len(new) < 2:
+            continue
+        prompt = (PROMPTS / "dedupe.md").read_text().format(
+            company=company, existing="\n".join(map(_brief, existing)) or "(none)",
+            new="\n".join(map(_brief, new)))
+        try:
+            matches = runner(prompt, DEDUPE_SCHEMA)["matches"]
+        except UsageLimit:
+            raise
+        except (ClaudeError, KeyError, TypeError) as e:
+            log(f"dedupe {company} failed: {e!r}")
+            continue
+        valid = {r["qid"] for r in same}
+        for m in matches:
+            if (m["qid"] in new_ids and m["duplicate_of"] in valid
+                    and m["duplicate_of"] != m["qid"]):
+                dupes[m["qid"]] = m["duplicate_of"]
+    return dupes
+
+
+def apply_duplicates(path, dupes):
+    rows = read_jsonl(path)
+    for r in rows:
+        if r["qid"] in dupes:
+            r["duplicate_of"] = dupes[r["qid"]]
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows))
+    tmp.replace(path)
+
+
+def main(argv=None):
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--limit", type=int, help="only sort the first N pending messages")
+    args = ap.parse_args(argv)
+    archive, state = Archive(ARCHIVE), load_state(STATE)
+    new_rows, stopped = [], None
+    try:
+        new_rows = sort_pending(archive, state, limit=args.limit,
+                                save=lambda: save_state(STATE, state))
+        if new_rows:
+            apply_duplicates(QUESTIONS, dedupe(new_rows, read_jsonl(QUESTIONS)))
+    except UsageLimit as e:
+        stopped = str(e)[:80]
+        log(f"stopped early: {e}")
+    fresh = Counter(r["company"] for r in new_rows)
+    summary = ", ".join(f"{c} {n}" for c, n in fresh.most_common(5))
+    msg = f"{len(new_rows)} new questions" + (f": {summary}" if summary else "")
+    if stopped:
+        msg += " (stopped early: usage limit, continues next run)"
+    log(msg)
+    notify(msg)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
