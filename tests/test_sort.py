@@ -2,7 +2,7 @@ import pytest
 
 from oa.common import append_jsonl, read_jsonl
 from oa.sort import (ClaudeError, UsageLimit, apply_duplicates, build_batch_prompt, dedupe,
-                     format_message, is_sortable, sort_pending, to_questions)
+                     format_message, is_sortable, normalize_rows, sort_pending, to_questions)
 from oa.store import Archive
 
 
@@ -133,3 +133,31 @@ def test_apply_duplicates(tmp_path):
     append_jsonl(p, [q("1-1", "Amazon", "a"), q("9-1", "Amazon", "a again")])
     apply_duplicates(p, {"9-1": "1-1"})
     assert [r["duplicate_of"] for r in read_jsonl(p)] == [None, "1-1"]
+
+
+
+def test_to_questions_canonicalises_names():
+    rows = to_questions([share(company="Zomato", college="IIT (ISM) Dhanbad")], {6827})
+    assert rows[0]["company"] == "Eternal (Zomato)" and rows[0]["college"] == "IIT Dhanbad"
+
+
+def test_normalize_rows():
+    rows = normalize_rows([dict(q("1-1", "Eternal", "a"), college="NIT Karnataka")])
+    assert rows[0]["company"] == "Eternal (Zomato)" and rows[0]["college"] == "NIT Surathkal"
+
+
+def test_dedupe_all_only_points_backwards():
+    rows = [q("1-1", "Harness", "Max memory"), q("2-1", "Harness", "Max memory again"),
+            q("3-1", "Harness", "Max memory 3")]
+    # Claude marks a cycle and a forward pointer; only backward pointers are kept.
+    runner = lambda p, s: {"matches": [{"qid": "1-1", "duplicate_of": "2-1"},
+                                       {"qid": "2-1", "duplicate_of": "1-1"},
+                                       {"qid": "3-1", "duplicate_of": "2-1"}]}
+    assert dedupe(rows, rows, runner=runner) == {"2-1": "1-1", "3-1": "2-1"}
+
+
+def test_apply_duplicates_resolves_chains(tmp_path):
+    p = tmp_path / "q.jsonl"
+    append_jsonl(p, [q("1-1", "Harness", "a"), q("2-1", "Harness", "a"), q("3-1", "Harness", "a")])
+    apply_duplicates(p, {"2-1": "1-1", "3-1": "2-1"})
+    assert [r["duplicate_of"] for r in read_jsonl(p)] == [None, "1-1", "1-1"]

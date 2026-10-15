@@ -8,8 +8,9 @@ import sys
 from collections import Counter
 from datetime import date
 
-from oa.common import (ARCHIVE, BATCH_SIZE, LOGS, PROMPTS, QUESTIONS, ROOT, STATE, TOPICS,
-                       append_jsonl, log, notify, read_jsonl, short_error)
+from oa.common import (ARCHIVE, BATCH_SIZE, COLLEGE_ALIASES, COMPANY_ALIASES, LOGS, PROMPTS,
+                       QUESTIONS, ROOT, STATE, TOPICS, append_jsonl, canonical, log, notify,
+                       read_jsonl, short_error)
 from oa.store import Archive, attachment_relpath, load_state, save_state
 
 SORT_SCHEMA = {
@@ -110,8 +111,10 @@ def to_questions(shares, batch_ids):
             if not q["topics"] or len(q["topics"]) > 3 or not set(q["topics"]) <= set(TOPICS):
                 raise ValueError(f"bad topics {q['topics']}")
             seq[base] += 1
-            rows.append({"qid": f"{base}-{seq[base]}", "company": s["company"].strip(),
-                         "college": s["college"].strip(), "date": s["date"], "role": s["role"],
+            rows.append({"qid": f"{base}-{seq[base]}",
+                         "company": canonical(s["company"], COMPANY_ALIASES),
+                         "college": canonical(s["college"], COLLEGE_ALIASES),
+                         "date": s["date"], "role": s["role"],
                          "title": q["title"].strip(), "text": q["text"].strip(),
                          "topics": q["topics"], "source_ids": sorted(s["source_ids"]),
                          "duplicate_of": None})
@@ -179,8 +182,16 @@ def _brief(r):
     return f"- {r['qid']}: {r['title']} :: {r['text'][:400]}"
 
 
+def normalize_rows(rows):
+    for r in rows:
+        r["company"] = canonical(r["company"], COMPANY_ALIASES)
+        r["college"] = canonical(r["college"], COLLEGE_ALIASES)
+    return rows
+
+
 def dedupe(new_rows, all_rows, runner=run_claude):
     new_ids = {r["qid"] for r in new_rows}
+    order = {r["qid"]: i for i, r in enumerate(all_rows)}  # only point at earlier rows: no cycles
     dupes = {}
     for company in sorted({r["company"] for r in new_rows}):
         same = [r for r in all_rows if r["company"].lower() == company.lower()]
@@ -201,25 +212,48 @@ def dedupe(new_rows, all_rows, runner=run_claude):
         valid = {r["qid"] for r in same}
         for m in matches:
             if (m["qid"] in new_ids and m["duplicate_of"] in valid
-                    and m["duplicate_of"] != m["qid"]):
+                    and order[m["duplicate_of"]] < order[m["qid"]]):
                 dupes[m["qid"]] = m["duplicate_of"]
     return dupes
 
 
-def apply_duplicates(path, dupes):
-    rows = read_jsonl(path)
-    for r in rows:
-        if r["qid"] in dupes:
-            r["duplicate_of"] = dupes[r["qid"]]
+def write_rows(path, rows):
     tmp = path.with_suffix(".tmp")
     tmp.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows))
     tmp.replace(path)
 
 
+def apply_duplicates(path, dupes):
+    rows = read_jsonl(path)
+    parent = {r["qid"]: r["duplicate_of"] for r in rows}
+    parent.update(dupes)
+
+    def root(qid):  # follow repost -> original chains
+        seen = {qid}
+        while parent.get(qid) and parent[qid] not in seen:
+            qid = parent[qid]
+            seen.add(qid)
+        return qid
+
+    for r in rows:
+        r["duplicate_of"] = root(r["qid"]) if parent.get(r["qid"]) else None
+    write_rows(path, rows)
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, help="only sort the first N pending messages")
+    ap.add_argument("--dedupe-all", action="store_true",
+                    help="one-off: normalise names and re-check every question for reposts")
     args = ap.parse_args(argv)
+    if args.dedupe_all:
+        rows = normalize_rows(read_jsonl(QUESTIONS))
+        write_rows(QUESTIONS, rows)
+        originals = [r for r in rows if not r["duplicate_of"]]
+        dupes = dedupe(originals, rows)
+        apply_duplicates(QUESTIONS, dupes)
+        log(f"dedupe-all: {len(dupes)} reposts folded into originals")
+        return 0
     archive, state = Archive(ARCHIVE), load_state(STATE)
     new_rows, stopped = [], None
     try:

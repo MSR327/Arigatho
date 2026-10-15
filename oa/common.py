@@ -34,6 +34,25 @@ TOPICS = [
 ]
 
 
+# Same place, different spellings (keys are lowercase). Applied to every question.
+COLLEGE_ALIASES = {
+    "iit (ism) dhanbad": "IIT Dhanbad", "iit ism dhanbad": "IIT Dhanbad",
+    "ism dhanbad": "IIT Dhanbad", "nit karnataka": "NIT Surathkal",
+    "nitk surathkal": "NIT Surathkal", "nit tiruchirappalli": "NIT Trichy",
+    "iit (bhu) varanasi": "IIT BHU", "iit bhu varanasi": "IIT BHU", "iit kgp": "IIT Kharagpur",
+    "dtu": "Delhi Technological University",
+}
+COMPANY_ALIASES = {
+    "eternal": "Eternal (Zomato)", "zomato": "Eternal (Zomato)", "amex": "American Express",
+    "info edge": "InfoEdge",
+}
+
+
+def canonical(name, aliases):
+    name = " ".join(name.split())
+    return aliases.get(name.lower(), name)
+
+
 def log(msg):
     line = f"[{datetime.now():%Y-%m-%d %H:%M:%S}] {msg}"
     print(line, flush=True)
