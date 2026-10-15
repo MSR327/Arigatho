@@ -1,5 +1,28 @@
 # NatWest OA
 
+## 2026-10-14 · IIT BHU · FTE
+
+### Q1. Count Occurrences of a Digit in a Number
+
+Given a digit and a number, count how many times that digit appears in the number.
+
+Topics: Math  
+📎 source: [msg 6551](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. Start Node Reaching Maximum Nodes in Directed Graph
+
+Given a directed graph, find the node to start from such that the maximum number of nodes can be covered (reached). Number of nodes = 1000, number of edges = 10000.
+
+Topics: Graphs  
+📎 source: [msg 6551](../archive/inter-nit/2026-10.jsonl)
+
+### Q3. Other Sections (Behavioural, Reasoning, SQL MCQ)
+
+The test also had a behavioural section (100 questions, no time limit), a reasoning section (8 questions, 12 minutes), and an SQL MCQ section (12 questions, 15 minutes).
+
+Topics: SQL, Aptitude  
+📎 source: [msg 6551](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-12 · IIT Guwahati · FTE
 
 ### Q1. Two Sum

@@ -1,5 +1,37 @@
 # Squarepoint OA
 
+## 2026-10-15 · IIT Kharagpur · FTE
+
+### Q1. Modulo Sum Function
+
+Given a function C(i, j) = (i mod j) + (j mod i) for integers i and j, find f(n) = Σ(i=1..n) Σ(j=1..n) C(i, j) for a given n.
+
+Constraints: n ≤ 10^6.
+
+Hint from the sharer: C is symmetric, so f(n) = 2 × Σ (i mod j) over all pairs up to n; for a fixed j the sum can be computed with harmonic grouping or direct summation in O(n log n), instead of checking all pairs in O(n²).
+
+Topics: Math  
+📎 source: [SquarePoint_SDE_IITKGP (1).pdf](../archive/files/6947-SquarePoint_SDE_IITKGP_1_.pdf), [msg 6948](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. Tree Traversal Integrity (Valid BFS)
+
+Given a tree and a sequence of vertices, determine whether the sequence is a valid Breadth-First Search (BFS) traversal of the tree. Tests graph representation and BFS queue management. Same as Codeforces 1037D - Valid BFS?
+
+Topics: Trees, Graphs, Stack/Queue  
+📎 source: [SquarePoint_SDE_IITKGP (1).pdf](../archive/files/6947-SquarePoint_SDE_IITKGP_1_.pdf), [msg 6948](../archive/inter-nit/2026-10.jsonl)
+
+### Q3. Two Cores and a Latch (Optimal Operation Split)
+
+Two cores process operations in a strictly given order. You are given an array time, where time[i] is the time needed to finish the i-th operation. A latch decides which core runs each operation. The core holding the latch can either assign the current operation to itself, which passes the latch to the other core, or assign the operation to the other core and keep the latch. Each core plays optimally to maximize its own total running time. Core 1 holds the latch initially. Return [total_time_core1, total_time_core2].
+
+Example 1: Input [141, 592, 653] -> Output [733, 653] (Core 1 gives away 141 and keeps the latch, then runs 592 itself; the latch passes to Core 2, which runs 653).
+Example 2: Input [10, 21, 10, 21, 10] -> Output [41, 31].
+
+Similar problems: Codeforces 859C - Pie Rules (exact logic match), LeetCode 877 Stone Game, LeetCode 1140 Stone Game II.
+
+Topics: DP  
+📎 source: [SquarePoint_SDE_IITKGP (1).pdf](../archive/files/6947-SquarePoint_SDE_IITKGP_1_.pdf), [msg 6948](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-04 · IIT Roorkee · FTE
 
 ### Q1. Trade Packet Correction

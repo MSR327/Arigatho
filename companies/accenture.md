@@ -1,79 +1,5 @@
 # Accenture OA
 
-## 2026-10-12 · IIT Hyderabad · FTE
-
-### Q1. Remaining Water After Watering Trees
-
-You are given N trees and K units of total water. Each tree initially requires M units of water. For the ith tree: array1[i] is the number of additional times the tree needs to be watered, and array2[i] is the amount of water needed for each additional watering. The total water required by the ith tree is M + (array1[i] × array2[i]). Calculate and return the amount of water left after watering all N trees. If the total water required is greater than K, return 0.
-Input: integer N (number of trees), integer K (total available water), integer M (initial water requirement of each tree), array array1 of size N, array array2 of size N.
-Output: max(0, K - totalWaterRequired).
-(The poster says the actual wording may have differed slightly.)
-
-Topics: Arrays, Math  
-📎 source: [msg 5796](../archive/inter-nit/2026-10.jsonl)
-
-### Q2. SQL Query Joining 3 Tables
-
-An SQL query that joins 3 tables using multiple join conditions, GROUP BY and IS NULL. The poster found the schema too complex to understand and did not share it.
-
-Topics: SQL  
-📎 source: [msg 5796](../archive/inter-nit/2026-10.jsonl)
-
-### Q3. Web Dev Task (HTML/CSS/JS)
-
-A frontend task in HTML, CSS and JavaScript. Hints are given in comments for each step (e.g. change the colour from this to this), and the JS part works the same way. Tip from the poster: go over the basics of each component and write the code 3-4 times. HTML/CSS hardly need practice; focus on JS.
-
-Topics: Other  
-📎 source: [msg 5796](../archive/inter-nit/2026-10.jsonl)
-
-## 2026-10-12 · IIT Dhanbad · FTE
-
-### Q1. MCQ section (Accenture Japan OA pattern)
-
-Accenture Japan OA at IIT Dhanbad: 20 MCQs in 20 minutes, then 1 coding question in 60 minutes (80 minutes total). The MCQs covered LLM / Generative AI, aptitude, pseudocode / output-prediction questions, SQL, and CS fundamentals (mainly Operating Systems and Cloud Computing). The OS and Cloud questions were reported to be relatively easy. Any programming language was allowed for the coding question.
-
-Topics: OS/DBMS/CN MCQ, Aptitude, SQL  
-📎 source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5557-Accenture_Japan_OA_IIT_Dhanbad.pdf)
-
-### Q2. Morse Code Dictionary Decode (Set 1)
-
-You are given a Morse-code mapping table in which each English letter maps to a sequence of '.' and '-'. Given a string written in Morse code (with no separators between letters), decode it and print an English word whose Morse-code representation matches the input. The word must be present in the provided dictionary.txt file. If several dictionary words match, print any one of them.
-Input: a Morse-code string, plus the Morse mapping table for the alphabet.
-Output: any valid word from dictionary.txt whose Morse encoding equals the input.
-
-Topics: Strings, Hashing, Recursion/Backtracking  
-📎 source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5557-Accenture_Japan_OA_IIT_Dhanbad.pdf)
-
-### Q3. Minimum Dice Rolls to Reach the End (Set 2)
-
-You are given an array A of N non-negative integers. You start at index 0 and need to reach any index >= N. At any index i you can do one of two things: (1) Roll a special die: choose any value from 1 to 6 and jump forward that many positions. This counts as one dice roll. (2) Use the value at the current index: jump forward exactly A[i] positions. This costs no dice roll. Find the minimum number of dice rolls needed to reach an index >= N.
-Example: N = 10, A = [0, 0, 0, 0, 0, 1, 1, 1, 1] -> Output: 1.
-(Similar to LeetCode 45 Jump Game II, but with the extra die move and free jumps based on array values.)
-
-Topics: DP, Graphs, Greedy  
-📎 source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5557-Accenture_Japan_OA_IIT_Dhanbad.pdf)
-
-### Q4. MCQ section (20 MCQs, 20 min)
-
-Accenture Japan (digital consulting) OA at IIT Dhanbad: 20 MCQs in 20 minutes, then 1 coding question in 60 minutes (any programming language allowed). The MCQs covered LLM / Generative AI, aptitude, pseudocode / output-based questions, SQL, and computer science fundamentals, mainly Operating Systems and Cloud Computing. The OS and cloud questions were reported to be relatively easy.
-
-Topics: OS/DBMS/CN MCQ, Aptitude, SQL  
-📎 source: [msg 5845](../archive/inter-nit/2026-10.jsonl)
-
-### Q5. Morse Code Dictionary (Set 1)
-
-A Morse-code mapping table is provided in which each English letter maps to a Morse code made of '.' and '-'. Given a string in Morse code, decode it and output an English word. The decoded word must be present in the provided dictionary.txt file, and its Morse-code representation must match the given input. If several valid dictionary words can be generated, print any one. Input: a Morse-code string, plus the Morse-code mapping table for the alphabet. Output: any valid word from dictionary.txt whose Morse-code representation matches the input.
-
-Topics: Strings, Hashing, Recursion/Backtracking  
-📎 source: [msg 5845](../archive/inter-nit/2026-10.jsonl)
-
-### Q6. Minimum Dice Rolls to Reach the End (Set 2)
-
-You are given an array A of N non-negative integers. You start at index 0 and need to reach an index >= N. A special die is available: you can choose any number from 1 to 6 whenever you roll it. At any index there are two possible actions: (1) roll the die and choose any value from 1 to ... [the message is cut off here; the second action and the exact objective (presumably the minimum number of dice rolls to reach the end) are not visible].
-
-Topics: DP, Arrays  
-📎 source: [msg 5845](../archive/inter-nit/2026-10.jsonl)
-
 ## 2026-10-11 · IIT Dhanbad · FTE
 
 ### Q1. MCQ Section (20 MCQs, 20 min)
@@ -82,6 +8,7 @@ Accenture Japan OA pattern: 20 MCQs (20 minutes) followed by 1 coding question (
 
 Topics: OS/DBMS/CN MCQ, Aptitude, SQL  
 📎 source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf)
+🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-12)
 
 ### Q2. Morse Code Dictionary (Set 1)
 
@@ -93,6 +20,7 @@ Output: any valid word from dictionary.txt whose Morse-code representation match
 
 Topics: Strings, Hashing, Recursion/Backtracking  
 📎 source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf)
+🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-12)
 
 ### Q3. Minimum Dice Rolls to Reach the End (Set 2)
 
@@ -105,6 +33,7 @@ The PDF notes that the jump structure is similar to LeetCode 45 (Jump Game II), 
 
 Topics: DP, Graphs, Arrays  
 📎 source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf)
+🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-12), MNNIT Allahabad (2026-10-15)
 
 ## 2026-10-10 · VIT Vellore · FTE
 
@@ -140,6 +69,7 @@ Output: max(0, K - totalWaterRequired).
 
 Topics: Arrays, Math  
 📎 source: [msg 4967](../archive/inter-iit/2026-10.jsonl)
+🔁 also asked at: IIT Hyderabad (2026-10-12)
 
 ### Q2. SQL three-table join
 
@@ -147,6 +77,7 @@ SQL query joining 3 tables using GROUP BY, IS NULL and multiple join conditions 
 
 Topics: SQL  
 📎 source: [msg 4967](../archive/inter-iit/2026-10.jsonl)
+🔁 also asked at: IIT Hyderabad ×2 (last 2026-10-12)
 
 ### Q3. Web dev HTML/CSS/JS task
 
@@ -154,6 +85,7 @@ Web development task (HTML, CSS, JS): follow the hints in the code comments (e.g
 
 Topics: Other  
 📎 source: [msg 4967](../archive/inter-iit/2026-10.jsonl)
+🔁 also asked at: IIT Hyderabad ×2 (last 2026-10-12)
 
 ### Q4. Count contiguous groups of same-sign elements
 
@@ -161,20 +93,6 @@ Given an array of integers containing positive and negative elements, find the n
 Example: arr = [1, 2, -3, -4, 5] -> Output: 3 (groups [1, 2], [-3, -4], [5]).
 
 Topics: Arrays  
-📎 source: [msg 4968](../archive/inter-iit/2026-10.jsonl)
-
-### Q5. SQL join between 3 tables
-
-SQL query requiring a JOIN between 3 tables (exact question not shared). Role: Elite Technology Engineer.
-
-Topics: SQL  
-📎 source: [msg 4968](../archive/inter-iit/2026-10.jsonl)
-
-### Q6. JavaScript frontend task
-
-JavaScript frontend task: follow the instructions given in the question; basic DOM understanding is enough.
-
-Topics: Other  
 📎 source: [msg 4968](../archive/inter-iit/2026-10.jsonl)
 
 ## 2026-10-10 · IIT Hyderabad · Unknown
@@ -188,29 +106,6 @@ Expected output: Goa 2750.00; Jaipur 2000.00.
 Topics: SQL  
 📎 source: [msg 4969](../archive/inter-iit/2026-10.jsonl)
 
-## 2026-09-24 · IIT (ISM) Dhanbad · FTE
-
-### Q1. Basic SQL query with GROUP BY / ORDER BY
-
-A very basic SQL question based on GROUP BY, ORDER BY, etc.
-
-Topics: SQL  
-📎 source: [msg 1096](../archive/inter-iit/2026-09.jsonl), [msg 1098](../archive/inter-iit/2026-09.jsonl)
-
-### Q2. Reduce number to a single digit by repeated digit sums
-
-Given a number, repeatedly replace it with the sum of its digits until it becomes a single digit. Return the final single digit. A brute-force approach works. Only Python and C# were allowed.
-
-Topics: Math, Strings  
-📎 source: [msg 1096](../archive/inter-iit/2026-09.jsonl), [msg 1098](../archive/inter-iit/2026-09.jsonl)
-
-### Q3. Web task: new/confirm password interface
-
-A web-based question: make some small changes to a new password / confirm password interface (similar examples can be found on YouTube).
-
-Topics: Other  
-📎 source: [msg 1096](../archive/inter-iit/2026-09.jsonl), [msg 1098](../archive/inter-iit/2026-09.jsonl)
-
 ## 2026-09-22 · IIT Dhanbad · FTE
 
 ### Q1. Basic SQL with GROUP BY / ORDER BY
@@ -219,6 +114,7 @@ A very basic SQL query question based on GROUP BY, ORDER BY, etc. (exact schema 
 
 Topics: SQL  
 📎 source: [msg 896](../archive/inter-iit/2026-09.jsonl)
+🔁 also asked at: IIT Dhanbad (2026-09-24)
 
 ### Q2. Reduce number to single digit by summing digits
 
@@ -226,6 +122,7 @@ Given a number, repeatedly replace it with the sum of its digits until it become
 
 Topics: Math, Strings  
 📎 source: [msg 896](../archive/inter-iit/2026-09.jsonl)
+🔁 also asked at: IIT Dhanbad (2026-09-24)
 
 ### Q3. Web task: new/confirm password interface
 
@@ -233,3 +130,454 @@ Web-based coding question: make some small changes to a new password / confirm p
 
 Topics: Other  
 📎 source: [msg 896](../archive/inter-iit/2026-09.jsonl)
+🔁 also asked at: IIT Dhanbad (2026-09-24)
+
+## 2025-10-03 · IIT Delhi · FTE
+
+### Q1. Integer Battle (coding, Medium)
+
+Accenture Japan 2025 coding challenge (Track Test, C++ command-line template, 60 minutes, memory 512 MB, time 2000 ms). The class's score is determined by how many times the product of the integers written by the students in the class can be evenly divided by the integer K. There are N students and the i-th wrote A_i. Print the score, i.e. the largest e such that K^e divides A_1 * A_2 * ... * A_N.
+Input: line 1: N K; line 2: A_1 ... A_N.
+Constraints: 1 <= N <= 10^6 (one photo unclear, maybe 10^5); 2 <= K <= 10^9; 1 <= A_i <= 10^9.
+Output: one integer.
+Example 1: 3 5 / 10 100 50 -> 5 (product 50000 = 5^5 * 16).
+Example 2: 5 10 / 100000 x 5 -> 25.
+The page warns: 'Please be mindful of overflow.'
+
+Topics: Math  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q2. Nested if: which character is never printed
+
+Which of the following characters will never be printed by the function below?
+def describe(n):
+    if n >= 0:
+        if n < 3: print("A")
+        else: print("B")
+    else:
+        if n < 3: print("C")
+        else: print("D")
+A. A
+B. B
+C. C
+D. D
+E. All of the above characters can be printed out
+
+Topics: Other  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q3. Symmetric-key encryption: NOT true
+
+Choose the statement that is NOT true about symmetric-key encryption.
+A. The sender and the recipient use the same key.
+B. The computation is faster than public-key encryption.
+C. It uses a method called RSA, which is based on the difficulty of factoring large numbers.
+D. The key must be sent to the recipient.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q4. Movie scheduling greedy rule
+
+The movie theater you are in will play n movies today; movie i starts at time l_i and ends at time r_i (1 <= i <= n). You must watch a chosen movie from beginning to end, so you cannot watch movies whose times overlap (you also cannot watch two movies when the ending time of one equals the starting time of another). You want to watch as many movies as possible. Which is the correct way to choose?
+A. Repeatedly watch the movie with the earliest starting time among the movies you can watch.
+B. Repeatedly watch the movie with the earliest ending time among the movies you can watch.
+C. Repeatedly watch the movie with the shortest running time among the movies you can watch.
+D. Repeatedly: for each movie you can watch, count how many movies it would make impossible to watch; watch the one with the lowest count.
+
+Topics: Greedy  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q5. C++ while loop reading 'yes'
+
+Choose the correct statement below. (The program is C++.)
+int main(void) {
+    while (1) {
+        string s;
+        cin >> s;
+        if (s == "yes") { cout << "clinic" << endl; }
+        else { break; }
+    }
+    return 0;
+}
+A. Entering the string Yes will exit the program. (not yes but Yes)
+B. Entering yessir will return the string clinic.
+C. If you enter yes once, it outputs clinic and the program exits.
+D. (option cut off in the photo)
+
+Topics: Other  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q6. Unix file owner/group/others
+
+In UNIX-like OS, the authority for a certain file varies depending on the user who uses it. Which of the following descriptions is correct?
+A. There is one owner in the file, and authority is given only to that user.
+B. There are multiple owners in the file, and privileges are granted only to those users.
+C. There is one owner and group in the file, and different authorities are given to the user who is the owner, the users belonging to the group and users of the other type.
+D. There are multiple owner and group in the file, and two types of users, owner and users belonging to the group.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi ×3 (last 2025-10-03)
+
+### Q7. Which database is NoSQL
+
+Which of the following databases are classified as NoSQL?
+A. MySQL
+B. Redis
+C. SQLite
+D. PostgreSQL
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q8. Java integer mean function (select all)
+
+Your friend wrote the following function to calculate the mean of the given integer array a. Choose all of the following correct statements about this function.
+static double mean(int[] a) {
+    int answer = 0;
+    for (int i = 0; i < a.length; i++) { answer += a[i]; }
+    return answer / a.length;
+}
+A. If the length of a is 0, the function does not return any value.
+B. Aside from cases of integer overflow, the function always returns the mean, with the decimals of the returned value rounded (in fact dropped). (partly illegible)
+C. An integer overflow may occur when a is long and has some large elements.
+D. None of the above are correct.
+
+Topics: Other  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q9. Recursive function f(10, 2) (type the number)
+
+There is a recursive function implemented with the following pseudocode (a and b are integers of 1 or more). Calculate f(10, 2).
+function f(a, b) {
+    if (b == 0) { return a }
+    else { return f(b, the remainder after dividing a by b) }
+}
+Answer: ____
+
+Topics: Recursion/Backtracking, Math  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q10. Prompt injection
+
+Choose the correct description of prompt injection from the following.
+A. Using a prompt to attack a machine learning model by maliciously altering the training set or other hyperparameters used by the model during training.
+B. A malicious third party tampering with a normal user's prompt to intentionally display altered output to the user.
+C. Creating a prompt that causes the application to ignore instructions previously given to it.
+D. Providing false or expedient information to the LLM by means of prompts in order to attack the machine learning model that has learned this information.
+
+Topics: Other  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q11. CSRF description
+
+Which is the description of CSRF (Cross-Site Request Forgery)?
+A. An attack that uses a vulnerability in a commercially available database management system to search for a database server to become a host, then repeatedly self-contaminates to create a big surge in website traffic.
+B. An attack that embedded a malicious script on the website's visitor input form and executes on visitor's browser.
+C. An attack that embedded malicious input data to a web application form executing a query to tamper data or acquire user information illegally.
+D. Attack that allows visitors to browse web pages with malicious scripts embedded in them, running unintended operations on other visitors' browser.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi ×3 (last 2025-10-03)
+
+### Q12. White box testing (select all)
+
+What is white box testing? Choose all of the following choices which are true.
+A. Understanding the inputs but not output.
+B. Understanding the inputs, outputs, and the technical methods in between.
+C. Testing with knowledge of the code (e.g. unit testing).
+D. Testing a computer which is white in color.
+
+Topics: Other  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q13. bash: command not found fix
+
+In UNIX-like OS, when trying to execute a command called foo located in /home/bar, the message 'bash: foo: command not found' was displayed. Which command is used to solve this?
+A. export PATH=/home/bar:$PATH
+B. export PWD=/home/bar
+C. export MANPATH=/home/bar:$MANPATH
+D. export SHLVL=2
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q14. JavaScript find returning i + 1
+
+The following JavaScript function returns the number where the integer x occurs in the given array of integers a. Choose the correct statement regarding this function.
+function find(a, x) {
+  for (let i = 0; i < a.length; i++) {
+    if (a[i] == x) { return i + 1; }
+  }
+  return -1;
+}
+A. If the length of array a is 0, the program terminates abnormally.
+B. If multiple occurrences of x are found in array a, all occurrences are returned.
+C. If x is not found in array a, the function returns -1.
+D. All of the above is incorrect.
+
+Topics: Arrays  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi ×3 (last 2025-10-03)
+
+### Q15. SLO vs SLA: two incorrect options
+
+Choose the two incorrect options regarding SLOs (service level objectives) and SLAs (service level agreements) in the context of site reliability engineering.
+A. If an SLO is breached, there is a possibility of pursuing legal liability such as damages.
+B. Within the boundaries of meeting the SLO, the SRE team is allowed to intentionally cause outages if there are reasonable justifications.
+C. SLAs are usually set at values that are more difficult to achieve than SLOs.
+D. SLAs are established by considering factors such as the stability of competing services from other companies, the feasibility of service stability from an engineering perspective, and customer stability requirements.
+
+Topics: Other  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q16. Database rollforward processing
+
+Choose the correct description of database rollforward processing.
+A. Restore using a journal file before updating against a physical failure.
+B. Restore using a journal file after updating against a physical failure.
+C. Restore using a journal file before updating against a logical failure.
+D. Restore using a journal file after updating against a logical failure.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi ×3 (last 2025-10-03)
+
+### Q17. AI alignment
+
+Which of the following best describes AI alignment?
+A. Setting up the input data so that it is not used to train the generative AI.
+B. Creating an AI model that can reveal the reasons and rationale for the answers given by the generative AI.
+C. Attempting to match the AI's goals with human intentions and ethics in the human world.
+D. Biasing the output results by biasing the data input to the generative AI.
+
+Topics: Other  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q18. Inappropriate statement about generative AI
+
+Choose the most inappropriate statement about Generative AI.
+A. Generative AI is an AI system that can generate text, images, or other media.
+B. Typical Generative AI systems include ChatGPT, which was built by OpenAI using GPT-3.5 and GPT-4.
+C. Generative AI is built on a reinforcement learning framework that aims to maximize a reward value based on input.
+D. Generative AI can perform automatic program generation if programs are included in the training data.
+
+Topics: Other  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q19. Not a characteristic of a reliable transaction system
+
+Which one of the following is not included in the characteristics of a reliable transaction system?
+A. Atomicity
+B. Isolation
+C. Consistency
+D. Transparency
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q20. Shift expression equal to 6n
+
+Given an integer n, n << i is the left shift operator that shifts the integer n to the left i bits, and n >> i is the right shift operator that shifts n to the right i bits. Which of the following expressions is equal to 6 x n?
+A. ((n<<1)+n)<<1
+B. (n<<3)+(n<<3)
+C. (n>>2)+(n>>1)
+D. ((n>>2)+n)<<1
+
+Topics: Bit Manipulation  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+### Q21. In-memory vs traditional databases (incorrect statement)
+
+Choose the description that is incorrect regarding the differences between in-memory databases and traditional databases like MySQL or PostgreSQL.
+A. In-memory databases are often faster compared to relational databases like MySQL.
+B. In-memory databases are resilient to the physical failure of an HDD or SSD, making data loss less likely compared to storage-based databases.
+C. In in-memory databases, ensuring sufficient main memory for storing all data is typically the only method used, rather than following rules like deleting infrequently used data to allocate enough capacity.
+D. Redis and Memcached are prominent examples of in-memory databases.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2025-10-03)
+
+## 2024-10-09 · IIT Delhi · FTE
+
+### Q1. Age confirmation of participants (coding)
+
+Accenture Japan 2024 coding challenge (Track Test, C++ command-line program reading stdin and writing stdout; memory 512 MB, timeout 2000 ms). If any participant's age is below x, the course is soft drinks only; otherwise alcohol is served.
+Input: line 1: n x; line 2: the n ages.
+Constraints: 1 <= n <= 100, 10 <= x <= 21.
+Output: print exactly 'Soft Drink' if any age < x, else 'Alcohol'.
+Examples: 5 20 / 25 23 28 19 20 -> Soft Drink; 3 18 / 120 18 65 -> Alcohol; 1 21 / 21 -> Alcohol.
+
+Topics: Arrays  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)
+
+### Q2. DNS setting to hide hosts
+
+Choose the DNS server setting that will prevent an existing host and its IP address from being known.
+A. Prohibit third-party mail relay.
+B. Control the accessing source of a zone transfer.
+C. Prohibit running a CGI program in other than a specified directory.
+D. Prohibit displaying file names existing in a directory.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)
+
+### Q3. Out-of-memory crash: NOT an appropriate fix
+
+A binary program failed to run because it crashed due to lack of memory. Which of the following is NOT an appropriate action to solve this issue?
+A. Use garbage collection to prevent certain kinds of memory leaks.
+B. Terminate other processes running at the same time.
+C. Shorten the binary filename to save memory usage.
+D. Consider running the program on a device with more RAM capacity.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)
+
+### Q4. Meaning of chmod u+x foo
+
+In UNIX-like OS, which is the correct meaning of the command chmod u+x foo?
+A. Give execute permission to owner of the file named foo.
+B. Give the group that the file named foo belongs to, execute permission of foo.
+C. Give execute permission to all users who use the file foo.
+D. Give execute permission to the owner of the file named foo and remove execute permission of all other users.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)
+
+### Q5. Different content on phone and PC: NOT the cause
+
+When browsing a website (https://example.com), the contents displayed on the smartphone and the computer are different. Which statement below is not the cause?
+A. Because the content of the website is dynamically generated with JavaScript.
+B. Because the content of the website is dynamically switched based on the user agent.
+C. Because the content of the website was tampered by a communication path.
+D. Because the content of the website was implemented with responsive design.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)
+
+### Q6. Forward secrecy
+
+Which is the cryptographic algorithm of forward secrecy (FS)?
+A. An improper way to manage keys will increase the risk of the key being compromised.
+B. To ensure that even if the long-term encryption key is compromised in the future, the data encrypted with the short-term key will not be decrypted.
+C. Using a computer with a high-performance specification to spend time and effort in increasing the reliability and strength of encryption.
+D. Advances in technology will increase computing power and make it possible to decrypt in a realistic time.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)
+
+### Q7. TCP port for http://ftp.example.jp/index.cgi?port=123
+
+Which TCP port number of the server will the Web browser connect to when specifying the URL http://ftp.example.jp/index.cgi?port=123 in the Web browser?
+A. 21
+B. 80
+C. 123
+D. 443
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)
+
+### Q8. Shrine parking lot data structure
+
+Mr. Aoki is planning to visit the shrine for New Year. However, the parking lot at the shrine is very small. Once you park your car, you cannot leave until all of the cars that came after you leave. Choose the data structure that best represents the situation in this parking lot.
+A. stack
+B. queue
+C. heap
+D. linked list
+
+Topics: Stack/Queue  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)
+
+### Q9. Minimum adjacent swaps to sort (fill in)
+
+Fill in the blank with a half-width digit. I want to sort the sequence a = [5, 2, 8, 3, 1, 6, 7, 9] in ascending order by exchanging adjacent numbers. In this case, it is necessary to exchange at least ____ times.
+
+Topics: Sorting, Arrays  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)
+
+### Q10. Slow staircase recursion: reason and fix
+
+There is a staircase of n steps and you are on the bottom. You can go up 1, 2 or 3 steps at a time, and you count the step-taking patterns that put you exactly on step n (for n = 4 there are 7). The function below is too slow and does not return for n = 1000. Which states the reason and the fix?
+function rec(i):
+    if i == 0: return 1
+    else:
+        ans = 0
+        if i >= 1: ans += rec(i-1)
+        if i >= 2: ans += rec(i-2)
+        if i >= 3: ans += rec(i-3)
+        return ans
+function solve(n): return rec(n)
+A. The three if statements cause the slowness; replace them with a single for statement.
+B. At n = 1000 an integer overflow causes an infinite loop; use a real data type instead of a multiple-precision integer.
+C. rec(i) always returns the same value, but every call recomputes it three more times; store the value of rec(i) the first time and return the stored value afterwards.
+D. None of the above.
+
+Topics: DP, Recursion/Backtracking  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)
+
+### Q11. Beginners' sum functions (select all that work)
+
+You are teaching beginners A, B and C. They wrote functions that receive an array of integers a and output the sum of all its elements. Choose all functions that work properly (at least one does).
+// Beginner A
+function sum(a) { let answer = 0; for (let i = 0; i < a.length; i++) { answer += a[i]; } return answer; }
+// Beginner B
+function sum(a) { let answer = 0; for (let i = a.length; i > 0; i--) { answer += a[i]; } return answer; }
+// Beginner C
+function sum3(a) { let answer = 0; let i = 0; while (1) { if (i == a.length) { break; } answer += a[i]; i++; } return answer; }
+A. Beginner A's function
+B. Beginner B's function
+C. Beginner C's function
+D. None of them
+
+Topics: Arrays  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)
+
+### Q12. Java containConsecutive: fill the blanks
+
+This Java function receives an array of integers arr and returns true if any neighbouring elements have the same value. For {0, 3, 2, 2, 6, -1, 3} it returns true; for {0, 3, 2, 5, 6, -1, 3} it returns false.
+static boolean containConsecutive(int[] arr) {
+    for (int i = 0; i < [1]; i++) {
+        if ([2]) { return true; }
+    }
+    return false;
+}
+Choose the formulas for blanks [1] and [2].
+A. [1] arr.length - 1, [2] arr[i] == arr[i-1]
+B. [1] arr.length - 1, [2] arr[i] == arr[i+1]
+C. [1] arr.length, [2] arr[i] == arr[i-1]
+D. [1] arr.length, [2] arr[i] == arr[i+1]
+E. All the above are incorrect
+
+Topics: Arrays  
+📎 source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf)
+🔁 also asked at: IIT Delhi (2024-10-09)

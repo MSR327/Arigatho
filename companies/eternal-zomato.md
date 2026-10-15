@@ -1,4 +1,4 @@
-# Eternal OA
+# Eternal (Zomato) OA
 
 ## 2026-10-13 · IIT Dhanbad · FTE
 
@@ -44,57 +44,127 @@ Tables: campaigns(id, campaign_name) and email_campaigns(campaign_id, emails_sen
 Topics: SQL  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
 
-### Q7. SQL: device traffic and cost in May
-
-Tables: devices(id, mac, tariff) and traffic(id, dt, amount). Join on device id. For each MAC address, output the total traffic during May as traffic and the cost (traffic x tariff) rounded to 2 decimal places, one row per MAC. Sample devices: (1, AA:BB:CC:DD:EE:01, 0.50), (2, AA:BB:CC:DD:EE:02, 0.60), (3, AA:BB:CC:DD:EE:03, 0.40). Sample traffic: (1, 2026-05-03, 100), (1, 2026-05-15, 50), (1, 2026-06-02, 200), (2, 2026-05-10, 200), (2, 2026-05-25, 120), (3, 2026-05-18, 150). Expected output: AA:BB:CC:DD:EE:01 150 75.00; AA:BB:CC:DD:EE:02 320 192.00; AA:BB:CC:DD:EE:03 150 60.00.
-
-Topics: SQL  
-📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
-
-### Q8. Python / Pandas section (3 MCQs + 2 coding)
+### Q7. Python / Pandas section (3 MCQs + 2 coding)
 
 3 MCQs, mostly short Python/Pandas code-output or concept questions, covering DataFrame creation/selection, loc/iloc, Boolean filtering, column operations, missing values, groupby/aggregation, transform/filter, data-type conversion, dates, categorical data and pd.cut(). Then 2 relatively easy coding questions on practical tabular-data manipulation: loading data, cleaning/filtering, creating or transforming columns, grouping/aggregation and basic feature engineering. Exact questions were not recalled.
 
 Topics: Other  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
 
-## 2026-10-02 · IIT (ISM) Dhanbad · FTE
+## 2026-10-07 · IIT Madras · FTE
 
-### Q1. Second Most Frequent Element
+### Q1. Cube painted green cut into 1000 cubes
 
-You are given an integer array A of size N. Your task is to find the second most frequent distinct element in the array. The frequency of an element is the number of times it appears in the array.
+A cube is painted green on all surfaces and is cut into 1000 identical cubes. How many of the smaller cubes have three faces painted?
 
-Tie-Breaking Rule: If multiple elements have the same frequency, the greater element should be considered more frequent for ranking purposes. In other words, when comparing two elements:
-- The element with the higher frequency ranks higher.
-- If their frequencies are equal, the greater element ranks higher.
+Topics: Aptitude, Math  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
 
-Return the element that ranks second according to these rules. (Poster's note: simple hash map.)
+### Q2. Expression with correct syntax
 
-Topics: Hashing, Arrays, Sorting  
-📎 source: [msg 2348](../archive/inter-nit/2026-10.jsonl)
+Which expression has the correct syntax? (Options not shown; likely a MySQL syntax question.)
 
-### Q2. Fruit Selection with Discount Coupons
+Topics: SQL  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
 
-You are given N different fruits. Each fruit has:
-- price[i]: the cost of the i-th fruit.
-- nutrition[i]: the nutritional value you gain by eating the i-th fruit.
+### Q3. Newton's Law of Cooling approach
 
-You have M units of money and K discount coupons. You want to maximize the total nutritional value of the fruits you purchase.
+Given a function that models the cooling process of a beverage in a refrigerator over time using Newton's Law of Cooling, which mathematical approach would b... (message truncated)
 
-Coupon Rule:
-- Each fruit can be purchased at most once.
-- If you purchase a fruit without using a coupon, you pay its full price price[i].
-- If you purchase a fruit using one coupon, you pay half its price, i.e. floor(price[i] / 2).
-- Each coupon can be used on at most one fruit.
-- You can choose not to use all your coupons.
-- The total amount spent must not exceed M.
+Topics: Math  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
 
-Return the maximum total nutrition you can obtain. (Poster's note: 3D DP, easy question.)
+### Q4. SQL CASE count of 'Supplementary'
 
-Topics: DP  
-📎 source: [msg 2348](../archive/inter-nit/2026-10.jsonl)
+Consider the table below:
 
-### Q3. Minimum Sum Assignment on a Tree
+Table Student
+ID | SCORE
+1 | 2
+2 | 5
+3 | 5
+4 | 6
+5 | 9
+
+How many tuples does the result of the following SQL query contain where result = 'Supplementary'?
+
+SELECT id,
+       CASE
+           WHEN score<2 THEN 'Fail'
+           WHEN score<5 THEN 'Supplementary'
+           ELSE 'Distinction'
+       END AS result
+FROM student;
+
+Topics: SQL  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
+
+### Q5. MySQL expression causing error (1)
+
+Select the expression that causes a MySQL error. (Options not shown in the message.)
+
+Topics: SQL  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
+
+### Q6. Relative performance using normal distribution
+
+A student received the following marks for exams in 2 subjects. Which subject showed better relative performance? (Assume scores follow a normal distribution.)
+
+Subject | Marks obtained | Mean Score | Standard Deviation
+Maths | 70 | 60 | 15
+Science | 72 | 68 | 6
+
+Topics: Math  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
+
+### Q7. Normalizing flu case data across cities
+
+A data scientist must analyze patient data to identify trends in flu outbreaks across different regions. There is data on the number of flu cases per month in various cities. The data scientist will use a normalized measure of the monthly flu cases to compare the trends across these cities. Which of the following techniques would be most appropriate for normalizing the data across different scales? (Options not shown.)
+
+Topics: Math, Other  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
+
+### Q8. Mean and variance of standard normal
+
+For a standard normal distribution, what are its mean and variance?
+
+Topics: Math  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
+
+### Q9. HACKER arrangements with vowels together
+
+In how many ways can the letters of the word "HACKER" be rearranged such that the vowels always appear together?
+
+Topics: Aptitude, Math  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
+
+### Q10. MySQL expression causing error (2)
+
+Select the expression that causes a MySQL error. (Second question with the same stem; options not shown in the message.)
+
+Topics: SQL  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
+
+### Q11. Circular seating redundant statement
+
+Two physics teachers, one history, one math, chemistry, and one biology teacher sit around a circular table. Given the following statements, which statement is redundant?
+1. The math and biology teachers are not sitting adjacent to each other.
+2. The physics teachers sit next to each other.
+3. The first physics teacher is equally far away from the chemistry and history teacher.
+
+Topics: Aptitude  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
+
+### Q12. Goodness of fit tests and distributions
+
+Choose the correct goodness of fit test with corresponding distributions. (Options not shown.)
+
+Topics: Math  
+📎 source: [msg 3791](../archive/inter-iit/2026-10.jsonl), [msg 3793](../archive/inter-iit/2026-10.jsonl), [msg 3794](../archive/inter-iit/2026-10.jsonl)
+
+## 2026-10-02 · IIT Dhanbad · FTE
+
+### Q1. Minimum Sum Assignment on a Tree
 
 You are given a tree with N nodes. Each node must be assigned a non-negative integer value. Some nodes already have fixed values, while the values of the remaining nodes are unknown.
 
@@ -124,6 +194,7 @@ Given an array, find the element with the second highest frequency.
 
 Topics: Arrays, Hashing  
 📎 source: [msg 1841](../archive/inter-nit/2026-09.jsonl), [msg 1842](../archive/inter-nit/2026-09.jsonl)
+🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-02)
 
 ### Q3. Collision problem
 
@@ -163,7 +234,7 @@ Example 1: A = [1, 2, 4, 6]; Path: 1 -> 2 -> 4
 Topics: Graphs, Math  
 📎 source: [msg 1841](../archive/inter-nit/2026-09.jsonl), [msg 1842](../archive/inter-nit/2026-09.jsonl)
 
-## 2026-09-29 · IIT (ISM) Dhanbad · FTE
+## 2026-09-29 · IIT Dhanbad · FTE
 
 ### Q1. Maximize Total Tastiness of Purchased Fruits (LeetCode 2431)
 
@@ -174,6 +245,7 @@ Constraints: 1 <= n <= 100; 0 <= price[i], tastiness[i], maxAmount <= 1000; 0 <=
 
 Topics: DP, Arrays  
 📎 source: [msg 1928](../archive/inter-nit/2026-09.jsonl), [msg 1932](../archive/inter-nit/2026-09.jsonl), [msg 1934](../archive/inter-nit/2026-09.jsonl)
+🔁 also asked at: IIT Dhanbad (2026-10-02)
 
 ### Q2. Snowflake OA graph problem (LeetCode Discuss 4062769)
 
@@ -182,54 +254,41 @@ Shared only as a link to a LeetCode Discuss post titled 'Snowflake OA graph prob
 Topics: Graphs  
 📎 source: [msg 1928](../archive/inter-nit/2026-09.jsonl), [msg 1932](../archive/inter-nit/2026-09.jsonl), [msg 1934](../archive/inter-nit/2026-09.jsonl)
 
-### Q3. Second most frequent element
-
-Find the second most frequent element in the given array/collection. No more details were given.
-
-Topics: Hashing, Sorting  
-📎 source: [msg 1928](../archive/inter-nit/2026-09.jsonl), [msg 1932](../archive/inter-nit/2026-09.jsonl), [msg 1934](../archive/inter-nit/2026-09.jsonl)
-
-### Q4. Aptitude and statistics MCQs (Product Analyst)
-
-20 aptitude MCQs on topics such as mean, variance, escalator problems, probability, hypothesis testing, p-values, Type I error, and painted-cube problems, plus some core EE (electrical engineering) questions.
-
-Topics: Aptitude, Math  
-📎 source: [msg 1930](../archive/inter-nit/2026-09.jsonl), [msg 1931](../archive/inter-nit/2026-09.jsonl), [msg 1934](../archive/inter-nit/2026-09.jsonl)
-
-### Q5. Python MCQs
+### Q3. Python MCQs
 
 2 MCQs on Python.
 
 Topics: Other  
 📎 source: [msg 1930](../archive/inter-nit/2026-09.jsonl), [msg 1931](../archive/inter-nit/2026-09.jsonl), [msg 1934](../archive/inter-nit/2026-09.jsonl)
 
-### Q6. Key-value store with low/medium/high value levels
+### Q4. Key-value store with low/medium/high value levels
 
 Python coding: process n operations of the form set(key, value) and get(key). Values fall into ranges: 0-10 is 'low', 11-20 is 'medium', and above that is 'high'. The output is true/false based on these levels. Only this partial description was given.
 
 Topics: Hashing, Strings  
 📎 source: [msg 1930](../archive/inter-nit/2026-09.jsonl), [msg 1931](../archive/inter-nit/2026-09.jsonl), [msg 1934](../archive/inter-nit/2026-09.jsonl)
 
-### Q7. Clothes sizes stock check
+### Q5. Clothes sizes stock check
 
 Python coding: you are given the clothes sizes received (stock). For the sizes to be sold on the next date, say whether it is possible to sell them from the stock received. Only this partial description was given.
 
 Topics: Hashing, Arrays  
 📎 source: [msg 1930](../archive/inter-nit/2026-09.jsonl), [msg 1931](../archive/inter-nit/2026-09.jsonl), [msg 1934](../archive/inter-nit/2026-09.jsonl)
 
-### Q8. SQL: basic join
+### Q6. SQL: basic join
 
 An SQL query that needs a normal join between tables. No more details were given.
 
 Topics: SQL  
 📎 source: [msg 1930](../archive/inter-nit/2026-09.jsonl), [msg 1931](../archive/inter-nit/2026-09.jsonl), [msg 1934](../archive/inter-nit/2026-09.jsonl)
 
-### Q9. SQL: join with date extraction for May totals
+### Q7. SQL: join with date extraction for May totals
 
 An SQL query using a join and date extraction: for the month of May, compute the total cost (number of requests * cost) and the total traffic (SUM(traffic)), and similar aggregates.
 
 Topics: SQL  
 📎 source: [msg 1930](../archive/inter-nit/2026-09.jsonl), [msg 1931](../archive/inter-nit/2026-09.jsonl), [msg 1934](../archive/inter-nit/2026-09.jsonl)
+🔁 also asked at: IIT Dhanbad (2026-10-13)
 
 ## 2026-09-28 · IIT BHU · FTE
 
@@ -239,6 +298,7 @@ Eternal Product Analyst OA: 20 aptitude questions covering sets, permutations & 
 
 Topics: Aptitude  
 📎 source: [msg 1665](../archive/inter-nit/2026-09.jsonl)
+🔁 also asked at: IIT Dhanbad (2026-09-29)
 
 ### Q2. SQL questions (one easy, one very hard)
 

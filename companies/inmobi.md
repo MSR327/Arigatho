@@ -1,5 +1,33 @@
 # InMobi OA
 
+## 2026-10-14 · IIT BHU · FTE
+
+### Q1. Check Array Formation Through Concatenation (LeetCode 1640)
+
+LeetCode 1640. You are given an array of distinct integers arr and an array of integer arrays pieces, where the integers in pieces are distinct. Your goal is to form arr by concatenating the arrays in pieces in any order. However, you are not allowed to reorder the integers in each array pieces[i]. Return true if it is possible to form arr from pieces, otherwise return false.
+Example 1: arr = [15,88], pieces = [[88],[15]] -> true.
+Example 2: arr = [49,18,16], pieces = [[16,18,49]] -> false.
+Example 3: arr = [91,4,64,78], pieces = [[78],[4,64],[91]] -> true.
+Constraints: 1 <= pieces.length <= arr.length <= 100; sum(pieces[i].length) == arr.length; 1 <= arr[i], pieces[i][j] <= 100; integers in arr are distinct; integers in pieces are distinct.
+(Platform: DoSelect, 3 DSA problems in 1 hr 30 min, LeetCode medium-hard.)
+
+Topics: Arrays, Hashing  
+📎 source: [msg 6654](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. Recursion + backtracking problem
+
+One of the 3 DSA problems was a recursion + backtracking problem (exact statement not shared). Platform: DoSelect; difficulty LeetCode medium-hard; 1 hr 30 min total.
+
+Topics: Recursion/Backtracking  
+📎 source: [msg 6654](../archive/inter-nit/2026-10.jsonl)
+
+### Q3. Very easy problem with unusual input format
+
+One very easy problem (statement not shared). The catch was the input: the array size n was not given, so the array elements had to be read until end of input.
+
+Topics: Arrays  
+📎 source: [msg 6654](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-08 · IIT BHU · FTE
 
 ### Q1. Trionic Array II (LeetCode 3640)

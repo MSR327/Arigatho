@@ -1,36 +1,30 @@
 # Harness OA
 
-## 2026-10-13 · NIT Karnataka · FTE
+## 2026-10-14 · IIT Guwahati · FTE
 
-### Q1. Maximum Memory Collection with Row Limit
+### Q1. Count Valid Binary Strings
 
-You are given an n × m integer matrix memory, where memory[i][j] is the amount of memory that can be collected from cell (i, j). You start at the top-left cell (0, 0) and want to reach the bottom-right cell (n - 1, m - 1). At every cell you must do exactly one of these: (1) Read the current cell and collect its memory value, or (2) Skip the current cell and collect nothing. Then you must move one cell right or one cell down, staying inside the matrix. Constraint: in every row you may read at most k cells. Return the maximum total memory that can be collected.
+You are given four integers: minLength, maxLength, oneGroup, and zeroGroup. You need to construct binary strings (strings with only '0' and '1') starting from an empty string. At each step, you can perform either of the following operations:
+• Append exactly zeroGroup consecutive '0's to the end.
+• Append exactly oneGroup consecutive '1's to the end.
+A constructed string is considered valid if its total length falls within the inclusive range [minLength, maxLength]. Calculate the total number of different valid binary strings that can be constructed. Since the answer can be extremely large, return it modulo 10^9 + 7.
+Input Format: Four space-separated integers: minLength, maxLength, oneGroup, and zeroGroup.
+Constraints:
+• 1 ≤ minLength ≤ maxLength ≤ 10^5
+• 1 ≤ oneGroup, zeroGroup ≤ 2000
+Example 1:
+Input: minLength = 3, maxLength = 3, oneGroup = 1, zeroGroup = 1
+Output: 8
+Explanation: We can append a single '1' or '0' at each step. The 8 valid strings of exactly length 3 are: "000", "001", "010", "011", "100", "101", "110", "111".
+Example 2:
+Input: minLength = 2, maxLength = 3, oneGroup = 2, zeroGroup = 1
+Output: 5
+Explanation: We can append "11" or "0" at each step. Valid strings of length 2 and 3 are: Length 2: "00", "11"; Length 3: "000", "110", "011". Total valid strings = 2 + 3 = 5.
+(Shared as a question from a different set of the Harness IITG SDE FT OA.)
 
-Example 1: memory = [[4,5,9],[1,2,4],[6,5,2]], k = 2 → Output: 21. (Path (0,0)→(0,1)→(1,1)→(1,2)→(2,2) reading 4,5,2,4,2 gives 17; path (0,0)→(1,0)→(2,0)→(2,1)→(2,2) gives 4+6+5+2 = 17; an optimal strategy gives 21 while never reading more than 2 cells in any row.)
-Example 2: memory = [[5,1],[3,7]], k = 1 → Output: 12 (read 5 from the first row and 7 from the second row).
-
-Function signature: long long maximumMemory(vector<vector<int>>& memory, int k)
-Constraints: 1 <= n, m <= 200; 1 <= memory[i][j] <= 10^9; 1 <= k <= m.
-Expected approach: dp(i, j, cnt), where cnt is the number of cells already read in the current row and resets to 0 when moving down. Each cell has 4 choices (read/skip × right/down). Time and space O(n·m·k).
-(Reconstructed by the poster from a whiteboard description, so it is approximate.)
-
-Topics: DP, Arrays  
-📎 source: [msg 6114](../archive/inter-nit/2026-10.jsonl), [Harness_SDE_NIT_Karanataka (3).pdf](../archive/files/6117-Harness_SDE_NIT_Karanataka_3_.pdf)
-
-### Q2. Maximum Weight Tree After Degree Constraints
-
-You are given an undirected weighted tree of n servers numbered 0 to n - 1, given as arrays g_from, g_to and g_weight: g_from[i] and g_to[i] are the endpoints of an edge and g_weight[i] is its weight. You are also given an integer k. You may remove any number of edges. After the removals, every server must have at most k incident edges. Return the maximum possible sum of the weights of the remaining edges.
-
-Example 1: n = 5, g_from = [0,0,0,2], g_to = [1,2,3,4], g_weight = [10,20,5,15], k = 2 → Output: 45. Server 0 has degree 3, which is more than k, so remove edge (0,3) with weight 5. The remaining weight is 10 + 20 + 15 = 45.
-Example 2: n = 4, g_from = [0,1,2], g_to = [1,2,3], g_weight = [4,7,5], k = 2 → Output: 16 (no edge needs to be removed).
-Example 3: n = 6, g_from = [0,0,0,1,2], g_to = [1,2,3,4,5], g_weight = [8,6,10,5,9], k = 1 → Output: 19 (keep edges 0-3 (10) and 2-5 (9)).
-
-Function signature: long long maximumWeight(int n, vector<int>& g_from, vector<int>& g_to, vector<int>& g_weight, int k)
-Constraints: 2 <= n <= 2×10^5; g_from.length == g_to.length == g_weight.length == n - 1; 0 <= g_from[i], g_to[i] < n; 1 <= g_weight[i] <= 10^9; 1 <= k <= n - 1; the edges form a valid tree.
-Expected approach: root the tree and run a post-order DFS tree DP with two states (dp0/dp1: whether the edge to the parent is kept). At each node, keep the best child gains after sorting them. O(N log N).
-
-Topics: Trees, DP, Greedy  
-📎 source: [msg 6114](../archive/inter-nit/2026-10.jsonl), [Harness_SDE_NIT_Karanataka (3).pdf](../archive/files/6117-Harness_SDE_NIT_Karanataka_3_.pdf)
+Topics: DP  
+📎 source: [msg 6408](../archive/inter-iit/2026-10.jsonl)
+🔁 also asked at: IIT Hyderabad (2026-10-14)
 
 ## 2026-10-13 · IIT Guwahati · FTE
 
@@ -46,6 +40,7 @@ Constraints: 1 ≤ n, m ≤ 100; 1 ≤ k ≤ 100; grid[i][j] is 0 or 1.
 
 Topics: Graphs, Arrays  
 📎 source: [Harness_IITG_OA_Questions.pdf](../archive/files/6318-Harness_IITG_OA_Questions.pdf), [msg 6324](../archive/inter-nit/2026-10.jsonl), [Harness_IITG_OA_Questions.pdf](../archive/files/6332-Harness_IITG_OA_Questions.pdf)
+🔁 also asked at: IIT Guwahati ×3 (last 2026-10-15)
 
 ### Q2. Tower Placement on a Tree
 
@@ -59,6 +54,7 @@ Constraints: not recorded (likely bounds on n, and possibly a modulo such as 10^
 
 Topics: Trees, DP  
 📎 source: [Harness_IITG_OA_Questions.pdf](../archive/files/6318-Harness_IITG_OA_Questions.pdf), [msg 6324](../archive/inter-nit/2026-10.jsonl), [Harness_IITG_OA_Questions.pdf](../archive/files/6332-Harness_IITG_OA_Questions.pdf)
+🔁 also asked at: IIT Guwahati ×3 (last 2026-10-15)
 
 ### Q3. 10 MCQs on Backend, Testing and SQL
 
@@ -66,93 +62,6 @@ About 10 multiple-choice questions on backend development (REST APIs), software 
 
 Topics: OS/DBMS/CN MCQ, SQL  
 📎 source: [Harness_IITG_OA_Questions.pdf](../archive/files/6318-Harness_IITG_OA_Questions.pdf), [msg 6324](../archive/inter-nit/2026-10.jsonl), [Harness_IITG_OA_Questions.pdf](../archive/files/6332-Harness_IITG_OA_Questions.pdf)
-
-## 2026-10-12 · NIT Surathkal · FTE
-
-### Q1. Maximum Memory Collection with Row Limit
-
-(Reconstructed from a student's description of the Harness SDE OA at NIT Karnataka.) You are given an n x m integer matrix memory, where memory[i][j] is the amount of memory that can be collected from cell (i, j). You start at the top-left cell (0, 0) and want to reach the bottom-right cell (n-1, m-1). At every cell you do exactly one of these: (1) Read the cell and collect its memory value, or (2) Skip the cell and collect nothing. Then you must move one cell right or one cell down, staying inside the matrix. Constraint: in each row you may read at most k cells. Return the maximum total memory you can collect.
-
-Example 1: memory = [[4,5,9],[1,2,4],[6,5,2]], k = 2 -> Output: 21 (an optimal strategy gives 21 and never reads more than 2 cells in any row).
-Example 2: memory = [[5,1],[3,7]], k = 1 -> Output: 12 (read 5 from the first row and 7 from the second row).
-
-Function signature: long long maximumMemory(vector<vector<int>>& memory, int k);
-Constraints: 1 <= n, m <= 200; 1 <= memory[i][j] <= 10^9; 1 <= k <= m.
-Hint given: DP over state dp(i, j, cnt), where cnt is the number of cells already read in the current row and resets when you move down. Four choices at each cell: read+right, skip+right, read+down, skip+down. O(n*m*k) time.
-
-Topics: DP, Arrays  
-📎 source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/5533-Harness_SDE_NIT_Karanataka.pdf)
-
-### Q2. Maximum Weight Tree After Degree Constraints
-
-(Reconstructed from a student's description of the Harness OA.) You are given an undirected weighted tree with n servers numbered 0 to n-1, given as arrays g_from, g_to, g_weight: edge i connects g_from[i] and g_to[i] and has weight g_weight[i]. You are also given an integer k. You may remove any number of edges. After the removals, every server must have at most k incident edges. Return the maximum possible sum of the weights of the remaining edges.
-
-Example 1: n = 5, g_from = [0,0,0,2], g_to = [1,2,3,4], g_weight = [10,20,5,15], k = 2 -> Output: 45 (server 0 has degree 3, so remove edge (0,3) of weight 5; 10+20+15 = 45).
-Example 2: n = 4, g_from = [0,1,2], g_to = [1,2,3], g_weight = [4,7,5], k = 2 -> Output: 16 (no edge needs to be removed).
-Example 3: n = 6, g_from = [0,0,0,1,2], g_to = [1,2,3,4,5], g_weight = [8,6,10,5,9], k = 1 -> Output: 19 (keep edges 0-3 (10) and 2-5 (9)).
-
-Function signature: long long maximumWeight(int n, vector<int>& g_from, vector<int>& g_to, vector<int>& g_weight, int k);
-Constraints: 2 <= n <= 2*10^5; g_from.length == g_to.length == g_weight.length == n-1; 0 <= g_from[i], g_to[i] < n; 1 <= g_weight[i] <= 10^9; 1 <= k <= n-1; the edges form a valid tree.
-Expected approach: O(N log N) tree DP. Root the tree, run a post-order DFS with two states (dp0/dp1), and pick which child edges to keep by sorting the gains.
-
-Topics: Trees, DP, Greedy  
-📎 source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/5533-Harness_SDE_NIT_Karanataka.pdf)
-
-### Q3. Maximum Memory Collection with Row Limit
-
-(Reconstructed by AI from a description of the OA question.) You are given an n × m integer matrix memory, where memory[i][j] is the amount of memory that can be collected from cell (i, j). You start at the top-left cell (0, 0) and want to reach the bottom-right cell (n-1, m-1). At every cell you do exactly one of: (1) Read the current cell and collect its memory value, or (2) Skip the current cell and collect nothing. Then you must move one cell right or one cell down, staying inside the matrix. Constraint: in every row you may read at most k cells. Return the maximum total memory that can be collected.
-Example 1: memory = [[4,5,9],[1,2,4],[6,5,2]], k = 2 → Output 21 (never reading more than 2 cells from any row).
-Example 2: memory = [[5,1],[3,7]], k = 1 → Output 12 (read 5 from the first row and 7 from the second).
-Function signature: long long maximumMemory(vector<vector<int>>& memory, int k).
-Constraints: 1 <= n, m <= 200; 1 <= memory[i][j] <= 10^9; 1 <= k <= m.
-Intended approach: dp(i, j, cnt), where cnt = cells read so far in the current row (it resets when moving down). Transitions are read/skip × right/down. O(n·m·k).
-
-Topics: DP, Arrays  
-📎 source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/5808-Harness_SDE_NIT_Karanataka.pdf)
-
-### Q4. Maximum Weight Tree After Degree Constraints
-
-(Reconstructed by AI from a description of the OA question.) You are given an undirected weighted tree of n servers numbered 0 to n-1, given as arrays g_from, g_to, g_weight: edge i connects g_from[i] and g_to[i] with weight g_weight[i]. You are also given an integer k. You may remove any number of edges so that afterwards every server has at most k incident edges. Return the maximum possible sum of the weights of the remaining edges.
-Example 1: n = 5, g_from = [0,0,0,2], g_to = [1,2,3,4], g_weight = [10,20,5,15], k = 2 → Output 45 (server 0 has degree 3, so remove edge (0,3) of weight 5; 10+20+15 = 45).
-Example 2: n = 4, g_from = [0,1,2], g_to = [1,2,3], g_weight = [4,7,5], k = 2 → Output 16 (no edge needs removing).
-Example 3: n = 6, g_from = [0,0,0,1,2], g_to = [1,2,3,4,5], g_weight = [8,6,10,5,9], k = 1 → Output 19 (keep 0-3 (10) and 2-5 (9)).
-Function signature: long long maximumWeight(int n, vector<int>& g_from, vector<int>& g_to, vector<int>& g_weight, int k).
-Constraints: 2 <= n <= 2×10^5; g_from.length == g_to.length == g_weight.length == n-1; 0 <= g_from[i], g_to[i] < n; 1 <= g_weight[i] <= 10^9; 1 <= k <= n-1; the edges form a valid tree.
-Intended approach: root the tree and run a post-order DFS tree DP with two states (dp0/dp1, i.e. whether the edge to the parent is kept), keeping the best k child gains after sorting. O(N log N).
-
-Topics: Trees, DP, Greedy  
-📎 source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/5808-Harness_SDE_NIT_Karanataka.pdf)
-
-## 2026-10-11 · NIT Surathkal · FTE
-
-### Q1. Maximum Memory Collection with Row Limit
-
-You are given an n x m integer matrix memory, where memory[i][j] is the amount of memory that can be collected from cell (i, j). You start at the top-left cell (0, 0) and want to reach the bottom-right cell (n-1, m-1). At every cell you do exactly one of these: (1) Read the cell and collect its memory value, or (2) Skip the cell and collect nothing. Then you must move one cell right or one cell down, staying inside the matrix. Constraint: in each row you may read at most k cells. Return the maximum total memory that can be collected.
-
-Example 1: memory = [[4,5,9],[1,2,4],[6,5,2]], k = 2 -> Output: 21 (the path (0,0)->(0,1)->(1,1)->(1,2)->(2,2) collects 17, and a better total of 21 exists without reading more than 2 cells in any row).
-Example 2: memory = [[5,1],[3,7]], k = 1 -> Output: 12 (read 5 from the first row and 7 from the second row).
-
-Function signature: long long maximumMemory(vector<vector<int>>& memory, int k)
-Constraints: 1 <= n, m <= 200; 1 <= memory[i][j] <= 10^9; 1 <= k <= m.
-(The question was reconstructed from a student's memory. Intended approach: dp(i, j, cnt), where cnt is the number of cells read in the current row and resets when moving down. Time O(nmk).)
-
-Topics: DP, Arrays  
-📎 source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/5416-Harness_SDE_NIT_Karanataka.pdf)
-
-### Q2. Maximum Weight Tree After Degree Constraints
-
-You are given an undirected weighted tree with n servers numbered 0 to n-1, given as arrays g_from, g_to and g_weight: there is an edge between g_from[i] and g_to[i] with weight g_weight[i]. You are also given an integer k. You may remove any number of edges so that every server has at most k incident edges. Return the maximum possible sum of the weights of the remaining edges.
-
-Example 1: n = 5, g_from = [0,0,0,2], g_to = [1,2,3,4], g_weight = [10,20,5,15], k = 2 -> Output: 45 (server 0 has degree 3, so remove edge (0,3) of weight 5; 10 + 20 + 15 = 45).
-Example 2: n = 4, g_from = [0,1,2], g_to = [1,2,3], g_weight = [4,7,5], k = 2 -> Output: 16 (no edge needs to be removed).
-Example 3: n = 6, g_from = [0,0,0,1,2], g_to = [1,2,3,4,5], g_weight = [8,6,10,5,9], k = 1 -> Output: 19 (keep edges 0-3 (10) and 2-5 (9)).
-
-Function signature: long long maximumWeight(int n, vector<int>& g_from, vector<int>& g_to, vector<int>& g_weight, int k)
-Constraints: 2 <= n <= 2*10^5; g_from.length == g_to.length == g_weight.length == n-1; 0 <= g_from[i], g_to[i] < n; 1 <= g_weight[i] <= 10^9; 1 <= k <= n-1; the edges form a valid tree.
-(Reconstructed version. Expected approach: tree DP with a post-order DFS and two states (dp0/dp1), sorting child gains to pick the best edges to keep, O(N log N).)
-
-Topics: Trees, DP, Greedy  
-📎 source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/5416-Harness_SDE_NIT_Karanataka.pdf)
 
 ## 2026-10-10 · NIT Surathkal · FTE
 
@@ -167,6 +76,7 @@ Expected approach: dp(i, j, cnt), where cnt = cells read so far in the current r
 
 Topics: DP, Arrays  
 📎 source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/4815-Harness_SDE_NIT_Karanataka.pdf)
+🔁 also asked at: NIT Surathkal ×5 (last 2026-10-14)
 
 ### Q2. Maximum Weight Tree After Degree Constraints
 
@@ -180,6 +90,7 @@ Expected approach: root the tree, post-order DFS, tree DP with two states (dp0/d
 
 Topics: Trees, DP, Greedy  
 📎 source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/4815-Harness_SDE_NIT_Karanataka.pdf)
+🔁 also asked at: NIT Surathkal ×5 (last 2026-10-14)
 
 ## 2026-10-07 · MNNIT Allahabad · FTE
 
