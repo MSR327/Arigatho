@@ -1,0 +1,74 @@
+"""Paths, settings and small helpers shared by every stage."""
+
+import json
+import re
+import subprocess
+from datetime import datetime
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+ARCHIVE = ROOT / "archive"
+FILES = ARCHIVE / "files"
+DATA = ROOT / "data"
+QUESTIONS = DATA / "questions.jsonl"
+STATE = ROOT / "state.json"
+LOGS = ROOT / "logs"
+PROFILE = ROOT / "chrome_profile"
+PROMPTS = ROOT / "prompts"
+
+BASE_URL = "https://www.oahelper.in"
+GROUPS = {
+    "inter-iit": "Placement '26 OA All IIT/NIT/IIIT",
+    "inter-nit": "Placement '27 OA All IIT/NIT/IIIT",
+}
+BACKFILL_FROM = "2026-07-20"
+REQUEST_GAP = 1.0  # seconds between requests to oahelper.in
+BATCH_SIZE = 40  # messages per claude -p call
+KEYCHAIN_SERVICE = "oa-tracker"
+
+TOPICS = [
+    "Arrays", "Strings", "Hashing", "Two Pointers", "Sliding Window", "Binary Search",
+    "Sorting", "Greedy", "DP", "Graphs", "Trees", "Heaps", "Stack/Queue", "Linked List",
+    "Math", "Bit Manipulation", "Recursion/Backtracking", "SQL", "OS/DBMS/CN MCQ",
+    "Aptitude", "Other",
+]
+
+
+def log(msg):
+    line = f"[{datetime.now():%Y-%m-%d %H:%M:%S}] {msg}"
+    print(line, flush=True)
+    LOGS.mkdir(exist_ok=True)
+    with (LOGS / "run.log").open("a") as f:
+        f.write(line + "\n")
+
+
+def notify(msg):
+    safe = msg.replace('"', "'")
+    subprocess.run(["osascript", "-e", f'display notification "{safe}" with title "OA tracker"'],
+                   check=False)
+
+
+def load_creds(service=KEYCHAIN_SERVICE):
+    r = subprocess.run(["security", "find-generic-password", "-s", service, "-g"],
+                       capture_output=True, text=True)
+    acct = re.search(r'"acct"<blob>="([^"]*)"', r.stdout)
+    pwd = re.search(r'^password: "(.*)"$', r.stderr, re.M)
+    return (acct.group(1), pwd.group(1)) if r.returncode == 0 and acct and pwd else None
+
+
+def save_creds(user, pwd, service=KEYCHAIN_SERVICE):
+    subprocess.run(["security", "add-generic-password", "-U", "-s", service, "-a", user, "-w", pwd],
+                   capture_output=True, check=False)
+
+
+def read_jsonl(path):
+    if not path.exists():
+        return []
+    return [json.loads(line) for line in path.read_text().splitlines() if line.strip()]
+
+
+def append_jsonl(path, rows):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("a") as f:
+        for row in rows:
+            f.write(json.dumps(row, ensure_ascii=False) + "\n")
