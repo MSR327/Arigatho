@@ -7,6 +7,17 @@ mkdir -p logs
 exec >> logs/daily.log 2>&1
 echo "=== $(date)"
 
+# One run at a time: a long backfill sort may still be going when the next run starts.
+LOCK=logs/run.lock
+if ! mkdir $LOCK 2>/dev/null; then
+  if kill -0 "$(cat $LOCK/pid 2>/dev/null)" 2>/dev/null; then
+    echo "previous run still going, skipping"; exit 0
+  fi
+  rm -rf $LOCK && mkdir $LOCK
+fi
+echo $$ > $LOCK/pid
+trap 'rm -rf $LOCK' EXIT
+
 /usr/bin/caffeinate -i $PY -m oa.fetch --headless || exit 1
 /usr/bin/caffeinate -i $PY -m oa.sort
 $PY -m oa.build
