@@ -26,6 +26,17 @@ def _sources(row, messages, prefix):
     return ", ".join(links) or "-"
 
 
+def _also(reposts):
+    by_college = defaultdict(list)
+    for x in reposts:
+        by_college[x["college"]].append(x["date"])
+    parts = []
+    for college, dates in sorted(by_college.items(), key=lambda kv: max(kv[1])):
+        parts.append(f"{college} ({dates[0]})" if len(dates) == 1
+                     else f"{college} ×{len(dates)} (last {max(dates)})")
+    return ", ".join(parts)
+
+
 def _company_page(company, rows, dups, messages):
     out = [f"# {company} OA", ""]
     groups = defaultdict(list)
@@ -38,8 +49,7 @@ def _company_page(company, rows, dups, messages):
                     f"Topics: {', '.join(r['topics'])}  ", f"📎 source: {_sources(r, messages, '../')}"]
             seen = dups.get(r["qid"], [])
             if seen:
-                also = ", ".join(f"{x['college']} ({x['date']})" for x in sorted(seen, key=lambda x: x["date"]))
-                out.append(f"🔁 also asked at: {also}")
+                out.append(f"🔁 also asked at: {_also(seen)}")
             out.append("")
     return "\n".join(out)
 
