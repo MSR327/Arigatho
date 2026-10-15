@@ -9,7 +9,7 @@ from collections import Counter
 from datetime import date
 
 from oa.common import (ARCHIVE, BATCH_SIZE, LOGS, PROMPTS, QUESTIONS, ROOT, STATE, TOPICS,
-                       append_jsonl, log, notify, read_jsonl)
+                       append_jsonl, log, notify, read_jsonl, short_error)
 from oa.store import Archive, attachment_relpath, load_state, save_state
 
 SORT_SCHEMA = {
@@ -152,7 +152,7 @@ def sort_pending(archive, state, runner=run_claude, batch_size=BATCH_SIZE, limit
             except UsageLimit:
                 raise
             except (ClaudeError, ValueError, KeyError, TypeError) as e:
-                log(f"batch {min(ids)}-{max(ids)} attempt {attempt} failed: {e!r}")
+                log(f"batch {min(ids)}-{max(ids)} attempt {attempt} failed: {short_error(e)}")
         if rows is None:
             append_jsonl(LOGS / "failed_batches.jsonl", [{"ids": sorted(ids)}])
             continue
@@ -196,7 +196,7 @@ def dedupe(new_rows, all_rows, runner=run_claude):
         except UsageLimit:
             raise
         except (ClaudeError, KeyError, TypeError) as e:
-            log(f"dedupe {company} failed: {e!r}")
+            log(f"dedupe {company} failed: {short_error(e)}")
             continue
         valid = {r["qid"] for r in same}
         for m in matches:

@@ -9,7 +9,7 @@ import time
 from playwright.sync_api import sync_playwright
 
 from oa.common import (ARCHIVE, BACKFILL_FROM, BASE_URL, GROUPS, PROFILE, REQUEST_GAP, ROOT,
-                       STATE, load_creds, log, notify, save_creds)
+                       STATE, load_creds, log, notify, save_creds, short_error)
 from oa.feed import parse_message
 from oa.store import Archive, attachment_relpath, load_state, save_state
 
@@ -70,7 +70,7 @@ def download_attachments(client, records, root, sleep=time.sleep, max_bytes=25_0
         try:
             data = client.attachment(rec["id"])
         except Exception as e:
-            log(f"attachment {rec['id']} failed: {e!r}")
+            log(f"attachment {rec['id']} failed: {short_error(e)}")
             continue
         finally:
             sleep(REQUEST_GAP)
@@ -116,7 +116,7 @@ class FeedClient:
         return self._json(params)
 
     def attachment(self, message_id):
-        r = self.ctx.request.get(f"{API}/attachment",
+        r = self.ctx.request.get(f"{API}/attachment", timeout=180_000,  # big PDFs stream slowly
                                  params={"message_id": message_id, "download": 1})
         if r.status != 200:
             raise RuntimeError(f"attachment {message_id}: HTTP {r.status}")
@@ -205,8 +205,8 @@ def main(argv=None):
             log(f"fetch done: {total} new messages")
             return 0
         except Exception as e:
-            log(f"fetch failed: {e!r}")
-            notify(f"Fetch failed: {str(e)[:80]}")
+            log(f"fetch failed: {short_error(e)}")
+            notify(f"Fetch failed: {short_error(e)[:80]}")
             return 1
         finally:
             ctx.close()

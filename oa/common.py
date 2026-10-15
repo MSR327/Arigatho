@@ -42,6 +42,12 @@ def log(msg):
         f.write(line + "\n")
 
 
+def short_error(e):
+    """One-line error text. Playwright errors append a call log with request cookies."""
+    first = (str(e).splitlines() or [""])[0]
+    return f"{type(e).__name__}: {first[:160]}"
+
+
 def notify(msg):
     safe = msg.replace('"', "'")
     subprocess.run(["osascript", "-e", f'display notification "{safe}" with title "OA tracker"'],
