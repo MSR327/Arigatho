@@ -18,11 +18,12 @@ each linking back to its original message or file.
 
 ## Scope
 
-**Groups tracked** (mixed groups only; per-company groups are out of scope):
-- Placement '26 OA All IIT/NIT/IIIT
-- Placement '27 OA All IIT/NIT/IIIT
-- 2027 Batch Intern
-- 2028 Batch Intern
+**Groups tracked** (mixed placement groups only; per-company and intern groups
+are out of scope because the user is preparing for placements):
+- Placement '26 OA All IIT/NIT/IIIT (slug `inter-iit`)
+- Placement '27 OA All IIT/NIT/IIIT (slug `inter-nit`)
+
+More groups can be added later by slug in config (e.g. `campus-iit-kharagpur-placements`).
 
 **History:** messages from 2026-07-20 onward (`BACKFILL_FROM` in config).
 
@@ -55,20 +56,28 @@ posts a macOS notification summarising what was new.
 
 - Uses a persistent Chrome profile (`chrome_profile/`, git-ignored) driven by
   Playwright with the installed Chrome (`channel="chrome"`).
-- Login: email + password. The first run is a manual login. The bot captures the
+- Login: college email + password via `/login`, "Sign in with college email"
+  (POST `/api/auth/college-login`, which also sends a page-generated device id, so
+  login always goes through the page). The first run is a manual login. The bot captures the
   credentials from the login request and stores them in the macOS Keychain
   (service `oa-tracker`), the same as the iMediX booking bot. Later runs log in
   automatically, and only if the stored session has expired.
-- Reads messages through the same chat feed the page uses
-  (`/api/proxy/group-chat/...`), requested from inside the logged-in browser
-  context. The exact endpoints and response shape are confirmed in a recon step
-  before this stage is written.
+- Reads messages through the same chat feed the page uses, with the browser
+  context's cookies (confirmed by recon on 2026-10-15):
+  - `GET /api/proxy/group-chat?action=my_groups` returns slug-to-group-id
+  - `GET /api/proxy/group-chat?action=messages&group_id=G&limit=50` returns the
+    latest messages, plus `before=<id>` for older ones (`has_more`) and
+    `since=<id>` for newer ones (`has_newer`)
+  - `GET /api/proxy/group-chat/attachment?message_id=M&download=1` returns the file
 - Rate: at most about 1 request per second, sequential.
 - Incremental: `state.json` stores a per-group cursor (last message id/time
   archived). First run pages back to `BACKFILL_FROM`.
 - Each message is stored as one JSON line:
-  `{id, group, sent_at, text, attachments: [{url, file, type}]}`.
-  **Sender names and ids are not stored.**
+  `{id, group, sent_at, text, author_tag, reply_to, attachment, deleted}`.
+  **Sender names and user ids are not stored.** Only the college tag at the end of
+  the pseudonymous author name is kept (`Ray0ft6_IITD` becomes `IITD`), because it
+  identifies the campus. Replies keep the replied-to text and its college tag,
+  because the company is often named only in the question being answered.
 - Attachments (images, PDFs) are downloaded to `archive/files/`.
 - A group's cursor advances only after its new messages and files are written.
 
@@ -165,5 +174,4 @@ oa-tracker/
 
 ## Open items (resolved during implementation, not design)
 
-- Exact feed endpoints, pagination and attachment URL format: from recon.
-- GitHub remote URL: the user creates the private repo and provides it.
+- GitHub remote: https://github.com/MSR327/Arigatho (private).
