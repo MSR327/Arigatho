@@ -1,0 +1,27 @@
+# Strings
+
+| Date | Company | College | Question |
+|---|---|---|---|
+| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | Word rearrangement with a priority queue |
+| 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | Edit Distance |
+| 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | Caesar cipher variant |
+| 2026-10-13 | [Meltwater](../companies/meltwater.md) | VIT Vellore | The Bounded Substream |
+| 2026-10-13 | [MyGate](../companies/mygate.md) | IIT Delhi | Longest Substring Without Repeating Characters (LeetCode 3) |
+| 2026-10-12 | [Accenture](../companies/accenture.md) | IIT Dhanbad | Morse Code Dictionary Decode (Set 1) |
+| 2026-10-12 | [NatWest](../companies/natwest.md) | IIT Guwahati | Simple string problem |
+| 2026-10-12 | [Accenture](../companies/accenture.md) | IIT Dhanbad | Morse Code Dictionary (Set 1) |
+| 2026-10-11 | [Accenture](../companies/accenture.md) | IIT Dhanbad | Morse Code Dictionary (Set 1) |
+| 2026-10-11 | [NatWest](../companies/natwest.md) | Delhi Technological University | Non-Overlapping Substring Occurrences |
+| 2026-10-10 | [Spotnana](../companies/spotnana.md) | IIT Delhi | Subsequence With the Minimum Score |
+| 2026-10-10 | [Finmechanics](../companies/finmechanics.md) | IIT Kanpur | Decode String |
+| 2026-10-09 | [Warner Music Group](../companies/warner-music-group.md) | IIT (ISM) Dhanbad | Top track from score logs |
+| 2026-10-09 | [Warner Music Group](../companies/warner-music-group.md) | IIT Dhanbad | Top track from 'TrackName@score' logs |
+| 2026-10-07 | [Harness](../companies/harness.md) | MNNIT Allahabad | Longest Substring Without Repeating Characters |
+| 2026-10-07 | [Harness](../companies/harness.md) | MNNIT Allahabad | First Non-Repeating Character |
+| 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | Python string slicing beyond length |
+| 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | Reverse string keeping spaces + word count |
+| 2026-10-02 | [Squarepoint](../companies/squarepoint.md) | IIT Kanpur | Search Suggestions System |
+| 2026-09-29 | [Eternal](../companies/eternal.md) | IIT (ISM) Dhanbad | Key-value store with low/medium/high value levels |
+| 2026-09-24 | [Accenture](../companies/accenture.md) | IIT (ISM) Dhanbad | Reduce number to a single digit by repeated digit sums |
+| 2026-09-24 | [Capgemini](../companies/capgemini.md) | NIT Trichy | Cost of moving all 1s to the end |
+| 2026-09-22 | [Accenture](../companies/accenture.md) | IIT Dhanbad | Reduce number to single digit by summing digits |
