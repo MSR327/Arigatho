@@ -90,7 +90,7 @@ def run_claude(prompt, schema):
         raise (UsageLimit if re.search(r"limit", msg, re.I) else ClaudeError)(msg)
     if out.get("is_error") or out.get("structured_output") is None:
         msg = str(out.get("result") or out.get("subtype"))[:500]
-        raise (UsageLimit if re.search(r"usage limit|rate limit|limit reached", msg, re.I)
+        raise (UsageLimit if re.search(r"usage limit|session limit|rate limit|limit reached|hit your .*limit", msg, re.I)
                else ClaudeError)(msg)
     return out["structured_output"]
 
