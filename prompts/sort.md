@@ -15,7 +15,9 @@ For each share, return:
   Use "Unknown" if there is no clue.
 - date: YYYY-MM-DD the OA was held if the message says so ("yesterday", "on 12th"),
   otherwise the message date.
-- role: "intern", "fte" (full-time / placement) or "unknown".
+- role: "intern" if the message or the replied-to text mentions an internship (intern, SDE
+  intern, summer intern); otherwise "fte" (full-time), because these are placement groups.
+  Use "unknown" only for prep material not tied to one hiring drive.
 - source_ids: ids of the messages this share came from.
 - questions: one entry per question with a short title, the full question text (transcribed
   from attachments when needed; include constraints and examples if visible), and 1-3 topics
