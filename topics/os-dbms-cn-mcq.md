@@ -2,7 +2,12 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Deadlock Detection (MCQ) |
+| 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Race Condition Final Values (MCQ) |
+| 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | OOP Concept (MCQ) |
+| 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Subnetting Same Subnet Host (MCQ) |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | MCQs on CN, DBMS, OS and Linux |
+| 2026-10-15 | [Cashfree](../companies/cashfree.md) | Unknown | OA pattern: CS fundamentals MCQs + one Python and one Java question |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | Priority scheduling statements |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | Smallest-hole allocation technique |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | I/O controller OS function |

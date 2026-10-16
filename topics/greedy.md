@@ -3,6 +3,10 @@
 | Date | Company | College | Question |
 |---|---|---|---|
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Minimum Fuel Cost to Report to the Capital |
+| 2026-10-15 | [Flipkart](../companies/flipkart.md) | MNNIT Allahabad | Partition Seller Reviews into K Batches (Minimize Max Batch Sum) |
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | Palindrome with Question Marks |
+| 2026-10-15 | [Harness](../companies/harness.md) | IIT Roorkee | Minimum Days to Train and Execute Algorithms |
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | Max Sum of Two Cells Not in Same Row/Column |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | Minimum moves to make a equal to b (±1..10 per move) |
 | 2026-10-13 | [Meltwater](../companies/meltwater.md) | VIT Vellore | Minimum Number of Taps to Open to Water a Garden (LeetCode 1326) |
 | 2026-10-11 | [MyGate](../companies/mygate.md) | IIT Guwahati | Minimum Replacements to Sort the Array |

@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Subarrays with GCD Equal to G |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Fruit Into Baskets |
 | 2026-10-14 | [InMobi](../companies/inmobi.md) | IIT BHU | Check Array Formation Through Concatenation (LeetCode 1640) |
 | 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | Friend recommendation (friends of friends) |

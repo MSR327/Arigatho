@@ -2,9 +2,11 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Binary Tree Traversals (MSQ) |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Minimum Fuel Cost to Report to the Capital |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | Recover BST with two swapped nodes in O(1) space |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | Tree Traversal Integrity (Valid BFS) |
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | Largest Perfect Subtree |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | In-order predecessor of the root |
 | 2026-10-13 | [Harness](../companies/harness.md) | IIT Guwahati | Tower Placement on a Tree |
 | 2026-10-10 | [Harness](../companies/harness.md) | NIT Surathkal | Maximum Weight Tree After Degree Constraints |

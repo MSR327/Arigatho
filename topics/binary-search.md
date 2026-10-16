@@ -2,6 +2,9 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-15 | [Flipkart](../companies/flipkart.md) | MNNIT Allahabad | Partition Seller Reviews into K Batches (Minimize Max Batch Sum) |
+| 2026-10-15 | [Harness](../companies/harness.md) | IIT Roorkee | Minimum Days to Train and Execute Algorithms |
+| 2026-10-15 | [Microsoft](../companies/microsoft.md) | IIT Delhi | Count Minimum Operations |
 | 2026-10-10 | [Spotnana](../companies/spotnana.md) | IIT Delhi | Minimize Tree Height by Re-attaching Edges |
 | 2026-10-10 | [Spotnana](../companies/spotnana.md) | IIT Delhi | Subsequence With the Minimum Score |
 | 2026-10-10 | [Finmechanics](../companies/finmechanics.md) | IIT Kanpur | Longest Increasing Subsequence |

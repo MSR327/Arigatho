@@ -2,6 +2,9 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-15 | [Harness](../companies/harness.md) | NIT Rourkela | OA pattern: Python, SQL, DSA, ML fundamentals, AI/LLM concepts |
+| 2026-10-15 | [Cashfree](../companies/cashfree.md) | Unknown | OA pattern: CS fundamentals MCQs + one Python and one Java question |
+| 2026-10-15 | [Microsoft](../companies/microsoft.md) | IIT Delhi | Top Employee by Sales (Pandas) |
 | 2026-10-14 | [Tech Mahindra](../companies/tech-mahindra.md) | IIT Delhi | Data science Python question |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | Python MCQ: library for creating plots |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | Python MCQ: processing a 20 GB CSV |

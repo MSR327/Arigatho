@@ -1,5 +1,28 @@
 # Meltwater OA
 
+## 2026-10-16 · IIT Hyderabad · FTE
+
+### Q1. Sum of First N Triangular Numbers
+
+Given n, return the sum of the first n triangular numbers. (One of 2 easy questions. Different candidates got different questions, but the pattern was the same for both roles.)
+
+Topics: Math  
+📎 source: [msg 7474](../archive/inter-iit/2026-10.jsonl), [msg 7475](../archive/inter-iit/2026-10.jsonl)
+
+### Q2. Kth Character of Concatenated Sorted Unique Substrings
+
+Given a string s_input and an integer k, take all unique substrings of s_input, sort them in lexicographical order and concatenate them. Return the k-th character of the resulting string.
+
+Topics: Strings, Sorting  
+📎 source: [msg 7474](../archive/inter-iit/2026-10.jsonl), [msg 7475](../archive/inter-iit/2026-10.jsonl)
+
+### Q3. Subarrays with GCD Equal to G
+
+Hard question. You are given two arrays c and v and an integer g. Over all subarrays where the GCD of the c values equals g, compute: (1) the maximum sum of the v values of such a subarray, (2) how many such subarrays there are, and (3) the minimum length among all such subarrays.
+
+Topics: Arrays, Math, Hashing  
+📎 source: [msg 7474](../archive/inter-iit/2026-10.jsonl), [msg 7475](../archive/inter-iit/2026-10.jsonl)
+
 ## 2026-10-13 · VIT Vellore · FTE
 
 ### Q1. Remove Boxes (LeetCode 546)

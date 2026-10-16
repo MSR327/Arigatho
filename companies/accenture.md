@@ -33,7 +33,7 @@ The PDF notes that the jump structure is similar to LeetCode 45 (Jump Game II), 
 
 Topics: DP, Graphs, Arrays  
 📎 source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf)
-🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-12), MNNIT Allahabad (2026-10-15)
+🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-12), MNNIT Allahabad (2026-10-15), IIT Roorkee (2026-10-15)
 
 ## 2026-10-10 · VIT Vellore · FTE
 

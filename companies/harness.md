@@ -1,5 +1,88 @@
 # Harness OA
 
+## 2026-10-16 · MNNIT Allahabad · FTE
+
+### Q1. Deadlock Detection (MCQ)
+
+Three processes P1, P2 and P3 share two resources: R1 has 1 unit and R2 has 2 units. P1 requests 1 unit of R1 and 1 unit of R2. P2 holds 1 unit of R2 and requests 1 unit of R1. P3 holds 1 unit of R2. Will the system deadlock? Reported answer: no deadlock, safe sequence P2 -> P3 -> P1. (The OA had 10 MCQs and 2 coding questions; this account is from a candidate's memory.)
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [msg 7493](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. Race Condition Final Values (MCQ)
+
+Two threads update a shared variable without synchronization. Initially value = 100. Thread 1: value = value + 30. Thread 2: value = value - 50. Which final values are possible? Reported answer: 50, 80 and 130.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [msg 7493](../archive/inter-nit/2026-10.jsonl)
+
+### Q3. Min Heap Operations (MCQ)
+
+A sequence of insert and extract-min operations is performed on a min heap. Find the resulting heap or the elements retrieved. (The exact elements and options were not remembered.)
+
+Topics: Heaps  
+📎 source: [msg 7493](../archive/inter-nit/2026-10.jsonl)
+
+### Q4. OOP Concept (MCQ)
+
+Which OOP concept bundles data with the methods that work on it and restricts outside access? Reported answer: Encapsulation.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [msg 7493](../archive/inter-nit/2026-10.jsonl)
+
+### Q5. Binary Tree Traversals (MSQ)
+
+A multiple-select question on binary-tree traversal orders (inorder, preorder, postorder, level order), possibly including which traversal pairs uniquely identify a tree. More than one option could be correct. (The exact tree and options were not remembered.)
+
+Topics: Trees  
+📎 source: [msg 7493](../archive/inter-nit/2026-10.jsonl)
+
+### Q6. Subnetting Same Subnet Host (MCQ)
+
+Given the IP address 10.20.37.200/22, which of these addresses is in the same subnet and can be assigned to another host? Reconstructed options: A) 10.20.35.201 B) 10.20.38.15 C) 10.20.40.200 D) 10.20.39.255. Reported answer: B) 10.20.38.15.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [msg 7493](../archive/inter-nit/2026-10.jsonl)
+
+### Q7. Count Inversions (MCQ)
+
+Count the pairs (i, j) with i < j and a[i] > a[j] in the array [7, 9, 4, 5, 6, 3, 10, 7, 100]. Reported answer: 13 inversions.
+
+Topics: Arrays, Sorting  
+📎 source: [msg 7493](../archive/inter-nit/2026-10.jsonl)
+
+### Q8. Decimal to Binary Code Output (MCQ)
+
+A code snippet converts decimal 100 to binary. What does it print? (The exact code and options were not remembered.)
+
+Topics: Bit Manipulation  
+📎 source: [msg 7493](../archive/inter-nit/2026-10.jsonl)
+
+## 2026-10-15 · NIT Rourkela · FTE
+
+### Q1. OA pattern: Python, SQL, DSA, ML fundamentals, AI/LLM concepts
+
+Harness OA at NIT Rourkela had questions on Python, SQL, DSA, machine learning fundamentals, and AI/LLM concepts such as RAG, embeddings, vector databases and prompt engineering.
+
+Topics: Other, SQL  
+📎 source: [msg 7214](../archive/inter-nit/2026-10.jsonl)
+
+## 2026-10-15 · IIT Roorkee · FTE
+
+### Q1. Minimum Days to Train and Execute Algorithms
+
+You are given n machine learning algorithms (indexed 0 to n-1). Each one must be trained before it can be executed.
+- trainingTime[i] = total number of days needed to train algorithm i. Training can be spread across days that do not have to be consecutive.
+- executionDays is an n x m 2D array. executionDays[i] holds the m specific days on which algorithm i may be executed. All values across executionDays are unique.
+Each day you choose exactly one action: (1) train one algorithm for 1 day (its accumulated training goes up by 1); (2) execute an algorithm, but only if its training is complete (accumulated_training == trainingTime[i]) and the current day is in executionDays[i]; (3) do nothing.
+Return the minimum total number of days needed to train and execute all n algorithms.
+Constraints: n, m <= 10^5; trainingTime[i] <= 10^9; executionDays[i][j] <= 10^9; all values in executionDays are unique.
+Example: n = 3, m = 2, trainingTime = [1, 1, 4], executionDays = [[3, 9], [4, 7], [1, 5]].
+Schedule: Days 1-4 train algorithm 2 (needs 4 days). Day 5 execute algorithm 2 (5 is in executionDays[2]). Day 6 train algorithm 1. Day 7 execute algorithm 1. Day 8 train algorithm 0. Day 9 execute algorithm 0. Output: 9.
+
+Topics: Binary Search, Greedy, Sorting  
+📎 source: [msg 7240](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-14 · IIT Guwahati · FTE
 
 ### Q1. Count Valid Binary Strings

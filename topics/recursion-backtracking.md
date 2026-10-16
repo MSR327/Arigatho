@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | Largest Perfect Subtree |
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | Domino Arrangement with Matching Columns |
 | 2026-10-14 | [InMobi](../companies/inmobi.md) | IIT BHU | Recursion + backtracking problem |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | Queue via a single stack: time complexity |
 | 2026-10-11 | [Accenture](../companies/accenture.md) | IIT Dhanbad | Morse Code Dictionary (Set 1) |

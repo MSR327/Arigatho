@@ -2,7 +2,9 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Decimal to Binary Code Output (MCQ) |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Number of Steps to Reduce a Binary Number to One |
+| 2026-10-15 | [Honda](../companies/honda.md) | IIT Delhi | Bitwise Recurrence |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | C output: bitwise shift/mask |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | 8085 program: register C and carry flag |
 | 2026-10-13 | [MyGate](../companies/mygate.md) | IIT BHU | Missing Number (LeetCode 268) |

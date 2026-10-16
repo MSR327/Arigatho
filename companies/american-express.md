@@ -8,6 +8,7 @@ LeetCode 1404. Given the binary representation of an integer as a string s, retu
 
 Topics: Strings, Bit Manipulation  
 📎 source: [msg 6848](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Mandi (2026-10-15)
 
 ### Q2. Fruit Into Baskets
 
@@ -15,6 +16,7 @@ LeetCode 904. Given an array fruits where fruits[i] is the type of fruit on the 
 
 Topics: Sliding Window, Hashing, Arrays  
 📎 source: [msg 6848](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Mandi (2026-10-15)
 
 ### Q3. Minimum Fuel Cost to Report to the Capital
 
@@ -22,3 +24,4 @@ LeetCode 2477. A tree of n cities (0 to n-1) with city 0 as the capital, given b
 
 Topics: Trees, Graphs, Greedy  
 📎 source: [msg 6848](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Mandi (2026-10-15)

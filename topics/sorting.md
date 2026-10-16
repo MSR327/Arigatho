@@ -2,6 +2,10 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Kth Character of Concatenated Sorted Unique Substrings |
+| 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Count Inversions (MCQ) |
+| 2026-10-15 | [Harness](../companies/harness.md) | IIT Roorkee | Minimum Days to Train and Execute Algorithms |
+| 2026-10-15 | [Microsoft](../companies/microsoft.md) | IIT Delhi | Count Minimum Operations |
 | 2026-10-14 | [Tech Mahindra](../companies/tech-mahindra.md) | IIT Delhi | Allocate Mailboxes (LeetCode 1478) |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | Bucket sort statements |
 | 2026-10-13 | [Meltwater](../companies/meltwater.md) | VIT Vellore | The Bounded Substream |

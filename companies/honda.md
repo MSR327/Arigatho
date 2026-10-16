@@ -1,5 +1,21 @@
 # Honda OA
 
+## 2026-10-15 · IIT Delhi · FTE
+
+### Q1. Bitwise Recurrence
+
+A sequence is defined by three starting values F0 = a, F1 = b, F2 = c. Each later term is F_i = (F_{i-1} | F_{i-2}) ^ F_{i-3}, using bitwise OR and XOR. Given a, b, c and n, return F_n. Function signature (C): long bitwiseRecurrence(long a, long b, long c, long n). Examples: a=4, b=1, c=10, n=4 -> 14; a=3, b=2, c=5, n=3 -> 2. (The poster notes the second example looks inconsistent with the recurrence as read from the screenshot.) This was the OA at IIT Delhi last year.
+
+Topics: Bit Manipulation, Math  
+📎 source: [msg 7397](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. Maximum Gross Value of Any Valid Triple
+
+You are given an integer array arr of length n. Choose a valid triple of indices to maximize the gross value. The gross value is computed from three sums: the sum of the selected segment, the sum of the elements before it, and the sum of the elements after it. Empty segments count as zero. Return the largest possible gross value. Function signature (C): long getMaximumGrossValue(int arr_count, int* arr). Examples: arr = [-1, 1, -2, -2] -> 6; arr = [4, -8, 2, -10, 3, -20] -> 4.
+
+Topics: Arrays, DP  
+📎 source: [msg 7397](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-09 · VIT Vellore · FTE
 
 ### Q1. Maximum GCD of Any Pair

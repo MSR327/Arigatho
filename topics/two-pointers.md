@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | Palindrome with Question Marks |
 | 2026-10-11 | [NatWest](../companies/natwest.md) | Delhi Technological University | Count Pairs with Difference K |
 | 2026-10-10 | [Spotnana](../companies/spotnana.md) | IIT Delhi | Subsequence With the Minimum Score |
 | 2026-10-09 | [Honda](../companies/honda.md) | VIT Vellore | Unique Pairs with Target Sum |

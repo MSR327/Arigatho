@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-15 | [Harness](../companies/harness.md) | NIT Rourkela | OA pattern: Python, SQL, DSA, ML fundamentals, AI/LLM concepts |
 | 2026-10-14 | [NatWest](../companies/natwest.md) | IIT BHU | Other Sections (Behavioural, Reasoning, SQL MCQ) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | SQL MCQ: indexing strategy for energy records |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | SQL MCQ: data type for wind project names |

@@ -22,6 +22,7 @@ The test also had a behavioural section (100 questions, no time limit), a reason
 
 Topics: SQL, Aptitude  
 📎 source: [msg 6551](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT BHU (2026-10-15)
 
 ## 2026-10-12 · IIT Guwahati · FTE
 

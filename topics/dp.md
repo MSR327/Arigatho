@@ -5,6 +5,8 @@
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | Build string from prefixes with minimum concatenations |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | Merge adjacent elements with minimum total cost |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | Two Cores and a Latch (Optimal Operation Split) |
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | Largest Perfect Subtree |
+| 2026-10-15 | [Honda](../companies/honda.md) | IIT Delhi | Maximum Gross Value of Any Valid Triple |
 | 2026-10-14 | [Harness](../companies/harness.md) | IIT Guwahati | Count Valid Binary Strings |
 | 2026-10-14 | [Tech Mahindra](../companies/tech-mahindra.md) | IIT Delhi | Allocate Mailboxes (LeetCode 1478) |
 | 2026-10-14 | [Tech Mahindra](../companies/tech-mahindra.md) | IIT Delhi | Cherry Pickup (LeetCode 741) |

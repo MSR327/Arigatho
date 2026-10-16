@@ -2,7 +2,11 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Sum of First N Triangular Numbers |
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Subarrays with GCD Equal to G |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | Modulo Sum Function |
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | Largest Magic Square in Matrix |
+| 2026-10-15 | [Honda](../companies/honda.md) | IIT Delhi | Bitwise Recurrence |
 | 2026-10-14 | [NatWest](../companies/natwest.md) | IIT BHU | Count Occurrences of a Digit in a Number |
 | 2026-10-14 | [Tech Mahindra](../companies/tech-mahindra.md) | IIT Delhi | Allocate Mailboxes (LeetCode 1478) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | Round down all decimals in a list |

@@ -2,7 +2,14 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Subarrays with GCD Equal to G |
+| 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Count Inversions (MCQ) |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Fruit Into Baskets |
+| 2026-10-15 | [Flipkart](../companies/flipkart.md) | MNNIT Allahabad | Partition Seller Reviews into K Batches (Minimize Max Batch Sum) |
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | Largest Magic Square in Matrix |
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | Max Sum of Two Cells Not in Same Row/Column |
+| 2026-10-15 | [Microsoft](../companies/microsoft.md) | IIT Delhi | Count Minimum Operations |
+| 2026-10-15 | [Honda](../companies/honda.md) | IIT Delhi | Maximum Gross Value of Any Valid Triple |
 | 2026-10-14 | [InMobi](../companies/inmobi.md) | IIT BHU | Check Array Formation Through Concatenation (LeetCode 1640) |
 | 2026-10-14 | [InMobi](../companies/inmobi.md) | IIT BHU | Very easy problem with unusual input format |
 | 2026-10-14 | [Tech Mahindra](../companies/tech-mahindra.md) | IIT Delhi | Cherry Pickup (LeetCode 741) |

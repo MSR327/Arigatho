@@ -4,6 +4,7 @@
 |---|---|---|---|
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Minimum Fuel Cost to Report to the Capital |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | Tree Traversal Integrity (Valid BFS) |
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | Ambulance Arrival Time |
 | 2026-10-14 | [NatWest](../companies/natwest.md) | IIT BHU | Start Node Reaching Maximum Nodes in Directed Graph |
 | 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | Friend recommendation (friends of friends) |
 | 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | DSU problem |

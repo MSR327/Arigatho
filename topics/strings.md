@@ -2,8 +2,10 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Kth Character of Concatenated Sorted Unique Substrings |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Number of Steps to Reduce a Binary Number to One |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | Build string from prefixes with minimum concatenations |
+| 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | Palindrome with Question Marks |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | Word rearrangement with a priority queue |
 | 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | Edit Distance |
 | 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | Caesar cipher variant |
