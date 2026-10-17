@@ -2,8 +2,14 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Reliability of shaft on two bearings |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | 10th term of harmonic progression |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | 5th term of HP 1/3, 1/4, 1/5, 1/6 |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | First term of AP from 15th term |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | 3rd term of AP from sum of 5 terms |
 | 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Sum of First N Triangular Numbers |
 | 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Subarrays with GCD Equal to G |
+| 2026-10-16 | [Axxela](../companies/axxela.md) | IIT Guwahati | OA pattern: timed maths, ability and general sections |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | Modulo Sum Function |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | Largest Magic Square in Matrix |
 | 2026-10-15 | [Honda](../companies/honda.md) | IIT Delhi | Bitwise Recurrence |

@@ -8,7 +8,7 @@ Section 1: Core Fundamentals — 30 multiple-choice questions with negative mark
 
 Topics: OS/DBMS/CN MCQ, SQL  
 📎 source: [WMG_Assessment_IIT_Dhanbad.pdf](../archive/files/4496-WMG_Assessment_IIT_Dhanbad.pdf)
-🔁 also asked at: IIT Dhanbad (2026-10-09)
+🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-16)
 
 ### Q2. Artist score classification SQL query
 
@@ -16,7 +16,7 @@ Write a SQL query over two tables: Tracks (Artists, Song IDs) and Metrics (Artis
 
 Topics: SQL  
 📎 source: [WMG_Assessment_IIT_Dhanbad.pdf](../archive/files/4496-WMG_Assessment_IIT_Dhanbad.pdf)
-🔁 also asked at: IIT Dhanbad (2026-10-09)
+🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-16)
 
 ### Q3. Top track from score logs
 
@@ -24,4 +24,4 @@ You are given an array of string logs of the form "TrackName@score". Parse each 
 
 Topics: Strings, Hashing  
 📎 source: [WMG_Assessment_IIT_Dhanbad.pdf](../archive/files/4496-WMG_Assessment_IIT_Dhanbad.pdf)
-🔁 also asked at: IIT Dhanbad (2026-10-09)
+🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-16)

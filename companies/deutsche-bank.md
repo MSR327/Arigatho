@@ -1,5 +1,14 @@
 # Deutsche Bank OA
 
+## 2026-10-16 · IIT Kharagpur · FTE
+
+### Q1. OA pattern: 3 DSA questions
+
+Deutsche Bank OA (IIT Kharagpur) had 3 DSA questions: 1 tough and 2 easy-to-medium.
+
+Topics: Other  
+📎 source: [msg 7608](../archive/inter-iit/2026-10.jsonl)
+
 ## 2026-10-15 · IIT Kanpur · FTE
 
 ### Q1. Palindrome with Question Marks

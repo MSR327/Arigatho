@@ -2,6 +2,55 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Indicated hp to shaft hp ratio |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | NC contouring positioning type |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Cycles with isothermal processes |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Relation between Cp, Cv and R |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Cast iron with all carbon as cementite |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Example of lower pair |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Number of inversions of a mechanism |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Heat addition at constant volume |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Axial thrust in pump shaft |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Reheating martensitic steel |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Not a bolt locking method |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Definition of cold working |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Hydrotest pressure factor |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Isentropic efficiency of steam turbine stage |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Von Mises stress and strain energy |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Reheating in gas turbine |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Linearly hardening plastic material |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Abrasive jet machining MRR vs stand-off distance |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Rated life of bearing vs load |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Non-ferromagnetic material |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Carnot heat pump efficiency vs temperature ratio |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Aluminium compared to steel |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Motor not used in CNC drives |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Nusselt number in fully developed laminar tube flow |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Reducing tooth interference in spur gears |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Orifice flowrate after pressure increase |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Maximum draft in cold rolling |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Maximum pump suction depth for hot waste water |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Roll-strip contact length |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Maximum shear strain in twisted rod |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Tension in string over pulley (10 kg and 6 kg) |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Pressure drop in smooth pipe |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Block velocity under time-varying force with friction |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Reliability of shaft on two bearings |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Whirling radius of shaft with disc |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Minimum shear strain in orthogonal turning |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Maximum acceleration in SHM |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Factor of safety by modified Goodman |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Angle of internal friction in soil mechanics |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Electrolytic extraction of aluminium |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Purpose of Liebig condenser |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Fastest toxic exposure route |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | NLP task of translating between languages |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Legal machine learning focus area |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | ML type for recommendation systems |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Knowledge graphs in operations management |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Types of supervised learning |
+| 2026-10-16 | [Straive](../companies/straive.md) | IIT Guwahati | OA pattern: SQL, Python DSA, ability, GenAI and ML/DL MCQs |
+| 2026-10-16 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kharagpur | OA pattern: 3 DSA questions |
 | 2026-10-15 | [Harness](../companies/harness.md) | NIT Rourkela | OA pattern: Python, SQL, DSA, ML fundamentals, AI/LLM concepts |
 | 2026-10-15 | [Cashfree](../companies/cashfree.md) | Unknown | OA pattern: CS fundamentals MCQs + one Python and one Java question |
 | 2026-10-15 | [Microsoft](../companies/microsoft.md) | IIT Delhi | Top Employee by Sales (Pandas) |
