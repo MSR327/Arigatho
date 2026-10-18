@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-18 | [Juspay](../companies/juspay.md) | IIIT Allahabad | Sync Engine |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Binary Tree Traversals (MSQ) |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Minimum Fuel Cost to Report to the Capital |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | Recover BST with two swapped nodes in O(1) space |

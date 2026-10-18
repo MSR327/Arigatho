@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Analytics role): MCQs + SQL, no coding |
+| 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Jonita final direction |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | 10th term of harmonic progression |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Family of 4 with one male |

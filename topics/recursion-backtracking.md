@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-18 | [Juspay](../companies/juspay.md) | IIIT Allahabad | Sync Engine |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | Largest Perfect Subtree |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | Domino Arrangement with Matching Columns |
 | 2026-10-14 | [InMobi](../companies/inmobi.md) | IIT BHU | Recursion + backtracking problem |

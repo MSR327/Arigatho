@@ -1,5 +1,21 @@
 # American Express OA
 
+## 2026-10-18 · MNNIT Allahabad · FTE
+
+### Q1. OA pattern (Data Analytics role): MCQs + SQL, no coding
+
+American Express OA for the Data Analytics role at MNNIT Allahabad had no coding question. It was only MCQs plus an SQL query question. The MCQs covered core CS, AI + Gen AI, and aptitude.
+
+Topics: SQL, OS/DBMS/CN MCQ, Aptitude  
+📎 source: [msg 8287](../archive/inter-nit/2026-10.jsonl), [msg 8293](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude
+
+American Express OA for the Data Engineer role: SQL questions, plus MCQs on ML, Gen AI, core CS and aptitude.
+
+Topics: SQL, OS/DBMS/CN MCQ, Aptitude  
+📎 source: [msg 8287](../archive/inter-nit/2026-10.jsonl), [msg 8293](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-15 · IIT Mandi · FTE
 
 ### Q1. Number of Steps to Reduce a Binary Number to One

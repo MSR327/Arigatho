@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Analytics role): MCQs + SQL, no coding |
+| 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Deadlock Detection (MCQ) |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Race Condition Final Values (MCQ) |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | OOP Concept (MCQ) |

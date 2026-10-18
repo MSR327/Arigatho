@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-17 | [Media.net](../companies/media-net.md) | Delhi Technological University | Trapping Rain Water II |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Minimum Fuel Cost to Report to the Capital |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | Tree Traversal Integrity (Valid BFS) |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | Ambulance Arrival Time |

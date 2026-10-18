@@ -1,5 +1,14 @@
 # Media.net OA
 
+## 2026-10-17 · Delhi Technological University · FTE
+
+### Q1. Trapping Rain Water II
+
+Trapping Rain Water II: given an m x n integer matrix heightMap giving the height of each cell in a 2D elevation map, return the volume of water it can trap after raining. (The poster named only the problem as one of the questions in the Media.net OA held recently at DTU. No other details were given.)
+
+Topics: Heaps, Graphs  
+📎 source: [msg 8074](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-15 · IIT Bombay · Intern
 
 ### Q1. Build string from prefixes with minimum concatenations
