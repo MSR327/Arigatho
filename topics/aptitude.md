@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | IIT BHU | OA pattern: aptitude section + speed math section |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Analytics role): MCQs + SQL, no coding |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Jonita final direction |

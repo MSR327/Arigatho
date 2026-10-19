@@ -38,4 +38,4 @@ UPDATE: An UPDATE provid... [message truncated here]
 
 Topics: Trees, Recursion/Backtracking, Other  
 📎 source: [msg 8360](../archive/inter-nit/2026-10.jsonl), [msg 8361](../archive/inter-iit/2026-10.jsonl)
-🔁 also asked at: MNNIT Allahabad (2026-10-18)
+🔁 also asked at: MNNIT Allahabad ×2 (last 2026-10-18), IIIT Allahabad (2026-10-18)

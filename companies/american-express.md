@@ -8,6 +8,7 @@ American Express OA for the Data Analytics role at MNNIT Allahabad had no coding
 
 Topics: SQL, OS/DBMS/CN MCQ, Aptitude  
 📎 source: [msg 8287](../archive/inter-nit/2026-10.jsonl), [msg 8293](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: MNNIT Allahabad (2026-10-19)
 
 ### Q2. OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude
 

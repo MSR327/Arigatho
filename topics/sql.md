@@ -4,6 +4,7 @@
 |---|---|---|---|
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Analytics role): MCQs + SQL, no coding |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude |
+| 2026-10-18 | [ICICI](../companies/icici.md) | IIT Guwahati | OA topics: CS fundamentals, DSA, ML, Cloud |
 | 2026-10-16 | [Straive](../companies/straive.md) | IIT Guwahati | OA pattern: SQL, Python DSA, ability, GenAI and ML/DL MCQs |
 | 2026-10-15 | [Harness](../companies/harness.md) | NIT Rourkela | OA pattern: Python, SQL, DSA, ML fundamentals, AI/LLM concepts |
 | 2026-10-14 | [NatWest](../companies/natwest.md) | IIT BHU | Other Sections (Behavioural, Reasoning, SQL MCQ) |

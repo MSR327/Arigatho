@@ -1,5 +1,14 @@
 # Media.net OA
 
+## 2026-10-19 · Netaji Subhas University of Technology · FTE
+
+### Q1. Trapping Rain Water
+
+Trapping Rain Water (LeetCode 42): given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining. (The poster named only the problem, in reply to 'what was asked in media.net'.)
+
+Topics: Arrays, Two Pointers, Stack/Queue  
+📎 source: [msg 8745](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-17 · Delhi Technological University · FTE
 
 ### Q1. Trapping Rain Water II
@@ -8,6 +17,7 @@ Trapping Rain Water II: given an m x n integer matrix heightMap giving the heigh
 
 Topics: Heaps, Graphs  
 📎 source: [msg 8074](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: Netaji Subhas University of Technology (2026-10-19)
 
 ## 2026-10-15 · IIT Bombay · Intern
 

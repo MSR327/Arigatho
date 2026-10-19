@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-19 | [Media.net](../companies/media-net.md) | Netaji Subhas University of Technology | Trapping Rain Water |
 | 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Subarrays with GCD Equal to G |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Count Inversions (MCQ) |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Fruit Into Baskets |

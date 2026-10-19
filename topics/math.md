@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | IIT BHU | OA pattern: aptitude section + speed math section |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Reliability of shaft on two bearings |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | 10th term of harmonic progression |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | 5th term of HP 1/3, 1/4, 1/5, 1/6 |

@@ -8,7 +8,7 @@ Accenture Japan OA pattern: 20 MCQs (20 minutes) followed by 1 coding question (
 
 Topics: OS/DBMS/CN MCQ, Aptitude, SQL  
 📎 source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf)
-🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-12)
+🔁 also asked at: IIT Dhanbad ×3 (last 2026-10-18)
 
 ### Q2. Morse Code Dictionary (Set 1)
 
@@ -20,7 +20,7 @@ Output: any valid word from dictionary.txt whose Morse-code representation match
 
 Topics: Strings, Hashing, Recursion/Backtracking  
 📎 source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf)
-🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-12)
+🔁 also asked at: IIT Dhanbad ×3 (last 2026-10-18)
 
 ### Q3. Minimum Dice Rolls to Reach the End (Set 2)
 
@@ -33,7 +33,7 @@ The PDF notes that the jump structure is similar to LeetCode 45 (Jump Game II), 
 
 Topics: DP, Graphs, Arrays  
 📎 source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf)
-🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-12), MNNIT Allahabad (2026-10-15), IIT Roorkee (2026-10-15)
+🔁 also asked at: MNNIT Allahabad (2026-10-15), IIT Roorkee (2026-10-15), IIT Dhanbad ×3 (last 2026-10-18)
 
 ## 2026-10-10 · VIT Vellore · FTE
 
