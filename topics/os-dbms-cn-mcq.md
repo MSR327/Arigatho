@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-19 | [Houlihan Lokey](../companies/houlihan-lokey.md) | IIT Guwahati | Technical MCQ Section |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Analytics role): MCQs + SQL, no coding |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude |
 | 2026-10-18 | [ICICI](../companies/icici.md) | IIT Guwahati | OA topics: CS fundamentals, DSA, ML, Cloud |

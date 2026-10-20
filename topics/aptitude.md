@@ -3,6 +3,22 @@
 | Date | Company | College | Question |
 |---|---|---|---|
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | IIT BHU | OA pattern: aptitude section + speed math section |
+| 2026-10-19 | [Houlihan Lokey](../companies/houlihan-lokey.md) | IIT Guwahati | Aptitude + English MCQ Sections |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: 88888 + 8888 + 888 + 88 + 8 |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: 105 + 83 + 122 |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: solve 28^3 + 17^3 = 10 + x^3 |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: 23.75 × 18.60 |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: 875 × 42.80% |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: 2222 × 13 / 111 |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Cricket run rate for 282 runs in 18.3 overs |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Square root of 12321 |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: (45.6)^2 − (44.4)^2 |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: 8750 ÷ 3.5 + 6250 ÷ 2.5 |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Simple interest on ₹75,000 at 8.75% for 2.5 years |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: 12^3 + 18^3 − 24^3 |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: 999^2 − 998^2 |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Cost price after 12.5% discount and 20% gain |
+| 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Convert $2450 to INR at ₹83.75 per USD |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Analytics role): MCQs + SQL, no coding |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Jonita final direction |

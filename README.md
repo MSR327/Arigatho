@@ -1,10 +1,12 @@
 # OA Questions Tracker
 
-Last updated 19 Oct 2026 14:04 · 405 questions · 34 companies
+Last updated 20 Oct 2026 14:02 · 422 questions · 35 companies
 
 ## New this week
 
 - Media.net · Netaji Subhas University of Technology · 2026-10-19 · 1 question
+- Houlihan Lokey · IIT Guwahati · 2026-10-19 · 2 questions
+- Futures First · MNNIT Allahabad · 2026-10-19 · 15 questions
 - Futures First · IIT BHU · 2026-10-19 · 1 question
 - Juspay · IIIT Allahabad · 2026-10-18 · 1 question
 - ICICI · IIT Guwahati · 2026-10-18 · 1 question
@@ -40,7 +42,6 @@ Last updated 19 Oct 2026 14:04 · 405 questions · 34 companies
 - Meltwater · VIT Vellore · 2026-10-13 · 3 questions
 - Harness · IIT Guwahati · 2026-10-13 · 3 questions
 - Eternal (Zomato) · IIT Dhanbad · 2026-10-13 · 7 questions
-- NatWest · IIT Guwahati · 2026-10-12 · 5 questions
 
 ## By company
 
@@ -53,6 +54,7 @@ Last updated 19 Oct 2026 14:04 · 405 questions · 34 companies
 | [Rystad Energy](companies/rystad-energy.md) | 31 | IIT Delhi | 2026-10-14 |
 | [Harness](companies/harness.md) | 27 | IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Rourkela, NIT Surathkal | 2026-10-16 |
 | [InfoEdge](companies/infoedge.md) | 20 | IIT Guwahati, NIT Patna | 2026-10-05 |
+| [Futures First](companies/futures-first.md) | 16 | IIT BHU, MNNIT Allahabad | 2026-10-19 |
 | [NatWest](companies/natwest.md) | 16 | Delhi Technological University, IIT BHU, IIT Guwahati | 2026-10-15 |
 | [InMobi](companies/inmobi.md) | 12 | IIT BHU, IIT Bombay, IIT Guwahati, IIT Roorkee | 2026-10-14 |
 | [Deutsche Bank](companies/deutsche-bank.md) | 7 | IIT Delhi, IIT Kanpur, IIT Kharagpur | 2026-10-16 |
@@ -70,13 +72,13 @@ Last updated 19 Oct 2026 14:04 · 405 questions · 34 companies
 | [Pace Stock](companies/pace-stock.md) | 4 | IIT Kharagpur | 2026-10-06 |
 | [Tech Mahindra](companies/tech-mahindra.md) | 3 | IIT Delhi | 2026-10-14 |
 | [Warner Music Group](companies/warner-music-group.md) | 3 | IIT Dhanbad | 2026-10-16 |
+| [Houlihan Lokey](companies/houlihan-lokey.md) | 2 | IIT Guwahati | 2026-10-19 |
 | [Kickdrum](companies/kickdrum.md) | 2 | Unknown | 2026-09-29 |
 | [Microsoft](companies/microsoft.md) | 2 | IIT Delhi | 2026-10-15 |
 | [Teradata](companies/teradata.md) | 2 | IIT BHU | 2026-09-28 |
 | [Axxela](companies/axxela.md) | 1 | IIT Guwahati | 2026-10-16 |
 | [Cashfree](companies/cashfree.md) | 1 | Unknown | 2026-10-15 |
 | [Flipkart](companies/flipkart.md) | 1 | MNNIT Allahabad | 2026-10-15 |
-| [Futures First](companies/futures-first.md) | 1 | IIT BHU | 2026-10-19 |
 | [ICICI](companies/icici.md) | 1 | IIT Guwahati | 2026-10-18 |
 | [Juspay](companies/juspay.md) | 1 | IIIT Allahabad, MNNIT Allahabad | 2026-10-18 |
 | [Straive](companies/straive.md) | 1 | IIT Guwahati | 2026-10-16 |
@@ -89,14 +91,14 @@ Last updated 19 Oct 2026 14:04 · 405 questions · 34 companies
 **IIT Bombay:** Media.net (4), InMobi (1)  
 **IIT Delhi:** Qualcomm (34), Accenture (33), Rystad Energy (31), Spotnana (3), Tech Mahindra (3), Deutsche Bank (3), MyGate (2), Microsoft (2), Honda (2)  
 **IIT Dhanbad:** Eternal (Zomato) (15), Accenture (6), Warner Music Group (3)  
-**IIT Guwahati:** InfoEdge (10), Eternal (Zomato) (6), NatWest (5), Harness (4), InMobi (3), MyGate (2), Axxela (1), Straive (1), ICICI (1)  
+**IIT Guwahati:** InfoEdge (10), Eternal (Zomato) (6), NatWest (5), Harness (4), InMobi (3), MyGate (2), Houlihan Lokey (2), Axxela (1), Straive (1), ICICI (1)  
 **IIT Hyderabad:** Accenture (5), Meltwater (3)  
 **IIT Kanpur:** Finmechanics (7), Spotnana (3), Deutsche Bank (3), Squarepoint (1)  
 **IIT Kharagpur:** Pace Stock (4), Squarepoint (3), Deutsche Bank (1)  
 **IIT Madras:** Eternal (Zomato) (12)  
 **IIT Mandi:** American Express (3)  
 **IIT Roorkee:** Alight Solutions (4), Squarepoint (2), InMobi (1), Harness (1)  
-**MNNIT Allahabad:** Reliance (94), Harness (19), American Express (2), Flipkart (1)  
+**MNNIT Allahabad:** Reliance (94), Harness (19), Futures First (15), American Express (2), Flipkart (1)  
 **NIT Patna:** InfoEdge (10)  
 **NIT Rourkela:** Harness (1)  
 **NIT Surathkal:** Harness (2)  
@@ -110,11 +112,11 @@ Last updated 19 Oct 2026 14:04 · 405 questions · 34 companies
 | Topic | Questions |
 |---|---|
 | [Other](topics/other.md) | 119 |
-| [Aptitude](topics/aptitude.md) | 84 |
+| [Aptitude](topics/aptitude.md) | 100 |
+| [Math](topics/math.md) | 65 |
 | [Arrays](topics/arrays.md) | 59 |
-| [Math](topics/math.md) | 50 |
-| [SQL](topics/sql.md) | 33 |
-| [OS/DBMS/CN MCQ](topics/os-dbms-cn-mcq.md) | 33 |
+| [SQL](topics/sql.md) | 34 |
+| [OS/DBMS/CN MCQ](topics/os-dbms-cn-mcq.md) | 34 |
 | [DP](topics/dp.md) | 28 |
 | [Hashing](topics/hashing.md) | 27 |
 | [Strings](topics/strings.md) | 23 |
