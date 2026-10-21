@@ -1,5 +1,21 @@
 # Eternal (Zomato) OA
 
+## 2026-10-20 · IIT Guwahati · FTE
+
+### Q1. Customer Country City (SQL)
+
+Zomato Product Analyst OA, SQL question (from OAHelper): 'Customer Country City'. The poster gave only the title. It involves querying customer data by country and city.
+
+Topics: SQL  
+📎 source: [msg 9599](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. Log Bids (SQL)
+
+Zomato Product Analyst OA, SQL question (from OAHelper): 'Log Bids'. The poster gave only the title. It involves querying a bids log table.
+
+Topics: SQL  
+📎 source: [msg 9599](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-13 · IIT Dhanbad · FTE
 
 ### Q1. Binomial distribution: archer mean and variance
@@ -8,6 +24,7 @@ Product Analyst OA (90 minutes total: 20 aptitude/probability/statistics/quant/e
 
 Topics: Math, Aptitude  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Dhanbad (2026-10-20)
 
 ### Q2. Highest power of 24 dividing 150!
 
@@ -15,6 +32,7 @@ What is the highest power of 24 that divides 150! exactly? Options: 42, 44, 46, 
 
 Topics: Math, Aptitude  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Dhanbad (2026-10-20)
 
 ### Q3. Normal distribution: P(mean > 55)
 
@@ -22,6 +40,7 @@ A dataset is normally distributed with mean 50 and standard deviation 5. What is
 
 Topics: Math, Aptitude  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Dhanbad (2026-10-20)
 
 ### Q4. Painted cube: red and blue faces
 
@@ -29,6 +48,7 @@ A cube of side 18 cm has two opposite faces coloured red and the other four face
 
 Topics: Aptitude  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Dhanbad (2026-10-20)
 
 ### Q5. Bayes: did it snow last night?
 
@@ -36,6 +56,7 @@ A girl knows the probability that it snows on any given night is 1/8. Her father
 
 Topics: Math, Aptitude  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Dhanbad (2026-10-20)
 
 ### Q6. SQL: email campaign analysis
 
@@ -298,7 +319,7 @@ Eternal Product Analyst OA: 20 aptitude questions covering sets, permutations & 
 
 Topics: Aptitude  
 📎 source: [msg 1665](../archive/inter-nit/2026-09.jsonl)
-🔁 also asked at: IIT Dhanbad (2026-09-29)
+🔁 also asked at: IIT Dhanbad ×2 (last 2026-10-20)
 
 ### Q2. SQL questions (one easy, one very hard)
 

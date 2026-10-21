@@ -2,6 +2,9 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | SQL Query - Players of Kolkata Knight Riders over 30 |
+| 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | Customer Country City (SQL) |
+| 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | Log Bids (SQL) |
 | 2026-10-19 | [Houlihan Lokey](../companies/houlihan-lokey.md) | IIT Guwahati | Technical MCQ Section |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Analytics role): MCQs + SQL, no coding |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude |

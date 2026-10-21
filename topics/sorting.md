@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | Minimum Increase in Experience Multiplier |
 | 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Kth Character of Concatenated Sorted Unique Substrings |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Count Inversions (MCQ) |
 | 2026-10-15 | [Harness](../companies/harness.md) | IIT Roorkee | Minimum Days to Train and Execute Algorithms |

@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | Currency Converter (Frontend HTML/CSS/JS) |
 | 2026-10-18 | [Juspay](../companies/juspay.md) | IIIT Allahabad | Sync Engine |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Indicated hp to shaft hp ratio |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | NC contouring positioning type |

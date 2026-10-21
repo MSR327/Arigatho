@@ -1,5 +1,47 @@
 # Accenture OA
 
+## 2026-10-21 · IIT Roorkee · FTE
+
+### Q1. Minimum Increase in Experience Multiplier
+
+A company has N employees. For each employee: project[i] = project requirement/value, experience[i] = employee's experience, K = current experience multiplier, F = minimum number of employees that must be removed. An employee must be removed if project[i] < experience[i] * K. You are allowed to increase the value of K. Task: Find the minimum amount by which K must be increased so that at least F employees are removed.
+
+Topics: Sorting, Greedy, Binary Search  
+📎 source: [msg 9754](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. SQL Query - Players of Kolkata Knight Riders over 30
+
+Given two tables:
+Players(player_id, player_name, age, team_id)
+Teams(team_id, team_name, country)
+Write an SQL query to find the player name and age of players who satisfy all the following conditions:
+1. Player's age is greater than 30.
+2. Player's team is Indian.
+3. Team name is Kolkata Knight Riders.
+
+Topics: SQL  
+📎 source: [msg 9754](../archive/inter-nit/2026-10.jsonl)
+
+### Q3. Currency Converter (Frontend HTML/CSS/JS)
+
+Create a Currency Converter using HTML, CSS, and JavaScript.
+Requirements: The webpage should contain an input box to enter the amount, a From Currency dropdown, a To Currency dropdown, a Convert button, and a result area to display the converted amount.
+Use the following exchange rates:
+const rates = { USD: 1, INR: 83, EUR: 0.92, GBP: 0.79, JPY: 157 };
+When the user clicks the Convert button:
+1. Get the amount entered by the user.
+2. Get the selected From currency.
+3. Get the selected To currency.
+4. Find rateFrom and rateTo from the rates object.
+5. Calculate the converted amount using: result = (amount / rateFrom) * rateTo;
+6. Round the final result to 2 decimal places using result.toFixed(2);
+7. Display the final result on the webpage.
+Example: Input Amount: 100, From: EUR, To: INR. Calculation: rateFrom = 0.92; rateTo = 83; result = (100 / 0.92) * 83. Output: Display the converted amount with exactly 2 decimal places.
+Additional Conditions: If the amount field is empty, display: "Enter amount". If the am... (message truncated)
+
+Topics: Other  
+📎 source: [msg 9754](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-11 · IIT Dhanbad · FTE
 
 ### Q1. MCQ Section (20 MCQs, 20 min)

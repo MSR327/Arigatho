@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | Minimum Increase in Experience Multiplier |
 | 2026-10-15 | [Flipkart](../companies/flipkart.md) | MNNIT Allahabad | Partition Seller Reviews into K Batches (Minimize Max Batch Sum) |
 | 2026-10-15 | [Harness](../companies/harness.md) | IIT Roorkee | Minimum Days to Train and Execute Algorithms |
 | 2026-10-15 | [Microsoft](../companies/microsoft.md) | IIT Delhi | Count Minimum Operations |

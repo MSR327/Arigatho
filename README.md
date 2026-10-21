@@ -1,9 +1,11 @@
 # OA Questions Tracker
 
-Last updated 20 Oct 2026 14:02 · 422 questions · 35 companies
+Last updated 21 Oct 2026 14:01 · 427 questions · 35 companies
 
 ## New this week
 
+- Accenture · IIT Roorkee · 2026-10-21 · 3 questions
+- Eternal (Zomato) · IIT Guwahati · 2026-10-20 · 2 questions
 - Media.net · Netaji Subhas University of Technology · 2026-10-19 · 1 question
 - Houlihan Lokey · IIT Guwahati · 2026-10-19 · 2 questions
 - Futures First · MNNIT Allahabad · 2026-10-19 · 15 questions
@@ -35,21 +37,14 @@ Last updated 20 Oct 2026 14:02 · 422 questions · 35 companies
 - NatWest · IIT BHU · 2026-10-14 · 3 questions
 - InMobi · IIT BHU · 2026-10-14 · 3 questions
 - Harness · IIT Guwahati · 2026-10-14 · 1 question
-- Qualcomm · IIT Delhi · 2026-10-13 · 34 questions
-- Nielsen · VIT Vellore · 2026-10-13 · 5 questions
-- MyGate · IIT Delhi · 2026-10-13 · 2 questions
-- MyGate · IIT BHU · 2026-10-13 · 1 question
-- Meltwater · VIT Vellore · 2026-10-13 · 3 questions
-- Harness · IIT Guwahati · 2026-10-13 · 3 questions
-- Eternal (Zomato) · IIT Dhanbad · 2026-10-13 · 7 questions
 
 ## By company
 
 | Company | Questions | Colleges | Latest |
 |---|---|---|---|
 | [Reliance](companies/reliance.md) | 94 | MNNIT Allahabad | 2026-10-17 |
-| [Accenture](companies/accenture.md) | 45 | IIT Delhi, IIT Dhanbad, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, VIT Vellore | 2026-10-18 |
-| [Eternal (Zomato)](companies/eternal-zomato.md) | 36 | IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Madras | 2026-10-13 |
+| [Accenture](companies/accenture.md) | 48 | IIT Delhi, IIT Dhanbad, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, VIT Vellore | 2026-10-21 |
+| [Eternal (Zomato)](companies/eternal-zomato.md) | 38 | IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Madras | 2026-10-20 |
 | [Qualcomm](companies/qualcomm.md) | 34 | IIT Delhi | 2026-10-13 |
 | [Rystad Energy](companies/rystad-energy.md) | 31 | IIT Delhi | 2026-10-14 |
 | [Harness](companies/harness.md) | 27 | IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Rourkela, NIT Surathkal | 2026-10-16 |
@@ -91,13 +86,13 @@ Last updated 20 Oct 2026 14:02 · 422 questions · 35 companies
 **IIT Bombay:** Media.net (4), InMobi (1)  
 **IIT Delhi:** Qualcomm (34), Accenture (33), Rystad Energy (31), Spotnana (3), Tech Mahindra (3), Deutsche Bank (3), MyGate (2), Microsoft (2), Honda (2)  
 **IIT Dhanbad:** Eternal (Zomato) (15), Accenture (6), Warner Music Group (3)  
-**IIT Guwahati:** InfoEdge (10), Eternal (Zomato) (6), NatWest (5), Harness (4), InMobi (3), MyGate (2), Houlihan Lokey (2), Axxela (1), Straive (1), ICICI (1)  
+**IIT Guwahati:** InfoEdge (10), Eternal (Zomato) (8), NatWest (5), Harness (4), InMobi (3), MyGate (2), Houlihan Lokey (2), Axxela (1), Straive (1), ICICI (1)  
 **IIT Hyderabad:** Accenture (5), Meltwater (3)  
 **IIT Kanpur:** Finmechanics (7), Spotnana (3), Deutsche Bank (3), Squarepoint (1)  
 **IIT Kharagpur:** Pace Stock (4), Squarepoint (3), Deutsche Bank (1)  
 **IIT Madras:** Eternal (Zomato) (12)  
 **IIT Mandi:** American Express (3)  
-**IIT Roorkee:** Alight Solutions (4), Squarepoint (2), InMobi (1), Harness (1)  
+**IIT Roorkee:** Alight Solutions (4), Accenture (3), Squarepoint (2), InMobi (1), Harness (1)  
 **MNNIT Allahabad:** Reliance (94), Harness (19), Futures First (15), American Express (2), Flipkart (1)  
 **NIT Patna:** InfoEdge (10)  
 **NIT Rourkela:** Harness (1)  
@@ -111,19 +106,19 @@ Last updated 20 Oct 2026 14:02 · 422 questions · 35 companies
 
 | Topic | Questions |
 |---|---|
-| [Other](topics/other.md) | 119 |
+| [Other](topics/other.md) | 120 |
 | [Aptitude](topics/aptitude.md) | 100 |
 | [Math](topics/math.md) | 65 |
 | [Arrays](topics/arrays.md) | 59 |
-| [SQL](topics/sql.md) | 34 |
+| [SQL](topics/sql.md) | 37 |
 | [OS/DBMS/CN MCQ](topics/os-dbms-cn-mcq.md) | 34 |
 | [DP](topics/dp.md) | 28 |
 | [Hashing](topics/hashing.md) | 27 |
 | [Strings](topics/strings.md) | 23 |
 | [Graphs](topics/graphs.md) | 23 |
-| [Greedy](topics/greedy.md) | 20 |
-| [Sorting](topics/sorting.md) | 14 |
-| [Binary Search](topics/binary-search.md) | 12 |
+| [Greedy](topics/greedy.md) | 21 |
+| [Sorting](topics/sorting.md) | 15 |
+| [Binary Search](topics/binary-search.md) | 13 |
 | [Stack/Queue](topics/stack-queue.md) | 12 |
 | [Trees](topics/trees.md) | 12 |
 | [Bit Manipulation](topics/bit-manipulation.md) | 11 |
