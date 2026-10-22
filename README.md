@@ -1,6 +1,6 @@
 # OA Questions Tracker
 
-Last updated 21 Oct 2026 14:01 · 427 questions · 35 companies
+Last updated 22 Oct 2026 14:00 · 427 questions · 35 companies
 
 ## New this week
 
@@ -32,11 +32,6 @@ Last updated 21 Oct 2026 14:01 · 427 questions · 35 companies
 - Deutsche Bank · IIT Delhi · 2026-10-15 · 3 questions
 - Cashfree · Unknown · 2026-10-15 · 1 question
 - American Express · IIT Mandi · 2026-10-15 · 3 questions
-- Tech Mahindra · IIT Delhi · 2026-10-14 · 3 questions
-- Rystad Energy · IIT Delhi · 2026-10-14 · 31 questions
-- NatWest · IIT BHU · 2026-10-14 · 3 questions
-- InMobi · IIT BHU · 2026-10-14 · 3 questions
-- Harness · IIT Guwahati · 2026-10-14 · 1 question
 
 ## By company
 
