@@ -1,6 +1,6 @@
 # OA Questions Tracker
 
-Last updated 22 Oct 2026 14:00 · 427 questions · 35 companies
+Last updated 23 Oct 2026 14:00 · 427 questions · 35 companies
 
 ## New this week
 
@@ -20,18 +20,6 @@ Last updated 22 Oct 2026 14:00 · 427 questions · 35 companies
 - Harness · MNNIT Allahabad · 2026-10-16 · 8 questions
 - Deutsche Bank · IIT Kharagpur · 2026-10-16 · 1 question
 - Axxela · IIT Guwahati · 2026-10-16 · 1 question
-- Squarepoint · IIT Kharagpur · 2026-10-15 · 3 questions
-- MyGate · IIT Guwahati · 2026-10-15 · 1 question
-- Microsoft · IIT Delhi · 2026-10-15 · 2 questions
-- Media.net · IIT Bombay · 2026-10-15 · 4 questions
-- Honda · IIT Delhi · 2026-10-15 · 2 questions
-- Harness · NIT Rourkela · 2026-10-15 · 1 question
-- Harness · IIT Roorkee · 2026-10-15 · 1 question
-- Flipkart · MNNIT Allahabad · 2026-10-15 · 1 question
-- Deutsche Bank · IIT Kanpur · 2026-10-15 · 3 questions
-- Deutsche Bank · IIT Delhi · 2026-10-15 · 3 questions
-- Cashfree · Unknown · 2026-10-15 · 1 question
-- American Express · IIT Mandi · 2026-10-15 · 3 questions
 
 ## By company
 
