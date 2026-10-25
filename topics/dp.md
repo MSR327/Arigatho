@@ -2,6 +2,11 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur | Edit the Filename |
+| 2026-10-24 | [Wayfair](../companies/wayfair.md) | BHU | LIS-based problem |
+| 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | Count Graphs on n Nodes with k Components mod m |
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Cherry Pickup II (LeetCode 1463) |
+| 2026-10-21 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | Minimum insertions to make a string a palindrome |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | Build string from prefixes with minimum concatenations |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | Merge adjacent elements with minimum total cost |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | Two Cores and a Latch (Optimal Operation Split) |

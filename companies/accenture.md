@@ -1,5 +1,283 @@
 # Accenture OA
 
+## 2026-10-25 · BITS Pilani · Unknown
+
+### Q1. Cloud storage with dynamic scaling
+
+In a cloud-based application where scalability is crucial, which cloud storage option allows dynamic scaling without the need for manual intervention? Options: a. Block storage b. File storage c. Object storage d. Table storage. Answer given: c. Object storage.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q2. Accumulator to memory transfer
+
+As a computer architect, you are designing the control unit of a CPU. You need to specify how data is moved from the accumulator to the memory. Which of the following best describes this operation? Answer given: Data transfer from accumulator to memory is done using a Store instruction.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q3. Hybrid cloud connectivity
+
+An enterprise is adopting a hybrid cloud model where they combine on-premise infrastructure with public cloud services to securely connect these environments and ensure reliability. What solutions should they implement? Answer given: Secure VPN or dedicated connectivity like Direct Connect.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q4. VPN for remote access
+
+An employee at a multinational organization is working from home and needs to access the company's internal network to retrieve some files. Which type of VPN will be best suitable for this case? Answer given: Remote Access VPN.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q5. DevOps continuous deployment
+
+An e-commerce company updates its website weekly with new features and fixes. Using an Agile development approach, after each update, the new version is automatically deployed to the live environment. This practice automates the release of software to production frequently and reliably. Which practice is being implemented? Options: a. Continuous Deployment b. Continuous Integration c. Continuous Testing d. Monitoring. Answer given: a. Continuous Deployment.
+
+Topics: Other  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q6. Routing manipulation attack
+
+Hackers can manipulate data packets traveling across a network by inserting malicious routing information, allowing them to redirect traffic through their own systems. This method enables them to pull, extract, or edit data without detection. What type of attack is this called? Answer given: Man-in-the-Middle (MITM) attack.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+🔁 also asked at: BITS Pilani (2026-10-25)
+
+### Q7. Register saved during context switch
+
+During a context switch, the operating system saves the state of the currently running process and loads the state of the next process to be executed. Which crucial CPU register responsible for loading the address of the next instruction to be fetched must be saved and restored during this operation? Answer given: Program Counter (PC).
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+🔁 also asked at: BITS Pilani (2026-10-25)
+
+### Q8. I/O bus device controller with built-in cache
+
+Suppose you want to design a bus system where input-output devices are connected to the computer via wires, and data transfer is handled electronically. The host controller sends messages to the device controller, which performs the operation. If the device controllers have a built-in cache for faster data transfer, which device will you choose? Options: A. Enhanced Integrated Device Electronics A B. Enhanced Integrated Device Electronics B C. Enhanced Integrated Device Electronics C D. Enhanced Integrated Hard Driver. Answer given: B. EIDE B.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+🔁 also asked at: BITS Pilani (2026-10-25)
+
+### Q9. Attack on symmetric encryption key
+
+Each party encrypts messages before sending them using a shared secret key, and messages are decrypted by the receiving party using the same key. If an attacker can send a specially crafted message to one party and analyze the resulting encrypted output, which technique is most likely to compromise the secret key in this symmetric encryption system? Options: A. Analyzing patterns in intercepted encrypted messages B. Comparing the crafted message's encrypted output with previously encrypted messages C. Performing a brute-force attack on intercepted messages D. Matching message lengths to guess the content. Answer given: B (chosen-plaintext attack).
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q10. Containerization characteristic
+
+A software development team is implementing containerization to streamline application deployment by encapsulating applications and their dependencies. Which characteristic defines containers in the context of software development and deployment? Options: A. Virtual machines with a dedicated Hypervisor B. A logical separate network within the server C. Part of the same OS instance as the Hypervisor D. Virtual computers running under a Hypervisor. Answer given: C. Part of the same OS instance as the Hypervisor.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q11. WPA3 configuration on Android
+
+A developer is tasked with configuring a high-security Wi-Fi environment for a sensitive government project using Android devices. The configuration includes: Config SAE = Y; Config SUITEB = Y; Configure SUITEB192 = Y. Which configuration line is incorrect or redundant and might potentially weaken the desired security level? Answer given: Configure SUITEB192 = Y.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q12. HTTP method to read restaurant list
+
+A mobile application needs to retrieve a list of all available restaurants from a food delivery service's API. The application should only read data without making any changes to the server resources. Which HTTP method is most appropriate? Options: A. POST B. PUT C. DELETE D. GET. Answer given: D. GET.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q13. Resource pooling and storage elasticity
+
+As part of a data center modernization initiative, the IT team is tasked with addressing storage challenges. The goal is to leverage existing storage devices from various vendors and integrate them with a next-generation storage solution. How does resource pooling play a crucial role in achieving elasticity in storage solutions for cloud computing? Answer given: Resource pooling enables dynamic allocation of shared storage capacity to meet demand.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q14. OS property for application compatibility
+
+You are a software developer working on a new application for a large corporation. Your application is expected to run on a variety of different computers with varying hardware specifications and operating systems. Which property of an operating system is most important for you to consider? Answer given: Resource Allocation.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q15. Handling cloud traffic spikes
+
+An e-commerce website experiences sudden traffic spikes during a flash sale. The platform needs to access resources to handle the increase without manual intervention. Which cloud features should be prioritized? Answer given: Auto-scaling and load balancing.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q16. Shared responsibility model
+
+A company migrates its application to a cloud-connected environment where the cloud provider handles infrastructure services while the customer develops and deploys the application. How does the shared responsibility model impact security management in this scenario? Answer given: Both the cloud provider and the customer share security responsibilities.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q17. PowerPoint restrict slide navigation
+
+You are building a training module in MS PowerPoint and want to restrict navigation so that users must view each slide sequentially with narration, without freely skipping slides. Which setting provides the strictest control over slide navigation? Options: A. Add hyperlinks between slides B. Use normal Slide Show mode C. Set up Slide Show as Browsed at a kiosk (full screen) D. Enable Presenter View. Answer given: C.
+
+Topics: Other  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q18. Protocol for secure email transmission
+
+If a company wants to ensure secure and reliable email transmission for its cloud-based email service, which protocol should they implement? Options: A. HTTP B. FTP C. SMTP D. POP3. Answer given: C. SMTP.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q19. Word document template format
+
+To create a document template for repeated use, which file format should you save the document in? Options: A. .docx B. .pdf C. .dotx D. .txt. Answer given: C. .dotx.
+
+Topics: Other  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q20. Container hardware isolation
+
+An application relies on multiple hardware peripherals and requires strict isolation from other running containers to maintain data integrity and operational security. The development team uses a kernel-level configuration to allocate specific hardware resources to each container and restrict access to non-allocated devices. What is the most critical factor in maintaining operational security and preventing resource contention among containers? Options: a. Ensuring the host OS scheduler allocates CPU cycles equally to all containers b. Configuring the kernel to enforce strict resource isolation and limit peripheral access to only allocated devices c. Allowing virtualization software to dynamically allocate additional memory as required d. Allowing containers to share network interfaces with individual access control lists. Answer given: b.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q21. HTTP status code for Not Found
+
+During application development, a developer encounters an error due to an incorrect or unavailable API endpoint, resulting in a "Not Found" response. Which HTTP status code most accurately represents this error? Options: A. 404 B. 500 C. 403 D. 400. Answer given: A. 404.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q22. OS property for security after breach
+
+You are employed by a company that has recently suffered a security breach. As the IT manager, you are responsible for enhancing the security of the computer's operating system. Which property of an operating system should you prioritize? Options: A. Access Control B. User Interface C. Multitasking D. Virtual Memory. Answer given: A. Access Control.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q23. PowerPoint dynamic progression feature
+
+Jane wants to create a slide that illustrates a progression over time using icons, text, and blanks. She wants it to appear visually dynamic without manually animating each step. Which MS PowerPoint feature can help speed up this process? Options: A. Use Slide Zoom feature B. Use a SmartArt process layout C. Apply the Morph transition across duplicated slides D. Create a custom layout with background images and animation triggers. Answer given: C. Morph transition.
+
+Topics: Other  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q24. VPN topology for two offices
+
+Two geographically separate offices, Office A and Office B, need to allow all users in Office A to securely access resources in Office B and vice versa, as if they were on the same local network. Which VPN topology is most appropriate? Options: A. Remote Access VPN B. Site-to-Site VPN C. Client-to-Server VPN D. Peer-to-Peer VPN. Answer given: B. Site-to-Site VPN.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q25. RESTful endpoint for product by ID
+
+A development team is designing a new RESTful API to manage a product catalog for their e-commerce platform. They need an endpoint that retrieves details of a specific product using its unique product ID. Which HTTP method and URL structure best align with RESTful principles? Options: A. POST /products/{productId} B. GET /products/{productId} C. PUT /products/{productId} D. DELETE /products/{productId}. Answer given: B.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q26. Container consuming massive memory
+
+A containerized application is consuming massive memory, causing performance issues. What is the recommended approach to address this problem effectively? Options: A. Increase the memory limit for the container B. Use a larger base image C. Reduce the number of replicas D. Analyze the application code for memory leaks. Answer given: D.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q27. Isolated environments on one server
+
+A cloud infrastructure requires running multiple isolated environments on a single physical server. Which technology is primarily used to achieve this? Options: A. Containers B. Virtual Machines (VMs) C. Serverless computing. Answer given: B. Virtual Machines.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q28. OSI layer for transmitting signals
+
+An internet connection is established by a user, connecting devices like a computer, smartphone, and smart TV to a router. Which OSI model layer is responsible for transmitting Ethernet, cable, and Wi-Fi signals between these devices? Options: A. Physical Layer B. Network Layer C. Data Link Layer D. Application Layer. Answer given: A. Physical Layer.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q29. PivotTable custom calculations
+
+In a PivotTable, which feature allows you to create custom calculations and summaries based on the existing data? Options: A. Calculated Fields B. Calculated Items C. Slicers D. Grouping. Answer given: A. Calculated Fields.
+
+Topics: Other  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q30. OSI layer for routing packets
+
+Data packets are transmitted between routers and switches to ensure proper delivery across different network segments. Which OSI model layer is responsible for establishing logical paths and routing data packets between different network segments? Options: A. Data Link Layer B. Network Layer C. Transport Layer D. Session Layer. Answer given: B. Network Layer.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q31. System calls to create process and run executable
+
+A developer writes a program that needs to create a new process and run a different executable file. Which pair of system calls fulfills this requirement in a Unix-like OS? Answer given: fork() creates a new process and exec() replaces it with a new executable.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q32. Two-factor identification security measure
+
+In a cloud computing environment, which security measure helps protect user accounts by requiring two different types of identification before granting access? Options: A. Firewalls B. Encryption C. Multi-Factor Authentication (MFA) D. Antivirus Software. Answer given: C. MFA.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q33. Ring topology workstation failure
+
+A small business uses ring network topology. If a single workstation goes down, what impact will it have on the network? Options: A. Minimal impact; network reroutes traffic B. Network becomes isolated C. Network slows down D. Network breaks completely. Answer given: D. Network breaks completely.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q34. Converting data into secure format
+
+What is the process of converting data into a secure format to prevent unauthorized access? Options: A. Encryption B. Authentication C. Authorization D. Compression. Answer given: A. Encryption.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q35. Protocol to secure data in transit
+
+Which protocol is commonly used to secure data in transit over the internet by encrypting communication between systems? Options: A. HTTP B. MTP C. SSL/TLS D. SMTP. Answer given: C. TLS.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q36. Most secure cloud deployment model
+
+You have recently started working for an organization that is migrating to a cloud-based infrastructure. As part of IT governance, you are responsible for ensuring data security in the cloud environment. In the context of IT governance and cloud security, which cloud deployment model is typically the most secure choice for organizations with highly sensitive data? Answer given: Private cloud.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q37. Server response to SYN
+
+After initializing a connection attempt to a remote server, a client application sends a SYN packet to indicate the request for establishing a reliable connection. What is the expected response from the server, assuming it is available and prepared to accept the connection? Answer given: The server responds with a SYN-ACK packet.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q38. Most secure Wi-Fi encryption protocol
+
+A network administrator is tasked with selecting a secure wireless encryption protocol. Which of the following is considered the most secure for Wi-Fi networks? Answer given: WPA3.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
+### Q39. Packet routing / firewall bypass attack
+
+Assume your computer's data was stolen by hackers through your network by mentioning the route to be used by the packets. This is done by the hackers to avoid security measures due to non-analyzing of source information instead of using a packet filter firewall. What is this type of attack called? Answer given: Source Routing Attack.
+
+Topics: OS/DBMS/CN MCQ  
+📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+
 ## 2026-10-21 · IIT Roorkee · FTE
 
 ### Q1. Minimum Increase in Experience Multiplier

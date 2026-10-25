@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | SQL Left Join Question |
+| 2026-10-22 | [Paytm](../companies/paytm.md) | BIT Mesra | List Customer and Product Without Sale |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | SQL Query - Players of Kolkata Knight Riders over 30 |
 | 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | Customer Country City (SQL) |
 | 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | Log Bids (SQL) |

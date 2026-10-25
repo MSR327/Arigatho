@@ -1,5 +1,14 @@
 # American Express OA
 
+## 2026-10-22 · IIT Roorkee · FTE
+
+### Q1. Largest Natural Number
+
+American Express Data Engineering role OA (IIT Roorkee). The poster said the OA had 3 LeetCode-hard coding problems and shared a link to one of them, 'Largest Natural Number': https://www.codinzhub.com/question/largest-natural-number-amex-data-engineering-role-online-assessmnet-iit-roorkee. The full problem statement, constraints and examples are not in the chat. They are only on the linked page, which could not be fetched.
+
+Topics: Math  
+📎 source: [msg 10495](../archive/inter-iit/2026-10.jsonl), [msg 10496](../archive/inter-iit/2026-10.jsonl)
+
 ## 2026-10-18 · MNNIT Allahabad · FTE
 
 ### Q1. OA pattern (Data Analytics role): MCQs + SQL, no coding
@@ -25,7 +34,7 @@ LeetCode 1404. Given the binary representation of an integer as a string s, retu
 
 Topics: Strings, Bit Manipulation  
 📎 source: [msg 6848](../archive/inter-nit/2026-10.jsonl)
-🔁 also asked at: IIT Mandi (2026-10-15)
+🔁 also asked at: IIT Mandi ×3 (last 2026-10-23), IIT Hyderabad (2026-10-23), IIT BHU (2026-10-24)
 
 ### Q2. Fruit Into Baskets
 
@@ -33,7 +42,7 @@ LeetCode 904. Given an array fruits where fruits[i] is the type of fruit on the 
 
 Topics: Sliding Window, Hashing, Arrays  
 📎 source: [msg 6848](../archive/inter-nit/2026-10.jsonl)
-🔁 also asked at: IIT Mandi (2026-10-15)
+🔁 also asked at: IIT Mandi ×3 (last 2026-10-23), IIT Hyderabad (2026-10-23), IIT BHU (2026-10-24)
 
 ### Q3. Minimum Fuel Cost to Report to the Capital
 
@@ -41,4 +50,4 @@ LeetCode 2477. A tree of n cities (0 to n-1) with city 0 as the capital, given b
 
 Topics: Trees, Graphs, Greedy  
 📎 source: [msg 6848](../archive/inter-nit/2026-10.jsonl)
-🔁 also asked at: IIT Mandi (2026-10-15)
+🔁 also asked at: IIT Mandi ×3 (last 2026-10-23), IIT Hyderabad (2026-10-23), IIT BHU (2026-10-24)

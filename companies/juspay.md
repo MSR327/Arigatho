@@ -1,5 +1,28 @@
 # Juspay OA
 
+## 2026-10-24 · IIT BHU · Unknown
+
+### Q1. Corporate Restructuring
+
+Past Juspay OA question recommended for practice. The poster says Juspay OA questions repeat every year, so 1 of the 3 questions will be a repeat. Only the title "Corporate Restructuring" was shared, with no statement.
+
+Topics: Other  
+📎 source: [msg 12257](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. Power Grid Management
+
+Past Juspay OA question recommended for practice (Juspay reportedly repeats 1 of its 3 OA questions each year). Only the title "Power Grid Management" was shared, with no statement.
+
+Topics: Graphs  
+📎 source: [msg 12257](../archive/inter-nit/2026-10.jsonl)
+
+### Q3. The Magical Sequence
+
+Past Juspay OA question recommended for practice (Juspay reportedly repeats 1 of its 3 OA questions each year). Only the title "The Magical Sequence" was shared, with no statement.
+
+Topics: Other  
+📎 source: [msg 12257](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-18 · IIIT Allahabad · FTE
 
 ### Q1. Sync Engine
@@ -38,4 +61,4 @@ UPDATE: An UPDATE provid... [message truncated here]
 
 Topics: Trees, Recursion/Backtracking, Other  
 📎 source: [msg 8360](../archive/inter-nit/2026-10.jsonl), [msg 8361](../archive/inter-iit/2026-10.jsonl)
-🔁 also asked at: MNNIT Allahabad ×2 (last 2026-10-18), IIIT Allahabad (2026-10-18)
+🔁 also asked at: MNNIT Allahabad ×2 (last 2026-10-18), IIIT Allahabad ×2 (last 2026-10-23)

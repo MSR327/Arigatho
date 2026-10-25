@@ -1,5 +1,21 @@
 # Alight Solutions OA
 
+## 2026-10-21 · IIT Roorkee · FTE
+
+### Q1. Graph problem (details not shared)
+
+A harder coding question based on graphs, given to some candidates instead of Maximum Subarray Sum. The poster did not share the exact problem statement.
+
+Topics: Graphs  
+📎 source: [msg 10215](../archive/inter-nit/2026-10.jsonl), [msg 10217](../archive/inter-nit/2026-10.jsonl), [msg 10225](../archive/inter-iit/2026-10.jsonl)
+
+### Q2. Minimum insertions to make a string a palindrome
+
+Given a string, find the minimum number of characters you need to insert to make it a palindrome (DP on strings, the Striver-style problem). The OA had 28 MCQs and 1 DSA coding question, and the coding question differed between candidates.
+
+Topics: Strings, DP  
+📎 source: [msg 10215](../archive/inter-nit/2026-10.jsonl), [msg 10217](../archive/inter-nit/2026-10.jsonl), [msg 10225](../archive/inter-iit/2026-10.jsonl)
+
 ## 2026-10-09 · IIT Roorkee · FTE
 
 ### Q1. Maximum subarray sum with start and end indices
@@ -8,6 +24,7 @@ Find the maximum subarray sum and also return the start and end indices of that 
 
 Topics: Arrays, DP  
 📎 source: [msg 4501](../archive/inter-nit/2026-10.jsonl), [msg 4507](../archive/inter-nit/2026-10.jsonl), [msg 4508](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Roorkee (2026-10-21)
 
 ### Q2. Split array into k segments, pair-count cost
 
@@ -31,3 +48,4 @@ The test had 29 questions in total, and only one was DSA. The rest were MCQs on 
 
 Topics: OS/DBMS/CN MCQ, Aptitude  
 📎 source: [msg 2822](../archive/inter-nit/2026-10.jsonl), [msg 2823](../archive/inter-nit/2026-10.jsonl), [msg 2834](../archive/inter-nit/2026-10.jsonl), [msg 2856](../archive/inter-nit/2026-10.jsonl), [msg 2858](../archive/inter-nit/2026-10.jsonl), [msg 2859](../archive/inter-nit/2026-10.jsonl), [msg 2860](../archive/inter-nit/2026-10.jsonl), [msg 2861](../archive/inter-nit/2026-10.jsonl), [msg 2863](../archive/inter-nit/2026-10.jsonl), [msg 2864](../archive/inter-nit/2026-10.jsonl), [msg 2867](../archive/inter-nit/2026-10.jsonl), [msg 2868](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Roorkee (2026-10-21)

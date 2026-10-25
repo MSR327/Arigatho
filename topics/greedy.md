@@ -2,7 +2,9 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | Max Distance from Non-Celebrating House to Celebrating House |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | Minimum Increase in Experience Multiplier |
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Task Scheduler (LeetCode 621) |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Minimum Fuel Cost to Report to the Capital |
 | 2026-10-15 | [Flipkart](../companies/flipkart.md) | MNNIT Allahabad | Partition Seller Reviews into K Batches (Minimize Max Batch Sum) |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | Palindrome with Question Marks |

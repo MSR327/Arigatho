@@ -2,6 +2,13 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur | Mario and the Number Mountain |
+| 2026-10-22 | [American Express](../companies/american-express.md) | IIT Roorkee | Largest Natural Number |
+| 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | ASCII Sum Digit-Sum to Character |
+| 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | Count Graphs on n Nodes with k Components mod m |
+| 2026-10-22 | [Slice](../companies/slice.md) | MNNIT Allahabad | Aptitude MCQs (finance/business and probability) |
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Linear Algebra MCQs (A^2 = I) |
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Probability MCQs (Bayes' theorem, circular bead arrangement) |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | IIT BHU | OA pattern: aptitude section + speed math section |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: 88888 + 8888 + 888 + 88 + 8 |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: 105 + 83 + 122 |
@@ -46,6 +53,16 @@
 | 2026-10-10 | [Finmechanics](../companies/finmechanics.md) | IIT Kanpur | Basic math DSA questions |
 | 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | Remaining water after watering trees |
 | 2026-10-09 | [Honda](../companies/honda.md) | VIT Vellore | Maximum GCD of Any Pair |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Piggy bank savings of five friends |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Streaming plan subscribers |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Wall construction with pairs of men |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Scheduling club activities in slots |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Probability 3 books together |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Painter average daily earnings |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Speeds of A, B, C, D |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Two dice sum 5 |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | BCD counter after 7 pulses |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | C program output (digit-weighted sum) |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | Cube painted green cut into 1000 cubes |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | Relative performance using normal distribution |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | Normalizing flu case data across cities |

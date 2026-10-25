@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-22 | [Slice](../companies/slice.md) | MNNIT Allahabad | Aptitude MCQs (finance/business and probability) |
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Probability MCQs (Bayes' theorem, circular bead arrangement) |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | IIT BHU | OA pattern: aptitude section + speed math section |
 | 2026-10-19 | [Houlihan Lokey](../companies/houlihan-lokey.md) | IIT Guwahati | Aptitude + English MCQ Sections |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | Speed Math: 88888 + 8888 + 888 + 88 + 8 |
@@ -92,6 +94,26 @@
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | Bayes: did it snow last night? |
 | 2026-10-11 | [Accenture](../companies/accenture.md) | IIT Dhanbad | MCQ Section (20 MCQs, 20 min) |
 | 2026-10-10 | [Finmechanics](../companies/finmechanics.md) | IIT Kanpur | Maths and logic section (probability) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Pen arrangement on shelf |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Blood relation - photograph (Rita) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Marathon finishing order |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Teachers in schools |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Letter pairs in PRECISE |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Piggy bank savings of five friends |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Day of week after 15 days |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Number arrangement machine |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Streaming plan subscribers |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Wall construction with pairs of men |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Scheduling club activities in slots |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Count triangles in grid with diagonal |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Probability 3 books together |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Doctors in a queue |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Football team selection (Phoenix/Devils) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Painter average daily earnings |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Speeds of A, B, C, D |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Two dice sum 5 |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Alphanumeric sequence |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Seating in a row |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | Cube painted green cut into 1000 cubes |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | HACKER arrangements with vowels together |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | Circular seating redundant statement |

@@ -24,7 +24,7 @@ Product Analyst OA (90 minutes total: 20 aptitude/probability/statistics/quant/e
 
 Topics: Math, Aptitude  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
-🔁 also asked at: IIT Dhanbad (2026-10-20)
+🔁 also asked at: IIT Dhanbad (2026-10-20), IIT Roorkee (2026-10-23)
 
 ### Q2. Highest power of 24 dividing 150!
 
@@ -32,7 +32,7 @@ What is the highest power of 24 that divides 150! exactly? Options: 42, 44, 46, 
 
 Topics: Math, Aptitude  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
-🔁 also asked at: IIT Dhanbad (2026-10-20)
+🔁 also asked at: IIT Dhanbad (2026-10-20), IIT Roorkee (2026-10-23)
 
 ### Q3. Normal distribution: P(mean > 55)
 
@@ -40,7 +40,7 @@ A dataset is normally distributed with mean 50 and standard deviation 5. What is
 
 Topics: Math, Aptitude  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
-🔁 also asked at: IIT Dhanbad (2026-10-20)
+🔁 also asked at: IIT Dhanbad (2026-10-20), IIT Roorkee (2026-10-23)
 
 ### Q4. Painted cube: red and blue faces
 
@@ -48,7 +48,7 @@ A cube of side 18 cm has two opposite faces coloured red and the other four face
 
 Topics: Aptitude  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
-🔁 also asked at: IIT Dhanbad (2026-10-20)
+🔁 also asked at: IIT Dhanbad (2026-10-20), IIT Roorkee (2026-10-23)
 
 ### Q5. Bayes: did it snow last night?
 
@@ -56,7 +56,7 @@ A girl knows the probability that it snows on any given night is 1/8. Her father
 
 Topics: Math, Aptitude  
 📎 source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [msg 5878](../archive/inter-nit/2026-10.jsonl)
-🔁 also asked at: IIT Dhanbad (2026-10-20)
+🔁 also asked at: IIT Dhanbad (2026-10-20), IIT Roorkee (2026-10-23)
 
 ### Q6. SQL: email campaign analysis
 

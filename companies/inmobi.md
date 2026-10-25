@@ -1,5 +1,23 @@
 # InMobi OA
 
+## 2026-10-22 · IIT Delhi · FTE
+
+### Q1. Word Ladder II variant with costs
+
+Very long problem statement. Similar to the Word Ladder II problem (find transformation sequences from a begin word to an end word changing one letter at a time using a dictionary), but with a cost attached to transformations.
+
+Topics: Graphs, Strings  
+📎 source: [msg 10787](../archive/inter-nit/2026-10.jsonl), [msg 10788](../archive/inter-nit/2026-10.jsonl), [msg 10790](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Delhi (2026-10-23)
+
+### Q2. Graph dependencies problem
+
+Second question was a long, somewhat confusing problem about dependencies modeled as a graph (dependency resolution / ordering).
+
+Topics: Graphs  
+📎 source: [msg 10787](../archive/inter-nit/2026-10.jsonl), [msg 10788](../archive/inter-nit/2026-10.jsonl), [msg 10790](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Delhi (2026-10-23)
+
 ## 2026-10-14 · IIT BHU · FTE
 
 ### Q1. Check Array Formation Through Concatenation (LeetCode 1640)

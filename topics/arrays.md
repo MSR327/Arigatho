@@ -2,6 +2,9 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur | Mario and the Number Mountain |
+| 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | Max Distance from Non-Celebrating House to Celebrating House |
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Cherry Pickup II (LeetCode 1463) |
 | 2026-10-19 | [Media.net](../companies/media-net.md) | Netaji Subhas University of Technology | Trapping Rain Water |
 | 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Subarrays with GCD Equal to G |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Count Inversions (MCQ) |

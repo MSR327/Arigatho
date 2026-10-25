@@ -1,5 +1,14 @@
 # InfoEdge OA
 
+## 2026-10-22 · IIT Roorkee · FTE
+
+### Q1. OA pattern: 40 MCQs on stats, ML, DL
+
+InfoEdge OA was MCQ only: 40 MCQs on statistics, machine learning and deep learning core concepts. Difficulty easy to medium. Some basic questions on AI agents were also asked.
+
+Topics: Other  
+📎 source: [msg 10831](../archive/inter-iit/2026-10.jsonl), [msg 10841](../archive/inter-iit/2026-10.jsonl), [msg 10890](../archive/inter-iit/2026-10.jsonl), [msg 10908](../archive/inter-iit/2026-10.jsonl)
+
 ## 2026-10-05 · IIT Guwahati · FTE
 
 ### Q1. Effect of increasing k in KNN

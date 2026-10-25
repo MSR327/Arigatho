@@ -2,6 +2,12 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-24 | [Visa](../companies/visa.md) | IIT BHU | Minimum Score of a Path Between Two Cities |
+| 2026-10-24 | [Juspay](../companies/juspay.md) | IIT BHU | Power Grid Management |
+| 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | Count Graphs on n Nodes with k Components mod m |
+| 2026-10-22 | [InMobi](../companies/inmobi.md) | IIT Delhi | Word Ladder II variant with costs |
+| 2026-10-22 | [InMobi](../companies/inmobi.md) | IIT Delhi | Graph dependencies problem |
+| 2026-10-21 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | Graph problem (details not shared) |
 | 2026-10-17 | [Media.net](../companies/media-net.md) | Delhi Technological University | Trapping Rain Water II |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Minimum Fuel Cost to Report to the Capital |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | Tree Traversal Integrity (Valid BFS) |

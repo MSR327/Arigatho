@@ -2,6 +2,41 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Cloud storage with dynamic scaling |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | HTTP method to read restaurant list |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | HTTP status code for Not Found |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | System calls to create process and run executable |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Protocol to secure data in transit |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Most secure cloud deployment model |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Server response to SYN |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Most secure Wi-Fi encryption protocol |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Packet routing / firewall bypass attack |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Accumulator to memory transfer |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Hybrid cloud connectivity |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | VPN for remote access |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Routing manipulation attack |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Register saved during context switch |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | I/O bus device controller with built-in cache |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Attack on symmetric encryption key |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Containerization characteristic |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | WPA3 configuration on Android |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Resource pooling and storage elasticity |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | OS property for application compatibility |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Handling cloud traffic spikes |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Shared responsibility model |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Protocol for secure email transmission |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Container hardware isolation |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | OS property for security after breach |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | VPN topology for two offices |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | RESTful endpoint for product by ID |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Container consuming massive memory |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Isolated environments on one server |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | OSI layer for transmitting signals |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | OSI layer for routing packets |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Two-factor identification security measure |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Ring topology workstation failure |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Converting data into secure format |
+| 2026-10-22 | [IBM](../companies/ibm.md) | IIT BHU | OA pattern: 3 LeetCode hard + 20 OOPs/DBMS MCQs |
 | 2026-10-19 | [Houlihan Lokey](../companies/houlihan-lokey.md) | IIT Guwahati | Technical MCQ Section |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Analytics role): MCQs + SQL, no coding |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude |

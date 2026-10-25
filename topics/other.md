@@ -2,7 +2,19 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | DevOps continuous deployment |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | PowerPoint restrict slide navigation |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Word document template format |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | PowerPoint dynamic progression feature |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | PivotTable custom calculations |
+| 2026-10-24 | [Juspay](../companies/juspay.md) | IIT BHU | Corporate Restructuring |
+| 2026-10-24 | [Juspay](../companies/juspay.md) | IIT BHU | The Magical Sequence |
+| 2026-10-22 | [Paytm](../companies/paytm.md) | BIT Mesra | Bank Transactions |
+| 2026-10-22 | [InfoEdge](../companies/infoedge.md) | IIT Roorkee | OA pattern: 40 MCQs on stats, ML, DL |
+| 2026-10-22 | [Capital One](../companies/capital-one.md) | IIT BHU | OA pattern: 4 coding questions |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | Currency Converter (Frontend HTML/CSS/JS) |
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Quantum Computing MCQs |
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Python pseudocode output MCQs |
 | 2026-10-18 | [Juspay](../companies/juspay.md) | IIIT Allahabad | Sync Engine |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | Indicated hp to shaft hp ratio |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | NC contouring positioning type |
@@ -97,6 +109,46 @@
 | 2026-10-13 | [MyGate](../companies/mygate.md) | IIT Delhi | 7 DSA MCQs |
 | 2026-10-10 | [Finmechanics](../companies/finmechanics.md) | IIT Kanpur | Finance comprehension |
 | 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | Web dev HTML/CSS/JS task |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Convolution output y(1) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Op-amp differentiator modeled as HPF |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | NMOS source follower with diode-connected load |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Fourier transform of staircase pulse |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Current in series RL circuit |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | PN diode vs Schottky diode states |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | RC network time constant |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Maximum average power transfer to R |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | BJT self-bias emitter current |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Resistance seen at MOS source |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Average power in 5 ohm resistor |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Equivalent impedance of AC network |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | RC charging wait time |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | BJT base drive current |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | IC 555 astable charging vs discharging time |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Switched-capacitor effective resistance |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Power in 12 ohm resistor |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Op-amp RC capacitor voltage |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Diode circuit output peak |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Ripple factor of inductor filter |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | 4:1 MUX output |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | RTL toggle/load flip-flop final value |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | PROM size for dual mux selection logic |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Setup slack (static timing analysis) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | C macro/shift operator output |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | BCD counter after 7 pulses |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | C program output (digit-weighted sum) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Discrete-time system properties |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | 3-input NAND HIGH output count |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Fixing WNS after place-and-route |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Flip-flop type realized by SR circuit |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Synchronous counter 0-3-1-2 |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | PROM size for traffic light FSM |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Microcontroller loop count |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | 8086 assembly CX value |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Norton to Thevenin conversion |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | CMOS 3-input NAND delay with parasitics |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Minterm expression equivalence |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Aliasing when sampling at 30 kHz |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | Ripple counter settling time |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | Normalizing flu case data across cities |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | Effect of increasing k in KNN |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | Calibrated model positive ratio |

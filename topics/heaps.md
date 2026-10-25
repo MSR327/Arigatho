@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Task Scheduler (LeetCode 621) |
 | 2026-10-17 | [Media.net](../companies/media-net.md) | Delhi Technological University | Trapping Rain Water II |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Min Heap Operations (MCQ) |
 | 2026-10-15 | [MyGate](../companies/mygate.md) | IIT Guwahati | Sliding Window Maximum (LeetCode 239) |
