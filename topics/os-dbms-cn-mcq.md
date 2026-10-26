@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-26 | [InfoEdge](../companies/infoedge.md) | MNNIT Allahabad | OA pattern: aptitude/core CS MCQs + 2 DSA |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Cloud storage with dynamic scaling |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | HTTP method to read restaurant list |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | HTTP status code for Not Found |

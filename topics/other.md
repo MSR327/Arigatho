@@ -7,6 +7,12 @@
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Word document template format |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | PowerPoint dynamic progression feature |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | PivotTable custom calculations |
+| 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | Build an LLM Pipeline |
+| 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | CNN Image Classification Model |
+| 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | ETL Pipeline in Clojure |
+| 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | OA pattern (Data Science/Data Engineer): 3 coding tasks |
+| 2026-10-25 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | OA pattern (Digital/Analog role): op-amp MCQs + aptitude |
+| 2026-10-25 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT BHU | OA pattern (from seniors): ML/DL/GenAI MCQs + 2 DSA |
 | 2026-10-24 | [Juspay](../companies/juspay.md) | IIT BHU | Corporate Restructuring |
 | 2026-10-24 | [Juspay](../companies/juspay.md) | IIT BHU | The Magical Sequence |
 | 2026-10-22 | [Paytm](../companies/paytm.md) | BIT Mesra | Bank Transactions |

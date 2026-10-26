@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-26 | [InfoEdge](../companies/infoedge.md) | MNNIT Allahabad | OA pattern: aptitude/core CS MCQs + 2 DSA |
+| 2026-10-25 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | OA pattern (Digital/Analog role): op-amp MCQs + aptitude |
 | 2026-10-22 | [Slice](../companies/slice.md) | MNNIT Allahabad | Aptitude MCQs (finance/business and probability) |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Probability MCQs (Bayes' theorem, circular bead arrangement) |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | IIT BHU | OA pattern: aptitude section + speed math section |

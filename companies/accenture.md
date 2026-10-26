@@ -8,6 +8,7 @@ In a cloud-based application where scalability is crucial, which cloud storage o
 
 Topics: OS/DBMS/CN MCQ  
 📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+🔁 also asked at: IIT Guwahati (2026-10-25)
 
 ### Q2. Accumulator to memory transfer
 
@@ -88,6 +89,7 @@ A mobile application needs to retrieve a list of all available restaurants from 
 
 Topics: OS/DBMS/CN MCQ  
 📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+🔁 also asked at: IIT Guwahati (2026-10-25)
 
 ### Q13. Resource pooling and storage elasticity
 
@@ -151,6 +153,7 @@ During application development, a developer encounters an error due to an incorr
 
 Topics: OS/DBMS/CN MCQ  
 📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+🔁 also asked at: IIT Guwahati (2026-10-25)
 
 ### Q22. OS property for security after breach
 
@@ -221,6 +224,7 @@ A developer writes a program that needs to create a new process and run a differ
 
 Topics: OS/DBMS/CN MCQ  
 📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+🔁 also asked at: IIT Guwahati (2026-10-25)
 
 ### Q32. Two-factor identification security measure
 
@@ -249,6 +253,7 @@ Which protocol is commonly used to secure data in transit over the internet by e
 
 Topics: OS/DBMS/CN MCQ  
 📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+🔁 also asked at: IIT Guwahati (2026-10-25)
 
 ### Q36. Most secure cloud deployment model
 
@@ -256,6 +261,7 @@ You have recently started working for an organization that is migrating to a clo
 
 Topics: OS/DBMS/CN MCQ  
 📎 source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)
+🔁 also asked at: IIT Guwahati (2026-10-25)
 
 ### Q37. Server response to SYN
 

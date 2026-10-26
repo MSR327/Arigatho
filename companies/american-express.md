@@ -1,5 +1,35 @@
 # American Express OA
 
+## 2026-10-25 · IIT Guwahati · FTE
+
+### Q1. Build an LLM Pipeline
+
+Coding task (not DSA) for the data engineer / data science role: build an LLM pipeline. A chatbot assistant is provided for this question.
+
+Topics: Other  
+📎 source: [msg 12999](../archive/inter-nit/2026-10.jsonl), [msg 13000](../archive/inter-nit/2026-10.jsonl), [msg 13001](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. CNN Image Classification Model
+
+Coding task (not DSA): build a CNN model for classification. No chatbot allowed. The environment is a VS Code-style interface with all data files already set up and cleaned.
+
+Topics: Other  
+📎 source: [msg 12999](../archive/inter-nit/2026-10.jsonl), [msg 13000](../archive/inter-nit/2026-10.jsonl), [msg 13001](../archive/inter-nit/2026-10.jsonl)
+
+### Q3. ETL Pipeline in Clojure
+
+Coding task (not DSA): implement an ETL pipeline using the Clojure programming language.
+
+Topics: Other  
+📎 source: [msg 12999](../archive/inter-nit/2026-10.jsonl), [msg 13000](../archive/inter-nit/2026-10.jsonl), [msg 13001](../archive/inter-nit/2026-10.jsonl)
+
+### Q4. OA pattern (Data Science/Data Engineer): 3 coding tasks
+
+American Express OA for the Data Science / Data Engineer role had 3 coding tasks: (1) building an LLM pipeline, (2) building a CNN classification model, (3) building an ETL pipeline in Clojure.
+
+Topics: Other  
+📎 source: [msg 13125](../archive/inter-iit/2026-10.jsonl)
+
 ## 2026-10-22 · IIT Roorkee · FTE
 
 ### Q1. Largest Natural Number
@@ -25,6 +55,7 @@ American Express OA for the Data Engineer role: SQL questions, plus MCQs on ML, 
 
 Topics: SQL, OS/DBMS/CN MCQ, Aptitude  
 📎 source: [msg 8287](../archive/inter-nit/2026-10.jsonl), [msg 8293](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: MNNIT Allahabad (2026-10-26)
 
 ## 2026-10-15 · IIT Mandi · FTE
 

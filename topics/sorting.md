@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-25 | [NatWest](../companies/natwest.md) | IIT Guwahati | Smallest Permutation of an Integer |
+| 2026-10-25 | [NatWest](../companies/natwest.md) | IIT BHU | DSA questions: sorting + pick/not-pick DP |
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur | Mario and the Number Mountain |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | Minimum Increase in Experience Multiplier |
 | 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | Kth Character of Concatenated Sorted Unique Substrings |

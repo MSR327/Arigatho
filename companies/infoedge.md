@@ -1,5 +1,14 @@
 # InfoEdge OA
 
+## 2026-10-26 · MNNIT Allahabad · FTE
+
+### Q1. OA pattern: aptitude/core CS MCQs + 2 DSA
+
+InfoEdge OA pattern: MCQs on aptitude and core CS, plus 2 DSA coding questions.
+
+Topics: Aptitude, OS/DBMS/CN MCQ  
+📎 source: [msg 13210](../archive/inter-nit/2026-10.jsonl)
+
 ## 2026-10-22 · IIT Roorkee · FTE
 
 ### Q1. OA pattern: 40 MCQs on stats, ML, DL

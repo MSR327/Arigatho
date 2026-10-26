@@ -1,5 +1,14 @@
 # Texas Instruments OA
 
+## 2026-10-25 · IIT BHU · FTE
+
+### Q1. OA pattern (Digital/Analog role): op-amp MCQs + aptitude
+
+Texas Instruments OA for the digital/analog role: MCQs on op-amps, aptitude questions, and questions from every core electronics topic.
+
+Topics: Other, Aptitude  
+📎 source: [msg 13142](../archive/inter-iit/2026-10.jsonl)
+
 ## 2026-10-08 · IIT Hyderabad · FTE
 
 ### Q1. Pen arrangement on shelf

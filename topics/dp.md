@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-25 | [NatWest](../companies/natwest.md) | IIT Guwahati | Largest Odd-Sized Palindromic Square Submatrix |
+| 2026-10-25 | [NatWest](../companies/natwest.md) | IIT BHU | DSA questions: sorting + pick/not-pick DP |
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur | Edit the Filename |
 | 2026-10-24 | [Wayfair](../companies/wayfair.md) | BHU | LIS-based problem |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | Count Graphs on n Nodes with k Components mod m |

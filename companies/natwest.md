@@ -1,5 +1,53 @@
 # NatWest OA
 
+## 2026-10-25 · IIT Guwahati · FTE
+
+### Q1. Smallest Permutation of an Integer
+
+You are given an integer N, which can be positive or negative. Rearrange its digits to form the smallest possible integer.
+Conditions:
+- Use every digit exactly once.
+- No leading zeros are allowed.
+- The sign must remain unchanged.
+Examples:
+N = 31020 -> Output: 10023
+N = -31020 -> Output: -32100
+N = 90001 -> Output: 10009
+Constraint: -10^7 <= N <= 10^7
+
+Topics: Strings, Sorting, Greedy  
+📎 source: [msg 13020](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. Largest Odd-Sized Palindromic Square Submatrix
+
+You are given an N x M integer grid. Find the largest odd-sized square submatrix (1x1, 3x3, 5x5, ...) such that opposite elements are equal when the square is rotated by 180 degrees.
+For example, this 3x3 matrix is valid:
+1 2 3
+4 5 4
+3 2 1
+Here, the first row is the reverse of the last row, and the middle row is itself a palindrome.
+Similarly, for a 5x5 square, the 1st row should be the reverse of the 5th row, the 2nd row should be the reverse of the 4th row, and the middle row should be a palindrome.
+Return the maximum number of elements in such a square (area, not side length).
+Example:
+Input:
+1 2 3
+4 5 4
+3 2 1
+Output: 9
+If no valid square larger than 1x1 exists, return 1.
+
+Topics: Arrays, DP  
+📎 source: [msg 13020](../archive/inter-nit/2026-10.jsonl)
+
+## 2026-10-25 · IIT BHU · FTE
+
+### Q1. DSA questions: sorting + pick/not-pick DP
+
+The poster's 2 easy-to-medium DSA questions were a sorting problem and a pick / not-pick (take / not take) DP problem. No full problem statements were shared.
+
+Topics: Sorting, DP  
+📎 source: [msg 13087](../archive/inter-iit/2026-10.jsonl)
+
 ## 2026-10-14 · IIT BHU · FTE
 
 ### Q1. Count Occurrences of a Digit in a Number
@@ -22,7 +70,7 @@ The test also had a behavioural section (100 questions, no time limit), a reason
 
 Topics: SQL, Aptitude  
 📎 source: [msg 6551](../archive/inter-nit/2026-10.jsonl)
-🔁 also asked at: IIT BHU (2026-10-15)
+🔁 also asked at: IIT BHU ×2 (last 2026-10-25)
 
 ## 2026-10-12 · IIT Guwahati · FTE
 

@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-25 | [NatWest](../companies/natwest.md) | IIT Guwahati | Largest Odd-Sized Palindromic Square Submatrix |
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur | Mario and the Number Mountain |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | Max Distance from Non-Celebrating House to Celebrating House |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Cherry Pickup II (LeetCode 1463) |

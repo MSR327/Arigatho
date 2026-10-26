@@ -11,6 +11,7 @@ Sample: Input "Hello" / "There" -> Output 5. (The statement says the strings are
 
 Topics: Strings, DP  
 📎 source: [Mastercard_OA_iitkgp.pdf](../archive/files/12277-Mastercard_OA_iitkgp.pdf)
+🔁 also asked at: IIT Kharagpur (2026-10-25)
 
 ### Q2. Mario and the Number Mountain
 
@@ -39,3 +40,4 @@ Expected output:
 
 Topics: Arrays, Sorting, Math  
 📎 source: [Mastercard_OA_iitkgp.pdf](../archive/files/12277-Mastercard_OA_iitkgp.pdf)
+🔁 also asked at: IIT Kharagpur (2026-10-25)
