@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | Minimum K with Even Powers of 2 |
+| 2026-10-26 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | Minimum Files to Change for Protection |
 | 2026-10-25 | [NatWest](../companies/natwest.md) | IIT Guwahati | Smallest Permutation of an Integer |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | Max Distance from Non-Celebrating House to Celebrating House |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | Minimum Increase in Experience Multiplier |

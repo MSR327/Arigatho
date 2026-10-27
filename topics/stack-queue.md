@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | How Stack Works in Recursion |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | Iterative In-order Traversal Using Stack |
 | 2026-10-19 | [Media.net](../companies/media-net.md) | Netaji Subhas University of Technology | Trapping Rain Water |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | Tree Traversal Integrity (Valid BFS) |
 | 2026-10-15 | [MyGate](../companies/mygate.md) | IIT Guwahati | Sliding Window Maximum (LeetCode 239) |

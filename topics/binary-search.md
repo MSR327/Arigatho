@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | Count Timestamps in Last 10 Units |
 | 2026-10-24 | [Wayfair](../companies/wayfair.md) | BHU | LIS-based problem |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | Minimum Increase in Experience Multiplier |
 | 2026-10-15 | [Flipkart](../companies/flipkart.md) | MNNIT Allahabad | Partition Seller Reviews into K Batches (Minimize Max Batch Sum) |

@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | Remove Node to Minimise Infection in Tree |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | Iterative In-order Traversal Using Stack |
 | 2026-10-18 | [Juspay](../companies/juspay.md) | IIIT Allahabad | Sync Engine |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Binary Tree Traversals (MSQ) |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Minimum Fuel Cost to Report to the Capital |

@@ -1,9 +1,12 @@
 # OA Questions Tracker
 
-Last updated 26 Oct 2026 14:02 · 566 questions · 45 companies
+Last updated 27 Oct 2026 14:02 · 576 questions · 47 companies
 
 ## New this week
 
+- Visa · IIT BHU · 2026-10-26 · 5 questions
+- ThoughtSpot · IIT BHU · 2026-10-26 · 1 question
+- Nvidia · MNNIT Allahabad · 2026-10-26 · 4 questions
 - InfoEdge · MNNIT Allahabad · 2026-10-26 · 1 question
 - Texas Instruments · IIT BHU · 2026-10-25 · 1 question
 - Paytm · BITS Pilani · 2026-10-25 · 1 question
@@ -28,10 +31,6 @@ Last updated 26 Oct 2026 14:02 · 566 questions · 45 companies
 - Accenture · IIT Roorkee · 2026-10-21 · 3 questions
 - Accelequant · IIT Indore · 2026-10-21 · 6 questions
 - Eternal (Zomato) · IIT Guwahati · 2026-10-20 · 2 questions
-- Media.net · Netaji Subhas University of Technology · 2026-10-19 · 1 question
-- Houlihan Lokey · IIT Guwahati · 2026-10-19 · 2 questions
-- Futures First · MNNIT Allahabad · 2026-10-19 · 15 questions
-- Futures First · IIT BHU · 2026-10-19 · 1 question
 
 ## By company
 
@@ -58,11 +57,13 @@ Last updated 26 Oct 2026 14:02 · 566 questions · 45 companies
 | [Meltwater](companies/meltwater.md) | 6 | IIT Hyderabad, VIT Vellore | 2026-10-16 |
 | [Spotnana](companies/spotnana.md) | 6 | IIT Delhi, IIT Kanpur | 2026-10-10 |
 | [Squarepoint](companies/squarepoint.md) | 6 | IIT Kanpur, IIT Kharagpur, IIT Roorkee | 2026-10-15 |
+| [Visa](companies/visa.md) | 6 | IIT BHU | 2026-10-26 |
 | [Flipkart](companies/flipkart.md) | 5 | IIT BHU, MNNIT Allahabad | 2026-10-22 |
 | [MyGate](companies/mygate.md) | 5 | IIT BHU, IIT Delhi, IIT Guwahati | 2026-10-15 |
 | [Nielsen](companies/nielsen.md) | 5 | VIT Vellore | 2026-10-13 |
 | [Capgemini](companies/capgemini.md) | 4 | NIT Trichy | 2026-09-24 |
 | [Juspay](companies/juspay.md) | 4 | IIIT Allahabad, IIT BHU, MNNIT Allahabad | 2026-10-24 |
+| [Nvidia](companies/nvidia.md) | 4 | MNNIT Allahabad | 2026-10-26 |
 | [Pace Stock](companies/pace-stock.md) | 4 | IIT Kharagpur | 2026-10-06 |
 | [Paytm](companies/paytm.md) | 3 | BIT Mesra, BITS Pilani | 2026-10-25 |
 | [Tech Mahindra](companies/tech-mahindra.md) | 3 | IIT Delhi | 2026-10-14 |
@@ -81,7 +82,7 @@ Last updated 26 Oct 2026 14:02 · 566 questions · 45 companies
 | [ICICI](companies/icici.md) | 1 | IIT Guwahati | 2026-10-18 |
 | [Slice](companies/slice.md) | 1 | MNNIT Allahabad | 2026-10-22 |
 | [Straive](companies/straive.md) | 1 | IIT Guwahati | 2026-10-16 |
-| [Visa](companies/visa.md) | 1 | IIT BHU | 2026-10-24 |
+| [ThoughtSpot](companies/thoughtspot.md) | 1 | IIT BHU | 2026-10-26 |
 
 ## By college
 
@@ -90,7 +91,7 @@ Last updated 26 Oct 2026 14:02 · 566 questions · 45 companies
 **BITS Pilani:** Accenture (39), Paytm (1)  
 **Delhi Technological University:** NatWest (8), Media.net (1)  
 **IIIT Allahabad:** Juspay (1)  
-**IIT BHU:** InMobi (7), NatWest (4), Flipkart (4), Eternal (Zomato) (3), Juspay (3), Teradata (2), MyGate (1), Futures First (1), IBM (1), Capital One (1), Visa (1), Texas Instruments (1), Commonwealth Bank of Australia (1)  
+**IIT BHU:** InMobi (7), Visa (6), NatWest (4), Flipkart (4), Eternal (Zomato) (3), Juspay (3), Teradata (2), MyGate (1), Futures First (1), IBM (1), Capital One (1), Texas Instruments (1), Commonwealth Bank of Australia (1), ThoughtSpot (1)  
 **IIT Bombay:** Media.net (4), InMobi (1)  
 **IIT Delhi:** Qualcomm (34), Accenture (33), Rystad Energy (31), Spotnana (3), Tech Mahindra (3), Deutsche Bank (3), MyGate (2), Microsoft (2), Honda (2), InMobi (2)  
 **IIT Dhanbad:** Eternal (Zomato) (15), Accenture (6), Warner Music Group (3)  
@@ -102,7 +103,7 @@ Last updated 26 Oct 2026 14:02 · 566 questions · 45 companies
 **IIT Madras:** Eternal (Zomato) (12)  
 **IIT Mandi:** American Express (3)  
 **IIT Roorkee:** Alight Solutions (6), Accenture (3), Squarepoint (2), InMobi (1), Harness (1), American Express (1), InfoEdge (1)  
-**MNNIT Allahabad:** Reliance (94), Harness (19), Futures First (15), American Express (2), Flipkart (1), Slice (1), InfoEdge (1)  
+**MNNIT Allahabad:** Reliance (94), Harness (19), Futures First (15), Nvidia (4), American Express (2), Flipkart (1), Slice (1), InfoEdge (1)  
 **NIT Patna:** InfoEdge (10)  
 **NIT Rourkela:** Harness (1)  
 **NIT Surathkal:** Harness (2)  
@@ -117,22 +118,22 @@ Last updated 26 Oct 2026 14:02 · 566 questions · 45 companies
 |---|---|
 | [Other](topics/other.md) | 178 |
 | [Aptitude](topics/aptitude.md) | 124 |
-| [Math](topics/math.md) | 82 |
-| [OS/DBMS/CN MCQ](topics/os-dbms-cn-mcq.md) | 70 |
-| [Arrays](topics/arrays.md) | 63 |
+| [Math](topics/math.md) | 85 |
+| [OS/DBMS/CN MCQ](topics/os-dbms-cn-mcq.md) | 71 |
+| [Arrays](topics/arrays.md) | 64 |
 | [SQL](topics/sql.md) | 39 |
 | [DP](topics/dp.md) | 35 |
+| [Graphs](topics/graphs.md) | 31 |
 | [Strings](topics/strings.md) | 30 |
-| [Graphs](topics/graphs.md) | 29 |
-| [Hashing](topics/hashing.md) | 29 |
-| [Greedy](topics/greedy.md) | 24 |
-| [Sorting](topics/sorting.md) | 18 |
-| [Binary Search](topics/binary-search.md) | 14 |
-| [Bit Manipulation](topics/bit-manipulation.md) | 13 |
-| [Stack/Queue](topics/stack-queue.md) | 12 |
-| [Trees](topics/trees.md) | 12 |
-| [Recursion/Backtracking](topics/recursion-backtracking.md) | 9 |
-| [Two Pointers](topics/two-pointers.md) | 8 |
+| [Hashing](topics/hashing.md) | 30 |
+| [Greedy](topics/greedy.md) | 26 |
+| [Sorting](topics/sorting.md) | 19 |
+| [Binary Search](topics/binary-search.md) | 15 |
+| [Bit Manipulation](topics/bit-manipulation.md) | 15 |
+| [Stack/Queue](topics/stack-queue.md) | 14 |
+| [Trees](topics/trees.md) | 14 |
+| [Recursion/Backtracking](topics/recursion-backtracking.md) | 10 |
+| [Two Pointers](topics/two-pointers.md) | 9 |
 | [Heaps](topics/heaps.md) | 7 |
-| [Sliding Window](topics/sliding-window.md) | 6 |
+| [Sliding Window](topics/sliding-window.md) | 7 |
 | [Linked List](topics/linked-list.md) | 1 |

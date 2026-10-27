@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | Remove Node to Minimise Infection in Tree |
+| 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | Max Common Friends Non-Friend |
 | 2026-10-24 | [Visa](../companies/visa.md) | IIT BHU | Minimum Score of a Path Between Two Cities |
 | 2026-10-24 | [Juspay](../companies/juspay.md) | IIT BHU | Power Grid Management |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | Count Graphs on n Nodes with k Components mod m |

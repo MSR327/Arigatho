@@ -2,6 +2,8 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | Minimum K with Even Powers of 2 |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | 32-bit Multiplication on 16-bit ALU |
 | 2026-10-25 | [Paytm](../companies/paytm.md) | BITS Pilani | Number of Steps to Reduce a Number in Binary Representation to One (LC 1404) |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | Decimal to Binary Code Output (MCQ) |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Number of Steps to Reduce a Binary Number to One |

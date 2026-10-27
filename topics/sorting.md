@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-26 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | Minimum Files to Change for Protection |
 | 2026-10-25 | [NatWest](../companies/natwest.md) | IIT Guwahati | Smallest Permutation of an Integer |
 | 2026-10-25 | [NatWest](../companies/natwest.md) | IIT BHU | DSA questions: sorting + pick/not-pick DP |
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur | Mario and the Number Mountain |

@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | Count Timestamps in Last 10 Units |
 | 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | Fruit Into Baskets |
 | 2026-10-15 | [MyGate](../companies/mygate.md) | IIT Guwahati | Sliding Window Maximum (LeetCode 239) |
 | 2026-10-13 | [MyGate](../companies/mygate.md) | IIT Delhi | Longest Substring Without Repeating Characters (LeetCode 3) |

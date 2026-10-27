@@ -2,6 +2,9 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | Missed Chapters in Cyclic Teaching |
+| 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | Minimum K with Even Powers of 2 |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | 32-bit Multiplication on 16-bit ALU |
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur | Mario and the Number Mountain |
 | 2026-10-22 | [American Express](../companies/american-express.md) | IIT Roorkee | Largest Natural Number |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | ASCII Sum Digit-Sum to Character |
