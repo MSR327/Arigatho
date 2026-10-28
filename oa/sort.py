@@ -10,8 +10,8 @@ from datetime import date
 
 from oa import leetcode
 from oa.common import (ARCHIVE, BATCH_SIZE, COLLEGE_ALIASES, COMPANY_ALIASES, LOGS, PROMPTS,
-                       QUESTIONS, ROOT, STATE, TOPICS, append_jsonl, canonical, log, notify,
-                       read_jsonl, short_error)
+                       QUESTIONS, ROOT, STATE, TOPICS, append_jsonl, canonical, load_groups, log,
+                       notify, read_jsonl, short_error)
 from oa.store import Archive, attachment_relpath, load_state, save_state
 
 REV = 2  # rows sorted or enriched with the v2 topic list and LeetCode matching
@@ -81,9 +81,34 @@ def format_message(rec):
     return "\n".join(lines)
 
 
-def build_batch_prompt(batch, companies):
+def group_context(slug, groups):
+    """One line telling Claude where these messages were posted."""
+    g = groups.get(slug)
+    if not g:
+        return "These messages come from an OAHelper placement group chat."
+    name, place = g.get("name") or slug, g.get("company") or ""
+    if g.get("role") == "Campus":
+        return (f'These messages come from "{name}", the placement group of {place}: an OA discussed '
+                f"here was most likely held at {place}, unless a message says otherwise.")
+    if g.get("role") == "OA preparation":
+        return (f'These messages come from "{name}", the group for {place} OAs: the company is '
+                f"{place} unless a message says otherwise.")
+    return f'These messages come from the OAHelper group "{name}".'
+
+
+def group_rank(slug, groups):
+    """Order to sort groups in, so a run stopped by the usage limit has done the most useful
+    ones: company OA groups, the user's campus, the placement/intern batches, other campuses."""
+    role = (groups.get(slug) or {}).get("role")
+    if slug.startswith("campus-iit-kharagpur"):
+        return 1
+    return {"OA preparation": 0, None: 2, "Internship": 3, "Campus": 4}.get(role, 5)
+
+
+def build_batch_prompt(batch, companies, group=""):
     template = (PROMPTS / "sort.md").read_text()
     return template.format(
+        group=group or "These messages come from an OAHelper placement group chat.",
         companies=", ".join(companies) or "(none yet)",
         topics=", ".join(TOPICS),
         messages="\n\n".join(format_message(r) for r in batch),
@@ -151,13 +176,21 @@ def sort_pending(archive, state, runner=run_claude, batch_size=BATCH_SIZE, limit
     skip = [r["id"] for r in pending if not is_sortable(r)]
     state["sorted_ids"] += skip
     save()
-    todo = [r for r in pending if is_sortable(r)]
+    groups = load_groups()
+    todo = sorted((r for r in pending if is_sortable(r)),
+                  key=lambda r: (group_rank(r["group"], groups), r["group"], r["id"]))
+    batches = []  # one group per batch, so each batch reads as one conversation
+    for r in todo:
+        if batches and batches[-1][0]["group"] == r["group"] and len(batches[-1]) < batch_size:
+            batches[-1].append(r)
+        else:
+            batches.append([r])
     existing = read_jsonl(questions_path)
     new_rows = []
-    for i in range(0, len(todo), batch_size):
-        batch = todo[i:i + batch_size]
+    for batch in batches:
         ids = {r["id"] for r in batch}
-        prompt = build_batch_prompt(batch, known_companies(existing + new_rows))
+        prompt = build_batch_prompt(batch, known_companies(existing + new_rows),
+                                    group_context(batch[0]["group"], groups))
         rows = None
         for attempt in (1, 2):
             try:

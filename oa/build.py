@@ -8,7 +8,7 @@ from collections import Counter, defaultdict
 from datetime import datetime, timedelta
 
 from oa import leetcode
-from oa.common import ARCHIVE, QUESTIONS, ROOT, TOPIC_GROUPS, read_jsonl
+from oa.common import ARCHIVE, QUESTIONS, ROOT, SKIP_GROUPS, TOPIC_GROUPS, load_groups, read_jsonl
 from oa.store import Archive, attachment_relpath
 
 
@@ -217,7 +217,7 @@ def _practice_page(originals, dups, q_link):
     return "\n".join(out) + "\n"
 
 
-def build_site(rows, messages, out, now, locs=None):
+def build_site(rows, messages, out, now, locs=None, groups=None):
     locs = locs or {}
     originals = [r for r in rows if not r["duplicate_of"]]
     dups = defaultdict(list)
@@ -263,6 +263,11 @@ def build_site(rows, messages, out, now, locs=None):
           "Online-assessment questions shared in the OAHelper placement groups, sorted by company, "
           "topic and college. Each company page lists its OA drives, newest first. A question "
           "shared again later is folded into the first time it was seen (\"also asked at\").", "",
+          *([f"Read daily from {_plural(len(groups), 'OAHelper group')}: "
+             f"{sum(1 for g in groups.values() if g.get('role') == 'OA preparation')} company OA groups, "
+             f"{sum(1 for g in groups.values() if g.get('role') == 'Campus')} campus groups, and the "
+             "placement and intern batch groups. New groups are joined automatically.", ""]
+            if groups else []),
           "## New this week", ""]
     if not recent:
         md.append("Nothing new in the last 7 days.")
@@ -304,7 +309,8 @@ def build_site(rows, messages, out, now, locs=None):
 
 def main():
     rows = read_jsonl(QUESTIONS)
-    build_site(rows, Archive(ARCHIVE).by_id(), ROOT, datetime.now(), message_lines(ARCHIVE))
+    groups = {k: v for k, v in load_groups().items() if k not in SKIP_GROUPS}
+    build_site(rows, Archive(ARCHIVE).by_id(), ROOT, datetime.now(), message_lines(ARCHIVE), groups)
     print(f"built pages for {len(rows)} questions")
     return 0
 

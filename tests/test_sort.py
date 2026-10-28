@@ -199,3 +199,38 @@ def test_enrich_retags_resumably(tmp_path):
     assert rows["1-1"]["topics"] == ["Analog Electronics"] and rows["1-1"]["rev"] == 2
     assert rows["1-2"]["topics"] == ["Other"] and "rev" not in rows["1-2"]  # resumes here
     assert "[1-1] TI: Op-amp" in seen[0] and "Repost" not in "".join(seen) and "Done" not in "".join(seen)
+
+
+def test_group_context_and_rank():
+    from oa.sort import group_context, group_rank
+    groups = {"accenture-oa": {"name": "Accenture OA", "company": "Accenture", "role": "OA preparation"},
+              "campus-iit-kharagpur-placements": {"name": "IIT Kharagpur Placement Discussion",
+                                                  "company": "IIT Kharagpur", "role": "Campus"},
+              "campus-iit-delhi-placements": {"name": "IIT Delhi Placement Discussion",
+                                              "company": "IIT Delhi", "role": "Campus"},
+              "inter-iit": {"name": "Placement '26 OA", "company": "Placement 2026", "role": None}}
+    assert "the company is Accenture" in group_context("accenture-oa", groups)
+    assert "held at IIT Delhi" in group_context("campus-iit-delhi-placements", groups)
+    assert "OAHelper placement group" in group_context("unknown-slug", groups)
+    order = sorted(groups, key=lambda s: group_rank(s, groups))
+    assert order == ["accenture-oa", "campus-iit-kharagpur-placements", "inter-iit", "campus-iit-delhi-placements"]
+
+
+def test_sort_pending_batches_one_group_at_a_time(tmp_path, monkeypatch):
+    import oa.sort as sort_mod
+    monkeypatch.setattr(sort_mod, "load_groups", lambda: {
+        "acc": {"name": "Accenture OA", "company": "Accenture", "role": "OA preparation"},
+        "inter-iit": {"name": "Placement '26 OA", "company": "Placement 2026", "role": None}})
+    archive = Archive(tmp_path / "archive")
+    archive.add([dict(rec(i, f"msg {i}"), group="inter-iit" if i % 2 else "acc") for i in range(1, 7)])
+    prompts = []
+
+    def runner(prompt, schema):
+        prompts.append(prompt)
+        return {"shares": []}
+
+    state = {"groups": {}, "sorted_ids": []}
+    sort_pending(archive, state, runner=runner, batch_size=10, questions_path=tmp_path / "q.jsonl")
+    assert len(prompts) == 2  # one batch per group, company group first
+    assert "group for Accenture OAs" in prompts[0] and "[2]" in prompts[0] and "[1]" not in prompts[0]
+    assert "Placement '26 OA" in prompts[1] and sorted(state["sorted_ids"]) == [1, 2, 3, 4, 5, 6]

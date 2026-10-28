@@ -19,10 +19,9 @@ LEETCODE = DATA / "leetcode.jsonl"
 GITHUB_REPO = "MSR327/Arigatho"
 
 BASE_URL = "https://www.oahelper.in"
-GROUPS = {
-    "inter-iit": "Placement '26 OA All IIT/NIT/IIIT",
-    "inter-nit": "Placement '27 OA All IIT/NIT/IIIT",
-}
+# Every joined OAHelper group is read, except these (an event and the site team's chat).
+SKIP_GROUPS = {"navratri-challenge", "oahelper-team"}
+GROUPS_FILE = DATA / "groups.json"  # name, company/college and kind of each group, saved by fetch
 BACKFILL_FROM = "2026-07-20"
 REQUEST_GAP = 1.0  # seconds between requests to oahelper.in
 BATCH_SIZE = 40  # messages per claude -p call
@@ -55,6 +54,11 @@ COMPANY_ALIASES = {
     "eternal": "Eternal (Zomato)", "zomato": "Eternal (Zomato)", "amex": "American Express",
     "info edge": "InfoEdge",
 }
+
+
+def load_groups():
+    """{slug: {"name", "company", "role"}} as last saved by fetch."""
+    return json.loads(GROUPS_FILE.read_text()) if GROUPS_FILE.exists() else {}
 
 
 def canonical(name, aliases):

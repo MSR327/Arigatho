@@ -6,12 +6,18 @@ IIT Delhi, NITR = NIT Rourkela, KGP/IITKGP = IIT Kharagpur). A message may be a 
 replied-to text is shown), and may have an attachment path. Attachments are screenshots or
 PDFs of OA questions: open them with the Read tool and transcribe the questions.
 
+{group}
+
+Poster tags: IITK is used by students of both IIT Kharagpur and IIT Kanpur, so on its own it does
+not say which; use the group, the message or the replied-to text, and if nothing tells them apart
+use "IIT Kharagpur/Kanpur".
+
 Find every message (or group of consecutive messages) that actually shares OA questions.
 Ignore requests ("anyone has X OA?"), greetings, results, referrals and other chatter.
 For each share, return:
 - company: the hiring company. Reuse one of these existing names when it matches: {companies}
 - college: full canonical name of the campus where the OA was held, e.g. "IIT Kharagpur",
-  "IIT Bombay", "NIT Trichy". Use the poster's college tag unless the text says otherwise.
+  "IIT Bombay", "NIT Trichy". Use the poster's college tag unless the group or the text says otherwise.
   Use "Unknown" if there is no clue.
 - date: YYYY-MM-DD the OA was held if the message says so ("yesterday", "on 12th"),
   otherwise the message date.

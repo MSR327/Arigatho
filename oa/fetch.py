@@ -8,8 +8,8 @@ import time
 
 from playwright.sync_api import sync_playwright
 
-from oa.common import (ARCHIVE, BACKFILL_FROM, BASE_URL, GROUPS, PROFILE, REQUEST_GAP, ROOT,
-                       STATE, load_creds, log, notify, save_creds, short_error)
+from oa.common import (ARCHIVE, BACKFILL_FROM, BASE_URL, GROUPS_FILE, PROFILE, REQUEST_GAP, ROOT,
+                       SKIP_GROUPS, STATE, load_creds, log, notify, save_creds, short_error)
 from oa.feed import parse_message
 from oa.store import Archive, attachment_relpath, load_state, save_state
 
@@ -105,7 +105,26 @@ class FeedClient:
         return data
 
     def my_groups(self):
-        return {g["slug"]: g["id"] for g in self._json({"action": "my_groups"})["groups"]}
+        return self._json({"action": "my_groups"})["groups"]
+
+    def join_new_groups(self, joined, sleep=time.sleep):
+        """Join every group in OAHelper's directory that we are not in yet (the site's own
+        Join request). Returns the groups joined."""
+        new = []
+        for g in self._json({"action": "directory", "q": ""})["groups"]:
+            if g["id"] in joined or g["slug"] in SKIP_GROUPS:
+                continue
+            r = self.ctx.request.post(API, data={"action": "join", "group_id": g["id"]})
+            try:
+                ok = r.ok and r.json().get("status") == "success"
+            except ValueError:
+                ok = False
+            if ok:
+                new.append(g)
+            else:
+                log(f"could not join {g['slug']}: HTTP {r.status}")
+            sleep(2)
+        return new
 
     def messages(self, group_id, before=None, since=None):
         params = {"action": "messages", "group_id": group_id, "limit": 50}
@@ -171,7 +190,7 @@ def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--setup", action="store_true", help="log in by hand once and save to Keychain")
     ap.add_argument("--headless", action="store_true")
-    ap.add_argument("--group", choices=sorted(GROUPS))
+    ap.add_argument("--group", help="only this group (slug)")
     ap.add_argument("--max-pages", type=int, help="limit backfill pages (smoke test)")
     args = ap.parse_args(argv)
 
@@ -183,25 +202,39 @@ def main(argv=None):
         try:
             if args.setup:
                 login(page, interactive=True)
-                log(f"Setup done. Groups: {sorted(client.my_groups())}")
+                log(f"Setup done. Groups: {len(client.my_groups())}")
                 return 0
             try:
-                ids = client.my_groups()
+                groups = client.my_groups()
             except LoggedOut:
                 login(page, interactive=not args.headless)
-                ids = client.my_groups()
+                groups = client.my_groups()
+            joined = client.join_new_groups({g["id"] for g in groups})
+            if joined:
+                names = ", ".join(g["name"] for g in joined)
+                log(f"joined {len(joined)} new groups: {names}")
+                notify(f"Now also reading {len(joined)} new OAHelper group(s): {names[:80]}")
+                groups = client.my_groups()
+            GROUPS_FILE.parent.mkdir(parents=True, exist_ok=True)
+            GROUPS_FILE.write_text(json.dumps(
+                {g["slug"]: {k: g.get(k) for k in ("name", "company", "role")} for g in groups},
+                indent=1, sort_keys=True) + "\n")
+            ids = {g["slug"]: g["id"] for g in groups}
+            slugs = [args.group] if args.group else sorted(s for s in ids if s not in SKIP_GROUPS)
+            log(f"reading {len(slugs)} groups")
             archive, state = Archive(ARCHIVE), load_state(STATE)
             total = 0
-            for slug in [args.group] if args.group else GROUPS:
+            for slug in slugs:
                 if slug not in ids:
                     raise RuntimeError(f"not a member of group {slug!r}; join it on oahelper.in")
                 new = fetch_group(client, archive, state, slug, ids[slug], BACKFILL_FROM,
                                   save=lambda: save_state(STATE, state), max_pages=args.max_pages)
-                # all of this group's records: also retries files that failed last time
-                files = download_attachments(
-                    client, [r for r in archive.all() if r["group"] == slug], ROOT)
-                log(f"{slug}: {len(new)} new messages, {files} files")
+                if new:
+                    log(f"{slug}: {len(new)} new messages")
                 total += len(new)
+            # one pass for files: also retries ones that failed last time
+            files = download_attachments(client, [r for r in archive.all() if r["group"] in slugs], ROOT)
+            log(f"{files} files downloaded")
             log(f"fetch done: {total} new messages")
             return 0
         except Exception as e:
