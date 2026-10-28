@@ -1,26 +1,182 @@
 # Accenture
 
-**87 questions** from 9 OA drives · seen at BITS Pilani, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, VIT Vellore · latest 2026-10-25
+**342 questions** from 86 OA drives · seen at BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee, MANIT Bhopal, MNNIT Allahabad, NIT Delhi, NIT Patna, NIT Rourkela, NIT Silchar, NIT Warangal, Unknown, VIT Vellore, VNIT Nagpur · latest 2026-10-25
 
-**Topics:** [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (38) · [Software Engineering](../topics/software-engineering.md) (11) · [Web Dev](../topics/web-dev.md) (8) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (7) · [Arrays](../topics/arrays.md) (6) · [SQL](../topics/sql.md) (5) · [Math](../topics/math.md) (5) · [Other](../topics/other.md) (4) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (3) · [ML/AI](../topics/ml-ai.md) (3) · [Sorting](../topics/sorting.md) (3) · [DP](../topics/dp.md) (2) · [Greedy](../topics/greedy.md) (2) · [OA Format](../topics/oa-format.md) (1) · [Strings](../topics/strings.md) (1) · [Hashing](../topics/hashing.md) (1) · [Graphs](../topics/graphs.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1)
+**Topics:** [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (84) · [OA Format](../topics/oa-format.md) (72) · [Web Dev](../topics/web-dev.md) (39) · [SQL](../topics/sql.md) (34) · [Math](../topics/math.md) (26) · [Arrays](../topics/arrays.md) (25) · [Software Engineering](../topics/software-engineering.md) (23) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (21) · [ML/AI](../topics/ml-ai.md) (19) · [Other](../topics/other.md) (11) · [Strings](../topics/strings.md) (9) · [Hashing](../topics/hashing.md) (9) · [DP](../topics/dp.md) (9) · [Verbal](../topics/verbal.md) (9) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (7) · [Graphs](../topics/graphs.md) (6) · [Sorting](../topics/sorting.md) (6) · [Greedy](../topics/greedy.md) (5) · [Stack/Queue](../topics/stack-queue.md) (3) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Python & Pandas](../topics/python-pandas.md) (2) · [OOP](../topics/oop.md) (1)
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+**LeetCode matches:** 5 (see the [practice list](../practice.md))
 
 **Drives:**
 
+- [2026-10-25 · IIT Roorkee · FTE](#2026-10-25--iit-roorkee--fte) · 3 questions
+- [2026-10-25 · IIT Hyderabad · FTE](#2026-10-25--iit-hyderabad--fte) · 1 question
 - [2026-10-25 · BITS Pilani · Unknown](#2026-10-25--bits-pilani--unknown) · 39 questions
-- [2026-10-21 · IIT Roorkee · FTE](#2026-10-21--iit-roorkee--fte) · 3 questions
+- [2026-10-24 · IIT Roorkee · FTE](#2026-10-24--iit-roorkee--fte) · 1 question
+- [2026-10-24 · IIT Kharagpur/Kanpur · FTE](#2026-10-24--iit-kharagpurkanpur--fte) · 1 question
+- [2026-10-24 · IIT BHU · FTE](#2026-10-24--iit-bhu--fte) · 3 questions
+- [2026-10-23 · MNNIT Allahabad · FTE](#2026-10-23--mnnit-allahabad--fte) · 1 question
+- [2026-10-23 · IIT Roorkee · FTE](#2026-10-23--iit-roorkee--fte) · 3 questions
+- [2026-10-23 · IIT Hyderabad · FTE](#2026-10-23--iit-hyderabad--fte) · 1 question
+- [2026-10-23 · IIT Guwahati · FTE](#2026-10-23--iit-guwahati--fte) · 1 question
+- [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte) · 1 question
+- [2026-10-22 · NIT Delhi · FTE](#2026-10-22--nit-delhi--fte) · 1 question
+- [2026-10-22 · MNNIT Allahabad · FTE](#2026-10-22--mnnit-allahabad--fte) · 1 question
+- [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte) · 3 questions
+- [2026-10-22 · IIT Hyderabad · FTE](#2026-10-22--iit-hyderabad--fte) · 1 question
+- [2026-10-21 · Unknown · FTE](#2026-10-21--unknown--fte) · 2 questions
+- [2026-10-21 · NIT Delhi · FTE](#2026-10-21--nit-delhi--fte) · 1 question
+- [2026-10-21 · IIT Roorkee · FTE](#2026-10-21--iit-roorkee--fte) · 5 questions
+- [2026-10-21 · IIT Hyderabad · FTE](#2026-10-21--iit-hyderabad--fte) · 2 questions
+- [2026-10-20 · NIT Patna · FTE](#2026-10-20--nit-patna--fte) · 1 question
+- [2026-10-20 · NIT Delhi · FTE](#2026-10-20--nit-delhi--fte) · 4 questions
+- [2026-10-20 · IIT Hyderabad · FTE](#2026-10-20--iit-hyderabad--fte) · 7 questions
+- [2026-10-20 · IIT Dhanbad · FTE](#2026-10-20--iit-dhanbad--fte) · 4 questions
+- [2026-10-20 · IIT BHU · FTE](#2026-10-20--iit-bhu--fte) · 1 question
+- [2026-10-19 · NIT Delhi · Intern](#2026-10-19--nit-delhi--intern) · 1 question
+- [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte) · 1 question
+- [2026-10-19 · MANIT Bhopal · FTE](#2026-10-19--manit-bhopal--fte) · 1 question
+- [2026-10-19 · IIT Hyderabad · FTE](#2026-10-19--iit-hyderabad--fte) · 1 question
+- [2026-10-18 · IIT Hyderabad · FTE](#2026-10-18--iit-hyderabad--fte) · 2 questions
+- [2026-10-18 · IIT Dhanbad · FTE](#2026-10-18--iit-dhanbad--fte) · 3 questions
+- [2026-10-17 · Unknown · FTE](#2026-10-17--unknown--fte) · 1 question
+- [2026-10-17 · NIT Patna · Intern](#2026-10-17--nit-patna--intern) · 1 question
+- [2026-10-17 · NIT Patna · Unknown](#2026-10-17--nit-patna--unknown) · 42 questions
+- [2026-10-17 · NIT Patna · FTE](#2026-10-17--nit-patna--fte) · 2 questions
+- [2026-10-17 · NIT Delhi · FTE](#2026-10-17--nit-delhi--fte) · 1 question
+- [2026-10-17 · MNNIT Allahabad · FTE](#2026-10-17--mnnit-allahabad--fte) · 2 questions
+- [2026-10-17 · IIT Hyderabad · FTE](#2026-10-17--iit-hyderabad--fte) · 4 questions
+- [2026-10-16 · IIT Roorkee · FTE](#2026-10-16--iit-roorkee--fte) · 1 question
+- [2026-10-16 · IIT Hyderabad · FTE](#2026-10-16--iit-hyderabad--fte) · 4 questions
+- [2026-10-16 · IIT Dhanbad · FTE](#2026-10-16--iit-dhanbad--fte) · 4 questions
+- [2026-10-16 · IIT BHU · FTE](#2026-10-16--iit-bhu--fte) · 1 question
+- [2026-10-15 · Unknown · FTE](#2026-10-15--unknown--fte) · 2 questions
+- [2026-10-15 · IIT Roorkee · FTE](#2026-10-15--iit-roorkee--fte) · 1 question
+- [2026-10-15 · IIT Hyderabad · FTE](#2026-10-15--iit-hyderabad--fte) · 3 questions
+- [2026-10-15 · IIT Guwahati · FTE](#2026-10-15--iit-guwahati--fte) · 4 questions
+- [2026-10-14 · Unknown · FTE](#2026-10-14--unknown--fte) · 27 questions
+- [2026-10-14 · IIT Roorkee · FTE](#2026-10-14--iit-roorkee--fte) · 1 question
+- [2026-10-14 · IIT Hyderabad · FTE](#2026-10-14--iit-hyderabad--fte) · 2 questions
+- [2026-10-13 · IIT Hyderabad · FTE](#2026-10-13--iit-hyderabad--fte) · 3 questions
+- [2026-10-13 · IIT Dhanbad · FTE](#2026-10-13--iit-dhanbad--fte) · 4 questions
+- [2026-10-12 · MNNIT Allahabad · FTE](#2026-10-12--mnnit-allahabad--fte) · 1 question
+- [2026-10-12 · IIT Delhi · FTE](#2026-10-12--iit-delhi--fte) · 3 questions
 - [2026-10-11 · IIT Dhanbad · FTE](#2026-10-11--iit-dhanbad--fte) · 3 questions
+- [2026-10-11 · IIT Delhi · FTE](#2026-10-11--iit-delhi--fte) · 1 question
+- [2026-10-11 · IIT BHU · FTE](#2026-10-11--iit-bhu--fte) · 1 question
 - [2026-10-10 · VIT Vellore · FTE](#2026-10-10--vit-vellore--fte) · 1 question
-- [2026-10-10 · IIT Hyderabad · FTE](#2026-10-10--iit-hyderabad--fte) · 4 questions
+- [2026-10-10 · IIT Hyderabad · FTE](#2026-10-10--iit-hyderabad--fte) · 9 questions
 - [2026-10-10 · IIT Hyderabad · Unknown](#2026-10-10--iit-hyderabad--unknown) · 1 question
+- [2026-10-09 · Unknown · FTE](#2026-10-09--unknown--fte) · 1 question
+- [2026-10-09 · MNNIT Allahabad · FTE](#2026-10-09--mnnit-allahabad--fte) · 2 questions
+- [2026-10-09 · IIT Dhanbad · FTE](#2026-10-09--iit-dhanbad--fte) · 3 questions
+- [2026-10-09 · IIT BHU · FTE](#2026-10-09--iit-bhu--fte) · 3 questions
+- [2026-10-08 · NIT Silchar · FTE](#2026-10-08--nit-silchar--fte) · 1 question
+- [2026-10-08 · IIT Roorkee · FTE](#2026-10-08--iit-roorkee--fte) · 1 question
+- [2026-10-07 · IIT Dhanbad · FTE](#2026-10-07--iit-dhanbad--fte) · 3 questions
+- [2026-10-06 · MNNIT Allahabad · FTE](#2026-10-06--mnnit-allahabad--fte) · 1 question
+- [2026-10-06 · IIT Roorkee · FTE](#2026-10-06--iit-roorkee--fte) · 2 questions
+- [2026-10-06 · IIT BHU · FTE](#2026-10-06--iit-bhu--fte) · 1 question
+- [2026-10-05 · IIT BHU · FTE](#2026-10-05--iit-bhu--fte) · 1 question
+- [2026-10-03 · NIT Patna · FTE](#2026-10-03--nit-patna--fte) · 1 question
+- [2026-10-02 · NIT Patna · FTE](#2026-10-02--nit-patna--fte) · 1 question
+- [2026-10-01 · IIT BHU · FTE](#2026-10-01--iit-bhu--fte) · 1 question
+- [2026-09-27 · IIT BHU · FTE](#2026-09-27--iit-bhu--fte) · 4 questions
+- [2026-09-26 · IIT Dhanbad · FTE](#2026-09-26--iit-dhanbad--fte) · 5 questions
+- [2026-09-25 · Unknown · FTE](#2026-09-25--unknown--fte) · 3 questions
+- [2026-09-25 · IIT Madras · FTE](#2026-09-25--iit-madras--fte) · 1 question
+- [2026-09-24 · VIT Vellore · FTE](#2026-09-24--vit-vellore--fte) · 3 questions
+- [2026-09-24 · NIT Warangal · FTE](#2026-09-24--nit-warangal--fte) · 1 question
+- [2026-09-23 · VNIT Nagpur · FTE](#2026-09-23--vnit-nagpur--fte) · 1 question
+- [2026-09-23 · NIT Rourkela · FTE](#2026-09-23--nit-rourkela--fte) · 1 question
+- [2026-09-22 · NIT Warangal · FTE](#2026-09-22--nit-warangal--fte) · 1 question
 - [2026-09-22 · IIT Dhanbad · FTE](#2026-09-22--iit-dhanbad--fte) · 3 questions
+- [2025-10-03 · Unknown · FTE](#2025-10-03--unknown--fte) · 21 questions
 - [2025-10-03 · IIT Delhi · FTE](#2025-10-03--iit-delhi--fte) · 21 questions
+- [2024-10-09 · Unknown · FTE](#2024-10-09--unknown--fte) · 16 questions
 - [2024-10-09 · IIT Delhi · FTE](#2024-10-09--iit-delhi--fte) · 12 questions
 
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-25 · IIT Roorkee · FTE
+
+### Q1. AI and Data role OA pattern
+
+Accenture AI and Data role OA: MCQs on EDA, machine learning, deep learning and NLP.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 25 Oct](../archive/accenture-oa/2026-10.jsonl#L211), [chat, 25 Oct](../archive/accenture-oa/2026-10.jsonl#L212)</sub>
+
+### Q2. Minimum increase in experience multiplier to remove F employees
+
+A company has N employees.
+
+For each employee:
+
+- `project[i]` = project requirement/value
+- `experience[i]` = employee's experience
+- `K` = current experience multiplier
+- `F` = minimum number of employees that must be removed
+
+An employee must be removed if:
+
+```
+project[i] < experience[i] × K
+```
+
+You are allowed to increase the value of K.
+
+**Task:** Find the minimum amount by which K must be increased so that at least F employees are removed.
+
+*(Input format, constraints and examples were not shared.)*
+
+<sub>Topics: Sorting, Greedy, Math · Source: [chat, 25 Oct](../archive/accenture-oa/2026-10.jsonl#L216)</sub>
+
+### Q3. SQL: players over 30 in Kolkata Knight Riders (Indian team)
+
+Given two tables:
+
+**Players**
+
+| Column |
+|---|
+| player_id |
+| player_name |
+| age |
+| team_id |
+
+**Teams**
+
+| Column |
+|---|
+| team_id |
+| team_name |
+| country |
+
+**Task:** Write an SQL query to find the player name and age of players who satisfy all the following conditions:
+
+1. Player's age is greater than 30.
+2. Player's team is Indian.
+3. Team name is Kolkata Knight Riders.
+
+<sub>Topics: SQL · Source: [chat, 25 Oct](../archive/accenture-oa/2026-10.jsonl#L216)</sub>
+
+## 2026-10-25 · IIT Hyderabad · FTE
+
+### Q1. Communication assessment round sections
+
+Accenture communication assessment has around 7-8 sections, such as:
+
+1. A sentence is shown on screen and you have to read it aloud.
+2. An audio clip of a sentence plays and you have to repeat it.
+3. A sentence containing a grammatical mistake plays; you have to correct it and say the corrected sentence.
+4. A conversation plays, then questions are asked about it and you have to answer.
+5. You are given some context and have to hold a conversation based on it.
+6. You get 30 seconds to prepare on a topic and then speak for 45 seconds. The poster's topic: "Describe a scene of an accident".
+
+*(The message was cut off after section 6, so the other sections are missing.)*
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 25 Oct](../archive/accenture-oa/2026-10.jsonl#L220)</sub>
 
 ## 2026-10-25 · BITS Pilani · Unknown
 
@@ -377,15 +533,429 @@ Assume your computer's data was stolen by hackers through your network by mentio
 
 <sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
 
+## 2026-10-24 · IIT Roorkee · FTE
+
+### Q1. Currency converter in HTML, CSS and JavaScript
+
+Create a Currency Converter using HTML, CSS, and JavaScript.
+
+**Requirements**
+
+The webpage should contain:
+
+- An input box to enter the amount.
+- A From Currency dropdown.
+- A To Currency dropdown.
+- A Convert button.
+- A result area to display the converted amount.
+
+Use the following exchange rates:
+
+```javascript
+const rates = {
+    USD: 1,
+    INR: 83,
+    EUR: 0.92,
+    GBP: 0.79,
+    JPY: 157
+};
+```
+
+When the user clicks the Convert button:
+
+1. Get the amount entered by the user.
+2. Get the selected From currency.
+3. Get the selected To currency.
+4. Find `rateFrom` and `rateTo` from the `rates` object.
+5. Calculate the converted amount using:
+
+```javascript
+result = (amount / rateFrom) * rateTo;
+```
+
+6. Round the final result to 2 decimal places using:
+
+```javascript
+result.toFixed(2);
+```
+
+7. Display the final result on the webpage.
+
+**Example**
+
+```
+Input
+Amount: 100
+From: EUR
+To: INR
+
+Calculation
+rateFrom = 0.92;
+rateTo = 83;
+result = (100 / 0.92) * 83;
+
+Output
+Display the converted amount with exactly 2 decimal places.
+```
+
+**Additional Conditions**
+
+- If the amount field is empty, display: `Enter amount`
+- If the amount is less than or equal to `0`, display: `Invalid amount`
+- If From Currency and To Currency are the same, the converted amount should be equal to the original amount.
+
+<sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/accenture-oa/2026-10.jsonl#L258)</sub>
+
+## 2026-10-24 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Communication assessment format (spoken and email)
+
+Accenture Communication round has about 7-8 sections, such as:
+
+1. A sentence is shown on screen and you have to read it aloud.
+2. A sentence is played as audio and you have to repeat it.
+3. A sentence with a grammatical mistake is played, and you have to correct it and say the corrected sentence.
+4. A conversation is played, then you are asked questions about it and have to answer.
+5. You are given some context and have to hold a conversation based on it.
+6. You get 30 seconds to prepare a topic and then speak on it for 45 seconds. (The poster's topic: "Describe a scene of an accident".)
+
+No audio can be replayed in any section.
+
+If you clear the spoken part, there is a written part: write an email in 15 minutes for a given situation.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 24 Oct](../archive/accenture-oa/2026-10.jsonl#L274), [chat, 24 Oct](../archive/accenture-oa/2026-10.jsonl#L289)</sub>
+
+## 2026-10-24 · IIT BHU · FTE
+
+### Q1. First element whose neighbours are both prime
+
+(Python DSA) Given an integer array, find the first element from the left, excluding the first and last elements, whose immediate left and right neighbours are both prime numbers. Return that element, or -1 if no such element exists.
+
+The poster did not give constraints or examples.
+
+<sub>Topics: Arrays, Math · Source: [chat, 24 Oct](../archive/accenture-oa/2026-10.jsonl#L268)</sub>
+
+### Q2. SQL: customers who never made a booking
+
+Given `Customers` and `Transactions` tables, where `Transactions` contains `booking_id` and `customer_id`, write an SQL query to return `customer_name`, `full_name`, and `designation` for customers who have never made a transaction or booking.
+
+The poster did not give the full table schemas.
+
+<sub>Topics: SQL · Similar: [LeetCode 183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) (Easy) · Source: [chat, 24 Oct](../archive/accenture-oa/2026-10.jsonl#L268)</sub>
+
+### Q3. Frontend: build a dynamic URL from text input
+
+Given a text input and a result-link element, use JavaScript to generate a URL according to the URL-formation rules in the starter-code comments. Update the link's `innerText` and `href` attribute with the generated values. In CSS, apply `text-decoration: none` to the link.
+
+The URL-formation rules from the starter-code comments were not shared.
+
+<sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/accenture-oa/2026-10.jsonl#L268)</sub>
+
+## 2026-10-23 · MNNIT Allahabad · FTE
+
+### Q1. Accenture ETE OA pattern
+
+Accenture ETE OA pattern:
+
+- **Technical Assessment:** 45 MCQs in 45 minutes covering pseudocode, network security, cloud, and MS Office.
+- **Coding Assessment:** 3 coding questions in 60 minutes, mainly testing problem-solving and DSA.
+
+Other details from the same college:
+- DSA questions are generally medium level, based on arrays and strings.
+- Only Python, C# and Java are allowed (C++ is not allowed).
+- You cannot bring pen and paper into the assessment.
+- Another message describes the sections as: Coding + SQL + Frontend (HTML, CSS, JS).
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L312), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L313), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L315), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L321), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L337)</sub>
+
+## 2026-10-23 · IIT Roorkee · FTE
+
+### Q1. Accenture Elite Tech (ETE) coding OA: DSA, SQL, Frontend difficulty
+
+Accenture Elite Tech (ETE) role OA. It has no MCQs, only three coding questions (DSA, SQL, Frontend). Every topic is on the easy side.
+
+- **DSA:** basic string and array questions, around LeetCode easy level. Languages allowed: Python, C# and Java. Solving 2 of the 3 questions is enough; some students were shortlisted after solving 1.5.
+- **SQL:** basic questions where you join tables or extract data and return it.
+- **Frontend:** the HTML, CSS and JS files are already written. You change only 2-3 lines in each file, and the instructions say exactly what to change, so Emmet and similar tools aren't needed.
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L369), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L370), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L375), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L384), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L389), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L392), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L302), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L306)</sub>
+
+### Q2. Live word-count text box (HTML/CSS/JS)
+
+Frontend question (HTML/CSS/JS): build a text box that shows the number of words as you type in it. The task also involved adding a class in the HTML code and changing a pixel value in the CSS.
+
+The exact statement and starter code were not shared.
+
+<sub>Topics: Web Dev · Source: [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L330), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L335), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L341)</sub>
+
+### Q3. Accenture OA sections and allowed languages
+
+The OA includes a DSA coding question, an SQL coding question and a frontend question.
+
+Allowed languages for coding: C#, Python, Java 21.
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L330), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L335), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L341)</sub>
+
+## 2026-10-23 · IIT Hyderabad · FTE
+
+### Q1. Accenture Elite Tech (ETE) OA format
+
+OA format for the Accenture Elite Tech (ETE) role:
+
+- There is no MCQ section. The OA has only coding.
+- Round 1: coding assessment with 3 questions: 1 DSA, 1 SQL and 1 Frontend.
+- After that comes a communication round, then the interview.
+- Languages allowed for the DSA question: Python, C# and Java.
+- At the poster's college, solving the DSA and SQL questions was enough to be shortlisted.
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L376), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L388), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L396)</sub>
+
+## 2026-10-23 · IIT Guwahati · FTE
+
+### Q1. Accenture ETE OA pattern
+
+Accenture ETE OA: 60 minutes, with 1 coding question, 1 SQL question and 1 frontend question.
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L348)</sub>
+
+## 2026-10-23 · IIT BHU · FTE
+
+### Q1. Technical MCQ section had Gen AI questions
+
+Someone asked whether the technical MCQ section had questions on RAG, LLMs or AI. The reply: yes, there were questions related to Gen AI.
+
+(The actual questions were not shared.)
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L371)</sub>
+
+## 2026-10-22 · NIT Delhi · FTE
+
+### Q1. Accenture technical MCQ section format and topics
+
+Technical MCQ section: **45 questions in 45 minutes**.
+
+MCQ topics:
+- Cloud
+- Cybersecurity
+- Pseudocode
+- OOPs in Java
+- CS fundamentals
+
+The poster did not share the actual questions. They suggested practising similar MCQs from YouTube videos.
+
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L442)</sub>
+
+## 2026-10-22 · MNNIT Allahabad · FTE
+
+### Q1. Accenture assessment stages
+
+Assessment stages:
+
+1. Technical Assessment
+2. Coding Assessment
+3. Behavioral & Cognitive Assessment
+4. Communication Assessment
+
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L353)</sub>
+
+## 2026-10-22 · IIT Roorkee · FTE
+
+### Q1. Currency converter in HTML, CSS and JavaScript
+
+Create a Currency Converter using HTML, CSS, and JavaScript.
+
+**Requirements**
+
+The webpage should contain:
+
+- An input box to enter the amount.
+- A From Currency dropdown.
+- A To Currency dropdown.
+- A Convert button.
+- A result area to display the converted amount.
+
+Use the following exchange rates:
+
+```js
+const rates = {
+    USD: 1,
+    INR: 83,
+    EUR: 0.92,
+    GBP: 0.79,
+    JPY: 157
+};
+```
+
+When the user clicks the Convert button:
+
+1. Get the amount entered by the user.
+2. Get the selected From currency.
+3. Get the selected To currency.
+4. Find `rateFrom` and `rateTo` from the `rates` object.
+5. Calculate the converted amount using:
+
+```js
+result = (amount / rateFrom) * rateTo;
+```
+
+6. Round the final result to 2 decimal places using:
+
+```js
+result.toFixed(2);
+```
+
+7. Display the final result on the webpage.
+
+**Example**
+
+```
+Input
+Amount: 100
+From: EUR
+To: INR
+
+Calculation
+rateFrom = 0.92;
+rateTo = 83;
+result = (100 / 0.92) * 83;
+
+Output
+Display the converted amount with exactly 2 decimal places.
+```
+
+**Additional Conditions**
+
+- If the amount field is empty, display: `Enter amount`
+- If the amount is less than or equal to `0`, display: `Invalid amount`
+- If From Currency and To Currency are the same, the converted amount should be equal to the original amount.
+
+<sub>Topics: Web Dev · Source: [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L409), [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L413)</sub>
+
+### Q2. Minimum increase in experience multiplier K to remove F employees
+
+A company has N employees.
+
+For each employee:
+
+- `project[i]` = project requirement/value
+- `experience[i]` = employee's experience
+- `K` = current experience multiplier
+- `F` = minimum number of employees that must be removed
+
+An employee must be removed if:
+
+```
+project[i] < experience[i] * K
+```
+
+You are allowed to increase the value of K.
+
+**Task:** Find the minimum amount by which K must be increased so that at least F employees are removed.
+
+_The input format, constraints and examples were not shared._
+
+<sub>Topics: Sorting, Greedy, Math · Source: [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L409), [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L413)</sub>
+
+### Q3. SQL join: players over 30 from Kolkata Knight Riders
+
+Given two tables:
+
+**Players**
+
+| Column |
+|---|
+| player_id |
+| player_name |
+| age |
+| team_id |
+
+**Teams**
+
+| Column |
+|---|
+| team_id |
+| team_name |
+| country |
+
+**Task:** Write an SQL query to find the player name and age of players who satisfy all the following conditions:
+
+1. Player's age is greater than 30.
+2. Player's team is Indian.
+3. Team name is Kolkata Knight Riders.
+
+<sub>Topics: SQL · Source: [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L409), [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L413)</sub>
+
+## 2026-10-22 · IIT Hyderabad · FTE
+
+### Q1. Accenture coding assessment pattern (DSA, SQL, Frontend)
+
+At IIT Hyderabad the process was:
+
+1. Coding assessment with 3 questions:
+   - 1 DSA question
+   - 1 SQL question
+   - 1 Frontend question
+2. Communication round
+3. Interview
+
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L361)</sub>
+
+## 2026-10-21 · Unknown · FTE
+
+### Q1. ETE frontend task: HTML attribute, CSS border, JS if-else
+
+Frontend section (HTML, CSS, JS) of the Accenture ETE OA. The tasks were easy:
+
+- add an attribute in the HTML,
+- set the border style in the CSS,
+- write a small if-else logic in the JS.
+
+The syntax and hints were given in comments in the code.
+
+_The exact page and requirements were not shared._
+
+<sub>Topics: Web Dev · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L482), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L483)</sub>
+
+### Q2. ETE OA DSA section difficulty and topics
+
+The DSA questions are basic: arrays, hashmaps, strings, loops, conditional statements and simple math operations. Difficulty is generally below LeetCode Easy, so basic programming and problem solving is enough.
+
+<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L482), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L483)</sub>
+
+## 2026-10-21 · NIT Delhi · FTE
+
+### Q1. Accenture ATE OA structure (MCQ, coding, gaming rounds)
+
+**Advanced Technology (ATE) role OA: 3 rounds**
+
+1. **MCQ round:** 45 questions in 45 minutes.
+2. **Coding round:**
+   - DSA: easy array- and string-based questions. You can code in Python, C# or Java.
+   - SQL: join three tables and use a `GROUP BY` clause with `HAVING`.
+   - Frontend: basic HTML/CSS, plus JS DOM-manipulation questions (e.g. `addEventListener`).
+3. **Gaming round:** math questions.
+
+<sub>Topics: OA Format, SQL, Web Dev · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L469)</sub>
+
 ## 2026-10-21 · IIT Roorkee · FTE
 
-### Q1. Minimum Increase in Experience Multiplier
+### Q1. ETE OA SQL question over a 7-8 table schema
+
+**ETE OA: SQL question**
+
+The schema had 7-8 tables, and you have to work out which ones are relevant yourself. The poster solved it in 6-7 minutes and says it is doable if you know joins well.
+
+*The actual query asked for was not shared.*
+
+<sub>Topics: SQL, OA Format · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L462), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L464), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L465)</sub>
+
+### Q2. Minimum Increase in Experience Multiplier
 
 A company has N employees. For each employee: project[i] = project requirement/value, experience[i] = employee's experience, K = current experience multiplier, F = minimum number of employees that must be removed. An employee must be removed if project[i] &lt; experience[i] * K. You are allowed to increase the value of K. Task: Find the minimum amount by which K must be increased so that at least F employees are removed.
 
 <sub>Topics: Sorting, Greedy, Math · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1801)</sub>
 
-### Q2. SQL Query - Players of Kolkata Knight Riders over 30
+### Q3. SQL Query - Players of Kolkata Knight Riders over 30
 
 Given two tables:  
 Players(player_id, player_name, age, team_id)  
@@ -397,7 +967,7 @@ Write an SQL query to find the player name and age of players who satisfy all th
 
 <sub>Topics: SQL · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1801)</sub>
 
-### Q3. Currency Converter (Frontend HTML/CSS/JS)
+### Q4. Currency Converter (Frontend HTML/CSS/JS)
 
 Create a Currency Converter using HTML, CSS, and JavaScript.  
 Requirements: The webpage should contain an input box to enter the amount, a From Currency dropdown, a To Currency dropdown, a Convert button, and a result area to display the converted amount.  
@@ -415,6 +985,1887 @@ Example: Input Amount: 100, From: EUR, To: INR. Calculation: rateFrom = 0.92; ra
 Additional Conditions: If the amount field is empty, display: "Enter amount". If the am... (message truncated)
 
 <sub>Topics: Web Dev · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1801)</sub>
+
+### Q5. Accenture ETE AI-assisted verbal communication assessment
+
+**ETE role: verbal communication assessment (after the technical OA)**
+
+Candidates shortlisted from the technical OA took the verbal communication assessment the next day. It was AI-assisted and covered speaking, listening, repetition, reading and comprehension:
+- **Sentence reading:** read sentences shown during the assessment.
+- **Repeat-after-AI:** listen to an AI voice and repeat the sentences.
+- **Listening comprehension:** listen to or read a paragraph and answer questions about it.
+- **AI-assisted assessment:** an AI component was used during the assessment.
+
+Candidates who cleared the verbal assessment went on to the written communication assessment.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L546)</sub>
+
+## 2026-10-21 · IIT Hyderabad · FTE
+
+### Q1. ETE OA frontend (DOM) and SQL difficulty
+
+**ETE OA: frontend and SQL sections**
+
+- Frontend: DOM manipulation is asked everywhere, and it is on the easier side.
+- SQL: only 2-3 of the given tables are relevant. It is an easy question and can be done in about 20 minutes.
+
+*The exact questions were not shared.*
+
+<sub>Topics: OA Format, Web Dev, SQL · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L466), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L467)</sub>
+
+### Q2. Accenture ETE OA structure and communication round
+
+**ETE role: technical OA and communication round**
+
+The technical OA has 3 questions:
+- 1 DSA
+- 1 SQL
+- 1 Frontend
+
+If you are shortlisted, there is a communication round with a verbal and a written assessment. It tests English fluency, pronunciation, grammar, vocabulary and confidence. Tasks include reading sentences, correcting errors, retelling stories, describing a picture and answering situational questions. The system grades it automatically, so speak clearly with a good mic and no background noise. If you fail this round, you do not go on to the interview.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L542), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L547), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L548)</sub>
+
+## 2026-10-20 · NIT Patna · FTE
+
+### Q1. Advanced Technology Engineer OA rounds
+
+Accenture Advanced Technology Engineer (ATE) OA rounds:
+1. Technical round (45 min)
+2. Coding round: 1 easy DSA question, 1 SQL question, 1 backend-related question
+3. Game round
+
+<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L527), [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L528)</sub>
+
+## 2026-10-20 · NIT Delhi · FTE
+
+### Q1. Accenture Advanced Technology Engineer OA pattern
+
+Accenture Advanced Technology Engineer OA pattern:
+- MCQs: MS Office, cloud, computer networks (CN), pseudocode
+- Coding: 1 DSA question, 1 SQL question, 1 frontend (HTML/CSS/JS) question
+- Last round: game round (easy)
+
+<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L503)</sub>
+
+### Q2. K-th number in sequence skipping numbers containing digit 7
+
+Consider the sequence of positive integers starting from 1 that do not contain the digit 7 anywhere:
+
+```
+1, 2, 3, 4, 5, 6, 8, ...
+```
+
+Given k, return the k-th element of this sequence.
+
+Constraints and examples were not shared.
+
+<sub>Topics: Math · Similar: [LeetCode 660. Remove 9](https://leetcode.com/problems/remove-9/) (Hard) · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L503)</sub>
+
+### Q3. SQL: three-table join with GROUP BY and HAVING
+
+Join 3 tables, then use `GROUP BY` and `HAVING` to get the result.
+
+The table schemas and the exact requirement were not shared.
+
+<sub>Topics: SQL · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L503)</sub>
+
+### Q4. Frontend: DOM event listeners for hover/mouseout/click
+
+HTML and CSS parts were easy. The JavaScript part was DOM manipulation, e.g. adding event listeners for mouse hover, mouse out and click.
+
+The exact task was not shared.
+
+<sub>Topics: Web Dev · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L503)</sub>
+
+## 2026-10-20 · IIT Hyderabad · FTE
+
+### Q1. Count contiguous groups of same-sign elements
+
+Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign.
+
+A new group starts whenever the sign changes between two consecutive elements.
+
+**Example 1:**
+```
+Input:
+arr = [1, 2, -3, -4, 5]
+Output:
+3
+```
+**Explanation:** The array can be divided into three contiguous groups: [1, 2], [-3, -4], and [5].
+
+<sub>Topics: Arrays · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L592)</sub>
+
+### Q2. Destinations with more than 2 hotels and average nightly rate
+
+You are given two tables, `Destination` and `Hotel`.
+
+Write an SQL query to find the destinations that have more than 2 hotels and calculate the average nightly rate of hotels in each destination.
+
+Display:
+* Destination name
+* Average nightly rate
+
+**Table 1: `Destination`**
+
+| destination_id | destination_name |
+| -------------- | ---------------- |
+| 1              | Goa              |
+| 2              | Mumbai           |
+| 3              | Jaipur           |
+| 4              | Manali           |
+
+**Table 2: `Hotel`**
+
+| hotel_id | destination_id | night_rate |
+| -------- | -------------- | ---------- |
+| 101      | 1              | 2000       |
+| 102      | 1              | 3000       |
+| 103      | 1              | 2500       |
+| 104      | 1              | 3500       |
+| 105      | 2              | 4000       |
+| 106      | 2              | 5000       |
+| 107      | 3              | 1500       |
+| 108      | 3              | 2500       |
+| 109      | 3              | 2000       |
+| 110      | 4              | 3000       |
+
+**Expected Output**
+
+| destination_name | avg_night_rate |
+| ---------------- | -------------- |
+| Goa              | 2750.00        |
+| Jaipur           | 2000.00        |
+
+Your task: Write the SQL query using `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
+
+<sub>Topics: SQL · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L592)</sub>
+
+### Q3. JavaScript frontend DOM task
+
+JavaScript (Frontend) question: you just had to follow the instructions given in the question. Basic DOM understanding is enough.
+
+*The poster did not share the actual task statement.*
+
+<sub>Topics: Web Dev · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L592)</sub>
+
+### Q4. Elite Technology Engineer coding round format
+
+First round is a coding round of 3 questions: 1 DSA, 1 SQL, 1 Web (JavaScript frontend). If you solve the DSA and SQL questions, you will be shortlisted.
+
+<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L522)</sub>
+
+### Q5. Count contiguous groups of same-sign elements
+
+Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign.
+
+A new group starts whenever the sign changes between two consecutive elements.
+
+Example 1:
+```
+Input:
+arr = [1, 2, -3, -4, 5]
+Output:
+3
+```
+Explanation: The array can be divided into three contiguous groups: `[1, 2]`, `[-3, -4]`, and `[5]`.
+
+<sub>Topics: Arrays · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L522)</sub>
+
+### Q6. SQL: destinations with more than 2 hotels and average rate
+
+You are given two tables, `Destination` and `Hotel`.
+
+Write an SQL query to find the destinations that have more than 2 hotels and calculate the average nightly rate of hotels in each destination.
+
+Display:
+- Destination name
+- Average nightly rate
+
+**Table 1: `Destination`**
+
+| destination_id | destination_name |
+| -------------- | ---------------- |
+| 1              | Goa              |
+| 2              | Mumbai           |
+| 3              | Jaipur           |
+| 4              | Manali           |
+
+**Table 2: `Hotel`**
+
+| hotel_id | destination_id | night_rate |
+| -------- | -------------- | ---------- |
+| 101      | 1              | 2000       |
+| 102      | 1              | 3000       |
+| 103      | 1              | 2500       |
+| 104      | 1              | 3500       |
+| 105      | 2              | 4000       |
+| 106      | 2              | 5000       |
+| 107      | 3              | 1500       |
+| 108      | 3              | 2500       |
+| 109      | 3              | 2000       |
+| 110      | 4              | 3000       |
+
+**Expected Output**
+
+| destination_name | avg_night_rate |
+| ---------------- | -------------- |
+| Goa              | 2750.00        |
+| Jaipur           | 2000.00        |
+
+Write the SQL query using `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
+
+<sub>Topics: SQL · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L522)</sub>
+
+### Q7. JavaScript frontend: follow instructions with DOM
+
+JavaScript frontend question: you just had to follow the instructions given in the question; basic DOM understanding was enough.
+
+The exact task was not shared.
+
+<sub>Topics: Web Dev · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L522)</sub>
+
+## 2026-10-20 · IIT Dhanbad · FTE
+
+### Q1. Elite Technology Engineer OA and communication rounds structure
+
+Accenture Elite Technology Engineer process (IIT Dhanbad):
+
+**Day 1 — Technical OA (60 minutes)**
+- Q1: DSA / Coding (languages: Python, C#, Java). Difficulty varied across question sets: some sets had easy DSA questions, others medium.
+- Q2: SQL
+- Q3: HTML / CSS / JavaScript
+
+**Day 2 — Verbal Communication** (for candidates shortlisted from the technical OA), AI-assisted:
+- Sentence reading: read sentences presented during the assessment
+- Repeat-after-AI: listen to an AI voice and repeat the given sentences
+- Listening comprehension: listen to/read a paragraph and answer questions on its content
+
+**Day 2 — Written Communication** (for candidates who cleared verbal): one email-writing task based on the situation/prompt given.
+
+<sub>Topics: OA Format · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/9469-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q2. Next number with multiplicative persistence exactly 1
+
+Given a positive integer `n`, repeatedly multiply all of its digits together to form a new number. Continue until the result becomes a single-digit number. The number of multiplication rounds required is called the **multiplicative persistence** of the number.
+
+Return the smallest number greater than `n` whose multiplicative persistence is exactly 1.
+
+Examples remembered:
+```
+n = 10: 1 × 0 = 0, so the persistence is 1.
+n = 27: 2 × 7 = 14, then 1 × 4 = 4, so the persistence is 2.
+        The next number greater than 27 with persistence 1 is 30.
+n = 9:  the next number greater than 9 with persistence 1 is 10.
+```
+
+Constraints were not shared.
+
+<sub>Topics: Math · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/9469-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q3. SQL: cars never rented (car-rental schema)
+
+An ER diagram / database schema was given instead of sample input/output. It described a car-rental system with multiple tables, including customer, rental and car-related information.
+
+Find the cars that have **never been rented** and return the requested car details, such as the car model, rental rate and other relevant attributes.
+
+(Solvable with a JOIN plus `NOT EXISTS`, or an anti-join such as `LEFT JOIN ... IS NULL`.)
+
+Exact table and column names were not shared.
+
+<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/9469-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q4. Edit given HTML/CSS/JS files: tag, style, innerText logic
+
+Existing HTML, CSS and JavaScript files were provided; make the specific changes the question asks for:
+- **HTML:** make a requested tag/structure change, such as changing a `div` element to an `h2`.
+- **CSS:** add or modify a style property for an element identified by a class, such as `font-size`.
+- **JavaScript:** an `addEventListener` and function were already present; add `if/else` logic to change `innerText` according to specified conditions.
+
+The exact conditions were not shared.
+
+<sub>Topics: Web Dev · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/9469-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+## 2026-10-20 · IIT BHU · FTE
+
+### Q1. Elite Technology Engineer coding round format
+
+3 questions:
+1. 1 DSA question (languages allowed: Python / C# / Java)
+2. 1 SQL question
+3. 1 HTML/CSS/JavaScript question — something like make a table, add an event listener, add some CSS effect.
+
+<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L523)</sub>
+
+## 2026-10-19 · NIT Delhi · Intern
+
+### Q1. Advanced Technology role OA format and MCQ topics
+
+Accenture Advanced Technology role (2M intern, third year) process:
+- First an OA with 3 rounds; each one is an elimination round.
+- If you clear that, a communication round (can be taken any time, anywhere).
+- Then a 15-20 min interview.
+
+The MCQs came from a wide range of topics, including MS Office, cloud, computer networks and CS fundamentals. The coding round had a DSA question, a SQL question and a frontend question.
+
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L554), [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L557)</sub>
+
+## 2026-10-19 · MNNIT Allahabad · FTE
+
+### Q1. Accenture ETE rounds: gaming, full-stack task, communication
+
+Accenture Elite Technology Engineering (ETE) full-time process:
+
+- There is a gaming round.
+- Frontend/JS question: backend is not asked explicitly, but you have to complete a working feature using HTML, CSS and JS together.
+- Communication round: an AI-based assessment that eliminates candidates. It tests English fluency, pronunciation, grammar, vocabulary and confidence. Tasks include reading sentences aloud, correcting errors, retelling stories, describing a picture and answering situational questions. It is scored automatically, so speak clearly with a good mic and no background noise. If you fail this round you do not go on to the interview.
+
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L626), [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L628), [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L629)</sub>
+
+## 2026-10-19 · MANIT Bhopal · FTE
+
+### Q1. Accenture OA coding and technical section format
+
+Coding questions in the OA: one each of DSA, SQL and DOM (frontend).
+
+The technical rounds had 45 questions.
+
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L579), [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L582)</sub>
+
+## 2026-10-19 · IIT Hyderabad · FTE
+
+### Q1. Accenture Elite communication round format
+
+Accenture Elite Communication Round: tests English fluency, pronunciation, grammar, vocabulary and confidence through tasks like:
+- reading sentences
+- correcting errors
+- retelling stories
+- describing a picture
+- answering situational questions
+
+It is auto-evaluated by the system, so speak clearly with a good mic and no background noise. If you fail this round, you will not proceed to the interview.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L650)</sub>
+
+## 2026-10-18 · IIT Hyderabad · FTE
+
+### Q1. Check every 2x2 block of a grid has at most K buildings
+
+Accenture Japan OA (reconstructed from memory, not the original wording).
+
+A city is represented by an N × N grid of parcels, formed by N+1 roads in each of two perpendicular directions. Each parcel is a square. Every group of four adjacent parcels forms a 2 × 2 block.
+
+There are M buildings. For each building, the input gives coordinates (A_i, B_i) of the parcel containing it. An integer K specifies the maximum number of buildings allowed in any block.
+
+**Task:** Determine whether every possible 2 × 2 block contains at most K buildings. Print `YES` if the condition holds for all blocks; otherwise, print `NO`.
+
+**Input format**
+```
+N M K
+A1 B1
+A2 B2
+...
+AM BM
+```
+
+**Output format**
+
+Print `YES` if every 2 × 2 block contains at most K buildings; otherwise, print `NO`.
+
+(Constraints, examples and whether coordinates are 0- or 1-based were not given.)
+
+<sub>Topics: Arrays, Hashing · Source: [accenture_japan_grid_buildings_problem.pdf](../archive/files/8500-accenture_japan_grid_buildings_problem.pdf)</sub>
+
+### Q2. Accenture Elite Technology Engineer OA pattern
+
+OA pattern for the Accenture full-time Elite Technology Engineering (ETE) role:
+
+- 1 DSA question (easy to medium). You only write the function; reading input and defining the function are not needed.
+- 1 SQL question
+- 1 JS question. Only frontend problems are asked, no backend. Practise DOM manipulation well and it can be solved easily.
+
+There was no gaming round at this college.
+
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/accenture-oa/2026-10.jsonl#L610), [chat, 18 Oct](../archive/accenture-oa/2026-10.jsonl#L612), [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L623), [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L624)</sub>
+
+## 2026-10-18 · IIT Dhanbad · FTE
+
+### Q1. Accenture Japan OA pattern (20 MCQs + 1 coding)
+
+Accenture Japan (Digital Consulting) OA at IIT Dhanbad.
+
+| Section | Questions | Time |
+|---|---|---|
+| MCQs | 20 | 20 minutes |
+| Coding / DSA | 1 | 60 minutes |
+| Total | 21 | 80 minutes |
+
+MCQ topics:
+- LLM / Generative AI
+- Aptitude
+- Pseudocode / output-based questions
+- SQL
+- CS fundamentals, mainly Operating Systems and Cloud Computing (reported to be relatively easy)
+
+Coding: 1 question, 60 minutes, all programming languages allowed. Different sets got different questions (Set 1: Morse Code Dictionary, Set 2: Minimum Dice Rolls to Reach the End).
+
+The poster noted that questions are repeating.
+
+<sub>Topics: OA Format · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/8420-Accenture_Japan_OA_IIT_Dhanbad.pdf), [chat, 18 Oct](../archive/accenture-oa/2026-10.jsonl#L689)</sub>
+
+### Q2. Decode Morse code into a dictionary word
+
+A Morse-code mapping table was provided, where each English alphabet character corresponds to a Morse-code representation using combinations of `.` and `-`.
+
+Given a string written in Morse code, decode it and output a corresponding English word. The decoded word must be present in the provided `dictionary.txt` file.
+
+**Dictionary constraint:**
+- The output word must be present in `dictionary.txt`.
+- The word's Morse-code representation must match the given input.
+- If multiple valid dictionary words can be generated, any one valid word may be printed.
+
+**Input:** A Morse-code string is provided as input, along with the Morse-code mapping table for the alphabet.
+
+**Output:** Print any valid word from `dictionary.txt` whose Morse-code representation matches the given input.
+
+(No constraints or examples were given.)
+
+<sub>Topics: Strings, Hashing · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/8420-Accenture_Japan_OA_IIT_Dhanbad.pdf), [chat, 18 Oct](../archive/accenture-oa/2026-10.jsonl#L689)</sub>
+
+### Q3. Minimum dice rolls to reach the end of the array
+
+You are given an array `A` of non-negative integers of size `N`. You start at index 0 and need to reach an index greater than or equal to `N`.
+
+A special die is available. You can choose any number from 1 to 6 whenever you roll the die.
+
+At any index, there are two possible actions:
+- **Roll the die:** choose any value from 1 to 6 and jump forward by that many positions. This counts as one dice roll.
+- **Use the value at the current index:** jump forward by exactly `A[i]` positions. This action does not require a dice roll.
+
+The objective is to reach an index `>= N` using the minimum possible number of dice rolls.
+
+**Example**
+```
+N = 10
+A = [0, 0, 0, 0, 0, 1, 1, 1, 1]
+Output: 1
+```
+
+(The share notes the jump/reach structure resembles LeetCode 45 Jump Game II, but with the extra die move and free jumps. No constraints were given.)
+
+<sub>Topics: DP, Graphs, Arrays · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/8420-Accenture_Japan_OA_IIT_Dhanbad.pdf), [chat, 18 Oct](../archive/accenture-oa/2026-10.jsonl#L689)</sub>
+
+## 2026-10-17 · Unknown · FTE
+
+### Q1. Elite Technology Engineer communication round
+
+The communication round of the Accenture Elite Technology Engineer process includes:
+- reading sentences aloud
+- listen and repeat
+- pronunciation and spoken English
+- sometimes email writing
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L731)</sub>
+
+## 2026-10-17 · NIT Patna · Intern
+
+### Q1. Advanced Technology Engineer intern OA pattern
+
+OA pattern for Advanced Technology Engineer (intern):
+1. **Technical round:** 45 minutes, 45 questions; about 30% of the MCQs are repeated ones.
+2. **Coding round:**
+   1. DSA problem (most of the time array/string)
+   2. SQL (join on two or three tables)
+   3. Frontend (DOM manipulation)
+3. **Gaming round**
+
+<sub>Topics: OA Format · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L800)</sub>
+
+## 2026-10-17 · NIT Patna · Unknown
+
+### Q1. Cloud storage option that scales dynamically
+
+In a cloud-based application where scalability is crucial, which cloud storage option allows dynamic scaling without the need for manual intervention?
+
+A. Block storage
+B. File storage
+C. Object storage
+D. Table storage
+
+Answer given in the PDF: C. Object storage
+
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q2. Moving data from accumulator to memory
+
+Computer Architecture - Accumulator to Memory: As a computer architect, you are designing the control unit of a CPU. You need to specify how data is moved from the accumulator to the memory. Which of the following best describes this operation?
+
+Answer given in the PDF: Data transfer from accumulator to memory is done using a Store instruction.
+
+(Options not included in the PDF.)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q3. Connecting on-premise and public cloud in hybrid model
+
+Hybrid Cloud Connectivity: An enterprise is adopting a hybrid cloud model where they combine on-premise infrastructure with public cloud services to securely connect these environments and ensure reliability. What solutions should they implement?
+
+Answer given in the PDF: Secure VPN or dedicated connectivity like Direct Connect.
+
+(Options not included in the PDF.)
+
+<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q4. VPN type for employee working from home
+
+VPN for Remote Access: Assume that an employee at a multinational organization is working from home for some reason and needs to access the company's internal network to retrieve some files. Which type of VPN will be best suitable for this case?
+
+Answer given in the PDF: Remote Access VPN
+
+(Options not included in the PDF.)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q5. DevOps practice of automatic deployment to production
+
+DevOps - Continuous Deployment: An e-commerce company updates its website weekly with new features and fixes. Using an Agile development approach, after each update, the new version is automatically deployed to the live environment. This practice automates the release of software to production frequently and reliably. Which practice is being implemented?
+
+A. Continuous Deployment - automates frequent and reliable releases to production
+B. Continuous Integration - focuses on merging code changes regularly to prevent integration issues
+C. Continuous Testing - ensures automated tests are run continually to validate code quality
+D. Monitoring - tracks application performance and user activity after deployment
+
+Answer given in the PDF: A. Continuous Deployment
+
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q6. Attack that inserts malicious routing info to redirect traffic
+
+Routing Manipulation Attack: Hackers can manipulate data packets traveling across a network by inserting malicious routing information, allowing them to redirect traffic through their own systems. This method enables them to pull, extract, or edit data without detection. What type of attack is this called?
+
+Answer given in the PDF: Man-in-the-Middle (MITM) attack
+
+(Options not included in the PDF.)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q7. Register saved during context switch (no options)
+
+OS Context Switching: During a context switch, consider that the operating system saves the state of the currently running process and loads the state of the next process to be executed. Which crucial CPU register responsible for loading the address of the next instruction to be fetched must be saved and restored during this operation?
+
+Answer given in the PDF: The Program Counter (PC) register.
+
+(Options not included in the PDF.)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q8. I/O device controller with built-in cache
+
+I/O Bus and Device Controller: Suppose you want to design a bus system where input-output devices are connected to the computer via wires, and data transfer is handled electronically. The host controller sends messages to the device controller, which performs the operation. If the device controllers have a built-in cache for faster data transfer, which device will you choose?
+
+A. Enhanced Integrated Device Electronics A
+B. Enhanced Integrated Device Electronics B
+C. Enhanced Integrated Device Electronics C
+D. Enhanced Integrated Hard Driver
+
+Answer given in the PDF: B. Enhanced Integrated Device Electronics B (EIDE B)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q9. Attack technique to compromise a symmetric key
+
+Each party encrypts messages before sending them using a shared secret key, and messages are decrypted by the receiving party using the same key. If an attacker can send a specially crafted message to one party and analyze the resulting encrypted output, which technique is most likely to compromise the secret key in this symmetric encryption system?
+
+A. Analyzing patterns in intercepted encrypted messages
+B. Comparing the crafted message's encrypted output with previously encrypted messages
+C. Performing a brute-force attack on intercepted messages
+D. Matching message lengths to guess the content
+
+Answer given in the PDF: B. Comparing the crafted message's encrypted output with previously encrypted messages
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q10. Defining characteristic of containers
+
+Containerization Concept: A software development team is implementing containerization to streamline application deployment by encapsulating applications and their dependencies. Which characteristic defines containers in the context of software development and deployment?
+
+A. Virtual machines with a dedicated Hypervisor ALKIDI
+B. A logical separate network within the server
+C. Part of the same OS instance as the Hypervisor
+D. Virtual computers running under a Hypervisor
+
+Answer given in the PDF: C. Part of the same OS instance as the Hypervisor
+
+<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q11. Redundant line in Android WPA3 configuration
+
+WPA3 Configuration (Android): Assume that a developer is tasked with configuring a high-security Wi-Fi environment for a sensitive government project using Android devices. The configuration includes:
+
+```
+Config SAE = Y
+Config SUITEB = Y
+Configure SUITEB192 = Y
+```
+
+In the given scenario, which configuration line is incorrect or redundant and might potentially weaken the desired security level?
+
+Answer given in the PDF: Configure SUITEB192 = Y is redundant and may weaken compatibility without added benefit.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q12. HTTP method to read restaurant list from API
+
+A mobile application needs to retrieve a list of all available restaurants from a food delivery service's API. The application should only read data without making any changes to the server resources. Which HTTP method is most appropriate for this operation?
+
+A. POST
+B. PUT
+C. DELETE
+D. GET
+
+Answer given in the PDF: D. GET
+
+<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q13. Resource pooling and storage elasticity in cloud
+
+Cloud Elasticity / Resource Pooling: As part of a data center modernization initiative, the IT team is tasked with addressing storage challenges. The goal is to leverage existing storage devices from various vendors and integrate them with a next-generation storage solution. How does resource pooling play a crucial role in achieving elasticity in storage solutions for cloud computing?
+
+Answer given in the PDF: Resource pooling enables dynamic allocation of shared storage capacity to meet demand.
+
+(Options not included in the PDF.)
+
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q14. OS property for cross-platform application compatibility
+
+OS Property - Application Compatibility: Consider you are a software developer working on a new application for a large corporation. Your application is expected to run on a variety of different computers with varying hardware specifications and operating systems. Which property of an operating system is most important for you to consider?
+
+Answer given in the PDF: Resource Allocation
+
+(Options not included in the PDF.)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q15. Cloud features for flash-sale traffic spikes
+
+Cloud Traffic Spike Handling: An e-commerce website experiences sudden traffic spikes during a flash sale. The platform needs to access resources to handle the increase without manual intervention. Which cloud features should be prioritized?
+
+Answer given in the PDF: Auto-scaling and load balancing.
+
+(Options not included in the PDF.)
+
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q16. Shared responsibility model in cloud security
+
+Shared Responsibility Model: Assume that a company migrates its application to a cloud-connected environment where the cloud provider handles infrastructure services while the customer develops and deploys the application. How does the shared responsibility model impact security management in this scenario?
+
+Answer given in the PDF: Both the cloud provider and the customer share security responsibilities.
+
+(Options not included in the PDF.)
+
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q17. PowerPoint setting to force sequential slide viewing
+
+You are building a training module in MS PowerPoint and want to restrict navigation so that users must view each slide sequentially with narration, without freely skipping slides. Which setting provides the strictest control over slide navigation?
+
+A. Add hyperlinks between slides
+B. Use normal Slide Show mode
+C. Set up Slide Show as Browsed at a kiosk (full screen)
+D. Enable Presenter View
+
+Answer given in the PDF: C. Set up Slide Show as Browsed at a kiosk (full screen)
+
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q18. Protocol for secure cloud email transmission
+
+If a company wants to ensure secure and reliable email transmission for its cloud-based email service, which protocol should they implement?
+
+A. HTTP
+B. FTP
+C. SMTP
+D. POP3
+
+Answer given in the PDF: C. SMTP
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q19. File format for a reusable Word template
+
+To create a document template for repeated use, which file format should you save the document in?
+
+A. .docx
+B. .pdf
+C. .dotx
+D. .txt
+
+Answer given in the PDF: C. .dotx
+
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q20. Kernel-level peripheral isolation between containers
+
+An application relies on multiple hardware peripherals and requires strict isolation from other running containers to maintain data integrity and operational security. The development team uses a kernel-level configuration to allocate specific hardware resources to each container and restrict access to non-allocated devices. What is the most critical factor in maintaining operational security and preventing resource contention among containers?
+
+A. Ensuring that the host OS scheduler allocates CPU cycles equally to all containers
+B. Configuring the kernel to enforce strict resource isolation and limit peripheral access to only allocated devices.
+C. Allowing virtualization software to dynamically allocate additional memory as required
+D. Allowing containers to share network interfaces with individual access control lists
+
+Answer given in the PDF: B. Configuring the kernel to enforce strict resource isolation and limit peripheral access to only allocated devices
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q21. Device controller with dedicated high-speed buffers
+
+Data is transferred between the CPU and a peripheral device through a shared bus controlled by device controllers to improve data transfer speed and reduce latency. The system uses controllers with dedicated high-speed buffers. Which of the following device controllers is most suitable for this purpose?
+
+A. Wireless Controller
+B. USB Controller
+C. SATA Controller
+D. Ethernet Controller
+
+Answer given in the PDF: C. SATA Controller
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q22. Attack that injects routing info to redirect packets
+
+Hackers attempt to intercept and manipulate data packets traveling across a network by inserting malicious code or routing information, allowing them to redirect traffic through their own system. This enables them to eavesdrop or alter data without detection. What type of attack is this called?
+
+A. Packet Sniffing
+B. IP Spoofing
+C. Routing Table Poisoning
+D. DNS Spoofing
+
+Answer given in the PDF: C. Routing Table Poisoning
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q23. HTTP status code for unavailable API endpoint
+
+During application development, a developer encounters an error due to an incorrect or unavailable API endpoint, resulting in a "Not Found" response. Which HTTP status code most accurately represents this error?
+
+A. 404
+B. 500
+C. 403
+D. 400
+
+Answer given in the PDF: A. 404
+
+<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q24. OS property to prioritise after a security breach
+
+You are employed by a company that has recently suffered a security breach. As the IT manager, you are responsible for enhancing the security of the computer's operating system. Which property of an operating system should you prioritize to achieve this goal?
+
+A. Access Control
+B. User Interface
+C. Multitasking
+D. Virtual Memory
+
+Answer given in the PDF: A. Access Control
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q25. PowerPoint feature for a dynamic progression slide
+
+Jane wants to create a slide that illustrates a progression over time using icons, text, and blanks. She wants it to appear visually dynamic without manually animating each step. Which MS PowerPoint feature can help speed up this process?
+
+A. Use Slide Zoom feature to create dynamic progression
+B. Use a SmartArt process layout
+C. Apply the Morph transition across duplicated slides for a smooth effect
+D. Create a custom layout with background images and animation triggers
+
+Answer given in the PDF: C. Apply the Morph transition across duplicated slides for a smooth effect
+
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q26. Register saved during context switch (with options)
+
+During a context switch, the operating system saves the state of the currently running process and loads the state of the next process to be executed. Which CPU register, responsible for holding the address of the next instruction to be fetched, must be saved and restored during this operation?
+
+A. Stack Pointer
+B. General Purpose Register
+C. Program Counter
+D. Instruction Register
+
+Answer given in the PDF: C. Program Counter
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q27. VPN topology linking two office networks
+
+Two geographically separate offices, Office A and Office B, need to allow all users in Office A to securely access resources in Office B and vice versa, as if they were on the same local network. Which VPN topology is most appropriate for this scenario?
+
+A. Remote Access VPN
+B. Site-to-Site VPN
+C. Client-to-Server VPN
+D. Peer-to-Peer VPN
+
+Answer given in the PDF: B. Site-to-Site VPN
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q28. RESTful endpoint to fetch a product by ID
+
+A development team is designing a new RESTful API to manage a product catalog for their e-commerce platform. They need to create an endpoint that retrieves details of a specific product using its unique product ID. Which HTTP method and URL structure best align with RESTful principles for this operation?
+
+A. POST/products/{productid}
+B. GET/products/{productid}
+C. PUT/products/{productId}
+D. DELETE/products/{productid}
+
+Answer given in the PDF: B. GET/products/{productid}
+
+<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q29. Fixing a container that consumes massive memory
+
+A containerized application is consuming massive memory, causing performance issues. What is the recommended approach to address this problem effectively?
+
+A. Increase the memory limit for the container
+B. Use a larger base image for the container
+C. Reduce the number of replicas of the container
+D. Analyze the application code for memory leaks
+
+Answer given in the PDF: D. Analyze the application code for memory leaks
+
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q30. Technology for isolated environments on one server
+
+A cloud infrastructure requires running multiple isolated environments on a single physical server. Which technology is primarily used to achieve this?
+
+A. Containers
+B. Virtual Machines (VMs)
+C. Serverless computing
+
+Answer given in the PDF: B. Virtual Machines (VMs)
+
+<sub>Topics: OS/DBMS/CN MCQ, Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q31. OSI layer that carries Ethernet, cable and Wi-Fi signals
+
+An internet connection is established by a user, connecting devices like a computer, smartphone, and smart TV to a router. Which OSI model layer is responsible for transmitting Ethernet, cable, and Wi-Fi signals between these devices?
+
+A. Physical Layer
+B. Network Layer
+C. Data Link Layer
+D. Application Layer
+
+Answer given in the PDF: A. Physical Layer
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q32. PivotTable feature for custom calculations
+
+In a PivotTable, which feature allows you to create custom calculations and summaries based on the existing data?
+
+A. Calculated Fields
+B. Calculated Items
+C. Slicers
+D. Grouping
+
+Answer given in the PDF: A. Calculated Fields
+
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q33. OSI layer that routes packets between network segments
+
+Data packets are transmitted between routers and switches to ensure proper delivery across different network segments. Which OSI model layer is responsible for establishing logical paths and routing data packets between different network segments?
+
+A. Data Link Layer
+B. Network Layer
+C. Transport Layer
+D. Session Layer
+
+Answer given in the PDF: B. Network Layer
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q34. System calls to create a process and run another executable
+
+A developer writes a program that needs to create a new process and run a different executable file. Which pair of system calls fulfills this requirement in a Unix-like OS?
+
+Answer given in the PDF: fork() creates a new process and exec() replaces it with a new executable.
+
+(Options not included in the PDF.)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q35. Security measure requiring two types of identification
+
+In a cloud computing environment, which security measure helps protect user accounts by requiring two different types of identification before granting access?
+
+A. Firewalls
+B. Encryption
+C. Multi-Factor Authentication (MFA)
+D. Antivirus Software
+
+Answer given in the PDF: C. Multi-Factor Authentication (MFA)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q36. Impact of one workstation failing in a ring topology
+
+A small business uses ring network topology. If a single workstation goes down, what impact will it have on the network?
+
+A. Minimal impact; network reroutes traffic
+B. Network becomes isolated
+C. Network slows down
+D. Network breaks completely
+
+Answer given in the PDF: D. Network breaks completely
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q37. Converting data into a secure format
+
+What is the process of converting data into a secure format to prevent unauthorized access?
+
+A. Encryption
+B. Authentication
+C. Authorization
+D. Compression
+
+Answer given in the PDF: A. Encryption
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q38. Protocol to encrypt data in transit
+
+Which protocol is commonly used to secure data in transit over the internet by encrypting communication between systems?
+
+A. HTTP
+B. MTP
+C. SSL/TLS
+D. SMTP
+
+Answer given in the PDF: C. TLS
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q39. Most secure cloud deployment model for sensitive data
+
+Assume that you have recently started working for an organization that is migrating to a cloud-based infrastructure. As part of IT governance, you are responsible for ensuring data security in the cloud environment. You are aware of various cloud deployment models and need to choose the most secure option for your organization's sensitive data. In the context of IT governance and cloud security, which cloud deployment model is typically the most secure choice for organizations with highly sensitive data?
+
+Answer given in the PDF: Private Cloud
+
+(Options not included in the PDF.)
+
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q40. Server response to a TCP SYN packet
+
+After initializing a connection attempt to a remote server, consider that a client application sends a SYN packet to indicate the request for establishing a reliable connection. What is the expected response from the server, assuming it is available and prepared to accept the connection from the client?
+
+Answer given in the PDF: The server responds with a SYN-ACK packet.
+
+(Options not included in the PDF.)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q41. Most secure Wi-Fi encryption protocol
+
+A network administrator is tasked with selecting a secure wireless encryption protocol. Which of the following is considered the most secure for Wi-Fi networks?
+
+Answer given in the PDF: WPA3
+
+(Options not included in the PDF.)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+### Q42. Attack that specifies packet route to bypass firewall
+
+Packet Routing / Firewall Bypass Attack: Assume your computer's data was stolen by hackers through your network by mentioning the route to be used by the packets. This is done by the hackers to avoid security measures due to non-analyzing of source information instead of using a Packet filter firewall. What is this type of attack called?
+
+Answer given in the PDF: Source Routing Attack
+
+(Options not included in the PDF.)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+
+## 2026-10-17 · NIT Patna · FTE
+
+### Q1. Frontend DOM manipulation task (HTML/CSS/JS)
+
+Dev section of the Accenture OA: you are given one HTML file, one CSS file and one JS file. Tasks are given like:
+- add a placeholder to a particular input field
+- add padding to a particular class
+
+Some comments are written in the JS file, and you need to write the JS code based on those comments. It is a frontend problem based on DOM manipulation.
+
+Based on the changes you make in the JS, CSS and HTML files, you see the rendered web page. You can see errors in your code as well as the web page, where you can enter input.
+
+(The exact task statement was not shared.)
+
+<sub>Topics: Web Dev · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L736), [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L739), [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L740), [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L750), [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L651)</sub>
+
+### Q2. Accenture OA sections: technical MCQs and SQL
+
+- For the AEH/ATE role, the Accenture OA includes a technical (MCQ) round.
+- In the SQL question, you can see the output of your query.
+
+<sub>Topics: OA Format · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L736), [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L739), [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L740), [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L750), [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L651)</sub>
+
+## 2026-10-17 · NIT Delhi · FTE
+
+### Q1. DSA question style: LeetCode-type function
+
+The DSA question in the Accenture OA is LeetCode-style: you do not need to handle input reading yourself.
+
+<sub>Topics: OA Format · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L658)</sub>
+
+## 2026-10-17 · MNNIT Allahabad · FTE
+
+### Q1. AI & Data Tech Grad OA: DSA + AI/ML MCQs
+
+Accenture AI & Data Tech Grad (FTE) OA: mostly DSA, plus some MCQs on AI and ML, including some Agentic AI questions.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L713)</sub>
+
+### Q2. Elite Technology Engineer OA: allowed languages
+
+In the Accenture Elite Technology Engineer OA, the coding questions can be solved only in Python or Java (C++ is not available for the DSA problem), so prepare one of these two languages.
+
+<sub>Topics: OA Format · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L743), [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L749)</sub>
+
+## 2026-10-17 · IIT Hyderabad · FTE
+
+### Q1. Count contiguous groups of same-sign elements
+
+**Count Contiguous Groups of Same-Sign Elements**
+
+Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign.
+
+A new group starts whenever the sign changes between two consecutive elements.
+
+Example 1:
+```
+Input:
+arr = [1, 2, -3, -4, 5]
+Output:
+3
+```
+Explanation: The array can be divided into three contiguous groups: [1, 2], [-3, -4], and [5].
+
+<sub>Topics: Arrays · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L717)</sub>
+
+### Q2. SQL join across three tables
+
+SQL question requiring a JOIN between 3 tables.
+
+The schema and the exact task were not given.
+
+<sub>Topics: SQL · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L717)</sub>
+
+### Q3. JavaScript frontend task following instructions
+
+JavaScript frontend question: you just had to follow the instructions given in the question. Basic DOM understanding is enough.
+
+The exact instructions were not given.
+
+<sub>Topics: Web Dev · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L717)</sub>
+
+### Q4. Accenture OA platform and sections
+
+- The exam is conducted on Safe Exam Browser.
+- There was no MCQ section before the coding questions; the OA had only the 3 questions (a DSA problem, a dev task and a SQL question).
+
+<sub>Topics: OA Format · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L719), [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L721)</sub>
+
+## 2026-10-16 · IIT Roorkee · FTE
+
+### Q1. Accenture Elite/ETE OA format
+
+Format of the Accenture Elite (ETE) role OA:
+
+- No MCQs in the Elite role.
+- You only write code: SQL, Python, and frontend code.
+- The frontend part is HTML, CSS and JS only, with no React or other frameworks.
+- The SQL question gives an ER model instead of plain tables like on LeetCode.
+
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L753), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L760), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L761), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L762), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L763)</sub>
+
+## 2026-10-16 · IIT Hyderabad · FTE
+
+### Q1. Count contiguous groups of same-sign elements
+
+Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign.
+
+A new group starts whenever the sign changes between two consecutive elements.
+
+**Example 1:**
+```
+Input:
+arr = [1, 2, -3, -4, 5]
+Output:
+3
+```
+Explanation: The array can be divided into three contiguous groups: [1, 2], [-3, -4], and [5].
+
+(Constraints were not shared.)
+
+<sub>Topics: Arrays · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L764), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L771)</sub>
+
+### Q2. SQL query joining three tables
+
+A SQL question that required a JOIN between 3 tables.
+
+(The schema and the exact query asked were not shared.)
+
+<sub>Topics: SQL · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L764), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L771)</sub>
+
+### Q3. JavaScript DOM frontend task
+
+A JavaScript frontend task: you had to follow the instructions given in the question. Clear instructions are given, and if you make the changes as described it is easy to solve. A basic understanding of the DOM is enough (practice DOM manipulation).
+
+(The exact task was not shared.)
+
+<sub>Topics: Web Dev · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L764), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L771)</sub>
+
+### Q4. Accenture ETE OA pattern (IIT Hyderabad)
+
+Questions are not repeated across sets, but the pattern is similar in their college and in other colleges:
+- DSA: easy-medium level only
+- SQL: join multiple tables, with GROUP BY / HAVING needed
+
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L774), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L775)</sub>
+
+## 2026-10-16 · IIT Dhanbad · FTE
+
+### Q1. Next number with multiplicative persistence 1
+
+**Multiplicative Persistence**
+
+Given a positive integer **n**, repeatedly multiply all of its digits together to form a new number. Continue this process until the result becomes a single-digit number. The number of multiplication rounds required is called the **multiplicative persistence** of the number.
+
+The task was to **return the smallest number greater than n whose multiplicative persistence is exactly 1**.
+
+Examples remembered:
+```
+n = 10: 1 × 0 = 0, so the persistence is 1.
+n = 27: 2 × 7 = 14, then 1 × 4 = 4, so the persistence is 2. The next number greater than 27 with persistence 1 is 30.
+n = 9: the next number greater than 9 with persistence 1 is 10.
+```
+
+A multiplicative-persistence question was also present in another question set. Supported languages: Python, C# and Java.
+
+Constraints and the exact input/output format were not given.
+
+<sub>Topics: Math · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/7853-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q2. Car rental: cars that were never rented
+
+An ER diagram / database schema was given instead of sample input/output. The schema had multiple tables for a **car-rental system**, including customer, rental and car-related information.
+
+Task: find cars that have **never been rented** and return the requested car details, such as the **car model**, **rental rate** and other relevant attributes.
+
+It can be solved with a JOIN with NOT EXISTS, or an anti-join such as LEFT JOIN with an IS NULL condition.
+
+The exact table names, columns and output columns were not given.
+
+<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/7853-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q3. Edit given HTML/CSS/JS files to meet requirements
+
+Existing HTML, CSS and JavaScript files were provided, and the task was to make specific changes as the question required:
+- **HTML:** make a requested tag/structure change, such as changing a `div` element to an `h2`.
+- **CSS:** add or change a style property for an element selected by a class, such as `font-size`.
+- **JavaScript:** an `addEventListener` and a function were already present; the task was to add `if/else` logic that changes `innerText` based on given conditions.
+
+The exact requirements and conditions were not given.
+
+<sub>Topics: Web Dev · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/7853-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q4. Elite Technology Engineer process: OA + communication rounds
+
+**Accenture Elite Technology Engineer — IIT Dhanbad**
+
+- **Day 1 – Technical OA (60 minutes):** Q1 DSA/Coding, Q2 SQL, Q3 HTML/CSS/JavaScript. DSA difficulty varied across sets (some easy, some medium). Languages: Python, C#, Java.
+- **Day 2 – Verbal Communication (AI-assisted):** for candidates shortlisted from the technical OA. It included sentence reading, repeating sentences after an AI voice, and listening comprehension (listen to/read a paragraph and answer questions on it).
+- **Day 2 – Written Communication:** for candidates who cleared the verbal round. One email-writing task based on a given situation/prompt.
+
+<sub>Topics: OA Format, Verbal · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/7853-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+## 2026-10-16 · IIT BHU · FTE
+
+### Q1. Accenture OA sections: 1 DSA, 1 SQL, 1 dev
+
+The coding part of the OA had 1 DSA question, 1 SQL question and 1 dev (frontend) question.
+
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L779), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L781)</sub>
+
+## 2026-10-15 · Unknown · FTE
+
+### Q1. Decode Morse code to a word in dictionary.txt
+
+DSA Question (Set 1): Morse Code Dictionary
+
+A Morse-code mapping table was provided, where each English alphabet character corresponds to a Morse-code representation using combinations of `.` and `-`.
+
+Given a string written in Morse code, decode it and output a corresponding English word. The decoded word must be present in the provided `dictionary.txt` file.
+
+Dictionary constraint:
+- The output word must be present in dictionary.txt.
+- The word's Morse-code representation must match the given input.
+- If multiple valid dictionary words can be generated, any one valid word may be printed.
+
+Input: A Morse-code string is provided as input, along with the Morse-code mapping table for the alphabet.
+
+Output: Print any valid word from dictionary.txt whose Morse-code representation matches the given input.
+
+<sub>Topics: Strings, Hashing · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L825), [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L826)</sub>
+
+### Q2. Composite number greater than n with odd digit sum
+
+Input: n
+
+Return a number greater than n such that it is composite and the sum of its digits is odd.
+
+Constraints and examples were not given, and the poster did not say whether the smallest such number is required.
+
+<sub>Topics: Math · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L825), [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L826)</sub>
+
+## 2026-10-15 · IIT Roorkee · FTE
+
+### Q1. Accenture elite role OA: DSA level
+
+Accenture elite role OA: the DSA questions are basic, only string and array questions. Because they are so basic, they are not repeated across OAs.
+
+<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L815), [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L816)</sub>
+
+## 2026-10-15 · IIT Hyderabad · FTE
+
+### Q1. Water left after watering N trees
+
+(Similar to this; the language might be different.)
+
+You are given N trees and K units of total water.
+Each tree initially requires M units of water. For the ith tree:
+- array1[i] denotes the number of additional times the tree needs to be watered.
+- array2[i] denotes the amount of water required during each additional watering.
+
+The total water required by the ith tree is:
+```
+M + (array1[i] × array2[i])
+```
+Calculate and return the amount of water remaining after watering all N trees. If the total water required is greater than K, return 0.
+
+Input:
+- An integer N, representing the number of trees.
+- An integer K, representing the total available water.
+- An integer M, representing the initial water requirement of each tree.
+- An array array1 of size N.
+- An array array2 of size N.
+
+Output: Return the remaining amount of water:
+```
+max(0, K - totalWaterRequired)
+```
+
+<sub>Topics: Arrays, Math · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L812)</sub>
+
+### Q2. SQL: join 3 tables with GROUP BY and IS NULL
+
+One SQL query: join 3 tables, using GROUP BY, IS NULL and multiple join conditions. The poster said the schema was too complex to understand.
+
+The schema and the exact task were not shared.
+
+<sub>Topics: SQL · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L812)</sub>
+
+### Q3. Web dev: HTML/CSS/JS edits guided by comments
+
+One web dev question (HTML, CSS, JS). Hints are given for each part, like "change the colour from this to this". Everything is clearly written in comments, and the JS part works the same way.
+
+Poster's prep tip: go through the basics, learn what each component is, and write the code 3–4 times.
+
+The exact tasks were not shared.
+
+<sub>Topics: Web Dev · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L812)</sub>
+
+## 2026-10-15 · IIT Guwahati · FTE
+
+### Q1. Modified Jump Game II (medium DP)
+
+Accenture Japan OA DSA question, repeated from the IIT Dhanbad and IIT Roorkee OAs: a modified version of LeetCode's Jump Game II, i.e. a medium DP problem.
+
+The poster did not say what the modification was or give the full statement.
+
+<sub>Topics: DP, Arrays · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L803)</sub>
+
+### Q2. Accenture Japan OA format at IIT Guwahati
+
+The OA was the same as at IIT Dhanbad and IIT Roorkee: one DSA question (a repeat) plus an MCQ section of 20 questions in 20 minutes.
+
+<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L803)</sub>
+
+### Q3. N+1 roads problem
+
+The new DSA question asked in the IIT Guwahati Accenture Japan OA was "the N+1, N+1 roads problem".
+
+Only the name was given: no statement, constraints or examples.
+
+<sub>Topics: Other · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L823)</sub>
+
+### Q4. IT quiz MCQs: AI regulation, subnet masking, code output
+
+MCQ section of the Accenture Japan OA:
+- One question on the AI regulation policies of the US, Japan, China and the EU.
+- One question on subnet masking.
+- The others were easy output-of-code questions.
+
+The exact questions and options were not shared.
+
+<sub>Topics: ML/AI, OS/DBMS/CN MCQ, Code Output (C/C++/Java/Python) · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L823)</sub>
+
+## 2026-10-14 · Unknown · FTE
+
+### Q1. Accenture I&E AI and Data OA pattern
+
+Accenture I&E – AI and Data (FTE) OA, as asked at other colleges for this role:
+
+- **Python and SQL:** Joins, exceptions, file handling, collections and lambda functions.
+- **Hive and Spark:** HiveQL, RDD transformations, filtering and sorting.
+- **Machine Learning:** K-Means, SVM, neural networks and evaluation metrics.
+- **Statistics:** T-tests, confidence intervals, regression and residuals.
+- **Quantitative aptitude:** Percentages, averages, ratios and profit/loss.
+- **Logical reasoning:** Figure series, directions, relationships and arrangements.
+- **Data interpretation:** Growth percentages, ratios and reading charts accurately.
+
+Technical sections and question counts:
+- Python Programming: 6 questions (focus: exceptions, file handling, regular expressions, functions, collections, and imports)
+- SQL: 3 questions (focus: joins, duplicate rows, filtering, and subqueries)
+- Apache Hive: 4 questions (focus: HiveQL syntax, HDFS, external tables, sorting and overwriting)
+- Apache Spark: 3 questions (focus: Spark transformations, RDDs, DataFrames and tokenization)
+- Data Science, Statistics, ML, NLP & Deep Learning: 12 questions
+
+<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q2. Convert implicit join to explicit join
+
+SQL question: convert a query that uses an implicit join (comma-separated tables in `FROM`) to an explicit join.
+
+Reported answer: `INNER JOIN ... ON`
+
+*Only the topic and the answer were shared; the original query and options are missing.*
+
+<sub>Topics: SQL · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q3. Purpose of Apache Hive
+
+Apache Hive question: what is Hive mainly used for?
+
+Reported answer: OLAP and data warehousing.
+
+*Only the topic and the answer were shared; the options are missing.*
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q4. Hive ORDER BY vs SORT BY
+
+Apache Hive question: difference between `ORDER BY` and `SORT BY`.
+
+Reported answer: `ORDER BY` does global sorting; `SORT BY` sorts within each reducer only.
+
+*Only the topic and the answer were shared; the options are missing.*
+
+<sub>Topics: SQL, OS/DBMS/CN MCQ · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q5. Hive table over CSV files in HDFS
+
+Apache Hive question: how to create a table over CSV files already stored in HDFS.
+
+Reported answer: `CREATE EXTERNAL TABLE`
+
+*Only the topic and the answer were shared; the options are missing.*
+
+<sub>Topics: SQL · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q6. Hive replace existing table data
+
+Apache Hive question: how to replace the existing data in a table.
+
+Reported answer: `INSERT OVERWRITE TABLE`
+
+*Only the topic and the answer were shared; the options are missing.*
+
+<sub>Topics: SQL · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q7. Spark RegexTokenizer methods
+
+Apache Spark question on `RegexTokenizer`: which methods configure it?
+
+Reported answer: `gaps()` and `pattern()`.
+
+*Only the topic and the answer were shared; the options are missing.*
+
+<sub>Topics: ML/AI · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q8. Spark RDD category-count pairs
+
+Apache Spark question: create (category, count) pairs from an RDD.
+
+Reported answer:
+```scala
+map(x => (x.Category, 1))
+```
+
+*Only the topic and the answer were shared; the code and options are missing.*
+
+<sub>Topics: Other · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q9. Spark filter records born after 1950
+
+Apache Spark question: filter the records of people born after 1950.
+
+Reported answer:
+```scala
+filter($"birthYear" > 1950)
+```
+
+*Only the topic and the answer were shared; the DataFrame and options are missing.*
+
+<sub>Topics: Other · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q10. Algorithm for customer segmentation
+
+Data science question: which method to use for customer segmentation.
+
+Reported answer: K-Means clustering.
+
+*Only the topic and the answer were shared; the options are missing.*
+
+<sub>Topics: ML/AI · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q11. Confidence interval with sample size 5
+
+Statistics question: effect of a small sample size of 5 on the confidence interval.
+
+Reported answer: a wider confidence interval.
+
+*Only the topic and the answer were shared; the full question and options are missing.*
+
+<sub>Topics: Math · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q12. Python class with incorrect __init__ method
+
+Python question on an incorrectly written `_init__` method in a class.
+
+Reported answer: AttributeError occurred.
+
+*Only the topic and the answer were shared; the code and options are missing.*
+
+<sub>Topics: Code Output (C/C++/Java/Python), OOP · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q13. One-sample t-test statistic
+
+Statistics question on the one-sample t-test.
+
+Reported answer:
+
+t = (x̄ − μ) / (s / √n)
+
+*Only the topic and the answer were shared; the given data and options are missing.*
+
+<sub>Topics: Math · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q14. Regression residual standard error
+
+Regression question: compute the residual standard error for the given data.
+
+Reported answer: approximately 0.674.
+
+*Only the topic and the answer were shared; the data and options are missing.*
+
+<sub>Topics: Math, ML/AI · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q15. Hard-margin SVM after removing support vectors
+
+SVM question: what happens to the margin of a hard-margin SVM when support vectors are removed?
+
+Reported answer: the margin can stay the same or increase.
+
+*Only the topic and the answer were shared; the options are missing.*
+
+<sub>Topics: ML/AI · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q16. Steps of backpropagation
+
+Neural network question on backpropagation.
+
+Reported answer: forward pass, then output-layer and hidden-layer backpropagation, then weight updates.
+
+*Only the topic and the answer were shared; the full question and options are missing.*
+
+<sub>Topics: ML/AI · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q17. False positive rate from confusion matrix
+
+Evaluation metrics question: compute the false positive rate.
+
+Reported answer:
+
+FPR = 12 / (12 + 118) = 0.0923
+
+*Only the topic and the answer were shared; the full confusion matrix and options are missing.*
+
+<sub>Topics: ML/AI, Math · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q18. WordNet vs PorterStemmer
+
+NLP question on NLTK's WordNet (lemmatizer) and PorterStemmer.
+
+Reported answer: lemmatization (WordNet) and stemming (PorterStemmer).
+
+*Only the topic and the answer were shared; the code and options are missing.*
+
+<sub>Topics: ML/AI · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q19. Term frequency calculation
+
+NLP question: compute the term frequency of a word.
+
+Reported answer: 10 / 500 = 0.02
+
+*Only the topic and the answer were shared; the full question and options are missing.*
+
+<sub>Topics: ML/AI · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q20. Conv1D layer question (cut off)
+
+Deep learning question on a Conv1D layer "with 3 filt…".
+
+*The shared message is cut off here, so the rest of this question and its answer are missing. The last 2 of the 12 questions in this section were not shared either.*
+
+<sub>Topics: ML/AI · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q21. Python deque operations output
+
+Python question on a series of `deque` operations: predict the final deque.
+
+Reported answer:
+```
+deque([10, 1, 2, 3, 6])
+```
+
+*Only the topic and the answer were shared; the code and options are missing.*
+
+<sub>Topics: Code Output (C/C++/Java/Python), Stack/Queue · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q22. Python regex case-insensitive match groups
+
+Python regular-expression matching question.
+
+Reported answer: case-insensitive matching; group 2 is "example ".
+
+*Only the topic and the answer were shared; the pattern, input string and options are missing.*
+
+<sub>Topics: Code Output (C/C++/Java/Python), Strings · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q23. Python file handling with 'w' mode
+
+Python file-handling question using a file opened in `w` mode: what does the file contain or print?
+
+Reported answer: `Hello Universe`
+
+*Only the topic and the answer were shared; the code and options are missing.*
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q24. Multiply list elements with reduce
+
+Python question: multiply all elements of a list using `reduce`.
+
+Reported answer: `lambda x, y: x * y` → 120
+
+*Only the topic and the answer were shared; the list and options are missing.*
+
+<sub>Topics: Code Output (C/C++/Java/Python), Python & Pandas · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q25. Import a Python module from another directory
+
+Python question: how to import a module that is in another directory.
+
+Reported answer: add the module directory using `sys.path.append()`.
+
+*Only the topic and the answer were shared; the options are missing.*
+
+<sub>Topics: Python & Pandas · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q26. LEFT JOIN row count with duplicate values
+
+SQL question: number of rows returned by a LEFT JOIN when the join column has duplicate values.
+
+Reported answer: 6 rows.
+
+*Only the topic and the answer were shared; the tables and options are missing.*
+
+<sub>Topics: SQL · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+### Q27. Employees working in California (multi-table join)
+
+SQL question: retrieve the employees working in California.
+
+Reported answer: JOIN the `employees`, `departments` and `locations` tables.
+
+*Only the topic and the answer were shared; the schema and options are missing.*
+
+<sub>Topics: SQL · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858)</sub>
+
+## 2026-10-14 · IIT Roorkee · FTE
+
+### Q1. Accenture Elite Engineering OA: coding-only sections
+
+Accenture Elite engineering role OA:
+
+- No MCQs. You write code in all three sections.
+- Frontend section: you get HTML, JS and CSS files and a code snippet. Your task is written in comments inside these files; write that code and run it.
+
+<sub>Topics: OA Format, Web Dev · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L871)</sub>
+
+## 2026-10-14 · IIT Hyderabad · FTE
+
+### Q1. Accenture Elite Engineering OA pattern
+
+Accenture Elite engineering role OA:
+
+- 1 DSA question
+- 1 SQL question
+- 1 frontend question
+
+No MCQs.
+
+<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L868)</sub>
+
+### Q2. Destinations with more than 2 hotels and average rate
+
+You are given two tables, `Destination` and `Hotel`.
+
+Write an SQL query to find the destinations that have more than 2 hotels and calculate the average nightly rate of hotels in each destination.
+
+Display:
+
+* Destination name
+* Average nightly rate
+
+### Table 1: `Destination`
+
+| destination_id | destination_name |
+| -------------- | ---------------- |
+| 1              | Goa              |
+| 2              | Mumbai           |
+| 3              | Jaipur           |
+| 4              | Manali           |
+
+### Table 2: `Hotel`
+
+| hotel_id | destination_id | night_rate |
+| -------- | -------------- | ---------- |
+| 101      | 1              | 2000       |
+| 102      | 1              | 3000       |
+| 103      | 1              | 2500       |
+| 104      | 1              | 3500       |
+| 105      | 2              | 4000       |
+| 106      | 2              | 5000       |
+| 107      | 3              | 1500       |
+| 108      | 3              | 2500       |
+| 109      | 3              | 2000       |
+| 110      | 4              | 3000       |
+
+### Expected Output
+
+| destination_name | avg_night_rate |
+| ---------------- | -------------- |
+| Goa              | 2750.00        |
+| Jaipur           | 2000.00        |
+
+Your task: Write the SQL query using `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
+
+<sub>Topics: SQL · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L880)</sub>
+
+## 2026-10-13 · IIT Hyderabad · FTE
+
+### Q1. Remaining water after watering N trees
+
+You are given N trees and K units of total water.
+
+Each tree initially requires M units of water. For the ith tree:
+- `array1[i]` denotes the number of additional times the tree needs to be watered.
+- `array2[i]` denotes the amount of water required during each additional watering.
+
+The total water required by the ith tree is:
+
+```
+M + (array1[i] × array2[i])
+```
+
+Calculate and return the amount of water remaining after watering all N trees. If the total water required is greater than K, return 0.
+
+**Input:**
+- An integer N, representing the number of trees.
+- An integer K, representing the total available water.
+- An integer M, representing the initial water requirement of each tree.
+- An array `array1` of size N.
+- An array `array2` of size N.
+
+**Output:**
+Return the remaining amount of water:
+
+```
+max(0, K - totalWaterRequired)
+```
+
+*The poster said the actual question was similar to this; the wording may differ.*
+
+<sub>Topics: Arrays, Math · Source: [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L998)</sub>
+
+### Q2. SQL: three-table join with GROUP BY and IS NULL
+
+Write a SQL query that joins 3 tables, using GROUP BY, IS NULL and multiple join conditions. The poster said the schema was too complex to understand.
+
+*The schema and the required output were not shared.*
+
+<sub>Topics: SQL · Source: [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L998)</sub>
+
+### Q3. HTML/CSS/JS task with hints in code comments
+
+A web dev question covering HTML, CSS and JS. Hints were given for each part in the code comments, e.g. change the colour from one value to another. Everything was clearly described in the comments, and the JS part worked the same way.
+
+Poster's prep tip: learn the basics of what each component is and write the code 3–4 times. HTML and CSS need little practice; focus on JS.
+
+*The specific component or task was not shared.*
+
+<sub>Topics: Web Dev · Source: [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L998)</sub>
+
+## 2026-10-13 · IIT Dhanbad · FTE
+
+### Q1. Accenture Japan OA pattern (IIT Dhanbad)
+
+Accenture Japan online assessment at IIT Dhanbad:
+
+| Section | Questions | Time |
+|---|---|---|
+| MCQs | 20 | 20 minutes |
+| Coding / DSA | 1 | 60 minutes |
+| Total | 21 | 80 minutes |
+
+The 20 MCQs came first, followed by 1 coding question.
+
+**MCQ topics:**
+- LLM / Generative AI
+- Aptitude
+- Pseudocode / output-based questions
+- SQL
+- Computer Science fundamentals, mainly Operating Systems and Cloud Computing (reported to be relatively easy)
+
+**Coding:** 1 question, 60 minutes, all programming languages allowed. Different sets got different questions (e.g. Set 1: Morse Code Dictionary, Set 2: Minimum Dice Rolls to Reach the End).
+
+<sub>Topics: OA Format · Source: [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L924), [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L937)</sub>
+
+### Q2. Decode Morse code into a dictionary word
+
+A Morse-code mapping table was provided, where each English alphabet character corresponds to a Morse-code representation using combinations of `.` and `-`.
+
+Given a string written in Morse code, decode it and output a corresponding English word. The decoded word must be present in the provided `dictionary.txt` file.
+
+**Constraints:**
+- The output word must be present in `dictionary.txt`.
+- The word's Morse-code representation must match the given input.
+- If multiple valid dictionary words can be generated, any one valid word may be printed.
+
+**Input:** A Morse-code string, along with the Morse-code mapping table for the alphabet.
+
+**Output:** Print any valid word from `dictionary.txt` whose Morse-code representation matches the given input.
+
+*Examples, and whether letters are separated in the input, were not shared.*
+
+<sub>Topics: Strings, Hashing · Source: [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L924), [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L937)</sub>
+
+### Q3. Minimum dice rolls to reach the end of an array
+
+You are given an array A of non-negative integers of size N. You start at index 0 and need to reach an index greater than or equal to N.
+
+A special die is available. You can choose any number from 1 to 6 whenever you roll the die. At any index i, there are two possible actions:
+- Roll the die: choose any value from 1 to 6 and jump forward by that many positions. This costs one roll.
+- Jump forward by `A[i]` positions for free.
+
+Find the minimum number of dice rolls required.
+
+*Constraints and examples were not shared.*
+
+<sub>Topics: Graphs, DP · Source: [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L924), [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L937)</sub>
+
+### Q4. Minimum cost to visit target cities in a given order
+
+Given N cities and M bidirectional roads with costs, a starting city S, and an ordered list of target cities, find the minimum travel cost to visit the targets in the specified order. You cannot visit a future target before its turn.
+
+*Input format, constraints and examples were not shared.*
+
+<sub>Topics: Graphs · Source: [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L924), [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L937)</sub>
+
+## 2026-10-12 · MNNIT Allahabad · FTE
+
+### Q1. Accenture technical assessment MCQ topics
+
+Accenture technical assessment MCQs: Computer Networks, DBMS, and pseudo-code output questions.
+
+<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/accenture-oa/2026-10.jsonl#L986)</sub>
+
+## 2026-10-12 · IIT Delhi · FTE
+
+### Q1. Accenture Japan OA pattern
+
+Accenture Japan OA pattern:
+
+| Section | Questions | Time |
+|---|---|---|
+| MCQs | 20 | 20 minutes |
+| Coding / DSA | 1 | 60 minutes |
+| Total | 21 | 80 minutes |
+
+**MCQ section (20 questions)** covered:
+- LLM / Generative AI
+- Aptitude
+- Pseudocode / output-based questions
+- SQL
+- Computer Science fundamentals, mainly Operating Systems and Cloud Computing
+
+The OS and Cloud Computing questions were reported to be relatively easy.
+
+**Coding / DSA section (60 minutes):** 1 coding question; all programming languages were allowed. Different sets got different questions (Set 1: Morse code dictionary, Set 2: minimum dice rolls to reach the end).
+
+<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/accenture-oa/2026-10.jsonl#L989)</sub>
+
+### Q2. Decode Morse code into a dictionary word
+
+A Morse-code mapping table is provided, where each English alphabet character corresponds to a Morse-code representation using combinations of `.` and `-`. Given a string written in Morse code, decode it and output a corresponding English word. The decoded word must be present in the provided `dictionary.txt` file.
+
+Dictionary constraint:
+- The output word must be present in `dictionary.txt`.
+- The word's Morse-code representation must match the given input.
+- If multiple valid dictionary words can be generated, any one valid word may be printed.
+
+**Input:** A Morse-code string is provided as input, along with the Morse-code mapping table for the alphabet.
+
+**Output:** Print any valid word from `dictionary.txt` whose Morse-code representation matches the given input.
+
+<sub>Topics: Strings, Hashing · Source: [chat, 12 Oct](../archive/accenture-oa/2026-10.jsonl#L989)</sub>
+
+### Q3. Minimum dice rolls to reach the end of an array
+
+You are given an array A of non-negative integers of size N. You start at index 0 and need to reach an index greater than or equal to N. A special die is available. You can choose any number from 1 to 6 whenever you roll the die. At any index, there are two possible actions:
+- Roll the die: choose any value from 1 to 6 and jump forward by that many positions. This counts as one dice roll.
+- Use ...
+
+The message is cut off here. The title ("Minimum Dice Rolls to Reach the End") gives the goal, but the second action, constraints and examples are missing.
+
+<sub>Topics: DP, Arrays · Source: [chat, 12 Oct](../archive/accenture-oa/2026-10.jsonl#L989)</sub>
 
 ## 2026-10-11 · IIT Dhanbad · FTE
 
@@ -445,6 +2896,32 @@ The PDF notes that the jump structure is similar to LeetCode 45 (Jump Game II), 
 
 <sub>Topics: DP, Graphs, Arrays · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf) · Also asked at: MNNIT Allahabad (2026-10-15), IIT Roorkee (2026-10-15), IIT Dhanbad ×3 (last 2026-10-18)</sub>
 
+## 2026-10-11 · IIT Delhi · FTE
+
+### Q1. Accenture Japan OA coding question list
+
+This year's Accenture Japan OA coding questions (across sets) included:
+- a Morse code question
+- a dice roll question
+- a graph question about cities and roads
+
+No further details were given.
+
+<sub>Topics: OA Format · Source: [chat, 11 Oct](../archive/accenture-oa/2026-10.jsonl#L963)</sub>
+
+## 2026-10-11 · IIT BHU · FTE
+
+### Q1. Accenture Elite Technology role OA pattern
+
+Accenture Elite Technology role OA:
+- DSA questions (easy level; Python, Java or C#)
+- 1 simple SQL question
+- 1 easy frontend question
+
+Shortlisting is usually given for solving 2 out of 3.
+
+<sub>Topics: OA Format · Source: [chat, 11 Oct](../archive/accenture-oa/2026-10.jsonl#L980)</sub>
+
 ## 2026-10-10 · VIT Vellore · FTE
 
 ### Q1. Destination and Booking Revenue Analysis
@@ -470,7 +2947,126 @@ Write an SQL query to retrieve the total booking revenue generated by each desti
 
 ## 2026-10-10 · IIT Hyderabad · FTE
 
-### Q1. Remaining water after watering trees
+### Q1. Water remaining after watering N trees
+
+You are given N trees and K units of total water.
+
+Each tree initially requires M units of water. For the ith tree:
+- `array1[i]` denotes the number of additional times the tree needs to be watered.
+- `array2[i]` denotes the amount of water required during each additional watering.
+
+The total water required by the ith tree is:
+
+```
+M + (array1[i] × array2[i])
+```
+
+Calculate and return the amount of water remaining after watering all N trees. If the total water required is greater than K, return 0.
+
+**Input:**
+- An integer N, representing the number of trees.
+- An integer K, representing the total available water.
+- An integer M, representing the initial water requirement of each tree.
+- An array `array1` of size N.
+- An array `array2` of size N.
+
+**Output:**
+
+Return the remaining amount of water:
+
+```
+max(0, K - totalWaterRequired)
+```
+
+(Poster said the actual wording in the OA may have differed; this is a close reconstruction.)
+
+<sub>Topics: Arrays, Math · Source: [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1029), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1030), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1031)</sub>
+
+### Q2. Count contiguous groups of same-sign elements
+
+Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign.
+
+A new group starts whenever the sign changes between two consecutive elements.
+
+**Example 1:**
+
+```
+Input:
+arr = [1, 2, -3, -4, 5]
+Output:
+3
+```
+
+Explanation: The array can be divided into three contiguous groups: [1, 2], [-3, -4], and [5].
+
+<sub>Topics: Arrays · Source: [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1029), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1030), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1031)</sub>
+
+### Q3. SQL: three-table join with GROUP BY and IS NULL
+
+One SQL query: join 3 tables, using GROUP BY, IS NULL and multiple join conditions. The poster said the schema was too complex to understand.
+
+A second student's set also had an SQL question with a JOIN across 3 tables.
+
+(The schema and exact task were not shared.)
+
+<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1029), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1030), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1031)</sub>
+
+### Q4. SQL: destinations with more than 2 hotels and average nightly rate
+
+You are given two tables, `Destination` and `Hotel`.
+
+Write an SQL query to find the destinations that have more than 2 hotels and calculate the average nightly rate of hotels in each destination.
+
+Display:
+- Destination name
+- Average nightly rate
+
+**Table 1: `Destination`**
+
+| destination_id | destination_name |
+| -------------- | ---------------- |
+| 1              | Goa              |
+| 2              | Mumbai           |
+| 3              | Jaipur           |
+| 4              | Manali           |
+
+**Table 2: `Hotel`**
+
+| hotel_id | destination_id | night_rate |
+| -------- | -------------- | ---------- |
+| 101      | 1              | 2000       |
+| 102      | 1              | 3000       |
+| 103      | 1              | 2500       |
+| 104      | 1              | 3500       |
+| 105      | 2              | 4000       |
+| 106      | 2              | 5000       |
+| 107      | 3              | 1500       |
+| 108      | 3              | 2500       |
+| 109      | 3              | 2000       |
+| 110      | 4              | 3000       |
+
+**Expected Output**
+
+| destination_name | avg_night_rate |
+| ---------------- | -------------- |
+| Goa              | 2750.00        |
+| Jaipur           | 2000.00        |
+
+Write the SQL query using `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
+
+<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1029), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1030), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1031)</sub>
+
+### Q5. Web dev task: HTML/CSS/JS following code comments
+
+One web dev question (HTML, CSS, JS). Hints are given for each part in the code comments, e.g. change the colour from this to this. Everything is clearly written in the comments, and the JS part works the same way. Another student's set had a JavaScript frontend question where you just had to follow the instructions given in the question; basic DOM understanding was enough.
+
+Poster's prep tip: go through the basics (what each component is) and write the code 3-4 times. HTML/CSS need little practice, so focus on JS.
+
+(The exact task was not shared.)
+
+<sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1029), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1030), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1031)</sub>
+
+### Q6. Remaining water after watering trees
 
 You are given N trees and K units of total water. Each tree initially requires M units of water. For the ith tree, array1[i] is the number of additional times the tree needs to be watered and array2[i] is the amount of water needed for each additional watering. The total water required by the ith tree is M + (array1[i] × array2[i]). Calculate and return the water remaining after watering all N trees. If the total water required is greater than K, return 0.  
 Input: integer N (number of trees), integer K (total available water), integer M (initial requirement per tree), array array1 of size N, array array2 of size N.  
@@ -478,19 +3074,19 @@ Output: max(0, K - totalWaterRequired).
 
 <sub>Topics: Math, Arrays · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad (2026-10-12)</sub>
 
-### Q2. SQL three-table join
+### Q7. SQL three-table join
 
 SQL query joining 3 tables using GROUP BY, IS NULL and multiple join conditions (complex schema; exact question not shared).
 
 <sub>Topics: SQL · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×2 (last 2026-10-12)</sub>
 
-### Q3. Web dev HTML/CSS/JS task
+### Q8. Web dev HTML/CSS/JS task
 
 Web development task (HTML, CSS, JS): follow the hints in the code comments (e.g. change a colour from X to Y) and complete the JS part as described in the comments.
 
 <sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×2 (last 2026-10-12)</sub>
 
-### Q4. Count contiguous groups of same-sign elements
+### Q9. Count contiguous groups of same-sign elements
 
 Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign. A new group starts whenever the sign changes between two consecutive elements.  
 Example: arr = [1, 2, -3, -4, 5] -> Output: 3 (groups [1, 2], [-3, -4], [5]).
@@ -506,6 +3102,519 @@ Write an SQL query to find destinations that have more than 2 hotels and the ave
 Expected output: Goa 2750.00; Jaipur 2000.00.
 
 <sub>Topics: SQL · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L248)</sub>
+
+## 2026-10-09 · Unknown · FTE
+
+### Q1. Elite Technology Engineer OA pattern (3 questions, 2 to qualify)
+
+Accenture Elite Technology Engineer OA pattern (secondhand, from NIT students):
+- 1 Frontend / dev question (changing some value in a function, or tweaking an if-else condition)
+- 1 DSA question (Java / Python / C#)
+- 1 simple SQL query
+
+Solving 2 out of 3 was reportedly needed to qualify.
+
+<sub>Topics: OA Format · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1080), [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1090), [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1091)</sub>
+
+## 2026-10-09 · MNNIT Allahabad · FTE
+
+### Q1. Count triplets with sum divisible by 3
+
+You are given two inputs: `input1` is an integer representing the length of the array, and `input2` is the array of numbers. Find the count of triplets possible in the given array such that `a[0] + a[1] + a[2]` is divisible by 3.
+
+Some candidates got slight variations of this question.
+
+*Constraints and examples were not shared.*
+
+<sub>Topics: Arrays, Math, Hashing · Similar: [LeetCode 2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) (Medium) · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1057), [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1058)</sub>
+
+### Q2. MCQ section size (Elite Technology Engineer OA)
+
+MCQs were asked in the Accenture Elite Technology Engineer (ETE) OA: 45 MCQs in total.
+
+<sub>Topics: OA Format · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1057), [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1058)</sub>
+
+## 2026-10-09 · IIT Dhanbad · FTE
+
+### Q1. Accenture Japan OA format (1 coding question, 60 min)
+
+Accenture Japan (MC Delivery Associate) OA: there was 1 coding question, with 60 minutes allocated to the coding section. All programming languages were allowed. Different candidates got different sets (Set 1: Morse Code Dictionary, Set 2: Minimum Dice Rolls to Reach the End).
+
+<sub>Topics: OA Format · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1066)</sub>
+
+### Q2. Decode Morse code into a dictionary word
+
+**Set 1: Morse Code Dictionary**
+
+A Morse-code mapping table was provided, where each English alphabet character corresponds to a Morse-code representation using combinations of `.` and `-`.
+
+Given a string written in Morse code, decode it and output a corresponding English word. The decoded word must be present in the provided `dictionary.txt` file.
+
+Dictionary constraint:
+- The output word must be present in `dictionary.txt`.
+- The word's Morse-code representation must match the given input.
+- If multiple valid dictionary words can be generated, any one valid word may be printed.
+
+**Input:** A Morse-code string is provided as input, along with the Morse-code mapping table for the alphabet.
+
+**Output:** Print any valid word from `dictionary.txt` whose Morse-code representation matches the given input.
+
+<sub>Topics: Strings, Hashing, Recursion/Backtracking · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1066)</sub>
+
+### Q3. Minimum dice rolls to reach the end with free array jumps
+
+**Set 2: Minimum Dice Rolls to Reach the End**
+
+You are given an array `A` of non-negative integers of size `N`. You start at index 0 and need to reach an index greater than or equal to `N`.
+
+A special die is available. You can choose any number from 1 to 6 whenever you roll the die.
+
+At any index, there are two possible actions:
+- **Roll the die:** choose any value from 1 to 6 and jump forward by that many positions. This counts as one dice roll.
+- **Use the value at the current index:** jump forward by exactly `A[i]` positions. This action does not require a dice roll.
+
+The objective is to reach an index `>= N` using the minimum possible number of dice rolls.
+
+**Example**
+```
+N = 10
+A = [0, 0, 0, 0, 0, 1, 1, 1, 1]
+Output: 1
+```
+
+The poster noted that the jump/reach structure is similar to LeetCode 45 (Jump Game II), but this problem adds the special-die operation and free jumps based on the current array value.
+
+<sub>Topics: DP, Graphs, Arrays · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1066)</sub>
+
+## 2026-10-09 · IIT BHU · FTE
+
+### Q1. Next composite number greater than n with odd digit sum
+
+Input: `n`
+
+Return a number greater than `n` that is composite and whose sum of digits is odd.
+
+*Constraints, examples and whether the smallest such number is required were not shared.*
+
+<sub>Topics: Math · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1060)</sub>
+
+### Q2. Join two tables and return rows with NULL in a column
+
+Multiple tables are given. Join two of them and return the rows that have a NULL value in one given column.
+
+*Table schemas were not shared.*
+
+<sub>Topics: SQL · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1060)</sub>
+
+### Q3. Frontend: colour divs change background on click, add border and class
+
+Dev (HTML/CSS/JS) tasks of this type:
+- There are 4 divs, each showing a colour name. Clicking a div should change the background colour.
+- In CSS, add a border to a div.
+- In HTML, add a class to an element.
+
+<sub>Topics: Web Dev · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1060)</sub>
+
+## 2026-10-08 · NIT Silchar · FTE
+
+### Q1. Accenture ATE role OA pattern
+
+Accenture ATE role OA structure:
+- **Languages:** C++ is not allowed. Only Python, Java or C# can be used.
+- **Technical round (MCQs):** CS fundamentals, simple MS Office questions, security and web development. All easy.
+- **Coding:** 3 questions: one DSA, one SQL, and one HTML/JS/CSS (all easy).
+- A quiz section.
+
+<sub>Topics: OA Format · Source: [chat, 8 Oct](../archive/accenture-oa/2026-10.jsonl#L1149)</sub>
+
+## 2026-10-08 · IIT Roorkee · FTE
+
+### Q1. Accenture Japan OA pattern
+
+Accenture Japan OA: 20 MCQs on Cloud, OS, pseudocode, Cyber Security, SQL and similar topics, plus 1 DSA question.
+
+<sub>Topics: OA Format · Source: [chat, 8 Oct](../archive/accenture-oa/2026-10.jsonl#L1138)</sub>
+
+## 2026-10-07 · IIT Dhanbad · FTE
+
+### Q1. Accenture Japan (Digital Consultant) OA pattern
+
+**Accenture Japan OA pattern at IIT Dhanbad**
+
+| Section | Questions | Time |
+|---|---|---|
+| MCQs | 20 | 20 minutes |
+| Coding / DSA | 1 | 60 minutes |
+| Total | 21 | 80 minutes |
+
+The 20 MCQs covered:
+- LLM / Generative AI
+- Aptitude
+- Pseudocode / output-based questions
+- SQL
+- CS fundamentals, mainly Operating Systems and Cloud Computing (the OS and Cloud questions were relatively easy)
+
+Coding: 1 question in 60 minutes. Any programming language was allowed, and you had to read all the input yourself.
+
+<sub>Topics: OA Format · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/3738-Accenture_Japan_OA_IIT_Dhanbad.pdf), [chat, 7 Oct](../archive/accenture-oa/2026-10.jsonl#L1128)</sub>
+
+### Q2. Decode Morse code into a dictionary word
+
+You are given a Morse-code mapping table in which each English letter maps to a code made of `.` and `-`.
+
+Given a string written in Morse code, decode it and print a matching English word. The word must be in the provided `dictionary.txt` file.
+
+**Dictionary constraint:**
+- The output word must be in `dictionary.txt`.
+- The word's Morse-code representation must match the given input.
+- If more than one dictionary word matches, print any one of them.
+
+**Input:** A Morse-code string, along with the Morse-code mapping table for the alphabet.
+
+**Output:** Print any valid word from `dictionary.txt` whose Morse-code representation matches the input.
+
+(Your program had to read the input itself, including the dictionary file. No exact input format, constraints or examples were shared.)
+
+<sub>Topics: Strings, Hashing, Recursion/Backtracking · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/3738-Accenture_Japan_OA_IIT_Dhanbad.pdf), [chat, 7 Oct](../archive/accenture-oa/2026-10.jsonl#L1128)</sub>
+
+### Q3. Minimum dice rolls to reach the end with free A[i] jumps
+
+You are given an array `A` of non-negative integers of size `N`. You start at index 0 and need to reach an index greater than or equal to `N`.
+
+You have a special die: each time you roll it, you can choose any number from 1 to 6.
+
+At any index you can take one of two actions:
+- **Roll the die:** choose a value from 1 to 6 and jump forward that many positions. This counts as one dice roll.
+- **Use the value at the current index:** jump forward exactly `A[i]` positions. This does not use a dice roll.
+
+Find the minimum number of dice rolls needed to reach an index `>= N`.
+
+**Example**
+```
+N = 10
+A = [0, 0, 0, 0, 0, 1, 1, 1, 1]
+Output: 1
+```
+(The example is copied as given. Its array has only 9 values even though N = 10.)
+
+<sub>Topics: Graphs, DP, Arrays · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/3738-Accenture_Japan_OA_IIT_Dhanbad.pdf), [chat, 7 Oct](../archive/accenture-oa/2026-10.jsonl#L1128)</sub>
+
+## 2026-10-06 · MNNIT Allahabad · FTE
+
+### Q1. Advanced Technology Engineer (ATE) OA pattern
+
+Accenture Advanced Technology Engineer (ATE) OA pattern:
+- Technical MCQs: 45
+- 1 medium DSA coding question
+- 1 development question
+- Game
+
+<sub>Topics: OA Format · Source: [chat, 6 Oct](../archive/accenture-oa/2026-10.jsonl#L1168)</sub>
+
+## 2026-10-06 · IIT Roorkee · FTE
+
+### Q1. Accenture Japan OA pattern: CS MCQs and DSA coding
+
+Accenture Japan OA pattern: 20 MCQs on CS fundamentals, plus DSA coding.
+
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 6 Oct](../archive/accenture-oa/2026-10.jsonl#L1164)</sub>
+
+### Q2. Elite Technology (dev) role OA sections
+
+Accenture Elite Technology (dev) role OA covers: DSA + SQL + HTML/CSS development.
+
+<sub>Topics: OA Format · Source: [chat, 6 Oct](../archive/accenture-oa/2026-10.jsonl#L1177)</sub>
+
+## 2026-10-06 · IIT BHU · FTE
+
+### Q1. Elite role OA development question style
+
+In the Elite role OA, the HTML/CSS/Java development question asks you to change something in a given function, for example an if-else condition or a header. Mostly basic.
+
+(The exact question was not shared.)
+
+<sub>Topics: OA Format, Web Dev · Source: [chat, 6 Oct](../archive/accenture-oa/2026-10.jsonl#L1182)</sub>
+
+## 2026-10-05 · IIT BHU · FTE
+
+### Q1. Accenture Elite/ATE OA pattern: backend, frontend and SQL
+
+The OA has 3 questions: one backend, one frontend and one SQL.
+
+(This was given as the pattern for the Elite role and also in reply to a question about the ATE OA.)
+
+<sub>Topics: OA Format · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1153), [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1154)</sub>
+
+## 2026-10-03 · NIT Patna · FTE
+
+### Q1. Accenture OA question topics (DSA and web dev)
+
+- DSA questions: easy to medium, on strings and arrays.
+- Web dev question: a simple frontend DOM manipulation question.
+
+<sub>Topics: OA Format · Source: [chat, 3 Oct](../archive/accenture-oa/2026-10.jsonl#L1230), [chat, 4 Oct](../archive/accenture-oa/2026-10.jsonl#L1242)</sub>
+
+## 2026-10-02 · NIT Patna · FTE
+
+### Q1. Accenture OA pattern (ATE / Advanced Application Engineering)
+
+Accenture OA pattern at NIT Patna:
+
+- **Technical round:** MCQs on CS fundamentals.
+- **Coding round:** SQL + DSA + Web Dev.
+
+The ATE role (13.6 LPA) has the same pattern as the other roles: simple DSA, Web and SQL questions.
+
+(The poster gave no specific questions.)
+
+<sub>Topics: OA Format · Source: [chat, 2 Oct](../archive/accenture-oa/2026-10.jsonl#L1206), [chat, 2 Oct](../archive/accenture-oa/2026-10.jsonl#L1212)</sub>
+
+## 2026-10-01 · IIT BHU · FTE
+
+### Q1. Accenture OA pattern: no DSA, front end/back end/SQL
+
+No DSA questions were asked. The OA asked front-end, back-end and SQL questions, to be answered in C#, Python or Java.
+
+(The poster gave no specific questions.)
+
+<sub>Topics: OA Format · Source: [chat, 1 Oct](../archive/accenture-oa/2026-10.jsonl#L1253)</sub>
+
+## 2026-09-27 · IIT BHU · FTE
+
+### Q1. Next composite number greater than n with odd digit sum
+
+Input: `n`
+
+Return a number greater than `n` such that it is **composite** and the **sum of its digits is odd**.
+
+(The poster did not say whether the smallest such number is required, and gave no constraints or examples.)
+
+<sub>Topics: Math · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250)</sub>
+
+### Q2. Join two tables and return rows with NULL in a column
+
+Several tables are given. Join two of them and return the rows where a given column (from one of the tables) is `NULL`.
+
+(The poster did not give the table schemas or column names.)
+
+<sub>Topics: SQL · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250)</sub>
+
+### Q3. Change background color by clicking color-named divs (HTML/CSS/JS)
+
+Web dev task with several parts:
+- There are 4 `div`s, each with a color name written in it. Clicking a div should change the background color to that color.
+- Add a border to one `div` using CSS.
+- Add a class to an element in the HTML.
+
+(The poster did not say whether the page background or the div's own background changes.)
+
+<sub>Topics: Web Dev · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250)</sub>
+
+### Q4. Accenture ATE hiring process and communication round format
+
+Languages allowed in the coding round: C#, Java, Python3.
+
+The process had 3 rounds:
+1. Coding round (one DSA, one SQL and one web dev question)
+2. Communication round
+3. Interview
+
+**Communication round sections:**
+- Reading
+- Repeat (listen and repeat)
+- Fill in the blanks
+- Error correction
+- 2 stories with 5 questions each (the poster suggests keeping pen and paper ready to note key points of the story)
+- Speak on a given topic for 45 seconds
+
+If you pass these, there is an email writing task.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250)</sub>
+
+## 2026-09-26 · IIT Dhanbad · FTE
+
+### Q1. Elite Technology Engineer OA structure (60 min, DSA + SQL + Web)
+
+Accenture Elite Technology Engineer, IIT Dhanbad.
+
+| Stage | Structure / Timeline |
+|---|---|
+| Technical OA | 60 minutes |
+| Technical Q1 | DSA / Coding |
+| Technical Q2 | SQL |
+| Technical Q3 | HTML / CSS / JavaScript |
+| Next day: Communication | Verbal Communication, then Written Communication for candidates who clear verbal |
+
+The technical OA had three areas (DSA/Coding, SQL, HTML/CSS/JavaScript) and lasted 60 minutes overall. Supported coding languages included Python, C# and Java. DSA difficulty varied across question sets: some sets had easy DSA questions, others medium-level ones.
+
+<sub>Topics: OA Format · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q2. Smallest number greater than n with multiplicative persistence 1
+
+Given a positive integer `n`, repeatedly multiply all of its digits together to form a new number. Continue this process until the result becomes a single-digit number. The number of multiplication rounds required is called the **multiplicative persistence** of the number.
+
+Return the smallest number greater than `n` whose multiplicative persistence is exactly 1.
+
+Examples remembered:
+```
+n = 10: 1 × 0 = 0, so the persistence is 1.
+n = 27: 2 × 7 = 14, then 1 × 4 = 4, so the persistence is 2.
+        The next number greater than 27 with persistence 1 is 30.
+n = 9:  the next number greater than 9 with persistence 1 is 10.
+```
+
+A multiplicative-persistence question was also present in another question set within the same assessment.
+
+<sub>Topics: Math · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q3. Car rental: cars that were never rented
+
+An ER diagram / database schema was provided rather than a conventional sample-input/sample-output format. The schema contained multiple tables representing a car-rental system, including customer, rental and car-related information.
+
+Identify the cars that have never been rented and return the requested car details, such as the car model, rental rate and other relevant attributes.
+
+This can be done with a JOIN plus NOT EXISTS, or an equivalent anti-join such as a LEFT JOIN with an IS NULL condition.
+
+*Exact table and column names were not shared.*
+
+<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q4. Edit given HTML/CSS/JS files (tag change, font-size, if/else innerText)
+
+Existing HTML, CSS and JavaScript files were provided, and the task was to make specific changes according to the requirements in the question:
+- **HTML:** make a requested tag/structure change, such as changing a `div` element to an `h2`.
+- **CSS:** add or modify a style property for an element identified by a class, such as `font-size`.
+- **JavaScript:** an `addEventListener` and function were already present; add the appropriate if/else logic to change `innerText` according to specified conditions.
+
+<sub>Topics: Web Dev · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q5. Next-day verbal and written communication assessment
+
+**Verbal communication (next day, for candidates shortlisted from the technical OA):** AI-assisted, covering speaking, listening, repetition, reading and comprehension.
+- Sentence reading: read sentences presented during the assessment.
+- Repeat-after-AI: listen to an AI voice and repeat the given sentences.
+- Listening comprehension: listen to/read a paragraph and answer questions based on its content.
+
+**Written communication (for candidates who cleared verbal):** one email-writing task based on the situation or prompt provided.
+
+<sub>Topics: Verbal · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+## 2026-09-25 · Unknown · FTE
+
+### Q1. Extract numbers from a string and subtract
+
+DSA (Strings): extract the numbers from a string and subtract them.
+
+Only this one-line summary was shared. The full statement, input/output format, constraints and examples are missing.
+
+<sub>Topics: Strings · Source: [chat, 25 Sep](../archive/accenture-oa/2026-09.jsonl#L6), [chat, 26 Sep](../archive/accenture-oa/2026-09.jsonl#L10), [chat, 26 Sep](../archive/accenture-oa/2026-09.jsonl#L12)</sub>
+
+### Q2. SQL: total spend per customer from Rentals and Payment tables, descending
+
+SQL: given a Rentals table and a Payment table, find the total spend, sorted in descending order.
+
+Only this summary was shared. The table schemas and exact output columns are missing.
+
+<sub>Topics: SQL · Source: [chat, 25 Sep](../archive/accenture-oa/2026-09.jsonl#L6), [chat, 26 Sep](../archive/accenture-oa/2026-09.jsonl#L10), [chat, 26 Sep](../archive/accenture-oa/2026-09.jsonl#L12)</sub>
+
+### Q3. Web Dev: checkbox to copy your address into the shipping address
+
+Web Dev: add a toggle checkbox. When it is checked, the Shipping City and Shipping Address fields should be set to the same values as "your address".
+
+Only this summary was shared. The starter code and exact requirements are missing.
+
+<sub>Topics: Web Dev · Source: [chat, 25 Sep](../archive/accenture-oa/2026-09.jsonl#L6), [chat, 26 Sep](../archive/accenture-oa/2026-09.jsonl#L10), [chat, 26 Sep](../archive/accenture-oa/2026-09.jsonl#L12)</sub>
+
+## 2026-09-25 · IIT Madras · FTE
+
+### Q1. Accenture Elite OA pattern: Gaming, MCQs, Coding
+
+Pattern of the Accenture Elite OA, as shared:
+- Gaming
+- MCQs
+- Coding ("Wipro type" questions; the poster said to check the Wipro coding pattern)
+
+The attached screenshot is the pre-assessment email, not the questions. It says:
+- Install Safe Exam Browser (SEB) to take part.
+- The mock assessment is mandatory. The mock test link is active until Sunday, September 27, 2026, 11:59:00 PM.
+- Laptop/desktop with webcam and microphone switched on for all assessments. VPN/proxy must be disabled.
+- No screen sharing processes are allowed. Bluetooth devices must be fully switched off.
+
+The poster did not give details of the MCQ or gaming sections.
+
+<sub>Topics: OA Format · Source: [image.png](../archive/files/1198-image.png), [chat, 25 Sep](../archive/accenture-oa/2026-09.jsonl#L76), [chat, 25 Sep](../archive/accenture-oa/2026-09.jsonl#L79), [chat, 25 Sep](../archive/accenture-oa/2026-09.jsonl#L80)</sub>
+
+## 2026-09-24 · VIT Vellore · FTE
+
+### Q1. Basic SQL query with GROUP BY / ORDER BY
+
+A very basic SQL question using GROUP BY, ORDER BY, etc.
+
+(The exact schema and query were not shared.)
+
+<sub>Topics: SQL · Source: [chat, 24 Sep](../archive/accenture-oa/2026-09.jsonl#L66)</sub>
+
+### Q2. Reduce number to single digit by repeated digit sum
+
+Given a number, reduce it to a single digit. In each operation, replace the number with the sum of its digits. Repeat until a single digit is left.
+
+A basic brute-force approach works. Only Python and C# were allowed.
+
+(The exact input/output format and constraints were not shared.)
+
+<sub>Topics: Math · Similar: [LeetCode 258. Add Digits](https://leetcode.com/problems/add-digits/) (Easy) · Source: [chat, 24 Sep](../archive/accenture-oa/2026-09.jsonl#L66)</sub>
+
+### Q3. Web: modify new/confirm password interface
+
+A web-based question: make some small changes to a new password / confirm password interface.
+
+(The exact requirements were not shared.)
+
+<sub>Topics: Web Dev · Source: [chat, 24 Sep](../archive/accenture-oa/2026-09.jsonl#L66)</sub>
+
+## 2026-09-24 · NIT Warangal · FTE
+
+### Q1. Accenture OA coding section: programming, SQL, frontend
+
+Coding section:
+- 1 programming question (Java, C# or Python)
+- 1 SQL query
+- 1 frontend question: make some changes in the CSS and complete a JS function
+
+<sub>Topics: OA Format · Source: [chat, 24 Sep](../archive/accenture-oa/2026-09.jsonl#L70)</sub>
+
+## 2026-09-23 · VNIT Nagpur · FTE
+
+### Q1. Accenture selection process stages
+
+Pattern (in order):
+1. Tech Assessment
+2. Coding
+3. Cognitive Test
+4. Communication Round
+5. Interview
+
+<sub>Topics: OA Format · Source: [chat, 23 Sep](../archive/accenture-oa/2026-09.jsonl#L57)</sub>
+
+## 2026-09-23 · NIT Rourkela · FTE
+
+### Q1. Accenture OA format: 3 coding questions
+
+The OA was described as easy overall, with 3 coding questions (easy to medium level).
+
+<sub>Topics: OA Format · Source: [chat, 23 Sep](../archive/accenture-oa/2026-09.jsonl#L48), [chat, 23 Sep](../archive/accenture-oa/2026-09.jsonl#L49)</sub>
+
+## 2026-09-22 · NIT Warangal · FTE
+
+### Q1. Accenture OA format (NITW 10 AM slot)
+
+Sections: puzzles + MCQs + coding.
+
+Coding: 3 questions — one DSA, one SQL, one web-type (the web one was described as "weird").
+
+SQL was on joins, including one nested-join question.
+
+<sub>Topics: OA Format · Source: [chat, 22 Sep](../archive/accenture-oa/2026-09.jsonl#L34), [chat, 22 Sep](../archive/accenture-oa/2026-09.jsonl#L35), [chat, 22 Sep](../archive/accenture-oa/2026-09.jsonl#L36)</sub>
 
 ## 2026-09-22 · IIT Dhanbad · FTE
 
@@ -526,6 +3635,327 @@ Given a number, repeatedly replace it with the sum of its digits until it become
 Web-based coding question: make some small changes to a new password / confirm password interface (e.g. validation that the two fields match). Similar examples can be found on YouTube.
 
 <sub>Topics: Web Dev · Source: [chat, 23 Sep](../archive/inter-iit/2026-09.jsonl#L112) · Also asked at: IIT Dhanbad (2026-09-24)</sub>
+
+## 2025-10-03 · Unknown · FTE
+
+### Q1. Integer Battle: how many times K divides the product of A_i
+
+**Integer Battle (Medium)**: Memory 512 MB, time 2,000 ms.
+
+"The class's score is determined by **how many times the product of the integers written by the students in the class can be evenly divided by the integer K**." There are N students and the i-th wrote A_i. Print the score.
+
+Input:
+```
+N K
+A_1 ... A_N
+```
+Constraints: 1 ≤ N ≤ 10^6 (one photo is less clear and could be 10^5), 2 ≤ K ≤ 10^9, 1 ≤ A_i ≤ 10^9
+
+Output: one integer, on the first line.
+
+Example 1:
+```
+Input:
+3 5
+10 100 50
+Output:
+5
+```
+Example 2:
+```
+Input:
+5 10
+100000 100000 100000 100000 100000
+```
+The output of Example 2 is cut off in the photos (the guide's author computed 25).
+
+Warning on the page: "Please be mindful of overflow."
+
+<sub>Topics: Math · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q2. Nested if: which character is never printed
+
+Which of the following characters will never be printed by the function below?
+
+```
+def describe(n):
+    if n >= 0:
+        if n < 3:
+            print("A");
+        else:
+            print("B");
+    else:
+        if n < 3:
+            print("C");
+        else:
+            print("D");
+```
+
+A. A
+B. B
+C. C
+D. D
+E. All of the above characters can be printed out
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q3. Statement NOT true about symmetric-key encryption
+
+Choose the statement that is **NOT** true about symmetric-key encryption.
+
+A. The sender and the recipient use the same key.
+B. The computation is faster than public-key encryption.
+C. It uses a method called RSA, which is based on the difficulty of factoring large numbers.
+D. The key must be sent to the recipient.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q4. Greedy rule to watch the most non-overlapping movies
+
+The movie theater you are in will play n movies today, and each movie will start at time l_i and end at time r_i (1 ≤ i ≤ n). You have to watch a chosen movie from beginning to end, so you cannot watch movies whose scheduled times overlap (it is also impossible to watch two movies when the ending time of one is the same as the starting time of another). You want to watch as many movies as possible. Which is the correct way to choose the movies to watch?
+
+A. Repeat the following as long as there is at least one movie you can watch: "Watch the movie with the earliest starting time from among the movies you can watch."
+B. Repeat the following as long as there is at least one movie you can watch: "Watch the movie with the earliest ending time from among the movies you can watch."
+C. Repeat the following as long as there is at least one movie you can watch: "Watch the movie with the shortest running time from among the movies you can watch."
+D. Repeat the following as long as there is at least one movie you can watch: "For each movie you can watch, count the number of movies that it would be impossible to watch if you watched that one. Watch the movie with the lowest count."
+
+<sub>Topics: Greedy · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q5. C++ read loop printing "clinic" on "yes"
+
+Choose the correct statement below. (The program is C++.)
+
+```cpp
+int main(void) {
+    while (1) {
+        string s;
+        cin >> s;
+        if (s == "yes") {
+            cout << "clinic" << endl;
+        } else {
+            break;
+        }
+    }
+    return 0;
+}
+```
+
+A. Entering the string Yes will exit the program. (not yes but Yes)
+B. Entering yessir will return the string clinic.
+C. If you enter yes once, it outputs clinic and the program exits.
+D. (cut off in the photo)
+
+Option D is not visible in the source photo.
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q6. UNIX file permissions: owner, group, others
+
+In UNIX-like OS, the authority for a certain file varies depending on the user who uses it. Which of the following descriptions is correct?
+
+A. There is one owner in the file, and authority is given only to that user.
+B. There are multiple owners in the file, and privileges are granted only to those users.
+C. There is one owner and group in the file, and different authorities are given to the user who is the owner, the users belonging to the group and users of the other type.
+D. There are multiple owner and group in the file, and two types of users, owner and users belonging to the group.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q7. Which database is NoSQL
+
+Which of the following databases are classified as NoSQL?
+
+A. MySQL
+B. Redis
+C. SQLite
+D. PostgreSQL
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q8. Java integer mean function: correct statements
+
+Your friend wrote the following function to calculate the mean of the given integer array a. Choose all of the following correct statements about this function. (select all that apply)
+
+```java
+static double mean(int[] a) {
+    int answer = 0;
+    for (int i = 0; i < a.length; i++) {
+        answer += a[i];
+    }
+    return answer / a.length;
+}
+```
+
+A. If the length of a is 0, the function does not return any value.
+B. Aside from cases of integer overflow, the function always returns the mean, with the decimals of the returned value rounded (in fact dropped).
+C. An integer overflow may occur when a is long and has some large elements.
+D. None of the above are correct.
+
+Option B is partly illegible in the source photo; its wording is a reconstruction.
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q9. Recursive GCD trace: compute f(10, 2)
+
+There is a recursive function implemented with the following pseudocode (a and b given first are integers of 1 or more). Calculate `f(10, 2)`.
+
+```
+function f(a, b) {
+    if (b == 0) {
+        return a
+    } else {
+        return f(b, the remainder after dividing a by b)
+    }
+}
+```
+
+Answer: (type a number)
+
+<sub>Topics: Code Output (C/C++/Java/Python), Recursion/Backtracking, Math · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q10. Correct description of prompt injection
+
+Choose the correct description of prompt injection from the following.
+
+A. Using a prompt to attack a machine learning model by maliciously altering the training set or other hyperparameters used by the machine learning model during training.
+B. A malicious third party tampering with a normal user's prompt to intentionally display altered output to the user.
+C. Creating a prompt that causes the application to ignore instructions previously given to it.
+D. Providing false or expedient information to the LLM by means of prompts in order to attack the machine learning model that has learned this information.
+
+<sub>Topics: ML/AI · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q11. Description of CSRF (Cross-Site Request Forgery)
+
+Which is the description of CSRF (Cross-Site Request Forgery)?
+
+A. An attack that uses a vulnerability in a commercially available database management system to search for a database server to become a host, then repeatedly self-contaminates to create a big surge in the website traffic.
+B. An attack that embedded a malicious script on the website's visitor input form and executes on visitor's browser.
+C. An attacks that embedded malicious input data to a web application form executing a query to tamper data or acquire user information illegally.
+D. Attack that allows visitors to browse web pages with malicious scripts embedded in them, running unintended operations on other visitors browser.
+
+<sub>Topics: Web Dev · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q12. White box testing (select all true)
+
+What is white box testing? Please choose all of the following choices which are true. (select all that apply)
+
+A. Understanding the inputs but not output.
+B. Understanding the inputs, outputs, and the technical methods in between.
+C. Testing with knowledge of the code (e.g. unit testing).
+D. Testing a computer which is white in color
+
+<sub>Topics: Software Engineering · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q13. Fix "bash: foo: command not found" with PATH
+
+In UNIX-like OS, when trying to execute a command called foo located in /home/bar, the message `bash: foo: command not found` was displayed. Which command is used to solve this?
+
+A. export PATH=/home/bar:$PATH
+B. export PWD=/home/bar
+C. export MANPATH=/home/bar:$MANPATH
+D. export SHLVL=2
+
+The middle of the question sentence is unreadable in the source photo.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q14. JavaScript find() returning i + 1
+
+The following JavaScript function returns the number where the integer x occurs in the given array of integers a. Choose the correct statement regarding this function.
+
+```javascript
+function find(a, x) {
+  for (let i = 0; i < a.length; i++) {
+    if (a[i] == x) {
+      return i + 1;
+    }
+  }
+  return -1;
+}
+```
+
+A. If the length of array a is 0, the program terminates abnormally.
+B. If multiple occurrences of x are found in array a, all occurrences are returned.
+C. If x is not found in array a, the function returns -1.
+D. All of the above is incorrect.
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q15. SLOs vs SLAs in SRE: choose the two incorrect
+
+Choose the **two** incorrect options regarding SLOs (service level objectives) and SLAs (service level agreements) in the context of site reliability engineering. (select all that apply)
+
+A. If an SLO is breached, there is a possibility of pursuing legal liability such as damages.
+B. Within the boundaries of meeting the SLO, the SRE team is allowed to intentionally cause outages if there are reasonable justifications.
+C. SLAs are usually set at values that are more difficult to achieve than SLOs.
+D. SLAs are established by considering factors such as the stability of competing services from other companies, the feasibility of service stability from an engineering perspective, and customer stability requirements.
+
+<sub>Topics: Software Engineering · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q16. Database rollforward processing
+
+Choose the correct description of database rollforward processing.
+
+A. Restore using a journal file before updating against a physical failure.
+B. Restore using a journal file after updating against a physical failure.
+C. Restore using a journal file before updating against a logical failure.
+D. Restore using a journal file after updating against a logical failure.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q17. What is AI alignment
+
+Which of the following best describes AI alignment?
+
+A. Setting up the input data so that it is not used to train the generative AI.
+B. Creating an AI model that can reveal the reasons and rationale for the answers given by the generative AI.
+C. Attempting to match the AI's goals with human intentions and ethics in the human world.
+D. Biasing the output results by biasing the data input to the generative AI.
+
+<sub>Topics: ML/AI · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q18. Most inappropriate statement about Generative AI
+
+Choose the most inappropriate statement about Generative AI.
+
+A. Generative AI is an AI system that can generate text, images, or other media.
+B. Typical Generative AI systems include ChatGPT, which was built by OpenAI using GPT-3.5 and GPT-4.
+C. Generative AI is built on a reinforcement learning framework that aims to maximize a reward value based on input.
+D. Generative AI can perform automatic program generation if programs are included in the training data.
+
+<sub>Topics: ML/AI · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q19. Not a characteristic of a reliable transaction system (ACID)
+
+Which one of the following is not included in the characteristics of a reliable transaction system?
+
+A. Atomicity
+B. Isolation
+C. Consistency
+D. Transparency
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q20. Bit-shift expression equal to 6 × n
+
+Given an integer n, `n << i` is the left shift operator that shifts the integer n to the left i bits, and `n >> i` is the right shift operator that shifts the integer n to the right i bits. Which of the following expressions is equal to 6 × n?
+
+A. ((n<<1)+n)<<1
+B. (n<<3)+(n<<3)
+C. (n>>2)+(n>>1)
+D. ((n>>2)+n)<<1
+
+<sub>Topics: Bit Manipulation · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q21. Incorrect statement on in-memory vs traditional databases
+
+Choose the description that is **incorrect** regarding the differences between in-memory databases and traditional databases like MySQL or PostgreSQL.
+
+A. In-memory databases are often faster compared to relational databases like MySQL.
+B. In-memory databases are resilient to the physical failure of an HDD or SSD, making data loss less likely compared to storage-based databases.
+C. In in-memory databases, ensuring sufficient main memory for storing all data is typically the only method used, rather than following rules like deleting infrequently used data to allocate enough capacity.
+D. Redis and Memcached are prominent examples of in-memory databases.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
 
 ## 2025-10-03 · IIT Delhi · FTE
 
@@ -769,6 +4199,254 @@ C. In in-memory databases, ensuring sufficient main memory for storing all data 
 D. Redis and Memcached are prominent examples of in-memory databases.
 
 <sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03)</sub>
+
+## 2024-10-09 · Unknown · FTE
+
+### Q1. Age confirmation: Soft Drink or Alcohol
+
+**Age confirmation of participants**: Memory limit 512 MB, execution timeout 2,000 ms. It is a command-line program run as `./myApp < input.in`: read standard input, write standard output.
+
+Rule from the story: if any participant's age is below x, the course is soft drinks only.
+
+Input: line 1 = `n x`, line 2 = the n ages.
+Restrictions: 1 ≤ n ≤ 100, 10 ≤ x ≤ 21
+
+Output: print exactly `Soft Drink` or `Alcohol` (case, spaces and spelling must match).
+
+The source only summarises this problem: the full story text and the official I/O examples are not given.
+
+<sub>Topics: Arrays · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q2. DNS setting that hides hosts: zone transfer
+
+Choose the DNS server setting that will prevent an existing host and its IP address from being known.
+
+A. Prohibit third-party mail relay.
+B. Control the accessing source of a zone transfer.
+C. Prohibit running a CGI program in other than a specified directory.
+D. Prohibit displaying file names existing in a directory.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q3. UNIX file permissions: owner, group, others
+
+In UNIX-like OS, the authority for a certain file varies depending on the user who uses it. Which of the following descriptions is correct?
+
+A. There is one owner in the file, and authority is given only to that user.
+B. There are multiple owners in the file, and privileges are granted only to those users.
+C. There is one owner and group in the file, and different authorities are given to the user who is the owner, the users belonging to the group and users of the other type.
+D. There are multiple owners and groups in the file, and two types of users, owner and users belonging to the group.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q4. Out-of-memory crash: which action is NOT appropriate
+
+A binary program failed to run because it crashed due to lack of memory. Which of the following is **NOT** an appropriate action to solve this issue?
+
+A. Use garbage collection to prevent certain kinds of memory leaks.
+B. Terminate other processes running at the same time.
+C. Shorten the binary filename to save memory usage.
+D. Consider running the program on a device with more RAM capacity.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q5. Meaning of chmod u+x foo
+
+In UNIX-like OS, which is the correct meaning of the command `chmod u+x foo`?
+
+A. Give execute permission to owner of the file named foo.
+B. Give the group that the file named foo belongs to, execute permission of foo.
+C. Give execute permission to all users who use the file foo.
+D. Give execute permission to the owner of the file named foo and removes execute permission of all other users.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q6. Site differs on phone vs computer: which is NOT the cause
+
+When browsing a website (`https://example.com`), the contents displayed on the smartphone and the computer are different. Which statement below is **not** the cause?
+
+A. Because the content of the website is dynamically generated with JavaScript.
+B. Because the content of the website is dynamically switched based on the user agent.
+C. Because the content of the website was tampered by a communication path.
+D. Because the content of the website was implemented with responsive design.
+
+<sub>Topics: Web Dev · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q7. Description of CSRF (Cross-Site Request Forgery)
+
+Which is the description of CSRF (Cross-Site Request Forgery)?
+
+A. An attack that uses a vulnerability in a commercially available database management system to search for a database server to become a host, then repeatedly self-contaminates to create a big surge in the website traffic.
+B. An attack that embeds a malicious script on the website's visitor input form and executes on the visitor's browser.
+C. An attack that embeds malicious input data to a web application form, executing a query to tamper data or acquire user information illegally.
+D. An attack that makes visitors browse web pages with malicious scripts embedded in them, running unintended operations.
+
+<sub>Topics: Web Dev · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q8. Forward secrecy
+
+Which is the cryptographic algorithm of forward secrecy (FS)?
+
+A. An improper way to manage keys will increase the risk of the key being compromised.
+B. To ensure that even if the long-term encryption key is compromised in the future, the data encrypted with the short-term key will not be decrypted.
+C. Using a computer with the high-performance specification to spend time and effort in increasing the reliability and strength of encryption.
+D. Advances in technology will increase computing power and make it possible to decrypt in a realistic time.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q9. TCP port for http://ftp.example.jp/index.cgi?port=123
+
+Which TCP port number of the server the Web browser will connect to when specifying URL as `http://ftp.example.jp/index.cgi?port=123` in the Web browser?
+
+A. 21
+B. 80
+C. 123
+D. 443
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q10. Database rollforward processing
+
+Choose the correct description of database rollforward processing.
+
+A. Restore using a journal file before updating against a physical failure.
+B. Restore using a journal file after updating against a physical failure.
+C. Restore using a journal file before updating against a logical failure.
+D. Restore using a journal file after updating against a logical failure.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q11. Shrine parking lot: last in, first out
+
+Mr. Aoki is planning to visit the shrine for New Year. However, the parking lot at the shrine is very small. Once you park your car, you cannot leave until all of the cars that came after you leave. Choose the data structure that best represents the situation in this parking lot.
+
+A. stack
+B. queue
+C. heap
+D. linked list
+
+<sub>Topics: Stack/Queue · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q12. Minimum adjacent swaps to sort [5,2,8,3,1,6,7,9]
+
+Fill in the blank with a half-width digit. I want to sort the sequence `a = [5, 2, 8, 3, 1, 6, 7, 9]` in ascending order by exchanging **adjacent** numbers. In this case, it is necessary to exchange at least ____ times.
+
+Answer: (type a number)
+
+<sub>Topics: Sorting, Arrays · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q13. Slow staircase recursion (1/2/3 steps): reason and fix
+
+There is a staircase of n steps and you are on the bottom. You can go up 1, 2 or 3 steps at a time, and you count the step-taking patterns that put you exactly on step n (for n = 4 there are 7). The function below is too slow and does not return for n = 1000. Which states the reason and the fix?
+
+```
+function rec(i):
+    if i == 0: return 1
+    else:
+        ans = 0
+        if i >= 1: ans += rec(i-1)
+        if i >= 2: ans += rec(i-2)
+        if i >= 3: ans += rec(i-3)
+        return ans
+
+function solve(n):
+    return rec(n)
+```
+
+A. The three if statements cause the slowness; replace them with a single for statement.
+B. At n = 1000 an integer overflow causes an infinite loop; use a real data type instead of a multiple-precision integer.
+C. rec(i) always returns the same value, but every call recomputes it three more times; store the value of rec(i) the first time and return the stored value afterwards.
+D. None of the above.
+
+<sub>Topics: DP, Recursion/Backtracking · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q14. JavaScript find() returning i + 1
+
+The following JavaScript function returns the number where the integer `x` occurs in the given array of integers `a`.
+
+```javascript
+function find(a, x) {
+  for (let i = 0; i < a.length; i++) {
+    if (a[i] == x) {
+      return i + 1;
+    }
+  }
+  return -1;
+}
+```
+
+Choose the correct statement regarding this function.
+
+A. If the length of array a is 0, the program terminates abnormally.
+B. If multiple occurrences of x are found in array a, all occurrences are returned.
+C. If x is not found in array a, the function returns -1.
+D. All of the above is incorrect.
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q15. Which beginners' array-sum functions work
+
+You are teaching beginners A, B and C. They wrote functions that receive an array of integers `a` and output the sum of all its elements. Choose **all** functions that work properly (at least one does). (select all that apply)
+
+```javascript
+// Beginner A
+function sum(a) {
+  let answer = 0;
+  for (let i = 0; i < a.length; i++) { answer += a[i]; }
+  return answer;
+}
+
+// Beginner B
+function sum(a) {
+  let answer = 0;
+  for (let i = a.length; i > 0; i--) { answer += a[i]; }
+  return answer;
+}
+
+// Beginner C
+function sum3(a) {
+  let answer = 0;
+  let i = 0;
+  while (1) {
+    if (i == a.length) { break; }
+    answer += a[i];
+    i++;
+  }
+  return answer;
+}
+```
+
+A. Beginner A's function
+B. Beginner B's function
+C. Beginner C's function
+D. None of them
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+
+### Q16. Java containConsecutive: fill in the blanks
+
+This Java function receives an array of integers `arr` and returns `true` if any **neighbouring** elements have the same value. For `{0, 3, 2, 2, 6, -1, 3}` it returns true; for `{0, 3, 2, 5, 6, -1, 3}` it returns false.
+
+```java
+static boolean containConsecutive(int[] arr) {
+    for (int i = 0; i < [ 1 ]; i++) {
+        if ([ 2 ]) {
+            return true;
+        }
+    }
+    return false;
+}
+```
+
+Choose the formulas for blanks [1] and [2].
+
+A. [1] arr.length - 1 , [2] arr[i] == arr[i-1]
+B. [1] arr.length - 1 , [2] arr[i] == arr[i+1]
+C. [1] arr.length , [2] arr[i] == arr[i-1]
+D. [1] arr.length , [2] arr[i] == arr[i+1]
+E. All the above are incorrect
+
+<sub>Topics: Code Output (C/C++/Java/Python), Arrays · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
 
 ## 2024-10-09 · IIT Delhi · FTE
 

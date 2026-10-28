@@ -1,6 +1,6 @@
 # Finmechanics
 
-**7 questions** from 1 OA drive · seen at IIT Kanpur · latest 2026-10-10
+**7 questions** from 1 OA drive · seen at IIT Kharagpur/Kanpur · latest 2026-10-10
 
 **Topics:** [Math](../topics/math.md) (2) · [Aptitude](../topics/aptitude.md) (1) · [DP](../topics/dp.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Graphs](../topics/graphs.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Strings](../topics/strings.md) (1) · [Hashing](../topics/hashing.md) (1) · [Arrays](../topics/arrays.md) (1) · [Verbal](../topics/verbal.md) (1)
 
@@ -8,13 +8,13 @@
 
 **Drives:**
 
-- [2026-10-10 · IIT Kanpur · FTE](#2026-10-10--iit-kanpur--fte) · 7 questions
+- [2026-10-10 · IIT Kharagpur/Kanpur · FTE](#2026-10-10--iit-kharagpurkanpur--fte) · 7 questions
 
 [← all companies](../README.md#companies)
 
 ---
 
-## 2026-10-10 · IIT Kanpur · FTE
+## 2026-10-10 · IIT Kharagpur/Kanpur · FTE
 
 ### Q1. Maths and logic section (probability)
 

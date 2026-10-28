@@ -1,0 +1,3 @@
+{"id": 1591, "group": "ibm-oa", "sent_at": "2026-09-25T10:43:00+00:00", "text": "IBM was at Hyderabad on the 2nd and Warangal on the 18th.", "author_tag": "MNNI", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 1592, "group": "ibm-oa", "sent_at": "2026-09-25T10:51:00+00:00", "text": "20th was a big one: ISM, Kurukshetra, Patna and Trichy.", "author_tag": "NITW", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 1593, "group": "ibm-oa", "sent_at": "2026-09-25T10:59:00+00:00", "text": "IIIT Allahabad, MNNIT and Trichy again on the 23rd.", "author_tag": "NITT", "reply_to": {"id": 1591, "text": "IBM was at Hyderabad on the 2nd and Warangal on the 18th.", "author_tag": "MNNI"}, "attachment": null, "deleted": false}

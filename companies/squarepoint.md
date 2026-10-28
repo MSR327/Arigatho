@@ -1,6 +1,6 @@
 # Squarepoint
 
-**6 questions** from 4 OA drives · seen at IIT Kanpur, IIT Kharagpur, IIT Roorkee · latest 2026-10-15
+**6 questions** from 4 OA drives · seen at IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee · latest 2026-10-15
 
 **Topics:** [Graphs](../topics/graphs.md) (2) · [Arrays](../topics/arrays.md) (2) · [Strings](../topics/strings.md) (1) · [Sorting](../topics/sorting.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Hashing](../topics/hashing.md) (1) · [Math](../topics/math.md) (1) · [Trees](../topics/trees.md) (1) · [DP](../topics/dp.md) (1)
 
@@ -11,7 +11,7 @@
 - [2026-10-15 · IIT Kharagpur · FTE](#2026-10-15--iit-kharagpur--fte) · 3 questions
 - [2026-10-04 · IIT Roorkee · FTE](#2026-10-04--iit-roorkee--fte) · 1 question
 - [2026-10-02 · IIT Roorkee · FTE](#2026-10-02--iit-roorkee--fte) · 1 question
-- [2026-10-02 · IIT Kanpur · FTE](#2026-10-02--iit-kanpur--fte) · 1 question
+- [2026-10-02 · IIT Kharagpur/Kanpur · FTE](#2026-10-02--iit-kharagpurkanpur--fte) · 1 question
 
 [← all companies](../README.md#companies)
 
@@ -104,7 +104,7 @@ One of the Squarepoint OA questions, reported as exactly the same as the FastPre
 
 <sub>Topics: Graphs · Source: [chat, 2 Oct](../archive/inter-iit/2026-10.jsonl#L467), [chat, 2 Oct](../archive/inter-iit/2026-10.jsonl#L468)</sub>
 
-## 2026-10-02 · IIT Kanpur · FTE
+## 2026-10-02 · IIT Kharagpur/Kanpur · FTE
 
 ### Q1. Search Suggestions System
 

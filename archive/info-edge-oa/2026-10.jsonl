@@ -1,0 +1,6 @@
+{"id": 14556, "group": "info-edge-oa", "sent_at": "2026-10-27T17:52:10.102517+00:00", "text": "Hi! 👋", "author_tag": "BHU", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 14964, "group": "info-edge-oa", "sent_at": "2026-10-28T10:16:09.38294+00:00", "text": "Hi", "author_tag": "IITH", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 14965, "group": "info-edge-oa", "sent_at": "2026-10-28T10:16:39.318141+00:00", "text": "Has infoedge visited any college as of now ??", "author_tag": "IITH", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 15051, "group": "info-edge-oa", "sent_at": "2026-10-28T11:52:38.043507+00:00", "text": "IIT BHU", "author_tag": "BHU", "reply_to": {"id": 14965, "text": "Has infoedge visited any college as of now ??", "author_tag": "IITH"}, "attachment": null, "deleted": false}
+{"id": 15122, "group": "info-edge-oa", "sent_at": "2026-10-28T13:42:27.637416+00:00", "text": "OA done ??", "author_tag": "IITH", "reply_to": {"id": 15051, "text": "IIT BHU", "author_tag": "BHU"}, "attachment": null, "deleted": false}
+{"id": 15137, "group": "info-edge-oa", "sent_at": "2026-10-28T13:46:28.431221+00:00", "text": "not yet", "author_tag": "BHU", "reply_to": {"id": 15122, "text": "OA done ??", "author_tag": "IITH"}, "attachment": null, "deleted": false}

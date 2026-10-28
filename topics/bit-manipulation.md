@@ -1,6 +1,6 @@
 # Bit Manipulation
 
-13 questions from 12 companys, newest first. [← all topics](../README.md#topics)
+14 questions from 12 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
@@ -16,4 +16,5 @@
 | 2026-10-09 | [Spotnana](../companies/spotnana.md) | IIT Kanpur | [k-th largest OR over all subarrays](../companies/spotnana.md#q3-k-th-largest-or-over-all-subarrays) | |
 | 2026-10-06 | [Pace Stock](../companies/pace-stock.md) | IIT Kharagpur | [Subarrays whose bitwise OR is present in the subarray](../companies/pace-stock.md#q1-subarrays-whose-bitwise-or-is-present-in-the-subarray) | |
 | 2026-10-05 | [InMobi](../companies/inmobi.md) | IIT BHU | [Circular Defense](../companies/inmobi.md#q1-circular-defense) | |
+| 2025-10-03 | [Accenture](../companies/accenture.md) | Unknown | [Bit-shift expression equal to 6 × n](../companies/accenture.md#q20-bit-shift-expression-equal-to-6--n) | |
 | 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [Shift expression equal to 6n](../companies/accenture.md#q20-shift-expression-equal-to-6n) | |

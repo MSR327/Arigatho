@@ -81,7 +81,7 @@
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Factory production rate](../companies/qualcomm.md#q23-factory-production-rate) |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Shopkeeper markup and discount](../companies/qualcomm.md#q12-shopkeeper-markup-and-discount) |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Glucose solution dilution](../companies/qualcomm.md#q1-glucose-solution-dilution) |
-| 2026-10-10 | [Finmechanics](../companies/finmechanics.md) | IIT Kanpur | [Maths and logic section (probability)](../companies/finmechanics.md#q1-maths-and-logic-section-probability) |
+| 2026-10-10 | [Finmechanics](../companies/finmechanics.md) | IIT Kharagpur/Kanpur | [Maths and logic section (probability)](../companies/finmechanics.md#q1-maths-and-logic-section-probability) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Streaming plan subscribers](../companies/texas-instruments.md#q60-streaming-plan-subscribers) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Number arrangement machine](../companies/texas-instruments.md#q59-number-arrangement-machine) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Day of week after 15 days](../companies/texas-instruments.md#q58-day-of-week-after-15-days) |

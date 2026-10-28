@@ -1,6 +1,6 @@
 # Mastercard
 
-**2 questions** from 1 OA drive · seen at IIT Kharagpur · latest 2026-10-25
+**2 questions** from 1 OA drive · seen at IIT Kharagpur, IIT Kharagpur/Kanpur · latest 2026-10-25
 
 **Topics:** [DP](../topics/dp.md) (1) · [Strings](../topics/strings.md) (1) · [Arrays](../topics/arrays.md) (1) · [Sorting](../topics/sorting.md) (1)
 
@@ -8,13 +8,13 @@
 
 **Drives:**
 
-- [2026-10-24 · IIT Kharagpur · FTE](#2026-10-24--iit-kharagpur--fte) · 2 questions
+- [2026-10-24 · IIT Kharagpur/Kanpur · FTE](#2026-10-24--iit-kharagpurkanpur--fte) · 2 questions
 
 [← all companies](../README.md#companies)
 
 ---
 
-## 2026-10-24 · IIT Kharagpur · FTE
+## 2026-10-24 · IIT Kharagpur/Kanpur · FTE
 
 ### Q1. Edit the Filename
 

@@ -1,6 +1,6 @@
 # Graphs
 
-32 questions from 19 companys, newest first. [← all topics](../README.md#topics)
+37 questions from 19 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | 2026-10-22 | [InMobi](../companies/inmobi.md) | IIT Delhi | [Word Ladder II variant with costs](../companies/inmobi.md#q1-word-ladder-ii-variant-with-costs) | |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | [Count Graphs on n Nodes with k Components mod m](../companies/flipkart.md#q3-count-graphs-on-n-nodes-with-k-components-mod-m) | |
 | 2026-10-21 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [Graph problem (details not shared)](../companies/alight-solutions.md#q1-graph-problem-details-not-shared) | |
+| 2026-10-18 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Minimum dice rolls to reach the end of the array](../companies/accenture.md#q3-minimum-dice-rolls-to-reach-the-end-of-the-array) | |
 | 2026-10-17 | [Media.net](../companies/media-net.md) | Delhi Technological University | [Trapping Rain Water II](../companies/media-net.md#q1-trapping-rain-water-ii) | [407](https://leetcode.com/problems/trapping-rain-water-ii/) Hard |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | [Ambulance Arrival Time](../companies/deutsche-bank.md#q2-ambulance-arrival-time) | |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | [Tree Traversal Integrity (Valid BFS)](../companies/squarepoint.md#q2-tree-traversal-integrity-valid-bfs) | |
@@ -19,13 +20,17 @@
 | 2026-10-14 | [NatWest](../companies/natwest.md) | IIT BHU | [Start Node Reaching Maximum Nodes in Directed Graph](../companies/natwest.md#q2-start-node-reaching-maximum-nodes-in-directed-graph) | |
 | 2026-10-13 | [Harness](../companies/harness.md) | IIT Guwahati | [Minimum Jumps in a Grid](../companies/harness.md#q1-minimum-jumps-in-a-grid) | |
 | 2026-10-13 | [MyGate](../companies/mygate.md) | IIT Delhi | [7 DSA MCQs](../companies/mygate.md#q2-7-dsa-mcqs) | |
+| 2026-10-13 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Minimum cost to visit target cities in a given order](../companies/accenture.md#q4-minimum-cost-to-visit-target-cities-in-a-given-order) | |
+| 2026-10-13 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Minimum dice rolls to reach the end of an array](../companies/accenture.md#q3-minimum-dice-rolls-to-reach-the-end-of-an-array) | |
 | 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | [DSU problem](../companies/nielsen.md#q5-dsu-problem) | |
 | 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | [Friend recommendation (friends of friends)](../companies/nielsen.md#q4-friend-recommendation-friends-of-friends) | |
 | 2026-10-11 | [NatWest](../companies/natwest.md) | Delhi Technological University | [Grid Path with Obstacles](../companies/natwest.md#q4-grid-path-with-obstacles) | |
 | 2026-10-11 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Minimum Dice Rolls to Reach the End (Set 2)](../companies/accenture.md#q3-minimum-dice-rolls-to-reach-the-end-set-2) | |
-| 2026-10-10 | [Finmechanics](../companies/finmechanics.md) | IIT Kanpur | [Course Schedule](../companies/finmechanics.md#q4-course-schedule) | [207](https://leetcode.com/problems/course-schedule/) Medium |
+| 2026-10-10 | [Finmechanics](../companies/finmechanics.md) | IIT Kharagpur/Kanpur | [Course Schedule](../companies/finmechanics.md#q4-course-schedule) | [207](https://leetcode.com/problems/course-schedule/) Medium |
 | 2026-10-09 | [Spotnana](../companies/spotnana.md) | IIT Kanpur | [Shortest walk covering all required nodes in a tree](../companies/spotnana.md#q1-shortest-walk-covering-all-required-nodes-in-a-tree) | |
+| 2026-10-09 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Minimum dice rolls to reach the end with free array jumps](../companies/accenture.md#q3-minimum-dice-rolls-to-reach-the-end-with-free-array-jumps) | |
 | 2026-10-09 | [Honda](../companies/honda.md) | VIT Vellore | [Remove Suspicious Nodes from a Directed Graph](../companies/honda.md#q4-remove-suspicious-nodes-from-a-directed-graph) | [3310](https://leetcode.com/problems/remove-methods-from-project/) Medium |
+| 2026-10-07 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Minimum dice rolls to reach the end with free A[i] jumps](../companies/accenture.md#q3-minimum-dice-rolls-to-reach-the-end-with-free-ai-jumps) | |
 | 2026-10-07 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Number of Islands](../companies/harness.md#q11-number-of-islands) | [200](https://leetcode.com/problems/number-of-islands/) Medium |
 | 2026-10-07 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Detect Cycle in Directed Graph](../companies/harness.md#q10-detect-cycle-in-directed-graph) | [207](https://leetcode.com/problems/course-schedule/) Medium |
 | 2026-10-07 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Energy-Decay Graph](../companies/harness.md#q1-energy-decay-graph) | |

@@ -1,0 +1,942 @@
+{
+ "accenture-oa": {
+  "company": "Accenture",
+  "name": "Accenture OA",
+  "role": "OA preparation"
+ },
+ "adobe-oa": {
+  "company": "Adobe",
+  "name": "Adobe OA",
+  "role": "OA preparation"
+ },
+ "alight-solutions-oa": {
+  "company": "Alight Solutions",
+  "name": "Alight Solutions OA",
+  "role": "OA preparation"
+ },
+ "alphonso-oa": {
+  "company": "Alphonso",
+  "name": "Alphonso OA",
+  "role": "OA preparation"
+ },
+ "amazon-oa": {
+  "company": "Amazon",
+  "name": "Amazon OA",
+  "role": "OA preparation"
+ },
+ "american-express-oa": {
+  "company": "American Express",
+  "name": "American Express OA",
+  "role": "OA preparation"
+ },
+ "apple-oa": {
+  "company": "Apple",
+  "name": "Apple OA",
+  "role": "OA preparation"
+ },
+ "auronova-consulting-oa": {
+  "company": "Auronova Consulting",
+  "name": "Auronova Consulting OA",
+  "role": "OA preparation"
+ },
+ "avathon-oa": {
+  "company": "Avathon",
+  "name": "Avathon OA",
+  "role": "OA preparation"
+ },
+ "axtria-oa": {
+  "company": "Axtria",
+  "name": "Axtria OA",
+  "role": "OA preparation"
+ },
+ "axxela-oa": {
+  "company": "Axxela",
+  "name": "Axxela OA",
+  "role": "OA preparation"
+ },
+ "being-infinity-oa": {
+  "company": "Being Infinity",
+  "name": "Being Infinity OA",
+  "role": "OA preparation"
+ },
+ "birla-pivot-oa": {
+  "company": "Birla Pivot",
+  "name": "Birla Pivot OA",
+  "role": "OA preparation"
+ },
+ "blinkit-oa": {
+  "company": "Blinkit",
+  "name": "Blinkit OA",
+  "role": "OA preparation"
+ },
+ "bpcl-oa": {
+  "company": "BPCL",
+  "name": "BPCL OA",
+  "role": "OA preparation"
+ },
+ "bridgehorn-oa": {
+  "company": "BridgeHorn",
+  "name": "BridgeHorn OA",
+  "role": "OA preparation"
+ },
+ "calix-oa": {
+  "company": "Calix",
+  "name": "Calix OA",
+  "role": "OA preparation"
+ },
+ "campus-adit-vallabh-vidyanagar-placements": {
+  "company": "A. D. Patel Institute of Technology, New Vallabh Vidyanagar",
+  "name": "ADIT Vallabh Vidyanagar Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-bannari-amman-placements": {
+  "company": "Bannari Amman Institute of Technology",
+  "name": "Bannari Amman Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-bit-mesra-placements": {
+  "company": "Birla Institute of Technology, Mesra",
+  "name": "BIT Mesra Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-bits-goa-placements": {
+  "company": "BITS Pilani Goa Campus",
+  "name": "BITS Goa Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-bits-hyderabad-placements": {
+  "company": "BITS Pilani Hyderabad Campus",
+  "name": "BITS Hyderabad Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-bits-pilani-placements": {
+  "company": "BITS Pilani",
+  "name": "BITS Pilani Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-bmsce-bangalore-placements": {
+  "company": "BMS College of Engineering",
+  "name": "BMSCE Bangalore Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-cummins-college-pune-placements": {
+  "company": "Cummins College of Engineering for Women, Pune",
+  "name": "Cummins College Pune Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-daiict-gandhinagar-placements": {
+  "company": "Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT), Gandhinagar",
+  "name": "DAIICT Gandhinagar Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-dtu-placements": {
+  "company": "Delhi Technological University (DTU)",
+  "name": "DTU Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-igdtuw-placements": {
+  "company": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+  "name": "IGDTUW Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iiit-allahabad-placements": {
+  "company": "IIIT Allahabad",
+  "name": "IIIT Allahabad Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iiit-bangalore-placements": {
+  "company": "IIIT Bangalore",
+  "name": "IIIT Bangalore Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iiit-delhi-placements": {
+  "company": "IIIT Delhi",
+  "name": "IIIT Delhi Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iiit-hyderabad-placements": {
+  "company": "IIIT Hyderabad",
+  "name": "IIIT Hyderabad Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iiit-vadodara-placements": {
+  "company": "IIIT Vadodara",
+  "name": "IIIT Vadodara Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iiitdm-jabalpur-placements": {
+  "company": "PDPM IIITDM Jabalpur",
+  "name": "IIITDM Jabalpur Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-bhu-placements": {
+  "company": "IIT (BHU) Varanasi",
+  "name": "IIT BHU Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-bhubaneswar-placements": {
+  "company": "IIT Bhubaneswar",
+  "name": "IIT Bhubaneswar Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-bombay-placements": {
+  "company": "IIT Bombay",
+  "name": "IIT Bombay Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-delhi-placements": {
+  "company": "IIT Delhi",
+  "name": "IIT Delhi Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-dharwad-placements": {
+  "company": "IIT Dharwad",
+  "name": "IIT Dharwad Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-gandhinagar-placements": {
+  "company": "IIT Gandhinagar",
+  "name": "IIT Gandhinagar Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-guwahati-placements": {
+  "company": "IIT Guwahati",
+  "name": "IIT Guwahati Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-hyderabad-placements": {
+  "company": "IIT Hyderabad",
+  "name": "IIT Hyderabad Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-indore-placements": {
+  "company": "IIT Indore",
+  "name": "IIT Indore Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-ism-dhanbad-placements": {
+  "company": "IIT (ISM) Dhanbad",
+  "name": "IIT ISM Dhanbad Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-jodhpur-placements": {
+  "company": "IIT Jodhpur",
+  "name": "IIT Jodhpur Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-kanpur-placements": {
+  "company": "IIT Kanpur",
+  "name": "IIT Kanpur Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-kharagpur-placements": {
+  "company": "IIT Kharagpur",
+  "name": "IIT Kharagpur Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-madras-placements": {
+  "company": "IIT Madras",
+  "name": "IIT Madras Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-mandi-placements": {
+  "company": "IIT Mandi",
+  "name": "IIT Mandi Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-patna-placements": {
+  "company": "IIT Patna",
+  "name": "IIT Patna Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-roorkee-placements": {
+  "company": "IIT Roorkee",
+  "name": "IIT Roorkee Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-iit-ropar-placements": {
+  "company": "IIT Ropar",
+  "name": "IIT Ropar Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-jadavpur-university-placements": {
+  "company": "Jadavpur University",
+  "name": "Jadavpur University Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-jiit-noida-placements": {
+  "company": "Jaypee Institute of Information Technology, Noida",
+  "name": "JIIT Noida Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-lnmiit-jaipur-placements": {
+  "company": "The LNM Institute of Information Technology (LNMIIT), Jaipur",
+  "name": "LNMIIT Jaipur Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-manipal-institute-of-technology-placements": {
+  "company": "Manipal Institute of Technology",
+  "name": "Manipal Institute of Technology Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-manit-bhopal-placements": {
+  "company": "MANIT Bhopal",
+  "name": "MANIT Bhopal Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-mnit-jaipur-placements": {
+  "company": "MNIT Jaipur",
+  "name": "MNIT Jaipur Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-mnnit-allahabad-placements": {
+  "company": "MNNIT Allahabad",
+  "name": "MNNIT Allahabad Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-agartala-placements": {
+  "company": "NIT Agartala",
+  "name": "NIT Agartala Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-andhra-pradesh-placements": {
+  "company": "NIT Andhra Pradesh",
+  "name": "NIT Andhra Pradesh Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-calicut-placements": {
+  "company": "NIT Calicut",
+  "name": "NIT Calicut Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-delhi-placements": {
+  "company": "NIT Delhi",
+  "name": "NIT Delhi Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-durgapur-placements": {
+  "company": "NIT Durgapur",
+  "name": "NIT Durgapur Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-hamirpur-placements": {
+  "company": "NIT Hamirpur",
+  "name": "NIT Hamirpur Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-jalandhar-placements": {
+  "company": "Dr. B.R. Ambedkar National Institute of Technology, Jalandhar",
+  "name": "NIT Jalandhar Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-jamshedpur-placements": {
+  "company": "NIT Jamshedpur",
+  "name": "NIT Jamshedpur Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-kurukshetra-placements": {
+  "company": "NIT Kurukshetra",
+  "name": "NIT Kurukshetra Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-patna-placements": {
+  "company": "NIT Patna",
+  "name": "NIT Patna Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-raipur-placements": {
+  "company": "NIT Raipur",
+  "name": "NIT Raipur Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-rourkela-placements": {
+  "company": "NIT Rourkela",
+  "name": "NIT Rourkela Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-silchar-placements": {
+  "company": "NIT Silchar",
+  "name": "NIT Silchar Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-srinagar-placements": {
+  "company": "NIT Srinagar",
+  "name": "NIT Srinagar Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-surathkal-placements": {
+  "company": "NIT Karnataka Surathkal",
+  "name": "NIT Surathkal Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-trichy-placements": {
+  "company": "NIT Tiruchirappalli",
+  "name": "NIT Trichy Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nit-warangal-placements": {
+  "company": "NIT Warangal",
+  "name": "NIT Warangal Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-nsut-delhi-placements": {
+  "company": "Netaji Subhas University of Technology (NSUT), Delhi",
+  "name": "NSUT Delhi Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-pec-chandigarh-placements": {
+  "company": "PEC Chandigarh",
+  "name": "PEC Chandigarh Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-pes-university-placements": {
+  "company": "PES University",
+  "name": "PES University Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-pict-pune-placements": {
+  "company": "Pune Institute of Computer Technology (PICT)",
+  "name": "PICT Pune Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-rvce-bangalore-placements": {
+  "company": "RV College of Engineering",
+  "name": "RVCE Bangalore Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-srmist-chennai-placements": {
+  "company": "SRM Institute of Science and Technology, Kattankulathur",
+  "name": "SRMIST Chennai Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-svnit-surat-placements": {
+  "company": "Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat",
+  "name": "SVNIT Surat Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-thapar-institute-placements": {
+  "company": "Thapar Institute of Engineering and Technology",
+  "name": "Thapar Institute Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-vit-chennai-placements": {
+  "company": "VIT Chennai",
+  "name": "VIT Chennai Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-vit-vellore-placements": {
+  "company": "VIT Vellore",
+  "name": "VIT Vellore Placement Discussion",
+  "role": "Campus"
+ },
+ "campus-vnit-nagpur-placements": {
+  "company": "VNIT Nagpur",
+  "name": "VNIT Nagpur Placement Discussion",
+  "role": "Campus"
+ },
+ "capgemini-oa": {
+  "company": "Capgemini",
+  "name": "Capgemini OA",
+  "role": "OA preparation"
+ },
+ "capital-one-oa": {
+  "company": "Capital One",
+  "name": "Capital One OA",
+  "role": "OA preparation"
+ },
+ "cashfree-oa": {
+  "company": "Cashfree",
+  "name": "Cashfree OA",
+  "role": "OA preparation"
+ },
+ "chargebee-oa": {
+  "company": "Chargebee",
+  "name": "Chargebee OA",
+  "role": "OA preparation"
+ },
+ "cisco-oa": {
+  "company": "Cisco",
+  "name": "Cisco OA",
+  "role": "OA preparation"
+ },
+ "citi-oa": {
+  "company": "Citi",
+  "name": "Citi OA",
+  "role": "OA preparation"
+ },
+ "cognizant-oa": {
+  "company": "Cognizant",
+  "name": "Cognizant OA",
+  "role": "OA preparation"
+ },
+ "cohesity-oa": {
+  "company": "Cohesity",
+  "name": "Cohesity OA",
+  "role": "OA preparation"
+ },
+ "deloitte-oa": {
+  "company": "Deloitte",
+  "name": "Deloitte OA",
+  "role": "OA preparation"
+ },
+ "deutsche-bank-oa": {
+  "company": "Deutsche Bank",
+  "name": "Deutsche Bank OA",
+  "role": "OA preparation"
+ },
+ "entnt-oa": {
+  "company": "ENTNT",
+  "name": "ENTNT OA",
+  "role": "OA preparation"
+ },
+ "eternal-oa": {
+  "company": "Eternal",
+  "name": "Eternal OA",
+  "role": "OA preparation"
+ },
+ "exl-oa": {
+  "company": "EXL",
+  "name": "EXL OA",
+  "role": "OA preparation"
+ },
+ "ey-oa": {
+  "company": "EY",
+  "name": "EY OA",
+  "role": "OA preparation"
+ },
+ "flipkart-oa": {
+  "company": "Flipkart",
+  "name": "Flipkart OA",
+  "role": "OA preparation"
+ },
+ "futures-first-oa": {
+  "company": "Futures First",
+  "name": "Futures First OA",
+  "role": "OA preparation"
+ },
+ "google-step-intern": {
+  "company": "Google",
+  "name": "Google OA",
+  "role": "OA preparation"
+ },
+ "gullak-money-oa": {
+  "company": "Gullak Money",
+  "name": "Gullak Money OA",
+  "role": "OA preparation"
+ },
+ "harness-oa": {
+  "company": "Harness",
+  "name": "Harness OA",
+  "role": "OA preparation"
+ },
+ "honda-japan-oa": {
+  "company": "Honda Japan",
+  "name": "Honda Japan OA",
+  "role": "OA preparation"
+ },
+ "houlihan-lokey-oa": {
+  "company": "Houlihan Lokey",
+  "name": "Houlihan Lokey OA",
+  "role": "OA preparation"
+ },
+ "hp-oa": {
+  "company": "HP",
+  "name": "HP OA",
+  "role": "OA preparation"
+ },
+ "hsbc-oa": {
+  "company": "HSBC",
+  "name": "HSBC OA",
+  "role": "OA preparation"
+ },
+ "humming-wave-oa": {
+  "company": "Humming Wave",
+  "name": "Humming Wave OA",
+  "role": "OA preparation"
+ },
+ "ibm-oa": {
+  "company": "IBM",
+  "name": "IBM OA",
+  "role": "OA preparation"
+ },
+ "icici-oa": {
+  "company": "ICICI",
+  "name": "ICICI OA",
+  "role": "OA preparation"
+ },
+ "idfc-first-bank-oa": {
+  "company": "IDFC First Bank",
+  "name": "IDFC First Bank OA",
+  "role": "OA preparation"
+ },
+ "indusind-bank-oa": {
+  "company": "IndusInd Bank",
+  "name": "IndusInd Bank OA",
+  "role": "OA preparation"
+ },
+ "info-edge-oa": {
+  "company": "Info Edge",
+  "name": "Info Edge OA",
+  "role": "OA preparation"
+ },
+ "infosys-oa": {
+  "company": "Infosys",
+  "name": "Infosys OA",
+  "role": "OA preparation"
+ },
+ "inmobi-oa": {
+  "company": "InMobi",
+  "name": "InMobi OA",
+  "role": "OA preparation"
+ },
+ "inter-iit": {
+  "company": "Placement 2026",
+  "name": "Placement '26 OA All IIT/NIT/IIIT",
+  "role": null
+ },
+ "inter-nit": {
+  "company": "Placement 2027",
+  "name": "Placement '27 OA All IIT/NIT/IIIT",
+  "role": null
+ },
+ "intern-2027": {
+  "company": "Intern 2027",
+  "name": "2027 Batch Intern",
+  "role": "Internship"
+ },
+ "intern-2028": {
+  "company": "Intern 2028",
+  "name": "2028 Batch Intern",
+  "role": "Internship"
+ },
+ "ivy-homes-oa": {
+  "company": "Ivy Homes",
+  "name": "Ivy Homes OA",
+  "role": "OA preparation"
+ },
+ "juspay-oa": {
+  "company": "Juspay",
+  "name": "Juspay OA",
+  "role": "OA preparation"
+ },
+ "kanini-oa": {
+  "company": "Kanini",
+  "name": "Kanini OA",
+  "role": "OA preparation"
+ },
+ "kickdrum-oa": {
+  "company": "Kickdrum",
+  "name": "Kickdrum OA",
+  "role": "OA preparation"
+ },
+ "kratikal-oa": {
+  "company": "Kratikal",
+  "name": "Kratikal OA",
+  "role": "OA preparation"
+ },
+ "lek-consulting-oa": {
+  "company": "L.E.K. Consulting",
+  "name": "L.E.K. Consulting OA",
+  "role": "OA preparation"
+ },
+ "marvell-oa": {
+  "company": "Marvell",
+  "name": "Marvell OA",
+  "role": "OA preparation"
+ },
+ "mastercard-oa": {
+  "company": "Mastercard",
+  "name": "Mastercard OA",
+  "role": "OA preparation"
+ },
+ "media-net-oa": {
+  "company": "Media.net",
+  "name": "Media.net OA",
+  "role": "OA preparation"
+ },
+ "meesho-oa": {
+  "company": "Meesho",
+  "name": "Meesho OA",
+  "role": "OA preparation"
+ },
+ "meltwater-oa": {
+  "company": "Meltwater",
+  "name": "Meltwater OA",
+  "role": "OA preparation"
+ },
+ "microsoft-oa": {
+  "company": "Microsoft",
+  "name": "Microsoft OA",
+  "role": "OA preparation"
+ },
+ "morgan-stanley-oa": {
+  "company": "Morgan Stanley",
+  "name": "Morgan Stanley OA",
+  "role": "OA preparation"
+ },
+ "mygate-oa": {
+  "company": "MyGate",
+  "name": "MyGate OA",
+  "role": "OA preparation"
+ },
+ "myntra-oa": {
+  "company": "Myntra",
+  "name": "Myntra OA",
+  "role": "OA preparation"
+ },
+ "natwest-oa": {
+  "company": "NatWest",
+  "name": "NatWest OA",
+  "role": "OA preparation"
+ },
+ "navabrava-oa": {
+  "company": "Navabrava",
+  "name": "Navabrava OA",
+  "role": "OA preparation"
+ },
+ "navratri-challenge": {
+  "company": "Navratri Challenge",
+  "name": "Navratri Challenge",
+  "role": "Event"
+ },
+ "netradyne-oa": {
+  "company": "Netradyne",
+  "name": "Netradyne OA",
+  "role": "OA preparation"
+ },
+ "nexusone-oa": {
+  "company": "NexusOne",
+  "name": "NexusOne OA",
+  "role": "OA preparation"
+ },
+ "nielsen-oa": {
+  "company": "Nielsen",
+  "name": "Nielsen OA",
+  "role": "OA preparation"
+ },
+ "nk-securities-research-oa": {
+  "company": "NK Securities Research",
+  "name": "NK Securities Research OA",
+  "role": "OA preparation"
+ },
+ "nobroker-oa": {
+  "company": "NoBroker",
+  "name": "NoBroker OA",
+  "role": "OA preparation"
+ },
+ "npci-oa": {
+  "company": "NPCI",
+  "name": "NPCI OA",
+  "role": "OA preparation"
+ },
+ "nvidia-oa": {
+  "company": "Nvidia",
+  "name": "Nvidia OA",
+  "role": "OA preparation"
+ },
+ "nxtwave-oa": {
+  "company": "NxtWave",
+  "name": "NxtWave OA",
+  "role": "OA preparation"
+ },
+ "oahelper-team": {
+  "company": "OAHelper",
+  "name": "OAHelper",
+  "role": "Team"
+ },
+ "paytm-oa": {
+  "company": "Paytm",
+  "name": "Paytm OA",
+  "role": "OA preparation"
+ },
+ "peoplestrong-oa": {
+  "company": "PeopleStrong",
+  "name": "PeopleStrong OA",
+  "role": "OA preparation"
+ },
+ "plutus-research-oa": {
+  "company": "Plutus Research",
+  "name": "Plutus Research OA",
+  "role": "OA preparation"
+ },
+ "point72-oa": {
+  "company": "Point72",
+  "name": "Point72 OA",
+  "role": "OA preparation"
+ },
+ "porter-oa": {
+  "company": "Porter",
+  "name": "Porter OA",
+  "role": "OA preparation"
+ },
+ "qicap-oa": {
+  "company": "QiCap",
+  "name": "QiCap OA",
+  "role": "OA preparation"
+ },
+ "qualcomm-oa": {
+  "company": "Qualcomm",
+  "name": "Qualcomm OA",
+  "role": "OA preparation"
+ },
+ "quantbox-oa": {
+  "company": "Quantbox",
+  "name": "Quantbox OA",
+  "role": "OA preparation"
+ },
+ "quince-oa": {
+  "company": "Quince",
+  "name": "Quince OA",
+  "role": "OA preparation"
+ },
+ "reliance-oa": {
+  "company": "Reliance",
+  "name": "Reliance OA",
+  "role": "OA preparation"
+ },
+ "renesas-electronics-oa": {
+  "company": "Renesas Electronics",
+  "name": "Renesas Electronics OA",
+  "role": "OA preparation"
+ },
+ "rystad-energy-oa": {
+  "company": "Rystad Energy",
+  "name": "Rystad Energy OA",
+  "role": "OA preparation"
+ },
+ "salesforce-oa": {
+  "company": "Salesforce",
+  "name": "Salesforce OA",
+  "role": "OA preparation"
+ },
+ "scapia-oa": {
+  "company": "Scapia",
+  "name": "Scapia OA",
+  "role": "OA preparation"
+ },
+ "scienaptic-ai-oa": {
+  "company": "Scienaptic AI",
+  "name": "Scienaptic AI OA",
+  "role": "OA preparation"
+ },
+ "sedemac-oa": {
+  "company": "SEDEMAC",
+  "name": "SEDEMAC OA",
+  "role": "OA preparation"
+ },
+ "silicon-labs-oa": {
+  "company": "Silicon Labs",
+  "name": "Silicon Labs OA",
+  "role": "OA preparation"
+ },
+ "skyroot-aerospace-oa": {
+  "company": "Skyroot Aerospace",
+  "name": "Skyroot Aerospace OA",
+  "role": "OA preparation"
+ },
+ "slice-oa": {
+  "company": "Slice",
+  "name": "Slice OA",
+  "role": "OA preparation"
+ },
+ "spotnana-oa": {
+  "company": "Spotnana",
+  "name": "Spotnana OA",
+  "role": "OA preparation"
+ },
+ "squarepoint-oa": {
+  "company": "Squarepoint",
+  "name": "Squarepoint OA",
+  "role": "OA preparation"
+ },
+ "standard-chartered-oa": {
+  "company": "Standard Chartered",
+  "name": "Standard Chartered OA",
+  "role": "OA preparation"
+ },
+ "straive-oa": {
+  "company": "Straive",
+  "name": "Straive OA",
+  "role": "OA preparation"
+ },
+ "tcs-oa": {
+  "company": "TCS",
+  "name": "TCS OA",
+  "role": "OA preparation"
+ },
+ "tech-mahindra-oa": {
+  "company": "Tech Mahindra",
+  "name": "Tech Mahindra OA",
+  "role": "OA preparation"
+ },
+ "teradata-oa": {
+  "company": "Teradata",
+  "name": "Teradata OA",
+  "role": "OA preparation"
+ },
+ "texas-instruments-oa": {
+  "company": "Texas Instruments",
+  "name": "Texas Instruments OA",
+  "role": "OA preparation"
+ },
+ "think-future-oa": {
+  "company": "Think Future",
+  "name": "Think Future OA",
+  "role": "OA preparation"
+ },
+ "thorogood-oa": {
+  "company": "Thorogood",
+  "name": "Thorogood OA",
+  "role": "OA preparation"
+ },
+ "thoughtspot-oa": {
+  "company": "ThoughtSpot",
+  "name": "ThoughtSpot OA",
+  "role": "OA preparation"
+ },
+ "tredence-oa": {
+  "company": "Tredence",
+  "name": "Tredence OA",
+  "role": "OA preparation"
+ },
+ "tresvista-oa": {
+  "company": "TresVista",
+  "name": "TresVista OA",
+  "role": "OA preparation"
+ },
+ "triology-oa": {
+  "company": "Triology",
+  "name": "Triology OA",
+  "role": "OA preparation"
+ },
+ "veraxion-oa": {
+  "company": "Veraxion",
+  "name": "Veraxion OA",
+  "role": "OA preparation"
+ },
+ "virtusa-oa": {
+  "company": "Virtusa",
+  "name": "Virtusa OA",
+  "role": "OA preparation"
+ },
+ "visa-oa": {
+  "company": "Visa",
+  "name": "Visa OA",
+  "role": "OA preparation"
+ },
+ "warner-music-group-oa": {
+  "company": "Warner Music Group",
+  "name": "Warner Music Group OA",
+  "role": "OA preparation"
+ },
+ "zomato-sde-1": {
+  "company": "Zomato",
+  "name": "Zomato OA",
+  "role": "OA preparation"
+ },
+ "zscaler-oa": {
+  "company": "Zscaler",
+  "name": "Zscaler OA",
+  "role": "OA preparation"
+ }
+}
