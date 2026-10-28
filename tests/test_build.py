@@ -109,3 +109,17 @@ def test_build_site(tmp_path):
     assert ("| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/"
             "longest-substring-without-repeating-characters/) | Medium | "
             "[Amazon](companies/amazon.md#q1-longest-unique-substring) (IIT Kharagpur) | 1 |") in practice
+
+
+def test_drive_with_position_and_round(tmp_path):
+    extra = dict(q("9-1", "Amazon", "IIT Kharagpur", "2026-10-14", "Window max", ["Arrays"], src=[8]),
+                 position="Data Analyst", round="interview")
+    build_site(ROWS + [extra], MSGS, tmp_path, NOW, LOCS)
+    amazon = (tmp_path / "companies" / "amazon.md").read_text()
+    title = "2026-10-14 · IIT Kharagpur · FTE · Data Analyst · Interview"
+    assert f"## {title}" in amazon
+    assert "## 2026-10-14 · IIT Kharagpur · FTE\n" in amazon  # the plain drive stays separate
+    new = (tmp_path / "README.md").read_text().split("## New this week")[1].split("## Companies")[0]
+    assert ("- [Amazon](companies/amazon.md#2026-10-14--iit-kharagpur--fte--data-analyst--interview)"
+            " · IIT Kharagpur · 1 question") in new
+    assert "(companies/amazon.md#2026-10-14--iit-kharagpur--fte) · IIT Kharagpur · 1 question" in new

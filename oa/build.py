@@ -125,9 +125,16 @@ def _role(role):
     return role.upper() if role == "fte" else role.title()
 
 
+def _drive_key(r):
+    return (r["date"], r["college"], r["role"], r.get("position") or "", r.get("round") or "oa")
+
+
 def _drive_title(key):
-    d, college, role = key
-    return f"{d} · {college} · {_role(role)}"
+    d, college, role, position, rnd = key
+    title = f"{d} · {college} · {_role(role)}"
+    if position:
+        title += f" · {position}"
+    return title + {"interview": " · Interview", "other": " · Other round"}.get(rnd, "")
 
 
 def _plural(n, word):
@@ -140,7 +147,7 @@ def _company_page(company, rows, sightings, dups, messages, locs):
     """The page text, plus {qid: anchor} and {drive key: anchor} for links from other pages."""
     drives = defaultdict(list)
     for r in rows:
-        drives[(r["date"], r["college"], r["role"])].append(r)
+        drives[_drive_key(r)].append(r)
     order = sorted(drives, key=lambda k: (k[0], k[1]), reverse=True)
     colleges = sorted({r["college"] for r in sightings})
     topics = Counter(t for r in rows for t in r["topics"])
@@ -273,9 +280,9 @@ def build_site(rows, messages, out, now, locs=None, groups=None):
         md.append("Nothing new in the last 7 days.")
     for d in sorted(recent, reverse=True):
         md += [f"**{datetime.fromisoformat(d):%a %-d %b}**", ""]
-        groups = Counter((r["company"], r["college"], r["role"]) for r in recent[d])
-        for (c, col, role), n in sorted(groups.items(), key=lambda kv: (-kv[1], kv[0])):
-            link = drive_link.get((c, d, col, role), f"companies/{slug(c)}.md")
+        groups = Counter((r["company"], r["college"], _drive_key(r)) for r in recent[d])
+        for (c, col, key), n in sorted(groups.items(), key=lambda kv: (-kv[1], kv[0])):
+            link = drive_link.get((c,) + key, f"companies/{slug(c)}.md")
             md.append(f"- [{c}]({link}) · {col} · {_plural(n, 'question')}")
         md.append("")
     md += ["## Companies", "", "| Company | Questions | Main topics | Colleges | Latest |",

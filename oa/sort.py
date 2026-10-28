@@ -9,7 +9,7 @@ from collections import Counter
 from datetime import date
 
 from oa import leetcode
-from oa.common import (ARCHIVE, BATCH_SIZE, COLLEGE_ALIASES, COMPANY_ALIASES, LOGS, PROMPTS,
+from oa.common import (ARCHIVE, BATCH_SIZE, COLLEGE_ALIASES, COMPANY_ALIASES, LOGS, MODELS, PROMPTS,
                        QUESTIONS, ROOT, STATE, TOPICS, append_jsonl, canonical, load_groups, log,
                        notify, read_jsonl, short_error)
 from oa.store import Archive, attachment_relpath, load_state, save_state
@@ -31,6 +31,8 @@ SORT_SCHEMA = {
             "college": {"type": "string"},
             "date": {"type": "string", "pattern": r"^\d{4}-\d{2}-\d{2}$"},
             "role": {"enum": ["intern", "fte", "unknown"]},
+            "position": {"type": "string"},
+            "round": {"enum": ["oa", "interview", "other"]},
             "source_ids": {"type": "array", "items": {"type": "integer"}, "minItems": 1},
             "questions": {"type": "array", "minItems": 1, "items": {
                 "type": "object",
@@ -43,7 +45,8 @@ SORT_SCHEMA = {
                 },
                 "required": ["title", "text", "topics", "leetcode"], "additionalProperties": False}},
         },
-        "required": ["company", "college", "date", "role", "source_ids", "questions"],
+        "required": ["company", "college", "date", "role", "position", "round", "source_ids",
+                     "questions"],
         "additionalProperties": False}}},
     "required": ["shares"], "additionalProperties": False,
 }
@@ -105,18 +108,24 @@ def group_rank(slug, groups):
     return {"OA preparation": 0, None: 2, "Internship": 3, "Campus": 4}.get(role, 5)
 
 
-def build_batch_prompt(batch, companies, group=""):
+def build_batch_prompt(batch, companies, groups=None):
     template = (PROMPTS / "sort.md").read_text()
+    parts, current = [], None
+    for r in batch:
+        if r["group"] != current:
+            current = r["group"]
+            parts.append(f"── Posted in: {group_context(current, groups or {})} ──")
+        parts.append(format_message(r))
     return template.format(
-        group=group or "These messages come from an OAHelper placement group chat.",
         companies=", ".join(companies) or "(none yet)",
         topics=", ".join(TOPICS),
-        messages="\n\n".join(format_message(r) for r in batch),
+        messages="\n\n".join(parts),
     )
 
 
-def run_claude(prompt, schema):
+def run_claude(prompt, schema, model=None):
     cmd = ["claude", "-p", prompt, "--output-format", "json", "--no-session-persistence",
+           *(["--model", model] if model else []),
            "--allowedTools", "Read", "--json-schema", json.dumps(schema)]
     r = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True, timeout=1200)
     try:
@@ -150,10 +159,12 @@ def to_questions(shares, batch_ids, problems=None):
                          "company": canonical(s["company"], COMPANY_ALIASES),
                          "college": canonical(s["college"], COLLEGE_ALIASES),
                          "date": s["date"], "role": s["role"],
+                         "position": (s.get("position") or "").strip(),
+                         "round": s.get("round") or "oa",
                          "title": q["title"].strip(), "text": q["text"].strip(),
                          "topics": q["topics"], "source_ids": sorted(s["source_ids"]),
                          "leetcode": problems.match(q.get("leetcode")) if problems else None,
-                         "rev": REV, "md": True, "duplicate_of": None})
+                         "rev": REV, "md": True, "deduped": False, "duplicate_of": None})
     return rows
 
 
@@ -167,8 +178,9 @@ def known_companies(rows):
     return sorted(seen)
 
 
-def sort_pending(archive, state, runner=run_claude, batch_size=BATCH_SIZE, limit=None,
+def sort_pending(archive, state, runner=None, batch_size=BATCH_SIZE, limit=None,
                  save=lambda: None, questions_path=QUESTIONS, problems=None):
+    runner = runner or (lambda prompt, schema: run_claude(prompt, schema, model=MODELS["sort"]))
     done = set(state["sorted_ids"])
     pending = [r for r in archive.all() if r["id"] not in done]
     if limit is not None:
@@ -179,18 +191,12 @@ def sort_pending(archive, state, runner=run_claude, batch_size=BATCH_SIZE, limit
     groups = load_groups()
     todo = sorted((r for r in pending if is_sortable(r)),
                   key=lambda r: (group_rank(r["group"], groups), r["group"], r["id"]))
-    batches = []  # one group per batch, so each batch reads as one conversation
-    for r in todo:
-        if batches and batches[-1][0]["group"] == r["group"] and len(batches[-1]) < batch_size:
-            batches[-1].append(r)
-        else:
-            batches.append([r])
+    batches = [todo[i:i + batch_size] for i in range(0, len(todo), batch_size)]
     existing = read_jsonl(questions_path)
     new_rows = []
     for batch in batches:
         ids = {r["id"] for r in batch}
-        prompt = build_batch_prompt(batch, known_companies(existing + new_rows),
-                                    group_context(batch[0]["group"], groups))
+        prompt = build_batch_prompt(batch, known_companies(existing + new_rows), groups)
         rows = None
         for attempt in (1, 2):
             try:
@@ -233,7 +239,7 @@ def normalize_rows(rows):
     return rows
 
 
-def dedupe(new_rows, all_rows, runner=run_claude):
+def dedupe(new_rows, all_rows, runner=run_claude, failed=None):
     new_ids = {r["qid"] for r in new_rows}
     order = {r["qid"]: i for i, r in enumerate(all_rows)}  # only point at earlier rows: no cycles
     dupes = {}
@@ -252,6 +258,8 @@ def dedupe(new_rows, all_rows, runner=run_claude):
             raise
         except (ClaudeError, KeyError, TypeError) as e:
             log(f"dedupe {company} failed: {short_error(e)}")
+            if failed is not None:
+                failed.append(company)
             continue
         valid = {r["qid"] for r in same}
         for m in matches:
@@ -259,6 +267,30 @@ def dedupe(new_rows, all_rows, runner=run_claude):
                     and order[m["duplicate_of"]] < order[m["qid"]]):
                 dupes[m["qid"]] = m["duplicate_of"]
     return dupes
+
+
+def dedupe_pending(path=QUESTIONS, runner=None, chunk=60):
+    """Check rows not yet checked for reposts (deduped is False), company by company in chunks.
+    Saves progress when stopped by the usage limit; rows whose check failed stay unchecked."""
+    runner = runner or (lambda prompt, schema: run_claude(prompt, schema, model=MODELS["dedupe"]))
+    rows = read_jsonl(path)
+    pending = [r for r in rows if r.get("deduped") is False]
+    matches, checked = {}, 0
+    try:
+        for company in sorted({r["company"] for r in pending}):
+            mine = [r for r in pending if r["company"] == company]
+            for i in range(0, len(mine), chunk):
+                part, failed = mine[i:i + chunk], []
+                matches.update(dedupe(part, rows, runner, failed))
+                if failed:
+                    continue
+                for r in part:
+                    r["deduped"] = True
+                checked += len(part)
+    finally:
+        write_rows(path, rows)
+        apply_duplicates(path, matches)
+    return checked
 
 
 def write_rows(path, rows):
@@ -302,9 +334,10 @@ def build_enrich_prompt(rows):
     return (PROMPTS / "enrich.md").read_text().format(topics=", ".join(TOPICS), questions=qs)
 
 
-def enrich(path=QUESTIONS, runner=run_claude, problems=None, batch_size=ENRICH_BATCH, limit=None):
+def enrich(path=QUESTIONS, runner=None, problems=None, batch_size=ENRICH_BATCH, limit=None):
     """Re-tag existing questions with the current topic list and LeetCode matches. Saves after
     every batch and skips rows already done, so it can stop (usage limit) and resume."""
+    runner = runner or (lambda prompt, schema: run_claude(prompt, schema, model=MODELS["enrich"]))
     rows = normalize_rows(read_jsonl(path))  # also applies newer name aliases
     todo = [r for r in rows if not r["duplicate_of"] and r.get("rev", 1) < REV]
     if limit is not None:
@@ -359,14 +392,18 @@ def main(argv=None):
         log(f"dedupe-all: {len(dupes)} reposts folded into originals")
         return 0
     archive, state = Archive(ARCHIVE), load_state(STATE)
-    new_rows, stopped = [], None
+    before, stopped = len(read_jsonl(QUESTIONS)), None
     try:
-        new_rows = sort_pending(archive, state, limit=args.limit,
-                                save=lambda: save_state(STATE, state), problems=leetcode.load())
-        if new_rows:
-            apply_duplicates(QUESTIONS, dedupe(new_rows, read_jsonl(QUESTIONS)))
+        sort_pending(archive, state, limit=args.limit,
+                     save=lambda: save_state(STATE, state), problems=leetcode.load())
     except UsageLimit as e:
         stopped = str(e)[:80]
+        log(f"stopped early: {e}")
+    new_rows = read_jsonl(QUESTIONS)[before:]
+    try:
+        dedupe_pending()  # also picks up rows left unchecked by earlier stopped runs
+    except UsageLimit as e:
+        stopped = stopped or str(e)[:80]
         log(f"stopped early: {e}")
     fresh = Counter(r["company"] for r in new_rows)
     summary = ", ".join(f"{c} {n}" for c, n in fresh.most_common(5))

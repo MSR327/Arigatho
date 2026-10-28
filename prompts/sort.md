@@ -6,14 +6,19 @@ IIT Delhi, NITR = NIT Rourkela, KGP/IITKGP = IIT Kharagpur). A message may be a 
 replied-to text is shown), and may have an attachment path. Attachments are screenshots or
 PDFs of OA questions: open them with the Read tool and transcribe the questions.
 
-{group}
+Messages are listed under the OAHelper group they were posted in: a "── Posted in: ... ──" line starts each group and says what kind of group it is (a company's OA group fixes the company, a campus group the college, unless a message says otherwise).
 
 Poster tags: IITK is used by students of both IIT Kharagpur and IIT Kanpur, so on its own it does
 not say which; use the group, the message or the replied-to text, and if nothing tells them apart
 use "IIT Kharagpur/Kanpur".
 
-Find every message (or group of consecutive messages) that actually shares OA questions.
-Ignore requests ("anyone has X OA?"), greetings, results, referrals and other chatter.
+Find every message (or group of consecutive messages) that shares questions from a company's
+hiring process, for ANY role: software, data and analytics, product, consulting, finance and
+quant, core engineering (electrical, electronics, mechanical, chemical, civil...), or anything
+else. Online tests, interview rounds (technical, HR, case, guesstimate, puzzle) and group
+discussion topics all count, and so does a description of what a test or round contained.
+Ignore requests ("anyone has X OA?"), greetings, results and shortlists, referrals and other
+chatter.
 For each share, return:
 - company: the hiring company. Reuse one of these existing names when it matches: {companies}
 - college: full canonical name of the campus where the OA was held, e.g. "IIT Kharagpur",
@@ -24,6 +29,10 @@ For each share, return:
 - role: "intern" if the message or the replied-to text mentions an internship (intern, SDE
   intern, summer intern); otherwise "fte" (full-time), because these are placement groups.
   Use "unknown" only for prep material not tied to one hiring drive.
+- position: the job title if mentioned ("SDE", "Data Analyst", "Analog Design", "Product
+  Manager"...), else "".
+- round: "oa" for an online test, "interview" for an interview or group discussion, "other" if
+  unclear.
 - source_ids: ids of the messages this share came from.
 - questions: one entry per question:
   - title: a short, specific title ("Longest substring without repeats", not "Coding Q1").

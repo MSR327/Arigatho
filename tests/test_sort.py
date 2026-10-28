@@ -1,7 +1,7 @@
 import pytest
 
 from oa.common import append_jsonl, read_jsonl
-from oa.sort import (ClaudeError, UsageLimit, apply_duplicates, build_batch_prompt, dedupe,
+from oa.sort import (ClaudeError, UsageLimit, apply_duplicates, build_batch_prompt, dedupe, dedupe_pending,
                      format_message, is_sortable, normalize_rows, sort_pending, to_questions)
 from oa.store import Archive
 
@@ -216,13 +216,18 @@ def test_group_context_and_rank():
     assert order == ["accenture-oa", "campus-iit-kharagpur-placements", "inter-iit", "campus-iit-delhi-placements"]
 
 
-def test_sort_pending_batches_one_group_at_a_time(tmp_path, monkeypatch):
+def _two_group_archive(tmp_path, monkeypatch):
     import oa.sort as sort_mod
     monkeypatch.setattr(sort_mod, "load_groups", lambda: {
         "acc": {"name": "Accenture OA", "company": "Accenture", "role": "OA preparation"},
         "inter-iit": {"name": "Placement '26 OA", "company": "Placement 2026", "role": None}})
     archive = Archive(tmp_path / "archive")
     archive.add([dict(rec(i, f"msg {i}"), group="inter-iit" if i % 2 else "acc") for i in range(1, 7)])
+    return archive
+
+
+def test_sort_pending_fills_batches_across_groups(tmp_path, monkeypatch):
+    archive = _two_group_archive(tmp_path, monkeypatch)
     prompts = []
 
     def runner(prompt, schema):
@@ -231,6 +236,60 @@ def test_sort_pending_batches_one_group_at_a_time(tmp_path, monkeypatch):
 
     state = {"groups": {}, "sorted_ids": []}
     sort_pending(archive, state, runner=runner, batch_size=10, questions_path=tmp_path / "q.jsonl")
-    assert len(prompts) == 2  # one batch per group, company group first
-    assert "group for Accenture OAs" in prompts[0] and "[2]" in prompts[0] and "[1]" not in prompts[0]
-    assert "Placement '26 OA" in prompts[1] and sorted(state["sorted_ids"]) == [1, 2, 3, 4, 5, 6]
+    assert len(prompts) == 1
+    p = prompts[0]
+    acc, inter = p.index("group for Accenture OAs"), p.index("OAHelper group \"Placement '26 OA\"")
+    assert p.count("\n── Posted in:") == 2 and acc < inter
+    for i in (2, 4, 6):
+        assert acc < p.index(f"[{i}] ") < inter
+    for i in (1, 3, 5):
+        assert p.index(f"[{i}] ") > inter
+    assert sorted(state["sorted_ids"]) == [1, 2, 3, 4, 5, 6]
+
+
+def test_sort_pending_cuts_batches_at_batch_size(tmp_path, monkeypatch):
+    archive = _two_group_archive(tmp_path, monkeypatch)
+    prompts = []
+    sort_pending(archive, {"groups": {}, "sorted_ids": []},
+                 runner=lambda prompt, schema: prompts.append(prompt) or {"shares": []},
+                 batch_size=4, questions_path=tmp_path / "q.jsonl")
+    assert len(prompts) == 2
+
+
+def test_dedupe_pending_folds_new_reposts_and_marks_checked(tmp_path):
+    p = tmp_path / "q.jsonl"
+    old = q("1-1", "Amazon", "Two sum")
+    new = [dict(q("9-1", "Amazon", "Two Sum again"), deduped=False),
+           dict(q("9-2", "Amazon", "Max flow"), deduped=False)]
+    append_jsonl(p, [old] + new)
+    runner = lambda pr, s: {"matches": [{"qid": "9-1", "duplicate_of": "1-1"}]}
+    assert dedupe_pending(p, runner=runner) == 2
+    rows = read_jsonl(p)
+    assert [r["duplicate_of"] for r in rows] == [None, "1-1", None]
+    assert [r.get("deduped") for r in rows] == [None, True, True]
+
+
+def test_dedupe_pending_saves_progress_on_usage_limit(tmp_path):
+    p = tmp_path / "q.jsonl"
+    append_jsonl(p, [q("1-1", "Amazon", "Two sum"),
+                     dict(q("9-1", "Amazon", "Two sum again"), deduped=False),
+                     q("2-1", "Google", "LRU"), dict(q("8-1", "Google", "LRU again"), deduped=False)])
+
+    def runner(prompt, schema):
+        if "LRU again" in prompt:
+            raise UsageLimit("limit")
+        return {"matches": [{"qid": "9-1", "duplicate_of": "1-1"}]}
+
+    with pytest.raises(UsageLimit):
+        dedupe_pending(p, runner=runner)
+    rows = {r["qid"]: r for r in read_jsonl(p)}
+    assert rows["9-1"]["duplicate_of"] == "1-1" and rows["9-1"]["deduped"] is True
+    assert rows["8-1"]["deduped"] is False
+
+
+def test_dedupe_pending_ignores_rows_without_flag(tmp_path):
+    p = tmp_path / "q.jsonl"
+    append_jsonl(p, [q("1-1", "Amazon", "a"), q("2-1", "Amazon", "b")])
+    calls = []
+    assert dedupe_pending(p, runner=lambda pr, s: calls.append(pr)) == 0
+    assert calls == [] and all("deduped" not in r for r in read_jsonl(p))

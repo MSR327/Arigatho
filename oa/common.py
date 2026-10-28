@@ -25,6 +25,9 @@ GROUPS_FILE = DATA / "groups.json"  # name, company/college and kind of each gro
 BACKFILL_FROM = "2026-07-20"
 REQUEST_GAP = 1.0  # seconds between requests to oahelper.in
 BATCH_SIZE = 40  # messages per claude -p call
+# Cheapest model that does each job well, to spare the Claude plan: sorting reads screenshots and
+# whole conversations; matching reposts and re-tagging are simple text comparisons.
+MODELS = {"sort": "sonnet", "dedupe": "haiku", "enrich": "haiku"}
 KEYCHAIN_SERVICE = "oa-tracker"
 
 # Grouped for the README; TOPICS (the flat list Claude chooses from) is built from these.
@@ -36,7 +39,8 @@ TOPIC_GROUPS = {
                       "Python & Pandas", "ML/AI", "Web Dev", "Software Engineering"],
     "EE & core": ["Circuits", "Analog Electronics", "Digital Electronics", "Signals & Systems",
                   "Control Systems", "Communication", "Mechanical"],
-    "General": ["Aptitude", "Verbal", "OA Format", "Other"],
+    "Finance & business": ["Finance", "Guesstimates & Cases"],
+    "General": ["Aptitude", "Verbal", "Puzzles", "HR & Behavioral", "OA Format", "Other"],
 }
 TOPICS = [t for group in TOPIC_GROUPS.values() for t in group]
 
