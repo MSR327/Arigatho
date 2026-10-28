@@ -1,6 +1,6 @@
 # OA Questions Tracker
 
-**1200 questions · 62 companies · 34 colleges** · updated 29 Oct 2026, 02:16
+**1203 questions · 62 companies · 34 colleges** · updated 29 Oct 2026, 02:17
 
 [New this week](#new-this-week) · [Companies](#companies) · [Topics](#topics) · [Colleges](#colleges) · [LeetCode practice list](practice.md)
 
@@ -154,6 +154,7 @@ Read daily from 186 OAHelper groups: 112 company OA groups, 70 campus groups, an
 | [Nielsen](companies/nielsen.md) | 5 | Strings, Graphs, Stack/Queue | VIT Vellore | 2026-10-13 |
 | [Silicon Labs](companies/silicon-labs.md) | 5 | OA Format, Sorting, Arrays | Unknown | 2026-09-21 |
 | [Calix](companies/calix.md) | 4 | OA Format, DP, Math | IIT Dhanbad | 2026-09-22 |
+| [ICICI](companies/icici.md) | 4 | OA Format, HR & Behavioral | IIT Guwahati, MNNIT Allahabad, NIT Trichy | 2026-10-18 |
 | [Juspay](companies/juspay.md) | 4 | Other, Trees, Hashing | IIIT Allahabad, IIT BHU, MNNIT Allahabad | 2026-10-24 |
 | [Nvidia](companies/nvidia.md) | 4 | Stack/Queue, OS/DBMS/CN MCQ, OA Format | MNNIT Allahabad | 2026-10-26 |
 | [Pace Stock](companies/pace-stock.md) | 4 | Math, Greedy, Bit Manipulation | IIT Kharagpur | 2026-10-06 |
@@ -173,7 +174,6 @@ Read daily from 186 OAHelper groups: 112 company OA groups, 70 campus groups, an
 | [Capital One](companies/capital-one.md) | 1 | OA Format | IIT BHU | 2026-10-22 |
 | [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md) | 1 | OA Format, ML/AI | IIT BHU | 2026-10-25 |
 | [Humming Wave](companies/humming-wave.md) | 1 | OA Format | IIT Delhi | 2026-10-12 |
-| [ICICI](companies/icici.md) | 1 | OA Format | IIT Guwahati | 2026-10-18 |
 | [Slice](companies/slice.md) | 1 | Aptitude, OA Format | MNNIT Allahabad | 2026-10-22 |
 | [Straive](companies/straive.md) | 1 | OA Format | IIT Guwahati | 2026-10-16 |
 | [ThoughtSpot](companies/thoughtspot.md) | 1 | Greedy, Sorting | IIT BHU | 2026-10-26 |
@@ -184,7 +184,7 @@ Read daily from 186 OAHelper groups: 112 company OA groups, 70 campus groups, an
 **CS & software:** [SQL](topics/sql.md) 81 · [OS/DBMS/CN MCQ](topics/os-dbms-cn-mcq.md) 172 · [OOP](topics/oop.md) 22 · [Code Output (C/C++/Java/Python)](topics/code-output-c-c-java-python.md) 42 · [Python & Pandas](topics/python-pandas.md) 35 · [ML/AI](topics/ml-ai.md) 46 · [Web Dev](topics/web-dev.md) 54 · [Software Engineering](topics/software-engineering.md) 45  
 **EE & core:** [Circuits](topics/circuits.md) 12 · [Analog Electronics](topics/analog-electronics.md) 15 · [Digital Electronics](topics/digital-electronics.md) 27 · [Signals & Systems](topics/signals-systems.md) 5 · [Control Systems](topics/control-systems.md) 1 · [Mechanical](topics/mechanical.md) 39  
 **Finance & business:** [Finance](topics/finance.md) 3 · [Guesstimates & Cases](topics/guesstimates-cases.md) 2  
-**General:** [Aptitude](topics/aptitude.md) 175 · [Verbal](topics/verbal.md) 30 · [Puzzles](topics/puzzles.md) 11 · [HR & Behavioral](topics/hr-behavioral.md) 4 · [OA Format](topics/oa-format.md) 194 · [Other](topics/other.md) 31  
+**General:** [Aptitude](topics/aptitude.md) 175 · [Verbal](topics/verbal.md) 30 · [Puzzles](topics/puzzles.md) 11 · [HR & Behavioral](topics/hr-behavioral.md) 5 · [OA Format](topics/oa-format.md) 196 · [Other](topics/other.md) 31  
 
 ## Colleges
 
@@ -213,7 +213,7 @@ Read daily from 186 OAHelper groups: 112 company OA groups, 70 campus groups, an
 | IIT Mandi | American Express (3), Eternal (Zomato) (1) |
 | IIT Roorkee | Accenture (59), Eternal (Zomato) (15), Alight Solutions (6), American Express (5), Squarepoint (2), InMobi (1), Harness (1), InfoEdge (1), Google (1) |
 | MANIT Bhopal | Accenture (1) |
-| MNNIT Allahabad | Reliance (94), Accenture (52), Futures First (31), Harness (19), IBM (5), Nvidia (4), American Express (2), Flipkart (1), Slice (1), InfoEdge (1), Apple (1), Cisco (1), Deloitte (1) |
+| MNNIT Allahabad | Reliance (94), Accenture (52), Futures First (31), Harness (19), IBM (5), Nvidia (4), American Express (2), ICICI (2), Flipkart (1), Slice (1), InfoEdge (1), Apple (1), Cisco (1), Deloitte (1) |
 | NIT Delhi | Accenture (8) |
 | NIT Karnataka Surathkal | Eternal (Zomato) (1) |
 | NIT Kurukshetra | Eternal (Zomato) (2) |
@@ -221,7 +221,7 @@ Read daily from 186 OAHelper groups: 112 company OA groups, 70 campus groups, an
 | NIT Rourkela | Harness (1), Accenture (1) |
 | NIT Silchar | Accenture (1) |
 | NIT Surathkal | Harness (2) |
-| NIT Trichy | Capgemini (4), Blinkit (2) |
+| NIT Trichy | Capgemini (4), Blinkit (2), ICICI (1) |
 | NIT Warangal | Accenture (2) |
 | Netaji Subhas University of Technology | Media.net (1) |
 | SVNIT Surat | Axxela (6) |

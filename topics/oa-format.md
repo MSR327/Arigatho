@@ -1,6 +1,6 @@
 # OA Format
 
-194 questions from 41 companys, newest first. [← all topics](../README.md#topics)
+196 questions from 41 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -146,9 +146,11 @@
 | 2026-10-04 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [MCQ and case-study sections](../companies/alight-solutions.md#q2-mcq-and-case-study-sections) |
 | 2026-10-03 | [Accenture](../companies/accenture.md) | NIT Patna | [Accenture OA question topics (DSA and web dev)](../companies/accenture.md#q1-accenture-oa-question-topics-dsa-and-web-dev) |
 | 2026-10-02 | [Accenture](../companies/accenture.md) | NIT Patna | [Accenture OA pattern (ATE / Advanced Application Engineering)](../companies/accenture.md#q1-accenture-oa-pattern-ate--advanced-application-engineering) |
+| 2026-10-01 | [ICICI](../companies/icici.md) | NIT Trichy | [ICICI OA format and topics](../companies/icici.md#q1-icici-oa-format-and-topics) |
 | 2026-10-01 | [Accenture](../companies/accenture.md) | IIT BHU | [Accenture OA pattern: no DSA, front end/back end/SQL](../companies/accenture.md#q1-accenture-oa-pattern-no-dsa-front-endback-endsql) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [OA format: SDE OA](../companies/eternal-zomato.md#q3-oa-format-sde-oa) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [OA format: PA OA (aptitude, SQL, Python/Pandas)](../companies/eternal-zomato.md#q2-oa-format-pa-oa-aptitude-sql-pythonpandas) |
+| 2026-09-29 | [ICICI](../companies/icici.md) | MNNIT Allahabad | [ICICI OA format and topics](../companies/icici.md#q1-icici-oa-format-and-topics-1) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [OA pattern: 15 MCQs on OS, DBMS, SQL, CN, Docker](../companies/eternal-zomato.md#q1-oa-pattern-15-mcqs-on-os-dbms-sql-cn-docker) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [OA format: PA role OA](../companies/eternal-zomato.md#q1-oa-format-pa-role-oa) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format) |
