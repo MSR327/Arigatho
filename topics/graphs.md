@@ -1,12 +1,16 @@
 # Graphs
 
-48 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+52 questions from 22 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Count non-path triplets in a tree](../companies/eternal-zomato.md#q2-count-non-path-triplets-in-a-tree) | |
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Optimal building placement minimizing max distance](../companies/eternal-zomato.md#q1-optimal-building-placement-minimizing-max-distance) | |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q3-minimum-sum-assignment-on-a-tree) | |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Mean hops in a complete binary tree of 15 routers](../companies/deloitte.md#q21-mean-hops-in-a-complete-binary-tree-of-15-routers) | |
 | 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | [Max Common Friends Non-Friend](../companies/visa.md#q5-max-common-friends-non-friend) | |
 | 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | [Remove Node to Minimise Infection in Tree](../companies/visa.md#q3-remove-node-to-minimise-infection-in-tree) | |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q3-minimum-sum-assignment-on-a-tree-1) | |
 | 2026-10-24 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Service Engineer (minimum days to finish all servicing)](../companies/flipkart.md#q3-service-engineer-minimum-days-to-finish-all-servicing) | |
 | 2026-10-24 | [Visa](../companies/visa.md) | IIT BHU | [Minimum Score of a Path Between Two Cities](../companies/visa.md#q1-minimum-score-of-a-path-between-two-cities) | [2492](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) Medium |
 | 2026-10-22 | [InMobi](../companies/inmobi.md) | IIT Delhi | [Graph dependencies problem](../companies/inmobi.md#q2-graph-dependencies-problem) | |
@@ -36,7 +40,7 @@
 | 2026-10-06 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Remove at most one node to maximize uninfected nodes](../companies/eternal-zomato.md#q3-remove-at-most-one-node-to-maximize-uninfected-nodes) | |
 | 2026-10-06 | [Pace Stock](../companies/pace-stock.md) | IIT Kharagpur | [Server connectivity via GCD > 1](../companies/pace-stock.md#q4-server-connectivity-via-gcd--1) | [952](https://leetcode.com/problems/largest-component-size-by-common-factor/) Hard |
 | 2026-10-06 | [Eternal (Zomato)](../companies/eternal-zomato.md) | NIT Kurukshetra | [Count node pairs whose shortest path costs at least 1 in a 0/1 weighted graph](../companies/eternal-zomato.md#q1-count-node-pairs-whose-shortest-path-costs-at-least-1-in-a-01-weighted-graph) | |
-| 2026-10-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q3-minimum-sum-assignment-on-a-tree) | |
+| 2026-10-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q3-minimum-sum-assignment-on-a-tree-2) | |
 | 2026-10-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum Sum Assignment on a Tree](../companies/eternal-zomato.md#q1-minimum-sum-assignment-on-a-tree) | |
 | 2026-10-02 | [Squarepoint](../companies/squarepoint.md) | IIT Roorkee | [Get Node To Remove (Flexport problem on FastPrep)](../companies/squarepoint.md#q1-get-node-to-remove-flexport-problem-on-fastprep) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Snowflake OA graph problem (LeetCode Discuss 4062769)](../companies/eternal-zomato.md#q2-snowflake-oa-graph-problem-leetcode-discuss-4062769) | |

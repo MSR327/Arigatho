@@ -1,9 +1,15 @@
 # DP
 
-51 questions from 21 companys, newest first. [← all topics](../README.md#topics)
+57 questions from 21 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Minimum cost to make adjacent prices distinct](../companies/eternal-zomato.md#q1-minimum-cost-to-make-adjacent-prices-distinct) | |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Interview follow-ups on Fruit Selection with Discount Coupons](../companies/eternal-zomato.md#q2-interview-follow-ups-on-fruit-selection-with-discount-coupons) | |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Fruit selection with discount coupons](../companies/eternal-zomato.md#q2-fruit-selection-with-discount-coupons) | |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Paint houses with symmetric constraint](../companies/eternal-zomato.md#q3-paint-houses-with-symmetric-constraint) | |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Count subsequences of a length-3 string](../companies/eternal-zomato.md#q2-count-subsequences-of-a-length-3-string) | |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Fruit selection with discount coupons](../companies/eternal-zomato.md#q2-fruit-selection-with-discount-coupons-1) | |
 | 2026-10-25 | [NatWest](../companies/natwest.md) | IIT BHU | [DSA questions: sorting + pick/not-pick DP](../companies/natwest.md#q1-dsa-questions-sorting--picknot-pick-dp) | |
 | 2026-10-24 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Service Engineer (minimum days to finish all servicing)](../companies/flipkart.md#q3-service-engineer-minimum-days-to-finish-all-servicing) | |
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur/Kanpur | [Edit the Filename](../companies/mastercard.md#q1-edit-the-filename) | [72](https://leetcode.com/problems/edit-distance/) Medium |
@@ -39,7 +45,7 @@
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Codeforces 1324F (tree problem)](../companies/eternal-zomato.md#q1-codeforces-1324f-tree-problem) | |
 | 2026-10-06 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Maximum connected value for every node in a tree](../companies/eternal-zomato.md#q2-maximum-connected-value-for-every-node-in-a-tree) | |
 | 2026-10-05 | [InMobi](../companies/inmobi.md) | IIT BHU | [Campaign Wave Analyzer](../companies/inmobi.md#q2-campaign-wave-analyzer) | [3640](https://leetcode.com/problems/trionic-array-ii/) Hard |
-| 2026-10-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Fruit selection with discount coupons](../companies/eternal-zomato.md#q2-fruit-selection-with-discount-coupons) | |
+| 2026-10-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Fruit selection with discount coupons](../companies/eternal-zomato.md#q2-fruit-selection-with-discount-coupons-2) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Maximize Total Tastiness of Purchased Fruits (LeetCode 2431)](../companies/eternal-zomato.md#q1-maximize-total-tastiness-of-purchased-fruits-leetcode-2431) | [2431](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/) Medium |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Fruit selection with discount coupons](../companies/eternal-zomato.md#q4-fruit-selection-with-discount-coupons) | [2431](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/) Medium |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Total energy of all subsequences (subset sum K)](../companies/eternal-zomato.md#q5-total-energy-of-all-subsequences-subset-sum-k) | [3082](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/) Hard |

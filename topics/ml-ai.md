@@ -1,6 +1,6 @@
 # ML/AI
 
-44 questions from 13 companys, newest first. [← all topics](../README.md#topics)
+46 questions from 13 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -12,6 +12,8 @@
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - Technical section](../companies/american-express.md#q3-amex-ds--analytics---technical-section) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [What happens to weights during neural network training](../companies/deloitte.md#q24-what-happens-to-weights-during-neural-network-training) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Train/validation/test performance gap](../companies/deloitte.md#q22-trainvalidationtest-performance-gap) |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [OA structure and MCQ topics](../companies/eternal-zomato.md#q4-oa-structure-and-mcq-topics) |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [DS role OA pattern](../companies/eternal-zomato.md#q1-ds-role-oa-pattern) |
 | 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | [OA pattern (Data Science/Data Engineer): 3 coding tasks](../companies/american-express.md#q4-oa-pattern-data-sciencedata-engineer-3-coding-tasks) |
 | 2026-10-25 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT BHU | [OA pattern (from seniors): ML/DL/GenAI MCQs + 2 DSA](../companies/commonwealth-bank-of-australia.md#q1-oa-pattern-from-seniors-mldlgenai-mcqs--2-dsa) |
 | 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | [CNN Image Classification Model](../companies/american-express.md#q2-cnn-image-classification-model) |

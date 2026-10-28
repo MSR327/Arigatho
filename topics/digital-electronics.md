@@ -1,9 +1,10 @@
 # Digital Electronics
 
-26 questions from 3 companys, newest first. [← all topics](../README.md#topics)
+27 questions from 4 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-27 | [IBM](../companies/ibm.md) | IIT Kanpur | [IBM hardware role test pattern](../companies/ibm.md#q1-ibm-hardware-role-test-pattern) |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [8085 program: register C and carry flag](../companies/qualcomm.md#q28-8085-program-register-c-and-carry-flag) |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [VLSI design methodology choice](../companies/qualcomm.md#q26-vlsi-design-methodology-choice) |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [JK flip-flop counter: J1 and K1](../companies/qualcomm.md#q25-jk-flip-flop-counter-j1-and-k1) |

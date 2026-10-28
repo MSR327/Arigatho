@@ -1,12 +1,18 @@
 # Aptitude
 
-130 questions from 13 companys, newest first. [← all topics](../README.md#topics)
+175 questions from 14 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Boat and stream round trip distance](../companies/eternal-zomato.md#q2-boat-and-stream-round-trip-distance) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [Data Science track MCQ pattern](../companies/american-express.md#q4-data-science-track-mcq-pattern) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - LR/DI section](../companies/american-express.md#q2-amex-ds--analytics---lrdi-section) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - Numerical Ability section](../companies/american-express.md#q1-amex-ds--analytics---numerical-ability-section) |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Probability it snowed given father's claim](../companies/eternal-zomato.md#q6-probability-it-snowed-given-fathers-claim) |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Cube with red and blue faces cut into 729 cubes](../companies/eternal-zomato.md#q5-cube-with-red-and-blue-faces-cut-into-729-cubes) |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Normal distribution probability above 55](../companies/eternal-zomato.md#q4-normal-distribution-probability-above-55) |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Highest power of 24 dividing 150!](../companies/eternal-zomato.md#q3-highest-power-of-24-dividing-150) |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Binomial mean and variance of archer's hits](../companies/eternal-zomato.md#q2-binomial-mean-and-variance-of-archers-hits) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Surface area of a cube with a square tunnel](../companies/deloitte.md#q19-surface-area-of-a-cube-with-a-square-tunnel) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Profit percentage: 23 articles bought for ₹8, sold for ₹10](../companies/deloitte.md#q18-profit-percentage-23-articles-bought-for-8-sold-for-10) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Two circles with radii ratio 5:3 and tangent from P](../companies/deloitte.md#q17-two-circles-with-radii-ratio-53-and-tangent-from-p) |
@@ -83,7 +89,31 @@
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [DI: Yahoo/Gmail/Rediffmail Venn diagram](../companies/rystad-energy.md#q22-di-yahoogmailrediffmail-venn-diagram) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [DI: years with ≥25% revenue growth for PQR](../companies/rystad-energy.md#q21-di-years-with-25-revenue-growth-for-pqr) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [DI: BSF share of Indian Defence Service joiners](../companies/rystad-energy.md#q20-di-bsf-share-of-indian-defence-service-joiners) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Line graph: increase in votes for C to change ratio](../companies/futures-first.md#q11-line-graph-increase-in-votes-for-c-to-change-ratio) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Line graph: ratio of percentage declines B vs C](../companies/futures-first.md#q10-line-graph-ratio-of-percentage-declines-b-vs-c) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Line graph: votes for A and C vs B and D](../companies/futures-first.md#q9-line-graph-votes-for-a-and-c-vs-b-and-d) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: increasing-count positions](../companies/futures-first.md#q8-queue-of-researchers-increasing-count-positions) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: in front of second-highest](../companies/futures-first.md#q7-queue-of-researchers-in-front-of-second-highest) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: how many submitted more than Aarav](../companies/futures-first.md#q6-queue-of-researchers-how-many-submitted-more-than-aarav) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: highest reports](../companies/futures-first.md#q5-queue-of-researchers-highest-reports) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Number series 162, 149, 123, 118, 84, 71](../companies/futures-first.md#q4-number-series-162-149-123-118-84-71) |
+| 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Number puzzle in connected boxes](../companies/axxela.md#q6-number-puzzle-in-connected-boxes) |
+| 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Complete the figure series (grid with dots and squares)](../companies/axxela.md#q5-complete-the-figure-series-grid-with-dots-and-squares) |
+| 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Count the rectangles in the figure](../companies/axxela.md#q4-count-the-rectangles-in-the-figure) |
+| 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Letter coding: MOBILE to CHARGE](../companies/axxela.md#q3-letter-coding-mobile-to-charge) |
+| 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Distance and direction after walking](../companies/axxela.md#q2-distance-and-direction-after-walking) |
+| 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Mean of fifteen different natural numbers](../companies/axxela.md#q1-mean-of-fifteen-different-natural-numbers) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Figure matrix completion](../companies/futures-first.md#q3-figure-matrix-completion) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Trains crossing two walking persons](../companies/futures-first.md#q2-trains-crossing-two-walking-persons) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Chord length with points A and B](../companies/futures-first.md#q1-chord-length-with-points-a-and-b) |
 | 2026-10-14 | [NatWest](../companies/natwest.md) | IIT BHU | [Other Sections (Behavioural, Reasoning, SQL MCQ)](../companies/natwest.md#q3-other-sections-behavioural-reasoning-sql-mcq) |
+| 2026-10-13 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue positioning: highest reports](../companies/futures-first.md#q6-queue-positioning-highest-reports) |
+| 2026-10-13 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Portfolio valuation](../companies/futures-first.md#q5-portfolio-valuation) |
+| 2026-10-13 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Recurrence d_m = d_{m+1} + (m+1)](../companies/futures-first.md#q4-recurrence-d_m--d_m1--m1) |
+| 2026-10-13 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Exponential product inequality](../companies/futures-first.md#q3-exponential-product-inequality) |
+| 2026-10-13 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Trading cards distribution](../companies/futures-first.md#q2-trading-cards-distribution) |
+| 2026-10-13 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Chord length in a circle](../companies/futures-first.md#q1-chord-length-in-a-circle) |
+| 2026-10-13 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Speed Math section (15 questions)](../companies/futures-first.md#q1-speed-math-section-15-questions) |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Bayes: did it snow last night?](../companies/eternal-zomato.md#q5-bayes-did-it-snow-last-night) |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Painted cube: red and blue faces](../companies/eternal-zomato.md#q4-painted-cube-red-and-blue-faces) |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Normal distribution: P(mean > 55)](../companies/eternal-zomato.md#q3-normal-distribution-pmean--55) |
@@ -122,14 +152,29 @@
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | [HACKER arrangements with vowels together](../companies/eternal-zomato.md#q9-hacker-arrangements-with-vowels-together) |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | [Relative performance using normal distribution](../companies/eternal-zomato.md#q6-relative-performance-using-normal-distribution) |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | [Cube painted green cut into 1000 cubes](../companies/eternal-zomato.md#q1-cube-painted-green-cut-into-1000-cubes) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Difference of squares of decimals](../companies/futures-first.md#q15-difference-of-squares-of-decimals) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Square root of 12321](../companies/futures-first.md#q14-square-root-of-12321-1) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Cricket run rate](../companies/futures-first.md#q13-cricket-run-rate) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Multiply and divide](../companies/futures-first.md#q12-multiply-and-divide) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Percentage of 875](../companies/futures-first.md#q11-percentage-of-875) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Decimal multiplication](../companies/futures-first.md#q10-decimal-multiplication) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Cube equation, find x](../companies/futures-first.md#q9-cube-equation-find-x) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Sum of three numbers](../companies/futures-first.md#q8-sum-of-three-numbers) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Convert USD to INR](../companies/futures-first.md#q7-convert-usd-to-inr) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Cost price after discount and profit](../companies/futures-first.md#q6-cost-price-after-discount-and-profit) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Difference of squares 999 and 998](../companies/futures-first.md#q5-difference-of-squares-999-and-998) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Sum and difference of cubes](../companies/futures-first.md#q4-sum-and-difference-of-cubes) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Simple interest on 75,000](../companies/futures-first.md#q3-simple-interest-on-75000) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Sum of two divisions](../companies/futures-first.md#q2-sum-of-two-divisions) |
+| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Sum of repeated 8s](../companies/futures-first.md#q1-sum-of-repeated-8s) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Logical Reasoning: Friday Prime](../companies/infoedge.md#q8-logical-reasoning-friday-prime) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Logical Reasoning: Circle Map (seating)](../companies/infoedge.md#q7-logical-reasoning-circle-map-seating) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Simple interest capital](../companies/infoedge.md#q6-simple-interest-capital) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Petrol replaced by kerosene (mixtures)](../companies/infoedge.md#q2-petrol-replaced-by-kerosene-mixtures) |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Probability it snowed given father's claim](../companies/eternal-zomato.md#q6-probability-it-snowed-given-fathers-claim) |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Probability it snowed given father's claim](../companies/eternal-zomato.md#q6-probability-it-snowed-given-fathers-claim-1) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Painted cube with red and blue faces](../companies/eternal-zomato.md#q5-painted-cube-with-red-and-blue-faces) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Probability sample mean exceeds 55 (normal distribution)](../companies/eternal-zomato.md#q4-probability-sample-mean-exceeds-55-normal-distribution) |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Highest power of 24 dividing 150!](../companies/eternal-zomato.md#q3-highest-power-of-24-dividing-150) |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Highest power of 24 dividing 150!](../companies/eternal-zomato.md#q3-highest-power-of-24-dividing-150-1) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Mean and variance of archer's successful attempts](../companies/eternal-zomato.md#q1-mean-and-variance-of-archers-successful-attempts) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Aptitude: linear equations and zeros in 100!](../companies/eternal-zomato.md#q2-aptitude-linear-equations-and-zeros-in-100) |
 | 2026-09-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Aptitude section (Product Analyst)](../companies/eternal-zomato.md#q1-aptitude-section-product-analyst) |

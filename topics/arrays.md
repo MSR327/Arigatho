@@ -1,24 +1,31 @@
 # Arrays
 
-101 questions from 39 companys, newest first. [← all topics](../README.md#topics)
+108 questions from 40 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Minimum increase in experience multiplier](../companies/accenture.md#q1-minimum-increase-in-experience-multiplier) | |
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Indore | [Count numbers whose first and last digits sum to 9](../companies/accenture.md#q1-count-numbers-whose-first-and-last-digits-sum-to-9) | |
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Index of the kth largest element to the right](../companies/eternal-zomato.md#q2-index-of-the-kth-largest-element-to-the-right) | |
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Minimum cost to make adjacent prices distinct](../companies/eternal-zomato.md#q1-minimum-cost-to-make-adjacent-prices-distinct) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Pseudocode: average marks after adding 5 to those below 40](../companies/deloitte.md#q2-pseudocode-average-marks-after-adding-5-to-those-below-40) | |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Interview follow-ups on Second Most Frequent Element](../companies/eternal-zomato.md#q1-interview-follow-ups-on-second-most-frequent-element) | |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element) | |
 | 2026-10-27 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Next number with multiplicative persistence 1](../companies/accenture.md#q1-next-number-with-multiplicative-persistence-1) | |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Maximise score by rearranging b](../companies/eternal-zomato.md#q1-maximise-score-by-rearranging-b) | |
 | 2026-10-25 | [NatWest](../companies/natwest.md) | IIT Guwahati | [Largest Odd-Sized Palindromic Square Submatrix](../companies/natwest.md#q2-largest-odd-sized-palindromic-square-submatrix) | |
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur/Kanpur | [Mario and the Number Mountain](../companies/mastercard.md#q2-mario-and-the-number-mountain) | |
 | 2026-10-24 | [Wayfair](../companies/wayfair.md) | IIT BHU | [LIS-based problem](../companies/wayfair.md#q1-lis-based-problem) | |
+| 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kanpur | [Easy DSA question](../companies/ibm.md#q1-easy-dsa-question) | |
 | 2026-10-24 | [Accenture](../companies/accenture.md) | IIT BHU | [First element whose neighbours are both prime](../companies/accenture.md#q1-first-element-whose-neighbours-are-both-prime) | |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | [Max Distance from Non-Celebrating House to Celebrating House](../companies/flipkart.md#q2-max-distance-from-non-celebrating-house-to-celebrating-house) | [849](https://leetcode.com/problems/maximize-distance-to-closest-person/) Medium |
 | 2026-10-21 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Second most frequent element](../companies/eternal-zomato.md#q2-second-most-frequent-element) | |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Cherry Pickup II (LeetCode 1463)](../companies/accelequant.md#q1-cherry-pickup-ii-leetcode-1463) | [1463](https://leetcode.com/problems/cherry-pickup-ii/) Hard |
+| 2026-10-20 | [IBM](../companies/ibm.md) | MNNIT Allahabad | [In-person coding round: two easy-medium DSA questions](../companies/ibm.md#q1-in-person-coding-round-two-easy-medium-dsa-questions) | |
 | 2026-10-20 | [Capgemini](../companies/capgemini.md) | IIT Delhi | [Frequency of each integer in an array](../companies/capgemini.md#q4-frequency-of-each-integer-in-an-array) | |
 | 2026-10-20 | [Capgemini](../companies/capgemini.md) | IIT Delhi | [Spiral matrix traversal](../companies/capgemini.md#q3-spiral-matrix-traversal) | [54](https://leetcode.com/problems/spiral-matrix/) Medium |
 | 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [Asteroid collision type problem](../companies/eternal-zomato.md#q2-asteroid-collision-type-problem) | [735](https://leetcode.com/problems/asteroid-collision/) Medium |
-| 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element) | |
+| 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-2) | |
 | 2026-10-19 | [Media.net](../companies/media-net.md) | Netaji Subhas University of Technology | [Trapping Rain Water](../companies/media-net.md#q1-trapping-rain-water) | [42](https://leetcode.com/problems/trapping-rain-water/) Hard |
 | 2026-10-18 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Check every 2x2 block of a grid has at most K buildings](../companies/accenture.md#q1-check-every-2x2-block-of-a-grid-has-at-most-k-buildings) | |
 | 2026-10-17 | [Media.net](../companies/media-net.md) | Delhi Technological University | [Trapping Rain Water II](../companies/media-net.md#q1-trapping-rain-water-ii) | [407](https://leetcode.com/problems/trapping-rain-water-ii/) Hard |
@@ -74,7 +81,7 @@
 | 2026-10-04 | [InMobi](../companies/inmobi.md) | IIT Bombay | [Teemo Attacking (LeetCode 495)](../companies/inmobi.md#q1-teemo-attacking-leetcode-495) | [495](https://leetcode.com/problems/teemo-attacking/) Easy |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Knight moves safe from queen](../companies/infoedge.md#q10-knight-moves-safe-from-queen) | |
 | 2026-10-01 | [Apple](../companies/apple.md) | MNNIT Allahabad | [Jump Game II](../companies/apple.md#q1-jump-game-ii) | [45](https://leetcode.com/problems/jump-game-ii/) Medium |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-2) | |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-4) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Clothes sizes received: can next day's sales be fulfilled](../companies/eternal-zomato.md#q10-clothes-sizes-received-can-next-days-sales-be-fulfilled) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Key-value store with low/medium/high range check](../companies/eternal-zomato.md#q9-key-value-store-with-lowmediumhigh-range-check) | |
 | 2026-09-29 | [Kickdrum](../companies/kickdrum.md) | Unknown | [Variation of Browser History](../companies/kickdrum.md#q2-variation-of-browser-history) | [1472](https://leetcode.com/problems/design-browser-history/) Medium |

@@ -1,9 +1,11 @@
 # Heaps
 
-9 questions from 9 companys, newest first. [← all topics](../README.md#topics)
+11 questions from 11 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Interview follow-ups on Second Most Frequent Element](../companies/eternal-zomato.md#q1-interview-follow-ups-on-second-most-frequent-element) | |
+| 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kharagpur/Kanpur | [Minimum cost to merge array into one element](../companies/ibm.md#q1-minimum-cost-to-merge-array-into-one-element) | [1167](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) Medium |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Task Scheduler (LeetCode 621)](../companies/accelequant.md#q2-task-scheduler-leetcode-621) | [621](https://leetcode.com/problems/task-scheduler/) Medium |
 | 2026-10-17 | [Media.net](../companies/media-net.md) | Delhi Technological University | [Trapping Rain Water II](../companies/media-net.md#q1-trapping-rain-water-ii) | [407](https://leetcode.com/problems/trapping-rain-water-ii/) Hard |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Min Heap Operations (MCQ)](../companies/harness.md#q3-min-heap-operations-mcq) | |

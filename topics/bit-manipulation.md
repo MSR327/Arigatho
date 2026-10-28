@@ -1,9 +1,10 @@
 # Bit Manipulation
 
-17 questions from 16 companys, newest first. [← all topics](../README.md#topics)
+18 questions from 17 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Optimal building placement minimizing max distance](../companies/eternal-zomato.md#q1-optimal-building-placement-minimizing-max-distance) | |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [XOR of 1..N with one value skipped](../companies/deloitte.md#q25-xor-of-1n-with-one-value-skipped) | |
 | 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | [Minimum K with Even Powers of 2](../companies/visa.md#q2-minimum-k-with-even-powers-of-2) | |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [32-bit Multiplication on 16-bit ALU](../companies/nvidia.md#q4-32-bit-multiplication-on-16-bit-alu) | |

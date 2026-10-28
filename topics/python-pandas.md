@@ -1,11 +1,14 @@
 # Python & Pandas
 
-32 questions from 7 companys, newest first. [← all topics](../README.md#topics)
+35 questions from 7 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Group products by category and total amount](../companies/eternal-zomato.md#q1-group-products-by-category-and-total-amount) |
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [PA OA structure (90 minutes)](../companies/eternal-zomato.md#q3-pa-oa-structure-90-minutes) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [Python: count distinct elements, edit given classes and file handling (Data Engineer)](../companies/american-express.md#q3-python-count-distinct-elements-edit-given-classes-and-file-handling-data-engineer) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [PySpark + Python data processing question (Data Engineer)](../companies/american-express.md#q2-pyspark--python-data-processing-question-data-engineer) |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Product Analyst OA structure](../companies/eternal-zomato.md#q1-product-analyst-oa-structure) |
 | 2026-10-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Python, SQL and pandas coding questions (PYQ repeats)](../companies/eternal-zomato.md#q2-python-sql-and-pandas-coding-questions-pyq-repeats) |
 | 2026-10-15 | [Microsoft](../companies/microsoft.md) | IIT Delhi | [Top Employee by Sales (Pandas)](../companies/microsoft.md#q1-top-employee-by-sales-pandas) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Python MCQ: when Selenium is necessary](../companies/rystad-energy.md#q31-python-mcq-when-selenium-is-necessary) |

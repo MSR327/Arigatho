@@ -1,12 +1,16 @@
 # Greedy
 
-26 questions from 18 companys, newest first. [← all topics](../README.md#topics)
+30 questions from 19 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Minimum cost to make adjacent prices distinct](../companies/eternal-zomato.md#q1-minimum-cost-to-make-adjacent-prices-distinct) | |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Interview follow-ups on Fruit Selection with Discount Coupons](../companies/eternal-zomato.md#q2-interview-follow-ups-on-fruit-selection-with-discount-coupons) | |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Maximise score by rearranging b](../companies/eternal-zomato.md#q1-maximise-score-by-rearranging-b) | |
 | 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | [Minimum K with Even Powers of 2](../companies/visa.md#q2-minimum-k-with-even-powers-of-2) | |
 | 2026-10-26 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Minimum Files to Change for Protection](../companies/thoughtspot.md#q1-minimum-files-to-change-for-protection) | |
 | 2026-10-25 | [NatWest](../companies/natwest.md) | IIT Guwahati | [Smallest Permutation of an Integer](../companies/natwest.md#q1-smallest-permutation-of-an-integer) | [2165](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) Medium |
+| 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kharagpur/Kanpur | [Minimum cost to merge array into one element](../companies/ibm.md#q1-minimum-cost-to-merge-array-into-one-element) | [1167](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) Medium |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Task Scheduler (LeetCode 621)](../companies/accelequant.md#q2-task-scheduler-leetcode-621) | [621](https://leetcode.com/problems/task-scheduler/) Medium |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Minimum Increase in Experience Multiplier](../companies/accenture.md#q2-minimum-increase-in-experience-multiplier) | |
 | 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [Servers with lost config values, minimum total sum](../companies/eternal-zomato.md#q5-servers-with-lost-config-values-minimum-total-sum) | |

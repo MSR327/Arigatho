@@ -1,11 +1,12 @@
 # Web Dev
 
-49 questions from 11 companys, newest first. [← all topics](../README.md#topics)
+54 questions from 12 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Indore | [Live search input display with HTML, CSS and JavaScript](../companies/accenture.md#q2-live-search-input-display-with-html-css-and-javascript) |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [HTML: replace text with <del>/<ins> and add a link](../companies/deloitte.md#q4-html-replace-text-with-delins-and-add-a-link) |
+| 2026-10-28 | [IBM](../companies/ibm.md) | MNNIT Allahabad | [Promo code validation backend fix](../companies/ibm.md#q2-promo-code-validation-backend-fix) |
 | 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [RESTful endpoint to fetch a product by ID](../companies/accenture.md#q26-restful-endpoint-to-fetch-a-product-by-id) |
 | 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [HTTP status for Not Found](../companies/accenture.md#q23-http-status-for-not-found) |
 | 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [HTTP method to read restaurant list](../companies/accenture.md#q12-http-method-to-read-restaurant-list) |
@@ -18,8 +19,11 @@
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [RESTful endpoint for product by ID](../companies/accenture.md#q25-restful-endpoint-for-product-by-id) |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [HTTP status code for Not Found](../companies/accenture.md#q21-http-status-code-for-not-found) |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [HTTP method to read restaurant list](../companies/accenture.md#q12-http-method-to-read-restaurant-list-1) |
+| 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kharagpur/Kanpur | [Fix API route validation logic (backend task)](../companies/ibm.md#q2-fix-api-route-validation-logic-backend-task) |
+| 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kanpur | [Codebase understanding and feature implementation (web dev)](../companies/ibm.md#q2-codebase-understanding-and-feature-implementation-web-dev) |
 | 2026-10-24 | [Accenture](../companies/accenture.md) | IIT BHU | [Frontend: build a dynamic URL from text input](../companies/accenture.md#q3-frontend-build-a-dynamic-url-from-text-input) |
 | 2026-10-23 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Live word-count text box (HTML/CSS/JS)](../companies/accenture.md#q1-live-word-count-text-box-htmlcssjs) |
+| 2026-10-21 | [IBM](../companies/ibm.md) | MNNIT Allahabad | [OA pattern: 1 DSA question and 1 backend question](../companies/ibm.md#q1-oa-pattern-1-dsa-question-and-1-backend-question) |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Currency Converter (Frontend HTML/CSS/JS)](../companies/accenture.md#q4-currency-converter-frontend-htmlcssjs) |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | NIT Delhi | [Accenture ATE OA structure (MCQ, coding, gaming rounds)](../companies/accenture.md#q1-accenture-ate-oa-structure-mcq-coding-gaming-rounds) |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [ETE OA frontend (DOM) and SQL difficulty](../companies/accenture.md#q1-ete-oa-frontend-dom-and-sql-difficulty) |
@@ -35,6 +39,7 @@
 | 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Accenture Elite Engineering OA: coding-only sections](../companies/accenture.md#q1-accenture-elite-engineering-oa-coding-only-sections) |
 | 2026-10-13 | [Harness](../companies/harness.md) | IIT Guwahati | [10 MCQs on Backend, Testing and SQL](../companies/harness.md#q3-10-mcqs-on-backend-testing-and-sql) |
 | 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Web dev HTML/CSS/JS task](../companies/accenture.md#q4-web-dev-htmlcssjs-task) |
+| 2026-10-06 | [IBM](../companies/ibm.md) | IIIT Kottayam | [Web debugging question (Node.js / Django)](../companies/ibm.md#q2-web-debugging-question-nodejs--django) |
 | 2026-10-06 | [Accenture](../companies/accenture.md) | IIT BHU | [Elite role OA development question style](../companies/accenture.md#q1-elite-role-oa-development-question-style) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Error returned when requested data is not in database](../companies/eternal-zomato.md#q8-error-returned-when-requested-data-is-not-in-database) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [HTTP method for partial update](../companies/eternal-zomato.md#q6-http-method-for-partial-update) |

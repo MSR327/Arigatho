@@ -1,10 +1,12 @@
 # Strings
 
-42 questions from 26 companys, newest first. [← all topics](../README.md#topics)
+44 questions from 26 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Group products by category and total amount](../companies/eternal-zomato.md#q1-group-products-by-category-and-total-amount) | |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [KALEIDOSCOPE rearranged: 7th letter from left](../companies/deloitte.md#q8-kaleidoscope-rearranged-7th-letter-from-left) | |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Count subsequences of a length-3 string](../companies/eternal-zomato.md#q2-count-subsequences-of-a-length-3-string) | |
 | 2026-10-25 | [Paytm](../companies/paytm.md) | BITS Pilani | [Number of Steps to Reduce a Number in Binary Representation to One (LC 1404)](../companies/paytm.md#q1-number-of-steps-to-reduce-a-number-in-binary-representation-to-one-lc-1404) | [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) Medium |
 | 2026-10-24 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [ASCII Digit Checksum](../companies/flipkart.md#q1-ascii-digit-checksum) | |
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur/Kanpur | [Edit the Filename](../companies/mastercard.md#q1-edit-the-filename) | [72](https://leetcode.com/problems/edit-distance/) Medium |

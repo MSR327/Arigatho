@@ -1,9 +1,10 @@
 # Software Engineering
 
-43 questions from 11 companys, newest first. [← all topics](../README.md#topics)
+45 questions from 12 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-28 | [IBM](../companies/ibm.md) | MNNIT Allahabad | [Promo code validation backend fix](../companies/ibm.md#q2-promo-code-validation-backend-fix) |
 | 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Containerized app consuming massive memory](../companies/accenture.md#q27-containerized-app-consuming-massive-memory) |
 | 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Weekly automatic deployment practice](../companies/accenture.md#q5-weekly-automatic-deployment-practice) |
 | 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | [ETL Pipeline in Clojure](../companies/american-express.md#q3-etl-pipeline-in-clojure) |
@@ -18,6 +19,7 @@
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [DevOps continuous deployment](../companies/accenture.md#q5-devops-continuous-deployment) |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Hybrid cloud connectivity](../companies/accenture.md#q3-hybrid-cloud-connectivity) |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Cloud storage with dynamic scaling](../companies/accenture.md#q1-cloud-storage-with-dynamic-scaling) |
+| 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kharagpur/Kanpur | [Fix API route validation logic (backend task)](../companies/ibm.md#q2-fix-api-route-validation-logic-backend-task) |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Most secure cloud deployment model for sensitive data](../companies/accenture.md#q25-most-secure-cloud-deployment-model-for-sensitive-data) |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Shared responsibility model in cloud security](../companies/accenture.md#q16-shared-responsibility-model-in-cloud-security) |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Cloud features for flash-sale traffic spikes](../companies/accenture.md#q15-cloud-features-for-flash-sale-traffic-spikes-2) |

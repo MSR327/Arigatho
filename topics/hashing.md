@@ -1,16 +1,20 @@
 # Hashing
 
-52 questions from 28 companys, newest first. [← all topics](../README.md#topics)
+56 questions from 28 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Group products by category and total amount](../companies/eternal-zomato.md#q1-group-products-by-category-and-total-amount) | |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [Python: count distinct elements, edit given classes and file handling (Data Engineer)](../companies/american-express.md#q3-python-count-distinct-elements-edit-given-classes-and-file-handling-data-engineer) | |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Interview follow-ups on Second Most Frequent Element](../companies/eternal-zomato.md#q1-interview-follow-ups-on-second-most-frequent-element) | |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element) | |
 | 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | [Max Common Friends Non-Friend](../companies/visa.md#q5-max-common-friends-non-friend) | |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-1) | |
 | 2026-10-24 | [Wayfair](../companies/wayfair.md) | IIT BHU | [Cache hashing problem](../companies/wayfair.md#q2-cache-hashing-problem) | |
 | 2026-10-21 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Second most frequent element](../companies/eternal-zomato.md#q2-second-most-frequent-element) | |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Task Scheduler (LeetCode 621)](../companies/accelequant.md#q2-task-scheduler-leetcode-621) | [621](https://leetcode.com/problems/task-scheduler/) Medium |
 | 2026-10-20 | [Capgemini](../companies/capgemini.md) | IIT Delhi | [Frequency of each integer in an array](../companies/capgemini.md#q4-frequency-of-each-integer-in-an-array) | |
-| 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element) | |
+| 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-2) | |
 | 2026-10-18 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Check every 2x2 block of a grid has at most K buildings](../companies/accenture.md#q1-check-every-2x2-block-of-a-grid-has-at-most-k-buildings) | |
 | 2026-10-18 | [Juspay](../companies/juspay.md) | IIIT Allahabad | [Sync Engine](../companies/juspay.md#q1-sync-engine) | |
 | 2026-10-15 | [Accenture](../companies/accenture.md) | Unknown | [Decode Morse code to a word in dictionary.txt](../companies/accenture.md#q1-decode-morse-code-to-a-word-in-dictionarytxt) | |
@@ -37,10 +41,10 @@
 | 2026-10-05 | [InMobi](../companies/inmobi.md) | IIT BHU | [Count Nice Sub Array](../companies/inmobi.md#q3-count-nice-sub-array) | [1248](https://leetcode.com/problems/count-number-of-nice-subarrays/) Medium |
 | 2026-10-04 | [Squarepoint](../companies/squarepoint.md) | IIT Roorkee | [Trade Packet Correction](../companies/squarepoint.md#q1-trade-packet-correction) | |
 | 2026-10-03 | [Amazon](../companies/amazon.md) | IIT BHU | [Internal implementation of map, set, unordered_map, unordered_set](../companies/amazon.md#q1-internal-implementation-of-map-set-unordered_map-unordered_set) | |
-| 2026-10-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-1) | |
+| 2026-10-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-3) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Clothes sizes stock check](../companies/eternal-zomato.md#q5-clothes-sizes-stock-check) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Key-value store with low/medium/high value levels](../companies/eternal-zomato.md#q4-key-value-store-with-lowmediumhigh-value-levels) | |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-2) | |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-4) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Clothes sizes received: can next day's sales be fulfilled](../companies/eternal-zomato.md#q10-clothes-sizes-received-can-next-days-sales-be-fulfilled) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Key-value store with low/medium/high range check](../companies/eternal-zomato.md#q9-key-value-store-with-lowmediumhigh-range-check) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Second highest frequency element in an array](../companies/eternal-zomato.md#q2-second-highest-frequency-element-in-an-array) | |

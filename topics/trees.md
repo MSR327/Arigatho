@@ -1,11 +1,15 @@
 # Trees
 
-31 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+35 questions from 22 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Count non-path triplets in a tree](../companies/eternal-zomato.md#q2-count-non-path-triplets-in-a-tree) | |
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Index of the kth largest element to the right](../companies/eternal-zomato.md#q2-index-of-the-kth-largest-element-to-the-right) | |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q3-minimum-sum-assignment-on-a-tree) | |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Mean hops in a complete binary tree of 15 routers](../companies/deloitte.md#q21-mean-hops-in-a-complete-binary-tree-of-15-routers) | |
 | 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | [Remove Node to Minimise Infection in Tree](../companies/visa.md#q3-remove-node-to-minimise-infection-in-tree) | |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q3-minimum-sum-assignment-on-a-tree-1) | |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Iterative In-order Traversal Using Stack](../companies/nvidia.md#q3-iterative-in-order-traversal-using-stack) | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) Easy |
 | 2026-10-24 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Balanced-Parity Category Nodes](../companies/flipkart.md#q2-balanced-parity-category-nodes) | |
 | 2026-10-18 | [Juspay](../companies/juspay.md) | IIIT Allahabad | [Sync Engine](../companies/juspay.md#q1-sync-engine) | |
@@ -23,7 +27,7 @@
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Codeforces 1324F (tree problem)](../companies/eternal-zomato.md#q1-codeforces-1324f-tree-problem) | |
 | 2026-10-06 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Maximum connected value for every node in a tree](../companies/eternal-zomato.md#q2-maximum-connected-value-for-every-node-in-a-tree) | |
 | 2026-10-03 | [Amazon](../companies/amazon.md) | IIT BHU | [Internal implementation of map, set, unordered_map, unordered_set](../companies/amazon.md#q1-internal-implementation-of-map-set-unordered_map-unordered_set) | |
-| 2026-10-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q3-minimum-sum-assignment-on-a-tree) | |
+| 2026-10-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q3-minimum-sum-assignment-on-a-tree-2) | |
 | 2026-10-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum Sum Assignment on a Tree](../companies/eternal-zomato.md#q1-minimum-sum-assignment-on-a-tree) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q5-minimum-sum-assignment-on-a-tree) | |
 | 2026-09-21 | [Teradata](../companies/teradata.md) | Unknown | [Serialize and deserialize a binary tree](../companies/teradata.md#q6-serialize-and-deserialize-a-binary-tree) | [297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) Hard |

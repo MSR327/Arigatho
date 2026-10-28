@@ -154,3 +154,4 @@
 {"id": 3818, "group": "campus-iit-bombay-placements", "sent_at": "2026-10-07T21:10:26.872136+00:00", "text": "hi", "author_tag": "IITD", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 15224, "group": "campus-iit-bombay-placements", "sent_at": "2026-10-28T16:32:24.83903+00:00", "text": "qicap OA anyone?", "author_tag": "IITK", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 15312, "group": "campus-iit-bombay-placements", "sent_at": "2026-10-28T19:08:41.85981+00:00", "text": "qualcomm multimedia OA pattern??", "author_tag": "IITK", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 15367, "group": "campus-iit-bombay-placements", "sent_at": "2026-10-28T20:20:30.533628+00:00", "text": "in IITD tomorrow", "author_tag": "IITR", "reply_to": {"id": 15312, "text": "qualcomm multimedia OA pattern??", "author_tag": "IITK"}, "attachment": null, "deleted": false}

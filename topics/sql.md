@@ -1,17 +1,22 @@
 # SQL
 
-76 questions from 16 companys, newest first. [← all topics](../README.md#topics)
+81 questions from 16 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SQL join: Kolkata Knight Riders players over 30](../companies/accenture.md#q2-sql-join-kolkata-knight-riders-players-over-30) | |
+| 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [PA OA structure (90 minutes)](../companies/eternal-zomato.md#q3-pa-oa-structure-90-minutes) | |
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Indore | [SQL: Passenger details and travel lead days](../companies/accenture.md#q3-sql-passenger-details-and-travel-lead-days) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [SQL: employee with third least salary](../companies/deloitte.md#q9-sql-employee-with-third-least-salary) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [SQL: add NOT NULL constraint to hsize column](../companies/deloitte.md#q5-sql-add-not-null-constraint-to-hsize-column) | |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [SQL query using date functions (Data Engineer)](../companies/american-express.md#q1-sql-query-using-date-functions-data-engineer) | |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - Technical section](../companies/american-express.md#q3-amex-ds--analytics---technical-section) | |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [SQL: Device traffic and cost in May](../companies/eternal-zomato.md#q8-sql-device-traffic-and-cost-in-may) | |
+| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [SQL: Email campaign analysis](../companies/eternal-zomato.md#q7-sql-email-campaign-analysis) | |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Adequate normal form for relational database design](../companies/deloitte.md#q30-adequate-normal-form-for-relational-database-design) | |
 | 2026-10-27 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Car rental: cars never rented](../companies/accenture.md#q2-car-rental-cars-never-rented) | |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [DS role OA pattern](../companies/eternal-zomato.md#q1-ds-role-oa-pattern) | |
+| 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Product Analyst OA structure](../companies/eternal-zomato.md#q1-product-analyst-oa-structure) | |
 | 2026-10-24 | [Accenture](../companies/accenture.md) | IIT BHU | [SQL: customers who never made a booking](../companies/accenture.md#q2-sql-customers-who-never-made-a-booking) | [183](https://leetcode.com/problems/customers-who-never-order/) Easy |
 | 2026-10-22 | [Paytm](../companies/paytm.md) | BIT Mesra | [List Customer and Product Without Sale](../companies/paytm.md#q1-list-customer-and-product-without-sale) | |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | [SQL Left Join Question](../companies/flipkart.md#q4-sql-left-join-question) | |
