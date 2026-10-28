@@ -272,7 +272,7 @@ def build_enrich_prompt(rows):
 def enrich(path=QUESTIONS, runner=run_claude, problems=None, batch_size=ENRICH_BATCH, limit=None):
     """Re-tag existing questions with the current topic list and LeetCode matches. Saves after
     every batch and skips rows already done, so it can stop (usage limit) and resume."""
-    rows = read_jsonl(path)
+    rows = normalize_rows(read_jsonl(path))  # also applies newer name aliases
     todo = [r for r in rows if not r["duplicate_of"] and r.get("rev", 1) < REV]
     if limit is not None:
         todo = todo[:limit]

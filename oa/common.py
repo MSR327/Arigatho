@@ -49,6 +49,7 @@ COLLEGE_ALIASES = {
     "nitk surathkal": "NIT Surathkal", "nit tiruchirappalli": "NIT Trichy",
     "iit (bhu) varanasi": "IIT BHU", "iit bhu varanasi": "IIT BHU", "iit kgp": "IIT Kharagpur",
     "dtu": "Delhi Technological University",
+    "bhu": "IIT BHU",  # the groups are IIT/NIT/IIIT-only, so a "_BHU" poster is from IIT (BHU)
 }
 COMPANY_ALIASES = {
     "eternal": "Eternal (Zomato)", "zomato": "Eternal (Zomato)", "amex": "American Express",
