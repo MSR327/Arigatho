@@ -69,3 +69,32 @@ def test_download_attachments(tmp_path):
     assert n == 1
     assert (tmp_path / "archive/files/9-q.pdf").read_bytes() == b"%PDF fake"
     assert not (tmp_path / "archive/files/10-q.pdf").exists()
+
+
+def test_feed_client_retries_server_hiccups():
+    from oa.fetch import FeedClient
+
+    class Resp:
+        def __init__(self, status, body):
+            self.status, self.body = status, body
+
+        def json(self):
+            if self.body is None:
+                raise ValueError("html")
+            return self.body
+
+        def text(self):
+            return "<html>502</html>"
+
+    replies = [Resp(502, None), Resp(502, None), Resp(200, {"status": "success", "groups": []})]
+
+    class Req:
+        def get(self, url, params):
+            return replies.pop(0)
+
+    class Ctx:
+        request = Req()
+
+    waits = []
+    assert FeedClient(Ctx(), sleep=waits.append).my_groups() == []
+    assert waits == [10, 20]

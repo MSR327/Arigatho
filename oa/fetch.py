@@ -88,17 +88,23 @@ class LoggedOut(Exception):
 
 
 class FeedClient:
-    def __init__(self, ctx):
+    def __init__(self, ctx, sleep=time.sleep):
         self.ctx = ctx
+        self.sleep = sleep
 
-    def _json(self, params):
-        r = self.ctx.request.get(API, params=params)
-        if r.status in (401, 403):
-            raise LoggedOut(f"HTTP {r.status}")
-        try:
-            data = r.json()
-        except ValueError:
-            raise RuntimeError(f"non-JSON reply (HTTP {r.status}): {r.text()[:200]}")
+    def _json(self, params, tries=4):
+        """GET the API. Server hiccups (5xx, an HTML error page) are retried with a pause."""
+        for attempt in range(1, tries + 1):
+            r = self.ctx.request.get(API, params=params)
+            if r.status in (401, 403):
+                raise LoggedOut(f"HTTP {r.status}")
+            try:
+                data = r.json()
+                break
+            except ValueError:
+                if attempt == tries:
+                    raise RuntimeError(f"non-JSON reply (HTTP {r.status}): {r.text()[:120]}")
+                self.sleep(10 * attempt)
         if data.get("status") != "success":
             msg = str(data)[:200]
             raise (LoggedOut if re.search(r"auth|login|session", msg, re.I) else RuntimeError)(msg)
@@ -224,18 +230,28 @@ def main(argv=None):
             log(f"reading {len(slugs)} groups")
             archive, state = Archive(ARCHIVE), load_state(STATE)
             total = 0
+            failed = []
             for slug in slugs:
                 if slug not in ids:
                     raise RuntimeError(f"not a member of group {slug!r}; join it on oahelper.in")
-                new = fetch_group(client, archive, state, slug, ids[slug], BACKFILL_FROM,
-                                  save=lambda: save_state(STATE, state), max_pages=args.max_pages)
+                try:
+                    new = fetch_group(client, archive, state, slug, ids[slug], BACKFILL_FROM,
+                                      save=lambda: save_state(STATE, state), max_pages=args.max_pages)
+                except LoggedOut:
+                    raise
+                except Exception as e:  # one group's trouble must not stop the others
+                    log(f"{slug}: skipped this run ({short_error(e)})")
+                    failed.append(slug)
+                    continue
                 if new:
                     log(f"{slug}: {len(new)} new messages")
                 total += len(new)
+            if failed and len(failed) == len(slugs):
+                raise RuntimeError("every group failed")
             # one pass for files: also retries ones that failed last time
             files = download_attachments(client, [r for r in archive.all() if r["group"] in slugs], ROOT)
             log(f"{files} files downloaded")
-            log(f"fetch done: {total} new messages")
+            log(f"fetch done: {total} new messages" + (f", {len(failed)} groups skipped" if failed else ""))
             return 0
         except Exception as e:
             log(f"fetch failed: {short_error(e)}")
