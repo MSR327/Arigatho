@@ -131,8 +131,11 @@ def run_claude(prompt, schema, model=None):
     if used is not None and used >= RESERVE_FROM:
         raise UsageLimit(f"keeping the last {1 - RESERVE_FROM:.0%} of the 5-hour limit free "
                          f"({used:.0%} used)")
+    # Without the user's own Claude Code setup (connectors, skills, plugins, output style): it is
+    # not needed here and more than doubled every call's fixed cost (27.7k -> 12.4k tokens).
     cmd = ["claude", "-p", prompt, "--output-format", "stream-json", "--verbose",
            "--no-session-persistence", *(["--model", model] if model else []),
+           "--strict-mcp-config", "--disable-slash-commands", "--setting-sources", "project",
            "--allowedTools", "Read", "--json-schema", json.dumps(schema)]
     r = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True, timeout=1200)
     out = None
@@ -230,7 +233,9 @@ def sort_pending(archive, state, runner=None, batch_size=BATCH_SIZE, limit=None,
         state["sorted_ids"] += sorted(ids)
         save()
         new_rows += rows
-        log(f"batch {min(ids)}-{max(ids)}: {len(rows)} questions")
+        used = USAGE["five_hour"]
+        log(f"batch {min(ids)}-{max(ids)}: {len(rows)} questions"
+            + (f" ({used:.0%} of the 5-hour limit used)" if used is not None else ""))
     return new_rows
 
 
