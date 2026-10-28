@@ -2,6 +2,9 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | Amex DS & Analytics - Numerical Ability section |
+| 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | Amex DS & Analytics - LR/DI section |
+| 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | Data Science track MCQ pattern |
 | 2026-10-26 | [InfoEdge](../companies/infoedge.md) | MNNIT Allahabad | OA pattern: aptitude/core CS MCQs + 2 DSA |
 | 2026-10-25 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | OA pattern (Digital/Analog role): op-amp MCQs + aptitude |
 | 2026-10-22 | [Slice](../companies/slice.md) | MNNIT Allahabad | Aptitude MCQs (finance/business and probability) |

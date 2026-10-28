@@ -2,6 +2,9 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | Amex DS & Analytics - Technical section |
+| 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | PySpark + Python data processing question (Data Engineer) |
+| 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | Python: count distinct elements, edit given classes and file handling (Data Engineer) |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | DevOps continuous deployment |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | PowerPoint restrict slide navigation |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | Word document template format |

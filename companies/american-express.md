@@ -1,5 +1,62 @@
 # American Express OA
 
+## 2026-10-27 · IIT Roorkee · FTE
+
+### Q1. SQL query using date functions (Data Engineer)
+
+American Express Data Engineer track: 3 questions in 90 minutes (1 SQL, 1 PySpark, 1 Python). The SQL question needed knowledge of SQL date functions to solve.
+
+Topics: SQL  
+📎 source: [msg 14663](../archive/inter-nit/2026-10.jsonl), [msg 14693](../archive/inter-nit/2026-10.jsonl)
+
+### Q2. PySpark + Python data processing question (Data Engineer)
+
+American Express Data Engineer track: a coding question solved with PySpark and Python.
+
+Topics: Other  
+📎 source: [msg 14663](../archive/inter-nit/2026-10.jsonl), [msg 14693](../archive/inter-nit/2026-10.jsonl)
+
+### Q3. Python: count distinct elements, edit given classes and file handling (Data Engineer)
+
+American Express Data Engineer track: a Python question about finding the number of distinct elements. Starter code with file handling and classes was provided, and you had to modify some of the functions.
+
+Topics: Hashing, Other  
+📎 source: [msg 14663](../archive/inter-nit/2026-10.jsonl), [msg 14693](../archive/inter-nit/2026-10.jsonl)
+
+### Q4. Data Science track MCQ pattern
+
+American Express Data Science role OA (as reported from IIT Roorkee): 45 MCQs in 60 minutes. 17 aptitude/logical questions, 16 data interpretation questions, and 12 coding questions on prompt engineering, Python and SQL.
+
+Topics: Aptitude, SQL  
+📎 source: [msg 14663](../archive/inter-nit/2026-10.jsonl), [msg 14693](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Roorkee (2026-10-28)
+
+## 2026-10-27 · IIT Guwahati · FTE
+
+### Q1. Amex DS & Analytics - Numerical Ability section
+
+Section 1: Numerical ability, 17 questions in 23 minutes (+1 for a correct answer, -0.25 for a wrong one). Mostly mean, median and mode questions, plus a few easy probability questions. Several questions had errors and their options did not match the answers.
+
+Topics: Aptitude, Math  
+📎 source: [msg 14526](../archive/inter-iit/2026-10.jsonl), [msg 14527](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Guwahati (2026-10-27)
+
+### Q2. Amex DS & Analytics - LR/DI section
+
+Section 2: Logical reasoning and data interpretation, 16 questions in 22 minutes (+1/-0.25). Mostly graph-based data interpretation questions, with very little logical reasoning. The questions were easy, but several had options that did not match the answers.
+
+Topics: Aptitude  
+📎 source: [msg 14526](../archive/inter-iit/2026-10.jsonl), [msg 14527](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Guwahati (2026-10-27)
+
+### Q3. Amex DS & Analytics - Technical section
+
+Section 3: Technical, 12 questions in 15 minutes (+1/-0.25). Mostly prompt-engineering MCQs about how a prompt should be written, plus 2 SQL MCQs and 2 Python MCQs.
+
+Topics: SQL, Other  
+📎 source: [msg 14526](../archive/inter-iit/2026-10.jsonl), [msg 14527](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Guwahati (2026-10-27)
+
 ## 2026-10-25 · IIT Guwahati · FTE
 
 ### Q1. Build an LLM Pipeline
@@ -8,6 +65,7 @@ Coding task (not DSA) for the data engineer / data science role: build an LLM pi
 
 Topics: Other  
 📎 source: [msg 12999](../archive/inter-nit/2026-10.jsonl), [msg 13000](../archive/inter-nit/2026-10.jsonl), [msg 13001](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Guwahati (2026-10-28)
 
 ### Q2. CNN Image Classification Model
 
@@ -15,6 +73,7 @@ Coding task (not DSA): build a CNN model for classification. No chatbot allowed.
 
 Topics: Other  
 📎 source: [msg 12999](../archive/inter-nit/2026-10.jsonl), [msg 13000](../archive/inter-nit/2026-10.jsonl), [msg 13001](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Guwahati (2026-10-28)
 
 ### Q3. ETL Pipeline in Clojure
 
@@ -22,6 +81,7 @@ Coding task (not DSA): implement an ETL pipeline using the Clojure programming l
 
 Topics: Other  
 📎 source: [msg 12999](../archive/inter-nit/2026-10.jsonl), [msg 13000](../archive/inter-nit/2026-10.jsonl), [msg 13001](../archive/inter-nit/2026-10.jsonl)
+🔁 also asked at: IIT Guwahati (2026-10-28)
 
 ### Q4. OA pattern (Data Science/Data Engineer): 3 coding tasks
 

@@ -2,6 +2,7 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | Python: count distinct elements, edit given classes and file handling (Data Engineer) |
 | 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | Max Common Friends Non-Friend |
 | 2026-10-24 | [Wayfair](../companies/wayfair.md) | BHU | Cache hashing problem |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Task Scheduler (LeetCode 621) |

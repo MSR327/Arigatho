@@ -5,6 +5,7 @@
 | 2026-10-25 | [Paytm](../companies/paytm.md) | BITS Pilani | Number of Steps to Reduce a Number in Binary Representation to One (LC 1404) |
 | 2026-10-25 | [NatWest](../companies/natwest.md) | IIT Guwahati | Smallest Permutation of an Integer |
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur | Edit the Filename |
+| 2026-10-24 | [Flipkart](../companies/flipkart.md) | IIT Delhi | ASCII Digit Checksum |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | ASCII Sum Digit-Sum to Character |
 | 2026-10-22 | [InMobi](../companies/inmobi.md) | IIT Delhi | Word Ladder II variant with costs |
 | 2026-10-21 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | Minimum insertions to make a string a palindrome |

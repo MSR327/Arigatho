@@ -6,6 +6,7 @@
 | 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | Max Common Friends Non-Friend |
 | 2026-10-24 | [Visa](../companies/visa.md) | IIT BHU | Minimum Score of a Path Between Two Cities |
 | 2026-10-24 | [Juspay](../companies/juspay.md) | IIT BHU | Power Grid Management |
+| 2026-10-24 | [Flipkart](../companies/flipkart.md) | IIT Delhi | Service Engineer (minimum days to finish all servicing) |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | Count Graphs on n Nodes with k Components mod m |
 | 2026-10-22 | [InMobi](../companies/inmobi.md) | IIT Delhi | Word Ladder II variant with costs |
 | 2026-10-22 | [InMobi](../companies/inmobi.md) | IIT Delhi | Graph dependencies problem |

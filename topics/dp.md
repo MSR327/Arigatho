@@ -6,6 +6,7 @@
 | 2026-10-25 | [NatWest](../companies/natwest.md) | IIT BHU | DSA questions: sorting + pick/not-pick DP |
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur | Edit the Filename |
 | 2026-10-24 | [Wayfair](../companies/wayfair.md) | BHU | LIS-based problem |
+| 2026-10-24 | [Flipkart](../companies/flipkart.md) | IIT Delhi | Service Engineer (minimum days to finish all servicing) |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | Count Graphs on n Nodes with k Components mod m |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | Cherry Pickup II (LeetCode 1463) |
 | 2026-10-21 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | Minimum insertions to make a string a palindrome |

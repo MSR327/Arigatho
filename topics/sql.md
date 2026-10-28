@@ -2,6 +2,9 @@
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | Amex DS & Analytics - Technical section |
+| 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | SQL query using date functions (Data Engineer) |
+| 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | Data Science track MCQ pattern |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | SQL Left Join Question |
 | 2026-10-22 | [Paytm](../companies/paytm.md) | BIT Mesra | List Customer and Product Without Sale |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | SQL Query - Players of Kolkata Knight Riders over 30 |

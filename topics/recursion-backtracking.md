@@ -3,6 +3,7 @@
 | Date | Company | College | Question |
 |---|---|---|---|
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | How Stack Works in Recursion |
+| 2026-10-24 | [Flipkart](../companies/flipkart.md) | IIT Delhi | Balanced-Parity Category Nodes |
 | 2026-10-18 | [Juspay](../companies/juspay.md) | IIIT Allahabad | Sync Engine |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | Largest Perfect Subtree |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | Domino Arrangement with Matching Columns |
