@@ -1,4 +1,16 @@
-# IBM OA
+# IBM
+
+**1 question** from 1 OA drive · seen at IIT BHU · latest 2026-10-22
+
+**Topics:** [OA Format](../topics/oa-format.md) (1)
+
+**Drives:**
+
+- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 1 question
+
+[← all companies](../README.md#companies)
+
+---
 
 ## 2026-10-22 · IIT BHU · FTE
 
@@ -6,5 +18,4 @@
 
 IBM OA pattern for Software Developer / Software Engineer / Hardware Engineer roles: 3 LeetCode-hard coding questions and 20 MCQs on OOPs and DBMS.
 
-Topics: OS/DBMS/CN MCQ  
-📎 source: [msg 10935](../archive/inter-iit/2026-10.jsonl)
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L778)</sub>

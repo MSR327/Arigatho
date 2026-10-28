@@ -1,0 +1,29 @@
+# ML/AI
+
+23 questions from 10 companys, newest first. [← all topics](../README.md#topics)
+
+| Date | Company | College | Question |
+|---|---|---|---|
+| 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - Technical section](../companies/american-express.md#q3-amex-ds--analytics---technical-section) |
+| 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | [OA pattern (Data Science/Data Engineer): 3 coding tasks](../companies/american-express.md#q4-oa-pattern-data-sciencedata-engineer-3-coding-tasks) |
+| 2026-10-25 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT BHU | [OA pattern (from seniors): ML/DL/GenAI MCQs + 2 DSA](../companies/commonwealth-bank-of-australia.md#q1-oa-pattern-from-seniors-mldlgenai-mcqs--2-dsa) |
+| 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | [CNN Image Classification Model](../companies/american-express.md#q2-cnn-image-classification-model) |
+| 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | [Build an LLM Pipeline](../companies/american-express.md#q1-build-an-llm-pipeline) |
+| 2026-10-22 | [InfoEdge](../companies/infoedge.md) | IIT Roorkee | [OA pattern: 40 MCQs on stats, ML, DL](../companies/infoedge.md#q1-oa-pattern-40-mcqs-on-stats-ml-dl) |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Types of supervised learning](../companies/reliance.md#q94-types-of-supervised-learning) |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Knowledge graphs in operations management](../companies/reliance.md#q93-knowledge-graphs-in-operations-management) |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [ML type for recommendation systems](../companies/reliance.md#q92-ml-type-for-recommendation-systems) |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Legal machine learning focus area](../companies/reliance.md#q91-legal-machine-learning-focus-area) |
+| 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [NLP task of translating between languages](../companies/reliance.md#q90-nlp-task-of-translating-between-languages) |
+| 2026-10-15 | [Harness](../companies/harness.md) | NIT Rourkela | [OA pattern: Python, SQL, DSA, ML fundamentals, AI/LLM concepts](../companies/harness.md#q1-oa-pattern-python-sql-dsa-ml-fundamentals-aillm-concepts) |
+| 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [MCQ: LLM reasoning vs analysis order](../companies/rystad-energy.md#q19-mcq-llm-reasoning-vs-analysis-order) |
+| 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [MCQ: purpose of softmax](../companies/rystad-energy.md#q17-mcq-purpose-of-softmax) |
+| 2026-10-14 | [Tech Mahindra](../companies/tech-mahindra.md) | IIT Delhi | [Data science Python question](../companies/tech-mahindra.md#q3-data-science-python-question) |
+| 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | [Normalizing flu case data across cities](../companies/eternal-zomato.md#q7-normalizing-flu-case-data-across-cities) |
+| 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Bayes: disease probability after two positive tests](../companies/infoedge.md#q4-bayes-disease-probability-after-two-positive-tests) |
+| 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Calibrated model positive ratio](../companies/infoedge.md#q3-calibrated-model-positive-ratio) |
+| 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Effect of increasing k in KNN](../companies/infoedge.md#q1-effect-of-increasing-k-in-knn) |
+| 2026-09-24 | [Capgemini](../companies/capgemini.md) | NIT Trichy | [Prompting section](../companies/capgemini.md#q3-prompting-section) |
+| 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [Inappropriate statement about generative AI](../companies/accenture.md#q18-inappropriate-statement-about-generative-ai) |
+| 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [AI alignment](../companies/accenture.md#q17-ai-alignment) |
+| 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [Prompt injection](../companies/accenture.md#q10-prompt-injection) |

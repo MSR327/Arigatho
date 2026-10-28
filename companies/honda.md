@@ -1,4 +1,19 @@
-# Honda OA
+# Honda
+
+**6 questions** from 2 OA drives · seen at IIT Delhi, VIT Vellore · latest 2026-10-15
+
+**Topics:** [Arrays](../topics/arrays.md) (3) · [Math](../topics/math.md) (2) · [DP](../topics/dp.md) (2) · [Hashing](../topics/hashing.md) (1) · [Two Pointers](../topics/two-pointers.md) (1) · [Graphs](../topics/graphs.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1)
+
+**LeetCode matches:** 2 (see the [practice list](../practice.md))
+
+**Drives:**
+
+- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 2 questions
+- [2026-10-09 · VIT Vellore · FTE](#2026-10-09--vit-vellore--fte) · 4 questions
+
+[← all companies](../README.md#companies)
+
+---
 
 ## 2026-10-15 · IIT Delhi · FTE
 
@@ -6,62 +21,57 @@
 
 A sequence is defined by three starting values F0 = a, F1 = b, F2 = c. Each later term is F_i = (F_{i-1} | F_{i-2}) ^ F_{i-3}, using bitwise OR and XOR. Given a, b, c and n, return F_n. Function signature (C): long bitwiseRecurrence(long a, long b, long c, long n). Examples: a=4, b=1, c=10, n=4 -> 14; a=3, b=2, c=5, n=3 -> 2. (The poster notes the second example looks inconsistent with the recurrence as read from the screenshot.) This was the OA at IIT Delhi last year.
 
-Topics: Bit Manipulation, Math  
-📎 source: [msg 7397](../archive/inter-nit/2026-10.jsonl)
+<sub>Topics: Bit Manipulation, Math · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1304)</sub>
 
 ### Q2. Maximum Gross Value of Any Valid Triple
 
 You are given an integer array arr of length n. Choose a valid triple of indices to maximize the gross value. The gross value is computed from three sums: the sum of the selected segment, the sum of the elements before it, and the sum of the elements after it. Empty segments count as zero. Return the largest possible gross value. Function signature (C): long getMaximumGrossValue(int arr_count, int* arr). Examples: arr = [-1, 1, -2, -2] -> 6; arr = [4, -8, 2, -10, 3, -20] -> 4.
 
-Topics: Arrays, DP  
-📎 source: [msg 7397](../archive/inter-nit/2026-10.jsonl)
+<sub>Topics: Arrays, DP · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1304)</sub>
 
 ## 2026-10-09 · VIT Vellore · FTE
 
 ### Q1. Maximum GCD of Any Pair
 
-Given an integer n (n ≥ 2), consider every pair of distinct integers (a, b) with 1 ≤ a < b ≤ n. Return the maximum value of gcd(a, b) over all such pairs.
+Given an integer n (n ≥ 2), consider every pair of distinct integers (a, b) with 1 ≤ a &lt; b ≤ n. Return the maximum value of gcd(a, b) over all such pairs.
 
-Example
-Input: n = 5
-Pairs: (1,2), (1,3), (1,4), (1,5), (2,3), (2,4), (2,5), (3,4), (3,5), (4,5)
+Example  
+Input: n = 5  
+Pairs: (1,2), (1,3), (1,4), (1,5), (2,3), (2,4), (2,5), (3,4), (3,5), (4,5)  
 Output: 2, from the pair (2, 4)
 
-Topics: Math  
-📎 source: [msg 4303](../archive/inter-iit/2026-10.jsonl)
+<sub>Topics: Math · Source: [chat, 9 Oct](../archive/inter-iit/2026-10.jsonl#L292)</sub>
 
 ### Q2. Unique Pairs with Target Sum
 
-Given an integer array nums and an integer target, return all unique pairs (a, b) from the array such that a + b = target.
-- Each pair uses two different indices.
-- Pairs are unordered, so (a, b) and (b, a) count as the same pair.
+Given an integer array nums and an integer target, return all unique pairs (a, b) from the array such that a + b = target.  
+- Each pair uses two different indices.  
+- Pairs are unordered, so (a, b) and (b, a) count as the same pair.  
 - Duplicate values in the array must not produce duplicate pairs in the output.
 
-Example
-Input: nums = [1, 5, 7, -1, 5], target = 6
+Example  
+Input: nums = [1, 5, 7, -1, 5], target = 6  
 Output: [(1, 5), (7, -1)], where (1, 5) appears only once even though 5 occurs twice
 
-Topics: Arrays, Hashing, Two Pointers  
-📎 source: [msg 4303](../archive/inter-iit/2026-10.jsonl)
+<sub>Topics: Arrays, Hashing, Two Pointers · Source: [chat, 9 Oct](../archive/inter-iit/2026-10.jsonl#L292)</sub>
 
 ### Q3. Maximum Jumps to Reach the Last Index
 
 You are given an array nums of length n and an integer limit. You start at index 0 and want to reach index n - 1.
 
-From index i, you may jump to any index j that satisfies both conditions:
-- i < j (you can only jump forward)
+From index i, you may jump to any index j that satisfies both conditions:  
+- i &lt; j (you can only jump forward)  
 - |nums[j] - nums[i]| ≤ limit
 
 Return the maximum number of jumps you can make to reach index n - 1. If the last index cannot be reached, return -1.
 
-Example
-Input: nums = [1, 3, 6, 4, 1, 2], limit = 2
+Example  
+Input: nums = [1, 3, 6, 4, 1, 2], limit = 2  
 Output: 3, using the path 0 → 1 → 3 → 5 (values 1 → 3 → 4 → 2)
 
 This is the same problem as LeetCode 2770, "Maximum Number of Jumps to Reach the Last Index."
 
-Topics: DP, Arrays  
-📎 source: [msg 4303](../archive/inter-iit/2026-10.jsonl)
+<sub>Topics: DP, Arrays · Similar: [LeetCode 2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) (Medium) · Source: [chat, 9 Oct](../archive/inter-iit/2026-10.jsonl#L292)</sub>
 
 ### Q4. Remove Suspicious Nodes from a Directed Graph
 
@@ -69,11 +79,10 @@ You are given n nodes labeled 0 to n - 1, a list of directed edges edges where [
 
 Suspicious set: node k, plus every node reachable from k (directly or indirectly) by following the edges.
 
-Rule:
-- If no node outside the suspicious set has an edge into any node inside it, remove the entire suspicious set.
+Rule:  
+- If no node outside the suspicious set has an edge into any node inside it, remove the entire suspicious set.  
 - If at least one outside node points into the suspicious set, removing it is not allowed, so no nodes are removed.
 
 Return the remain[ing nodes] ... (message text was cut off here in the source)
 
-Topics: Graphs  
-📎 source: [msg 4303](../archive/inter-iit/2026-10.jsonl)
+<sub>Topics: Graphs · Similar: [LeetCode 3310. Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) (Medium) · Source: [chat, 9 Oct](../archive/inter-iit/2026-10.jsonl#L292)</sub>
