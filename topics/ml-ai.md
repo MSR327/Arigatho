@@ -1,15 +1,21 @@
 # ML/AI
 
-39 questions from 10 companys, newest first. [← all topics](../README.md#topics)
+44 questions from 13 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Why Transformers beat RNNs for training throughput](../companies/deloitte.md#q15-why-transformers-beat-rnns-for-training-throughput) |
+| 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Prompting when the model lacks enough information](../companies/deloitte.md#q14-prompting-when-the-model-lacks-enough-information) |
+| 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Why metadata filtering improves vector retrieval](../companies/deloitte.md#q8-why-metadata-filtering-improves-vector-retrieval) |
+| 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Primary purpose of a validation dataset](../companies/deloitte.md#q6-primary-purpose-of-a-validation-dataset) |
+| 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Responsible AI risk in a recruiting model](../companies/deloitte.md#q3-responsible-ai-risk-in-a-recruiting-model) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - Technical section](../companies/american-express.md#q3-amex-ds--analytics---technical-section) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [What happens to weights during neural network training](../companies/deloitte.md#q24-what-happens-to-weights-during-neural-network-training) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Train/validation/test performance gap](../companies/deloitte.md#q22-trainvalidationtest-performance-gap) |
 | 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | [OA pattern (Data Science/Data Engineer): 3 coding tasks](../companies/american-express.md#q4-oa-pattern-data-sciencedata-engineer-3-coding-tasks) |
 | 2026-10-25 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT BHU | [OA pattern (from seniors): ML/DL/GenAI MCQs + 2 DSA](../companies/commonwealth-bank-of-australia.md#q1-oa-pattern-from-seniors-mldlgenai-mcqs--2-dsa) |
 | 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | [CNN Image Classification Model](../companies/american-express.md#q2-cnn-image-classification-model) |
 | 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | [Build an LLM Pipeline](../companies/american-express.md#q1-build-an-llm-pipeline) |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [AI and Data role OA pattern](../companies/accenture.md#q1-ai-and-data-role-oa-pattern) |
 | 2026-10-23 | [Accenture](../companies/accenture.md) | IIT BHU | [Technical MCQ section had Gen AI questions](../companies/accenture.md#q1-technical-mcq-section-had-gen-ai-questions) |
 | 2026-10-22 | [InfoEdge](../companies/infoedge.md) | IIT Roorkee | [OA pattern: 40 MCQs on stats, ML, DL](../companies/infoedge.md#q1-oa-pattern-40-mcqs-on-stats-ml-dl) |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [AI & Data Tech Grad OA: DSA + AI/ML MCQs](../companies/accenture.md#q1-ai--data-tech-grad-oa-dsa--aiml-mcqs) |
@@ -36,10 +42,9 @@
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Bayes: disease probability after two positive tests](../companies/infoedge.md#q4-bayes-disease-probability-after-two-positive-tests) |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Calibrated model positive ratio](../companies/infoedge.md#q3-calibrated-model-positive-ratio) |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Effect of increasing k in KNN](../companies/infoedge.md#q1-effect-of-increasing-k-in-knn) |
+| 2026-10-03 | [Amazon](../companies/amazon.md) | IIT BHU | [ML round: PCA, decision trees, SGD, K-means](../companies/amazon.md#q2-ml-round-pca-decision-trees-sgd-k-means) |
 | 2026-09-24 | [Capgemini](../companies/capgemini.md) | NIT Trichy | [Prompting section](../companies/capgemini.md#q3-prompting-section) |
-| 2025-10-03 | [Accenture](../companies/accenture.md) | Unknown | [Most inappropriate statement about Generative AI](../companies/accenture.md#q18-most-inappropriate-statement-about-generative-ai) |
-| 2025-10-03 | [Accenture](../companies/accenture.md) | Unknown | [What is AI alignment](../companies/accenture.md#q17-what-is-ai-alignment) |
-| 2025-10-03 | [Accenture](../companies/accenture.md) | Unknown | [Correct description of prompt injection](../companies/accenture.md#q10-correct-description-of-prompt-injection) |
+| 2026-09-21 | [Tredence](../companies/tredence.md) | Unknown | [Intern interview topics](../companies/tredence.md#q1-intern-interview-topics) |
 | 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [Inappropriate statement about generative AI](../companies/accenture.md#q18-inappropriate-statement-about-generative-ai) |
 | 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [AI alignment](../companies/accenture.md#q17-ai-alignment) |
 | 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [Prompt injection](../companies/accenture.md#q10-prompt-injection) |

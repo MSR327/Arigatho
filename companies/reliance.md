@@ -1,12 +1,18 @@
 # Reliance
 
-**94 questions** from 1 OA drive · seen at MNNIT Allahabad · latest 2026-10-17
+**106 questions** from 5 OA drives · seen at MNNIT Allahabad, Unknown · latest 2026-10-17
 
-**Topics:** [Mechanical](../topics/mechanical.md) (39) · [Aptitude](../topics/aptitude.md) (38) · [Verbal](../topics/verbal.md) (10) · [ML/AI](../topics/ml-ai.md) (5) · [Other](../topics/other.md) (3) · [Math](../topics/math.md) (3)
+**Topics:** [Mechanical](../topics/mechanical.md) (39) · [Aptitude](../topics/aptitude.md) (38) · [Verbal](../topics/verbal.md) (10) · [ML/AI](../topics/ml-ai.md) (5) · [Arrays](../topics/arrays.md) (5) · [Other](../topics/other.md) (3) · [Math](../topics/math.md) (3) · [Sorting](../topics/sorting.md) (2) · [Software Engineering](../topics/software-engineering.md) (2) · [Web Dev](../topics/web-dev.md) (2) · [OA Format](../topics/oa-format.md) (1) · [Greedy](../topics/greedy.md) (1) · [Hashing](../topics/hashing.md) (1) · [OOP](../topics/oop.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [Linked List](../topics/linked-list.md) (1) · [Trees](../topics/trees.md) (1)
+
+**LeetCode matches:** 3 (see the [practice list](../practice.md))
 
 **Drives:**
 
 - [2026-10-17 · MNNIT Allahabad · FTE](#2026-10-17--mnnit-allahabad--fte) · 94 questions
+- [2026-09-21 · Unknown · FTE · Graduate Engineer Trainee](#2026-09-21--unknown--fte--graduate-engineer-trainee) · 1 question
+- [2026-09-21 · Unknown · FTE](#2026-09-21--unknown--fte) · 3 questions
+- [2026-09-21 · Unknown · FTE · SDE-II · Interview](#2026-09-21--unknown--fte--sde-ii--interview) · 4 questions
+- [2026-09-21 · Unknown · FTE · NodeJS Backend Developer · Interview](#2026-09-21--unknown--fte--nodejs-backend-developer--interview) · 4 questions
 
 [← all companies](../README.md#companies)
 
@@ -1047,3 +1053,103 @@ Following are the types of supervised learning?
 - **D.** All of above
 
 <sub>Topics: ML/AI · Source: [ril 2026.pdf](../archive/files/7904-ril_2026.pdf)</sub>
+
+## 2026-09-21 · Unknown · FTE · Graduate Engineer Trainee
+
+### Q1. AMCAT test format and topics (GET)
+
+AMCAT test with 39 questions in 49 minutes, followed by a technical and HR discussion.
+
+Topics included: perfect-square testing, polymorphism, keys and SQL operations, deadlocks, concurrency and Java interfaces.
+
+(Individual question statements were not given.)
+
+<sub>Topics: OA Format · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+
+## 2026-09-21 · Unknown · FTE
+
+### Q1. Minimum swaps to sort
+
+One-hour InterviewBit test (Reliance Jio) with two problems. One of them: minimum swaps to sort.
+
+(Full statement was not given.)
+
+<sub>Topics: Arrays, Sorting · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+
+### Q2. Move balls into consecutive positions
+
+Second problem of the one-hour InterviewBit test (Reliance Jio): moving balls into consecutive positions.
+
+(Full statement was not given.)
+
+<sub>Topics: Arrays, Greedy · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+
+### Q3. Minimum removals in an array (sum condition)
+
+A later round included a minimum-removal array-sum problem.
+
+(The exact sum condition was not given.)
+
+<sub>Topics: Arrays · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+
+## 2026-09-21 · Unknown · FTE · SDE-II · Interview
+
+### Q1. Longest consecutive sequence
+
+Find the longest consecutive sequence in an array.
+
+(Full statement was not given.)
+
+<sub>Topics: Arrays, Hashing · Similar: [LeetCode 128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (Medium) · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+
+### Q2. Merge intervals
+
+Merge overlapping intervals.
+
+(Full statement was not given.)
+
+<sub>Topics: Arrays, Sorting · Similar: [LeetCode 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Medium) · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+
+### Q3. Design patterns and OTP login system design
+
+Discussion of design patterns, followed by designing an OTP login system.
+
+<sub>Topics: Software Engineering, OOP · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+
+### Q4. Distributed caches, SQL vs NoSQL, CAP and indexing
+
+Later discussion covered distributed caches, eviction, SQL versus NoSQL, CAP theorem and indexing.
+
+<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+
+## 2026-09-21 · Unknown · FTE · NodeJS Backend Developer · Interview
+
+### Q1. Middle of a linked list
+
+Find the midpoint of a linked list.
+
+(Full statement was not given.)
+
+<sub>Topics: Linked List · Similar: [LeetCode 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) (Easy) · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+
+### Q2. Tree traversals
+
+Tree traversals were asked.
+
+(Which traversals and the exact statement were not given.)
+
+<sub>Topics: Trees · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+
+### Q3. React Native / mobile discussion
+
+Discussion on React Native and mobile development.
+
+<sub>Topics: Web Dev · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+
+### Q4. JavaScript debounce and throttle
+
+Implement JavaScript debounce and throttle.
+
+(Full statement was not given.)
+
+<sub>Topics: Web Dev · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>

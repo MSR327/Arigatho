@@ -1,6 +1,6 @@
 # Digital Electronics
 
-25 questions from 2 companys, newest first. [← all topics](../README.md#topics)
+26 questions from 3 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -29,3 +29,4 @@
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [PROM size for dual mux selection logic](../companies/texas-instruments.md#q38-prom-size-for-dual-mux-selection-logic) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [RTL toggle/load flip-flop final value](../companies/texas-instruments.md#q37-rtl-toggleload-flip-flop-final-value) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [4:1 MUX output](../companies/texas-instruments.md#q36-41-mux-output) |
+| 2026-09-21 | [Silicon Labs](../companies/silicon-labs.md) | Unknown | [Embedded/DV compilation topics](../companies/silicon-labs.md#q1-embeddeddv-compilation-topics) |

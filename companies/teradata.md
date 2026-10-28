@@ -1,14 +1,16 @@
 # Teradata
 
-**2 questions** from 1 OA drive · seen at IIT BHU · latest 2026-09-28
+**10 questions** from 3 OA drives · seen at IIT BHU, Unknown · latest 2026-09-28
 
-**Topics:** [Graphs](../topics/graphs.md) (1) · [Math](../topics/math.md) (1) · [Heaps](../topics/heaps.md) (1) · [Greedy](../topics/greedy.md) (1) · [Sorting](../topics/sorting.md) (1)
+**Topics:** [Graphs](../topics/graphs.md) (3) · [Strings](../topics/strings.md) (2) · [OOP](../topics/oop.md) (2) · [Math](../topics/math.md) (1) · [Heaps](../topics/heaps.md) (1) · [Greedy](../topics/greedy.md) (1) · [Sorting](../topics/sorting.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [DP](../topics/dp.md) (1) · [Arrays](../topics/arrays.md) (1) · [Hashing](../topics/hashing.md) (1) · [Trees](../topics/trees.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [OA Format](../topics/oa-format.md) (1) · [Two Pointers](../topics/two-pointers.md) (1)
 
-**LeetCode matches:** 2 (see the [practice list](../practice.md))
+**LeetCode matches:** 5 (see the [practice list](../practice.md))
 
 **Drives:**
 
 - [2026-09-28 · IIT BHU · FTE](#2026-09-28--iit-bhu--fte) · 2 questions
+- [2026-09-21 · Unknown · Intern · SDE Intern · Interview](#2026-09-21--unknown--intern--sde-intern--interview) · 7 questions
+- [2026-09-21 · Unknown · Intern · AI/ML Intern · Other round](#2026-09-21--unknown--intern--aiml-intern--other-round) · 1 question
 
 [← all companies](../README.md#companies)
 
@@ -46,3 +48,55 @@ Constraints: n == quality.length == wage.length, 1 &lt;= k &lt;= n &lt;= 10^4, 1
 Link: https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 
 <sub>Topics: Heaps, Greedy, Sorting · Similar: [LeetCode 857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) (Hard) · Source: [chat, 28 Sep](../archive/inter-iit/2026-09.jsonl#L9), [chat, 28 Sep](../archive/inter-nit/2026-09.jsonl#L177), [chat, 28 Sep](../archive/inter-nit/2026-09.jsonl#L80)</sub>
+
+## 2026-09-21 · Unknown · Intern · SDE Intern · Interview
+
+### Q1. Balanced parentheses
+
+Balanced parentheses problem (check whether a string of brackets is balanced). Only named in a digest; the full statement is not given.
+
+<sub>Topics: Stack/Queue, Strings · Similar: [LeetCode 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (Easy) · Source: [chat, 21 Sep](../archive/teradata-oa/2026-09.jsonl#L37)</sub>
+
+### Q2. Stock trading with two transactions
+
+The two-transaction stock-trading problem (maximize profit from buying and selling a stock with at most two transactions). Only named in a digest; constraints and examples are not given.
+
+<sub>Topics: DP, Arrays · Similar: [LeetCode 123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) (Hard) · Source: [chat, 21 Sep](../archive/teradata-oa/2026-09.jsonl#L37)</sub>
+
+### Q3. OOP concepts
+
+Object-oriented programming questions were asked. Specific questions are not given.
+
+<sub>Topics: OOP · Source: [chat, 21 Sep](../archive/teradata-oa/2026-09.jsonl#L37)</sub>
+
+### Q4. Adjacency list vs adjacency matrix
+
+Compare adjacency lists versus adjacency matrices for graph representation.
+
+<sub>Topics: Graphs · Source: [chat, 21 Sep](../archive/teradata-oa/2026-09.jsonl#L37)</sub>
+
+### Q5. Hash map internals
+
+Explain how hash maps work internally. Specific sub-questions are not given.
+
+<sub>Topics: Hashing · Source: [chat, 21 Sep](../archive/teradata-oa/2026-09.jsonl#L37)</sub>
+
+### Q6. Serialize and deserialize a binary tree
+
+Design round: binary-tree serialization/deserialization. Only named in a digest; the full statement is not given.
+
+<sub>Topics: Trees, Strings · Similar: [LeetCode 297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) (Hard) · Source: [chat, 21 Sep](../archive/teradata-oa/2026-09.jsonl#L37)</sub>
+
+### Q7. Parking lot / payment interface design
+
+Design round exercise: a parking-lot and payment-interface design problem. Details are not given.
+
+<sub>Topics: OOP, Software Engineering · Source: [chat, 21 Sep](../archive/teradata-oa/2026-09.jsonl#L37)</sub>
+
+## 2026-09-21 · Unknown · Intern · AI/ML Intern · Other round
+
+### Q1. AI/ML intern OA and interview overview
+
+The OA had three coding tasks plus a written explanation of the solution. Broad areas were two pointers and graphs. The interviews covered factorial implementations, boundary traversal of a binary tree, project design, and logging and error handling. The writer said ML knowledge was not needed. Exact questions are not given.
+
+<sub>Topics: OA Format, Two Pointers, Graphs · Source: [chat, 21 Sep](../archive/teradata-oa/2026-09.jsonl#L37)</sub>

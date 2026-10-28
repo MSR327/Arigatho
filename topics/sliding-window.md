@@ -1,6 +1,6 @@
 # Sliding Window
 
-7 questions from 5 companys, newest first. [← all topics](../README.md#topics)
+9 questions from 7 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
@@ -11,3 +11,5 @@
 | 2026-10-07 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Longest Substring Without Repeating Characters](../companies/harness.md#q5-longest-substring-without-repeating-characters) | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
 | 2026-10-07 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Count Good Subarrays](../companies/harness.md#q4-count-good-subarrays) | |
 | 2026-10-05 | [InMobi](../companies/inmobi.md) | IIT BHU | [Count Nice Sub Array](../companies/inmobi.md#q3-count-nice-sub-array) | [1248](https://leetcode.com/problems/count-number-of-nice-subarrays/) Medium |
+| 2026-09-21 | [Chargebee](../companies/chargebee.md) | Unknown | [Minimum window substring](../companies/chargebee.md#q1-minimum-window-substring) | [76](https://leetcode.com/problems/minimum-window-substring/) Hard |
+| 2026-09-21 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Anagram substring search](../companies/eternal-zomato.md#q2-anagram-substring-search) | |

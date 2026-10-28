@@ -1,6 +1,6 @@
 # Two Pointers
 
-7 questions from 7 companys, newest first. [← all topics](../README.md#topics)
+10 questions from 9 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
@@ -11,3 +11,6 @@
 | 2026-10-07 | [Harness](../companies/harness.md) | MNNIT Allahabad | [3Sum Closest](../companies/harness.md#q2-3sum-closest) | [16](https://leetcode.com/problems/3sum-closest/) Medium |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Reverse string keeping spaces + word count](../companies/infoedge.md#q9-reverse-string-keeping-spaces--word-count) | |
 | 2026-09-29 | [Kickdrum](../companies/kickdrum.md) | Unknown | [Hossam and Friends (Codeforces)](../companies/kickdrum.md#q1-hossam-and-friends-codeforces) | |
+| 2026-09-21 | [Teradata](../companies/teradata.md) | Unknown | [AI/ML intern OA and interview overview](../companies/teradata.md#q1-aiml-intern-oa-and-interview-overview) | |
+| 2026-09-21 | [Paytm](../companies/paytm.md) | Unknown | [Palindrome check](../companies/paytm.md#q11-palindrome-check) | |
+| 2026-09-21 | [Paytm](../companies/paytm.md) | Unknown | [Linked list cycle detection](../companies/paytm.md#q7-linked-list-cycle-detection) | [141](https://leetcode.com/problems/linked-list-cycle/) Easy |

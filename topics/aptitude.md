@@ -1,12 +1,28 @@
 # Aptitude
 
-107 questions from 12 companys, newest first. [← all topics](../README.md#topics)
+130 questions from 13 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [Data Science track MCQ pattern](../companies/american-express.md#q4-data-science-track-mcq-pattern) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - LR/DI section](../companies/american-express.md#q2-amex-ds--analytics---lrdi-section) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - Numerical Ability section](../companies/american-express.md#q1-amex-ds--analytics---numerical-ability-section) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Surface area of a cube with a square tunnel](../companies/deloitte.md#q19-surface-area-of-a-cube-with-a-square-tunnel) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Profit percentage: 23 articles bought for ₹8, sold for ₹10](../companies/deloitte.md#q18-profit-percentage-23-articles-bought-for-8-sold-for-10) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Two circles with radii ratio 5:3 and tangent from P](../companies/deloitte.md#q17-two-circles-with-radii-ratio-53-and-tangent-from-p) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Probability: sum of two spins of an 8-sector spinner is prime](../companies/deloitte.md#q16-probability-sum-of-two-spins-of-an-8-sector-spinner-is-prime) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Bar graph: average IT employees of company Q](../companies/deloitte.md#q15-bar-graph-average-it-employees-of-company-q) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Oil and water mixture: 25% replaced with water](../companies/deloitte.md#q14-oil-and-water-mixture-25-replaced-with-water) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Distributing 22 coupons among 6 students](../companies/deloitte.md#q13-distributing-22-coupons-among-6-students) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Ice cream market research inference](../companies/deloitte.md#q11-ice-cream-market-research-inference) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Pallavi's walk: shortest distance and direction from R](../companies/deloitte.md#q10-pallavis-walk-shortest-distance-and-direction-from-r) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Critical reasoning: lifts in buildings](../companies/deloitte.md#q9-critical-reasoning-lifts-in-buildings) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [KALEIDOSCOPE rearranged: 7th letter from left](../companies/deloitte.md#q8-kaleidoscope-rearranged-7th-letter-from-left) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Assumptions: food wastage awareness](../companies/deloitte.md#q7-assumptions-food-wastage-awareness) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Seven photographers: photos taken by the two seated next to Echo](../companies/deloitte.md#q6-seven-photographers-photos-taken-by-the-two-seated-next-to-echo) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Seven photographers circular seating: who sits clockwise of Boreas](../companies/deloitte.md#q5-seven-photographers-circular-seating-who-sits-clockwise-of-boreas) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Eighth book in alphabetical pattern A, E, I, M, Q](../companies/deloitte.md#q4-eighth-book-in-alphabetical-pattern-a-e-i-m-q) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Attention to details: multiples of 10 in a sequence](../companies/deloitte.md#q3-attention-to-details-multiples-of-10-in-a-sequence) |
 | 2026-10-22 | [Slice](../companies/slice.md) | MNNIT Allahabad | [Aptitude MCQs (finance/business and probability)](../companies/slice.md#q1-aptitude-mcqs-financebusiness-and-probability) |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Probability MCQs (Bayes' theorem, circular bead arrangement)](../companies/accelequant.md#q4-probability-mcqs-bayes-theorem-circular-bead-arrangement) |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Speed Math: (45.6)^2 − (44.4)^2](../companies/futures-first.md#q15-speed-math-4562--4442) |
@@ -110,4 +126,11 @@
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Logical Reasoning: Circle Map (seating)](../companies/infoedge.md#q7-logical-reasoning-circle-map-seating) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Simple interest capital](../companies/infoedge.md#q6-simple-interest-capital) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Petrol replaced by kerosene (mixtures)](../companies/infoedge.md#q2-petrol-replaced-by-kerosene-mixtures) |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Probability it snowed given father's claim](../companies/eternal-zomato.md#q6-probability-it-snowed-given-fathers-claim) |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Painted cube with red and blue faces](../companies/eternal-zomato.md#q5-painted-cube-with-red-and-blue-faces) |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Probability sample mean exceeds 55 (normal distribution)](../companies/eternal-zomato.md#q4-probability-sample-mean-exceeds-55-normal-distribution) |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Highest power of 24 dividing 150!](../companies/eternal-zomato.md#q3-highest-power-of-24-dividing-150) |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Mean and variance of archer's successful attempts](../companies/eternal-zomato.md#q1-mean-and-variance-of-archers-successful-attempts) |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Aptitude: linear equations and zeros in 100!](../companies/eternal-zomato.md#q2-aptitude-linear-equations-and-zeros-in-100) |
 | 2026-09-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Aptitude section (Product Analyst)](../companies/eternal-zomato.md#q1-aptitude-section-product-analyst) |
+| 2026-09-24 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Aptitude section format](../companies/eternal-zomato.md#q1-aptitude-section-format) |

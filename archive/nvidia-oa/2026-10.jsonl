@@ -115,3 +115,5 @@
 {"id": 6237, "group": "nvidia-oa", "sent_at": "2026-10-13T16:31:18.148223+00:00", "text": "bhai yaha kisi ka oa hua hai  kya iss role pe nvidia ka", "author_tag": "NSUT", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 6614, "group": "nvidia-oa", "sent_at": "2026-10-14T13:00:43.55436+00:00", "text": "PLEASE NVIDIA ANYWHERE", "author_tag": "ISM", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 6655, "group": "nvidia-oa", "sent_at": "2026-10-14T14:19:10.713369+00:00", "text": "will pyq  will do", "author_tag": "IITD", "reply_to": {"id": 6614, "text": "PLEASE NVIDIA ANYWHERE", "author_tag": "ISM"}, "attachment": null, "deleted": false}
+{"id": 15189, "group": "nvidia-oa", "sent_at": "2026-10-28T15:37:35.336688+00:00", "text": "I didn't write", "author_tag": "IITB", "reply_to": {"id": 15139, "text": "Pls share oa questions after oa for hardware. Thanks!", "author_tag": "IITR"}, "attachment": null, "deleted": false}
+{"id": 15316, "group": "nvidia-oa", "sent_at": "2026-10-28T19:20:21.518145+00:00", "text": "Qualcomm oa done anywher", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": false}

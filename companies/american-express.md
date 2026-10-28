@@ -1,14 +1,15 @@
 # American Express
 
-**17 questions** from 6 OA drives · seen at IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Mandi, IIT Roorkee, MNNIT Allahabad · latest 2026-10-28
+**18 questions** from 7 OA drives · seen at IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Mandi, IIT Roorkee, MNNIT Allahabad · latest 2026-10-28
 
-**Topics:** [OA Format](../topics/oa-format.md) (7) · [ML/AI](../topics/ml-ai.md) (4) · [Aptitude](../topics/aptitude.md) (3) · [Hashing](../topics/hashing.md) (2) · [SQL](../topics/sql.md) (2) · [Python & Pandas](../topics/python-pandas.md) (2) · [Strings](../topics/strings.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Sliding Window](../topics/sliding-window.md) (1) · [Arrays](../topics/arrays.md) (1) · [Trees](../topics/trees.md) (1) · [Graphs](../topics/graphs.md) (1) · [Other](../topics/other.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (8) · [ML/AI](../topics/ml-ai.md) (4) · [Aptitude](../topics/aptitude.md) (3) · [Hashing](../topics/hashing.md) (2) · [SQL](../topics/sql.md) (2) · [Python & Pandas](../topics/python-pandas.md) (2) · [Strings](../topics/strings.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Sliding Window](../topics/sliding-window.md) (1) · [Arrays](../topics/arrays.md) (1) · [Trees](../topics/trees.md) (1) · [Graphs](../topics/graphs.md) (1) · [Other](../topics/other.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1)
 
 **LeetCode matches:** 3 (see the [practice list](../practice.md))
 
 **Drives:**
 
 - [2026-10-27 · IIT Roorkee · FTE](#2026-10-27--iit-roorkee--fte) · 4 questions
+- [2026-10-27 · IIT Hyderabad · FTE · Data Science & Analytics](#2026-10-27--iit-hyderabad--fte--data-science--analytics) · 1 question
 - [2026-10-27 · IIT Guwahati · FTE](#2026-10-27--iit-guwahati--fte) · 3 questions
 - [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte) · 4 questions
 - [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte) · 1 question
@@ -44,6 +45,20 @@ American Express Data Engineer track: a Python question about finding the number
 American Express Data Science role OA (as reported from IIT Roorkee): 45 MCQs in 60 minutes. 17 aptitude/logical questions, 16 data interpretation questions, and 12 coding questions on prompt engineering, Python and SQL.
 
 <sub>Topics: OA Format, Aptitude · Source: [chat, 27 Oct](../archive/inter-nit/2026-10.jsonl#L2634), [chat, 27 Oct](../archive/inter-nit/2026-10.jsonl#L2645) · Also asked at: IIT Roorkee (2026-10-28)</sub>
+
+## 2026-10-27 · IIT Hyderabad · FTE · Data Science & Analytics
+
+### Q1. Amex DS & Analytics OA format
+
+3 sections, each with +1 marking and -0.25 negative marking:
+
+1. Numerical ability (17 questions, 23 mins): heavy on mean, median, mode, plus a few easy probability questions.
+2. LR/DI (16 questions, 22 mins): mostly graph-based questions, very little logical reasoning, mostly easy.
+3. Tech (12 questions, 15 mins): mostly prompt engineering (what the prompt should look like), 2 SQL MCQs and 2 Python MCQs.
+
+The poster noted many questions in sections 1 and 2 were wrong, with options not matching.
+
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/american-express-oa/2026-10.jsonl#L3), [chat, 27 Oct](../archive/american-express-oa/2026-10.jsonl#L4)</sub>
 
 ## 2026-10-27 · IIT Guwahati · FTE
 

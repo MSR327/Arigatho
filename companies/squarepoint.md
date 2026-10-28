@@ -1,8 +1,8 @@
 # Squarepoint
 
-**6 questions** from 4 OA drives · seen at IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee · latest 2026-10-15
+**10 questions** from 8 OA drives · seen at IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee, Unknown · latest 2026-10-15
 
-**Topics:** [Graphs](../topics/graphs.md) (2) · [Arrays](../topics/arrays.md) (2) · [Strings](../topics/strings.md) (1) · [Sorting](../topics/sorting.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Hashing](../topics/hashing.md) (1) · [Math](../topics/math.md) (1) · [Trees](../topics/trees.md) (1) · [DP](../topics/dp.md) (1)
+**Topics:** [Graphs](../topics/graphs.md) (2) · [Arrays](../topics/arrays.md) (2) · [OA Format](../topics/oa-format.md) (2) · [Other](../topics/other.md) (2) · [OOP](../topics/oop.md) (2) · [Strings](../topics/strings.md) (1) · [Sorting](../topics/sorting.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Hashing](../topics/hashing.md) (1) · [Math](../topics/math.md) (1) · [Trees](../topics/trees.md) (1) · [DP](../topics/dp.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1)
 
 **LeetCode matches:** 1 (see the [practice list](../practice.md))
 
@@ -12,6 +12,10 @@
 - [2026-10-04 · IIT Roorkee · FTE](#2026-10-04--iit-roorkee--fte) · 1 question
 - [2026-10-02 · IIT Roorkee · FTE](#2026-10-02--iit-roorkee--fte) · 1 question
 - [2026-10-02 · IIT Kharagpur/Kanpur · FTE](#2026-10-02--iit-kharagpurkanpur--fte) · 1 question
+- [2026-09-21 · Unknown · FTE · Software Engineer](#2026-09-21--unknown--fte--software-engineer) · 1 question
+- [2026-09-21 · Unknown · FTE · Software Engineer · Interview](#2026-09-21--unknown--fte--software-engineer--interview) · 1 question
+- [2026-09-21 · Unknown · FTE · Graduate C++ Developer · Interview](#2026-09-21--unknown--fte--graduate-c-developer--interview) · 1 question
+- [2026-09-21 · Unknown · FTE · Desk Quant Analyst · Other round](#2026-09-21--unknown--fte--desk-quant-analyst--other-round) · 1 question
 
 [← all companies](../README.md#companies)
 
@@ -111,3 +115,41 @@ One of the Squarepoint OA questions, reported as exactly the same as the FastPre
 Think of a search engine that has the vector `words` as its database. The string `search` is your current keyword. As you type the search word character by character, the search engine gives 3 suggestions whose prefixes match the current state of the search word, so you get a new recommendation list after each character typed. If more than three words in the database match the current prefix, return the three lexicographically smallest ones. If none match, return an empty list. Return the list of suggestion lists, one for each prefix of the search word.
 
 <sub>Topics: Strings, Sorting, Binary Search · Similar: [LeetCode 1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) (Medium) · Source: [chat, 2 Oct](../archive/inter-nit/2026-10.jsonl#L1164)</sub>
+
+## 2026-09-21 · Unknown · FTE · Software Engineer
+
+### Q1. Online test: two medium coding problems
+
+A campus software-engineer account reports two medium coding problems in the online test. The actual problem statements are not given.
+
+<sub>Topics: OA Format · Source: [chat, 21 Sep](../archive/squarepoint-oa/2026-09.jsonl#L98)</sub>
+
+## 2026-09-21 · Unknown · FTE · Software Engineer · Interview
+
+### Q1. C++ and systems interview topics
+
+Interviews covered C++17 versus C++14, structured bindings, balanced-tree map internals, concurrency and locking, casts, memory allocation and TCP/IP. Later discussion included Python generators and the GIL, project implementation, and data-structure problem solving.
+
+The exact questions are not given.
+
+<sub>Topics: Other, OOP, OS/DBMS/CN MCQ · Source: [chat, 21 Sep](../archive/squarepoint-oa/2026-09.jsonl#L98)</sub>
+
+## 2026-09-21 · Unknown · FTE · Graduate C++ Developer · Interview
+
+### Q1. One-hour C++ interview: pointers, polymorphism, production-ready code
+
+A graduate C++ account describes a one-hour interview: work experience, pointers, polymorphism and virtual functions, then coding and discussion of how to make the implementation suitable for production.
+
+The exact coding problem is not given.
+
+<sub>Topics: OOP, Other · Source: [chat, 21 Sep](../archive/squarepoint-oa/2026-09.jsonl#L98)</sub>
+
+## 2026-09-21 · Unknown · FTE · Desk Quant Analyst · Other round
+
+### Q1. Desk Quant Analyst process: HackerRank, live coding, probability, HR
+
+The Desk Quant Analyst record describes a one-hour HackerRank assessment, live coding, probability/statistics discussion and HR.
+
+No specific questions are given.
+
+<sub>Topics: OA Format · Source: [chat, 21 Sep](../archive/squarepoint-oa/2026-09.jsonl#L98)</sub>

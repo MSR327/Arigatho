@@ -1,9 +1,10 @@
 # Bit Manipulation
 
-14 questions from 12 companys, newest first. [← all topics](../README.md#topics)
+17 questions from 16 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [XOR of 1..N with one value skipped](../companies/deloitte.md#q25-xor-of-1n-with-one-value-skipped) | |
 | 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | [Minimum K with Even Powers of 2](../companies/visa.md#q2-minimum-k-with-even-powers-of-2) | |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [32-bit Multiplication on 16-bit ALU](../companies/nvidia.md#q4-32-bit-multiplication-on-16-bit-alu) | |
 | 2026-10-25 | [Paytm](../companies/paytm.md) | BITS Pilani | [Number of Steps to Reduce a Number in Binary Representation to One (LC 1404)](../companies/paytm.md#q1-number-of-steps-to-reduce-a-number-in-binary-representation-to-one-lc-1404) | [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) Medium |
@@ -16,5 +17,7 @@
 | 2026-10-09 | [Spotnana](../companies/spotnana.md) | IIT Kanpur | [k-th largest OR over all subarrays](../companies/spotnana.md#q3-k-th-largest-or-over-all-subarrays) | |
 | 2026-10-06 | [Pace Stock](../companies/pace-stock.md) | IIT Kharagpur | [Subarrays whose bitwise OR is present in the subarray](../companies/pace-stock.md#q1-subarrays-whose-bitwise-or-is-present-in-the-subarray) | |
 | 2026-10-05 | [InMobi](../companies/inmobi.md) | IIT BHU | [Circular Defense](../companies/inmobi.md#q1-circular-defense) | |
-| 2025-10-03 | [Accenture](../companies/accenture.md) | Unknown | [Bit-shift expression equal to 6 × n](../companies/accenture.md#q20-bit-shift-expression-equal-to-6--n) | |
+| 2026-09-22 | [Calix](../companies/calix.md) | IIT Dhanbad | [Largest group of strings differing by one character](../companies/calix.md#q4-largest-group-of-strings-differing-by-one-character) | |
+| 2026-09-21 | [Chargebee](../companies/chargebee.md) | Unknown | [Sieve / bit-manipulation task](../companies/chargebee.md#q2-sieve--bit-manipulation-task) | |
+| 2026-09-21 | [Google](../companies/google.md) | Unknown | [Intern OA: tree/XOR and range-update problems](../companies/google.md#q3-intern-oa-treexor-and-range-update-problems) | |
 | 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [Shift expression equal to 6n](../companies/accenture.md#q20-shift-expression-equal-to-6n) | |

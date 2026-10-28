@@ -1,12 +1,22 @@
 # Verbal
 
-20 questions from 3 companys, newest first. [← all topics](../README.md#topics)
+30 questions from 4 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Communication assessment round sections](../companies/accenture.md#q1-communication-assessment-round-sections) |
-| 2026-10-24 | [Accenture](../companies/accenture.md) | IIT Kharagpur/Kanpur | [Communication assessment format (spoken and email)](../companies/accenture.md#q1-communication-assessment-format-spoken-and-email) |
-| 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Accenture ETE AI-assisted verbal communication assessment](../companies/accenture.md#q5-accenture-ete-ai-assisted-verbal-communication-assessment) |
+| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Communication round: speaking section format](../companies/accenture.md#q41-communication-round-speaking-section-format) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Error detection: start to panic](../companies/deloitte.md#q36-error-detection-start-to-panic) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Fill in the blank: poured tea the cup](../companies/deloitte.md#q35-fill-in-the-blank-poured-tea-the-cup) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Sentence arrangement: army surgeon at Bombay](../companies/deloitte.md#q34-sentence-arrangement-army-surgeon-at-bombay) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Fill in the blank: The Roys and their wealth](../companies/deloitte.md#q33-fill-in-the-blank-the-roys-and-their-wealth) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Reading comprehension: what Koji and Haruki learnt](../companies/deloitte.md#q32-reading-comprehension-what-koji-and-haruki-learnt) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Reading comprehension: Koji and Haruki's trees (seasons changed)](../companies/deloitte.md#q31-reading-comprehension-koji-and-harukis-trees-seasons-changed) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Sentence arrangement: microwaved food](../companies/deloitte.md#q23-sentence-arrangement-microwaved-food) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Error detection: letters to each other](../companies/deloitte.md#q12-error-detection-letters-to-each-other) |
+| 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Sentence correction: looking up them who have spoken](../companies/deloitte.md#q2-sentence-correction-looking-up-them-who-have-spoken) |
+| 2026-10-27 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Verbal and written communication assessment](../companies/accenture.md#q1-verbal-and-written-communication-assessment) |
+| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Communication assessment sections](../companies/accenture.md#q1-communication-assessment-sections) |
+| 2026-10-26 | [Accenture](../companies/accenture.md) | IIT BHU | [Communication round sections and email topic](../companies/accenture.md#q1-communication-round-sections-and-email-topic) |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture ETE OA structure and communication round](../companies/accenture.md#q2-accenture-ete-oa-structure-and-communication-round) |
 | 2026-10-19 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture Elite communication round format](../companies/accenture.md#q1-accenture-elite-communication-round-format) |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | Unknown | [Elite Technology Engineer communication round](../companies/accenture.md#q1-elite-technology-engineer-communication-round) |
