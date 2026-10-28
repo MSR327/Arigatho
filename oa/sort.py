@@ -10,7 +10,7 @@ from datetime import date
 
 from oa import leetcode
 from oa.common import (ARCHIVE, BATCH_SIZE, COLLEGE_ALIASES, COMPANY_ALIASES, LOGS, MODELS, PROMPTS,
-                       QUESTIONS, ROOT, STATE, TOPICS, append_jsonl, canonical, load_groups, log,
+                       QUESTIONS, RESERVE_FROM, ROOT, STATE, TOPICS, append_jsonl, canonical, load_groups, log,
                        notify, read_jsonl, short_error)
 from oa.store import Archive, attachment_relpath, load_state, save_state
 
@@ -123,14 +123,31 @@ def build_batch_prompt(batch, companies, groups=None):
     )
 
 
+USAGE = {"five_hour": None}  # latest share (0-1) of the 5-hour window used, as claude reports it
+
+
 def run_claude(prompt, schema, model=None):
-    cmd = ["claude", "-p", prompt, "--output-format", "json", "--no-session-persistence",
-           *(["--model", model] if model else []),
+    used = USAGE["five_hour"]
+    if used is not None and used >= RESERVE_FROM:
+        raise UsageLimit(f"keeping the last {1 - RESERVE_FROM:.0%} of the 5-hour limit free "
+                         f"({used:.0%} used)")
+    cmd = ["claude", "-p", prompt, "--output-format", "stream-json", "--verbose",
+           "--no-session-persistence", *(["--model", model] if model else []),
            "--allowedTools", "Read", "--json-schema", json.dumps(schema)]
     r = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True, timeout=1200)
-    try:
-        out = json.loads(r.stdout)
-    except ValueError:
+    out = None
+    for line in r.stdout.splitlines():
+        try:
+            event = json.loads(line)
+        except ValueError:
+            continue
+        if event.get("type") == "rate_limit_event":
+            window = (event.get("rate_limit_info") or {}).get("unifiedWindows", {}).get("five_hour", {})
+            if "utilization" in window:
+                USAGE["five_hour"] = window["utilization"]
+        elif event.get("type") == "result":
+            out = event
+    if out is None:
         msg = (r.stdout + r.stderr)[-500:]
         raise (UsageLimit if re.search(r"limit", msg, re.I) else ClaudeError)(msg)
     if out.get("is_error") or out.get("structured_output") is None:

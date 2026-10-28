@@ -28,6 +28,9 @@ BATCH_SIZE = 40  # messages per claude -p call
 # Cheapest model that does each job well, to spare the Claude plan: sorting reads screenshots and
 # whole conversations; matching reposts and re-tagging are simple text comparisons.
 MODELS = {"sort": "sonnet", "dedupe": "haiku", "enrich": "haiku"}
+# Stop starting claude calls once this share of the plan's 5-hour window is used, so the user
+# keeps the rest for themselves; the run stops cleanly and the next one continues.
+RESERVE_FROM = 0.90
 KEYCHAIN_SERVICE = "oa-tracker"
 
 # Grouped for the README; TOPICS (the flat list Claude chooses from) is built from these.

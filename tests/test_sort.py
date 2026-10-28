@@ -293,3 +293,24 @@ def test_dedupe_pending_ignores_rows_without_flag(tmp_path):
     calls = []
     assert dedupe_pending(p, runner=lambda pr, s: calls.append(pr)) == 0
     assert calls == [] and all("deduped" not in r for r in read_jsonl(p))
+
+
+def test_run_claude_reads_usage_and_keeps_a_reserve(monkeypatch):
+    import json as _json
+    import subprocess as _sp
+    import oa.sort as sort_mod
+
+    def fake_run(cmd, **kw):
+        assert "--model" in cmd and "stream-json" in cmd
+        events = [{"type": "system", "subtype": "init"},
+                  {"type": "rate_limit_event", "rate_limit_info": {"unifiedWindows": {
+                      "five_hour": {"utilization": 0.93}}}},
+                  {"type": "result", "subtype": "success", "is_error": False, "structured_output": {"x": 1}}]
+        return _sp.CompletedProcess(cmd, 0, "\n".join(_json.dumps(e) for e in events), "")
+
+    monkeypatch.setattr(sort_mod.subprocess, "run", fake_run)
+    monkeypatch.setitem(sort_mod.USAGE, "five_hour", None)
+    assert sort_mod.run_claude("p", {}, model="haiku") == {"x": 1}  # usage unknown: runs
+    assert sort_mod.USAGE["five_hour"] == 0.93
+    with pytest.raises(UsageLimit, match="10% of the 5-hour limit free"):
+        sort_mod.run_claude("p", {}, model="haiku")  # 93% used: no new call
