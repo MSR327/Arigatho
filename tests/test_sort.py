@@ -161,3 +161,41 @@ def test_apply_duplicates_resolves_chains(tmp_path):
     append_jsonl(p, [q("1-1", "Harness", "a"), q("2-1", "Harness", "a"), q("3-1", "Harness", "a")])
     apply_duplicates(p, {"2-1": "1-1", "3-1": "2-1"})
     assert [r["duplicate_of"] for r in read_jsonl(p)] == [None, "1-1", "1-1"]
+
+
+def test_to_questions_keeps_only_real_leetcode_matches():
+    from oa.leetcode import Problems
+    probs = Problems([{"id": 1, "title": "Two Sum", "slug": "two-sum", "difficulty": "Easy"}])
+    qs = [{"title": "A", "text": "a", "topics": ["Arrays"], "leetcode": {"number": 1, "title": "Two sum"}},
+          {"title": "B", "text": "b", "topics": ["Arrays"], "leetcode": {"number": 1, "title": "Made up"}},
+          {"title": "C", "text": "c", "topics": ["Arrays"], "leetcode": None}]
+    rows = to_questions([share(questions=qs)], {6827}, probs)
+    assert rows[0]["leetcode"]["slug"] == "two-sum"
+    assert rows[1]["leetcode"] is None and rows[2]["leetcode"] is None
+    assert all(r["rev"] == 2 and r["md"] for r in rows)
+
+
+def test_enrich_retags_resumably(tmp_path):
+    from oa.sort import enrich, write_rows
+    path = tmp_path / "q.jsonl"
+    base = {"company": "TI", "college": "IIT BHU", "date": "2026-10-25", "role": "fte",
+            "text": "t", "source_ids": [1], "duplicate_of": None}
+    write_rows(path, [dict(base, qid="1-1", title="Op-amp", topics=["Other"]),
+                      dict(base, qid="1-2", title="NMOS", topics=["Other"]),
+                      dict(base, qid="1-3", title="Repost", topics=["Other"], duplicate_of="1-1"),
+                      dict(base, qid="1-4", title="Done", topics=["Arrays"], rev=2)])
+    seen = []
+
+    def runner(prompt, schema):
+        seen.append(prompt)
+        if len(seen) == 1:
+            return {"items": [{"qid": "1-1", "topics": ["Analog Electronics"], "leetcode": None},
+                              {"qid": "9-9", "topics": ["DP"], "leetcode": None}]}  # not asked: ignored
+        raise UsageLimit("You've hit your session limit")
+
+    with pytest.raises(UsageLimit):
+        enrich(path, runner=runner, batch_size=1)
+    rows = {r["qid"]: r for r in read_jsonl(path)}
+    assert rows["1-1"]["topics"] == ["Analog Electronics"] and rows["1-1"]["rev"] == 2
+    assert rows["1-2"]["topics"] == ["Other"] and "rev" not in rows["1-2"]  # resumes here
+    assert "[1-1] TI: Op-amp" in seen[0] and "Repost" not in "".join(seen) and "Done" not in "".join(seen)

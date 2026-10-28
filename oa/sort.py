@@ -8,10 +8,19 @@ import sys
 from collections import Counter
 from datetime import date
 
+from oa import leetcode
 from oa.common import (ARCHIVE, BATCH_SIZE, COLLEGE_ALIASES, COMPANY_ALIASES, LOGS, PROMPTS,
                        QUESTIONS, ROOT, STATE, TOPICS, append_jsonl, canonical, log, notify,
                        read_jsonl, short_error)
 from oa.store import Archive, attachment_relpath, load_state, save_state
+
+REV = 2  # rows sorted or enriched with the v2 topic list and LeetCode matching
+ENRICH_BATCH = 30  # questions per claude -p call when re-tagging existing questions
+
+LEETCODE_SCHEMA = {"anyOf": [
+    {"type": "null"},
+    {"type": "object", "properties": {"number": {"type": "integer"}, "title": {"type": "string"}},
+     "required": ["number", "title"], "additionalProperties": False}]}
 
 SORT_SCHEMA = {
     "type": "object",
@@ -30,8 +39,9 @@ SORT_SCHEMA = {
                     "text": {"type": "string"},
                     "topics": {"type": "array", "items": {"enum": TOPICS},
                                "minItems": 1, "maxItems": 3},
+                    "leetcode": LEETCODE_SCHEMA,
                 },
-                "required": ["title", "text", "topics"], "additionalProperties": False}},
+                "required": ["title", "text", "topics", "leetcode"], "additionalProperties": False}},
         },
         "required": ["company", "college", "date", "role", "source_ids", "questions"],
         "additionalProperties": False}}},
@@ -96,7 +106,7 @@ def run_claude(prompt, schema):
     return out["structured_output"]
 
 
-def to_questions(shares, batch_ids):
+def to_questions(shares, batch_ids, problems=None):
     rows, seq = [], Counter()
     for s in shares:
         if not s["company"].strip() or not s["college"].strip():
@@ -117,7 +127,8 @@ def to_questions(shares, batch_ids):
                          "date": s["date"], "role": s["role"],
                          "title": q["title"].strip(), "text": q["text"].strip(),
                          "topics": q["topics"], "source_ids": sorted(s["source_ids"]),
-                         "duplicate_of": None})
+                         "leetcode": problems.match(q.get("leetcode")) if problems else None,
+                         "rev": REV, "md": True, "duplicate_of": None})
     return rows
 
 
@@ -132,7 +143,7 @@ def known_companies(rows):
 
 
 def sort_pending(archive, state, runner=run_claude, batch_size=BATCH_SIZE, limit=None,
-                 save=lambda: None, questions_path=QUESTIONS):
+                 save=lambda: None, questions_path=QUESTIONS, problems=None):
     done = set(state["sorted_ids"])
     pending = [r for r in archive.all() if r["id"] not in done]
     if limit is not None:
@@ -150,7 +161,7 @@ def sort_pending(archive, state, runner=run_claude, batch_size=BATCH_SIZE, limit
         rows = None
         for attempt in (1, 2):
             try:
-                rows = to_questions(runner(prompt, SORT_SCHEMA)["shares"], ids)
+                rows = to_questions(runner(prompt, SORT_SCHEMA)["shares"], ids, problems)
                 break
             except UsageLimit:
                 raise
@@ -240,12 +251,72 @@ def apply_duplicates(path, dupes):
     write_rows(path, rows)
 
 
+ENRICH_SCHEMA = {
+    "type": "object",
+    "properties": {"items": {"type": "array", "items": {
+        "type": "object",
+        "properties": {"qid": {"type": "string"},
+                       "topics": {"type": "array", "items": {"enum": TOPICS},
+                                  "minItems": 1, "maxItems": 3},
+                       "leetcode": LEETCODE_SCHEMA},
+        "required": ["qid", "topics", "leetcode"], "additionalProperties": False}}},
+    "required": ["items"], "additionalProperties": False,
+}
+
+
+def build_enrich_prompt(rows):
+    qs = "\n\n".join(f"[{r['qid']}] {r['company']}: {r['title']}\n{r['text'][:1500]}" for r in rows)
+    return (PROMPTS / "enrich.md").read_text().format(topics=", ".join(TOPICS), questions=qs)
+
+
+def enrich(path=QUESTIONS, runner=run_claude, problems=None, batch_size=ENRICH_BATCH, limit=None):
+    """Re-tag existing questions with the current topic list and LeetCode matches. Saves after
+    every batch and skips rows already done, so it can stop (usage limit) and resume."""
+    rows = read_jsonl(path)
+    todo = [r for r in rows if not r["duplicate_of"] and r.get("rev", 1) < REV]
+    if limit is not None:
+        todo = todo[:limit]
+    by_qid = {r["qid"]: r for r in rows}
+    done = 0
+    for i in range(0, len(todo), batch_size):
+        batch = todo[i:i + batch_size]
+        ids = {r["qid"] for r in batch}
+        try:
+            items = runner(build_enrich_prompt(batch), ENRICH_SCHEMA)["items"]
+        except UsageLimit:
+            raise
+        except (ClaudeError, KeyError, TypeError) as e:
+            log(f"enrich batch {i // batch_size + 1} failed: {short_error(e)}")
+            continue
+        for it in items:
+            r = by_qid.get(it.get("qid"))
+            topics = it.get("topics") or []
+            if it.get("qid") not in ids or not topics or len(topics) > 3 or not set(topics) <= set(TOPICS):
+                continue
+            r["topics"] = topics
+            r["leetcode"] = problems.match(it.get("leetcode")) if problems else None
+            r["rev"] = REV
+            done += 1
+        write_rows(path, rows)
+        log(f"enrich batch {i // batch_size + 1}: {done}/{len(todo)} questions re-tagged")
+    return done
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, help="only sort the first N pending messages")
     ap.add_argument("--dedupe-all", action="store_true",
                     help="one-off: normalise names and re-check every question for reposts")
+    ap.add_argument("--enrich", action="store_true",
+                    help="re-tag existing questions with the current topics and LeetCode matches")
     args = ap.parse_args(argv)
+    if args.enrich:
+        try:
+            n = enrich(problems=leetcode.load(), limit=args.limit)
+            log(f"enrich: {n} questions re-tagged")
+        except UsageLimit as e:
+            log(f"enrich stopped early (usage limit); run it again later: {e}")
+        return 0
     if args.dedupe_all:
         rows = normalize_rows(read_jsonl(QUESTIONS))
         write_rows(QUESTIONS, rows)
@@ -258,7 +329,7 @@ def main(argv=None):
     new_rows, stopped = [], None
     try:
         new_rows = sort_pending(archive, state, limit=args.limit,
-                                save=lambda: save_state(STATE, state))
+                                save=lambda: save_state(STATE, state), problems=leetcode.load())
         if new_rows:
             apply_duplicates(QUESTIONS, dedupe(new_rows, read_jsonl(QUESTIONS)))
     except UsageLimit as e:

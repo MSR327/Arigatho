@@ -15,6 +15,8 @@ STATE = ROOT / "state.json"
 LOGS = ROOT / "logs"
 PROFILE = ROOT / "chrome_profile"
 PROMPTS = ROOT / "prompts"
+LEETCODE = DATA / "leetcode.jsonl"
+GITHUB_REPO = "MSR327/Arigatho"
 
 BASE_URL = "https://www.oahelper.in"
 GROUPS = {
@@ -26,12 +28,18 @@ REQUEST_GAP = 1.0  # seconds between requests to oahelper.in
 BATCH_SIZE = 40  # messages per claude -p call
 KEYCHAIN_SERVICE = "oa-tracker"
 
-TOPICS = [
-    "Arrays", "Strings", "Hashing", "Two Pointers", "Sliding Window", "Binary Search",
-    "Sorting", "Greedy", "DP", "Graphs", "Trees", "Heaps", "Stack/Queue", "Linked List",
-    "Math", "Bit Manipulation", "Recursion/Backtracking", "SQL", "OS/DBMS/CN MCQ",
-    "Aptitude", "Other",
-]
+# Grouped for the README; TOPICS (the flat list Claude chooses from) is built from these.
+TOPIC_GROUPS = {
+    "DSA": ["Arrays", "Strings", "Hashing", "Two Pointers", "Sliding Window", "Binary Search",
+            "Sorting", "Greedy", "DP", "Graphs", "Trees", "Heaps", "Stack/Queue", "Linked List",
+            "Math", "Bit Manipulation", "Recursion/Backtracking"],
+    "CS & software": ["SQL", "OS/DBMS/CN MCQ", "OOP", "Code Output (C/C++/Java/Python)",
+                      "Python & Pandas", "ML/AI", "Web Dev", "Software Engineering"],
+    "EE & core": ["Circuits", "Analog Electronics", "Digital Electronics", "Signals & Systems",
+                  "Control Systems", "Communication", "Mechanical"],
+    "General": ["Aptitude", "Verbal", "OA Format", "Other"],
+}
+TOPICS = [t for group in TOPIC_GROUPS.values() for t in group]
 
 
 # Same place, different spellings (keys are lowercase). Applied to every question.
