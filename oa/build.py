@@ -8,7 +8,7 @@ from collections import Counter, defaultdict
 from datetime import datetime, timedelta
 
 from oa import leetcode
-from oa.common import ARCHIVE, QUESTIONS, ROOT, SKIP_GROUPS, TOPIC_GROUPS, load_groups, read_jsonl
+from oa.common import ARCHIVE, QUESTIONS, ROOT, TOPIC_GROUPS, load_groups, read_jsonl, skip_group
 from oa.store import Archive, attachment_relpath
 
 
@@ -241,6 +241,10 @@ def _practice_page(originals, dups, q_link):
 
 def build_site(rows, messages, out, now, locs=None, groups=None):
     locs = locs or {}
+    # placements only: internship drives stay in the data but are left off the pages
+    rows = [r for r in rows if r["role"] != "intern"]
+    kept = {r["qid"] for r in rows}
+    rows = [r for r in rows if r["duplicate_of"] in (None, *kept)]
     originals = [r for r in rows if not r["duplicate_of"]]
     dups = defaultdict(list)
     for r in rows:
@@ -317,19 +321,20 @@ def build_site(rows, messages, out, now, locs=None, groups=None):
         md.append(f"| {cell(college)} | {cell(parts)} |")
     md += ["", "</details>", "", "## About", "",
            "Online-assessment and interview questions shared in the OAHelper placement groups, for "
-           "every role, sorted by company, topic and college. A question shared again later is "
-           "folded into the first time it was seen (\"also asked at\")."]
+           "every full-time role, sorted by company, topic and college. Internship drives are left "
+           "out. A question shared again later is folded into the first time it was seen "
+           "(\"also asked at\")."]
     if groups:
         md += ["", f"Read daily from {_plural(len(groups), 'OAHelper group')}: "
                f"{sum(1 for g in groups.values() if g.get('role') == 'OA preparation')} company OA groups, "
                f"{sum(1 for g in groups.values() if g.get('role') == 'Campus')} campus groups, and the "
-               "placement and intern batch groups. New groups are joined automatically."]
+               "placement batch groups. New groups are joined automatically."]
     (out / "README.md").write_text("\n".join(md) + "\n")
 
 
 def main():
     rows = read_jsonl(QUESTIONS)
-    groups = {k: v for k, v in load_groups().items() if k not in SKIP_GROUPS}
+    groups = {k: v for k, v in load_groups().items() if not skip_group(k, v.get("role"))}
     build_site(rows, Archive(ARCHIVE).by_id(), ROOT, datetime.now(), message_lines(ARCHIVE), groups)
     print(f"built pages for {len(rows)} questions")
     return 0

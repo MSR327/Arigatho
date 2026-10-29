@@ -11,7 +11,7 @@ from datetime import date, datetime
 from oa import leetcode
 from oa.common import (ARCHIVE, BATCH_SIZE, COLLEGE_ALIASES, COMPANY_ALIASES, LOGS, MODELS, PROMPTS,
                        QUESTIONS, RESERVE_FROM, ROOT, STATE, TOPICS, append_jsonl, canonical, load_groups, log,
-                       notify, read_jsonl, short_error)
+                       notify, read_jsonl, short_error, skip_group)
 from oa.store import Archive, attachment_relpath, load_state, save_state
 
 REV = 2  # rows sorted or enriched with the v2 topic list and LeetCode matching
@@ -215,7 +215,9 @@ def sort_pending(archive, state, runner=None, batch_size=BATCH_SIZE, limit=None,
     state["sorted_ids"] += skip
     save()
     groups = load_groups()
-    todo = sorted((r for r in pending if is_sortable(r)),
+    # internship groups' messages are left unsorted (not marked done), so this can be undone
+    todo = sorted((r for r in pending if is_sortable(r)
+                   and not skip_group(r["group"], groups.get(r["group"], {}).get("role"))),
                   key=lambda r: (group_rank(r["group"], groups), r["group"], r["id"]))
     batches = [todo[i:i + batch_size] for i in range(0, len(todo), batch_size)]
     existing = read_jsonl(questions_path)

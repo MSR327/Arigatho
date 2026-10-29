@@ -134,3 +134,14 @@ def test_brackets_and_digits_in_names(tmp_path):
     build_site(rows, {}, tmp_path, NOW)
     assert "| **0–9** | [\\[24\\]7.ai](companies/24-7-ai.md) (1) |" in (tmp_path / "README.md").read_text()
     assert "  - [Max of a\\[i\\]](#q1-max-of-ai)" in (tmp_path / "companies" / "24-7-ai.md").read_text()
+
+
+def test_internship_drives_are_left_out(tmp_path):
+    intern = dict(q("9-1", "Nvidia", "IIT Bombay", "2026-10-14", "HW intern question", ["Circuits"]),
+                  role="intern")
+    repost = q("10-1", "Nvidia", "IIT Delhi", "2026-10-15", "HW intern repost", ["Circuits"], dup="9-1")
+    build_site(ROWS + [intern, repost], MSGS, tmp_path, NOW, LOCS)
+    nvidia = (tmp_path / "companies" / "nvidia.md").read_text()
+    assert "HW intern" not in nvidia and "IIT Delhi" not in nvidia  # its repost goes too
+    assert "**4 questions from 2 companies**" in (tmp_path / "README.md").read_text()
+    assert not (tmp_path / "topics" / "circuits.md").exists()

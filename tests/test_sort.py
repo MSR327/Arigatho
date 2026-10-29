@@ -393,3 +393,18 @@ def test_main_checks_leftover_reposts_before_sorting(monkeypatch):
     monkeypatch.setattr(sort_mod, "sort_pending", lambda *a, **kw: calls.append("sort"))
     sort_mod.main([])
     assert calls == ["dedupe", "sort", "dedupe"]
+
+
+def test_sort_pending_leaves_internship_groups_unsorted(tmp_path, monkeypatch):
+    import oa.sort as sort_mod
+    monkeypatch.setattr(sort_mod, "load_groups", lambda: {
+        "acc": {"name": "Accenture OA", "company": "Accenture", "role": "OA preparation"},
+        "intern-2027": {"name": "Intern 2027", "company": None, "role": "Internship"}})
+    archive = Archive(tmp_path / "archive")
+    archive.add([dict(rec(i, f"msg {i}"), group="intern-2027" if i % 2 else "acc") for i in range(1, 5)])
+    prompts = []
+    state = {"groups": {}, "sorted_ids": []}
+    sort_pending(archive, state, runner=lambda p, s: prompts.append(p) or {"shares": []},
+                 batch_size=10, questions_path=tmp_path / "q.jsonl")
+    assert len(prompts) == 1 and "[2] " in prompts[0] and "[1] " not in prompts[0]
+    assert sorted(state["sorted_ids"]) == [2, 4]  # not marked done, so this can be undone

@@ -19,8 +19,10 @@ LEETCODE = DATA / "leetcode.jsonl"
 GITHUB_REPO = "MSR327/Arigatho"
 
 BASE_URL = "https://www.oahelper.in"
-# Every joined OAHelper group is read, except these (an event and the site team's chat).
+# Every joined OAHelper group is read, except these (an event and the site team's chat) and
+# internship groups: the user prepares for placements only (29 Oct).
 SKIP_GROUPS = {"navratri-challenge", "oahelper-team"}
+SKIP_ROLES = {"Internship"}
 GROUPS_FILE = DATA / "groups.json"  # name, company/college and kind of each group, saved by fetch
 BACKFILL_FROM = "2026-07-20"
 REQUEST_GAP = 1.0  # seconds between requests to oahelper.in
@@ -66,6 +68,10 @@ COMPANY_ALIASES = {
 def load_groups():
     """{slug: {"name", "company", "role"}} as last saved by fetch."""
     return json.loads(GROUPS_FILE.read_text()) if GROUPS_FILE.exists() else {}
+
+
+def skip_group(slug, role):
+    return slug in SKIP_GROUPS or role in SKIP_ROLES
 
 
 def canonical(name, aliases):

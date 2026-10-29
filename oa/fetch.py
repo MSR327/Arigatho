@@ -9,7 +9,7 @@ import time
 from playwright.sync_api import sync_playwright
 
 from oa.common import (ARCHIVE, BACKFILL_FROM, BASE_URL, GROUPS_FILE, PROFILE, REQUEST_GAP, ROOT,
-                       SKIP_GROUPS, STATE, load_creds, log, notify, save_creds, short_error)
+                       STATE, load_creds, log, notify, save_creds, short_error, skip_group)
 from oa.feed import parse_message
 from oa.store import Archive, attachment_relpath, load_state, save_state
 
@@ -118,7 +118,7 @@ class FeedClient:
         Join request). Returns the groups joined."""
         new = []
         for g in self._json({"action": "directory", "q": ""})["groups"]:
-            if g["id"] in joined or g["slug"] in SKIP_GROUPS:
+            if g["id"] in joined or skip_group(g["slug"], g.get("role")):
                 continue
             r = self.ctx.request.post(API, data={"action": "join", "group_id": g["id"]})
             try:
@@ -237,7 +237,8 @@ def main(argv=None):
                 {g["slug"]: {k: g.get(k) for k in ("name", "company", "role")} for g in groups},
                 indent=1, sort_keys=True) + "\n")
             ids = {g["slug"]: g["id"] for g in groups}
-            slugs = [args.group] if args.group else sorted(s for s in ids if s not in SKIP_GROUPS)
+            roles = {g["slug"]: g.get("role") for g in groups}
+            slugs = [args.group] if args.group else sorted(s for s in ids if not skip_group(s, roles[s]))
             log(f"reading {len(slugs)} groups")
             archive, state = Archive(ARCHIVE), load_state(STATE)
             total = 0
