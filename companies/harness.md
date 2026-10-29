@@ -1,28 +1,69 @@
 # Harness
 
-**41 questions** from 13 OA drives · seen at IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Roorkee, MNNIT Allahabad, NIT Rourkela, NIT Surathkal · latest 2026-10-23
+**41 questions** · 13 drives · latest 23 Oct 2026 · [14 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [DP](../topics/dp.md) (11) · [Arrays](../topics/arrays.md) (9) · [Graphs](../topics/graphs.md) (8) · [Trees](../topics/trees.md) (7) · [Hashing](../topics/hashing.md) (6) · [OA Format](../topics/oa-format.md) (5) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (4) · [Sorting](../topics/sorting.md) (3) · [Sliding Window](../topics/sliding-window.md) (2) · [Strings](../topics/strings.md) (2) · [Greedy](../topics/greedy.md) (2) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (2) · [Two Pointers](../topics/two-pointers.md) (1) · [Linked List](../topics/linked-list.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [Web Dev](../topics/web-dev.md) (1) · [SQL](../topics/sql.md) (1) · [ML/AI](../topics/ml-ai.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Heaps](../topics/heaps.md) (1) · [OOP](../topics/oop.md) (1) · [Math](../topics/math.md) (1)
+**Asks about:** [DP](../topics/dp.md) 11 · [Arrays](../topics/arrays.md) 9 · [Graphs](../topics/graphs.md) 8 · [Trees](../topics/trees.md) 7 · [Hashing](../topics/hashing.md) 6 · [OA Format](../topics/oa-format.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Sorting](../topics/sorting.md) 3 · +14 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Roorkee, MNNIT Allahabad, NIT Rourkela +1 more
 
-**LeetCode matches:** 14 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-23 · IIT Kharagpur · FTE](#2026-10-23--iit-kharagpur--fte)
+  - [Harness OA format](#q1-harness-oa-format)
+- [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte)
+  - [Harness OA pattern](#q1-harness-oa-pattern)
+- [2026-10-16 · MNNIT Allahabad · FTE](#2026-10-16--mnnit-allahabad--fte)
+  - [Deadlock Detection (MCQ)](#q1-deadlock-detection-mcq)
+  - [Race Condition Final Values (MCQ)](#q2-race-condition-final-values-mcq)
+  - [Min Heap Operations (MCQ)](#q3-min-heap-operations-mcq)
+  - [OOP Concept (MCQ)](#q4-oop-concept-mcq)
+  - [Binary Tree Traversals (MSQ)](#q5-binary-tree-traversals-msq)
+  - [Subnetting Same Subnet Host (MCQ)](#q6-subnetting-same-subnet-host-mcq)
+  - [Count Inversions (MCQ)](#q7-count-inversions-mcq)
+  - [Decimal to Binary Code Output (MCQ)](#q8-decimal-to-binary-code-output-mcq)
+- [2026-10-16 · IIT Delhi · FTE](#2026-10-16--iit-delhi--fte)
+  - [Codeforces 592D](#q1-codeforces-592d)
+  - [Max points collecting coins in 2×n grid](#q2-max-points-collecting-coins-in-2n-grid)
+- [2026-10-15 · NIT Rourkela · FTE](#2026-10-15--nit-rourkela--fte)
+  - [OA pattern: Python, SQL, DSA, ML fundamentals, AI/LLM concepts](#q1-oa-pattern-python-sql-dsa-ml-fundamentals-aillm-concepts)
+- [2026-10-15 · IIT Roorkee · FTE](#2026-10-15--iit-roorkee--fte)
+  - [Minimum Days to Train and Execute Algorithms](#q1-minimum-days-to-train-and-execute-algorithms)
+- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte)
+  - [Count Valid Binary Strings](#q1-count-valid-binary-strings)
+  - [OA pattern and MCQs (10 MCQs + 2 coding)](#q2-oa-pattern-and-mcqs-10-mcqs--2-coding)
+  - [Grid path maximum score (2 rows)](#q3-grid-path-maximum-score-2-rows)
+  - [Minimum moves to visit required nodes in a tree](#q4-minimum-moves-to-visit-required-nodes-in-a-tree)
+- [2026-10-14 · IIT Guwahati · FTE](#2026-10-14--iit-guwahati--fte)
+  - [Count Valid Binary Strings](#q1-count-valid-binary-strings-1)
+- [2026-10-13 · IIT Guwahati · FTE](#2026-10-13--iit-guwahati--fte)
+  - [Minimum Jumps in a Grid](#q1-minimum-jumps-in-a-grid)
+  - [Tower Placement on a Tree](#q2-tower-placement-on-a-tree)
+  - [10 MCQs on Backend, Testing and SQL](#q3-10-mcqs-on-backend-testing-and-sql)
+- [2026-10-13 · IIT Guwahati · FTE · SDE-1](#2026-10-13--iit-guwahati--fte--sde-1)
+  - [Minimum Jumps in a Grid](#q1-minimum-jumps-in-a-grid-1)
+  - [Tower Placement on a Tree](#q2-tower-placement-on-a-tree-1)
+  - [Count Valid Binary Strings](#q3-count-valid-binary-strings)
+  - [MCQ section topics](#q4-mcq-section-topics)
+- [2026-10-11 · NIT Surathkal · FTE · SDE](#2026-10-11--nit-surathkal--fte--sde)
+  - [Maximum memory collection with row limit](#q1-maximum-memory-collection-with-row-limit)
+  - [Maximum weight of tree after degree constraint](#q2-maximum-weight-of-tree-after-degree-constraint)
+- [2026-10-10 · NIT Surathkal · FTE](#2026-10-10--nit-surathkal--fte)
+  - [Maximum Memory Collection with Row Limit](#q1-maximum-memory-collection-with-row-limit-1)
+  - [Maximum Weight Tree After Degree Constraints](#q2-maximum-weight-tree-after-degree-constraints)
+- [2026-10-07 · MNNIT Allahabad · FTE](#2026-10-07--mnnit-allahabad--fte)
+  - [Energy-Decay Graph](#q1-energy-decay-graph)
+  - [3Sum Closest](#q2-3sum-closest)
+  - [Subarray Sum Equals K](#q3-subarray-sum-equals-k)
+  - [Count Good Subarrays](#q4-count-good-subarrays)
+  - [Longest Substring Without Repeating Characters](#q5-longest-substring-without-repeating-characters)
+  - [Merge Overlapping Intervals](#q6-merge-overlapping-intervals)
+  - [Longest Consecutive Sequence](#q7-longest-consecutive-sequence)
+  - [LRU Cache](#q8-lru-cache)
+  - [First Non-Repeating Character](#q9-first-non-repeating-character)
+  - [Detect Cycle in Directed Graph](#q10-detect-cycle-in-directed-graph)
+  - [Number of Islands](#q11-number-of-islands)
 
-- [2026-10-23 · IIT Kharagpur · FTE](#2026-10-23--iit-kharagpur--fte) · 1 question
-- [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte) · 1 question
-- [2026-10-16 · MNNIT Allahabad · FTE](#2026-10-16--mnnit-allahabad--fte) · 8 questions
-- [2026-10-16 · IIT Delhi · FTE](#2026-10-16--iit-delhi--fte) · 2 questions
-- [2026-10-15 · NIT Rourkela · FTE](#2026-10-15--nit-rourkela--fte) · 1 question
-- [2026-10-15 · IIT Roorkee · FTE](#2026-10-15--iit-roorkee--fte) · 1 question
-- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 4 questions
-- [2026-10-14 · IIT Guwahati · FTE](#2026-10-14--iit-guwahati--fte) · 1 question
-- [2026-10-13 · IIT Guwahati · FTE](#2026-10-13--iit-guwahati--fte) · 3 questions
-- [2026-10-13 · IIT Guwahati · FTE · SDE-1](#2026-10-13--iit-guwahati--fte--sde-1) · 4 questions
-- [2026-10-11 · NIT Surathkal · FTE · SDE](#2026-10-11--nit-surathkal--fte--sde) · 2 questions
-- [2026-10-10 · NIT Surathkal · FTE](#2026-10-10--nit-surathkal--fte) · 2 questions
-- [2026-10-07 · MNNIT Allahabad · FTE](#2026-10-07--mnnit-allahabad--fte) · 11 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

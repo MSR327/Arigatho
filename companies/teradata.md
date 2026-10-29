@@ -1,19 +1,33 @@
 # Teradata
 
-**14 questions** from 4 OA drives · seen at IIT BHU, NIT Warangal, Unknown · latest 2026-09-28
+**14 questions** · 4 drives · latest 28 Sep 2026 · [9 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Graphs](../topics/graphs.md) (4) · [DP](../topics/dp.md) (3) · [Math](../topics/math.md) (2) · [Heaps](../topics/heaps.md) (2) · [Sorting](../topics/sorting.md) (2) · [Strings](../topics/strings.md) (2) · [Arrays](../topics/arrays.md) (2) · [OOP](../topics/oop.md) (2) · [Greedy](../topics/greedy.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Hashing](../topics/hashing.md) (1) · [Trees](../topics/trees.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [OA Format](../topics/oa-format.md) (1) · [Two Pointers](../topics/two-pointers.md) (1)
+**Asks about:** [Graphs](../topics/graphs.md) 4 · [DP](../topics/dp.md) 3 · [Math](../topics/math.md) 2 · [Heaps](../topics/heaps.md) 2 · [Sorting](../topics/sorting.md) 2 · [Strings](../topics/strings.md) 2 · [Arrays](../topics/arrays.md) 2 · [OOP](../topics/oop.md) 2 · +7 more  
+**Seen at:** IIT BHU, NIT Warangal
 
-**LeetCode matches:** 9 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-09-28 · IIT BHU · FTE](#2026-09-28--iit-bhu--fte)
+  - [Standard knapsack DP (sum of power of subsequences)](#q1-standard-knapsack-dp-sum-of-power-of-subsequences)
+  - [Subsequences satisfying a sum condition / hire K workers](#q2-subsequences-satisfying-a-sum-condition--hire-k-workers)
+  - [Minimum jumps via prime teleportation](#q3-minimum-jumps-via-prime-teleportation)
+  - [Minimum Jumps to Reach End via Prime Teleportation](#q4-minimum-jumps-to-reach-end-via-prime-teleportation)
+  - [Minimum Cost to Hire K Workers](#q5-minimum-cost-to-hire-k-workers)
+- [2026-09-23 · NIT Warangal · Intern · SDE · Interview](#2026-09-23--nit-warangal--intern--sde--interview)
+  - [Stock buy and sell with 2 transactions](#q1-stock-buy-and-sell-with-2-transactions)
+- [2026-09-21 · Unknown · Intern · SDE Intern · Interview](#2026-09-21--unknown--intern--sde-intern--interview)
+  - [Balanced parentheses](#q1-balanced-parentheses)
+  - [Stock trading with two transactions](#q2-stock-trading-with-two-transactions)
+  - [OOP concepts](#q3-oop-concepts)
+  - [Adjacency list vs adjacency matrix](#q4-adjacency-list-vs-adjacency-matrix)
+  - [Hash map internals](#q5-hash-map-internals)
+  - [Serialize and deserialize a binary tree](#q6-serialize-and-deserialize-a-binary-tree)
+  - [Parking lot / payment interface design](#q7-parking-lot--payment-interface-design)
+- [2026-09-21 · Unknown · Intern · AI/ML Intern · Other round](#2026-09-21--unknown--intern--aiml-intern--other-round)
+  - [AI/ML intern OA and interview overview](#q1-aiml-intern-oa-and-interview-overview)
 
-- [2026-09-28 · IIT BHU · FTE](#2026-09-28--iit-bhu--fte) · 5 questions
-- [2026-09-23 · NIT Warangal · Intern · SDE · Interview](#2026-09-23--nit-warangal--intern--sde--interview) · 1 question
-- [2026-09-21 · Unknown · Intern · SDE Intern · Interview](#2026-09-21--unknown--intern--sde-intern--interview) · 7 questions
-- [2026-09-21 · Unknown · Intern · AI/ML Intern · Other round](#2026-09-21--unknown--intern--aiml-intern--other-round) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

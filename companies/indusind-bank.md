@@ -1,14 +1,17 @@
 # IndusInd Bank
 
-**1 question** from 1 OA drive · seen at VNIT Nagpur · latest 2026-10-11
+**1 question** · 1 drive · latest 11 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1  
+**Seen at:** VNIT Nagpur
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-11 · VNIT Nagpur · FTE](#2026-10-11--vnit-nagpur--fte) · 1 question
+- [2026-10-11 · VNIT Nagpur · FTE](#2026-10-11--vnit-nagpur--fte)
+  - [IndusInd Bank OA format](#q1-indusind-bank-oa-format)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

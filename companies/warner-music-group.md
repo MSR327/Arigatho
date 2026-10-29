@@ -1,14 +1,19 @@
 # Warner Music Group
 
-**3 questions** from 1 OA drive · seen at IIT Dhanbad · latest 2026-10-16
+**3 questions** · 1 drive · latest 16 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [SQL](../topics/sql.md) (2) · [OA Format](../topics/oa-format.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [Strings](../topics/strings.md) (1) · [Hashing](../topics/hashing.md) (1)
+**Asks about:** [SQL](../topics/sql.md) 2 · [OA Format](../topics/oa-format.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [Strings](../topics/strings.md) 1 · [Hashing](../topics/hashing.md) 1  
+**Seen at:** IIT Dhanbad
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-09 · IIT Dhanbad · FTE](#2026-10-09--iit-dhanbad--fte) · 3 questions
+- [2026-10-09 · IIT Dhanbad · FTE](#2026-10-09--iit-dhanbad--fte)
+  - [Core Fundamentals MCQ section](#q1-core-fundamentals-mcq-section)
+  - [Artist score classification SQL query](#q2-artist-score-classification-sql-query)
+  - [Top track from score logs](#q3-top-track-from-score-logs)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

@@ -1,14 +1,17 @@
 # Auronova Consulting
 
-**1 question** from 1 OA drive · seen at IIT Guwahati · latest 2026-10-28
+**1 question** · 1 drive · latest 28 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1  
+**Seen at:** IIT Guwahati
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-28 · IIT Guwahati · FTE](#2026-10-28--iit-guwahati--fte) · 1 question
+- [2026-10-28 · IIT Guwahati · FTE](#2026-10-28--iit-guwahati--fte)
+  - [Auronova Consulting OA format](#q1-auronova-consulting-oa-format)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

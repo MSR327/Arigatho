@@ -1,17 +1,23 @@
 # Cashfree
 
-**4 questions** from 4 OA drives · seen at IIIT Allahabad, IIT BHU, IIT Guwahati, Unknown · latest 2026-10-26
+**4 questions** · 4 drives · latest 26 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (3) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [OOP](../topics/oop.md) (1) · [DP](../topics/dp.md) (1) · [Greedy](../topics/greedy.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [OOP](../topics/oop.md) 1 · [DP](../topics/dp.md) 1 · [Greedy](../topics/greedy.md) 1  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-26 · IIIT Allahabad · FTE](#2026-10-26--iiit-allahabad--fte) · 1 question
-- [2026-10-17 · IIT BHU · FTE](#2026-10-17--iit-bhu--fte) · 1 question
-- [2026-10-15 · Unknown · FTE](#2026-10-15--unknown--fte) · 1 question
-- [2026-10-14 · IIT Guwahati · FTE · SDE](#2026-10-14--iit-guwahati--fte--sde) · 1 question
+- [2026-10-26 · IIIT Allahabad · FTE](#2026-10-26--iiit-allahabad--fte)
+  - [Knapsack with weight 2^i](#q1-knapsack-with-weight-2i)
+- [2026-10-17 · IIT BHU · FTE](#2026-10-17--iit-bhu--fte)
+  - [Cashfree OA topics](#q1-cashfree-oa-topics)
+- [2026-10-15 · Unknown · FTE](#2026-10-15--unknown--fte)
+  - [OA pattern: CS fundamentals MCQs + one Python and one Java question](#q1-oa-pattern-cs-fundamentals-mcqs--one-python-and-one-java-question)
+- [2026-10-14 · IIT Guwahati · FTE · SDE](#2026-10-14--iit-guwahati--fte--sde)
+  - [Cashfree OA pattern at IIT Guwahati](#q1-cashfree-oa-pattern-at-iit-guwahati)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

@@ -1,17 +1,25 @@
 # Finmechanics
 
-**8 questions** from 2 OA drives · seen at IIT Kanpur, IIT Kharagpur/Kanpur · latest 2026-10-23
+**8 questions** · 2 drives · latest 23 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Math](../topics/math.md) (2) · [Aptitude](../topics/aptitude.md) (1) · [DP](../topics/dp.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Graphs](../topics/graphs.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Strings](../topics/strings.md) (1) · [Hashing](../topics/hashing.md) (1) · [Arrays](../topics/arrays.md) (1) · [Verbal](../topics/verbal.md) (1) · [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [Math](../topics/math.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [DP](../topics/dp.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Graphs](../topics/graphs.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Strings](../topics/strings.md) 1 · [Hashing](../topics/hashing.md) 1 · +3 more  
+**Seen at:** IIT Kanpur, IIT Kharagpur/Kanpur
 
-**LeetCode matches:** 4 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-23 · IIT Kanpur · FTE](#2026-10-23--iit-kanpur--fte)
+  - [Finmechanics OA contents and pattern](#q1-finmechanics-oa-contents-and-pattern)
+- [2026-10-10 · IIT Kharagpur/Kanpur · FTE](#2026-10-10--iit-kharagpurkanpur--fte)
+  - [Maths and logic section (probability)](#q1-maths-and-logic-section-probability)
+  - [Longest Increasing Subsequence](#q2-longest-increasing-subsequence)
+  - [Basic math DSA questions](#q3-basic-math-dsa-questions)
+  - [Course Schedule](#q4-course-schedule)
+  - [Decode String](#q5-decode-string)
+  - [Longest Consecutive Sequence](#q6-longest-consecutive-sequence)
+  - [Finance comprehension](#q7-finance-comprehension)
 
-- [2026-10-23 · IIT Kanpur · FTE](#2026-10-23--iit-kanpur--fte) · 1 question
-- [2026-10-10 · IIT Kharagpur/Kanpur · FTE](#2026-10-10--iit-kharagpurkanpur--fte) · 7 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

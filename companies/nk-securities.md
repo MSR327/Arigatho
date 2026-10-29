@@ -1,14 +1,17 @@
 # NK Securities
 
-**1 question** from 1 OA drive · seen at IIT BHU · latest 2026-10-24
+**1 question** · 1 drive · latest 24 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1  
+**Seen at:** IIT BHU
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-24 · IIT BHU · FTE · SDE · Interview](#2026-10-24--iit-bhu--fte--sde--interview) · 1 question
+- [2026-10-24 · IIT BHU · FTE · SDE · Interview](#2026-10-24--iit-bhu--fte--sde--interview)
+  - [NK Securities OA: tree DP, React and Python RAG](#q1-nk-securities-oa-tree-dp-react-and-python-rag)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

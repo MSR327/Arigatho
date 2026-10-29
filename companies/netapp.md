@@ -1,14 +1,17 @@
 # NetApp
 
-**1 question** from 1 OA drive · seen at IIT BHU · latest 2026-10-17
+**1 question** · 1 drive · latest 17 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Strings](../topics/strings.md) (1) · [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [Strings](../topics/strings.md) 1 · [OA Format](../topics/oa-format.md) 1  
+**Seen at:** IIT BHU
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-17 · IIT BHU · FTE · Interview](#2026-10-17--iit-bhu--fte--interview) · 1 question
+- [2026-10-17 · IIT BHU · FTE · Interview](#2026-10-17--iit-bhu--fte--interview)
+  - [Interview: 2 DSA questions with approach in 3 minutes](#q1-interview-2-dsa-questions-with-approach-in-3-minutes)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

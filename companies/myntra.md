@@ -1,14 +1,16 @@
 # Myntra
 
-**1 question** from 1 OA drive · seen at Unknown · latest 2026-10-10
+**1 question** · 1 drive · latest 10 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1  
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-10 · Unknown · FTE](#2026-10-10--unknown--fte) · 1 question
+- [2026-10-10 · Unknown · FTE](#2026-10-10--unknown--fte)
+  - [Myntra OA pattern](#q1-myntra-oa-pattern)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

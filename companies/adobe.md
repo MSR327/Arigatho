@@ -1,18 +1,29 @@
 # Adobe
 
-**12 questions** from 3 OA drives · seen at Unknown · latest 2026-09-21
+**12 questions** · 3 drives · latest 21 Sep 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (3) · [Arrays](../topics/arrays.md) (2) · [DP](../topics/dp.md) (2) · [Hashing](../topics/hashing.md) (2) · [SQL](../topics/sql.md) (1) · [Web Dev](../topics/web-dev.md) (1) · [OOP](../topics/oop.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Trees](../topics/trees.md) (1) · [Software Engineering](../topics/software-engineering.md) (1)
+**Asks about:** [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [Arrays](../topics/arrays.md) 2 · [DP](../topics/dp.md) 2 · [Hashing](../topics/hashing.md) 2 · [SQL](../topics/sql.md) 1 · [Web Dev](../topics/web-dev.md) 1 · [OOP](../topics/oop.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · +3 more  
 
-**LeetCode matches:** 4 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-09-21 · Unknown · Intern · Customer Engineering Intern · Interview](#2026-09-21--unknown--intern--customer-engineering-intern--interview)
+  - [Maximum subarray (Kadane) reasoning](#q1-maximum-subarray-kadane-reasoning)
+  - [Project-linked SQL](#q2-project-linked-sql)
+  - [JavaScript closures and scope chains](#q3-javascript-closures-and-scope-chains)
+  - [DBMS normalization and sharding](#q4-dbms-normalization-and-sharding)
+- [2026-09-21 · Unknown · Intern · Product Intern · Interview](#2026-09-21--unknown--intern--product-intern--interview)
+  - [Project and OOP discussion](#q1-project-and-oop-discussion)
+  - [DSA problem: recursion to memoization to tabulation](#q2-dsa-problem-recursion-to-memoization-to-tabulation)
+- [2026-09-21 · Unknown · FTE · Computer Scientist-1 · Interview](#2026-09-21--unknown--fte--computer-scientist-1--interview)
+  - [Producer/consumer concurrency](#q1-producerconsumer-concurrency)
+  - [Process crashes](#q2-process-crashes)
+  - [Rail-schedule query design](#q3-rail-schedule-query-design)
+  - [Two Sum](#q4-two-sum)
+  - [Mirror a binary tree](#q5-mirror-a-binary-tree)
+  - [Implement a hashmap](#q6-implement-a-hashmap)
 
-- [2026-09-21 · Unknown · Intern · Customer Engineering Intern · Interview](#2026-09-21--unknown--intern--customer-engineering-intern--interview) · 4 questions
-- [2026-09-21 · Unknown · Intern · Product Intern · Interview](#2026-09-21--unknown--intern--product-intern--interview) · 2 questions
-- [2026-09-21 · Unknown · FTE · Computer Scientist-1 · Interview](#2026-09-21--unknown--fte--computer-scientist-1--interview) · 6 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

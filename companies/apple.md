@@ -1,17 +1,19 @@
 # Apple
 
-**2 questions** from 2 OA drives · seen at IIT BHU, MNNIT Allahabad · latest 2026-10-24
+**2 questions** · 2 drives · latest 24 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Greedy](../topics/greedy.md) (1) · [Arrays](../topics/arrays.md) (1) · [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [Greedy](../topics/greedy.md) 1 · [Arrays](../topics/arrays.md) 1 · [OA Format](../topics/oa-format.md) 1  
+**Seen at:** IIT BHU, MNNIT Allahabad
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-24 · IIT BHU · Intern · Software Engineering Intern](#2026-10-24--iit-bhu--intern--software-engineering-intern)
+  - [Apple SWE intern OA format](#q1-apple-swe-intern-oa-format)
+- [2026-10-01 · MNNIT Allahabad · FTE](#2026-10-01--mnnit-allahabad--fte)
+  - [Jump Game II](#q1-jump-game-ii)
 
-- [2026-10-24 · IIT BHU · Intern · Software Engineering Intern](#2026-10-24--iit-bhu--intern--software-engineering-intern) · 1 question
-- [2026-10-01 · MNNIT Allahabad · FTE](#2026-10-01--mnnit-allahabad--fte) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

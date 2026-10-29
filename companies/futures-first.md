@@ -1,21 +1,74 @@
 # Futures First
 
-**51 questions** from 8 OA drives · seen at IIT BHU, IIT Delhi, IIT Guwahati, MNNIT Allahabad · latest 2026-10-28
+**51 questions** · 8 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Aptitude](../topics/aptitude.md) (48) · [Math](../topics/math.md) (19) · [Puzzles](../topics/puzzles.md) (5) · [OA Format](../topics/oa-format.md) (3) · [Finance](../topics/finance.md) (2)
+**Asks about:** [Aptitude](../topics/aptitude.md) 48 · [Math](../topics/math.md) 19 · [Puzzles](../topics/puzzles.md) 5 · [OA Format](../topics/oa-format.md) 3 · [Finance](../topics/finance.md) 2  
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, MNNIT Allahabad
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-28 · IIT Guwahati · FTE · Quant Options Trainee](#2026-10-28--iit-guwahati--fte--quant-options-trainee) · 1 question
-- [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte) · 15 questions
-- [2026-10-19 · IIT BHU · FTE](#2026-10-19--iit-bhu--fte) · 1 question
-- [2026-10-18 · IIT BHU · FTE · Futures Trainee – International Markets](#2026-10-18--iit-bhu--fte--futures-trainee--international-markets) · 1 question
-- [2026-10-14 · IIT Delhi · FTE](#2026-10-14--iit-delhi--fte) · 11 questions
-- [2026-10-13 · MNNIT Allahabad · FTE](#2026-10-13--mnnit-allahabad--fte) · 1 question
-- [2026-10-13 · IIT Delhi · FTE](#2026-10-13--iit-delhi--fte) · 6 questions
-- [2026-10-07 · MNNIT Allahabad · FTE](#2026-10-07--mnnit-allahabad--fte) · 15 questions
+- [2026-10-28 · IIT Guwahati · FTE · Quant Options Trainee](#2026-10-28--iit-guwahati--fte--quant-options-trainee)
+  - [Futures First OA format](#q1-futures-first-oa-format)
+- [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte)
+  - [Speed Math: 88888 + 8888 + 888 + 88 + 8](#q1-speed-math-88888--8888--888--88--8)
+  - [Speed Math: 8750 ÷ 3.5 + 6250 ÷ 2.5](#q2-speed-math-8750--35--6250--25)
+  - [Simple interest on ₹75,000 at 8.75% for 2.5 years](#q3-simple-interest-on-75000-at-875-for-25-years)
+  - [Speed Math: 12^3 + 18^3 − 24^3](#q4-speed-math-123--183--243)
+  - [Speed Math: 999^2 − 998^2](#q5-speed-math-9992--9982)
+  - [Cost price after 12.5% discount and 20% gain](#q6-cost-price-after-125-discount-and-20-gain)
+  - [Convert $2450 to INR at ₹83.75 per USD](#q7-convert-2450-to-inr-at-8375-per-usd)
+  - [Speed Math: 105 + 83 + 122](#q8-speed-math-105--83--122)
+  - [Speed Math: solve 28^3 + 17^3 = 10 + x^3](#q9-speed-math-solve-283--173--10--x3)
+  - [Speed Math: 23.75 × 18.60](#q10-speed-math-2375--1860)
+  - [Speed Math: 875 × 42.80%](#q11-speed-math-875--4280)
+  - [Speed Math: 2222 × 13 / 111](#q12-speed-math-2222--13--111)
+  - [Cricket run rate for 282 runs in 18.3 overs](#q13-cricket-run-rate-for-282-runs-in-183-overs)
+  - [Square root of 12321](#q14-square-root-of-12321)
+  - [Speed Math: (45.6)^2 − (44.4)^2](#q15-speed-math-4562--4442)
+- [2026-10-19 · IIT BHU · FTE](#2026-10-19--iit-bhu--fte)
+  - [OA pattern: aptitude section + speed math section](#q1-oa-pattern-aptitude-section--speed-math-section)
+- [2026-10-18 · IIT BHU · FTE · Futures Trainee – International Markets](#2026-10-18--iit-bhu--fte--futures-trainee--international-markets)
+  - [Futures First OA format: aptitude and speed math](#q1-futures-first-oa-format-aptitude-and-speed-math)
+- [2026-10-14 · IIT Delhi · FTE](#2026-10-14--iit-delhi--fte)
+  - [Chord length with points A and B](#q1-chord-length-with-points-a-and-b)
+  - [Trains crossing two walking persons](#q2-trains-crossing-two-walking-persons)
+  - [Figure matrix completion](#q3-figure-matrix-completion)
+  - [Number series 162, 149, 123, 118, 84, 71](#q4-number-series-162-149-123-118-84-71)
+  - [Queue of researchers: highest reports](#q5-queue-of-researchers-highest-reports)
+  - [Queue of researchers: how many submitted more than Aarav](#q6-queue-of-researchers-how-many-submitted-more-than-aarav)
+  - [Queue of researchers: in front of second-highest](#q7-queue-of-researchers-in-front-of-second-highest)
+  - [Queue of researchers: increasing-count positions](#q8-queue-of-researchers-increasing-count-positions)
+  - [Line graph: votes for A and C vs B and D](#q9-line-graph-votes-for-a-and-c-vs-b-and-d)
+  - [Line graph: ratio of percentage declines B vs C](#q10-line-graph-ratio-of-percentage-declines-b-vs-c)
+  - [Line graph: increase in votes for C to change ratio](#q11-line-graph-increase-in-votes-for-c-to-change-ratio)
+- [2026-10-13 · MNNIT Allahabad · FTE](#2026-10-13--mnnit-allahabad--fte)
+  - [Speed Math section (15 questions)](#q1-speed-math-section-15-questions)
+- [2026-10-13 · IIT Delhi · FTE](#2026-10-13--iit-delhi--fte)
+  - [Chord length in a circle](#q1-chord-length-in-a-circle)
+  - [Trading cards distribution](#q2-trading-cards-distribution)
+  - [Exponential product inequality](#q3-exponential-product-inequality)
+  - [Recurrence d_m = d_{m+1} + (m+1)](#q4-recurrence-d_m--d_m1--m1)
+  - [Portfolio valuation](#q5-portfolio-valuation)
+  - [Queue positioning: highest reports](#q6-queue-positioning-highest-reports)
+- [2026-10-07 · MNNIT Allahabad · FTE](#2026-10-07--mnnit-allahabad--fte)
+  - [Sum of repeated 8s](#q1-sum-of-repeated-8s)
+  - [Sum of two divisions](#q2-sum-of-two-divisions)
+  - [Simple interest on 75,000](#q3-simple-interest-on-75000)
+  - [Sum and difference of cubes](#q4-sum-and-difference-of-cubes)
+  - [Difference of squares 999 and 998](#q5-difference-of-squares-999-and-998)
+  - [Cost price after discount and profit](#q6-cost-price-after-discount-and-profit)
+  - [Convert USD to INR](#q7-convert-usd-to-inr)
+  - [Sum of three numbers](#q8-sum-of-three-numbers)
+  - [Cube equation, find x](#q9-cube-equation-find-x)
+  - [Decimal multiplication](#q10-decimal-multiplication)
+  - [Percentage of 875](#q11-percentage-of-875)
+  - [Multiply and divide](#q12-multiply-and-divide)
+  - [Cricket run rate](#q13-cricket-run-rate)
+  - [Square root of 12321](#q14-square-root-of-12321-1)
+  - [Difference of squares of decimals](#q15-difference-of-squares-of-decimals)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

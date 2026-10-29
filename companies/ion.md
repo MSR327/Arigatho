@@ -1,16 +1,26 @@
 # ION
 
-**8 questions** from 3 OA drives · seen at IIT BHU, IIT Roorkee, VNIT Nagpur · latest 2026-10-22
+**8 questions** · 3 drives · latest 22 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [HR & Behavioral](../topics/hr-behavioral.md) (3) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (2) · [Arrays](../topics/arrays.md) (1) · [Strings](../topics/strings.md) (1) · [Hashing](../topics/hashing.md) (1) · [OOP](../topics/oop.md) (1) · [SQL](../topics/sql.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [Puzzles](../topics/puzzles.md) (1) · [Other](../topics/other.md) (1) · [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [HR & Behavioral](../topics/hr-behavioral.md) 3 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Arrays](../topics/arrays.md) 1 · [Strings](../topics/strings.md) 1 · [Hashing](../topics/hashing.md) 1 · [OOP](../topics/oop.md) 1 · [SQL](../topics/sql.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +3 more  
+**Seen at:** IIT BHU, IIT Roorkee, VNIT Nagpur
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-22 · IIT Roorkee · FTE · Product Analyst · Interview](#2026-10-22--iit-roorkee--fte--product-analyst--interview) · 1 question
-- [2026-10-09 · VNIT Nagpur · FTE · Interview](#2026-10-09--vnit-nagpur--fte--interview) · 6 questions
-- [2026-10-09 · IIT BHU · FTE · Other round](#2026-10-09--iit-bhu--fte--other-round) · 1 question
+- [2026-10-22 · IIT Roorkee · FTE · Product Analyst · Interview](#2026-10-22--iit-roorkee--fte--product-analyst--interview)
+  - [ION Product Analyst interview overview](#q1-ion-product-analyst-interview-overview)
+- [2026-10-09 · VNIT Nagpur · FTE · Interview](#2026-10-09--vnit-nagpur--fte--interview)
+  - [Basic DSA: arrays, strings, hashing, linked lists](#q1-basic-dsa-arrays-strings-hashing-linked-lists)
+  - [OOPs concepts](#q2-oops-concepts)
+  - [DBMS and SQL](#q3-dbms-and-sql)
+  - [OS and Computer Networks basics](#q4-os-and-computer-networks-basics)
+  - [Project deep-dive](#q5-project-deep-dive)
+  - [HR and behavioral questions](#q6-hr-and-behavioral-questions)
+- [2026-10-09 · IIT BHU · FTE · Other round](#2026-10-09--iit-bhu--fte--other-round)
+  - [ION hiring process rounds](#q1-ion-hiring-process-rounds)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

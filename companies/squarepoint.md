@@ -1,45 +1,107 @@
 # Squarepoint
 
-**62 questions** from 30 OA drives · seen at IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee, Unknown · latest 2026-10-21
+**62 questions** · 30 drives · latest 21 Oct 2026 · [5 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Arrays](../topics/arrays.md) (12) · [OA Format](../topics/oa-format.md) (12) · [Hashing](../topics/hashing.md) (10) · [Strings](../topics/strings.md) (8) · [Graphs](../topics/graphs.md) (7) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (7) · [Greedy](../topics/greedy.md) (7) · [Sorting](../topics/sorting.md) (6) · [Binary Search](../topics/binary-search.md) (6) · [Math](../topics/math.md) (5) · [DP](../topics/dp.md) (5) · [Other](../topics/other.md) (4) · [OOP](../topics/oop.md) (3) · [Software Engineering](../topics/software-engineering.md) (3) · [Stack/Queue](../topics/stack-queue.md) (3) · [Trees](../topics/trees.md) (2) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (2) · [Linked List](../topics/linked-list.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Heaps](../topics/heaps.md) (1) · [SQL](../topics/sql.md) (1) · [Web Dev](../topics/web-dev.md) (1) · [Python & Pandas](../topics/python-pandas.md) (1)
+**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 12 · [Hashing](../topics/hashing.md) 10 · [Strings](../topics/strings.md) 8 · [Graphs](../topics/graphs.md) 7 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 7 · [Greedy](../topics/greedy.md) 7 · [Sorting](../topics/sorting.md) 6 · +15 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee
 
-**LeetCode matches:** 5 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-21 · IIT BHU · FTE · Interview](#2026-10-21--iit-bhu--fte--interview)
+  - [Squarepoint interview process at BHU](#q1-squarepoint-interview-process-at-bhu)
+- [2026-10-19 · IIT Madras · FTE · SDE (Python) · Interview](#2026-10-19--iit-madras--fte--sde-python--interview)
+  - [Python SDE buddy rounds format](#q1-python-sde-buddy-rounds-format)
+- [2026-10-15 · IIT Roorkee · FTE · SDE (Python)](#2026-10-15--iit-roorkee--fte--sde-python)
+  - [Minimize maximum distance (variant of Robot collisions/factories)](#q1-minimize-maximum-distance-variant-of-robot-collisionsfactories)
+  - [LeetCode 3035 question](#q2-leetcode-3035-question)
+- [2026-10-15 · IIT Kharagpur · FTE](#2026-10-15--iit-kharagpur--fte)
+  - [Modulo Sum Function](#q1-modulo-sum-function)
+  - [Tree Traversal Integrity (Valid BFS)](#q2-tree-traversal-integrity-valid-bfs)
+  - [Two Cores and a Latch (Optimal Operation Split)](#q3-two-cores-and-a-latch-optimal-operation-split)
+- [2026-10-09 · IIT Madras · FTE · SDE (Python)](#2026-10-09--iit-madras--fte--sde-python)
+  - [Text Editor](#q1-text-editor)
+- [2026-10-08 · IIT BHU · FTE](#2026-10-08--iit-bhu--fte)
+  - [OA format: bash and bug fix rounds](#q1-oa-format-bash-and-bug-fix-rounds)
+- [2026-10-07 · IIT Kharagpur · FTE](#2026-10-07--iit-kharagpur--fte)
+  - [Sum of i%j + j%i over all pairs](#q1-sum-of-ij--ji-over-all-pairs)
+- [2026-10-05 · IIT Roorkee · FTE · SDE](#2026-10-05--iit-roorkee--fte--sde)
+  - [Stable Subarray (LeetCode 3728)](#q1-stable-subarray-leetcode-3728)
+  - [Trading Problem](#q2-trading-problem)
+  - [0/1 Knapsack](#q3-01-knapsack)
+  - [Rotten Oranges](#q4-rotten-oranges)
+  - [Malware Speed](#q5-malware-speed)
+  - [DP take / not-take question (Python set)](#q6-dp-take--not-take-question-python-set)
+  - [Minimize the farthest distance (houses and gas stations)](#q7-minimize-the-farthest-distance-houses-and-gas-stations)
+- [2026-10-05 · IIT Roorkee · FTE · Infrastructure](#2026-10-05--iit-roorkee--fte--infrastructure)
+  - [Tree: visit all required nodes, start at 1 and end at n](#q1-tree-visit-all-required-nodes-start-at-1-and-end-at-n)
+- [2026-10-05 · IIT Delhi · FTE · Software Developer (SDE)](#2026-10-05--iit-delhi--fte--software-developer-sde)
+  - [Minimum time to finish all instructions](#q1-minimum-time-to-finish-all-instructions)
+  - [Design a text editor with cursor](#q2-design-a-text-editor-with-cursor)
+- [2026-10-05 · IIT Delhi · FTE · Desk Quant Analyst (DQA)](#2026-10-05--iit-delhi--fte--desk-quant-analyst-dqa)
+  - [Top three hashtags in a time window](#q1-top-three-hashtags-in-a-time-window)
+  - [Red or Blue bus minimum time](#q2-red-or-blue-bus-minimum-time)
+- [2026-10-05 · IIT Delhi · FTE · Infrastructure](#2026-10-05--iit-delhi--fte--infrastructure)
+  - [TLB properties](#q1-tlb-properties)
+  - [Linux: dedupe IPs from latest log file](#q2-linux-dedupe-ips-from-latest-log-file)
+  - [Containers vs VMs](#q3-containers-vs-vms)
+  - [SQL NULL handling in aggregates](#q4-sql-null-handling-in-aggregates)
+  - [Highest normal form of R(A,B,C,D)](#q5-highest-normal-form-of-rabcd)
+  - [C++ virtual functions by value vs reference](#q6-c-virtual-functions-by-value-vs-reference)
+  - [Process in D state ignores kill -9](#q7-process-in-d-state-ignores-kill--9)
+  - [Counting semaphores vs mutexes](#q8-counting-semaphores-vs-mutexes)
+  - [REST API: Energy Bar chocolate](#q9-rest-api-energy-bar-chocolate)
+  - [Docker initialization task](#q10-docker-initialization-task)
+- [2026-10-04 · IIT Roorkee · FTE](#2026-10-04--iit-roorkee--fte)
+  - [Trade Packet Correction](#q1-trade-packet-correction)
+- [2026-10-04 · IIT Roorkee · FTE · Infrastructure / SDE / DQA](#2026-10-04--iit-roorkee--fte--infrastructure--sde--dqa)
+  - [IITR OA format by role](#q1-iitr-oa-format-by-role)
+- [2026-10-02 · IIT Roorkee · FTE](#2026-10-02--iit-roorkee--fte)
+  - [Get Node To Remove (Flexport problem on FastPrep)](#q1-get-node-to-remove-flexport-problem-on-fastprep)
+- [2026-10-02 · IIT Kharagpur/Kanpur · FTE](#2026-10-02--iit-kharagpurkanpur--fte)
+  - [Search Suggestions System](#q1-search-suggestions-system)
+- [2026-09-30 · IIT BHU · FTE · SDE (C++)](#2026-09-30--iit-bhu--fte--sde-c)
+  - [Codeforces 895C (Square Subsets)](#q1-codeforces-895c-square-subsets)
+  - [AtCoder ABC206 D](#q2-atcoder-abc206-d)
+  - [Minimum cost to make array elements distinct](#q3-minimum-cost-to-make-array-elements-distinct)
+  - [Process queues with add, update, remove and print queries](#q4-process-queues-with-add-update-remove-and-print-queries)
+- [2026-09-29 · IIT BHU · FTE · SDE](#2026-09-29--iit-bhu--fte--sde)
+  - [Tick Sizes: trim rules and next price increment](#q1-tick-sizes-trim-rules-and-next-price-increment)
+  - [Search suggestions system](#q2-search-suggestions-system)
+  - [Debugging: order book matching market participants](#q3-debugging-order-book-matching-market-participants)
+  - [URL Hashing](#q4-url-hashing)
+  - [Company Usernames](#q5-company-usernames)
+  - [Count special subarrays (product has odd number of divisors)](#q6-count-special-subarrays-product-has-odd-number-of-divisors)
+  - [Minimum Increase to Maximize Special Indices](#q7-minimum-increase-to-maximize-special-indices)
+- [2026-09-29 · IIT BHU · FTE · Infrastructure](#2026-09-29--iit-bhu--fte--infrastructure)
+  - [Infrastructure role OA format](#q1-infrastructure-role-oa-format)
+- [2026-09-29 · IIT BHU · FTE · Desk Quant Analyst](#2026-09-29--iit-bhu--fte--desk-quant-analyst)
+  - [DQA role OA format](#q1-dqa-role-oa-format)
+- [2026-09-26 · IIT Kanpur · FTE · SDE](#2026-09-26--iit-kanpur--fte--sde)
+  - [Minimum operations to make array a palindrome](#q1-minimum-operations-to-make-array-a-palindrome)
+  - [Page reading with I and S commands](#q2-page-reading-with-i-and-s-commands)
+  - [OA format: SDE role](#q3-oa-format-sde-role)
+- [2026-09-26 · IIT Kanpur · FTE · Quant](#2026-09-26--iit-kanpur--fte--quant)
+  - [Minimum a+b to represent query value](#q1-minimum-ab-to-represent-query-value)
+  - [Tag counting over strings with threshold](#q2-tag-counting-over-strings-with-threshold)
+- [2026-09-26 · IIT Kanpur · FTE · Infra](#2026-09-26--iit-kanpur--fte--infra)
+  - [OA format: Infra role](#q1-oa-format-infra-role)
+- [2026-09-25 · IIT BHU · FTE · Infrastructure Engineer](#2026-09-25--iit-bhu--fte--infrastructure-engineer)
+  - [Squarepoint infrastructure OA content](#q1-squarepoint-infrastructure-oa-content)
+- [2026-09-22 · IIT Roorkee · FTE · Interview](#2026-09-22--iit-roorkee--fte--interview)
+  - [Squarepoint interview focus areas](#q1-squarepoint-interview-focus-areas)
+- [2026-09-22 · IIT Roorkee · FTE](#2026-09-22--iit-roorkee--fte)
+  - [Squarepoint OA format](#q1-squarepoint-oa-format)
+- [2026-09-21 · Unknown · FTE · Software Engineer](#2026-09-21--unknown--fte--software-engineer)
+  - [Online test: two medium coding problems](#q1-online-test-two-medium-coding-problems)
+- [2026-09-21 · Unknown · FTE · Software Engineer · Interview](#2026-09-21--unknown--fte--software-engineer--interview)
+  - [C++ and systems interview topics](#q1-c-and-systems-interview-topics)
+- [2026-09-21 · Unknown · FTE · Graduate C++ Developer · Interview](#2026-09-21--unknown--fte--graduate-c-developer--interview)
+  - [One-hour C++ interview: pointers, polymorphism, production-ready code](#q1-one-hour-c-interview-pointers-polymorphism-production-ready-code)
+- [2026-09-21 · Unknown · FTE · Desk Quant Analyst · Other round](#2026-09-21--unknown--fte--desk-quant-analyst--other-round)
+  - [Desk Quant Analyst process: HackerRank, live coding, probability, HR](#q1-desk-quant-analyst-process-hackerrank-live-coding-probability-hr)
 
-- [2026-10-21 · IIT BHU · FTE · Interview](#2026-10-21--iit-bhu--fte--interview) · 1 question
-- [2026-10-19 · IIT Madras · FTE · SDE (Python) · Interview](#2026-10-19--iit-madras--fte--sde-python--interview) · 1 question
-- [2026-10-15 · IIT Roorkee · FTE · SDE (Python)](#2026-10-15--iit-roorkee--fte--sde-python) · 2 questions
-- [2026-10-15 · IIT Kharagpur · FTE](#2026-10-15--iit-kharagpur--fte) · 3 questions
-- [2026-10-09 · IIT Madras · FTE · SDE (Python)](#2026-10-09--iit-madras--fte--sde-python) · 1 question
-- [2026-10-08 · IIT BHU · FTE](#2026-10-08--iit-bhu--fte) · 1 question
-- [2026-10-07 · IIT Kharagpur · FTE](#2026-10-07--iit-kharagpur--fte) · 1 question
-- [2026-10-05 · IIT Roorkee · FTE · SDE](#2026-10-05--iit-roorkee--fte--sde) · 7 questions
-- [2026-10-05 · IIT Roorkee · FTE · Infrastructure](#2026-10-05--iit-roorkee--fte--infrastructure) · 1 question
-- [2026-10-05 · IIT Delhi · FTE · Software Developer (SDE)](#2026-10-05--iit-delhi--fte--software-developer-sde) · 2 questions
-- [2026-10-05 · IIT Delhi · FTE · Desk Quant Analyst (DQA)](#2026-10-05--iit-delhi--fte--desk-quant-analyst-dqa) · 2 questions
-- [2026-10-05 · IIT Delhi · FTE · Infrastructure](#2026-10-05--iit-delhi--fte--infrastructure) · 10 questions
-- [2026-10-04 · IIT Roorkee · FTE](#2026-10-04--iit-roorkee--fte) · 1 question
-- [2026-10-04 · IIT Roorkee · FTE · Infrastructure / SDE / DQA](#2026-10-04--iit-roorkee--fte--infrastructure--sde--dqa) · 1 question
-- [2026-10-02 · IIT Roorkee · FTE](#2026-10-02--iit-roorkee--fte) · 1 question
-- [2026-10-02 · IIT Kharagpur/Kanpur · FTE](#2026-10-02--iit-kharagpurkanpur--fte) · 1 question
-- [2026-09-30 · IIT BHU · FTE · SDE (C++)](#2026-09-30--iit-bhu--fte--sde-c) · 4 questions
-- [2026-09-29 · IIT BHU · FTE · SDE](#2026-09-29--iit-bhu--fte--sde) · 7 questions
-- [2026-09-29 · IIT BHU · FTE · Infrastructure](#2026-09-29--iit-bhu--fte--infrastructure) · 1 question
-- [2026-09-29 · IIT BHU · FTE · Desk Quant Analyst](#2026-09-29--iit-bhu--fte--desk-quant-analyst) · 1 question
-- [2026-09-26 · IIT Kanpur · FTE · SDE](#2026-09-26--iit-kanpur--fte--sde) · 3 questions
-- [2026-09-26 · IIT Kanpur · FTE · Quant](#2026-09-26--iit-kanpur--fte--quant) · 2 questions
-- [2026-09-26 · IIT Kanpur · FTE · Infra](#2026-09-26--iit-kanpur--fte--infra) · 1 question
-- [2026-09-25 · IIT BHU · FTE · Infrastructure Engineer](#2026-09-25--iit-bhu--fte--infrastructure-engineer) · 1 question
-- [2026-09-22 · IIT Roorkee · FTE · Interview](#2026-09-22--iit-roorkee--fte--interview) · 1 question
-- [2026-09-22 · IIT Roorkee · FTE](#2026-09-22--iit-roorkee--fte) · 1 question
-- [2026-09-21 · Unknown · FTE · Software Engineer](#2026-09-21--unknown--fte--software-engineer) · 1 question
-- [2026-09-21 · Unknown · FTE · Software Engineer · Interview](#2026-09-21--unknown--fte--software-engineer--interview) · 1 question
-- [2026-09-21 · Unknown · FTE · Graduate C++ Developer · Interview](#2026-09-21--unknown--fte--graduate-c-developer--interview) · 1 question
-- [2026-09-21 · Unknown · FTE · Desk Quant Analyst · Other round](#2026-09-21--unknown--fte--desk-quant-analyst--other-round) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

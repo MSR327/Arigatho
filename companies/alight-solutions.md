@@ -1,22 +1,38 @@
 # Alight Solutions
 
-**16 questions** from 7 OA drives · seen at IIT Delhi, IIT Hyderabad, IIT Roorkee · latest 2026-10-22
+**16 questions** · 7 drives · latest 22 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (5) · [Arrays](../topics/arrays.md) (4) · [DP](../topics/dp.md) (4) · [Aptitude](../topics/aptitude.md) (2) · [Puzzles](../topics/puzzles.md) (2) · [ML/AI](../topics/ml-ai.md) (2) · [Other](../topics/other.md) (1) · [Graphs](../topics/graphs.md) (1) · [Strings](../topics/strings.md) (1) · [Hashing](../topics/hashing.md) (1) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (1) · [Trees](../topics/trees.md) (1) · [Heaps](../topics/heaps.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Arrays](../topics/arrays.md) 4 · [DP](../topics/dp.md) 4 · [Aptitude](../topics/aptitude.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Other](../topics/other.md) 1 · [Graphs](../topics/graphs.md) 1 · +5 more  
+**Seen at:** IIT Delhi, IIT Hyderabad, IIT Roorkee
 
-**LeetCode matches:** 3 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte)
+  - [Alight OA structure](#q1-alight-oa-structure)
+  - [Error log time-window queries](#q2-error-log-time-window-queries)
+  - [Height of binary tree: find the error](#q3-height-of-binary-tree-find-the-error)
+  - [Die with flowers: incorrect opposite pairs](#q4-die-with-flowers-incorrect-opposite-pairs)
+  - [Four people ordering statements](#q5-four-people-ordering-statements)
+  - [KNN use and priority queue internals](#q6-knn-use-and-priority-queue-internals)
+- [2026-10-21 · IIT Roorkee · FTE](#2026-10-21--iit-roorkee--fte)
+  - [Graph problem (details not shared)](#q1-graph-problem-details-not-shared)
+  - [Minimum insertions to make a string a palindrome](#q2-minimum-insertions-to-make-a-string-a-palindrome)
+- [2026-10-19 · IIT Delhi · FTE](#2026-10-19--iit-delhi--fte)
+  - [Alight OA pattern](#q1-alight-oa-pattern)
+- [2026-10-15 · IIT Roorkee · FTE](#2026-10-15--iit-roorkee--fte)
+  - [Alight OA format](#q1-alight-oa-format)
+- [2026-10-15 · IIT Hyderabad · FTE](#2026-10-15--iit-hyderabad--fte)
+  - [Alight OA format and sections](#q1-alight-oa-format-and-sections)
+  - [Kadane's with leftmost maximum-sum subarray](#q2-kadanes-with-leftmost-maximum-sum-subarray)
+- [2026-10-09 · IIT Roorkee · FTE](#2026-10-09--iit-roorkee--fte)
+  - [Maximum subarray sum with start and end indices](#q1-maximum-subarray-sum-with-start-and-end-indices)
+  - [Split array into k segments, pair-count cost](#q2-split-array-into-k-segments-pair-count-cost)
+- [2026-10-04 · IIT Roorkee · FTE](#2026-10-04--iit-roorkee--fte)
+  - [DSA question (Codeforces blog 53849)](#q1-dsa-question-codeforces-blog-53849)
+  - [MCQ and case-study sections](#q2-mcq-and-case-study-sections)
 
-- [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte) · 6 questions
-- [2026-10-21 · IIT Roorkee · FTE](#2026-10-21--iit-roorkee--fte) · 2 questions
-- [2026-10-19 · IIT Delhi · FTE](#2026-10-19--iit-delhi--fte) · 1 question
-- [2026-10-15 · IIT Roorkee · FTE](#2026-10-15--iit-roorkee--fte) · 1 question
-- [2026-10-15 · IIT Hyderabad · FTE](#2026-10-15--iit-hyderabad--fte) · 2 questions
-- [2026-10-09 · IIT Roorkee · FTE](#2026-10-09--iit-roorkee--fte) · 2 questions
-- [2026-10-04 · IIT Roorkee · FTE](#2026-10-04--iit-roorkee--fte) · 2 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

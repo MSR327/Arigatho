@@ -1,26 +1,43 @@
 # IBM
 
-**17 questions** from 11 OA drives · seen at IIIT Kottayam, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad · latest 2026-10-28
+**17 questions** · 11 drives · latest 28 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (8) · [Web Dev](../topics/web-dev.md) (5) · [Arrays](../topics/arrays.md) (3) · [Software Engineering](../topics/software-engineering.md) (2) · [HR & Behavioral](../topics/hr-behavioral.md) (2) · [Sliding Window](../topics/sliding-window.md) (1) · [Math](../topics/math.md) (1) · [Heaps](../topics/heaps.md) (1) · [Greedy](../topics/greedy.md) (1) · [Digital Electronics](../topics/digital-electronics.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 3 · [Software Engineering](../topics/software-engineering.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · +2 more  
+**Seen at:** IIIT Kottayam, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-28 · MNNIT Allahabad · FTE](#2026-10-28--mnnit-allahabad--fte)
+  - [Easy-medium DSA question](#q1-easy-medium-dsa-question)
+  - [Promo code validation backend fix](#q2-promo-code-validation-backend-fix)
+  - [Frameworks allowed for the web-dev question](#q3-frameworks-allowed-for-the-web-dev-question)
+- [2026-10-28 · IIT Guwahati · FTE · Interview](#2026-10-28--iit-guwahati--fte--interview)
+  - [IBM recorded competency interview format](#q1-ibm-recorded-competency-interview-format)
+- [2026-10-27 · IIT Kanpur · FTE · Hardware](#2026-10-27--iit-kanpur--fte--hardware)
+  - [IBM hardware role test pattern](#q1-ibm-hardware-role-test-pattern)
+- [2026-10-27 · IIT Hyderabad · FTE · Software Engineering · Interview](#2026-10-27--iit-hyderabad--fte--software-engineering--interview)
+  - [IBM diversity hiring interviews](#q1-ibm-diversity-hiring-interviews)
+- [2026-10-24 · IIT Kharagpur/Kanpur · FTE · Software Engineer / Software Developer](#2026-10-24--iit-kharagpurkanpur--fte--software-engineer--software-developer)
+  - [Minimum cost to merge array into one element](#q1-minimum-cost-to-merge-array-into-one-element)
+  - [Fix API route validation logic (backend task)](#q2-fix-api-route-validation-logic-backend-task)
+  - [IBM SWE OA format (HackerRank)](#q3-ibm-swe-oa-format-hackerrank)
+- [2026-10-24 · IIT Kanpur · FTE · Software Engineer (SWE)](#2026-10-24--iit-kanpur--fte--software-engineer-swe)
+  - [Easy DSA question](#q1-easy-dsa-question)
+  - [Codebase understanding and feature implementation (web dev)](#q2-codebase-understanding-and-feature-implementation-web-dev)
+- [2026-10-22 · IIT Guwahati · FTE](#2026-10-22--iit-guwahati--fte)
+  - [IBM OA pattern](#q1-ibm-oa-pattern)
+- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte)
+  - [OA pattern: 3 LeetCode hard + 20 OOPs/DBMS MCQs](#q1-oa-pattern-3-leetcode-hard--20-oopsdbms-mcqs)
+- [2026-10-21 · MNNIT Allahabad · FTE · Software](#2026-10-21--mnnit-allahabad--fte--software)
+  - [OA pattern: 1 DSA question and 1 backend question](#q1-oa-pattern-1-dsa-question-and-1-backend-question)
+- [2026-10-20 · MNNIT Allahabad · FTE · ASE · Interview](#2026-10-20--mnnit-allahabad--fte--ase--interview)
+  - [In-person coding round: two easy-medium DSA questions](#q1-in-person-coding-round-two-easy-medium-dsa-questions)
+- [2026-10-06 · IIIT Kottayam · FTE](#2026-10-06--iiit-kottayam--fte)
+  - [Sliding window DSA question (medium)](#q1-sliding-window-dsa-question-medium)
+  - [Web debugging question (Node.js / Django)](#q2-web-debugging-question-nodejs--django)
 
-- [2026-10-28 · MNNIT Allahabad · FTE](#2026-10-28--mnnit-allahabad--fte) · 3 questions
-- [2026-10-28 · IIT Guwahati · FTE · Interview](#2026-10-28--iit-guwahati--fte--interview) · 1 question
-- [2026-10-27 · IIT Kanpur · FTE · Hardware](#2026-10-27--iit-kanpur--fte--hardware) · 1 question
-- [2026-10-27 · IIT Hyderabad · FTE · Software Engineering · Interview](#2026-10-27--iit-hyderabad--fte--software-engineering--interview) · 1 question
-- [2026-10-24 · IIT Kharagpur/Kanpur · FTE · Software Engineer / Software Developer](#2026-10-24--iit-kharagpurkanpur--fte--software-engineer--software-developer) · 3 questions
-- [2026-10-24 · IIT Kanpur · FTE · Software Engineer (SWE)](#2026-10-24--iit-kanpur--fte--software-engineer-swe) · 2 questions
-- [2026-10-22 · IIT Guwahati · FTE](#2026-10-22--iit-guwahati--fte) · 1 question
-- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 1 question
-- [2026-10-21 · MNNIT Allahabad · FTE · Software](#2026-10-21--mnnit-allahabad--fte--software) · 1 question
-- [2026-10-20 · MNNIT Allahabad · FTE · ASE · Interview](#2026-10-20--mnnit-allahabad--fte--ase--interview) · 1 question
-- [2026-10-06 · IIIT Kottayam · FTE](#2026-10-06--iiit-kottayam--fte) · 2 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

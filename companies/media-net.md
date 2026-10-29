@@ -1,24 +1,42 @@
 # Media.net
 
-**18 questions** from 9 OA drives · seen at Delhi Technological University, IIT Bhubaneswar, IIT Bombay, IIT Delhi, Netaji Subhas University of Technology, Unknown, VNIT Nagpur · latest 2026-10-19
+**18 questions** · 9 drives · latest 19 Oct 2026 · [8 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [DP](../topics/dp.md) (7) · [Arrays](../topics/arrays.md) (7) · [Trees](../topics/trees.md) (4) · [Greedy](../topics/greedy.md) (4) · [Strings](../topics/strings.md) (3) · [OA Format](../topics/oa-format.md) (3) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (2) · [Two Pointers](../topics/two-pointers.md) (2) · [Heaps](../topics/heaps.md) (1) · [Graphs](../topics/graphs.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1)
+**Asks about:** [DP](../topics/dp.md) 7 · [Arrays](../topics/arrays.md) 7 · [Trees](../topics/trees.md) 4 · [Greedy](../topics/greedy.md) 4 · [Strings](../topics/strings.md) 3 · [OA Format](../topics/oa-format.md) 3 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · +4 more  
+**Seen at:** Delhi Technological University, IIT Bhubaneswar, IIT Bombay, IIT Delhi, Netaji Subhas University of Technology, VNIT Nagpur
 
-**LeetCode matches:** 8 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-19 · VNIT Nagpur · FTE · SDE · Interview](#2026-10-19--vnit-nagpur--fte--sde--interview)
+  - [Media.net SDE interview overview](#q1-medianet-sde-interview-overview)
+- [2026-10-19 · Unknown · Intern · SDE](#2026-10-19--unknown--intern--sde)
+  - [Magic Number Array](#q1-magic-number-array)
+  - [Allied Nations' Tour](#q2-allied-nations-tour)
+  - [Matrix 2x2 XOR Conversion](#q3-matrix-2x2-xor-conversion)
+- [2026-10-19 · Netaji Subhas University of Technology · FTE](#2026-10-19--netaji-subhas-university-of-technology--fte)
+  - [Trapping Rain Water](#q1-trapping-rain-water)
+- [2026-10-17 · Delhi Technological University · FTE](#2026-10-17--delhi-technological-university--fte)
+  - [Trapping Rain Water II](#q1-trapping-rain-water-ii)
+- [2026-10-16 · Delhi Technological University · Intern](#2026-10-16--delhi-technological-university--intern)
+  - [Trapping rain water and an easy array question](#q1-trapping-rain-water-and-an-easy-array-question)
+- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte)
+  - [Minimum Concatenations to Form a Target String](#q1-minimum-concatenations-to-form-a-target-string)
+  - [Recover Two Swapped Elements in a BST](#q2-recover-two-swapped-elements-in-a-bst)
+  - [Minimum Cost to Merge an Array into One Element](#q3-minimum-cost-to-merge-an-array-into-one-element)
+- [2026-10-15 · IIT Bombay · Intern](#2026-10-15--iit-bombay--intern)
+  - [Build string from prefixes with minimum concatenations](#q1-build-string-from-prefixes-with-minimum-concatenations)
+  - [Recover BST with two swapped nodes in O(1) space](#q2-recover-bst-with-two-swapped-nodes-in-o1-space)
+  - [Merge adjacent elements with minimum total cost](#q3-merge-adjacent-elements-with-minimum-total-cost)
+  - [MCQs on CN, DBMS, OS and Linux](#q4-mcqs-on-cn-dbms-os-and-linux)
+- [2026-10-13 · Unknown · FTE · SRE · Interview](#2026-10-13--unknown--fte--sre--interview)
+  - [Media.net SRE hiring process description](#q1-medianet-sre-hiring-process-description)
+- [2026-10-13 · IIT Bhubaneswar · FTE · SDE](#2026-10-13--iit-bhubaneswar--fte--sde)
+  - [Minimum concatenations to form a string from prefixes](#q1-minimum-concatenations-to-form-a-string-from-prefixes)
+  - [Recover BST with two swapped nodes](#q2-recover-bst-with-two-swapped-nodes)
+  - [Minimum cost to merge array into one element](#q3-minimum-cost-to-merge-array-into-one-element)
 
-- [2026-10-19 · VNIT Nagpur · FTE · SDE · Interview](#2026-10-19--vnit-nagpur--fte--sde--interview) · 1 question
-- [2026-10-19 · Unknown · Intern · SDE](#2026-10-19--unknown--intern--sde) · 3 questions
-- [2026-10-19 · Netaji Subhas University of Technology · FTE](#2026-10-19--netaji-subhas-university-of-technology--fte) · 1 question
-- [2026-10-17 · Delhi Technological University · FTE](#2026-10-17--delhi-technological-university--fte) · 1 question
-- [2026-10-16 · Delhi Technological University · Intern](#2026-10-16--delhi-technological-university--intern) · 1 question
-- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 3 questions
-- [2026-10-15 · IIT Bombay · Intern](#2026-10-15--iit-bombay--intern) · 4 questions
-- [2026-10-13 · Unknown · FTE · SRE · Interview](#2026-10-13--unknown--fte--sre--interview) · 1 question
-- [2026-10-13 · IIT Bhubaneswar · FTE · SDE](#2026-10-13--iit-bhubaneswar--fte--sde) · 3 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

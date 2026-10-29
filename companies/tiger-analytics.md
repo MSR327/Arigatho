@@ -1,15 +1,20 @@
 # Tiger Analytics
 
-**3 questions** from 2 OA drives · seen at IIT BHU, Unknown · latest 2026-10-28
+**3 questions** · 2 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (3)
+**Asks about:** [OA Format](../topics/oa-format.md) 3  
+**Seen at:** IIT BHU
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte) · 2 questions
-- [2026-10-27 · Unknown · FTE · Trainee Analyst](#2026-10-27--unknown--fte--trainee-analyst) · 1 question
+- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte)
+  - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern)
+  - [Tiger Analytics OA pattern](#q2-tiger-analytics-oa-pattern)
+- [2026-10-27 · Unknown · FTE · Trainee Analyst](#2026-10-27--unknown--fte--trainee-analyst)
+  - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern-1)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

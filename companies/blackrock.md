@@ -1,14 +1,17 @@
 # BlackRock
 
-**1 question** from 1 OA drive · seen at IIT BHU · latest 2026-10-26
+**1 question** · 1 drive · latest 26 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1  
+**Seen at:** IIT BHU
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-26 · IIT BHU · Intern](#2026-10-26--iit-bhu--intern) · 1 question
+- [2026-10-26 · IIT BHU · Intern](#2026-10-26--iit-bhu--intern)
+  - [BlackRock intern OA format](#q1-blackrock-intern-oa-format)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

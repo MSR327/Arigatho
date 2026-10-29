@@ -1,18 +1,33 @@
 # Accelequant
 
-**15 questions** from 3 OA drives · seen at BITS Pilani, IIT Delhi, IIT Indore · latest 2026-10-21
+**15 questions** · 3 drives · latest 21 Oct 2026 · [8 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [DP](../topics/dp.md) (4) · [Greedy](../topics/greedy.md) (4) · [Heaps](../topics/heaps.md) (3) · [Math](../topics/math.md) (3) · [Aptitude](../topics/aptitude.md) (3) · [OA Format](../topics/oa-format.md) (3) · [Hashing](../topics/hashing.md) (2) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (2) · [Arrays](../topics/arrays.md) (1) · [Other](../topics/other.md) (1)
+**Asks about:** [DP](../topics/dp.md) 4 · [Greedy](../topics/greedy.md) 4 · [Heaps](../topics/heaps.md) 3 · [Math](../topics/math.md) 3 · [Aptitude](../topics/aptitude.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Hashing](../topics/hashing.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · +2 more  
+**Seen at:** BITS Pilani, IIT Delhi, IIT Indore
 
-**LeetCode matches:** 8 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-21 · IIT Indore · FTE](#2026-10-21--iit-indore--fte)
+  - [Cherry Pickup II (LeetCode 1463)](#q1-cherry-pickup-ii-leetcode-1463)
+  - [Task Scheduler (LeetCode 621)](#q2-task-scheduler-leetcode-621)
+  - [Linear Algebra MCQs (A^2 = I)](#q3-linear-algebra-mcqs-a2--i)
+  - [Probability MCQs (Bayes' theorem, circular bead arrangement)](#q4-probability-mcqs-bayes-theorem-circular-bead-arrangement)
+  - [Quantum Computing MCQs](#q5-quantum-computing-mcqs)
+  - [Python pseudocode output MCQs](#q6-python-pseudocode-output-mcqs)
+  - [Cherry Pickup II](#q7-cherry-pickup-ii)
+  - [Task Scheduler](#q8-task-scheduler)
+  - [Aptitude, Python output and physics MCQs](#q9-aptitude-python-output-and-physics-mcqs)
+- [2026-10-20 · IIT Indore · FTE](#2026-10-20--iit-indore--fte)
+  - [Cherry Pickup II](#q1-cherry-pickup-ii)
+  - [Task Scheduler](#q2-task-scheduler)
+  - [Accelequant MCQ section](#q3-accelequant-mcq-section)
+- [2026-10-16 · IIT Delhi · Intern](#2026-10-16--iit-delhi--intern)
+  - [Accelequant OA format](#q1-accelequant-oa-format)
+  - [Cherry Pickup II](#q2-cherry-pickup-ii)
+  - [Task Scheduler](#q3-task-scheduler)
 
-- [2026-10-21 · IIT Indore · FTE](#2026-10-21--iit-indore--fte) · 9 questions
-- [2026-10-20 · IIT Indore · FTE](#2026-10-20--iit-indore--fte) · 3 questions
-- [2026-10-16 · IIT Delhi · Intern](#2026-10-16--iit-delhi--intern) · 3 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

@@ -1,16 +1,22 @@
 # Houlihan Lokey
 
-**4 questions** from 3 OA drives · seen at IIT Guwahati · latest 2026-10-25
+**4 questions** · 3 drives · latest 25 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (4)
+**Asks about:** [OA Format](../topics/oa-format.md) 4  
+**Seen at:** IIT Guwahati
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte) · 1 question
-- [2026-10-24 · IIT Guwahati · FTE](#2026-10-24--iit-guwahati--fte) · 1 question
-- [2026-10-19 · IIT Guwahati · FTE](#2026-10-19--iit-guwahati--fte) · 2 questions
+- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
+  - [Houlihan Lokey OA format](#q1-houlihan-lokey-oa-format)
+- [2026-10-24 · IIT Guwahati · FTE](#2026-10-24--iit-guwahati--fte)
+  - [Houlihan Lokey OA pattern](#q1-houlihan-lokey-oa-pattern)
+- [2026-10-19 · IIT Guwahati · FTE](#2026-10-19--iit-guwahati--fte)
+  - [Aptitude + English MCQ Sections](#q1-aptitude--english-mcq-sections)
+  - [Technical MCQ Section](#q2-technical-mcq-section)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

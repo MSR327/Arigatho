@@ -1,14 +1,16 @@
 # Citi
 
-**1 question** from 1 OA drive · seen at Unknown · latest 2026-10-27
+**1 question** · 1 drive · latest 27 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1  
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-27 · Unknown · Intern · Model/Analysis/Validation Analyst I (Risk Model development/validation/Monitoring) · Other round](#2026-10-27--unknown--intern--modelanalysisvalidation-analyst-i-risk-model-developmentvalidationmonitoring--other-round) · 1 question
+- [2026-10-27 · Unknown · Intern · Model/Analysis/Validation Analyst I (Risk Model development/validation/Monitoring) · Other round](#2026-10-27--unknown--intern--modelanalysisvalidation-analyst-i-risk-model-developmentvalidationmonitoring--other-round)
+  - [Citi RMS intern test topics](#q1-citi-rms-intern-test-topics)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

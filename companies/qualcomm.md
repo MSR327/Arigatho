@@ -1,15 +1,52 @@
 # Qualcomm
 
-**35 questions** from 2 OA drives · seen at IIT Delhi, IIT Guwahati · latest 2026-10-18
+**35 questions** · 2 drives · latest 18 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Digital Electronics](../topics/digital-electronics.md) (11) · [Aptitude](../topics/aptitude.md) (8) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (5) · [Stack/Queue](../topics/stack-queue.md) (3) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (3) · [Analog Electronics](../topics/analog-electronics.md) (3) · [Heaps](../topics/heaps.md) (1) · [Strings](../topics/strings.md) (1) · [Arrays](../topics/arrays.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Trees](../topics/trees.md) (1) · [Sorting](../topics/sorting.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Signals & Systems](../topics/signals-systems.md) (1) · [Control Systems](../topics/control-systems.md) (1) · [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 11 · [Aptitude](../topics/aptitude.md) 8 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Stack/Queue](../topics/stack-queue.md) 3 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [Analog Electronics](../topics/analog-electronics.md) 3 · [Heaps](../topics/heaps.md) 1 · [Strings](../topics/strings.md) 1 · +8 more  
+**Seen at:** IIT Delhi, IIT Guwahati
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte) · 1 question
-- [2026-10-13 · IIT Delhi · Intern](#2026-10-13--iit-delhi--intern) · 34 questions
+- [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte)
+  - [Qualcomm OA format](#q1-qualcomm-oa-format)
+- [2026-10-13 · IIT Delhi · Intern](#2026-10-13--iit-delhi--intern)
+  - [Glucose solution dilution](#q1-glucose-solution-dilution)
+  - [Array vs stack difference](#q2-array-vs-stack-difference)
+  - [Queue via a single stack: time complexity](#q3-queue-via-a-single-stack-time-complexity)
+  - [In-order predecessor of the root](#q4-in-order-predecessor-of-the-root)
+  - [Bucket sort statements](#q5-bucket-sort-statements)
+  - [Priority scheduling statements](#q6-priority-scheduling-statements)
+  - [Smallest-hole allocation technique](#q7-smallest-hole-allocation-technique)
+  - [I/O controller OS function](#q8-io-controller-os-function)
+  - [C output: bitwise shift/mask](#q9-c-output-bitwise-shiftmask)
+  - [C output: printf format mismatch](#q10-c-output-printf-format-mismatch)
+  - [C error finding: array pointer](#q11-c-error-finding-array-pointer)
+  - [Shopkeeper markup and discount](#q12-shopkeeper-markup-and-discount)
+  - [C error finding: pointer to pointer](#q13-c-error-finding-pointer-to-pointer)
+  - [C: NULL pointer assignment](#q14-c-null-pointer-assignment)
+  - [4-bit R-2R ladder DAC](#q15-4-bit-r-2r-ladder-dac)
+  - [Weighted-resistor DAC](#q16-weighted-resistor-dac)
+  - [4x1 MUX realized function](#q17-4x1-mux-realized-function)
+  - [T flip-flop input frequency](#q18-t-flip-flop-input-frequency)
+  - [Excess-3 code use case](#q19-excess-3-code-use-case)
+  - [Testability definition](#q20-testability-definition)
+  - [PMOS triode region condition](#q21-pmos-triode-region-condition)
+  - [Logic families matching](#q22-logic-families-matching)
+  - [Factory production rate](#q23-factory-production-rate)
+  - [5-variable Boolean simplification](#q24-5-variable-boolean-simplification)
+  - [JK flip-flop counter: J1 and K1](#q25-jk-flip-flop-counter-j1-and-k1)
+  - [VLSI design methodology choice](#q26-vlsi-design-methodology-choice)
+  - [Transfer function causality and stability](#q27-transfer-function-causality-and-stability)
+  - [8085 program: register C and carry flag](#q28-8085-program-register-c-and-carry-flag)
+  - [Two students on a circular track](#q29-two-students-on-a-circular-track)
+  - [Letter coding: HOUSE -> JQWUG](#q30-letter-coding-house---jqwug)
+  - [Analogy: POCKET : PTOECK :: SILVER : ?](#q31-analogy-pocket--ptoeck--silver--)
+  - [Star-operation word coding](#q32-star-operation-word-coding)
+  - [Symbol coding: GIFT / MUST / TRUE](#q33-symbol-coding-gift--must--true)
+  - [Word rearrangement with a priority queue](#q34-word-rearrangement-with-a-priority-queue)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

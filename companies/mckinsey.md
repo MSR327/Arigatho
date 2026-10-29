@@ -1,14 +1,17 @@
 # McKinsey
 
-**1 question** from 1 OA drive · seen at IIT Roorkee · latest 2026-10-28
+**1 question** · 1 drive · latest 28 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Heaps](../topics/heaps.md) (1) · [Greedy](../topics/greedy.md) (1) · [Hashing](../topics/hashing.md) (1)
+**Asks about:** [Heaps](../topics/heaps.md) 1 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1  
+**Seen at:** IIT Roorkee
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-28 · IIT Roorkee · FTE · Data Science](#2026-10-28--iit-roorkee--fte--data-science) · 1 question
+- [2026-10-28 · IIT Roorkee · FTE · Data Science](#2026-10-28--iit-roorkee--fte--data-science)
+  - [Reorder songs so same artist is not consecutive](#q1-reorder-songs-so-same-artist-is-not-consecutive)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

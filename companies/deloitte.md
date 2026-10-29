@@ -1,20 +1,84 @@
 # Deloitte
 
-**62 questions** from 7 OA drives · seen at IIT BHU, IIT Dhanbad, IIT Indore, IIT Kanpur, MNNIT Allahabad · latest 2026-10-28
+**62 questions** · 7 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Verbal](../topics/verbal.md) (16) · [Aptitude](../topics/aptitude.md) (16) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (8) · [ML/AI](../topics/ml-ai.md) (7) · [OA Format](../topics/oa-format.md) (6) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (6) · [Math](../topics/math.md) (5) · [Puzzles](../topics/puzzles.md) (4) · [OOP](../topics/oop.md) (3) · [SQL](../topics/sql.md) (3) · [Strings](../topics/strings.md) (1) · [Graphs](../topics/graphs.md) (1) · [Trees](../topics/trees.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1) · [Web Dev](../topics/web-dev.md) (1)
+**Asks about:** [Verbal](../topics/verbal.md) 16 · [Aptitude](../topics/aptitude.md) 16 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [OA Format](../topics/oa-format.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Math](../topics/math.md) 5 · [Puzzles](../topics/puzzles.md) 4 · +8 more  
+**Seen at:** IIT BHU, IIT Dhanbad, IIT Indore, IIT Kanpur, MNNIT Allahabad
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-28 · IIT Dhanbad · FTE · Analyst](#2026-10-28--iit-dhanbad--fte--analyst) · 15 questions
-- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte) · 1 question
-- [2026-10-27 · IIT Kanpur · FTE · Analyst](#2026-10-27--iit-kanpur--fte--analyst) · 36 questions
-- [2026-10-26 · IIT Dhanbad · FTE](#2026-10-26--iit-dhanbad--fte) · 7 questions
-- [2026-10-26 · IIT BHU · FTE](#2026-10-26--iit-bhu--fte) · 1 question
-- [2026-10-23 · IIT Indore · FTE](#2026-10-23--iit-indore--fte) · 1 question
-- [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte) · 1 question
+- [2026-10-28 · IIT Dhanbad · FTE · Analyst](#2026-10-28--iit-dhanbad--fte--analyst)
+  - [OA format: Deloitte Analyst round 1 (60 MCQs) and vibe coding round](#q1-oa-format-deloitte-analyst-round-1-60-mcqs-and-vibe-coding-round)
+  - [Pseudocode: average marks after adding 5 to those below 40](#q2-pseudocode-average-marks-after-adding-5-to-those-below-40)
+  - [Responsible AI risk in a recruiting model](#q3-responsible-ai-risk-in-a-recruiting-model)
+  - [HTML: replace text with <del>/<ins> and add a link](#q4-html-replace-text-with-delins-and-add-a-link)
+  - [SQL: add NOT NULL constraint to hsize column](#q5-sql-add-not-null-constraint-to-hsize-column)
+  - [Primary purpose of a validation dataset](#q6-primary-purpose-of-a-validation-dataset)
+  - [Network layer for sequencing, addressing and congestion control](#q7-network-layer-for-sequencing-addressing-and-congestion-control)
+  - [Why metadata filtering improves vector retrieval](#q8-why-metadata-filtering-improves-vector-retrieval)
+  - [SQL: employee with third least salary](#q9-sql-employee-with-third-least-salary)
+  - [Advantages of data virtualization](#q10-advantages-of-data-virtualization)
+  - [Role of a hypervisor](#q11-role-of-a-hypervisor)
+  - [C++ output: virtual show() with override](#q12-c-output-virtual-show-with-override)
+  - [Java output: inner class this.m1() and Sample.this.m1()](#q13-java-output-inner-class-thism1-and-samplethism1)
+  - [Prompting when the model lacks enough information](#q14-prompting-when-the-model-lacks-enough-information)
+  - [Why Transformers beat RNNs for training throughput](#q15-why-transformers-beat-rnns-for-training-throughput)
+- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte)
+  - [Deloitte vibe coding and debugging rounds](#q1-deloitte-vibe-coding-and-debugging-rounds)
+- [2026-10-27 · IIT Kanpur · FTE · Analyst](#2026-10-27--iit-kanpur--fte--analyst)
+  - [OA format: 60 MCQs in 60 minutes](#q1-oa-format-60-mcqs-in-60-minutes)
+  - [Sentence correction: looking up them who have spoken](#q2-sentence-correction-looking-up-them-who-have-spoken)
+  - [Attention to details: multiples of 10 in a sequence](#q3-attention-to-details-multiples-of-10-in-a-sequence)
+  - [Eighth book in alphabetical pattern A, E, I, M, Q](#q4-eighth-book-in-alphabetical-pattern-a-e-i-m-q)
+  - [Seven photographers circular seating: who sits clockwise of Boreas](#q5-seven-photographers-circular-seating-who-sits-clockwise-of-boreas)
+  - [Seven photographers: photos taken by the two seated next to Echo](#q6-seven-photographers-photos-taken-by-the-two-seated-next-to-echo)
+  - [Assumptions: food wastage awareness](#q7-assumptions-food-wastage-awareness)
+  - [KALEIDOSCOPE rearranged: 7th letter from left](#q8-kaleidoscope-rearranged-7th-letter-from-left)
+  - [Critical reasoning: lifts in buildings](#q9-critical-reasoning-lifts-in-buildings)
+  - [Pallavi's walk: shortest distance and direction from R](#q10-pallavis-walk-shortest-distance-and-direction-from-r)
+  - [Ice cream market research inference](#q11-ice-cream-market-research-inference)
+  - [Error detection: letters to each other](#q12-error-detection-letters-to-each-other)
+  - [Distributing 22 coupons among 6 students](#q13-distributing-22-coupons-among-6-students)
+  - [Oil and water mixture: 25% replaced with water](#q14-oil-and-water-mixture-25-replaced-with-water)
+  - [Bar graph: average IT employees of company Q](#q15-bar-graph-average-it-employees-of-company-q)
+  - [Probability: sum of two spins of an 8-sector spinner is prime](#q16-probability-sum-of-two-spins-of-an-8-sector-spinner-is-prime)
+  - [Two circles with radii ratio 5:3 and tangent from P](#q17-two-circles-with-radii-ratio-53-and-tangent-from-p)
+  - [Profit percentage: 23 articles bought for ₹8, sold for ₹10](#q18-profit-percentage-23-articles-bought-for-8-sold-for-10)
+  - [Surface area of a cube with a square tunnel](#q19-surface-area-of-a-cube-with-a-square-tunnel)
+  - [C++ output: virtual function with object slicing](#q20-c-output-virtual-function-with-object-slicing)
+  - [Mean hops in a complete binary tree of 15 routers](#q21-mean-hops-in-a-complete-binary-tree-of-15-routers)
+  - [Train/validation/test performance gap](#q22-trainvalidationtest-performance-gap)
+  - [Sentence arrangement: microwaved food](#q23-sentence-arrangement-microwaved-food)
+  - [What happens to weights during neural network training](#q24-what-happens-to-weights-during-neural-network-training)
+  - [XOR of 1..N with one value skipped](#q25-xor-of-1n-with-one-value-skipped)
+  - [Cloud computing category using virtualized resources](#q26-cloud-computing-category-using-virtualized-resources)
+  - [Password change succeeds but verify fails for many accounts](#q27-password-change-succeeds-but-verify-fails-for-many-accounts)
+  - [Benefit of content filtering](#q28-benefit-of-content-filtering)
+  - [Smart water dispenser refill count](#q29-smart-water-dispenser-refill-count)
+  - [Adequate normal form for relational database design](#q30-adequate-normal-form-for-relational-database-design)
+  - [Reading comprehension: Koji and Haruki's trees (seasons changed)](#q31-reading-comprehension-koji-and-harukis-trees-seasons-changed)
+  - [Reading comprehension: what Koji and Haruki learnt](#q32-reading-comprehension-what-koji-and-haruki-learnt)
+  - [Fill in the blank: The Roys and their wealth](#q33-fill-in-the-blank-the-roys-and-their-wealth)
+  - [Sentence arrangement: army surgeon at Bombay](#q34-sentence-arrangement-army-surgeon-at-bombay)
+  - [Fill in the blank: poured tea the cup](#q35-fill-in-the-blank-poured-tea-the-cup)
+  - [Error detection: start to panic](#q36-error-detection-start-to-panic)
+- [2026-10-26 · IIT Dhanbad · FTE](#2026-10-26--iit-dhanbad--fte)
+  - [Error detection: letters to each other](#q1-error-detection-letters-to-each-other)
+  - [Sentence arrangement: microwave food safety](#q2-sentence-arrangement-microwave-food-safety)
+  - [Reading comprehension: what happened as seasons changed](#q3-reading-comprehension-what-happened-as-seasons-changed)
+  - [Reading comprehension: Koji and Haruki learnt to](#q4-reading-comprehension-koji-and-haruki-learnt-to)
+  - [Fill in the blank: Roys and wealth](#q5-fill-in-the-blank-roys-and-wealth)
+  - [Sentence arrangement: surgeon in the Army](#q6-sentence-arrangement-surgeon-in-the-army)
+  - [Fill in the blank: poured tea](#q7-fill-in-the-blank-poured-tea)
+- [2026-10-26 · IIT BHU · FTE](#2026-10-26--iit-bhu--fte)
+  - [Deloitte test pattern](#q1-deloitte-test-pattern)
+- [2026-10-23 · IIT Indore · FTE](#2026-10-23--iit-indore--fte)
+  - [Deloitte OA structure: aptitude round then vibe coding test](#q1-deloitte-oa-structure-aptitude-round-then-vibe-coding-test)
+- [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte)
+  - [Deloitte OA contents](#q1-deloitte-oa-contents)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

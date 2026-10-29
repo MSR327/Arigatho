@@ -1,16 +1,23 @@
 # Blinkit
 
-**5 questions** from 3 OA drives · seen at NIT Trichy, Unknown · latest 2026-09-25
+**5 questions** · 3 drives · latest 25 Sep 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Software Engineering](../topics/software-engineering.md) (2) · [Trees](../topics/trees.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Hashing](../topics/hashing.md) (1) · [Web Dev](../topics/web-dev.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [OOP](../topics/oop.md) (1) · [SQL](../topics/sql.md) (1) · [OA Format](../topics/oa-format.md) (1) · [Finance](../topics/finance.md) (1)
+**Asks about:** [Software Engineering](../topics/software-engineering.md) 2 · [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Hashing](../topics/hashing.md) 1 · [Web Dev](../topics/web-dev.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [OOP](../topics/oop.md) 1 · [SQL](../topics/sql.md) 1 · +2 more  
+**Seen at:** NIT Trichy
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-09-25 · NIT Trichy · FTE](#2026-09-25--nit-trichy--fte) · 1 question
-- [2026-09-22 · NIT Trichy · FTE · Interview](#2026-09-22--nit-trichy--fte--interview) · 1 question
-- [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview) · 3 questions
+- [2026-09-25 · NIT Trichy · FTE](#2026-09-25--nit-trichy--fte)
+  - [Excel data analysis: AOV, CVR, GMV, CAC](#q1-excel-data-analysis-aov-cvr-gmv-cac)
+- [2026-09-22 · NIT Trichy · FTE · Interview](#2026-09-22--nit-trichy--fte--interview)
+  - [Delivery tracking system design](#q1-delivery-tracking-system-design)
+- [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview)
+  - [Binary tree path-sum variants](#q1-binary-tree-path-sum-variants)
+  - [Design live delivery tracking](#q2-design-live-delivery-tracking)
+  - [OOP, OS, DBMS, SQL and backend questions](#q3-oop-os-dbms-sql-and-backend-questions)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

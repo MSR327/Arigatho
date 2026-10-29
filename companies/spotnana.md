@@ -1,19 +1,32 @@
 # Spotnana
 
-**13 questions** from 4 OA drives · seen at IIT Delhi, IIT Kanpur · latest 2026-10-12
+**13 questions** · 4 drives · latest 12 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Binary Search](../topics/binary-search.md) (7) · [Greedy](../topics/greedy.md) (6) · [Trees](../topics/trees.md) (4) · [Bit Manipulation](../topics/bit-manipulation.md) (4) · [Graphs](../topics/graphs.md) (2) · [Strings](../topics/strings.md) (2) · [Two Pointers](../topics/two-pointers.md) (2) · [Heaps](../topics/heaps.md) (1) · [Arrays](../topics/arrays.md) (1) · [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [Binary Search](../topics/binary-search.md) 7 · [Greedy](../topics/greedy.md) 6 · [Trees](../topics/trees.md) 4 · [Bit Manipulation](../topics/bit-manipulation.md) 4 · [Graphs](../topics/graphs.md) 2 · [Strings](../topics/strings.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [Heaps](../topics/heaps.md) 1 · +2 more  
+**Seen at:** IIT Delhi, IIT Kanpur
 
-**LeetCode matches:** 3 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-12 · IIT Delhi · FTE](#2026-10-12--iit-delhi--fte)
+  - [Spotnana OA format](#q1-spotnana-oa-format)
+- [2026-10-10 · IIT Delhi · FTE](#2026-10-10--iit-delhi--fte)
+  - [Minimize Tree Height by Re-attaching Edges](#q1-minimize-tree-height-by-re-attaching-edges)
+  - [Maximum Profit with Bitwise OR at Most K](#q2-maximum-profit-with-bitwise-or-at-most-k)
+  - [Subsequence With the Minimum Score](#q3-subsequence-with-the-minimum-score)
+- [2026-10-10 · IIT Delhi · FTE · SDE](#2026-10-10--iit-delhi--fte--sde)
+  - [Minimum travel distance visiting required tree nodes](#q1-minimum-travel-distance-visiting-required-tree-nodes)
+  - [Kth largest OR over all subarrays](#q2-kth-largest-or-over-all-subarrays)
+  - [Minimum days to train and deploy all ML models](#q3-minimum-days-to-train-and-deploy-all-ml-models)
+  - [Minimize tree height by re-attaching edges to root](#q4-minimize-tree-height-by-re-attaching-edges-to-root)
+  - [Maximum profit with bitwise OR at most K](#q5-maximum-profit-with-bitwise-or-at-most-k)
+  - [Subsequence with the minimum score](#q6-subsequence-with-the-minimum-score)
+- [2026-10-09 · IIT Kanpur · FTE](#2026-10-09--iit-kanpur--fte)
+  - [Shortest walk covering all required nodes in a tree](#q1-shortest-walk-covering-all-required-nodes-in-a-tree)
+  - [Train then execute: minimum days (or -1)](#q2-train-then-execute-minimum-days-or--1)
+  - [k-th largest OR over all subarrays](#q3-k-th-largest-or-over-all-subarrays)
 
-- [2026-10-12 · IIT Delhi · FTE](#2026-10-12--iit-delhi--fte) · 1 question
-- [2026-10-10 · IIT Delhi · FTE](#2026-10-10--iit-delhi--fte) · 3 questions
-- [2026-10-10 · IIT Delhi · FTE · SDE](#2026-10-10--iit-delhi--fte--sde) · 6 questions
-- [2026-10-09 · IIT Kanpur · FTE](#2026-10-09--iit-kanpur--fte) · 3 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

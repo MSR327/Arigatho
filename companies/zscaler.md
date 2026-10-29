@@ -1,22 +1,38 @@
 # Zscaler
 
-**14 questions** from 9 OA drives · seen at IIIT, IIT Kharagpur/Kanpur, NIT Patna, SVNIT Surat, Unknown · latest 2026-10-23
+**14 questions** · 9 drives · latest 23 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (7) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (3) · [Strings](../topics/strings.md) (2) · [DP](../topics/dp.md) (2) · [OOP](../topics/oop.md) (2) · [SQL](../topics/sql.md) (1) · [Hashing](../topics/hashing.md) (1) · [Heaps](../topics/heaps.md) (1) · [Arrays](../topics/arrays.md) (1) · [Math](../topics/math.md) (1) · [Web Dev](../topics/web-dev.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Sorting](../topics/sorting.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Linked List](../topics/linked-list.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [Strings](../topics/strings.md) 2 · [DP](../topics/dp.md) 2 · [OOP](../topics/oop.md) 2 · [SQL](../topics/sql.md) 1 · [Hashing](../topics/hashing.md) 1 · [Heaps](../topics/heaps.md) 1 · +9 more  
+**Seen at:** IIIT, IIT Kharagpur/Kanpur, NIT Patna, SVNIT Surat
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-23 · Unknown · FTE](#2026-10-23--unknown--fte) · 1 question
-- [2026-10-23 · Unknown · Intern · SDE](#2026-10-23--unknown--intern--sde) · 1 question
-- [2026-10-23 · NIT Patna · Intern · Skybound Intern](#2026-10-23--nit-patna--intern--skybound-intern) · 1 question
-- [2026-10-22 · IIIT · Intern · Skybound Intern](#2026-10-22--iiit--intern--skybound-intern) · 1 question
-- [2026-10-18 · IIIT · FTE](#2026-10-18--iiit--fte) · 1 question
-- [2026-10-17 · SVNIT Surat · FTE · Interview](#2026-10-17--svnit-surat--fte--interview) · 1 question
-- [2026-10-12 · IIT Kharagpur/Kanpur · FTE · Interview](#2026-10-12--iit-kharagpurkanpur--fte--interview) · 1 question
-- [2026-09-21 · Unknown · Intern · Java Intern / C Developer Intern / SDE Intern · Other round](#2026-09-21--unknown--intern--java-intern--c-developer-intern--sde-intern--other-round) · 5 questions
-- [2026-09-21 · Unknown · FTE · Associate Software Engineer · Other round](#2026-09-21--unknown--fte--associate-software-engineer--other-round) · 2 questions
+- [2026-10-23 · Unknown · FTE](#2026-10-23--unknown--fte)
+  - [Zscaler CodeSignal OA format](#q1-zscaler-codesignal-oa-format)
+- [2026-10-23 · Unknown · Intern · SDE](#2026-10-23--unknown--intern--sde)
+  - [Zscaler SDE intern OA format](#q1-zscaler-sde-intern-oa-format)
+- [2026-10-23 · NIT Patna · Intern · Skybound Intern](#2026-10-23--nit-patna--intern--skybound-intern)
+  - [Zscaler OA format: 3 DSA problems in 2 hours](#q1-zscaler-oa-format-3-dsa-problems-in-2-hours)
+- [2026-10-22 · IIIT · Intern · Skybound Intern](#2026-10-22--iiit--intern--skybound-intern)
+  - [Zscaler OA format: Backend and Python sections](#q1-zscaler-oa-format-backend-and-python-sections)
+- [2026-10-18 · IIIT · FTE](#2026-10-18--iiit--fte)
+  - [Zscaler OA format](#q1-zscaler-oa-format)
+- [2026-10-17 · SVNIT Surat · FTE · Interview](#2026-10-17--svnit-surat--fte--interview)
+  - [Zscaler on-campus interview round 1](#q1-zscaler-on-campus-interview-round-1)
+- [2026-10-12 · IIT Kharagpur/Kanpur · FTE · Interview](#2026-10-12--iit-kharagpurkanpur--fte--interview)
+  - [Zscaler interview topics](#q1-zscaler-interview-topics)
+- [2026-09-21 · Unknown · Intern · Java Intern / C Developer Intern / SDE Intern · Other round](#2026-09-21--unknown--intern--java-intern--c-developer-intern--sde-intern--other-round)
+  - [Java internship OA format](#q1-java-internship-oa-format)
+  - [Java internship interview topics](#q2-java-internship-interview-topics)
+  - [C developer intern OA topics](#q3-c-developer-intern-oa-topics)
+  - [C developer intern interview topics](#q4-c-developer-intern-interview-topics)
+  - [SDE intern coding and discussion topics](#q5-sde-intern-coding-and-discussion-topics)
+- [2026-09-21 · Unknown · FTE · Associate Software Engineer · Other round](#2026-09-21--unknown--fte--associate-software-engineer--other-round)
+  - [Associate Software Engineer OA format](#q1-associate-software-engineer-oa-format)
+  - [Associate Software Engineer interview topics](#q2-associate-software-engineer-interview-topics)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

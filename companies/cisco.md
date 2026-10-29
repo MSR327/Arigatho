@@ -1,18 +1,26 @@
 # Cisco
 
-**6 questions** from 5 OA drives · seen at MNNIT Allahabad, NIT Kurukshetra, Unknown · latest 2026-09-22
+**6 questions** · 5 drives · latest 22 Sep 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (4) · [Trees](../topics/trees.md) (2) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [Arrays](../topics/arrays.md) (1) · [Linked List](../topics/linked-list.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Trees](../topics/trees.md) 2 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [Arrays](../topics/arrays.md) 1 · [Linked List](../topics/linked-list.md) 1  
+**Seen at:** MNNIT Allahabad, NIT Kurukshetra
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-09-22 · NIT Kurukshetra · Intern · SWE · Interview](#2026-09-22--nit-kurukshetra--intern--swe--interview) · 1 question
-- [2026-09-21 · Unknown · FTE · SDE](#2026-09-21--unknown--fte--sde) · 1 question
-- [2026-09-21 · Unknown · FTE · SDE · Interview](#2026-09-21--unknown--fte--sde--interview) · 2 questions
-- [2026-09-21 · Unknown · Intern · Interview](#2026-09-21--unknown--intern--interview) · 1 question
-- [2026-09-13 · MNNIT Allahabad · Intern](#2026-09-13--mnnit-allahabad--intern) · 1 question
+- [2026-09-22 · NIT Kurukshetra · Intern · SWE · Interview](#2026-09-22--nit-kurukshetra--intern--swe--interview)
+  - [Cisco interview rounds](#q1-cisco-interview-rounds)
+- [2026-09-21 · Unknown · FTE · SDE](#2026-09-21--unknown--fte--sde)
+  - [SDE OA format: 2 DSA tasks and 40 MCQs](#q1-sde-oa-format-2-dsa-tasks-and-40-mcqs)
+- [2026-09-21 · Unknown · FTE · SDE · Interview](#2026-09-21--unknown--fte--sde--interview)
+  - [SDE interview: BST validation, traversals and project feature](#q1-sde-interview-bst-validation-traversals-and-project-feature)
+  - [Network SWE intern technical round: DSA, OOP, OS and projects](#q2-network-swe-intern-technical-round-dsa-oop-os-and-projects)
+- [2026-09-21 · Unknown · Intern · Interview](#2026-09-21--unknown--intern--interview)
+  - [Intern technical interviews: arrays, linked lists, trees and graphs](#q1-intern-technical-interviews-arrays-linked-lists-trees-and-graphs)
+- [2026-09-13 · MNNIT Allahabad · Intern](#2026-09-13--mnnit-allahabad--intern)
+  - [Cisco intern OA pattern](#q1-cisco-intern-oa-pattern)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

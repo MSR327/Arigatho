@@ -1,19 +1,27 @@
 # Virtusa
 
-**6 questions** from 6 OA drives · seen at IIT Palakkad, Unknown · latest 2026-09-22
+**6 questions** · 6 drives · latest 22 Sep 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (6)
+**Asks about:** [OA Format](../topics/oa-format.md) 6  
+**Seen at:** IIT Palakkad
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-09-22 · IIT Palakkad · FTE](#2026-09-22--iit-palakkad--fte) · 1 question
-- [2026-09-22 · IIT Palakkad · FTE · Associate Consultant](#2026-09-22--iit-palakkad--fte--associate-consultant) · 1 question
-- [2026-09-21 · Unknown · FTE · Junior Data Scientist · Interview](#2026-09-21--unknown--fte--junior-data-scientist--interview) · 1 question
-- [2026-09-21 · Unknown · FTE · Regular Coder](#2026-09-21--unknown--fte--regular-coder) · 1 question
-- [2026-09-21 · Unknown · FTE · Regular Coder · Interview](#2026-09-21--unknown--fte--regular-coder--interview) · 1 question
-- [2026-09-21 · Unknown · FTE · Developer · Interview](#2026-09-21--unknown--fte--developer--interview) · 1 question
+- [2026-09-22 · IIT Palakkad · FTE](#2026-09-22--iit-palakkad--fte)
+  - [Virtusa OA format](#q1-virtusa-oa-format)
+- [2026-09-22 · IIT Palakkad · FTE · Associate Consultant](#2026-09-22--iit-palakkad--fte--associate-consultant)
+  - [Virtusa OA pattern](#q1-virtusa-oa-pattern)
+- [2026-09-21 · Unknown · FTE · Junior Data Scientist · Interview](#2026-09-21--unknown--fte--junior-data-scientist--interview)
+  - [Junior Data Scientist interview rounds overview](#q1-junior-data-scientist-interview-rounds-overview)
+- [2026-09-21 · Unknown · FTE · Regular Coder](#2026-09-21--unknown--fte--regular-coder)
+  - [Regular Coder assessment format](#q1-regular-coder-assessment-format)
+- [2026-09-21 · Unknown · FTE · Regular Coder · Interview](#2026-09-21--unknown--fte--regular-coder--interview)
+  - [Regular Coder technical interview](#q1-regular-coder-technical-interview)
+- [2026-09-21 · Unknown · FTE · Developer · Interview](#2026-09-21--unknown--fte--developer--interview)
+  - [Developer interview topics](#q1-developer-interview-topics)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

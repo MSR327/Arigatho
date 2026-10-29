@@ -1,15 +1,19 @@
 # Cognizant
 
-**2 questions** from 2 OA drives · seen at IIIT, IIT BHU · latest 2026-10-28
+**2 questions** · 2 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (2)
+**Asks about:** [OA Format](../topics/oa-format.md) 2  
+**Seen at:** IIIT, IIT BHU
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-28 · IIT BHU · FTE · Ace Frontier Engineer](#2026-10-28--iit-bhu--fte--ace-frontier-engineer) · 1 question
-- [2026-10-15 · IIIT · FTE · Ace Frontier Engineer](#2026-10-15--iiit--fte--ace-frontier-engineer) · 1 question
+- [2026-10-28 · IIT BHU · FTE · Ace Frontier Engineer](#2026-10-28--iit-bhu--fte--ace-frontier-engineer)
+  - [Cognizant OA pattern (two sections)](#q1-cognizant-oa-pattern-two-sections)
+- [2026-10-15 · IIIT · FTE · Ace Frontier Engineer](#2026-10-15--iiit--fte--ace-frontier-engineer)
+  - [Cognizant Ace Frontier OA format](#q1-cognizant-ace-frontier-oa-format)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

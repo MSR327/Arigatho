@@ -1,37 +1,108 @@
 # NatWest
 
-**71 questions** from 22 OA drives · seen at Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Roorkee, VNIT Nagpur · latest 2026-10-27
+**71 questions** · 22 drives · latest 27 Oct 2026 · [11 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (19) · [Graphs](../topics/graphs.md) (13) · [Strings](../topics/strings.md) (12) · [Arrays](../topics/arrays.md) (12) · [Math](../topics/math.md) (10) · [SQL](../topics/sql.md) (8) · [Hashing](../topics/hashing.md) (8) · [Greedy](../topics/greedy.md) (5) · [DP](../topics/dp.md) (5) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (2) · [Aptitude](../topics/aptitude.md) (2) · [Sorting](../topics/sorting.md) (2) · [Trees](../topics/trees.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Sliding Window](../topics/sliding-window.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Heaps](../topics/heaps.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Graphs](../topics/graphs.md) 13 · [Strings](../topics/strings.md) 12 · [Arrays](../topics/arrays.md) 12 · [Math](../topics/math.md) 10 · [SQL](../topics/sql.md) 8 · [Hashing](../topics/hashing.md) 8 · [Greedy](../topics/greedy.md) 5 · +9 more  
+**Seen at:** Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Roorkee, VNIT Nagpur
 
-**LeetCode matches:** 11 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte)
+  - [NatWest OA pattern](#q1-natwest-oa-pattern)
+  - [Maximum Employees to Be Invited to a Meeting](#q2-maximum-employees-to-be-invited-to-a-meeting)
+  - [Basic array traversal](#q3-basic-array-traversal)
+- [2026-10-26 · IIT Roorkee · FTE](#2026-10-26--iit-roorkee--fte)
+  - [Minimum lines to cover points](#q1-minimum-lines-to-cover-points)
+- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
+  - [Smallest Permutation of an Integer](#q1-smallest-permutation-of-an-integer)
+  - [Largest Odd-Sized Palindromic Square Submatrix](#q2-largest-odd-sized-palindromic-square-submatrix)
+- [2026-10-25 · IIT BHU · FTE](#2026-10-25--iit-bhu--fte)
+  - [NatWest OA format](#q1-natwest-oa-format)
+  - [Longest subarray of ones after flips (variation)](#q2-longest-subarray-of-ones-after-flips-variation)
+  - [Binary array XOR of neighbours after K operations](#q3-binary-array-xor-of-neighbours-after-k-operations)
+  - [Maximum employees to be invited to a meeting](#q4-maximum-employees-to-be-invited-to-a-meeting)
+  - [NatWest OA structure](#q5-natwest-oa-structure)
+  - [DSA questions: sorting + pick/not-pick DP](#q6-dsa-questions-sorting--picknot-pick-dp)
+- [2026-10-23 · IIT Guwahati · FTE](#2026-10-23--iit-guwahati--fte)
+  - [NatWest OA pattern](#q1-natwest-oa-pattern-1)
+  - [Multi-source Dijkstra](#q2-multi-source-dijkstra)
+  - [Remove vowels from a string](#q3-remove-vowels-from-a-string)
+- [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte)
+  - [Remove all vowels from a string](#q1-remove-all-vowels-from-a-string)
+  - [Maximum Employees to Be Invited to a Meeting (print the cycle)](#q2-maximum-employees-to-be-invited-to-a-meeting-print-the-cycle)
+  - [NatWest OA structure and coding questions](#q3-natwest-oa-structure-and-coding-questions)
+- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte)
+  - [Count occurrences of a digit in a number](#q1-count-occurrences-of-a-digit-in-a-number)
+  - [Start node covering the maximum nodes in a directed graph](#q2-start-node-covering-the-maximum-nodes-in-a-directed-graph)
+  - [NatWest OA structure](#q3-natwest-oa-structure)
+- [2026-10-14 · IIT Roorkee · FTE](#2026-10-14--iit-roorkee--fte)
+  - [NatWest SQL MCQ section](#q1-natwest-sql-mcq-section)
+- [2026-10-14 · IIT BHU · FTE](#2026-10-14--iit-bhu--fte)
+  - [Count Occurrences of a Digit in a Number](#q1-count-occurrences-of-a-digit-in-a-number-1)
+  - [Start Node Reaching Maximum Nodes in Directed Graph](#q2-start-node-reaching-maximum-nodes-in-directed-graph)
+  - [Other Sections (Behavioural, Reasoning, SQL MCQ)](#q3-other-sections-behavioural-reasoning-sql-mcq)
+- [2026-10-13 · IIT Guwahati · FTE](#2026-10-13--iit-guwahati--fte)
+  - [OA DSA set: string, two sum, stones DP, graph](#q1-oa-dsa-set-string-two-sum-stones-dp-graph)
+- [2026-10-13 · IIT BHU · FTE](#2026-10-13--iit-bhu--fte)
+  - [OA DSA set: one easy, one 2-D DP](#q1-oa-dsa-set-one-easy-one-2-d-dp)
+  - [Count occurrences of a digit in a number](#q2-count-occurrences-of-a-digit-in-a-number)
+  - [Start node covering maximum nodes in directed graph](#q3-start-node-covering-maximum-nodes-in-directed-graph)
+  - [OA format: behavioural, reasoning, SQL MCQ](#q4-oa-format-behavioural-reasoning-sql-mcq)
+- [2026-10-12 · VNIT Nagpur · FTE](#2026-10-12--vnit-nagpur--fte)
+  - [Aptitude section content](#q1-aptitude-section-content)
+- [2026-10-12 · IIT Guwahati · FTE](#2026-10-12--iit-guwahati--fte)
+  - [OA structure: DSA, SQL and CS fundamentals](#q1-oa-structure-dsa-sql-and-cs-fundamentals)
+  - [Two Sum style problems](#q2-two-sum-style-problems)
+  - [Simple string question](#q3-simple-string-question)
+  - [SQL query on IPL teams data](#q4-sql-query-on-ipl-teams-data)
+  - [Two Sum](#q5-two-sum)
+  - [Simple string problem](#q6-simple-string-problem)
+  - [Jump problem (DP)](#q7-jump-problem-dp)
+  - [SQL query on IPL teams data](#q8-sql-query-on-ipl-teams-data)
+  - [SQL MCQs](#q9-sql-mcqs)
+  - [Two Sum](#q10-two-sum)
+  - [DP jump problem](#q11-dp-jump-problem)
+  - [Simple string problem](#q12-simple-string-problem)
+  - [SQL questions (easy)](#q13-sql-questions-easy)
+  - [CS fundamentals MCQs and paper overview](#q14-cs-fundamentals-mcqs-and-paper-overview)
+- [2026-10-12 · IIT BHU · FTE](#2026-10-12--iit-bhu--fte)
+  - [NatWest OA structure](#q1-natwest-oa-structure)
+  - [OA pattern](#q2-oa-pattern)
+- [2026-10-12 · IIT BHU · Intern](#2026-10-12--iit-bhu--intern)
+  - [Max distance between special nodes in a tree](#q1-max-distance-between-special-nodes-in-a-tree)
+  - [Overlapping area of two circles](#q2-overlapping-area-of-two-circles)
+- [2026-10-12 · IIT BHU · FTE · Software](#2026-10-12--iit-bhu--fte--software)
+  - [NatWest OA pattern (IIT BHU)](#q1-natwest-oa-pattern-iit-bhu)
+- [2026-10-12 · Delhi Technological University · FTE](#2026-10-12--delhi-technological-university--fte)
+  - [Non-Overlapping Substring Occurrences](#q1-non-overlapping-substring-occurrences)
+  - [Grid Path with Obstacles](#q2-grid-path-with-obstacles)
+  - [Non-overlapping substring occurrences](#q3-non-overlapping-substring-occurrences)
+  - [Grid path with obstacles](#q4-grid-path-with-obstacles)
+- [2026-10-11 · Delhi Technological University · FTE](#2026-10-11--delhi-technological-university--fte)
+  - [OA Pattern + DSA Section Overview](#q1-oa-pattern--dsa-section-overview)
+  - [CS Fundamentals + SQL Sections](#q2-cs-fundamentals--sql-sections)
+  - [Non-Overlapping Substring Occurrences](#q3-non-overlapping-substring-occurrences-1)
+  - [Grid Path with Obstacles](#q4-grid-path-with-obstacles-1)
+  - [Count Pairs with Difference K](#q5-count-pairs-with-difference-k)
+  - [Area of Intersection of Two Circles](#q6-area-of-intersection-of-two-circles)
+  - [Last Occurrence Map Problem](#q7-last-occurrence-map-problem)
+  - [Minimum Distance Between a Point and a Line](#q8-minimum-distance-between-a-point-and-a-line)
+- [2026-10-10 · Delhi Technological University · FTE](#2026-10-10--delhi-technological-university--fte)
+  - [NatWest OA pattern](#q1-natwest-oa-pattern-2)
+- [2026-10-07 · Delhi Technological University · FTE · SDE](#2026-10-07--delhi-technological-university--fte--sde)
+  - [Non-overlapping substring occurrences](#q1-non-overlapping-substring-occurrences-1)
+  - [Grid path with obstacles](#q2-grid-path-with-obstacles-1)
+- [2026-10-06 · IIT Delhi · FTE · SDE](#2026-10-06--iit-delhi--fte--sde)
+  - [NatWest OA structure](#q1-natwest-oa-structure-1)
+- [2026-10-06 · IIT Delhi · FTE](#2026-10-06--iit-delhi--fte)
+  - [Count pairs with difference K](#q1-count-pairs-with-difference-k)
+  - [Common area of two intersecting circles](#q2-common-area-of-two-intersecting-circles)
+  - [Last occurrence map problem](#q3-last-occurrence-map-problem)
+  - [Optimize distance between a point and a line on an infinite plane](#q4-optimize-distance-between-a-point-and-a-line-on-an-infinite-plane)
+  - [SQL basics and logical reasoning](#q5-sql-basics-and-logical-reasoning)
 
-- [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte) · 3 questions
-- [2026-10-26 · IIT Roorkee · FTE](#2026-10-26--iit-roorkee--fte) · 1 question
-- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte) · 2 questions
-- [2026-10-25 · IIT BHU · FTE](#2026-10-25--iit-bhu--fte) · 6 questions
-- [2026-10-23 · IIT Guwahati · FTE](#2026-10-23--iit-guwahati--fte) · 3 questions
-- [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte) · 3 questions
-- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 3 questions
-- [2026-10-14 · IIT Roorkee · FTE](#2026-10-14--iit-roorkee--fte) · 1 question
-- [2026-10-14 · IIT BHU · FTE](#2026-10-14--iit-bhu--fte) · 3 questions
-- [2026-10-13 · IIT Guwahati · FTE](#2026-10-13--iit-guwahati--fte) · 1 question
-- [2026-10-13 · IIT BHU · FTE](#2026-10-13--iit-bhu--fte) · 4 questions
-- [2026-10-12 · VNIT Nagpur · FTE](#2026-10-12--vnit-nagpur--fte) · 1 question
-- [2026-10-12 · IIT Guwahati · FTE](#2026-10-12--iit-guwahati--fte) · 14 questions
-- [2026-10-12 · IIT BHU · FTE](#2026-10-12--iit-bhu--fte) · 2 questions
-- [2026-10-12 · IIT BHU · Intern](#2026-10-12--iit-bhu--intern) · 2 questions
-- [2026-10-12 · IIT BHU · FTE · Software](#2026-10-12--iit-bhu--fte--software) · 1 question
-- [2026-10-12 · Delhi Technological University · FTE](#2026-10-12--delhi-technological-university--fte) · 4 questions
-- [2026-10-11 · Delhi Technological University · FTE](#2026-10-11--delhi-technological-university--fte) · 8 questions
-- [2026-10-10 · Delhi Technological University · FTE](#2026-10-10--delhi-technological-university--fte) · 1 question
-- [2026-10-07 · Delhi Technological University · FTE · SDE](#2026-10-07--delhi-technological-university--fte--sde) · 2 questions
-- [2026-10-06 · IIT Delhi · FTE · SDE](#2026-10-06--iit-delhi--fte--sde) · 1 question
-- [2026-10-06 · IIT Delhi · FTE](#2026-10-06--iit-delhi--fte) · 5 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

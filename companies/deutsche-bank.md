@@ -1,20 +1,29 @@
 # Deutsche Bank
 
-**9 questions** from 5 OA drives · seen at IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur · latest 2026-10-16
+**9 questions** · 5 drives · latest 16 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Recursion/Backtracking](../topics/recursion-backtracking.md) (3) · [Arrays](../topics/arrays.md) (2) · [OA Format](../topics/oa-format.md) (2) · [Strings](../topics/strings.md) (1) · [Two Pointers](../topics/two-pointers.md) (1) · [Graphs](../topics/graphs.md) (1) · [Trees](../topics/trees.md) (1) · [Sorting](../topics/sorting.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1)
+**Asks about:** [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Arrays](../topics/arrays.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Strings](../topics/strings.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Graphs](../topics/graphs.md) 1 · [Trees](../topics/trees.md) 1 · [Sorting](../topics/sorting.md) 1 · +1 more  
+**Seen at:** IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-16 · IIT Kharagpur · FTE](#2026-10-16--iit-kharagpur--fte)
+  - [OA pattern: 3 DSA questions](#q1-oa-pattern-3-dsa-questions)
+- [2026-10-15 · IIT Kharagpur · FTE](#2026-10-15--iit-kharagpur--fte)
+  - [Deutsche Bank OA format](#q1-deutsche-bank-oa-format)
+- [2026-10-15 · IIT Kanpur · FTE](#2026-10-15--iit-kanpur--fte)
+  - [Palindrome with Question Marks](#q1-palindrome-with-question-marks)
+  - [Ambulance Arrival Time](#q2-ambulance-arrival-time)
+  - [Largest Perfect Subtree](#q3-largest-perfect-subtree)
+- [2026-10-15 · IIT Guwahati · FTE · Graduate Analyst](#2026-10-15--iit-guwahati--fte--graduate-analyst)
+  - [N queens in a row (DSA question)](#q1-n-queens-in-a-row-dsa-question)
+- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte)
+  - [Largest Magic Square in Matrix](#q1-largest-magic-square-in-matrix)
+  - [Domino Arrangement with Matching Columns](#q2-domino-arrangement-with-matching-columns)
+  - [Max Sum of Two Cells Not in Same Row/Column](#q3-max-sum-of-two-cells-not-in-same-rowcolumn)
 
-- [2026-10-16 · IIT Kharagpur · FTE](#2026-10-16--iit-kharagpur--fte) · 1 question
-- [2026-10-15 · IIT Kharagpur · FTE](#2026-10-15--iit-kharagpur--fte) · 1 question
-- [2026-10-15 · IIT Kanpur · FTE](#2026-10-15--iit-kanpur--fte) · 3 questions
-- [2026-10-15 · IIT Guwahati · FTE · Graduate Analyst](#2026-10-15--iit-guwahati--fte--graduate-analyst) · 1 question
-- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 3 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

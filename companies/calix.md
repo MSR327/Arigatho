@@ -1,16 +1,20 @@
 # Calix
 
-**4 questions** from 1 OA drive · seen at IIT Dhanbad · latest 2026-09-22
+**4 questions** · 1 drive · latest 22 Sep 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1) · [DP](../topics/dp.md) (1) · [Math](../topics/math.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Arrays](../topics/arrays.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Hashing](../topics/hashing.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1 · [DP](../topics/dp.md) 1 · [Math](../topics/math.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Arrays](../topics/arrays.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · [Hashing](../topics/hashing.md) 1  
+**Seen at:** IIT Dhanbad
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-09-22 · IIT Dhanbad · FTE](#2026-09-22--iit-dhanbad--fte)
+  - [OA format: topics asked](#q1-oa-format-topics-asked)
+  - [Signal Transmission Between Towers](#q2-signal-transmission-between-towers)
+  - [Airplane Collision](#q3-airplane-collision)
+  - [Largest group of strings differing by one character](#q4-largest-group-of-strings-differing-by-one-character)
 
-- [2026-09-22 · IIT Dhanbad · FTE](#2026-09-22--iit-dhanbad--fte) · 4 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

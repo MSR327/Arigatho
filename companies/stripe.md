@@ -1,16 +1,21 @@
 # Stripe
 
-**3 questions** from 3 OA drives · seen at BITS Pilani, IIT BHU, IIT Hyderabad · latest 2026-10-26
+**3 questions** · 3 drives · latest 26 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (2) · [Sorting](../topics/sorting.md) (1) · [Binary Search](../topics/binary-search.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1  
+**Seen at:** BITS Pilani, IIT BHU, IIT Hyderabad
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-26 · IIT BHU · FTE · Interview](#2026-10-26--iit-bhu--fte--interview) · 1 question
-- [2026-10-25 · IIT Hyderabad · FTE · Interview](#2026-10-25--iit-hyderabad--fte--interview) · 1 question
-- [2026-10-13 · BITS Pilani · FTE · Interview](#2026-10-13--bits-pilani--fte--interview) · 1 question
+- [2026-10-26 · IIT BHU · FTE · Interview](#2026-10-26--iit-bhu--fte--interview)
+  - [Stripe virtual onsite structure](#q1-stripe-virtual-onsite-structure)
+- [2026-10-25 · IIT Hyderabad · FTE · Interview](#2026-10-25--iit-hyderabad--fte--interview)
+  - [Stripe virtual onsite rounds](#q1-stripe-virtual-onsite-rounds)
+- [2026-10-13 · BITS Pilani · FTE · Interview](#2026-10-13--bits-pilani--fte--interview)
+  - [CSES sorting and searching problem](#q1-cses-sorting-and-searching-problem)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

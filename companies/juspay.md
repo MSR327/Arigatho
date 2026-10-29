@@ -1,25 +1,50 @@
 # Juspay
 
-**23 questions** from 12 OA drives · seen at IIIT Allahabad, IIT BHU, IIT Delhi, IIT Hyderabad, MNNIT Allahabad, VIT Vellore · latest 2026-10-27
+**23 questions** · 12 drives · latest 27 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (10) · [Other](../topics/other.md) (8) · [Trees](../topics/trees.md) (2) · [Hashing](../topics/hashing.md) (2) · [Strings](../topics/strings.md) (2) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Greedy](../topics/greedy.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Other](../topics/other.md) 8 · [Trees](../topics/trees.md) 2 · [Hashing](../topics/hashing.md) 2 · [Strings](../topics/strings.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Greedy](../topics/greedy.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +1 more  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Hyderabad, MNNIT Allahabad, VIT Vellore
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-27 · IIT Delhi · FTE](#2026-10-27--iit-delhi--fte) · 1 question
-- [2026-10-27 · IIT BHU · FTE · Other round](#2026-10-27--iit-bhu--fte--other-round) · 1 question
-- [2026-10-26 · IIT Delhi · FTE](#2026-10-26--iit-delhi--fte) · 1 question
-- [2026-10-24 · IIT BHU · Unknown](#2026-10-24--iit-bhu--unknown) · 3 questions
-- [2026-10-23 · IIT Hyderabad · FTE](#2026-10-23--iit-hyderabad--fte) · 1 question
-- [2026-10-23 · IIT BHU · FTE · SDE](#2026-10-23--iit-bhu--fte--sde) · 5 questions
-- [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte) · 4 questions
-- [2026-10-18 · IIT BHU · FTE](#2026-10-18--iit-bhu--fte) · 2 questions
-- [2026-10-18 · IIIT Allahabad · FTE](#2026-10-18--iiit-allahabad--fte) · 1 question
-- [2026-10-17 · MNNIT Allahabad · FTE](#2026-10-17--mnnit-allahabad--fte) · 1 question
-- [2026-09-30 · MNNIT Allahabad · FTE](#2026-09-30--mnnit-allahabad--fte) · 1 question
-- [2026-09-24 · VIT Vellore · FTE](#2026-09-24--vit-vellore--fte) · 2 questions
+- [2026-10-27 · IIT Delhi · FTE](#2026-10-27--iit-delhi--fte)
+  - [Round 2 MCQ topics](#q1-round-2-mcq-topics)
+- [2026-10-27 · IIT BHU · FTE · Other round](#2026-10-27--iit-bhu--fte--other-round)
+  - [Juspay second round format](#q1-juspay-second-round-format)
+- [2026-10-26 · IIT Delhi · FTE](#2026-10-26--iit-delhi--fte)
+  - [Round 1 coding questions (graph, sliding window, binary tree)](#q1-round-1-coding-questions-graph-sliding-window-binary-tree)
+- [2026-10-24 · IIT BHU · Unknown](#2026-10-24--iit-bhu--unknown)
+  - [Corporate Restructuring](#q1-corporate-restructuring)
+  - [Power Grid Management](#q2-power-grid-management)
+  - [The Magical Sequence](#q3-the-magical-sequence)
+- [2026-10-23 · IIT Hyderabad · FTE](#2026-10-23--iit-hyderabad--fte)
+  - [Juspay hiring process format](#q1-juspay-hiring-process-format)
+- [2026-10-23 · IIT BHU · FTE · SDE](#2026-10-23--iit-bhu--fte--sde)
+  - [Juspay SDE OA pattern](#q1-juspay-sde-oa-pattern)
+  - [Juspay 3-round OA format](#q2-juspay-3-round-oa-format)
+  - [Corporate restructuring (compliant / non-compliant)](#q3-corporate-restructuring-compliant--non-compliant)
+  - [Encrypted file name update](#q4-encrypted-file-name-update)
+  - [Sync Engine: which saved filters a row change wakes up](#q5-sync-engine-which-saved-filters-a-row-change-wakes-up)
+- [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte)
+  - [Corporate restructuring](#q1-corporate-restructuring-1)
+  - [Power grid management](#q2-power-grid-management-1)
+  - [The magical sequence](#q3-the-magical-sequence-1)
+  - [Maximum points converting DE to CD or ED to DC](#q4-maximum-points-converting-de-to-cd-or-ed-to-dc)
+- [2026-10-18 · IIT BHU · FTE](#2026-10-18--iit-bhu--fte)
+  - [Corporate restructuring, power grid management, magical sequence](#q1-corporate-restructuring-power-grid-management-magical-sequence)
+  - [Smart city traffic, Network Technician's Mission, Cloud Network Bandwidth Pricing](#q2-smart-city-traffic-network-technicians-mission-cloud-network-bandwidth-pricing)
+- [2026-10-18 · IIIT Allahabad · FTE](#2026-10-18--iiit-allahabad--fte)
+  - [Sync Engine](#q1-sync-engine)
+- [2026-10-17 · MNNIT Allahabad · FTE](#2026-10-17--mnnit-allahabad--fte)
+  - [Juspay coding round format](#q1-juspay-coding-round-format)
+- [2026-09-30 · MNNIT Allahabad · FTE](#2026-09-30--mnnit-allahabad--fte)
+  - [Sync_Engine: live query update notifications](#q1-sync_engine-live-query-update-notifications)
+- [2026-09-24 · VIT Vellore · FTE](#2026-09-24--vit-vellore--fte)
+  - [Juspay hiring process format](#q1-juspay-hiring-process-format-1)
+  - [Hackathon LLD problem](#q2-hackathon-lld-problem)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

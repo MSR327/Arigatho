@@ -1,21 +1,33 @@
 # Kickdrum
 
-**12 questions** from 6 OA drives · seen at IIT Dhanbad, IIT Patna, NIT Rourkela, NIT Silchar, Unknown · latest 2026-10-23
+**12 questions** · 6 drives · latest 23 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Arrays](../topics/arrays.md) (6) · [Stack/Queue](../topics/stack-queue.md) (3) · [Two Pointers](../topics/two-pointers.md) (2) · [Hashing](../topics/hashing.md) (2) · [OA Format](../topics/oa-format.md) (2) · [Linked List](../topics/linked-list.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [Web Dev](../topics/web-dev.md) (1) · [Strings](../topics/strings.md) (1)
+**Asks about:** [Arrays](../topics/arrays.md) 6 · [Stack/Queue](../topics/stack-queue.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Hashing](../topics/hashing.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Linked List](../topics/linked-list.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Web Dev](../topics/web-dev.md) 1 · +1 more  
+**Seen at:** IIT Dhanbad, IIT Patna, NIT Rourkela, NIT Silchar
 
-**LeetCode matches:** 3 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-23 · NIT Rourkela · FTE · Interview](#2026-10-23--nit-rourkela--fte--interview)
+  - [Project folder walkthrough and feature implementation](#q1-project-folder-walkthrough-and-feature-implementation)
+- [2026-10-21 · NIT Silchar · FTE](#2026-10-21--nit-silchar--fte)
+  - [Guess the Word: longest odd-length word](#q1-guess-the-word-longest-odd-length-word)
+- [2026-10-12 · IIT Dhanbad · FTE](#2026-10-12--iit-dhanbad--fte)
+  - [Codeforces 1771B-like coding question](#q1-codeforces-1771b-like-coding-question)
+  - [Browser history design question](#q2-browser-history-design-question)
+  - [OA format and MCQ topics](#q3-oa-format-and-mcq-topics)
+- [2026-10-05 · IIT Dhanbad · FTE](#2026-10-05--iit-dhanbad--fte)
+  - [Count cut-ahead adventurers](#q1-count-cut-ahead-adventurers)
+  - [Manage recipe experiments (undo/redo history)](#q2-manage-recipe-experiments-undoredo-history)
+- [2026-09-30 · IIT Patna · FTE](#2026-09-30--iit-patna--fte)
+  - [Hashing coding question (40 marks)](#q1-hashing-coding-question-40-marks)
+  - [Linked list coding question (60 marks)](#q2-linked-list-coding-question-60-marks)
+  - [OA format and MCQ topics](#q3-oa-format-and-mcq-topics-1)
+- [2026-09-29 · Unknown · FTE](#2026-09-29--unknown--fte)
+  - [Hossam and Friends (Codeforces)](#q1-hossam-and-friends-codeforces)
+  - [Variation of Browser History](#q2-variation-of-browser-history)
 
-- [2026-10-23 · NIT Rourkela · FTE · Interview](#2026-10-23--nit-rourkela--fte--interview) · 1 question
-- [2026-10-21 · NIT Silchar · FTE](#2026-10-21--nit-silchar--fte) · 1 question
-- [2026-10-12 · IIT Dhanbad · FTE](#2026-10-12--iit-dhanbad--fte) · 3 questions
-- [2026-10-05 · IIT Dhanbad · FTE](#2026-10-05--iit-dhanbad--fte) · 2 questions
-- [2026-09-30 · IIT Patna · FTE](#2026-09-30--iit-patna--fte) · 3 questions
-- [2026-09-29 · Unknown · FTE](#2026-09-29--unknown--fte) · 2 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

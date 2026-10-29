@@ -1,17 +1,23 @@
 # Straive
 
-**4 questions** from 4 OA drives · seen at IIT Guwahati · latest 2026-10-23
+**4 questions** · 4 drives · latest 23 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (4)
+**Asks about:** [OA Format](../topics/oa-format.md) 4  
+**Seen at:** IIT Guwahati
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-23 · IIT Guwahati · FTE](#2026-10-23--iit-guwahati--fte) · 1 question
-- [2026-10-19 · IIT Guwahati · FTE](#2026-10-19--iit-guwahati--fte) · 1 question
-- [2026-10-16 · IIT Guwahati · FTE](#2026-10-16--iit-guwahati--fte) · 1 question
-- [2026-10-15 · IIT Guwahati · FTE · Data Analyst](#2026-10-15--iit-guwahati--fte--data-analyst) · 1 question
+- [2026-10-23 · IIT Guwahati · FTE](#2026-10-23--iit-guwahati--fte)
+  - [Straive OA pattern](#q1-straive-oa-pattern)
+- [2026-10-19 · IIT Guwahati · FTE](#2026-10-19--iit-guwahati--fte)
+  - [Straive OA pattern](#q1-straive-oa-pattern-1)
+- [2026-10-16 · IIT Guwahati · FTE](#2026-10-16--iit-guwahati--fte)
+  - [OA pattern: SQL, Python DSA, ability, GenAI and ML/DL MCQs](#q1-oa-pattern-sql-python-dsa-ability-genai-and-mldl-mcqs)
+- [2026-10-15 · IIT Guwahati · FTE · Data Analyst](#2026-10-15--iit-guwahati--fte--data-analyst)
+  - [Straive OA structure](#q1-straive-oa-structure)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

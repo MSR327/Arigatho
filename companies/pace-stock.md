@@ -1,17 +1,25 @@
 # Pace Stock
 
-**8 questions** from 2 OA drives · seen at IIT Kharagpur · latest 2026-10-07
+**8 questions** · 2 drives · latest 7 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Math](../topics/math.md) (4) · [Greedy](../topics/greedy.md) (4) · [Hashing](../topics/hashing.md) (3) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Arrays](../topics/arrays.md) (2) · [Binary Search](../topics/binary-search.md) (2) · [Graphs](../topics/graphs.md) (2) · [Sorting](../topics/sorting.md) (1)
+**Asks about:** [Math](../topics/math.md) 4 · [Greedy](../topics/greedy.md) 4 · [Hashing](../topics/hashing.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · [Arrays](../topics/arrays.md) 2 · [Binary Search](../topics/binary-search.md) 2 · [Graphs](../topics/graphs.md) 2 · [Sorting](../topics/sorting.md) 1  
+**Seen at:** IIT Kharagpur
 
-**LeetCode matches:** 2 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-07 · IIT Kharagpur · FTE](#2026-10-07--iit-kharagpur--fte)
+  - [Subarrays whose bitwise OR is present in the subarray](#q1-subarrays-whose-bitwise-or-is-present-in-the-subarray)
+  - [Maximum pairs with non-perfect-square product after K changes](#q2-maximum-pairs-with-non-perfect-square-product-after-k-changes)
+  - [Train and execute ML algorithms in minimum days](#q3-train-and-execute-ml-algorithms-in-minimum-days)
+  - [Number of connected servers via gcd > 1](#q4-number-of-connected-servers-via-gcd--1)
+- [2026-10-06 · IIT Kharagpur · FTE](#2026-10-06--iit-kharagpur--fte)
+  - [Subarrays whose bitwise OR is present in the subarray](#q1-subarrays-whose-bitwise-or-is-present-in-the-subarray-1)
+  - [Maximum pairs with non-perfect-square product after K changes](#q2-maximum-pairs-with-non-perfect-square-product-after-k-changes-1)
+  - [Minimum days to train and execute all ML algorithms](#q3-minimum-days-to-train-and-execute-all-ml-algorithms)
+  - [Server connectivity via GCD > 1](#q4-server-connectivity-via-gcd--1)
 
-- [2026-10-07 · IIT Kharagpur · FTE](#2026-10-07--iit-kharagpur--fte) · 4 questions
-- [2026-10-06 · IIT Kharagpur · FTE](#2026-10-06--iit-kharagpur--fte) · 4 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

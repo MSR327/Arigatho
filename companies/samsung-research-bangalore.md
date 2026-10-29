@@ -1,16 +1,17 @@
 # Samsung Research Bangalore
 
-**1 question** from 1 OA drive · seen at BITS Pilani · latest 2026-10-12
+**1 question** · 1 drive · latest 12 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [DP](../topics/dp.md) (1)
+**Asks about:** [DP](../topics/dp.md) 1  
+**Seen at:** BITS Pilani
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-12 · BITS Pilani · Intern](#2026-10-12--bits-pilani--intern)
+  - [Burst Balloons](#q1-burst-balloons)
 
-- [2026-10-12 · BITS Pilani · Intern](#2026-10-12--bits-pilani--intern) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

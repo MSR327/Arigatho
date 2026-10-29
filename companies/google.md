@@ -1,19 +1,27 @@
 # Google
 
-**8 questions** from 4 OA drives · seen at BITS Pilani, IIT Roorkee, Unknown · latest 2026-09-22
+**8 questions** · 4 drives · latest 22 Sep 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (5) · [Graphs](../topics/graphs.md) (2) · [Trees](../topics/trees.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · [Arrays](../topics/arrays.md) 1  
+**Seen at:** BITS Pilani, IIT Roorkee
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-09-22 · IIT Roorkee · Intern · SDE Intern](#2026-09-22--iit-roorkee--intern--sde-intern)
+  - [Intern OA format: 2 unproctored questions](#q1-intern-oa-format-2-unproctored-questions)
+- [2026-09-22 · BITS Pilani · Intern · Summer Intern · Interview](#2026-09-22--bits-pilani--intern--summer-intern--interview)
+  - [Google summer intern 2027 interview process](#q1-google-summer-intern-2027-interview-process)
+- [2026-09-22 · BITS Pilani · Intern · Summer Intern](#2026-09-22--bits-pilani--intern--summer-intern)
+  - [Google intern OA format](#q1-google-intern-oa-format)
+- [2026-09-21 · Unknown · Intern · SWE Intern · Other round](#2026-09-21--unknown--intern--swe-intern--other-round)
+  - [Earliest moment everyone becomes friends](#q1-earliest-moment-everyone-becomes-friends)
+  - [Graph reachability](#q2-graph-reachability)
+  - [Intern OA: tree/XOR and range-update problems](#q3-intern-oa-treexor-and-range-update-problems)
+  - [Summer Intern 2027 interview rounds](#q4-summer-intern-2027-interview-rounds)
+  - [Off-campus intern OA and interview format](#q5-off-campus-intern-oa-and-interview-format)
 
-- [2026-09-22 · IIT Roorkee · Intern · SDE Intern](#2026-09-22--iit-roorkee--intern--sde-intern) · 1 question
-- [2026-09-22 · BITS Pilani · Intern · Summer Intern · Interview](#2026-09-22--bits-pilani--intern--summer-intern--interview) · 1 question
-- [2026-09-22 · BITS Pilani · Intern · Summer Intern](#2026-09-22--bits-pilani--intern--summer-intern) · 1 question
-- [2026-09-21 · Unknown · Intern · SWE Intern · Other round](#2026-09-21--unknown--intern--swe-intern--other-round) · 5 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

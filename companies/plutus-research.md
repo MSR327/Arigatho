@@ -1,17 +1,29 @@
 # Plutus Research
 
-**12 questions** from 2 OA drives · seen at IIT Guwahati, IIT Kharagpur · latest 2026-10-28
+**12 questions** · 2 drives · latest 28 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Greedy](../topics/greedy.md) (4) · [Graphs](../topics/graphs.md) (2) · [Trees](../topics/trees.md) (2) · [DP](../topics/dp.md) (2) · [Strings](../topics/strings.md) (2) · [Binary Search](../topics/binary-search.md) (2) · [Puzzles](../topics/puzzles.md) (2) · [Math](../topics/math.md) (2) · [Arrays](../topics/arrays.md) (2) · [Hashing](../topics/hashing.md) (1)
+**Asks about:** [Greedy](../topics/greedy.md) 4 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [Binary Search](../topics/binary-search.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [Math](../topics/math.md) 2 · +2 more  
+**Seen at:** IIT Guwahati, IIT Kharagpur
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-28 · IIT Kharagpur · FTE](#2026-10-28--iit-kharagpur--fte)
+  - [Sum of components after removing each node](#q1-sum-of-components-after-removing-each-node)
+  - [Min splits so no component has product divisible by 6](#q2-min-splits-so-no-component-has-product-divisible-by-6)
+  - [Longest common substring across k strings](#q3-longest-common-substring-across-k-strings)
+  - [High-constraint greedy question](#q4-high-constraint-greedy-question)
+  - [ATM withdraw and deposit queries](#q5-atm-withdraw-and-deposit-queries)
+  - [Card game with spades then hearts: should you play?](#q6-card-game-with-spades-then-hearts-should-you-play)
+- [2026-10-28 · IIT Guwahati · FTE · Quant](#2026-10-28--iit-guwahati--fte--quant)
+  - [Sum of connected components after removing each node](#q1-sum-of-connected-components-after-removing-each-node)
+  - [Minimum splits of tree so no component product divisible by 6](#q2-minimum-splits-of-tree-so-no-component-product-divisible-by-6)
+  - [Longest common substring across k strings](#q3-longest-common-substring-across-k-strings-1)
+  - [High-constraint greedy problem](#q4-high-constraint-greedy-problem)
+  - [Card game with spades and hearts: should you play?](#q5-card-game-with-spades-and-hearts-should-you-play)
+  - [ATM withdraw and deposit simulation](#q6-atm-withdraw-and-deposit-simulation)
 
-- [2026-10-28 · IIT Kharagpur · FTE](#2026-10-28--iit-kharagpur--fte) · 6 questions
-- [2026-10-28 · IIT Guwahati · FTE · Quant](#2026-10-28--iit-guwahati--fte--quant) · 6 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

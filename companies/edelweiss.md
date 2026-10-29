@@ -1,14 +1,21 @@
 # Edelweiss
 
-**5 questions** from 1 OA drive · seen at IIT Hyderabad · latest 2026-10-13
+**5 questions** · 1 drive · latest 13 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Math](../topics/math.md) (3) · [Puzzles](../topics/puzzles.md) (3) · [OA Format](../topics/oa-format.md) (2) · [Aptitude](../topics/aptitude.md) (1) · [Finance](../topics/finance.md) (1)
+**Asks about:** [Math](../topics/math.md) 3 · [Puzzles](../topics/puzzles.md) 3 · [OA Format](../topics/oa-format.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [Finance](../topics/finance.md) 1  
+**Seen at:** IIT Hyderabad
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-13 · IIT Hyderabad · FTE](#2026-10-13--iit-hyderabad--fte) · 5 questions
+- [2026-10-13 · IIT Hyderabad · FTE](#2026-10-13--iit-hyderabad--fte)
+  - [Round 1: mental maths](#q1-round-1-mental-maths)
+  - [Round 2: option pricing and closing auction context questions](#q2-round-2-option-pricing-and-closing-auction-context-questions)
+  - [Probability: selecting a number from \[1,120) as a sum of factors of 120](#q3-probability-selecting-a-number-from-1120-as-a-sum-of-factors-of-120)
+  - [Expected arc length containing a 4th random point](#q4-expected-arc-length-containing-a-4th-random-point)
+  - [Expected stopping index when a_k < a_{k+1}](#q5-expected-stopping-index-when-a_k--a_k1)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

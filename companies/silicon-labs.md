@@ -1,18 +1,27 @@
 # Silicon Labs
 
-**7 questions** from 5 OA drives · seen at NIT Rourkela, NIT Surathkal, Unknown · latest 2026-10-15
+**7 questions** · 5 drives · latest 15 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (4) · [Sorting](../topics/sorting.md) (2) · [Arrays](../topics/arrays.md) (2) · [Heaps](../topics/heaps.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Digital Electronics](../topics/digital-electronics.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Sorting](../topics/sorting.md) 2 · [Arrays](../topics/arrays.md) 2 · [Heaps](../topics/heaps.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Digital Electronics](../topics/digital-electronics.md) 1  
+**Seen at:** NIT Rourkela, NIT Surathkal
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-15 · NIT Rourkela · Intern](#2026-10-15--nit-rourkela--intern) · 1 question
-- [2026-10-06 · NIT Surathkal · FTE · Hardware/Electronic engineer](#2026-10-06--nit-surathkal--fte--hardwareelectronic-engineer) · 1 question
-- [2026-09-21 · Unknown · Intern · Software Design Intern](#2026-09-21--unknown--intern--software-design-intern) · 1 question
-- [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview) · 3 questions
-- [2026-09-21 · Unknown · FTE · Embedded / Design Verification · Other round](#2026-09-21--unknown--fte--embedded--design-verification--other-round) · 1 question
+- [2026-10-15 · NIT Rourkela · Intern](#2026-10-15--nit-rourkela--intern)
+  - [Silicon Labs OA contents](#q1-silicon-labs-oa-contents)
+- [2026-10-06 · NIT Surathkal · FTE · Hardware/Electronic engineer](#2026-10-06--nit-surathkal--fte--hardwareelectronic-engineer)
+  - [Silicon Labs OA structure](#q1-silicon-labs-oa-structure)
+- [2026-09-21 · Unknown · Intern · Software Design Intern](#2026-09-21--unknown--intern--software-design-intern)
+  - [Software Design Intern OA structure](#q1-software-design-intern-oa-structure)
+- [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview)
+  - [Kth largest element](#q1-kth-largest-element)
+  - [Next greater element](#q2-next-greater-element)
+  - [Count inversions](#q3-count-inversions)
+- [2026-09-21 · Unknown · FTE · Embedded / Design Verification · Other round](#2026-09-21--unknown--fte--embedded--design-verification--other-round)
+  - [Embedded/DV compilation topics](#q1-embeddeddv-compilation-topics)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

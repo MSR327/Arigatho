@@ -1,28 +1,60 @@
 # Nvidia
 
-**32 questions** from 13 OA drives · seen at IIT BHU, IIT Dhanbad, MNNIT Allahabad, NIT Delhi, NIT Meghalaya, NIT Rourkela, Unknown, VNIT Nagpur · latest 2026-10-29
+**32 questions** · 13 drives · latest 29 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Digital Electronics](../topics/digital-electronics.md) (9) · [OA Format](../topics/oa-format.md) (8) · [Math](../topics/math.md) (6) · [Stack/Queue](../topics/stack-queue.md) (5) · [Trees](../topics/trees.md) (5) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (3) · [Bit Manipulation](../topics/bit-manipulation.md) (3) · [Graphs](../topics/graphs.md) (3) · [Circuits](../topics/circuits.md) (3) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (2) · [DP](../topics/dp.md) (2) · [HR & Behavioral](../topics/hr-behavioral.md) (2) · [Hashing](../topics/hashing.md) (1) · [Strings](../topics/strings.md) (1) · [Arrays](../topics/arrays.md) (1) · [Aptitude](../topics/aptitude.md) (1) · [Analog Electronics](../topics/analog-electronics.md) (1)
+**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 9 · [OA Format](../topics/oa-format.md) 8 · [Math](../topics/math.md) 6 · [Stack/Queue](../topics/stack-queue.md) 5 · [Trees](../topics/trees.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 3 · [Graphs](../topics/graphs.md) 3 · +9 more  
+**Seen at:** IIT BHU, IIT Dhanbad, MNNIT Allahabad, NIT Delhi, NIT Meghalaya, NIT Rourkela, VNIT Nagpur
 
-**LeetCode matches:** 3 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-29 · NIT Delhi · Intern · HW Intern](#2026-10-29--nit-delhi--intern--hw-intern)
+  - [Smallest k making abcabc × p^k a perfect cube](#q1-smallest-k-making-abcabc--pk-a-perfect-cube)
+  - [Clock buffers and max frequency with jitter](#q2-clock-buffers-and-max-frequency-with-jitter)
+  - [Boolean expression from CMOS stick diagram](#q3-boolean-expression-from-cmos-stick-diagram)
+  - [Output bit width of product of two sums of N-bit numbers](#q4-output-bit-width-of-product-of-two-sums-of-n-bit-numbers)
+  - [Minimum clock cycles between states of D flip-flop circuit](#q5-minimum-clock-cycles-between-states-of-d-flip-flop-circuit)
+- [2026-10-28 · NIT Rourkela · FTE · System Software Engineer](#2026-10-28--nit-rourkela--fte--system-software-engineer)
+  - [Maximum Latency Path in a Tree](#q1-maximum-latency-path-in-a-tree)
+- [2026-10-28 · NIT Meghalaya · Intern · Hardware (GPU)](#2026-10-28--nit-meghalaya--intern--hardware-gpu)
+  - [Smallest k making abcabc * 7007^k a perfect cube](#q1-smallest-k-making-abcabc--7007k-a-perfect-cube)
+  - [Clock buffers and max frequency with jitter](#q2-clock-buffers-and-max-frequency-with-jitter-1)
+  - [Boolean expression from CMOS stick diagram](#q3-boolean-expression-from-cmos-stick-diagram-1)
+  - [Output bits for product of two sums of N-bit numbers](#q4-output-bits-for-product-of-two-sums-of-n-bit-numbers)
+  - [Minimum clocks between two states of 4 D flip-flops](#q5-minimum-clocks-between-two-states-of-4-d-flip-flops)
+- [2026-10-28 · MNNIT Allahabad · FTE · System Software Engineer](#2026-10-28--mnnit-allahabad--fte--system-software-engineer)
+  - [Nvidia System Software Engineer OA pattern](#q1-nvidia-system-software-engineer-oa-pattern)
+- [2026-10-26 · MNNIT Allahabad · FTE](#2026-10-26--mnnit-allahabad--fte)
+  - [OS for Autonomous Vehicles](#q1-os-for-autonomous-vehicles)
+  - [How Stack Works in Recursion](#q2-how-stack-works-in-recursion)
+  - [Iterative In-order Traversal Using Stack](#q3-iterative-in-order-traversal-using-stack)
+  - [32-bit Multiplication on 16-bit ALU](#q4-32-bit-multiplication-on-16-bit-alu)
+- [2026-10-26 · MNNIT Allahabad · FTE · System Software Engineer](#2026-10-26--mnnit-allahabad--fte--system-software-engineer)
+  - [Nvidia System Software Engineer OA format](#q1-nvidia-system-software-engineer-oa-format)
+  - [Nvidia System Software Engineer OA format](#q2-nvidia-system-software-engineer-oa-format)
+- [2026-10-26 · MNNIT Allahabad · FTE · System Software Engineer · Interview](#2026-10-26--mnnit-allahabad--fte--system-software-engineer--interview)
+  - [Round 2 questions](#q1-round-2-questions)
+  - [Recursion stack and iterative in-order traversal](#q2-recursion-stack-and-iterative-in-order-traversal)
+  - [32-bit multiplication using 16-bit ALU](#q3-32-bit-multiplication-using-16-bit-alu)
+  - [Round 2: experience and OS for autonomous vehicles](#q4-round-2-experience-and-os-for-autonomous-vehicles)
+  - [How a stack works in recursion](#q5-how-a-stack-works-in-recursion)
+  - [Iterative in-order traversal using a stack](#q6-iterative-in-order-traversal-using-a-stack)
+  - [32-bit multiplication on a 16-bit multiplier ALU](#q7-32-bit-multiplication-on-a-16-bit-multiplier-alu)
+- [2026-10-25 · VNIT Nagpur · FTE · System Software](#2026-10-25--vnit-nagpur--fte--system-software)
+  - [Nvidia System Software OA: graph and DP questions](#q1-nvidia-system-software-oa-graph-and-dp-questions)
+- [2026-10-25 · IIT Dhanbad · Intern · System Software](#2026-10-25--iit-dhanbad--intern--system-software)
+  - [System Software OA structure](#q1-system-software-oa-structure)
+  - [Max path sum plus max edge in weighted tree](#q2-max-path-sum-plus-max-edge-in-weighted-tree)
+- [2026-10-21 · MNNIT Allahabad · FTE · Compiler](#2026-10-21--mnnit-allahabad--fte--compiler)
+  - [Message Delivery System (duplicate message filter)](#q1-message-delivery-system-duplicate-message-filter)
+- [2026-10-18 · Unknown · FTE · System Software](#2026-10-18--unknown--fte--system-software)
+  - [System Software OA format](#q1-system-software-oa-format)
+- [2026-10-17 · MNNIT Allahabad · FTE · Software Compiler](#2026-10-17--mnnit-allahabad--fte--software-compiler)
+  - [Nvidia OA format: 1 coding question and 20-25 MCQs](#q1-nvidia-oa-format-1-coding-question-and-20-25-mcqs)
+- [2026-10-16 · IIT BHU · Intern · Compiler Verification](#2026-10-16--iit-bhu--intern--compiler-verification)
+  - [Nvidia compiler verification OA format](#q1-nvidia-compiler-verification-oa-format)
 
-- [2026-10-29 · NIT Delhi · Intern · HW Intern](#2026-10-29--nit-delhi--intern--hw-intern) · 5 questions
-- [2026-10-28 · NIT Rourkela · FTE · System Software Engineer](#2026-10-28--nit-rourkela--fte--system-software-engineer) · 1 question
-- [2026-10-28 · NIT Meghalaya · Intern · Hardware (GPU)](#2026-10-28--nit-meghalaya--intern--hardware-gpu) · 5 questions
-- [2026-10-28 · MNNIT Allahabad · FTE · System Software Engineer](#2026-10-28--mnnit-allahabad--fte--system-software-engineer) · 1 question
-- [2026-10-26 · MNNIT Allahabad · FTE](#2026-10-26--mnnit-allahabad--fte) · 4 questions
-- [2026-10-26 · MNNIT Allahabad · FTE · System Software Engineer](#2026-10-26--mnnit-allahabad--fte--system-software-engineer) · 2 questions
-- [2026-10-26 · MNNIT Allahabad · FTE · System Software Engineer · Interview](#2026-10-26--mnnit-allahabad--fte--system-software-engineer--interview) · 7 questions
-- [2026-10-25 · VNIT Nagpur · FTE · System Software](#2026-10-25--vnit-nagpur--fte--system-software) · 1 question
-- [2026-10-25 · IIT Dhanbad · Intern · System Software](#2026-10-25--iit-dhanbad--intern--system-software) · 2 questions
-- [2026-10-21 · MNNIT Allahabad · FTE · Compiler](#2026-10-21--mnnit-allahabad--fte--compiler) · 1 question
-- [2026-10-18 · Unknown · FTE · System Software](#2026-10-18--unknown--fte--system-software) · 1 question
-- [2026-10-17 · MNNIT Allahabad · FTE · Software Compiler](#2026-10-17--mnnit-allahabad--fte--software-compiler) · 1 question
-- [2026-10-16 · IIT BHU · Intern · Compiler Verification](#2026-10-16--iit-bhu--intern--compiler-verification) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

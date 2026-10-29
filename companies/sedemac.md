@@ -1,15 +1,56 @@
 # Sedemac
 
-**39 questions** from 2 OA drives · seen at IIT Roorkee, NIT Surathkal · latest 2026-10-11
+**39 questions** · 2 drives · latest 11 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Mechanical](../topics/mechanical.md) (17) · [Circuits](../topics/circuits.md) (14) · [Math](../topics/math.md) (10) · [Control Systems](../topics/control-systems.md) (5) · [Signals & Systems](../topics/signals-systems.md) (4) · [Analog Electronics](../topics/analog-electronics.md) (4) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (3) · [Aptitude](../topics/aptitude.md) (3) · [OA Format](../topics/oa-format.md) (1) · [Guesstimates & Cases](../topics/guesstimates-cases.md) (1)
+**Asks about:** [Mechanical](../topics/mechanical.md) 17 · [Circuits](../topics/circuits.md) 14 · [Math](../topics/math.md) 10 · [Control Systems](../topics/control-systems.md) 5 · [Signals & Systems](../topics/signals-systems.md) 4 · [Analog Electronics](../topics/analog-electronics.md) 4 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 3 · [Aptitude](../topics/aptitude.md) 3 · +2 more  
+**Seen at:** IIT Roorkee, NIT Surathkal
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-11 · IIT Roorkee · FTE · Electronics Engineer](#2026-10-11--iit-roorkee--fte--electronics-engineer) · 38 questions
-- [2026-10-06 · NIT Surathkal · FTE · Embedded Software](#2026-10-06--nit-surathkal--fte--embedded-software) · 1 question
+- [2026-10-11 · IIT Roorkee · FTE · Electronics Engineer](#2026-10-11--iit-roorkee--fte--electronics-engineer)
+  - [Steady-state voltage at node A in RC network](#q1-steady-state-voltage-at-node-a-in-rc-network)
+  - [Isometric view from top and front views](#q2-isometric-view-from-top-and-front-views)
+  - [Steady-state pressure drop across relief valve with piping](#q3-steady-state-pressure-drop-across-relief-valve-with-piping)
+  - [Pressure drop across relief valve with orifice](#q4-pressure-drop-across-relief-valve-with-orifice)
+  - [ABS braking: where to brake harder on road 1 (curve C1)](#q5-abs-braking-where-to-brake-harder-on-road-1-curve-c1)
+  - [ABS braking: where to brake harder on road 2 (curve C2)](#q6-abs-braking-where-to-brake-harder-on-road-2-curve-c2)
+  - [Expected output of random() product program](#q7-expected-output-of-random-product-program)
+  - [Expected output of random() squared program](#q8-expected-output-of-random-squared-program)
+  - [Expected output of random() with abs() program](#q9-expected-output-of-random-with-abs-program)
+  - [Thermistor divider: where is confidence in readings higher](#q10-thermistor-divider-where-is-confidence-in-readings-higher)
+  - [Estimate temperature from ADC counts for thermistor divider](#q11-estimate-temperature-from-adc-counts-for-thermistor-divider)
+  - [Charge through 10 ohm resistor in infinite capacitor ladder](#q12-charge-through-10-ohm-resistor-in-infinite-capacitor-ladder)
+  - [Thermistor in place of Ro: change in resolution](#q13-thermistor-in-place-of-ro-change-in-resolution)
+  - [Transformer with triangular current input: output voltage](#q14-transformer-with-triangular-current-input-output-voltage)
+  - [Heat dissipation in resistor with anti-parallel diodes](#q15-heat-dissipation-in-resistor-with-anti-parallel-diodes)
+  - [Maximum Vout of voltage divider with resistor tolerances](#q16-maximum-vout-of-voltage-divider-with-resistor-tolerances)
+  - [Voltage induced across an inductor from I-t graph](#q17-voltage-induced-across-an-inductor-from-i-t-graph)
+  - [Steady-state temperature of resistor in oil tub](#q18-steady-state-temperature-of-resistor-in-oil-tub)
+  - [Thermal coefficient of resistance of the resistor in oil tub](#q19-thermal-coefficient-of-resistance-of-the-resistor-in-oil-tub)
+  - [Unique doubles badminton matches with 7 players](#q20-unique-doubles-badminton-matches-with-7-players)
+  - [Average matches played per player in one hour of court](#q21-average-matches-played-per-player-in-one-hour-of-court)
+  - [Waveform with highest RMS value](#q22-waveform-with-highest-rms-value)
+  - [Steady-state voltage with proportional regulator on RC](#q23-steady-state-voltage-with-proportional-regulator-on-rc)
+  - [Estimate total functional two-wheelers in India](#q24-estimate-total-functional-two-wheelers-in-india)
+  - [Motor lifetime when speed ramps linearly](#q25-motor-lifetime-when-speed-ramps-linearly)
+  - [Expected motor lifetime under a drive cycle](#q26-expected-motor-lifetime-under-a-drive-cycle)
+  - [Planetary gear tooth relation between sun, planet and ring](#q27-planetary-gear-tooth-relation-between-sun-planet-and-ring)
+  - [Planetary gear combination for maximum speed reduction](#q28-planetary-gear-combination-for-maximum-speed-reduction)
+  - [Vibration level felt by motorbike rider](#q29-vibration-level-felt-by-motorbike-rider)
+  - [Which change guarantees reduced vibration of the seat](#q30-which-change-guarantees-reduced-vibration-of-the-seat)
+  - [Periscope mirror angle with tolerances](#q31-periscope-mirror-angle-with-tolerances)
+  - [Periscope system: which statements hold (cut off)](#q32-periscope-system-which-statements-hold-cut-off)
+  - [Qualitative capacitor waveform under P control](#q33-qualitative-capacitor-waveform-under-p-control)
+  - [Steady-state speed of motor driving a fan](#q34-steady-state-speed-of-motor-driving-a-fan)
+  - [Steady-state output of first-order digital filter with step input](#q35-steady-state-output-of-first-order-digital-filter-with-step-input)
+  - [Digital filter response to impulse input at k=10](#q36-digital-filter-response-to-impulse-input-at-k10)
+  - [Pick the graph of the integral F(x) of f(x)](#q37-pick-the-graph-of-the-integral-fx-of-fx)
+  - [Velocity vs time graph of body thrown upward](#q38-velocity-vs-time-graph-of-body-thrown-upward)
+- [2026-10-06 · NIT Surathkal · FTE · Embedded Software](#2026-10-06--nit-surathkal--fte--embedded-software)
+  - [Sedemac OA pattern (Embedded software)](#q1-sedemac-oa-pattern-embedded-software)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

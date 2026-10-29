@@ -1,14 +1,19 @@
 # LG Ads (Alphonso)
 
-**3 questions** from 1 OA drive · seen at IIT BHU · latest 2026-10-21
+**3 questions** · 1 drive · latest 21 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Arrays](../topics/arrays.md) (3) · [Sliding Window](../topics/sliding-window.md) (2) · [Hashing](../topics/hashing.md) (1) · [Heaps](../topics/heaps.md) (1) · [Math](../topics/math.md) (1)
+**Asks about:** [Arrays](../topics/arrays.md) 3 · [Sliding Window](../topics/sliding-window.md) 2 · [Hashing](../topics/hashing.md) 1 · [Heaps](../topics/heaps.md) 1 · [Math](../topics/math.md) 1  
+**Seen at:** IIT BHU
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-21 · IIT BHU · FTE](#2026-10-21--iit-bhu--fte) · 3 questions
+- [2026-10-21 · IIT BHU · FTE](#2026-10-21--iit-bhu--fte)
+  - [Max sum subarray with exactly one repeated element](#q1-max-sum-subarray-with-exactly-one-repeated-element)
+  - [Longest subarray with max-min <= D and sum <= B](#q2-longest-subarray-with-max-min--d-and-sum--b)
+  - [Towers receiving a field in D-dimensional space](#q3-towers-receiving-a-field-in-d-dimensional-space)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

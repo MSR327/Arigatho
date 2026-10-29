@@ -1,29 +1,49 @@
 # Visa
 
-**20 questions** from 14 OA drives · seen at IGDTUW, IIT BHU, IIT Dhanbad, MNNIT Allahabad, Unknown · latest 2026-10-28
+**20 questions** · 14 drives · latest 28 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (11) · [Graphs](../topics/graphs.md) (4) · [Math](../topics/math.md) (3) · [Hashing](../topics/hashing.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Greedy](../topics/greedy.md) (1) · [Trees](../topics/trees.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Sliding Window](../topics/sliding-window.md) (1) · [Arrays](../topics/arrays.md) (1) · [Strings](../topics/strings.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Graphs](../topics/graphs.md) 4 · [Math](../topics/math.md) 3 · [Hashing](../topics/hashing.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · [Greedy](../topics/greedy.md) 1 · [Trees](../topics/trees.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +3 more  
+**Seen at:** IGDTUW, IIT BHU, IIT Dhanbad, MNNIT Allahabad
 
-**LeetCode matches:** 2 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-28 · Unknown · Intern · SWE](#2026-10-28--unknown--intern--swe)
+  - [Visa SWE intern OA pattern](#q1-visa-swe-intern-oa-pattern)
+- [2026-10-28 · IIT BHU · Intern · SWE](#2026-10-28--iit-bhu--intern--swe)
+  - [Visa SWE intern OA format](#q1-visa-swe-intern-oa-format)
+- [2026-10-26 · Unknown · FTE](#2026-10-26--unknown--fte)
+  - [Visa OA topics for the tough 3rd and 4th questions](#q1-visa-oa-topics-for-the-tough-3rd-and-4th-questions)
+- [2026-10-26 · Unknown · FTE · Interview](#2026-10-26--unknown--fte--interview)
+  - [Visa interview content](#q1-visa-interview-content)
+- [2026-10-26 · MNNIT Allahabad · Intern](#2026-10-26--mnnit-allahabad--intern)
+  - [Visa OA format](#q1-visa-oa-format)
+- [2026-10-26 · IIT BHU · Intern](#2026-10-26--iit-bhu--intern)
+  - [Missed Chapters in Cyclic Teaching](#q1-missed-chapters-in-cyclic-teaching)
+  - [Minimum K with Even Powers of 2](#q2-minimum-k-with-even-powers-of-2)
+  - [Remove Node to Minimise Infection in Tree](#q3-remove-node-to-minimise-infection-in-tree)
+  - [Count Timestamps in Last 10 Units](#q4-count-timestamps-in-last-10-units)
+  - [Max Common Friends Non-Friend](#q5-max-common-friends-non-friend)
+- [2026-10-26 · IIT BHU · Intern · SWE](#2026-10-26--iit-bhu--intern--swe)
+  - [Visa SWE intern OT difficulty](#q1-visa-swe-intern-ot-difficulty)
+- [2026-10-26 · IGDTUW · Intern](#2026-10-26--igdtuw--intern)
+  - [Visa OA format](#q1-visa-oa-format-1)
+- [2026-10-25 · Unknown · Intern · System Engineer](#2026-10-25--unknown--intern--system-engineer)
+  - [Visa system engineer intern OA format](#q1-visa-system-engineer-intern-oa-format)
+- [2026-10-24 · MNNIT Allahabad · FTE](#2026-10-24--mnnit-allahabad--fte)
+  - [Visa online test pattern](#q1-visa-online-test-pattern)
+- [2026-10-24 · IIT BHU · Intern](#2026-10-24--iit-bhu--intern)
+  - [Minimum Score of a Path Between Two Cities](#q1-minimum-score-of-a-path-between-two-cities)
+- [2026-10-23 · MNNIT Allahabad · Intern](#2026-10-23--mnnit-allahabad--intern)
+  - [Visa OA and interview pattern](#q1-visa-oa-and-interview-pattern)
+- [2026-10-22 · IIT Dhanbad · Intern](#2026-10-22--iit-dhanbad--intern)
+  - [Visa intern OA contents (batch '28)](#q1-visa-intern-oa-contents-batch-28)
+- [2026-09-24 · IIT Dhanbad · Intern](#2026-09-24--iit-dhanbad--intern)
+  - [Sum of pair differences arr\[j\]-arr\[i\]](#q1-sum-of-pair-differences-arrj-arri)
+  - [Friend recommendation engine](#q2-friend-recommendation-engine)
+  - [Minimum prefix length to construct strings by rearranging digits](#q3-minimum-prefix-length-to-construct-strings-by-rearranging-digits)
 
-- [2026-10-28 · Unknown · Intern · SWE](#2026-10-28--unknown--intern--swe) · 1 question
-- [2026-10-28 · IIT BHU · Intern · SWE](#2026-10-28--iit-bhu--intern--swe) · 1 question
-- [2026-10-26 · Unknown · FTE](#2026-10-26--unknown--fte) · 1 question
-- [2026-10-26 · Unknown · FTE · Interview](#2026-10-26--unknown--fte--interview) · 1 question
-- [2026-10-26 · MNNIT Allahabad · Intern](#2026-10-26--mnnit-allahabad--intern) · 1 question
-- [2026-10-26 · IIT BHU · Intern](#2026-10-26--iit-bhu--intern) · 5 questions
-- [2026-10-26 · IIT BHU · Intern · SWE](#2026-10-26--iit-bhu--intern--swe) · 1 question
-- [2026-10-26 · IGDTUW · Intern](#2026-10-26--igdtuw--intern) · 1 question
-- [2026-10-25 · Unknown · Intern · System Engineer](#2026-10-25--unknown--intern--system-engineer) · 1 question
-- [2026-10-24 · MNNIT Allahabad · FTE](#2026-10-24--mnnit-allahabad--fte) · 1 question
-- [2026-10-24 · IIT BHU · Intern](#2026-10-24--iit-bhu--intern) · 1 question
-- [2026-10-23 · MNNIT Allahabad · Intern](#2026-10-23--mnnit-allahabad--intern) · 1 question
-- [2026-10-22 · IIT Dhanbad · Intern](#2026-10-22--iit-dhanbad--intern) · 1 question
-- [2026-09-24 · IIT Dhanbad · Intern](#2026-09-24--iit-dhanbad--intern) · 3 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

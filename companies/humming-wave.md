@@ -1,14 +1,17 @@
 # Humming Wave
 
-**1 question** from 1 OA drive · seen at IIT Delhi · latest 2026-10-12
+**1 question** · 1 drive · latest 12 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1  
+**Seen at:** IIT Delhi
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-12 · IIT Delhi · FTE](#2026-10-12--iit-delhi--fte) · 1 question
+- [2026-10-12 · IIT Delhi · FTE](#2026-10-12--iit-delhi--fte)
+  - [Humming Wave assessment format](#q1-humming-wave-assessment-format)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

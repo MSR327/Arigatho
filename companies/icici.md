@@ -1,23 +1,35 @@
 # ICICI
 
-**10 questions** from 10 OA drives · seen at IIT Guwahati, MNIT Jaipur, MNNIT Allahabad, Manipal, NIT Silchar, NIT Trichy, VNIT Nagpur · latest 2026-10-27
+**10 questions** · 10 drives · latest 27 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (9) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (2) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (2) · [HR & Behavioral](../topics/hr-behavioral.md) (1) · [Aptitude](../topics/aptitude.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Aptitude](../topics/aptitude.md) 1  
+**Seen at:** IIT Guwahati, MNIT Jaipur, MNNIT Allahabad, Manipal, NIT Silchar, NIT Trichy, VNIT Nagpur
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-27 · VNIT Nagpur · FTE](#2026-10-27--vnit-nagpur--fte) · 1 question
-- [2026-10-22 · VNIT Nagpur · Intern · Data Science](#2026-10-22--vnit-nagpur--intern--data-science) · 1 question
-- [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte) · 1 question
-- [2026-10-16 · VNIT Nagpur · FTE](#2026-10-16--vnit-nagpur--fte) · 1 question
-- [2026-10-16 · NIT Silchar · FTE · Tech (Campus Programme)](#2026-10-16--nit-silchar--fte--tech-campus-programme) · 1 question
-- [2026-10-13 · MNIT Jaipur · FTE](#2026-10-13--mnit-jaipur--fte) · 1 question
-- [2026-10-08 · Manipal · FTE](#2026-10-08--manipal--fte) · 1 question
-- [2026-10-07 · MNNIT Allahabad · FTE · Deputy Manager · Interview](#2026-10-07--mnnit-allahabad--fte--deputy-manager--interview) · 1 question
-- [2026-10-01 · NIT Trichy · FTE](#2026-10-01--nit-trichy--fte) · 1 question
-- [2026-09-29 · MNNIT Allahabad · FTE · Deputy Manager](#2026-09-29--mnnit-allahabad--fte--deputy-manager) · 1 question
+- [2026-10-27 · VNIT Nagpur · FTE](#2026-10-27--vnit-nagpur--fte)
+  - [ICICI Lombard OA pattern](#q1-icici-lombard-oa-pattern)
+- [2026-10-22 · VNIT Nagpur · Intern · Data Science](#2026-10-22--vnit-nagpur--intern--data-science)
+  - [ICICI data science intern OA format](#q1-icici-data-science-intern-oa-format)
+- [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte)
+  - [OA topics: CS fundamentals, DSA, ML, Cloud](#q1-oa-topics-cs-fundamentals-dsa-ml-cloud)
+- [2026-10-16 · VNIT Nagpur · FTE](#2026-10-16--vnit-nagpur--fte)
+  - [ICICI OA aptitude only](#q1-icici-oa-aptitude-only)
+- [2026-10-16 · NIT Silchar · FTE · Tech (Campus Programme)](#2026-10-16--nit-silchar--fte--tech-campus-programme)
+  - [ICICI Tech OA topics](#q1-icici-tech-oa-topics)
+- [2026-10-13 · MNIT Jaipur · FTE](#2026-10-13--mnit-jaipur--fte)
+  - [ICICI DP OA overall pattern](#q1-icici-dp-oa-overall-pattern)
+- [2026-10-08 · Manipal · FTE](#2026-10-08--manipal--fte)
+  - [ICICI OA format](#q1-icici-oa-format)
+- [2026-10-07 · MNNIT Allahabad · FTE · Deputy Manager · Interview](#2026-10-07--mnnit-allahabad--fte--deputy-manager--interview)
+  - [ICICI interview questions](#q1-icici-interview-questions)
+- [2026-10-01 · NIT Trichy · FTE](#2026-10-01--nit-trichy--fte)
+  - [ICICI OA format and topics](#q1-icici-oa-format-and-topics)
+- [2026-09-29 · MNNIT Allahabad · FTE · Deputy Manager](#2026-09-29--mnnit-allahabad--fte--deputy-manager)
+  - [ICICI OA format and topics](#q1-icici-oa-format-and-topics-1)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

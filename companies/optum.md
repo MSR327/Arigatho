@@ -1,15 +1,19 @@
 # Optum
 
-**2 questions** from 2 OA drives · seen at NIT Warangal, Unknown · latest 2026-10-02
+**2 questions** · 2 drives · latest 2 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (2)
+**Asks about:** [OA Format](../topics/oa-format.md) 2  
+**Seen at:** NIT Warangal
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-02 · NIT Warangal · FTE · Fullstack](#2026-10-02--nit-warangal--fte--fullstack) · 1 question
-- [2026-09-26 · Unknown · Intern](#2026-09-26--unknown--intern) · 1 question
+- [2026-10-02 · NIT Warangal · FTE · Fullstack](#2026-10-02--nit-warangal--fte--fullstack)
+  - [Optum OA pattern: frontend and backend debugging](#q1-optum-oa-pattern-frontend-and-backend-debugging)
+- [2026-09-26 · Unknown · Intern](#2026-09-26--unknown--intern)
+  - [Optum OA overview](#q1-optum-oa-overview)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

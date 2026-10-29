@@ -1,18 +1,30 @@
 # Axxela
 
-**10 questions** from 5 OA drives · seen at IIT Dhanbad, IIT Guwahati, SVNIT Surat · latest 2026-10-23
+**10 questions** · 5 drives · latest 23 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Aptitude](../topics/aptitude.md) (6) · [OA Format](../topics/oa-format.md) (4) · [Math](../topics/math.md) (1)
+**Asks about:** [Aptitude](../topics/aptitude.md) 6 · [OA Format](../topics/oa-format.md) 4 · [Math](../topics/math.md) 1  
+**Seen at:** IIT Dhanbad, IIT Guwahati, SVNIT Surat
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-23 · IIT Dhanbad · FTE](#2026-10-23--iit-dhanbad--fte) · 1 question
-- [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte) · 1 question
-- [2026-10-16 · IIT Guwahati · FTE](#2026-10-16--iit-guwahati--fte) · 1 question
-- [2026-10-15 · IIT Guwahati · FTE](#2026-10-15--iit-guwahati--fte) · 1 question
-- [2026-10-14 · SVNIT Surat · FTE](#2026-10-14--svnit-surat--fte) · 6 questions
+- [2026-10-23 · IIT Dhanbad · FTE](#2026-10-23--iit-dhanbad--fte)
+  - [Axxela OA pattern](#q1-axxela-oa-pattern)
+- [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte)
+  - [Axxela OA pattern](#q1-axxela-oa-pattern-1)
+- [2026-10-16 · IIT Guwahati · FTE](#2026-10-16--iit-guwahati--fte)
+  - [OA pattern: timed maths, ability and general sections](#q1-oa-pattern-timed-maths-ability-and-general-sections)
+- [2026-10-15 · IIT Guwahati · FTE](#2026-10-15--iit-guwahati--fte)
+  - [Axxela OA format](#q1-axxela-oa-format)
+- [2026-10-14 · SVNIT Surat · FTE](#2026-10-14--svnit-surat--fte)
+  - [Mean of fifteen different natural numbers](#q1-mean-of-fifteen-different-natural-numbers)
+  - [Distance and direction after walking](#q2-distance-and-direction-after-walking)
+  - [Letter coding: MOBILE to CHARGE](#q3-letter-coding-mobile-to-charge)
+  - [Count the rectangles in the figure](#q4-count-the-rectangles-in-the-figure)
+  - [Complete the figure series (grid with dots and squares)](#q5-complete-the-figure-series-grid-with-dots-and-squares)
+  - [Number puzzle in connected boxes](#q6-number-puzzle-in-connected-boxes)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

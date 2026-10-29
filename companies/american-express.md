@@ -1,41 +1,88 @@
 # American Express
 
-**47 questions** from 26 OA drives · seen at IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Mandi, IIT Roorkee, MNNIT Allahabad, Unknown · latest 2026-10-28
+**47 questions** · 26 drives · latest 28 Oct 2026 · [15 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (24) · [ML/AI](../topics/ml-ai.md) (7) · [Hashing](../topics/hashing.md) (6) · [Strings](../topics/strings.md) (5) · [Sliding Window](../topics/sliding-window.md) (5) · [Trees](../topics/trees.md) (5) · [Graphs](../topics/graphs.md) (5) · [Aptitude](../topics/aptitude.md) (3) · [Python & Pandas](../topics/python-pandas.md) (3) · [Math](../topics/math.md) (3) · [SQL](../topics/sql.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1) · [Other](../topics/other.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1) · [Greedy](../topics/greedy.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 24 · [ML/AI](../topics/ml-ai.md) 7 · [Hashing](../topics/hashing.md) 6 · [Strings](../topics/strings.md) 5 · [Sliding Window](../topics/sliding-window.md) 5 · [Trees](../topics/trees.md) 5 · [Graphs](../topics/graphs.md) 5 · [Aptitude](../topics/aptitude.md) 3 · +9 more  
+**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Mandi, IIT Roorkee, MNNIT Allahabad
 
-**LeetCode matches:** 15 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-28 · IIT Roorkee · FTE · Data Science & Analytics](#2026-10-28--iit-roorkee--fte--data-science--analytics)
+  - [Amex DS & Analytics OA format](#q1-amex-ds--analytics-oa-format)
+- [2026-10-28 · IIT Guwahati · FTE · AI Engineering](#2026-10-28--iit-guwahati--fte--ai-engineering)
+  - [AMEX AI Engineering OA topics](#q1-amex-ai-engineering-oa-topics)
+  - [Amex AI Engineering OA contents](#q2-amex-ai-engineering-oa-contents)
+  - [Amex AI Engineering OA format](#q3-amex-ai-engineering-oa-format)
+- [2026-10-28 · IIT BHU · FTE · AI Engineer](#2026-10-28--iit-bhu--fte--ai-engineer)
+  - [Amex AI Engineering OA format](#q1-amex-ai-engineering-oa-format)
+- [2026-10-27 · IIT Roorkee · FTE](#2026-10-27--iit-roorkee--fte)
+  - [SQL query using date functions (Data Engineer)](#q1-sql-query-using-date-functions-data-engineer)
+  - [PySpark + Python data processing question (Data Engineer)](#q2-pyspark--python-data-processing-question-data-engineer)
+  - [Python: count distinct elements, edit given classes and file handling (Data Engineer)](#q3-python-count-distinct-elements-edit-given-classes-and-file-handling-data-engineer)
+  - [Data Science track MCQ pattern](#q4-data-science-track-mcq-pattern)
+- [2026-10-27 · IIT Roorkee · FTE · Data Science and Analytics](#2026-10-27--iit-roorkee--fte--data-science-and-analytics)
+  - [AMEX Data Science and Analytics OA pattern](#q1-amex-data-science-and-analytics-oa-pattern)
+- [2026-10-27 · IIT Hyderabad · FTE · Data Science & Analytics](#2026-10-27--iit-hyderabad--fte--data-science--analytics)
+  - [Amex DS & Analytics OA format](#q1-amex-ds--analytics-oa-format-1)
+- [2026-10-27 · IIT Guwahati · FTE](#2026-10-27--iit-guwahati--fte)
+  - [Amex DS & Analytics - Numerical Ability section](#q1-amex-ds--analytics---numerical-ability-section)
+  - [Amex DS & Analytics - LR/DI section](#q2-amex-ds--analytics---lrdi-section)
+  - [Amex DS & Analytics - Technical section](#q3-amex-ds--analytics---technical-section)
+- [2026-10-27 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-27--iit-guwahati--fte--data-science-and-analytics)
+  - [AMEX DS and Analytics OA pattern](#q1-amex-ds-and-analytics-oa-pattern)
+- [2026-10-27 · IIT Guwahati · FTE · Data Science & Analytics](#2026-10-27--iit-guwahati--fte--data-science--analytics)
+  - [Amex DS & Analytics OA format](#q1-amex-ds--analytics-oa-format-2)
+- [2026-10-26 · Unknown · FTE](#2026-10-26--unknown--fte)
+  - [Amex OA format](#q1-amex-oa-format)
+- [2026-10-26 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-26--iit-guwahati--fte--data-science-and-analytics)
+  - [Amex data science OA pattern](#q1-amex-data-science-oa-pattern)
+- [2026-10-26 · IIT Guwahati · FTE · Management Trainee](#2026-10-26--iit-guwahati--fte--management-trainee)
+  - [Amex management trainee OA format](#q1-amex-management-trainee-oa-format)
+- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
+  - [Build an LLM Pipeline](#q1-build-an-llm-pipeline)
+  - [CNN Image Classification Model](#q2-cnn-image-classification-model)
+  - [ETL Pipeline in Clojure](#q3-etl-pipeline-in-clojure)
+  - [OA pattern (Data Science/Data Engineer): 3 coding tasks](#q4-oa-pattern-data-sciencedata-engineer-3-coding-tasks)
+- [2026-10-25 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-25--iit-guwahati--fte--data-science-and-analytics)
+  - [AMEX data science OA format](#q1-amex-data-science-oa-format)
+- [2026-10-25 · IIT Guwahati · FTE · Management Trainee](#2026-10-25--iit-guwahati--fte--management-trainee)
+  - [Amex Management Trainee OA pattern](#q1-amex-management-trainee-oa-pattern)
+- [2026-10-25 · IIT Guwahati · FTE · Data Science](#2026-10-25--iit-guwahati--fte--data-science)
+  - [FactoryMonitorAgent with LangGraph and LangChain](#q1-factorymonitoragent-with-langgraph-and-langchain)
+- [2026-10-24 · IIT BHU · FTE · Management Trainee - Data Science & Analytics](#2026-10-24--iit-bhu--fte--management-trainee---data-science--analytics)
+  - [Number of steps to reduce binary number to one](#q1-number-of-steps-to-reduce-binary-number-to-one)
+  - [Fruit into baskets](#q2-fruit-into-baskets)
+  - [Minimum fuel cost to reach the capital](#q3-minimum-fuel-cost-to-reach-the-capital)
+- [2026-10-23 · Unknown · FTE](#2026-10-23--unknown--fte)
+  - [Minimum steps to reduce binary number to one](#q1-minimum-steps-to-reduce-binary-number-to-one)
+  - [Fruit into baskets](#q2-fruit-into-baskets-1)
+  - [Minimum fuel cost to report to the capital](#q3-minimum-fuel-cost-to-report-to-the-capital)
+- [2026-10-23 · IIT Kharagpur/Kanpur · FTE](#2026-10-23--iit-kharagpurkanpur--fte)
+  - [Steps to reduce binary number to one](#q1-steps-to-reduce-binary-number-to-one)
+  - [Fruit into baskets](#q2-fruit-into-baskets-2)
+  - [Minimum fuel cost to reach capital](#q3-minimum-fuel-cost-to-reach-capital)
+- [2026-10-23 · IIT Hyderabad · FTE · Data Engineer](#2026-10-23--iit-hyderabad--fte--data-engineer)
+  - [Minimum steps to reduce binary number to one](#q1-minimum-steps-to-reduce-binary-number-to-one-1)
+  - [Fruit into baskets](#q2-fruit-into-baskets-3)
+  - [Minimum fuel cost to reach the capital](#q3-minimum-fuel-cost-to-reach-the-capital-1)
+- [2026-10-23 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-23--iit-guwahati--fte--data-science-and-analytics)
+  - [Amex Data Science OA pattern](#q1-amex-data-science-oa-pattern-1)
+- [2026-10-23 · IIT Guwahati · FTE · Data Engineer / Data Science / AI](#2026-10-23--iit-guwahati--fte--data-engineer--data-science--ai)
+  - [Amex OA pattern (AI, DS, data engineer roles)](#q1-amex-oa-pattern-ai-ds-data-engineer-roles)
+- [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte)
+  - [Largest Natural Number](#q1-largest-natural-number)
+- [2026-10-18 · MNNIT Allahabad · FTE](#2026-10-18--mnnit-allahabad--fte)
+  - [OA pattern (Data Analytics role): MCQs + SQL, no coding](#q1-oa-pattern-data-analytics-role-mcqs--sql-no-coding)
+  - [OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude](#q2-oa-pattern-data-engineer-role-sql--mcqs-on-mlgenaicore-csaptitude)
+- [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte)
+  - [Amex OA pattern](#q1-amex-oa-pattern)
+- [2026-10-15 · IIT Mandi · FTE](#2026-10-15--iit-mandi--fte)
+  - [Number of Steps to Reduce a Binary Number to One](#q1-number-of-steps-to-reduce-a-binary-number-to-one)
+  - [Fruit Into Baskets](#q2-fruit-into-baskets-4)
+  - [Minimum Fuel Cost to Report to the Capital](#q3-minimum-fuel-cost-to-report-to-the-capital-1)
 
-- [2026-10-28 · IIT Roorkee · FTE · Data Science & Analytics](#2026-10-28--iit-roorkee--fte--data-science--analytics) · 1 question
-- [2026-10-28 · IIT Guwahati · FTE · AI Engineering](#2026-10-28--iit-guwahati--fte--ai-engineering) · 3 questions
-- [2026-10-28 · IIT BHU · FTE · AI Engineer](#2026-10-28--iit-bhu--fte--ai-engineer) · 1 question
-- [2026-10-27 · IIT Roorkee · FTE](#2026-10-27--iit-roorkee--fte) · 4 questions
-- [2026-10-27 · IIT Roorkee · FTE · Data Science and Analytics](#2026-10-27--iit-roorkee--fte--data-science-and-analytics) · 1 question
-- [2026-10-27 · IIT Hyderabad · FTE · Data Science & Analytics](#2026-10-27--iit-hyderabad--fte--data-science--analytics) · 1 question
-- [2026-10-27 · IIT Guwahati · FTE](#2026-10-27--iit-guwahati--fte) · 3 questions
-- [2026-10-27 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-27--iit-guwahati--fte--data-science-and-analytics) · 1 question
-- [2026-10-27 · IIT Guwahati · FTE · Data Science & Analytics](#2026-10-27--iit-guwahati--fte--data-science--analytics) · 1 question
-- [2026-10-26 · Unknown · FTE](#2026-10-26--unknown--fte) · 1 question
-- [2026-10-26 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-26--iit-guwahati--fte--data-science-and-analytics) · 1 question
-- [2026-10-26 · IIT Guwahati · FTE · Management Trainee](#2026-10-26--iit-guwahati--fte--management-trainee) · 1 question
-- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte) · 4 questions
-- [2026-10-25 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-25--iit-guwahati--fte--data-science-and-analytics) · 1 question
-- [2026-10-25 · IIT Guwahati · FTE · Management Trainee](#2026-10-25--iit-guwahati--fte--management-trainee) · 1 question
-- [2026-10-25 · IIT Guwahati · FTE · Data Science](#2026-10-25--iit-guwahati--fte--data-science) · 1 question
-- [2026-10-24 · IIT BHU · FTE · Management Trainee - Data Science & Analytics](#2026-10-24--iit-bhu--fte--management-trainee---data-science--analytics) · 3 questions
-- [2026-10-23 · Unknown · FTE](#2026-10-23--unknown--fte) · 3 questions
-- [2026-10-23 · IIT Kharagpur/Kanpur · FTE](#2026-10-23--iit-kharagpurkanpur--fte) · 3 questions
-- [2026-10-23 · IIT Hyderabad · FTE · Data Engineer](#2026-10-23--iit-hyderabad--fte--data-engineer) · 3 questions
-- [2026-10-23 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-23--iit-guwahati--fte--data-science-and-analytics) · 1 question
-- [2026-10-23 · IIT Guwahati · FTE · Data Engineer / Data Science / AI](#2026-10-23--iit-guwahati--fte--data-engineer--data-science--ai) · 1 question
-- [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte) · 1 question
-- [2026-10-18 · MNNIT Allahabad · FTE](#2026-10-18--mnnit-allahabad--fte) · 2 questions
-- [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte) · 1 question
-- [2026-10-15 · IIT Mandi · FTE](#2026-10-15--iit-mandi--fte) · 3 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

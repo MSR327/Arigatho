@@ -1,17 +1,25 @@
 # ThoughtSpot
 
-**6 questions** from 4 OA drives · seen at IIT BHU, IIT Guwahati · latest 2026-10-27
+**6 questions** · 4 drives · latest 27 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (3) · [Math](../topics/math.md) (2) · [Greedy](../topics/greedy.md) (1) · [Sorting](../topics/sorting.md) (1) · [DP](../topics/dp.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Math](../topics/math.md) 2 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1  
+**Seen at:** IIT BHU, IIT Guwahati
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-27 · IIT Guwahati · FTE](#2026-10-27--iit-guwahati--fte) · 2 questions
-- [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte) · 1 question
-- [2026-10-26 · IIT BHU · FTE](#2026-10-26--iit-bhu--fte) · 1 question
-- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte) · 2 questions
+- [2026-10-27 · IIT Guwahati · FTE](#2026-10-27--iit-guwahati--fte)
+  - [Nth number with digit sum x](#q1-nth-number-with-digit-sum-x)
+  - [Count permutations where Alice wins chocolate trays game](#q2-count-permutations-where-alice-wins-chocolate-trays-game)
+- [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte)
+  - [ThoughtSpot OA pattern](#q1-thoughtspot-oa-pattern)
+- [2026-10-26 · IIT BHU · FTE](#2026-10-26--iit-bhu--fte)
+  - [Minimum Files to Change for Protection](#q1-minimum-files-to-change-for-protection)
+- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
+  - [ThoughtSpot OA pattern](#q1-thoughtspot-oa-pattern-1)
+  - [ThoughtSpot OA format](#q2-thoughtspot-oa-format)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

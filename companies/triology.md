@@ -1,15 +1,19 @@
 # Triology
 
-**2 questions** from 2 OA drives · seen at MNNIT Allahabad, NIT Surathkal · latest 2026-10-17
+**2 questions** · 2 drives · latest 17 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (2)
+**Asks about:** [OA Format](../topics/oa-format.md) 2  
+**Seen at:** MNNIT Allahabad, NIT Surathkal
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-17 · NIT Surathkal · Intern](#2026-10-17--nit-surathkal--intern) · 1 question
-- [2026-09-25 · MNNIT Allahabad · Intern](#2026-09-25--mnnit-allahabad--intern) · 1 question
+- [2026-10-17 · NIT Surathkal · Intern](#2026-10-17--nit-surathkal--intern)
+  - [Trilogy technical assessment format](#q1-trilogy-technical-assessment-format)
+- [2026-09-25 · MNNIT Allahabad · Intern](#2026-09-25--mnnit-allahabad--intern)
+  - [Triology intern assessment format](#q1-triology-intern-assessment-format)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

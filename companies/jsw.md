@@ -1,14 +1,17 @@
 # JSW
 
-**1 question** from 1 OA drive · seen at VNIT Nagpur · latest 2026-10-22
+**1 question** · 1 drive · latest 22 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1  
+**Seen at:** VNIT Nagpur
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-22 · VNIT Nagpur · FTE](#2026-10-22--vnit-nagpur--fte) · 1 question
+- [2026-10-22 · VNIT Nagpur · FTE](#2026-10-22--vnit-nagpur--fte)
+  - [JSW OA contents](#q1-jsw-oa-contents)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

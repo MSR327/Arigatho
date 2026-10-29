@@ -1,38 +1,86 @@
 # InMobi
 
-**48 questions** from 23 OA drives · seen at IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNNIT Allahabad, Unknown · latest 2026-10-28
+**48 questions** · 23 drives · latest 28 Oct 2026 · [17 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Arrays](../topics/arrays.md) (21) · [DP](../topics/dp.md) (12) · [Graphs](../topics/graphs.md) (11) · [OA Format](../topics/oa-format.md) (8) · [Strings](../topics/strings.md) (6) · [Binary Search](../topics/binary-search.md) (5) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (5) · [Greedy](../topics/greedy.md) (4) · [Sliding Window](../topics/sliding-window.md) (4) · [Hashing](../topics/hashing.md) (4) · [Heaps](../topics/heaps.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Stack/Queue](../topics/stack-queue.md) (2) · [Trees](../topics/trees.md) (2) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1)
+**Asks about:** [Arrays](../topics/arrays.md) 21 · [DP](../topics/dp.md) 12 · [Graphs](../topics/graphs.md) 11 · [OA Format](../topics/oa-format.md) 8 · [Strings](../topics/strings.md) 6 · [Binary Search](../topics/binary-search.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 5 · [Greedy](../topics/greedy.md) 4 · +8 more  
+**Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +1 more
 
-**LeetCode matches:** 17 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-28 · Unknown · FTE · Applied Scientist](#2026-10-28--unknown--fte--applied-scientist)
+  - [Applied Scientist OA format](#q1-applied-scientist-oa-format)
+- [2026-10-24 · IIT Kharagpur/Kanpur · FTE](#2026-10-24--iit-kharagpurkanpur--fte)
+  - [Minimum Discarded Spans](#q1-minimum-discarded-spans)
+  - [Secure Network Resilience](#q2-secure-network-resilience)
+  - [Advertiser-Publisher Ad Campaign](#q3-advertiser-publisher-ad-campaign)
+- [2026-10-22 · IIT Delhi · FTE](#2026-10-22--iit-delhi--fte)
+  - [Word Ladder II variant with costs](#q1-word-ladder-ii-variant-with-costs)
+  - [Graph dependencies problem](#q2-graph-dependencies-problem)
+- [2026-10-22 · IIT Bombay · FTE](#2026-10-22--iit-bombay--fte)
+  - [InMobi OA language restriction](#q1-inmobi-oa-language-restriction)
+- [2026-10-21 · IIT Guwahati · FTE · Interview](#2026-10-21--iit-guwahati--fte--interview)
+  - [LLD for a search feature](#q1-lld-for-a-search-feature)
+- [2026-10-21 · IIT Delhi · FTE](#2026-10-21--iit-delhi--fte)
+  - [Word Ladder II](#q1-word-ladder-ii)
+  - [Topological sort problem (CSES)](#q2-topological-sort-problem-cses)
+  - [Subsequence DP question](#q3-subsequence-dp-question)
+- [2026-10-21 · IIT Delhi · FTE · SDE](#2026-10-21--iit-delhi--fte--sde)
+  - [Word Ladder with per-index change cost](#q1-word-ladder-with-per-index-change-cost)
+  - [Count ways to select at least k non-overlapping pattern occurrences](#q2-count-ways-to-select-at-least-k-non-overlapping-pattern-occurrences)
+  - [Company audit order with lowest-numbered cycle detection](#q3-company-audit-order-with-lowest-numbered-cycle-detection)
+  - [InMobi OA format and platform notes](#q4-inmobi-oa-format-and-platform-notes)
+- [2026-10-20 · IIT BHU · FTE](#2026-10-20--iit-bhu--fte)
+  - [InMobi OA format and DSA problems](#q1-inmobi-oa-format-and-dsa-problems)
+- [2026-10-14 · IIT BHU · FTE](#2026-10-14--iit-bhu--fte)
+  - [Check Array Formation Through Concatenation (LeetCode 1640)](#q1-check-array-formation-through-concatenation-leetcode-1640)
+  - [Recursion + backtracking problem](#q2-recursion--backtracking-problem)
+  - [Very easy problem with unusual input format](#q3-very-easy-problem-with-unusual-input-format)
+- [2026-10-13 · Unknown · FTE](#2026-10-13--unknown--fte)
+  - [InMobi OA format](#q1-inmobi-oa-format)
+- [2026-10-13 · IIT BHU · FTE](#2026-10-13--iit-bhu--fte)
+  - [Subarrays with exactly k odd numbers](#q1-subarrays-with-exactly-k-odd-numbers)
+  - [Max subarray sum with increasing-decreasing-increasing shape](#q2-max-subarray-sum-with-increasing-decreasing-increasing-shape)
+  - [Minimum towers to cover circular towers](#q3-minimum-towers-to-cover-circular-towers)
+- [2026-10-12 · IIT Indore · FTE](#2026-10-12--iit-indore--fte)
+  - [Question similar to Codeforces 1167C (News Distribution)](#q1-question-similar-to-codeforces-1167c-news-distribution)
+- [2026-10-11 · IIT Kanpur · FTE](#2026-10-11--iit-kanpur--fte)
+  - [Max profit streak within a window](#q1-max-profit-streak-within-a-window)
+  - [Max profit streak with start and end ranges](#q2-max-profit-streak-with-start-and-end-ranges)
+  - [Count good blocks](#q3-count-good-blocks)
+  - [Minimum computers to restart with dependencies](#q4-minimum-computers-to-restart-with-dependencies)
+- [2026-10-09 · IIT BHU · FTE](#2026-10-09--iit-bhu--fte)
+  - [Trionic Array II](#q1-trionic-array-ii)
+- [2026-10-08 · IIT BHU · FTE](#2026-10-08--iit-bhu--fte)
+  - [Trionic Array II (LeetCode 3640)](#q1-trionic-array-ii-leetcode-3640)
+- [2026-10-07 · IIT Roorkee · FTE](#2026-10-07--iit-roorkee--fte)
+  - [Maximum Sum of Subarray Maximums](#q1-maximum-sum-of-subarray-maximums)
+- [2026-10-05 · IIT BHU · FTE](#2026-10-05--iit-bhu--fte)
+  - [Circular Defense](#q1-circular-defense)
+  - [Campaign Wave Analyzer](#q2-campaign-wave-analyzer)
+  - [Count Nice Sub Array](#q3-count-nice-sub-array)
+- [2026-10-05 · IIT BHU · FTE · SDE](#2026-10-05--iit-bhu--fte--sde)
+  - [Count nice subarrays](#q1-count-nice-subarrays)
+  - [Campaign Wave Analyzer](#q2-campaign-wave-analyzer-1)
+  - [Circular Defense](#q3-circular-defense)
+  - [InMobi OA format and tips](#q4-inmobi-oa-format-and-tips)
+- [2026-10-04 · IIT Bombay · Intern](#2026-10-04--iit-bombay--intern)
+  - [Teemo Attacking (LeetCode 495)](#q1-teemo-attacking-leetcode-495)
+- [2026-10-03 · MNNIT Allahabad · FTE · SDE](#2026-10-03--mnnit-allahabad--fte--sde)
+  - [InMobi SDE OA pattern](#q1-inmobi-sde-oa-pattern)
+- [2026-09-29 · MNNIT Allahabad · FTE · SDE](#2026-09-29--mnnit-allahabad--fte--sde)
+  - [Longest valid parentheses](#q1-longest-valid-parentheses)
+  - [Minimize the maximum difference of pairs](#q2-minimize-the-maximum-difference-of-pairs)
+  - [Difference between first and last level sum of binary tree](#q3-difference-between-first-and-last-level-sum-of-binary-tree)
+- [2026-09-26 · IIT Guwahati · FTE](#2026-09-26--iit-guwahati--fte)
+  - [DSU-based problem](#q1-dsu-based-problem)
+  - [Median of 3 sorted arrays](#q2-median-of-3-sorted-arrays)
+  - [Kth smallest element in sum matrix](#q3-kth-smallest-element-in-sum-matrix)
+- [2026-09-24 · IIT Kanpur · FTE](#2026-09-24--iit-kanpur--fte)
+  - [Swapped Neighbour Scans](#q1-swapped-neighbour-scans)
+  - [Peak Profit Window](#q2-peak-profit-window)
 
-- [2026-10-28 · Unknown · FTE · Applied Scientist](#2026-10-28--unknown--fte--applied-scientist) · 1 question
-- [2026-10-24 · IIT Kharagpur/Kanpur · FTE](#2026-10-24--iit-kharagpurkanpur--fte) · 3 questions
-- [2026-10-22 · IIT Delhi · FTE](#2026-10-22--iit-delhi--fte) · 2 questions
-- [2026-10-22 · IIT Bombay · FTE](#2026-10-22--iit-bombay--fte) · 1 question
-- [2026-10-21 · IIT Guwahati · FTE · Interview](#2026-10-21--iit-guwahati--fte--interview) · 1 question
-- [2026-10-21 · IIT Delhi · FTE](#2026-10-21--iit-delhi--fte) · 3 questions
-- [2026-10-21 · IIT Delhi · FTE · SDE](#2026-10-21--iit-delhi--fte--sde) · 4 questions
-- [2026-10-20 · IIT BHU · FTE](#2026-10-20--iit-bhu--fte) · 1 question
-- [2026-10-14 · IIT BHU · FTE](#2026-10-14--iit-bhu--fte) · 3 questions
-- [2026-10-13 · Unknown · FTE](#2026-10-13--unknown--fte) · 1 question
-- [2026-10-13 · IIT BHU · FTE](#2026-10-13--iit-bhu--fte) · 3 questions
-- [2026-10-12 · IIT Indore · FTE](#2026-10-12--iit-indore--fte) · 1 question
-- [2026-10-11 · IIT Kanpur · FTE](#2026-10-11--iit-kanpur--fte) · 4 questions
-- [2026-10-09 · IIT BHU · FTE](#2026-10-09--iit-bhu--fte) · 1 question
-- [2026-10-08 · IIT BHU · FTE](#2026-10-08--iit-bhu--fte) · 1 question
-- [2026-10-07 · IIT Roorkee · FTE](#2026-10-07--iit-roorkee--fte) · 1 question
-- [2026-10-05 · IIT BHU · FTE](#2026-10-05--iit-bhu--fte) · 3 questions
-- [2026-10-05 · IIT BHU · FTE · SDE](#2026-10-05--iit-bhu--fte--sde) · 4 questions
-- [2026-10-04 · IIT Bombay · Intern](#2026-10-04--iit-bombay--intern) · 1 question
-- [2026-10-03 · MNNIT Allahabad · FTE · SDE](#2026-10-03--mnnit-allahabad--fte--sde) · 1 question
-- [2026-09-29 · MNNIT Allahabad · FTE · SDE](#2026-09-29--mnnit-allahabad--fte--sde) · 3 questions
-- [2026-09-26 · IIT Guwahati · FTE](#2026-09-26--iit-guwahati--fte) · 3 questions
-- [2026-09-24 · IIT Kanpur · FTE](#2026-09-24--iit-kanpur--fte) · 2 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

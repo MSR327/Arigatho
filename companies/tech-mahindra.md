@@ -1,19 +1,27 @@
 # Tech Mahindra
 
-**8 questions** from 4 OA drives · seen at IIT Delhi, NIT Silchar, VNIT Nagpur · latest 2026-10-22
+**8 questions** · 4 drives · latest 22 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [DP](../topics/dp.md) (4) · [Python & Pandas](../topics/python-pandas.md) (2) · [OA Format](../topics/oa-format.md) (2) · [Sorting](../topics/sorting.md) (1) · [Math](../topics/math.md) (1) · [Arrays](../topics/arrays.md) (1) · [ML/AI](../topics/ml-ai.md) (1)
+**Asks about:** [DP](../topics/dp.md) 4 · [Python & Pandas](../topics/python-pandas.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Sorting](../topics/sorting.md) 1 · [Math](../topics/math.md) 1 · [Arrays](../topics/arrays.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
+**Seen at:** IIT Delhi, NIT Silchar, VNIT Nagpur
 
-**LeetCode matches:** 4 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-22 · NIT Silchar · FTE · Other round](#2026-10-22--nit-silchar--fte--other-round)
+  - [Tech Mahindra round structure](#q1-tech-mahindra-round-structure)
+- [2026-10-14 · IIT Delhi · FTE](#2026-10-14--iit-delhi--fte)
+  - [Allocate Mailboxes (LeetCode 1478)](#q1-allocate-mailboxes-leetcode-1478)
+  - [Cherry Pickup (LeetCode 741)](#q2-cherry-pickup-leetcode-741)
+  - [Data science Python question](#q3-data-science-python-question)
+- [2026-10-14 · IIT Delhi · Intern](#2026-10-14--iit-delhi--intern)
+  - [Allocate Mailboxes](#q1-allocate-mailboxes)
+  - [Cherry Pickup](#q2-cherry-pickup)
+  - [Data science Python question](#q3-data-science-python-question-1)
+- [2026-10-08 · VNIT Nagpur · Intern · SDE Intern (Technorise)](#2026-10-08--vnit-nagpur--intern--sde-intern-technorise)
+  - [Tech Mahindra OA format](#q1-tech-mahindra-oa-format)
 
-- [2026-10-22 · NIT Silchar · FTE · Other round](#2026-10-22--nit-silchar--fte--other-round) · 1 question
-- [2026-10-14 · IIT Delhi · FTE](#2026-10-14--iit-delhi--fte) · 3 questions
-- [2026-10-14 · IIT Delhi · Intern](#2026-10-14--iit-delhi--intern) · 3 questions
-- [2026-10-08 · VNIT Nagpur · Intern · SDE Intern (Technorise)](#2026-10-08--vnit-nagpur--intern--sde-intern-technorise) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

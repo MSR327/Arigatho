@@ -1,16 +1,69 @@
 # Rystad Energy
 
-**51 questions** from 3 OA drives · seen at IIT Delhi, MNNIT Allahabad · latest 2026-10-17
+**51 questions** · 3 drives · latest 17 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Python & Pandas](../topics/python-pandas.md) (30) · [SQL](../topics/sql.md) (9) · [Aptitude](../topics/aptitude.md) (5) · [ML/AI](../topics/ml-ai.md) (3) · [Arrays](../topics/arrays.md) (2) · [Math](../topics/math.md) (2) · [Greedy](../topics/greedy.md) (2) · [Software Engineering](../topics/software-engineering.md) (2) · [Web Dev](../topics/web-dev.md) (2) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [OA Format](../topics/oa-format.md) (1) · [Verbal](../topics/verbal.md) (1)
+**Asks about:** [Python & Pandas](../topics/python-pandas.md) 30 · [SQL](../topics/sql.md) 9 · [Aptitude](../topics/aptitude.md) 5 · [ML/AI](../topics/ml-ai.md) 3 · [Arrays](../topics/arrays.md) 2 · [Math](../topics/math.md) 2 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · +5 more  
+**Seen at:** IIT Delhi, MNNIT Allahabad
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-17 · MNNIT Allahabad · FTE · Data Analyst · Other round](#2026-10-17--mnnit-allahabad--fte--data-analyst--other-round) · 1 question
-- [2026-10-15 · IIT Delhi · FTE · Data Analyst](#2026-10-15--iit-delhi--fte--data-analyst) · 19 questions
-- [2026-10-14 · IIT Delhi · FTE](#2026-10-14--iit-delhi--fte) · 31 questions
+- [2026-10-17 · MNNIT Allahabad · FTE · Data Analyst · Other round](#2026-10-17--mnnit-allahabad--fte--data-analyst--other-round)
+  - [Rystad video assessment round contents](#q1-rystad-video-assessment-round-contents)
+- [2026-10-15 · IIT Delhi · FTE · Data Analyst](#2026-10-15--iit-delhi--fte--data-analyst)
+  - [Round down decimals in a list](#q1-round-down-decimals-in-a-list)
+  - [Drop rows/columns with missing values](#q2-drop-rowscolumns-with-missing-values)
+  - [Group by site_id and mean consumption](#q3-group-by-site_id-and-mean-consumption)
+  - [Select column with spaces in name](#q4-select-column-with-spaces-in-name)
+  - [Different transformations on columns A and B with apply()](#q5-different-transformations-on-columns-a-and-b-with-apply)
+  - [Detect duplicates by timestamp](#q6-detect-duplicates-by-timestamp)
+  - [Sort DataFrame by date ascending](#q7-sort-dataframe-by-date-ascending)
+  - [Efficient filtering of 10 million rows](#q8-efficient-filtering-of-10-million-rows)
+  - [Indexing strategy for energy records](#q9-indexing-strategy-for-energy-records)
+  - [SQL data type for wind project names](#q10-sql-data-type-for-wind-project-names)
+  - [Rank employees per department by salary with ties](#q11-rank-employees-per-department-by-salary-with-ties)
+  - [Minimum moves to make a equal b](#q12-minimum-moves-to-make-a-equal-b)
+  - [Python plotting library](#q13-python-plotting-library)
+  - [Retry decorator with exponential backoff](#q14-retry-decorator-with-exponential-backoff)
+  - [Purpose of softmax in classifier](#q15-purpose-of-softmax-in-classifier)
+  - [API pagination with unknown page count](#q16-api-pagination-with-unknown-page-count)
+  - [Process a 20 GB CSV without memory errors](#q17-process-a-20-gb-csv-without-memory-errors)
+  - [Validate gas composition sums to 100%](#q18-validate-gas-composition-sums-to-100)
+  - [DataFrame attribute for column labels](#q19-dataframe-attribute-for-column-labels)
+- [2026-10-14 · IIT Delhi · FTE](#2026-10-14--iit-delhi--fte)
+  - [Round down all decimals in a list](#q1-round-down-all-decimals-in-a-list)
+  - [Pandas MCQ: sort DataFrame by date](#q2-pandas-mcq-sort-dataframe-by-date)
+  - [Pandas MCQ: drop rows/columns with missing values](#q3-pandas-mcq-drop-rowscolumns-with-missing-values)
+  - [Pandas MCQ: column labels attribute](#q4-pandas-mcq-column-labels-attribute)
+  - [Pandas MCQ: select column 'consumption per_day'](#q5-pandas-mcq-select-column-consumption-per_day)
+  - [Pandas MCQ: groupby site_id mean consumption](#q6-pandas-mcq-groupby-site_id-mean-consumption)
+  - [Pandas MCQ: efficient filter on 10M rows](#q7-pandas-mcq-efficient-filter-on-10m-rows)
+  - [Pandas MCQ: apply with column-dependent lambda](#q8-pandas-mcq-apply-with-column-dependent-lambda)
+  - [Pandas MCQ: detect duplicates on timestamp](#q9-pandas-mcq-detect-duplicates-on-timestamp)
+  - [SQL MCQ: indexing strategy for energy records](#q10-sql-mcq-indexing-strategy-for-energy-records)
+  - [SQL MCQ: data type for wind project names](#q11-sql-mcq-data-type-for-wind-project-names)
+  - [Minimum moves to make a equal to b (±1..10 per move)](#q12-minimum-moves-to-make-a-equal-to-b-110-per-move)
+  - [SQL MCQ: rank within department handling ties](#q13-sql-mcq-rank-within-department-handling-ties)
+  - [SQL MCQ: cumulative sales per region by date](#q14-sql-mcq-cumulative-sales-per-region-by-date)
+  - [SQL MCQ: how RANK() handles ties](#q15-sql-mcq-how-rank-handles-ties)
+  - [SQL MCQ: employee with manager name (self join)](#q16-sql-mcq-employee-with-manager-name-self-join)
+  - [MCQ: purpose of softmax](#q17-mcq-purpose-of-softmax)
+  - [MCQ: daily import shows exactly 50% fewer records](#q18-mcq-daily-import-shows-exactly-50-fewer-records)
+  - [MCQ: LLM reasoning vs analysis order](#q19-mcq-llm-reasoning-vs-analysis-order)
+  - [DI: BSF share of Indian Defence Service joiners](#q20-di-bsf-share-of-indian-defence-service-joiners)
+  - [DI: years with ≥25% revenue growth for PQR](#q21-di-years-with-25-revenue-growth-for-pqr)
+  - [DI: Yahoo/Gmail/Rediffmail Venn diagram](#q22-di-yahoogmailrediffmail-venn-diagram)
+  - [Python MCQ: library for creating plots](#q23-python-mcq-library-for-creating-plots)
+  - [Logical reasoning: missing figure in series](#q24-logical-reasoning-missing-figure-in-series)
+  - [Logical reasoning: pizza toppings circular seating](#q25-logical-reasoning-pizza-toppings-circular-seating)
+  - [Python MCQ: processing a 20 GB CSV](#q26-python-mcq-processing-a-20-gb-csv)
+  - [Python MCQ: retry decorator with exponential backoff](#q27-python-mcq-retry-decorator-with-exponential-backoff)
+  - [Python MCQ: validating gas composition readings](#q28-python-mcq-validating-gas-composition-readings)
+  - [Python MCQ: API pagination with unknown page count](#q29-python-mcq-api-pagination-with-unknown-page-count)
+  - [Python MCQ: matplotlib line plot](#q30-python-mcq-matplotlib-line-plot)
+  - [Python MCQ: when Selenium is necessary](#q31-python-mcq-when-selenium-is-necessary)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

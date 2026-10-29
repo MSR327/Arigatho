@@ -1,15 +1,19 @@
 # Siemens EDA
 
-**2 questions** from 2 OA drives · seen at IIT Kharagpur/Kanpur, NIT Raipur · latest 2026-10-15
+**2 questions** · 2 drives · latest 15 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (2) · [Mechanical](../topics/mechanical.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Mechanical](../topics/mechanical.md) 1  
+**Seen at:** IIT Kharagpur/Kanpur, NIT Raipur
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-15 · NIT Raipur · Intern · Interview](#2026-10-15--nit-raipur--intern--interview) · 1 question
-- [2026-10-02 · IIT Kharagpur/Kanpur · FTE · Software](#2026-10-02--iit-kharagpurkanpur--fte--software) · 1 question
+- [2026-10-15 · NIT Raipur · Intern · Interview](#2026-10-15--nit-raipur--intern--interview)
+  - [Siemens EDA interview topics](#q1-siemens-eda-interview-topics)
+- [2026-10-02 · IIT Kharagpur/Kanpur · FTE · Software](#2026-10-02--iit-kharagpurkanpur--fte--software)
+  - [Siemens EDA OA mechanical MCQs](#q1-siemens-eda-oa-mechanical-mcqs)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

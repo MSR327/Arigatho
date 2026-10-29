@@ -1,17 +1,26 @@
 # Unknown
 
-**7 questions** from 4 OA drives · seen at IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad · latest 2026-10-27
+**7 questions** · 4 drives · latest 27 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (3) · [Strings](../topics/strings.md) (1) · [Math](../topics/math.md) (1) · [Trees](../topics/trees.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Graphs](../topics/graphs.md) (1) · [DP](../topics/dp.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1) · [Hashing](../topics/hashing.md) (1) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Strings](../topics/strings.md) 1 · [Math](../topics/math.md) 1 · [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · +3 more  
+**Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-27 · IIT Hyderabad · FTE](#2026-10-27--iit-hyderabad--fte) · 1 question
-- [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte) · 1 question
-- [2026-10-25 · IIT Delhi · FTE](#2026-10-25--iit-delhi--fte) · 3 questions
-- [2026-10-18 · IIT Bombay · FTE](#2026-10-18--iit-bombay--fte) · 2 questions
+- [2026-10-27 · IIT Hyderabad · FTE](#2026-10-27--iit-hyderabad--fte)
+  - [IDFC First Bank OA pattern](#q1-idfc-first-bank-oa-pattern)
+- [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte)
+  - [MCQ round format](#q1-mcq-round-format)
+- [2026-10-25 · IIT Delhi · FTE](#2026-10-25--iit-delhi--fte)
+  - [ASCII digit-sum of string characters](#q1-ascii-digit-sum-of-string-characters)
+  - [Binary tree alternating subtree sums](#q2-binary-tree-alternating-subtree-sums)
+  - [Grid travel with work and 8-hour days (Olly)](#q3-grid-travel-with-work-and-8-hour-days-olly)
+- [2026-10-18 · IIT Bombay · FTE](#2026-10-18--iit-bombay--fte)
+  - [Sony Japan OA format](#q1-sony-japan-oa-format)
+  - [Unique elements up to the kth element](#q2-unique-elements-up-to-the-kth-element)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

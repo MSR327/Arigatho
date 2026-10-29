@@ -1,25 +1,37 @@
 # Microsoft
 
-**12 questions** from 10 OA drives · seen at BITS Pilani, IIT Delhi, IIT Guwahati, IIT Roorkee, NIT Allahabad (MNNIT), NIT Raipur · latest 2026-10-27
+**12 questions** · 10 drives · latest 27 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (8) · [Python & Pandas](../topics/python-pandas.md) (2) · [Sorting](../topics/sorting.md) (2) · [Binary Search](../topics/binary-search.md) (2) · [Arrays](../topics/arrays.md) (2) · [HR & Behavioral](../topics/hr-behavioral.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Python & Pandas](../topics/python-pandas.md) 2 · [Sorting](../topics/sorting.md) 2 · [Binary Search](../topics/binary-search.md) 2 · [Arrays](../topics/arrays.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
+**Seen at:** BITS Pilani, IIT Delhi, IIT Guwahati, IIT Roorkee, NIT Allahabad (MNNIT), NIT Raipur
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-27 · NIT Allahabad (MNNIT) · FTE · Software Engineer Apprentice](#2026-10-27--nit-allahabad-mnnit--fte--software-engineer-apprentice)
+  - [Software Engineer Apprentice OA pattern](#q1-software-engineer-apprentice-oa-pattern)
+- [2026-10-26 · BITS Pilani · FTE · Software Engineer Apprentice](#2026-10-26--bits-pilani--fte--software-engineer-apprentice)
+  - [Software Engineer Apprentice OA pattern and difficulty](#q1-software-engineer-apprentice-oa-pattern-and-difficulty)
+- [2026-10-16 · IIT Roorkee · Intern · Data Science](#2026-10-16--iit-roorkee--intern--data-science)
+  - [Data science OA format at IITR](#q1-data-science-oa-format-at-iitr)
+- [2026-10-15 · NIT Raipur · Intern · Data Science](#2026-10-15--nit-raipur--intern--data-science)
+  - [Microsoft Data Science OA topics](#q1-microsoft-data-science-oa-topics)
+- [2026-10-15 · IIT Guwahati · FTE · Data Science](#2026-10-15--iit-guwahati--fte--data-science)
+  - [Data science OA contents](#q1-data-science-oa-contents)
+- [2026-10-15 · IIT Guwahati · Intern · Data Science](#2026-10-15--iit-guwahati--intern--data-science)
+  - [Data science OA format](#q1-data-science-oa-format)
+- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte)
+  - [Top Employee by Sales (Pandas)](#q1-top-employee-by-sales-pandas)
+  - [Count Minimum Operations](#q2-count-minimum-operations)
+- [2026-10-15 · IIT Delhi · Intern · Data Science](#2026-10-15--iit-delhi--intern--data-science)
+  - [Top employee by total sales (Pandas)](#q1-top-employee-by-total-sales-pandas)
+  - [Count minimum operations to reach target distances](#q2-count-minimum-operations-to-reach-target-distances)
+- [2026-10-15 · BITS Pilani · FTE · Data Science](#2026-10-15--bits-pilani--fte--data-science)
+  - [Data science OA contents](#q1-data-science-oa-contents-1)
+- [2026-10-10 · BITS Pilani · FTE · Technical Consultant · Interview](#2026-10-10--bits-pilani--fte--technical-consultant--interview)
+  - [Interview format: project-based, print in Python without library functions](#q1-interview-format-project-based-print-in-python-without-library-functions)
 
-- [2026-10-27 · NIT Allahabad (MNNIT) · FTE · Software Engineer Apprentice](#2026-10-27--nit-allahabad-mnnit--fte--software-engineer-apprentice) · 1 question
-- [2026-10-26 · BITS Pilani · FTE · Software Engineer Apprentice](#2026-10-26--bits-pilani--fte--software-engineer-apprentice) · 1 question
-- [2026-10-16 · IIT Roorkee · Intern · Data Science](#2026-10-16--iit-roorkee--intern--data-science) · 1 question
-- [2026-10-15 · NIT Raipur · Intern · Data Science](#2026-10-15--nit-raipur--intern--data-science) · 1 question
-- [2026-10-15 · IIT Guwahati · FTE · Data Science](#2026-10-15--iit-guwahati--fte--data-science) · 1 question
-- [2026-10-15 · IIT Guwahati · Intern · Data Science](#2026-10-15--iit-guwahati--intern--data-science) · 1 question
-- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 2 questions
-- [2026-10-15 · IIT Delhi · Intern · Data Science](#2026-10-15--iit-delhi--intern--data-science) · 2 questions
-- [2026-10-15 · BITS Pilani · FTE · Data Science](#2026-10-15--bits-pilani--fte--data-science) · 1 question
-- [2026-10-10 · BITS Pilani · FTE · Technical Consultant · Interview](#2026-10-10--bits-pilani--fte--technical-consultant--interview) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

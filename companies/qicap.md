@@ -1,17 +1,24 @@
 # QiCap
 
-**7 questions** from 2 OA drives · seen at IIT BHU, IIT Delhi · latest 2026-10-28
+**7 questions** · 2 drives · latest 28 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Bit Manipulation](../topics/bit-manipulation.md) (3) · [DP](../topics/dp.md) (3) · [Graphs](../topics/graphs.md) (2) · [Arrays](../topics/arrays.md) (1) · [Sorting](../topics/sorting.md) (1) · [Strings](../topics/strings.md) (1) · [Trees](../topics/trees.md) (1) · [Hashing](../topics/hashing.md) (1) · [Web Dev](../topics/web-dev.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1)
+**Asks about:** [Bit Manipulation](../topics/bit-manipulation.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 2 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Hashing](../topics/hashing.md) 1 · +2 more  
+**Seen at:** IIT BHU, IIT Delhi
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte)
+  - [Minimum adjacent swaps with equal set bits to sort](#q1-minimum-adjacent-swaps-with-equal-set-bits-to-sort)
+  - [Count beautiful substrings after filling blanks](#q2-count-beautiful-substrings-after-filling-blanks)
+  - [Count paths that can form a palindrome in a tree](#q3-count-paths-that-can-form-a-palindrome-in-a-tree)
+  - [Backend question (not remembered)](#q4-backend-question-not-remembered)
+- [2026-10-27 · IIT Delhi · FTE](#2026-10-27--iit-delhi--fte)
+  - [Minimum cost to remove special nodes in 2^N segment](#q1-minimum-cost-to-remove-special-nodes-in-2n-segment)
+  - [Bob navigates a maze collecting coins](#q2-bob-navigates-a-maze-collecting-coins)
+  - [Directed weighted graph queries with stop constraints](#q3-directed-weighted-graph-queries-with-stop-constraints)
 
-- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte) · 4 questions
-- [2026-10-27 · IIT Delhi · FTE](#2026-10-27--iit-delhi--fte) · 3 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

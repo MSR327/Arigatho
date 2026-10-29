@@ -1,108 +1,372 @@
 # Eternal (Zomato)
 
-**264 questions** from 93 OA drives · seen at Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Jodhpur, IIT Madras, IIT Mandi, IIT Roorkee, NIT Karnataka Surathkal, NIT Kurukshetra, Unknown · latest 2026-10-29
+**264 questions** · 93 drives · latest 29 Oct 2026 · [15 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (76) · [Arrays](../topics/arrays.md) (38) · [DP](../topics/dp.md) (36) · [SQL](../topics/sql.md) (35) · [Aptitude](../topics/aptitude.md) (33) · [Math](../topics/math.md) (27) · [Hashing](../topics/hashing.md) (24) · [Graphs](../topics/graphs.md) (24) · [Trees](../topics/trees.md) (17) · [Greedy](../topics/greedy.md) (13) · [Python & Pandas](../topics/python-pandas.md) (11) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (11) · [Stack/Queue](../topics/stack-queue.md) (10) · [Sorting](../topics/sorting.md) (9) · [Software Engineering](../topics/software-engineering.md) (6) · [Strings](../topics/strings.md) (5) · [ML/AI](../topics/ml-ai.md) (3) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (3) · [Web Dev](../topics/web-dev.md) (3) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (3) · [Puzzles](../topics/puzzles.md) (3) · [Binary Search](../topics/binary-search.md) (3) · [Guesstimates & Cases](../topics/guesstimates-cases.md) (3) · [Linked List](../topics/linked-list.md) (2) · [Other](../topics/other.md) (2) · [Heaps](../topics/heaps.md) (2) · [Sliding Window](../topics/sliding-window.md) (1) · [OOP](../topics/oop.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1) · [Two Pointers](../topics/two-pointers.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 76 · [Arrays](../topics/arrays.md) 38 · [DP](../topics/dp.md) 36 · [SQL](../topics/sql.md) 35 · [Aptitude](../topics/aptitude.md) 33 · [Math](../topics/math.md) 27 · [Hashing](../topics/hashing.md) 24 · [Graphs](../topics/graphs.md) 24 · +23 more  
+**Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +7 more
 
-**LeetCode matches:** 15 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-29 · IIT Indore · FTE · Associate Program Manager](#2026-10-29--iit-indore--fte--associate-program-manager)
+  - [Associate Program Manager OA format](#q1-associate-program-manager-oa-format)
+- [2026-10-28 · IIT Roorkee · FTE · Product Analyst](#2026-10-28--iit-roorkee--fte--product-analyst)
+  - [Optimal building placement minimizing max distance](#q1-optimal-building-placement-minimizing-max-distance)
+  - [Count non-path triplets in a tree](#q2-count-non-path-triplets-in-a-tree)
+- [2026-10-28 · IIT Indore · FTE · Associate Program Manager](#2026-10-28--iit-indore--fte--associate-program-manager)
+  - [APM OA: Excel MCQs](#q1-apm-oa-excel-mcqs)
+- [2026-10-28 · IIT Indore · FTE · Product Analyst](#2026-10-28--iit-indore--fte--product-analyst)
+  - [Group products by category and total amount](#q1-group-products-by-category-and-total-amount)
+  - [Boat and stream round trip distance](#q2-boat-and-stream-round-trip-distance)
+  - [PA OA pattern at IIT Indore](#q3-pa-oa-pattern-at-iit-indore)
+- [2026-10-28 · IIT Delhi · FTE · SDE](#2026-10-28--iit-delhi--fte--sde)
+  - [Minimum cost to make adjacent prices distinct](#q1-minimum-cost-to-make-adjacent-prices-distinct)
+  - [Index of the kth largest element to the right](#q2-index-of-the-kth-largest-element-to-the-right)
+- [2026-10-28 · IIT BHU · FTE · SDE](#2026-10-28--iit-bhu--fte--sde)
+  - [SDE OA pattern](#q1-sde-oa-pattern)
+- [2026-10-28 · IIT BHU · FTE · Product Analyst](#2026-10-28--iit-bhu--fte--product-analyst)
+  - [Zomato Product Analyst OA pattern](#q1-zomato-product-analyst-oa-pattern)
+  - [PA OA: SQL and Python questions](#q2-pa-oa-sql-and-python-questions)
+  - [PA OA structure (90 minutes)](#q3-pa-oa-structure-90-minutes)
+  - [Eternal Product Analyst OA pattern](#q4-eternal-product-analyst-oa-pattern)
+- [2026-10-28 · IIT BHU · FTE · SDE · Interview](#2026-10-28--iit-bhu--fte--sde--interview)
+  - [SDE interview rounds](#q1-sde-interview-rounds)
+- [2026-10-27 · IIT Hyderabad · FTE · Product Analyst](#2026-10-27--iit-hyderabad--fte--product-analyst)
+  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern)
+  - [Eternal PA OA pattern](#q2-eternal-pa-oa-pattern)
+- [2026-10-27 · IIT Guwahati · FTE · Product Analyst](#2026-10-27--iit-guwahati--fte--product-analyst)
+  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern-1)
+  - [Eternal PA OA format](#q2-eternal-pa-oa-format)
+  - [Product Analyst OA format](#q3-product-analyst-oa-format)
+  - [Cities with more customers than average](#q4-cities-with-more-customers-than-average)
+  - [Duplicate bid detection](#q5-duplicate-bid-detection)
+  - [Anonymous vs subscribed viewers stats](#q6-anonymous-vs-subscribed-viewers-stats)
+- [2026-10-27 · IIT Guwahati · FTE · SDE](#2026-10-27--iit-guwahati--fte--sde)
+  - [Codeforces 1324F](#q1-codeforces-1324f)
+  - [LeetCode 924](#q2-leetcode-924)
+  - [Next greater index in another array](#q3-next-greater-index-in-another-array)
+- [2026-10-27 · IIT Dhanbad · FTE · Product Analyst](#2026-10-27--iit-dhanbad--fte--product-analyst)
+  - [OA structure (90 minutes, 27 questions)](#q1-oa-structure-90-minutes-27-questions)
+  - [Binomial mean and variance of archer's hits](#q2-binomial-mean-and-variance-of-archers-hits)
+  - [Highest power of 24 dividing 150!](#q3-highest-power-of-24-dividing-150)
+  - [Normal distribution probability above 55](#q4-normal-distribution-probability-above-55)
+  - [Cube with red and blue faces cut into 729 cubes](#q5-cube-with-red-and-blue-faces-cut-into-729-cubes)
+  - [Probability it snowed given father's claim](#q6-probability-it-snowed-given-fathers-claim)
+  - [SQL: Email campaign analysis](#q7-sql-email-campaign-analysis)
+  - [SQL: Device traffic and cost in May](#q8-sql-device-traffic-and-cost-in-may)
+- [2026-10-27 · IIT Dhanbad · FTE · SDE](#2026-10-27--iit-dhanbad--fte--sde)
+  - [Second most frequent element](#q1-second-most-frequent-element)
+  - [Fruit selection with discount coupons](#q2-fruit-selection-with-discount-coupons)
+  - [Minimum sum assignment on a tree](#q3-minimum-sum-assignment-on-a-tree)
+- [2026-10-27 · IIT Dhanbad · FTE · SDE · Interview](#2026-10-27--iit-dhanbad--fte--sde--interview)
+  - [Interview follow-ups on Second Most Frequent Element](#q1-interview-follow-ups-on-second-most-frequent-element)
+  - [Interview follow-ups on Fruit Selection with Discount Coupons](#q2-interview-follow-ups-on-fruit-selection-with-discount-coupons)
+- [2026-10-27 · IIT BHU · FTE · Associate Program Manager](#2026-10-27--iit-bhu--fte--associate-program-manager)
+  - [APM selection process format](#q1-apm-selection-process-format)
+- [2026-10-27 · Delhi Technological University · FTE · Associate Program Manager · Interview](#2026-10-27--delhi-technological-university--fte--associate-program-manager--interview)
+  - [APM interview structure](#q1-apm-interview-structure)
+- [2026-10-26 · IIT Guwahati · FTE · SDE](#2026-10-26--iit-guwahati--fte--sde)
+  - [SDE OA question types](#q1-sde-oa-question-types)
+- [2026-10-26 · IIT Guwahati · FTE · Product Analyst](#2026-10-26--iit-guwahati--fte--product-analyst)
+  - [Product Analyst OA Python MCQs](#q1-product-analyst-oa-python-mcqs)
+- [2026-10-26 · IIT Guwahati · FTE · Data Science](#2026-10-26--iit-guwahati--fte--data-science)
+  - [DS role OA pattern](#q1-ds-role-oa-pattern)
+- [2026-10-26 · IIT Dhanbad · FTE · SDE](#2026-10-26--iit-dhanbad--fte--sde)
+  - [Second most frequent element](#q1-second-most-frequent-element-1)
+  - [Fruit selection with discount coupons](#q2-fruit-selection-with-discount-coupons-1)
+  - [Minimum sum assignment on a tree](#q3-minimum-sum-assignment-on-a-tree-1)
+- [2026-10-26 · IIT Delhi · FTE · Data Science](#2026-10-26--iit-delhi--fte--data-science)
+  - [Maximise score by rearranging b](#q1-maximise-score-by-rearranging-b)
+  - [Count subsequences of a length-3 string](#q2-count-subsequences-of-a-length-3-string)
+  - [Paint houses with symmetric constraint](#q3-paint-houses-with-symmetric-constraint)
+  - [OA structure and MCQ topics](#q4-oa-structure-and-mcq-topics)
+- [2026-10-26 · IIT BHU · FTE · Product Analyst](#2026-10-26--iit-bhu--fte--product-analyst)
+  - [Product Analyst OA structure](#q1-product-analyst-oa-structure)
+- [2026-10-25 · IIT Roorkee · FTE · SDE](#2026-10-25--iit-roorkee--fte--sde)
+  - [SDE OA MCQ topics](#q1-sde-oa-mcq-topics)
+- [2026-10-25 · IIT Guwahati · FTE · Product Analyst](#2026-10-25--iit-guwahati--fte--product-analyst)
+  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern-2)
+- [2026-10-25 · IIT Guwahati · FTE · Data Scientist](#2026-10-25--iit-guwahati--fte--data-scientist)
+  - [Eternal Data Scientist OA topics](#q1-eternal-data-scientist-oa-topics)
+- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
+  - [Rerooting question](#q1-rerooting-question)
+- [2026-10-24 · IIT BHU · FTE · SDE](#2026-10-24--iit-bhu--fte--sde)
+  - [Eternal SDE OA format](#q1-eternal-sde-oa-format)
+- [2026-10-23 · IIT Roorkee · FTE · SDE](#2026-10-23--iit-roorkee--fte--sde)
+  - [Eternal SDE OA format](#q1-eternal-sde-oa-format-1)
+- [2026-10-23 · IIT Hyderabad · FTE · Product Analyst](#2026-10-23--iit-hyderabad--fte--product-analyst)
+  - [OA pattern: Python, DSA, SQL and MCQs](#q1-oa-pattern-python-dsa-sql-and-mcqs)
+- [2026-10-23 · IIT Guwahati · FTE · Product Analyst](#2026-10-23--iit-guwahati--fte--product-analyst)
+  - [OA pattern: SQL and MCQs](#q1-oa-pattern-sql-and-mcqs)
+- [2026-10-23 · IIT Guwahati · FTE · SDE](#2026-10-23--iit-guwahati--fte--sde)
+  - [First greater element in the entire array](#q1-first-greater-element-in-the-entire-array)
+  - [Maximum connected value for every node in a tree](#q2-maximum-connected-value-for-every-node-in-a-tree)
+  - [Remove at most one node to maximize uninfected nodes](#q3-remove-at-most-one-node-to-maximize-uninfected-nodes)
+  - [OA pattern: MCQs and DSA](#q4-oa-pattern-mcqs-and-dsa)
+- [2026-10-23 · IIT Dhanbad · FTE · Product Analyst](#2026-10-23--iit-dhanbad--fte--product-analyst)
+  - [Eternal Product Analyst OA platform and format](#q1-eternal-product-analyst-oa-platform-and-format)
+- [2026-10-21 · IIT Roorkee · FTE · SDE](#2026-10-21--iit-roorkee--fte--sde)
+  - [Knapsack-style problem](#q1-knapsack-style-problem)
+  - [Second most frequent element](#q2-second-most-frequent-element)
+- [2026-10-21 · IIT Roorkee · FTE · Product Analyst](#2026-10-21--iit-roorkee--fte--product-analyst)
+  - [OA pattern: aptitude, SQL and pandas](#q1-oa-pattern-aptitude-sql-and-pandas)
+  - [Email campaign analysis](#q2-email-campaign-analysis)
+  - [Device traffic and cost](#q3-device-traffic-and-cost)
+- [2026-10-21 · IIT Hyderabad · FTE · SDE](#2026-10-21--iit-hyderabad--fte--sde)
+  - [Second most frequent element](#q1-second-most-frequent-element-2)
+  - [Asteroid collision](#q2-asteroid-collision)
+  - [3D DP with coupons halving a price](#q3-3d-dp-with-coupons-halving-a-price)
+  - [Maximum nutritious value within a budget](#q4-maximum-nutritious-value-within-a-budget)
+- [2026-10-21 · IIT Hyderabad · FTE · PA](#2026-10-21--iit-hyderabad--fte--pa)
+  - [PA OA structure](#q1-pa-oa-structure)
+- [2026-10-21 · IIT Dhanbad · FTE · SDE](#2026-10-21--iit-dhanbad--fte--sde)
+  - [Second most frequent element](#q1-second-most-frequent-element-3)
+  - [Fruit selection with discount coupons](#q2-fruit-selection-with-discount-coupons-2)
+  - [Minimum sum assignment on a tree](#q3-minimum-sum-assignment-on-a-tree-2)
+- [2026-10-20 · IIT Hyderabad · FTE · SDE](#2026-10-20--iit-hyderabad--fte--sde)
+  - [Second most frequent element](#q1-second-most-frequent-element-4)
+  - [Asteroid collision type problem](#q2-asteroid-collision-type-problem)
+  - [3D DP: items, price and coupons that halve the price](#q3-3d-dp-items-price-and-coupons-that-halve-the-price)
+  - [Max nutritious value within budget M](#q4-max-nutritious-value-within-budget-m)
+  - [Servers with lost config values, minimum total sum](#q5-servers-with-lost-config-values-minimum-total-sum)
+  - [OA structure: 3 DSA and 13 MCQs](#q6-oa-structure-3-dsa-and-13-mcqs)
+- [2026-10-20 · IIT Hyderabad · FTE · Product Analyst](#2026-10-20--iit-hyderabad--fte--product-analyst)
+  - [Product Analyst OA pattern](#q1-product-analyst-oa-pattern)
+- [2026-10-20 · IIT Guwahati · FTE](#2026-10-20--iit-guwahati--fte)
+  - [Eternal OA at IIT Guwahati](#q1-eternal-oa-at-iit-guwahati)
+  - [Customer Country City (SQL)](#q2-customer-country-city-sql)
+  - [Log Bids (SQL)](#q3-log-bids-sql)
+- [2026-10-20 · IIT Guwahati · FTE · Product Analyst](#2026-10-20--iit-guwahati--fte--product-analyst)
+  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern-3)
+- [2026-10-20 · IIT Bombay · FTE · Product Analyst · Interview](#2026-10-20--iit-bombay--fte--product-analyst--interview)
+  - [Eternal Product Analyst interview topics](#q1-eternal-product-analyst-interview-topics)
+- [2026-10-19 · IIT Bombay · FTE · Product Analyst](#2026-10-19--iit-bombay--fte--product-analyst)
+  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern-4)
+- [2026-10-18 · IIT Guwahati · FTE · Data Science](#2026-10-18--iit-guwahati--fte--data-science)
+  - [Data Science OA: Python, SQL and Pandas](#q1-data-science-oa-python-sql-and-pandas)
+  - [Eternal Data Science OA pattern](#q2-eternal-data-science-oa-pattern)
+  - [Python, SQL and pandas coding questions (PYQ repeats)](#q3-python-sql-and-pandas-coding-questions-pyq-repeats)
+- [2026-10-17 · IIT BHU · FTE · PA](#2026-10-17--iit-bhu--fte--pa)
+  - [OA format and sections](#q1-oa-format-and-sections)
+  - [Mean and variance of archer's successful attempts](#q2-mean-and-variance-of-archers-successful-attempts)
+  - [Highest power of 24 dividing 150!](#q3-highest-power-of-24-dividing-150-1)
+  - [Probability of sample mean greater than 55](#q4-probability-of-sample-mean-greater-than-55)
+  - [Painted cube with red and blue faces](#q5-painted-cube-with-red-and-blue-faces)
+  - [Probability it snowed given father's claim](#q6-probability-it-snowed-given-fathers-claim-1)
+- [2026-10-16 · IIT Hyderabad · FTE · SDE](#2026-10-16--iit-hyderabad--fte--sde)
+  - [OA format: 3 DSA and 25 MCQs](#q1-oa-format-3-dsa-and-25-mcqs)
+- [2026-10-15 · IIT Guwahati · FTE · SDE](#2026-10-15--iit-guwahati--fte--sde)
+  - [OA format: 3 DSA (DSU, prefix sum, hard graph)](#q1-oa-format-3-dsa-dsu-prefix-sum-hard-graph)
+- [2026-10-13 · IIT Jodhpur · FTE](#2026-10-13--iit-jodhpur--fte)
+  - [OA format: 16 MCQs + 3 DSA](#q1-oa-format-16-mcqs--3-dsa)
+  - [Rearrange songs by artist](#q2-rearrange-songs-by-artist)
+  - [Maximum-length equal arrays by merging subarrays](#q3-maximum-length-equal-arrays-by-merging-subarrays)
+  - [Algorithm training and execution scheduling](#q4-algorithm-training-and-execution-scheduling)
+- [2026-10-13 · IIT Guwahati · FTE · SDE](#2026-10-13--iit-guwahati--fte--sde)
+  - [SDE OA: three DSA questions, no MCQs](#q1-sde-oa-three-dsa-questions-no-mcqs)
+  - [Topics reported for Eternal SWE questions](#q2-topics-reported-for-eternal-swe-questions)
+- [2026-10-13 · IIT Guwahati · FTE · Product Analyst](#2026-10-13--iit-guwahati--fte--product-analyst)
+  - [Product Analyst OA topics](#q1-product-analyst-oa-topics)
+- [2026-10-13 · IIT Guwahati · FTE](#2026-10-13--iit-guwahati--fte)
+  - [Eternal OA: DSU and prefix sum](#q1-eternal-oa-dsu-and-prefix-sum)
+  - [Rerooting tree question](#q2-rerooting-tree-question)
+  - [DSU simple question](#q3-dsu-simple-question)
+  - [Array prefix sum question](#q4-array-prefix-sum-question)
+  - [Third coding question (not remembered)](#q5-third-coding-question-not-remembered)
+- [2026-10-13 · IIT Dhanbad · FTE](#2026-10-13--iit-dhanbad--fte)
+  - [Binomial distribution: archer mean and variance](#q1-binomial-distribution-archer-mean-and-variance)
+  - [Highest power of 24 dividing 150!](#q2-highest-power-of-24-dividing-150)
+  - [Normal distribution: P(mean > 55)](#q3-normal-distribution-pmean--55)
+  - [Painted cube: red and blue faces](#q4-painted-cube-red-and-blue-faces)
+  - [Bayes: did it snow last night?](#q5-bayes-did-it-snow-last-night)
+  - [SQL: email campaign analysis](#q6-sql-email-campaign-analysis)
+  - [Python / Pandas section (3 MCQs + 2 coding)](#q7-python--pandas-section-3-mcqs--2-coding)
+- [2026-10-13 · IIT Dhanbad · FTE · SDE](#2026-10-13--iit-dhanbad--fte--sde)
+  - [OA format: 15 MCQs](#q1-oa-format-15-mcqs)
+  - [Second highest frequency element](#q2-second-highest-frequency-element)
+  - [Thread Count (tree with adjacent difference exactly 1)](#q3-thread-count-tree-with-adjacent-difference-exactly-1)
+  - [Discount Coupons](#q4-discount-coupons)
+- [2026-10-13 · IIT Delhi · FTE · SDE](#2026-10-13--iit-delhi--fte--sde)
+  - [Second most frequent element](#q1-second-most-frequent-element-5)
+  - [Max nutritious value under budget](#q2-max-nutritious-value-under-budget)
+  - [Servers with lost config values, minimal sum](#q3-servers-with-lost-config-values-minimal-sum)
+- [2026-10-13 · IIT Delhi · FTE · Data Science](#2026-10-13--iit-delhi--fte--data-science)
+  - [Second most occurring element](#q1-second-most-occurring-element)
+  - [Asteroid collision type](#q2-asteroid-collision-type)
+  - [3D DP: items, prices and halving coupons](#q3-3d-dp-items-prices-and-halving-coupons)
+  - [Max nutritious value within budget (possible variant)](#q4-max-nutritious-value-within-budget-possible-variant)
+- [2026-10-13 · IIIT Hyderabad · FTE · SDE](#2026-10-13--iiit-hyderabad--fte--sde)
+  - [Second most frequent element](#q1-second-most-frequent-element-6)
+  - [Asteroid collision type](#q2-asteroid-collision-type-1)
+  - [Items with coupons that halve the price](#q3-items-with-coupons-that-halve-the-price)
+  - [Max nutritious value under budget](#q4-max-nutritious-value-under-budget)
+  - [Servers with config values, minimum sum](#q5-servers-with-config-values-minimum-sum)
+- [2026-10-12 · IIT Guwahati · FTE · PA](#2026-10-12--iit-guwahati--fte--pa)
+  - [SQL: country, city, customer and logs & bids](#q1-sql-country-city-customer-and-logs--bids)
+  - [SQL: basic join and datetime aggregate](#q2-sql-basic-join-and-datetime-aggregate)
+  - [OA structure](#q3-oa-structure)
+- [2026-10-12 · IIT Dhanbad · FTE · Product Analyst](#2026-10-12--iit-dhanbad--fte--product-analyst)
+  - [Second most occurring element](#q1-second-most-occurring-element-1)
+  - [SQL: device traffic and cost in May](#q2-sql-device-traffic-and-cost-in-may)
+  - [OA structure and Python/Pandas section](#q3-oa-structure-and-pythonpandas-section)
+  - [Asteroid collision type problem](#q4-asteroid-collision-type-problem)
+  - [3D DP: items, prices and coupons that halve the price](#q5-3d-dp-items-prices-and-coupons-that-halve-the-price)
+  - [Binomial distribution: archer mean and variance](#q6-binomial-distribution-archer-mean-and-variance)
+  - [Highest power of 24 dividing 150!](#q7-highest-power-of-24-dividing-150)
+  - [Normal distribution: sample mean greater than 55](#q8-normal-distribution-sample-mean-greater-than-55)
+  - [Cube with red and blue faces, 729 small cubes](#q9-cube-with-red-and-blue-faces-729-small-cubes)
+  - [Probability that it snowed given father's report](#q10-probability-that-it-snowed-given-fathers-report)
+  - [SQL: email campaign analysis](#q11-sql-email-campaign-analysis)
+- [2026-10-10 · Unknown · FTE · SDE](#2026-10-10--unknown--fte--sde)
+  - [OA format: 3 DSA (DSU, array, rerooting) and MCQs](#q1-oa-format-3-dsa-dsu-array-rerooting-and-mcqs)
+- [2026-10-09 · IIT Guwahati · FTE · SDE](#2026-10-09--iit-guwahati--fte--sde)
+  - [SDE round: DSU, array and deep-rooting problems](#q1-sde-round-dsu-array-and-deep-rooting-problems)
+- [2026-10-08 · NIT Karnataka Surathkal · FTE · SDE](#2026-10-08--nit-karnataka-surathkal--fte--sde)
+  - [SDE OA format: 13 MCQs plus DSA](#q1-sde-oa-format-13-mcqs-plus-dsa)
+- [2026-10-07 · IIT Madras · FTE](#2026-10-07--iit-madras--fte)
+  - [Cube painted green cut into 1000 cubes](#q1-cube-painted-green-cut-into-1000-cubes)
+  - [Expression with correct syntax](#q2-expression-with-correct-syntax)
+  - [Newton's Law of Cooling approach](#q3-newtons-law-of-cooling-approach)
+  - [SQL CASE count of 'Supplementary'](#q4-sql-case-count-of-supplementary)
+  - [MySQL expression causing error (1)](#q5-mysql-expression-causing-error-1)
+  - [Relative performance using normal distribution](#q6-relative-performance-using-normal-distribution)
+  - [Normalizing flu case data across cities](#q7-normalizing-flu-case-data-across-cities)
+  - [Mean and variance of standard normal](#q8-mean-and-variance-of-standard-normal)
+  - [HACKER arrangements with vowels together](#q9-hacker-arrangements-with-vowels-together)
+  - [MySQL expression causing error (2)](#q10-mysql-expression-causing-error-2)
+  - [Circular seating redundant statement](#q11-circular-seating-redundant-statement)
+  - [Goodness of fit tests and distributions](#q12-goodness-of-fit-tests-and-distributions)
+- [2026-10-07 · IIT Guwahati · FTE · SDE](#2026-10-07--iit-guwahati--fte--sde)
+  - [Codeforces 1324F (tree problem)](#q1-codeforces-1324f-tree-problem)
+  - [LeetCode 924 (infection spread problem)](#q2-leetcode-924-infection-spread-problem)
+  - [Index of first greater element in another array](#q3-index-of-first-greater-element-in-another-array)
+- [2026-10-07 · IIT Guwahati · FTE · Product Analyst](#2026-10-07--iit-guwahati--fte--product-analyst)
+  - [Product Analyst OA structure](#q1-product-analyst-oa-structure-1)
+  - [Cities having more customers than average](#q2-cities-having-more-customers-than-average)
+  - [Duplicate bid detection](#q3-duplicate-bid-detection)
+  - [Anonymous vs subscribed viewers watch time](#q4-anonymous-vs-subscribed-viewers-watch-time)
+- [2026-10-06 · NIT Kurukshetra · FTE](#2026-10-06--nit-kurukshetra--fte)
+  - [Count node pairs whose shortest path costs at least 1 in a 0/1 weighted graph](#q1-count-node-pairs-whose-shortest-path-costs-at-least-1-in-a-01-weighted-graph)
+  - [Maximum profit from category and price arrays](#q2-maximum-profit-from-category-and-price-arrays)
+- [2026-10-06 · NIT Kurukshetra · FTE · SDE](#2026-10-06--nit-kurukshetra--fte--sde)
+  - [Count node pairs with path length k equal to shortest path (0/1 weights)](#q1-count-node-pairs-with-path-length-k-equal-to-shortest-path-01-weights)
+  - [Max profit picking categories with unique-category multiplier](#q2-max-profit-picking-categories-with-unique-category-multiplier)
+  - [OA pattern: 3 DSA and 13 MCQs](#q3-oa-pattern-3-dsa-and-13-mcqs)
+- [2026-10-06 · IIT Guwahati · FTE](#2026-10-06--iit-guwahati--fte)
+  - [First greater element anywhere in the array](#q1-first-greater-element-anywhere-in-the-array)
+  - [Maximum connected value for every node in a tree](#q2-maximum-connected-value-for-every-node-in-a-tree-1)
+  - [Remove at most one node to maximize uninfected nodes](#q3-remove-at-most-one-node-to-maximize-uninfected-nodes-1)
+  - [OA format: aptitude, SQL and Python MCQs](#q4-oa-format-aptitude-sql-and-python-mcqs)
+- [2026-10-06 · IIT BHU · FTE · Product Analyst](#2026-10-06--iit-bhu--fte--product-analyst)
+  - [Product Analyst OA: pandas coding and MCQs](#q1-product-analyst-oa-pandas-coding-and-mcqs)
+- [2026-10-02 · IIT Dhanbad · FTE](#2026-10-02--iit-dhanbad--fte)
+  - [Minimum Sum Assignment on a Tree](#q1-minimum-sum-assignment-on-a-tree)
+- [2026-10-02 · IIT Dhanbad · FTE · SDE](#2026-10-02--iit-dhanbad--fte--sde)
+  - [Second most frequent element](#q1-second-most-frequent-element-7)
+  - [Fruit selection with discount coupons](#q2-fruit-selection-with-discount-coupons-3)
+  - [Minimum sum assignment on a tree](#q3-minimum-sum-assignment-on-a-tree-3)
+  - [Second most frequent element](#q4-second-most-frequent-element)
+  - [Fruit selection with discount coupons](#q5-fruit-selection-with-discount-coupons)
+  - [Minimum sum assignment on a tree](#q6-minimum-sum-assignment-on-a-tree)
+- [2026-09-30 · IIT BHU · FTE](#2026-09-30--iit-bhu--fte)
+  - [Second most occurring element](#q1-second-most-occurring-element-2)
+  - [Asteroid collision type](#q2-asteroid-collision-type-2)
+  - [3D DP with prices, items and halving coupons](#q3-3d-dp-with-prices-items-and-halving-coupons)
+- [2026-09-29 · IIT Guwahati · FTE](#2026-09-29--iit-guwahati--fte)
+  - [OA pattern: 15 MCQs on OS, DBMS, SQL, CN, Docker](#q1-oa-pattern-15-mcqs-on-os-dbms-sql-cn-docker)
+  - [Second highest frequency element in an array](#q2-second-highest-frequency-element-in-an-array)
+  - [Collision problem](#q3-collision-problem)
+  - [Maximize nutrition within a fixed budget](#q4-maximize-nutrition-within-a-fixed-budget)
+  - [Total energy of all subsequences (subset sum K)](#q5-total-energy-of-all-subsequences-subset-sum-k)
+  - [Minimum steps with prime jumps](#q6-minimum-steps-with-prime-jumps)
+- [2026-09-29 · IIT Guwahati · FTE · Product Analyst](#2026-09-29--iit-guwahati--fte--product-analyst)
+  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format)
+- [2026-09-29 · IIT Dhanbad · FTE](#2026-09-29--iit-dhanbad--fte)
+  - [Maximize Total Tastiness of Purchased Fruits (LeetCode 2431)](#q1-maximize-total-tastiness-of-purchased-fruits-leetcode-2431)
+  - [Snowflake OA graph problem (LeetCode Discuss 4062769)](#q2-snowflake-oa-graph-problem-leetcode-discuss-4062769)
+  - [Python MCQs](#q3-python-mcqs)
+  - [Key-value store with low/medium/high value levels](#q4-key-value-store-with-lowmediumhigh-value-levels)
+  - [Clothes sizes stock check](#q5-clothes-sizes-stock-check)
+  - [SQL: basic join](#q6-sql-basic-join)
+  - [SQL: join with date extraction for May totals](#q7-sql-join-with-date-extraction-for-may-totals)
+- [2026-09-29 · IIT Dhanbad · FTE · Product Analyst](#2026-09-29--iit-dhanbad--fte--product-analyst)
+  - [Mean and variance of archer's successful attempts](#q1-mean-and-variance-of-archers-successful-attempts)
+  - [OA format: PA OA (aptitude, SQL, Python/Pandas)](#q2-oa-format-pa-oa-aptitude-sql-pythonpandas)
+  - [Highest power of 24 dividing 150!](#q3-highest-power-of-24-dividing-150-2)
+  - [Probability sample mean exceeds 55 (normal distribution)](#q4-probability-sample-mean-exceeds-55-normal-distribution)
+  - [Painted cube with red and blue faces](#q5-painted-cube-with-red-and-blue-faces-1)
+  - [Probability it snowed given father's claim](#q6-probability-it-snowed-given-fathers-claim-2)
+  - [Email campaign open/sent totals per campaign](#q7-email-campaign-opensent-totals-per-campaign)
+  - [Device traffic and cost for May per MAC](#q8-device-traffic-and-cost-for-may-per-mac)
+  - [Key-value store with low/medium/high range check](#q9-key-value-store-with-lowmediumhigh-range-check)
+  - [Clothes sizes received: can next day's sales be fulfilled](#q10-clothes-sizes-received-can-next-days-sales-be-fulfilled)
+- [2026-09-29 · IIT Dhanbad · FTE · SDE](#2026-09-29--iit-dhanbad--fte--sde)
+  - [Second most frequent element](#q1-second-most-frequent-element-8)
+  - [Protocol used in VoIP](#q2-protocol-used-in-voip)
+  - [OA format: SDE OA](#q3-oa-format-sde-oa)
+  - [Fruit selection with discount coupons](#q4-fruit-selection-with-discount-coupons)
+  - [Minimum sum assignment on a tree](#q5-minimum-sum-assignment-on-a-tree)
+  - [HTTP method for partial update](#q6-http-method-for-partial-update)
+  - [Correct SQL clause order](#q7-correct-sql-clause-order)
+  - [Error returned when requested data is not in database](#q8-error-returned-when-requested-data-is-not-in-database)
+  - [GROUP BY multiple-correct question](#q9-group-by-multiple-correct-question)
+  - [Linux for-loop code and output questions](#q10-linux-for-loop-code-and-output-questions)
+  - [Subnet membership for address with /27](#q11-subnet-membership-for-address-with-27)
+- [2026-09-29 · IIT BHU · FTE · Product Analyst](#2026-09-29--iit-bhu--fte--product-analyst)
+  - [OA format: PA role OA](#q1-oa-format-pa-role-oa)
+  - [Aptitude: linear equations and zeros in 100!](#q2-aptitude-linear-equations-and-zeros-in-100)
+- [2026-09-28 · IIT Bombay · FTE · SDE](#2026-09-28--iit-bombay--fte--sde)
+  - [Eternal SDE OA format (IIT Jodhpur)](#q1-eternal-sde-oa-format-iit-jodhpur)
+- [2026-09-28 · IIT BHU · FTE](#2026-09-28--iit-bhu--fte)
+  - [Aptitude section (Product Analyst)](#q1-aptitude-section-product-analyst)
+  - [SQL questions (one easy, one very hard)](#q2-sql-questions-one-easy-one-very-hard)
+  - [Python pandas question](#q3-python-pandas-question)
+- [2026-09-27 · IIT Roorkee · FTE · SDE](#2026-09-27--iit-roorkee--fte--sde)
+  - [SDE OA description: easy, Striver-sheet style](#q1-sde-oa-description-easy-striver-sheet-style)
+- [2026-09-26 · IIT BHU · FTE · Product Analyst](#2026-09-26--iit-bhu--fte--product-analyst)
+  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-1)
+- [2026-09-25 · IIT BHU · FTE · Product Analyst](#2026-09-25--iit-bhu--fte--product-analyst)
+  - [Product Analyst OA pattern](#q1-product-analyst-oa-pattern-1)
+- [2026-09-25 · IIT BHU · FTE · SDE](#2026-09-25--iit-bhu--fte--sde)
+  - [SDE OA pattern](#q1-sde-oa-pattern-1)
+- [2026-09-24 · IIT Roorkee · FTE · Product Analyst](#2026-09-24--iit-roorkee--fte--product-analyst)
+  - [Aptitude section format](#q1-aptitude-section-format)
+  - [Words occurring more than k times in a sentence](#q2-words-occurring-more-than-k-times-in-a-sentence)
+  - [OOPS + DSA merge-intervals type question](#q3-oops--dsa-merge-intervals-type-question)
+  - [Python dict with duplicate keys](#q4-python-dict-with-duplicate-keys)
+  - [Python yield question](#q5-python-yield-question)
+  - [Two pure SQL questions](#q6-two-pure-sql-questions)
+- [2026-09-22 · IIT Roorkee · FTE · SDE](#2026-09-22--iit-roorkee--fte--sde)
+  - [SDE OA format](#q1-sde-oa-format)
+- [2026-09-21 · Unknown · FTE](#2026-09-21--unknown--fte)
+  - [Intervue test overview (4 problems)](#q1-intervue-test-overview-4-problems)
+  - [2023 campus OA format](#q2-2023-campus-oa-format)
+- [2026-09-21 · Unknown · FTE · Interview](#2026-09-21--unknown--fte--interview)
+  - [Binary tree to doubly linked list](#q1-binary-tree-to-doubly-linked-list)
+  - [Anagram substring search](#q2-anagram-substring-search)
+  - [Maximum product subarray](#q3-maximum-product-subarray)
+  - [2023 campus interview topics](#q4-2023-campus-interview-topics)
+- [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview)
+  - [Kafka discussion from resume](#q1-kafka-discussion-from-resume)
+  - [Constrained selection and combination generation](#q2-constrained-selection-and-combination-generation)
+  - [Financial-data processing/analytics design](#q3-financial-data-processinganalytics-design)
+  - [Maximal square coding problem](#q4-maximal-square-coding-problem)
+  - [Systems and backend topics](#q5-systems-and-backend-topics)
+  - [Go implementation with concurrency and timeouts](#q6-go-implementation-with-concurrency-and-timeouts)
+- [2026-09-21 · Unknown · FTE · Frontend · Interview](#2026-09-21--unknown--fte--frontend--interview)
+  - [Frontend interview: React, SSR, hooks](#q1-frontend-interview-react-ssr-hooks)
+- [2026-09-21 · Unknown · FTE · SDE-1](#2026-09-21--unknown--fte--sde-1)
+  - [SDE-1 OA format (HackerRank)](#q1-sde-1-oa-format-hackerrank)
+- [2026-09-21 · Unknown · FTE · SDE](#2026-09-21--unknown--fte--sde)
+  - [Weighted shortest paths in OA](#q1-weighted-shortest-paths-in-oa)
+- [2026-09-21 · Unknown · FTE · SDE · Interview](#2026-09-21--unknown--fte--sde--interview)
+  - [Longest palindromic substring](#q1-longest-palindromic-substring)
+  - [LRU cache](#q2-lru-cache)
+  - [Design discussion: food delivery](#q3-design-discussion-food-delivery)
+- [2026-09-15 · IIT Mandi · Intern · SDE](#2026-09-15--iit-mandi--intern--sde)
+  - [OA format: Eternal SDE intern OA at IIT Mandi](#q1-oa-format-eternal-sde-intern-oa-at-iit-mandi)
 
-- [2026-10-29 · IIT Indore · FTE · Associate Program Manager](#2026-10-29--iit-indore--fte--associate-program-manager) · 1 question
-- [2026-10-28 · IIT Roorkee · FTE · Product Analyst](#2026-10-28--iit-roorkee--fte--product-analyst) · 2 questions
-- [2026-10-28 · IIT Indore · FTE · Associate Program Manager](#2026-10-28--iit-indore--fte--associate-program-manager) · 1 question
-- [2026-10-28 · IIT Indore · FTE · Product Analyst](#2026-10-28--iit-indore--fte--product-analyst) · 3 questions
-- [2026-10-28 · IIT Delhi · FTE · SDE](#2026-10-28--iit-delhi--fte--sde) · 2 questions
-- [2026-10-28 · IIT BHU · FTE · SDE](#2026-10-28--iit-bhu--fte--sde) · 1 question
-- [2026-10-28 · IIT BHU · FTE · Product Analyst](#2026-10-28--iit-bhu--fte--product-analyst) · 4 questions
-- [2026-10-28 · IIT BHU · FTE · SDE · Interview](#2026-10-28--iit-bhu--fte--sde--interview) · 1 question
-- [2026-10-27 · IIT Hyderabad · FTE · Product Analyst](#2026-10-27--iit-hyderabad--fte--product-analyst) · 2 questions
-- [2026-10-27 · IIT Guwahati · FTE · Product Analyst](#2026-10-27--iit-guwahati--fte--product-analyst) · 6 questions
-- [2026-10-27 · IIT Guwahati · FTE · SDE](#2026-10-27--iit-guwahati--fte--sde) · 3 questions
-- [2026-10-27 · IIT Dhanbad · FTE · Product Analyst](#2026-10-27--iit-dhanbad--fte--product-analyst) · 8 questions
-- [2026-10-27 · IIT Dhanbad · FTE · SDE](#2026-10-27--iit-dhanbad--fte--sde) · 3 questions
-- [2026-10-27 · IIT Dhanbad · FTE · SDE · Interview](#2026-10-27--iit-dhanbad--fte--sde--interview) · 2 questions
-- [2026-10-27 · IIT BHU · FTE · Associate Program Manager](#2026-10-27--iit-bhu--fte--associate-program-manager) · 1 question
-- [2026-10-27 · Delhi Technological University · FTE · Associate Program Manager · Interview](#2026-10-27--delhi-technological-university--fte--associate-program-manager--interview) · 1 question
-- [2026-10-26 · IIT Guwahati · FTE · SDE](#2026-10-26--iit-guwahati--fte--sde) · 1 question
-- [2026-10-26 · IIT Guwahati · FTE · Product Analyst](#2026-10-26--iit-guwahati--fte--product-analyst) · 1 question
-- [2026-10-26 · IIT Guwahati · FTE · Data Science](#2026-10-26--iit-guwahati--fte--data-science) · 1 question
-- [2026-10-26 · IIT Dhanbad · FTE · SDE](#2026-10-26--iit-dhanbad--fte--sde) · 3 questions
-- [2026-10-26 · IIT Delhi · FTE · Data Science](#2026-10-26--iit-delhi--fte--data-science) · 4 questions
-- [2026-10-26 · IIT BHU · FTE · Product Analyst](#2026-10-26--iit-bhu--fte--product-analyst) · 1 question
-- [2026-10-25 · IIT Roorkee · FTE · SDE](#2026-10-25--iit-roorkee--fte--sde) · 1 question
-- [2026-10-25 · IIT Guwahati · FTE · Product Analyst](#2026-10-25--iit-guwahati--fte--product-analyst) · 1 question
-- [2026-10-25 · IIT Guwahati · FTE · Data Scientist](#2026-10-25--iit-guwahati--fte--data-scientist) · 1 question
-- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte) · 1 question
-- [2026-10-24 · IIT BHU · FTE · SDE](#2026-10-24--iit-bhu--fte--sde) · 1 question
-- [2026-10-23 · IIT Roorkee · FTE · SDE](#2026-10-23--iit-roorkee--fte--sde) · 1 question
-- [2026-10-23 · IIT Hyderabad · FTE · Product Analyst](#2026-10-23--iit-hyderabad--fte--product-analyst) · 1 question
-- [2026-10-23 · IIT Guwahati · FTE · Product Analyst](#2026-10-23--iit-guwahati--fte--product-analyst) · 1 question
-- [2026-10-23 · IIT Guwahati · FTE · SDE](#2026-10-23--iit-guwahati--fte--sde) · 4 questions
-- [2026-10-23 · IIT Dhanbad · FTE · Product Analyst](#2026-10-23--iit-dhanbad--fte--product-analyst) · 1 question
-- [2026-10-21 · IIT Roorkee · FTE · SDE](#2026-10-21--iit-roorkee--fte--sde) · 2 questions
-- [2026-10-21 · IIT Roorkee · FTE · Product Analyst](#2026-10-21--iit-roorkee--fte--product-analyst) · 3 questions
-- [2026-10-21 · IIT Hyderabad · FTE · SDE](#2026-10-21--iit-hyderabad--fte--sde) · 4 questions
-- [2026-10-21 · IIT Hyderabad · FTE · PA](#2026-10-21--iit-hyderabad--fte--pa) · 1 question
-- [2026-10-21 · IIT Dhanbad · FTE · SDE](#2026-10-21--iit-dhanbad--fte--sde) · 3 questions
-- [2026-10-20 · IIT Hyderabad · FTE · SDE](#2026-10-20--iit-hyderabad--fte--sde) · 6 questions
-- [2026-10-20 · IIT Hyderabad · FTE · Product Analyst](#2026-10-20--iit-hyderabad--fte--product-analyst) · 1 question
-- [2026-10-20 · IIT Guwahati · FTE](#2026-10-20--iit-guwahati--fte) · 3 questions
-- [2026-10-20 · IIT Guwahati · FTE · Product Analyst](#2026-10-20--iit-guwahati--fte--product-analyst) · 1 question
-- [2026-10-20 · IIT Bombay · FTE · Product Analyst · Interview](#2026-10-20--iit-bombay--fte--product-analyst--interview) · 1 question
-- [2026-10-19 · IIT Bombay · FTE · Product Analyst](#2026-10-19--iit-bombay--fte--product-analyst) · 1 question
-- [2026-10-18 · IIT Guwahati · FTE · Data Science](#2026-10-18--iit-guwahati--fte--data-science) · 3 questions
-- [2026-10-17 · IIT BHU · FTE · PA](#2026-10-17--iit-bhu--fte--pa) · 6 questions
-- [2026-10-16 · IIT Hyderabad · FTE · SDE](#2026-10-16--iit-hyderabad--fte--sde) · 1 question
-- [2026-10-15 · IIT Guwahati · FTE · SDE](#2026-10-15--iit-guwahati--fte--sde) · 1 question
-- [2026-10-13 · IIT Jodhpur · FTE](#2026-10-13--iit-jodhpur--fte) · 4 questions
-- [2026-10-13 · IIT Guwahati · FTE · SDE](#2026-10-13--iit-guwahati--fte--sde) · 2 questions
-- [2026-10-13 · IIT Guwahati · FTE · Product Analyst](#2026-10-13--iit-guwahati--fte--product-analyst) · 1 question
-- [2026-10-13 · IIT Guwahati · FTE](#2026-10-13--iit-guwahati--fte) · 5 questions
-- [2026-10-13 · IIT Dhanbad · FTE](#2026-10-13--iit-dhanbad--fte) · 7 questions
-- [2026-10-13 · IIT Dhanbad · FTE · SDE](#2026-10-13--iit-dhanbad--fte--sde) · 4 questions
-- [2026-10-13 · IIT Delhi · FTE · SDE](#2026-10-13--iit-delhi--fte--sde) · 3 questions
-- [2026-10-13 · IIT Delhi · FTE · Data Science](#2026-10-13--iit-delhi--fte--data-science) · 4 questions
-- [2026-10-13 · IIIT Hyderabad · FTE · SDE](#2026-10-13--iiit-hyderabad--fte--sde) · 5 questions
-- [2026-10-12 · IIT Guwahati · FTE · PA](#2026-10-12--iit-guwahati--fte--pa) · 3 questions
-- [2026-10-12 · IIT Dhanbad · FTE · Product Analyst](#2026-10-12--iit-dhanbad--fte--product-analyst) · 11 questions
-- [2026-10-10 · Unknown · FTE · SDE](#2026-10-10--unknown--fte--sde) · 1 question
-- [2026-10-09 · IIT Guwahati · FTE · SDE](#2026-10-09--iit-guwahati--fte--sde) · 1 question
-- [2026-10-08 · NIT Karnataka Surathkal · FTE · SDE](#2026-10-08--nit-karnataka-surathkal--fte--sde) · 1 question
-- [2026-10-07 · IIT Madras · FTE](#2026-10-07--iit-madras--fte) · 12 questions
-- [2026-10-07 · IIT Guwahati · FTE · SDE](#2026-10-07--iit-guwahati--fte--sde) · 3 questions
-- [2026-10-07 · IIT Guwahati · FTE · Product Analyst](#2026-10-07--iit-guwahati--fte--product-analyst) · 4 questions
-- [2026-10-06 · NIT Kurukshetra · FTE](#2026-10-06--nit-kurukshetra--fte) · 2 questions
-- [2026-10-06 · NIT Kurukshetra · FTE · SDE](#2026-10-06--nit-kurukshetra--fte--sde) · 3 questions
-- [2026-10-06 · IIT Guwahati · FTE](#2026-10-06--iit-guwahati--fte) · 4 questions
-- [2026-10-06 · IIT BHU · FTE · Product Analyst](#2026-10-06--iit-bhu--fte--product-analyst) · 1 question
-- [2026-10-02 · IIT Dhanbad · FTE](#2026-10-02--iit-dhanbad--fte) · 1 question
-- [2026-10-02 · IIT Dhanbad · FTE · SDE](#2026-10-02--iit-dhanbad--fte--sde) · 6 questions
-- [2026-09-30 · IIT BHU · FTE](#2026-09-30--iit-bhu--fte) · 3 questions
-- [2026-09-29 · IIT Guwahati · FTE](#2026-09-29--iit-guwahati--fte) · 6 questions
-- [2026-09-29 · IIT Guwahati · FTE · Product Analyst](#2026-09-29--iit-guwahati--fte--product-analyst) · 1 question
-- [2026-09-29 · IIT Dhanbad · FTE](#2026-09-29--iit-dhanbad--fte) · 7 questions
-- [2026-09-29 · IIT Dhanbad · FTE · Product Analyst](#2026-09-29--iit-dhanbad--fte--product-analyst) · 10 questions
-- [2026-09-29 · IIT Dhanbad · FTE · SDE](#2026-09-29--iit-dhanbad--fte--sde) · 11 questions
-- [2026-09-29 · IIT BHU · FTE · Product Analyst](#2026-09-29--iit-bhu--fte--product-analyst) · 2 questions
-- [2026-09-28 · IIT Bombay · FTE · SDE](#2026-09-28--iit-bombay--fte--sde) · 1 question
-- [2026-09-28 · IIT BHU · FTE](#2026-09-28--iit-bhu--fte) · 3 questions
-- [2026-09-27 · IIT Roorkee · FTE · SDE](#2026-09-27--iit-roorkee--fte--sde) · 1 question
-- [2026-09-26 · IIT BHU · FTE · Product Analyst](#2026-09-26--iit-bhu--fte--product-analyst) · 1 question
-- [2026-09-25 · IIT BHU · FTE · Product Analyst](#2026-09-25--iit-bhu--fte--product-analyst) · 1 question
-- [2026-09-25 · IIT BHU · FTE · SDE](#2026-09-25--iit-bhu--fte--sde) · 1 question
-- [2026-09-24 · IIT Roorkee · FTE · Product Analyst](#2026-09-24--iit-roorkee--fte--product-analyst) · 6 questions
-- [2026-09-22 · IIT Roorkee · FTE · SDE](#2026-09-22--iit-roorkee--fte--sde) · 1 question
-- [2026-09-21 · Unknown · FTE](#2026-09-21--unknown--fte) · 2 questions
-- [2026-09-21 · Unknown · FTE · Interview](#2026-09-21--unknown--fte--interview) · 4 questions
-- [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview) · 6 questions
-- [2026-09-21 · Unknown · FTE · Frontend · Interview](#2026-09-21--unknown--fte--frontend--interview) · 1 question
-- [2026-09-21 · Unknown · FTE · SDE-1](#2026-09-21--unknown--fte--sde-1) · 1 question
-- [2026-09-21 · Unknown · FTE · SDE](#2026-09-21--unknown--fte--sde) · 1 question
-- [2026-09-21 · Unknown · FTE · SDE · Interview](#2026-09-21--unknown--fte--sde--interview) · 3 questions
-- [2026-09-15 · IIT Mandi · Intern · SDE](#2026-09-15--iit-mandi--intern--sde) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

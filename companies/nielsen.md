@@ -1,16 +1,21 @@
 # Nielsen
 
-**5 questions** from 1 OA drive · seen at VIT Vellore · latest 2026-10-13
+**5 questions** · 1 drive · latest 13 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Strings](../topics/strings.md) (2) · [Graphs](../topics/graphs.md) (2) · [Stack/Queue](../topics/stack-queue.md) (1) · [Arrays](../topics/arrays.md) (1) · [DP](../topics/dp.md) (1) · [Hashing](../topics/hashing.md) (1)
+**Asks about:** [Strings](../topics/strings.md) 2 · [Graphs](../topics/graphs.md) 2 · [Stack/Queue](../topics/stack-queue.md) 1 · [Arrays](../topics/arrays.md) 1 · [DP](../topics/dp.md) 1 · [Hashing](../topics/hashing.md) 1  
+**Seen at:** VIT Vellore
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-13 · VIT Vellore · FTE](#2026-10-13--vit-vellore--fte)
+  - [Kth next largest element](#q1-kth-next-largest-element)
+  - [Edit Distance](#q2-edit-distance)
+  - [Caesar cipher variant](#q3-caesar-cipher-variant)
+  - [Friend recommendation (friends of friends)](#q4-friend-recommendation-friends-of-friends)
+  - [DSU problem](#q5-dsu-problem)
 
-- [2026-10-13 · VIT Vellore · FTE](#2026-10-13--vit-vellore--fte) · 5 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

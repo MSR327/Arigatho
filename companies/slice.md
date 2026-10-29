@@ -1,16 +1,23 @@
 # Slice
 
-**5 questions** from 3 OA drives · seen at IIT Bombay, IIT Kharagpur, MNNIT Allahabad · latest 2026-10-23
+**5 questions** · 3 drives · latest 23 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (3) · [Aptitude](../topics/aptitude.md) (2) · [Finance](../topics/finance.md) (1) · [Math](../topics/math.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Aptitude](../topics/aptitude.md) 2 · [Finance](../topics/finance.md) 1 · [Math](../topics/math.md) 1  
+**Seen at:** IIT Bombay, IIT Kharagpur, MNNIT Allahabad
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-23 · IIT Bombay · FTE](#2026-10-23--iit-bombay--fte) · 3 questions
-- [2026-10-22 · MNNIT Allahabad · FTE](#2026-10-22--mnnit-allahabad--fte) · 1 question
-- [2026-10-22 · IIT Kharagpur · FTE](#2026-10-22--iit-kharagpur--fte) · 1 question
+- [2026-10-23 · IIT Bombay · FTE](#2026-10-23--iit-bombay--fte)
+  - [Minimum salary increase to avoid tax (tax brackets)](#q1-minimum-salary-increase-to-avoid-tax-tax-brackets)
+  - [Count 4-digit strings with exactly one pair of equal digits](#q2-count-4-digit-strings-with-exactly-one-pair-of-equal-digits)
+  - [Slice OA overview](#q3-slice-oa-overview)
+- [2026-10-22 · MNNIT Allahabad · FTE](#2026-10-22--mnnit-allahabad--fte)
+  - [Aptitude MCQs (finance/business and probability)](#q1-aptitude-mcqs-financebusiness-and-probability)
+- [2026-10-22 · IIT Kharagpur · FTE](#2026-10-22--iit-kharagpur--fte)
+  - [Slice OA format](#q1-slice-oa-format)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

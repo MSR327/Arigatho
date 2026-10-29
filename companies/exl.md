@@ -1,14 +1,17 @@
 # EXL
 
-**1 question** from 1 OA drive · seen at IIT BHU · latest 2026-10-28
+**1 question** · 1 drive · latest 28 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1  
+**Seen at:** IIT BHU
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-28 · IIT BHU · FTE · Consultant I - Analytics (Band B1)](#2026-10-28--iit-bhu--fte--consultant-i---analytics-band-b1) · 1 question
+- [2026-10-28 · IIT BHU · FTE · Consultant I - Analytics (Band B1)](#2026-10-28--iit-bhu--fte--consultant-i---analytics-band-b1)
+  - [EXL OA format](#q1-exl-oa-format)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

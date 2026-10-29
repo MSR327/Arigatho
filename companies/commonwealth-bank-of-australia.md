@@ -1,19 +1,27 @@
 # Commonwealth Bank of Australia
 
-**6 questions** from 6 OA drives · seen at IIT BHU, IIT Guwahati, IIT Hyderabad, Unknown · latest 2026-10-28
+**6 questions** · 6 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (6) · [ML/AI](../topics/ml-ai.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [SQL](../topics/sql.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [ML/AI](../topics/ml-ai.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [SQL](../topics/sql.md) 1  
+**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-28 · IIT Guwahati · FTE · Graduate Engineering / Technology Graduate - Data Science](#2026-10-28--iit-guwahati--fte--graduate-engineering--technology-graduate---data-science) · 1 question
-- [2026-10-27 · Unknown · FTE · Graduate Engineering, Technology Graduate - Data Science](#2026-10-27--unknown--fte--graduate-engineering-technology-graduate---data-science) · 1 question
-- [2026-10-27 · IIT Hyderabad · FTE](#2026-10-27--iit-hyderabad--fte) · 1 question
-- [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte) · 1 question
-- [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte) · 1 question
-- [2026-10-25 · IIT BHU · Unknown](#2026-10-25--iit-bhu--unknown) · 1 question
+- [2026-10-28 · IIT Guwahati · FTE · Graduate Engineering / Technology Graduate - Data Science](#2026-10-28--iit-guwahati--fte--graduate-engineering--technology-graduate---data-science)
+  - [CBA OA pattern](#q1-cba-oa-pattern)
+- [2026-10-27 · Unknown · FTE · Graduate Engineering, Technology Graduate - Data Science](#2026-10-27--unknown--fte--graduate-engineering-technology-graduate---data-science)
+  - [CBA OA pattern](#q1-cba-oa-pattern-1)
+- [2026-10-27 · IIT Hyderabad · FTE](#2026-10-27--iit-hyderabad--fte)
+  - [Commonwealth Bank OA pattern](#q1-commonwealth-bank-oa-pattern)
+- [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte)
+  - [CBA OA pattern (last year)](#q1-cba-oa-pattern-last-year)
+- [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte)
+  - [OA format: 45 MCQs with sectional timing](#q1-oa-format-45-mcqs-with-sectional-timing)
+- [2026-10-25 · IIT BHU · Unknown](#2026-10-25--iit-bhu--unknown)
+  - [OA pattern (from seniors): ML/DL/GenAI MCQs + 2 DSA](#q1-oa-pattern-from-seniors-mldlgenai-mcqs--2-dsa)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

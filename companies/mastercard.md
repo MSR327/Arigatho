@@ -1,19 +1,26 @@
 # Mastercard
 
-**7 questions** from 4 OA drives · seen at IIIT Sri City, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur · latest 2026-10-28
+**7 questions** · 4 drives · latest 28 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (3) · [DP](../topics/dp.md) (2) · [Strings](../topics/strings.md) (2) · [Arrays](../topics/arrays.md) (2) · [Sorting](../topics/sorting.md) (2)
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 2  
+**Seen at:** IIIT Sri City, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur
 
-**LeetCode matches:** 2 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-28 · IIT Guwahati · FTE · Data Science](#2026-10-28--iit-guwahati--fte--data-science)
+  - [Mastercard Data Science OA topics](#q1-mastercard-data-science-oa-topics)
+  - [Mastercard DS OA contents](#q2-mastercard-ds-oa-contents)
+- [2026-10-25 · IIIT Sri City · FTE · Associate Consultant / APS · Other round](#2026-10-25--iiit-sri-city--fte--associate-consultant--aps--other-round)
+  - [Mastercard selection process topics](#q1-mastercard-selection-process-topics)
+- [2026-10-24 · IIT Kharagpur/Kanpur · FTE](#2026-10-24--iit-kharagpurkanpur--fte)
+  - [Edit the Filename](#q1-edit-the-filename)
+  - [Mario and the Number Mountain](#q2-mario-and-the-number-mountain)
+- [2026-10-24 · IIT Kharagpur · FTE · Software](#2026-10-24--iit-kharagpur--fte--software)
+  - [Edit the Filename (minimum edit distance)](#q1-edit-the-filename-minimum-edit-distance)
+  - [Mario and the Number Mountain](#q2-mario-and-the-number-mountain-1)
 
-- [2026-10-28 · IIT Guwahati · FTE · Data Science](#2026-10-28--iit-guwahati--fte--data-science) · 2 questions
-- [2026-10-25 · IIIT Sri City · FTE · Associate Consultant / APS · Other round](#2026-10-25--iiit-sri-city--fte--associate-consultant--aps--other-round) · 1 question
-- [2026-10-24 · IIT Kharagpur/Kanpur · FTE](#2026-10-24--iit-kharagpurkanpur--fte) · 2 questions
-- [2026-10-24 · IIT Kharagpur · FTE · Software](#2026-10-24--iit-kharagpur--fte--software) · 2 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

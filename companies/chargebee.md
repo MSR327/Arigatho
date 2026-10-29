@@ -1,20 +1,30 @@
 # Chargebee
 
-**10 questions** from 5 OA drives · seen at Unknown, VIT Vellore · latest 2026-09-22
+**10 questions** · 5 drives · latest 22 Sep 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (3) · [Software Engineering](../topics/software-engineering.md) (3) · [SQL](../topics/sql.md) (2) · [Hashing](../topics/hashing.md) (2) · [Math](../topics/math.md) (2) · [Web Dev](../topics/web-dev.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1) · [Strings](../topics/strings.md) (1) · [Sliding Window](../topics/sliding-window.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [OOP](../topics/oop.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Software Engineering](../topics/software-engineering.md) 3 · [SQL](../topics/sql.md) 2 · [Hashing](../topics/hashing.md) 2 · [Math](../topics/math.md) 2 · [Web Dev](../topics/web-dev.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Strings](../topics/strings.md) 1 · +6 more  
+**Seen at:** VIT Vellore
 
-**LeetCode matches:** 3 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-09-22 · VIT Vellore · FTE · SDE-1](#2026-09-22--vit-vellore--fte--sde-1)
+  - [Chargebee SDE-1 OA pattern](#q1-chargebee-sde-1-oa-pattern)
+- [2026-09-21 · Unknown · FTE · SDE-1](#2026-09-21--unknown--fte--sde-1)
+  - [SDE-1 OA format: 90-minute assessment](#q1-sde-1-oa-format-90-minute-assessment)
+- [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview)
+  - [SDE-1 later rounds: API design, Java/Spring, DSA, conflicts](#q1-sde-1-later-rounds-api-design-javaspring-dsa-conflicts)
+- [2026-09-21 · Unknown · FTE · Other round](#2026-09-21--unknown--fte--other-round)
+  - [Two-hour online test, SQL/DSA screening and design discussions](#q1-two-hour-online-test-sqldsa-screening-and-design-discussions)
+- [2026-09-21 · Unknown · FTE · SDE-1 · Other round](#2026-09-21--unknown--fte--sde-1--other-round)
+  - [Minimum window substring](#q1-minimum-window-substring)
+  - [Sieve / bit-manipulation task](#q2-sieve--bit-manipulation-task)
+  - [Missing number](#q3-missing-number)
+  - [Binary search task](#q4-binary-search-task)
+  - [Table keys and second-highest salary (SQL)](#q5-table-keys-and-second-highest-salary-sql)
+  - [Cache with GET/SET/DELETE and expiration](#q6-cache-with-getsetdelete-and-expiration)
 
-- [2026-09-22 · VIT Vellore · FTE · SDE-1](#2026-09-22--vit-vellore--fte--sde-1) · 1 question
-- [2026-09-21 · Unknown · FTE · SDE-1](#2026-09-21--unknown--fte--sde-1) · 1 question
-- [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview) · 1 question
-- [2026-09-21 · Unknown · FTE · Other round](#2026-09-21--unknown--fte--other-round) · 1 question
-- [2026-09-21 · Unknown · FTE · SDE-1 · Other round](#2026-09-21--unknown--fte--sde-1--other-round) · 6 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

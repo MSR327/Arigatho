@@ -1,14 +1,17 @@
 # KPMG
 
-**1 question** from 1 OA drive · seen at VNIT Nagpur · latest 2026-10-27
+**1 question** · 1 drive · latest 27 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1) · [Aptitude](../topics/aptitude.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1 · [Aptitude](../topics/aptitude.md) 1  
+**Seen at:** VNIT Nagpur
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-27 · VNIT Nagpur · Intern · AI Intern](#2026-10-27--vnit-nagpur--intern--ai-intern) · 1 question
+- [2026-10-27 · VNIT Nagpur · Intern · AI Intern](#2026-10-27--vnit-nagpur--intern--ai-intern)
+  - [KPMG AI intern OA format](#q1-kpmg-ai-intern-oa-format)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

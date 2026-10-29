@@ -1,15 +1,20 @@
 # Amazon
 
-**3 questions** from 2 OA drives · seen at BITS, IIT BHU · latest 2026-10-29
+**3 questions** · 2 drives · latest 29 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Hashing](../topics/hashing.md) (1) · [Trees](../topics/trees.md) (1) · [ML/AI](../topics/ml-ai.md) (1) · [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [OA Format](../topics/oa-format.md) 1  
+**Seen at:** BITS, IIT BHU
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-29 · BITS · FTE · SDE](#2026-10-29--bits--fte--sde) · 1 question
-- [2026-10-03 · IIT BHU · FTE · Applied Scientist · Interview](#2026-10-03--iit-bhu--fte--applied-scientist--interview) · 2 questions
+- [2026-10-29 · BITS · FTE · SDE](#2026-10-29--bits--fte--sde)
+  - [Amazon SDE OA pattern change](#q1-amazon-sde-oa-pattern-change)
+- [2026-10-03 · IIT BHU · FTE · Applied Scientist · Interview](#2026-10-03--iit-bhu--fte--applied-scientist--interview)
+  - [Internal implementation of map, set, unordered_map, unordered_set](#q1-internal-implementation-of-map-set-unordered_map-unordered_set)
+  - [ML round: PCA, decision trees, SGD, K-means](#q2-ml-round-pca-decision-trees-sgd-k-means)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

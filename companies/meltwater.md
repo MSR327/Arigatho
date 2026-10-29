@@ -1,18 +1,30 @@
 # Meltwater
 
-**12 questions** from 3 OA drives · seen at IIT Hyderabad, VIT Vellore · latest 2026-10-16
+**12 questions** · 3 drives · latest 16 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Math](../topics/math.md) (6) · [Strings](../topics/strings.md) (4) · [Arrays](../topics/arrays.md) (3) · [DP](../topics/dp.md) (2) · [Sorting](../topics/sorting.md) (2) · [Greedy](../topics/greedy.md) (1) · [Hashing](../topics/hashing.md) (1) · [Two Pointers](../topics/two-pointers.md) (1)
+**Asks about:** [Math](../topics/math.md) 6 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 3 · [DP](../topics/dp.md) 2 · [Sorting](../topics/sorting.md) 2 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1 · [Two Pointers](../topics/two-pointers.md) 1  
+**Seen at:** IIT Hyderabad, VIT Vellore
 
-**LeetCode matches:** 2 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-16 · IIT Hyderabad · FTE](#2026-10-16--iit-hyderabad--fte)
+  - [Sum of first n triangular numbers](#q1-sum-of-first-n-triangular-numbers)
+  - [Kth character of concatenated unique substrings](#q2-kth-character-of-concatenated-unique-substrings)
+  - [Subarray with GCD g: max sum, count, min length](#q3-subarray-with-gcd-g-max-sum-count-min-length)
+  - [Sum of First N Triangular Numbers](#q4-sum-of-first-n-triangular-numbers)
+  - [Kth Character of Concatenated Sorted Unique Substrings](#q5-kth-character-of-concatenated-sorted-unique-substrings)
+  - [Subarrays with GCD Equal to G](#q6-subarrays-with-gcd-equal-to-g)
+- [2026-10-15 · IIT Hyderabad · FTE](#2026-10-15--iit-hyderabad--fte)
+  - [Sum of first n triangular numbers](#q1-sum-of-first-n-triangular-numbers-1)
+  - [Kth character of concatenated unique substrings](#q2-kth-character-of-concatenated-unique-substrings-1)
+  - [Subarrays with GCD g: max sum, count, min length](#q3-subarrays-with-gcd-g-max-sum-count-min-length)
+- [2026-10-13 · VIT Vellore · FTE](#2026-10-13--vit-vellore--fte)
+  - [Remove Boxes (LeetCode 546)](#q1-remove-boxes-leetcode-546)
+  - [Minimum Number of Taps to Open to Water a Garden (LeetCode 1326)](#q2-minimum-number-of-taps-to-open-to-water-a-garden-leetcode-1326)
+  - [The Bounded Substream](#q3-the-bounded-substream)
 
-- [2026-10-16 · IIT Hyderabad · FTE](#2026-10-16--iit-hyderabad--fte) · 6 questions
-- [2026-10-15 · IIT Hyderabad · FTE](#2026-10-15--iit-hyderabad--fte) · 3 questions
-- [2026-10-13 · VIT Vellore · FTE](#2026-10-13--vit-vellore--fte) · 3 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

@@ -1,15 +1,19 @@
 # Dell
 
-**2 questions** from 2 OA drives · seen at IIIT Allahabad, IIT Kharagpur/Kanpur · latest 2026-10-27
+**2 questions** · 2 drives · latest 27 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (2)
+**Asks about:** [OA Format](../topics/oa-format.md) 2  
+**Seen at:** IIIT Allahabad, IIT Kharagpur/Kanpur
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-27 · IIIT Allahabad · FTE](#2026-10-27--iiit-allahabad--fte) · 1 question
-- [2026-10-03 · IIT Kharagpur/Kanpur · FTE](#2026-10-03--iit-kharagpurkanpur--fte) · 1 question
+- [2026-10-27 · IIIT Allahabad · FTE](#2026-10-27--iiit-allahabad--fte)
+  - [Dell OA pattern](#q1-dell-oa-pattern)
+- [2026-10-03 · IIT Kharagpur/Kanpur · FTE](#2026-10-03--iit-kharagpurkanpur--fte)
+  - [Dell OA pattern](#q1-dell-oa-pattern-1)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

@@ -1,23 +1,56 @@
 # InfoEdge
 
-**31 questions** from 10 OA drives · seen at IIIT Allahabad, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Patna · latest 2026-10-26
+**31 questions** · 10 drives · latest 26 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (11) · [ML/AI](../topics/ml-ai.md) (7) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (5) · [Math](../topics/math.md) (5) · [Aptitude](../topics/aptitude.md) (4) · [Python & Pandas](../topics/python-pandas.md) (4) · [OOP](../topics/oop.md) (2) · [Binary Search](../topics/binary-search.md) (1) · [Strings](../topics/strings.md) (1) · [Two Pointers](../topics/two-pointers.md) (1) · [Arrays](../topics/arrays.md) (1) · [SQL](../topics/sql.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [ML/AI](../topics/ml-ai.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · [OOP](../topics/oop.md) 2 · [Binary Search](../topics/binary-search.md) 1 · +4 more  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Patna
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-26 · MNNIT Allahabad · FTE](#2026-10-26--mnnit-allahabad--fte) · 1 question
-- [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte) · 2 questions
-- [2026-10-26 · IIT Guwahati · FTE · AI Scientist](#2026-10-26--iit-guwahati--fte--ai-scientist) · 1 question
-- [2026-10-26 · IIIT Allahabad · FTE](#2026-10-26--iiit-allahabad--fte) · 1 question
-- [2026-10-25 · IIT Hyderabad · FTE](#2026-10-25--iit-hyderabad--fte) · 1 question
-- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte) · 3 questions
-- [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte) · 1 question
-- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 1 question
-- [2026-10-05 · IIT Guwahati · FTE](#2026-10-05--iit-guwahati--fte) · 10 questions
-- [2026-10-03 · NIT Patna · FTE](#2026-10-03--nit-patna--fte) · 10 questions
+- [2026-10-26 · MNNIT Allahabad · FTE](#2026-10-26--mnnit-allahabad--fte)
+  - [OA pattern: aptitude/core CS MCQs + 2 DSA](#q1-oa-pattern-aptitudecore-cs-mcqs--2-dsa)
+- [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte)
+  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern)
+  - [InfoEdge OA pattern](#q2-infoedge-oa-pattern)
+- [2026-10-26 · IIT Guwahati · FTE · AI Scientist](#2026-10-26--iit-guwahati--fte--ai-scientist)
+  - [InfoEdge AI Scientist OA format](#q1-infoedge-ai-scientist-oa-format)
+- [2026-10-26 · IIIT Allahabad · FTE](#2026-10-26--iiit-allahabad--fte)
+  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-1)
+- [2026-10-25 · IIT Hyderabad · FTE](#2026-10-25--iit-hyderabad--fte)
+  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-2)
+- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
+  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-3)
+  - [InfoEdge OA format and topics](#q2-infoedge-oa-format-and-topics)
+  - [InfoEdge OA format](#q3-infoedge-oa-format)
+- [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte)
+  - [OA pattern: 40 MCQs on stats, ML, DL](#q1-oa-pattern-40-mcqs-on-stats-ml-dl)
+- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte)
+  - [InfoEdge OA format: ML/DL MCQs](#q1-infoedge-oa-format-mldl-mcqs)
+- [2026-10-05 · IIT Guwahati · FTE](#2026-10-05--iit-guwahati--fte)
+  - [Effect of increasing k in KNN](#q1-effect-of-increasing-k-in-knn)
+  - [Rows in A LEFT JOIN B](#q2-rows-in-a-left-join-b)
+  - [Calibrated model positive ratio](#q3-calibrated-model-positive-ratio)
+  - [Bayes: disease probability after two positive tests](#q4-bayes-disease-probability-after-two-positive-tests)
+  - [Correlation from covariance and variances](#q5-correlation-from-covariance-and-variances)
+  - [Nature of x^3 - 3x at x = 1](#q6-nature-of-x3---3x-at-x--1)
+  - [Python string slicing beyond length](#q7-python-string-slicing-beyond-length)
+  - [Python list slicing with step](#q8-python-list-slicing-with-step)
+  - [Python list comprehension output](#q9-python-list-comprehension-output)
+  - [Python set operations](#q10-python-set-operations)
+- [2026-10-03 · NIT Patna · FTE](#2026-10-03--nit-patna--fte)
+  - [Time complexity of doubling loop](#q1-time-complexity-of-doubling-loop)
+  - [Petrol replaced by kerosene (mixtures)](#q2-petrol-replaced-by-kerosene-mixtures)
+  - [Data Structure: Sub-Arrays (binary search)](#q3-data-structure-sub-arrays-binary-search)
+  - [Attribute Behaviour (OOP)](#q4-attribute-behaviour-oop)
+  - [Public Derivation (diamond problem)](#q5-public-derivation-diamond-problem)
+  - [Simple interest capital](#q6-simple-interest-capital)
+  - [Logical Reasoning: Circle Map (seating)](#q7-logical-reasoning-circle-map-seating)
+  - [Logical Reasoning: Friday Prime](#q8-logical-reasoning-friday-prime)
+  - [Reverse string keeping spaces + word count](#q9-reverse-string-keeping-spaces--word-count)
+  - [Knight moves safe from queen](#q10-knight-moves-safe-from-queen)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

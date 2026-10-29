@@ -1,14 +1,18 @@
 # Wayfair
 
-**2 questions** from 1 OA drive · seen at IIT BHU · latest 2026-10-24
+**2 questions** · 1 drive · latest 24 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [DP](../topics/dp.md) (1) · [Arrays](../topics/arrays.md) (1) · [Hashing](../topics/hashing.md) (1)
+**Asks about:** [DP](../topics/dp.md) 1 · [Arrays](../topics/arrays.md) 1 · [Hashing](../topics/hashing.md) 1  
+**Seen at:** IIT BHU
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-24 · IIT BHU · FTE](#2026-10-24--iit-bhu--fte) · 2 questions
+- [2026-10-24 · IIT BHU · FTE](#2026-10-24--iit-bhu--fte)
+  - [LIS-based problem](#q1-lis-based-problem)
+  - [Cache hashing problem](#q2-cache-hashing-problem)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

@@ -1,20 +1,28 @@
 # MyGate
 
-**8 questions** from 5 OA drives · seen at IIT BHU, IIT Delhi, IIT Guwahati · latest 2026-10-15
+**8 questions** · 5 drives · latest 15 Oct 2026 · [7 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Math](../topics/math.md) (4) · [Arrays](../topics/arrays.md) (4) · [Sliding Window](../topics/sliding-window.md) (3) · [Greedy](../topics/greedy.md) (2) · [Stack/Queue](../topics/stack-queue.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Strings](../topics/strings.md) (1) · [Hashing](../topics/hashing.md) (1) · [OA Format](../topics/oa-format.md) (1) · [Trees](../topics/trees.md) (1) · [Graphs](../topics/graphs.md) (1) · [Heaps](../topics/heaps.md) (1)
+**Asks about:** [Math](../topics/math.md) 4 · [Arrays](../topics/arrays.md) 4 · [Sliding Window](../topics/sliding-window.md) 3 · [Greedy](../topics/greedy.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · [Strings](../topics/strings.md) 1 · [Hashing](../topics/hashing.md) 1 · +4 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati
 
-**LeetCode matches:** 7 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-15 · IIT Guwahati · FTE](#2026-10-15--iit-guwahati--fte)
+  - [Sliding Window Maximum (LeetCode 239)](#q1-sliding-window-maximum-leetcode-239)
+- [2026-10-13 · IIT Delhi · FTE](#2026-10-13--iit-delhi--fte)
+  - [Longest Substring Without Repeating Characters (LeetCode 3)](#q1-longest-substring-without-repeating-characters-leetcode-3)
+  - [7 DSA MCQs](#q2-7-dsa-mcqs)
+- [2026-10-13 · IIT BHU · FTE](#2026-10-13--iit-bhu--fte)
+  - [Missing Number (LeetCode 268)](#q1-missing-number-leetcode-268)
+- [2026-10-12 · IIT Guwahati · FTE](#2026-10-12--iit-guwahati--fte)
+  - [Missing Number](#q1-missing-number)
+  - [Sliding Window Maximum](#q2-sliding-window-maximum)
+  - [Minimum Replacements to Sort the Array](#q3-minimum-replacements-to-sort-the-array)
+- [2026-10-11 · IIT Guwahati · FTE](#2026-10-11--iit-guwahati--fte)
+  - [Minimum Replacements to Sort the Array](#q1-minimum-replacements-to-sort-the-array)
 
-- [2026-10-15 · IIT Guwahati · FTE](#2026-10-15--iit-guwahati--fte) · 1 question
-- [2026-10-13 · IIT Delhi · FTE](#2026-10-13--iit-delhi--fte) · 2 questions
-- [2026-10-13 · IIT BHU · FTE](#2026-10-13--iit-bhu--fte) · 1 question
-- [2026-10-12 · IIT Guwahati · FTE](#2026-10-12--iit-guwahati--fte) · 3 questions
-- [2026-10-11 · IIT Guwahati · FTE](#2026-10-11--iit-guwahati--fte) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

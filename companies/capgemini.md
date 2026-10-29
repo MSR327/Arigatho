@@ -1,17 +1,25 @@
 # Capgemini
 
-**8 questions** from 2 OA drives · seen at IIT Delhi, NIT Trichy · latest 2026-10-20
+**8 questions** · 2 drives · latest 20 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Strings](../topics/strings.md) (2) · [Web Dev](../topics/web-dev.md) (2) · [OA Format](../topics/oa-format.md) (2) · [Arrays](../topics/arrays.md) (2) · [Greedy](../topics/greedy.md) (1) · [ML/AI](../topics/ml-ai.md) (1) · [Hashing](../topics/hashing.md) (1)
+**Asks about:** [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1  
+**Seen at:** IIT Delhi, NIT Trichy
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-20 · IIT Delhi · FTE · SDE](#2026-10-20--iit-delhi--fte--sde)
+  - [Capgemini 16 LPA SDE OA format (Round 3)](#q1-capgemini-16-lpa-sde-oa-format-round-3)
+  - [Run-length compression of a string](#q2-run-length-compression-of-a-string)
+  - [Spiral matrix traversal](#q3-spiral-matrix-traversal)
+  - [Frequency of each integer in an array](#q4-frequency-of-each-integer-in-an-array)
+- [2026-09-24 · NIT Trichy · FTE](#2026-09-24--nit-trichy--fte)
+  - [Cost of moving all 1s to the end](#q1-cost-of-moving-all-1s-to-the-end)
+  - [Debugging: React search bar](#q2-debugging-react-search-bar)
+  - [Prompting section](#q3-prompting-section)
+  - [Feature development: React forms](#q4-feature-development-react-forms)
 
-- [2026-10-20 · IIT Delhi · FTE · SDE](#2026-10-20--iit-delhi--fte--sde) · 4 questions
-- [2026-09-24 · NIT Trichy · FTE](#2026-09-24--nit-trichy--fte) · 4 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

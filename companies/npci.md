@@ -1,15 +1,19 @@
 # NPCI
 
-**2 questions** from 2 OA drives · seen at IIT BHU, IIT Jodhpur · latest 2026-10-23
+**2 questions** · 2 drives · latest 23 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [Graphs](../topics/graphs.md) (1) · [Greedy](../topics/greedy.md) (1) · [OA Format](../topics/oa-format.md) (1) · [Aptitude](../topics/aptitude.md) (1)
+**Asks about:** [Graphs](../topics/graphs.md) 1 · [Greedy](../topics/greedy.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Aptitude](../topics/aptitude.md) 1  
+**Seen at:** IIT BHU, IIT Jodhpur
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-23 · IIT Jodhpur · FTE](#2026-10-23--iit-jodhpur--fte) · 1 question
-- [2026-10-18 · IIT BHU · FTE](#2026-10-18--iit-bhu--fte) · 1 question
+- [2026-10-23 · IIT Jodhpur · FTE](#2026-10-23--iit-jodhpur--fte)
+  - [NPCI OA aptitude round](#q1-npci-oa-aptitude-round)
+- [2026-10-18 · IIT BHU · FTE](#2026-10-18--iit-bhu--fte)
+  - [Rogue Packet Filters](#q1-rogue-packet-filters)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

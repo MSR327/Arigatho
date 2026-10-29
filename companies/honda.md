@@ -1,19 +1,33 @@
 # Honda
 
-**14 questions** from 4 OA drives · seen at IIT Delhi, IIT Hyderabad, IIT Madras, VIT Vellore · latest 2026-10-17
+**14 questions** · 4 drives · latest 17 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Arrays](../topics/arrays.md) (6) · [Math](../topics/math.md) (4) · [DP](../topics/dp.md) (4) · [Hashing](../topics/hashing.md) (2) · [Graphs](../topics/graphs.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Two Pointers](../topics/two-pointers.md) (1) · [Sorting](../topics/sorting.md) (1) · [Other](../topics/other.md) (1)
+**Asks about:** [Arrays](../topics/arrays.md) 6 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Hashing](../topics/hashing.md) 2 · [Graphs](../topics/graphs.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · [Two Pointers](../topics/two-pointers.md) 1 · [Sorting](../topics/sorting.md) 1 · +1 more  
+**Seen at:** IIT Delhi, IIT Hyderabad, IIT Madras, VIT Vellore
 
-**LeetCode matches:** 3 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-17 · IIT Madras · FTE](#2026-10-17--iit-madras--fte)
+  - [Square with minimum area enclosing k points](#q1-square-with-minimum-area-enclosing-k-points)
+  - [FactSet photo album](#q2-factset-photo-album)
+- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte)
+  - [Bitwise Recurrence](#q1-bitwise-recurrence)
+  - [Maximum Gross Value of Any Valid Triple](#q2-maximum-gross-value-of-any-valid-triple)
+  - [Bitwise Recurrence](#q3-bitwise-recurrence)
+  - [Maximum Gross Value of Any Valid Triple](#q4-maximum-gross-value-of-any-valid-triple)
+- [2026-10-09 · VIT Vellore · FTE](#2026-10-09--vit-vellore--fte)
+  - [Maximum GCD of Any Pair](#q1-maximum-gcd-of-any-pair)
+  - [Unique Pairs with Target Sum](#q2-unique-pairs-with-target-sum)
+  - [Maximum Jumps to Reach the Last Index](#q3-maximum-jumps-to-reach-the-last-index)
+  - [Remove Suspicious Nodes from a Directed Graph](#q4-remove-suspicious-nodes-from-a-directed-graph)
+- [2026-10-09 · IIT Hyderabad · FTE](#2026-10-09--iit-hyderabad--fte)
+  - [Maximum GCD of any pair](#q1-maximum-gcd-of-any-pair-1)
+  - [Unique pairs with target sum](#q2-unique-pairs-with-target-sum-1)
+  - [Maximum jumps to reach the last stone](#q3-maximum-jumps-to-reach-the-last-stone)
+  - [Remove suspicious nodes from a directed graph](#q4-remove-suspicious-nodes-from-a-directed-graph-1)
 
-- [2026-10-17 · IIT Madras · FTE](#2026-10-17--iit-madras--fte) · 2 questions
-- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 4 questions
-- [2026-10-09 · VIT Vellore · FTE](#2026-10-09--vit-vellore--fte) · 4 questions
-- [2026-10-09 · IIT Hyderabad · FTE](#2026-10-09--iit-hyderabad--fte) · 4 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

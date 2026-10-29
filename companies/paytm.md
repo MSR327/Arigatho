@@ -1,18 +1,32 @@
 # Paytm
 
-**14 questions** from 3 OA drives · seen at BIT Mesra, BITS Pilani, Unknown · latest 2026-10-25
+**14 questions** · 3 drives · latest 25 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Strings](../topics/strings.md) (3) · [OA Format](../topics/oa-format.md) (3) · [Linked List](../topics/linked-list.md) (2) · [Two Pointers](../topics/two-pointers.md) (2) · [OOP](../topics/oop.md) (2) · [SQL](../topics/sql.md) (1) · [Other](../topics/other.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Arrays](../topics/arrays.md) (1) · [Trees](../topics/trees.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Math](../topics/math.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1)
+**Asks about:** [Strings](../topics/strings.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · [SQL](../topics/sql.md) 1 · [Other](../topics/other.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · +6 more  
+**Seen at:** BIT Mesra, BITS Pilani
 
-**LeetCode matches:** 4 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-25 · BITS Pilani · FTE](#2026-10-25--bits-pilani--fte)
+  - [Number of Steps to Reduce a Number in Binary Representation to One (LC 1404)](#q1-number-of-steps-to-reduce-a-number-in-binary-representation-to-one-lc-1404)
+- [2026-10-22 · BIT Mesra · FTE](#2026-10-22--bit-mesra--fte)
+  - [List Customer and Product Without Sale](#q1-list-customer-and-product-without-sale)
+  - [Bank Transactions](#q2-bank-transactions)
+- [2026-09-21 · Unknown · Unknown · Other round](#2026-09-21--unknown--unknown--other-round)
+  - [OA format: 3 coding tasks and 2 SQL queries](#q1-oa-format-3-coding-tasks-and-2-sql-queries)
+  - [Convert numbers to words](#q2-convert-numbers-to-words)
+  - [Java threading, OS synchronization and project scalability](#q3-java-threading-os-synchronization-and-project-scalability)
+  - [OA format: 1-hour HackerRank test](#q4-oa-format-1-hour-hackerrank-test)
+  - [OA format: 3 coding tasks in 70 minutes](#q5-oa-format-3-coding-tasks-in-70-minutes)
+  - [Next greater element](#q6-next-greater-element)
+  - [Linked list cycle detection](#q7-linked-list-cycle-detection)
+  - [Java streams, lambdas and garbage collection](#q8-java-streams-lambdas-and-garbage-collection)
+  - [Build BST from sorted data](#q9-build-bst-from-sorted-data)
+  - [Linked list deletion variant](#q10-linked-list-deletion-variant)
+  - [Palindrome check](#q11-palindrome-check)
 
-- [2026-10-25 · BITS Pilani · FTE](#2026-10-25--bits-pilani--fte) · 1 question
-- [2026-10-22 · BIT Mesra · FTE](#2026-10-22--bit-mesra--fte) · 2 questions
-- [2026-09-21 · Unknown · Unknown · Other round](#2026-09-21--unknown--unknown--other-round) · 11 questions
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

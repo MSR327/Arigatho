@@ -1,14 +1,17 @@
 # HP
 
-**1 question** from 1 OA drive · seen at VNIT Nagpur · latest 2026-10-29
+**1 question** · 1 drive · latest 29 Oct 2026 · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 1  
+**Seen at:** VNIT Nagpur
 
-**Drives:**
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-29 · VNIT Nagpur · FTE · AI & Full Stack](#2026-10-29--vnit-nagpur--fte--ai--full-stack) · 1 question
+- [2026-10-29 · VNIT Nagpur · FTE · AI & Full Stack](#2026-10-29--vnit-nagpur--fte--ai--full-stack)
+  - [HP OA pattern](#q1-hp-oa-pattern)
 
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

@@ -1,27 +1,50 @@
 # Tredence
 
-**23 questions** from 12 OA drives · seen at IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad, Unknown, VIT Vellore, VNIT Nagpur · latest 2026-10-28
+**23 questions** · 12 drives · latest 28 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [OA Format](../topics/oa-format.md) (11) · [SQL](../topics/sql.md) (5) · [Python & Pandas](../topics/python-pandas.md) (4) · [Hashing](../topics/hashing.md) (3) · [Graphs](../topics/graphs.md) (3) · [ML/AI](../topics/ml-ai.md) (3) · [Verbal](../topics/verbal.md) (2) · [Arrays](../topics/arrays.md) (1) · [OOP](../topics/oop.md) (1) · [DP](../topics/dp.md) (1) · [Strings](../topics/strings.md) (1) · [Aptitude](../topics/aptitude.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1) · [Linked List](../topics/linked-list.md) (1)
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [SQL](../topics/sql.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · [Graphs](../topics/graphs.md) 3 · [ML/AI](../topics/ml-ai.md) 3 · [Verbal](../topics/verbal.md) 2 · [Arrays](../topics/arrays.md) 1 · +6 more  
+**Seen at:** IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad, VIT Vellore, VNIT Nagpur
 
-**LeetCode matches:** 2 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-28 · IIT Hyderabad · FTE](#2026-10-28--iit-hyderabad--fte)
+  - [Tredence OA pattern: DSA, SQL, MCQ](#q1-tredence-oa-pattern-dsa-sql-mcq)
+  - [Python data cleaning and dataset summary function](#q2-python-data-cleaning-and-dataset-summary-function)
+- [2026-10-28 · IIT Hyderabad · FTE · Other round](#2026-10-28--iit-hyderabad--fte--other-round)
+  - [Tredence communication round format](#q1-tredence-communication-round-format)
+  - [Tredence communication round format](#q2-tredence-communication-round-format)
+- [2026-10-26 · Unknown · FTE](#2026-10-26--unknown--fte)
+  - [Tredence OA pattern](#q1-tredence-oa-pattern)
+  - [Fill in blanks in data cleaning snippet](#q2-fill-in-blanks-in-data-cleaning-snippet)
+  - [Dataset summary function](#q3-dataset-summary-function)
+- [2026-10-23 · IIT Dhanbad · FTE · Associate Data Scientist](#2026-10-23--iit-dhanbad--fte--associate-data-scientist)
+  - [OA format: 20 MCQs, 1 coding, 1 SQL](#q1-oa-format-20-mcqs-1-coding-1-sql)
+  - [BFS minimum distance from start to destination node](#q2-bfs-minimum-distance-from-start-to-destination-node)
+  - [SQL: high speed trains](#q3-sql-high-speed-trains)
+- [2026-10-14 · VNIT Nagpur · FTE · Data Engineer](#2026-10-14--vnit-nagpur--fte--data-engineer)
+  - [OA and interview process description](#q1-oa-and-interview-process-description)
+  - [LRU cache](#q2-lru-cache)
+- [2026-10-02 · IIT Dhanbad · FTE · Analyst](#2026-10-02--iit-dhanbad--fte--analyst)
+  - [Autocorrect using Levenshtein distance](#q1-autocorrect-using-levenshtein-distance)
+  - [SQL mid-level using sort operations](#q2-sql-mid-level-using-sort-operations)
+- [2026-09-30 · MNNIT Allahabad · FTE · Analyst](#2026-09-30--mnnit-allahabad--fte--analyst)
+  - [Unique pairs in array with absolute difference d](#q1-unique-pairs-in-array-with-absolute-difference-d)
+  - [SQL: join three tables with category conditions](#q2-sql-join-three-tables-with-category-conditions)
+  - [OA format and OOPs MCQs](#q3-oa-format-and-oops-mcqs)
+- [2026-09-24 · MNNIT Allahabad · FTE · Analyst](#2026-09-24--mnnit-allahabad--fte--analyst)
+  - [Tredence OA format](#q1-tredence-oa-format)
+- [2026-09-22 · VIT Vellore · FTE · Analyst](#2026-09-22--vit-vellore--fte--analyst)
+  - [Tredence analyst OA format](#q1-tredence-analyst-oa-format)
+- [2026-09-21 · Unknown · FTE · Data Analyst](#2026-09-21--unknown--fte--data-analyst)
+  - [Data Analyst assessment format (HackerEarth + Mettl)](#q1-data-analyst-assessment-format-hackerearth--mettl)
+- [2026-09-21 · Unknown · FTE · Data Engineer · Interview](#2026-09-21--unknown--fte--data-engineer--interview)
+  - [Data Engineer interview topics](#q1-data-engineer-interview-topics)
+  - [Dijkstra's limits with negative edges](#q2-dijkstras-limits-with-negative-edges)
+- [2026-09-21 · Unknown · Intern · Interview](#2026-09-21--unknown--intern--interview)
+  - [Intern interview topics](#q1-intern-interview-topics)
 
-- [2026-10-28 · IIT Hyderabad · FTE](#2026-10-28--iit-hyderabad--fte) · 2 questions
-- [2026-10-28 · IIT Hyderabad · FTE · Other round](#2026-10-28--iit-hyderabad--fte--other-round) · 2 questions
-- [2026-10-26 · Unknown · FTE](#2026-10-26--unknown--fte) · 3 questions
-- [2026-10-23 · IIT Dhanbad · FTE · Associate Data Scientist](#2026-10-23--iit-dhanbad--fte--associate-data-scientist) · 3 questions
-- [2026-10-14 · VNIT Nagpur · FTE · Data Engineer](#2026-10-14--vnit-nagpur--fte--data-engineer) · 2 questions
-- [2026-10-02 · IIT Dhanbad · FTE · Analyst](#2026-10-02--iit-dhanbad--fte--analyst) · 2 questions
-- [2026-09-30 · MNNIT Allahabad · FTE · Analyst](#2026-09-30--mnnit-allahabad--fte--analyst) · 3 questions
-- [2026-09-24 · MNNIT Allahabad · FTE · Analyst](#2026-09-24--mnnit-allahabad--fte--analyst) · 1 question
-- [2026-09-22 · VIT Vellore · FTE · Analyst](#2026-09-22--vit-vellore--fte--analyst) · 1 question
-- [2026-09-21 · Unknown · FTE · Data Analyst](#2026-09-21--unknown--fte--data-analyst) · 1 question
-- [2026-09-21 · Unknown · FTE · Data Engineer · Interview](#2026-09-21--unknown--fte--data-engineer--interview) · 2 questions
-- [2026-09-21 · Unknown · Intern · Interview](#2026-09-21--unknown--intern--interview) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

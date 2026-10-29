@@ -1,18 +1,26 @@
 # NxtWave
 
-**8 questions** from 3 OA drives · seen at IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur · latest 2026-10-12
+**8 questions** · 3 drives · latest 12 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Arrays](../topics/arrays.md) (4) · [OA Format](../topics/oa-format.md) (2) · [Graphs](../topics/graphs.md) (2) · [Hashing](../topics/hashing.md) (2) · [Strings](../topics/strings.md) (2) · [Sliding Window](../topics/sliding-window.md) (2) · [DP](../topics/dp.md) (1) · [Binary Search](../topics/binary-search.md) (1)
+**Asks about:** [Arrays](../topics/arrays.md) 4 · [OA Format](../topics/oa-format.md) 2 · [Graphs](../topics/graphs.md) 2 · [Hashing](../topics/hashing.md) 2 · [Strings](../topics/strings.md) 2 · [Sliding Window](../topics/sliding-window.md) 2 · [DP](../topics/dp.md) 1 · [Binary Search](../topics/binary-search.md) 1  
+**Seen at:** IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur
 
-**LeetCode matches:** 1 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-12 · IIT Guwahati · Intern](#2026-10-12--iit-guwahati--intern)
+  - [NxtWave combined assessment format and questions](#q1-nxtwave-combined-assessment-format-and-questions)
+- [2026-10-12 · IIT Delhi · Intern](#2026-10-12--iit-delhi--intern)
+  - [Longest subarray with sum K](#q1-longest-subarray-with-sum-k)
+  - [First non-repeating character](#q2-first-non-repeating-character)
+  - [Maximum sum subarray of size K](#q3-maximum-sum-subarray-of-size-k)
+  - [First element >= X in sorted array](#q4-first-element--x-in-sorted-array)
+  - [Longest substring without repeating characters](#q5-longest-substring-without-repeating-characters)
+  - [Matrix/traversal problems](#q6-matrixtraversal-problems)
+- [2026-10-03 · IIT Kharagpur/Kanpur · FTE](#2026-10-03--iit-kharagpurkanpur--fte)
+  - [NxtWave OA coding topic](#q1-nxtwave-oa-coding-topic)
 
-- [2026-10-12 · IIT Guwahati · Intern](#2026-10-12--iit-guwahati--intern) · 1 question
-- [2026-10-12 · IIT Delhi · Intern](#2026-10-12--iit-delhi--intern) · 6 questions
-- [2026-10-03 · IIT Kharagpur/Kanpur · FTE](#2026-10-03--iit-kharagpurkanpur--fte) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

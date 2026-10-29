@@ -1,17 +1,21 @@
 # Capital One
 
-**4 questions** from 2 OA drives · seen at IIT BHU, IIT Bombay · latest 2026-10-26
+**4 questions** · 2 drives · latest 26 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Math](../topics/math.md) (2) · [OA Format](../topics/oa-format.md) (1) · [Graphs](../topics/graphs.md) (1) · [Sliding Window](../topics/sliding-window.md) (1) · [Heaps](../topics/heaps.md) (1) · [Arrays](../topics/arrays.md) (1)
+**Asks about:** [Math](../topics/math.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Graphs](../topics/graphs.md) 1 · [Sliding Window](../topics/sliding-window.md) 1 · [Heaps](../topics/heaps.md) 1 · [Arrays](../topics/arrays.md) 1  
+**Seen at:** IIT BHU, IIT Bombay
 
-**LeetCode matches:** 3 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-26 · IIT Bombay · FTE](#2026-10-26--iit-bombay--fte)
+  - [Digit Operations to Make Two Integers Equal](#q1-digit-operations-to-make-two-integers-equal)
+  - [Longest subarray with absolute difference within limit](#q2-longest-subarray-with-absolute-difference-within-limit)
+  - [Erect the Fence](#q3-erect-the-fence)
+- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte)
+  - [OA pattern: 4 coding questions](#q1-oa-pattern-4-coding-questions)
 
-- [2026-10-26 · IIT Bombay · FTE](#2026-10-26--iit-bombay--fte) · 3 questions
-- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 

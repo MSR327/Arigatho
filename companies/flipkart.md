@@ -1,24 +1,48 @@
 # Flipkart
 
-**24 questions** from 9 OA drives · seen at BITS Pilani, IIT BHU, IIT Delhi, MNNIT Allahabad · latest 2026-10-28
+**24 questions** · 9 drives · latest 28 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Topics:** [Graphs](../topics/graphs.md) (6) · [OA Format](../topics/oa-format.md) (6) · [Math](../topics/math.md) (5) · [Strings](../topics/strings.md) (4) · [DP](../topics/dp.md) (4) · [Arrays](../topics/arrays.md) (3) · [Greedy](../topics/greedy.md) (2) · [Sorting](../topics/sorting.md) (2) · [SQL](../topics/sql.md) (2) · [Trees](../topics/trees.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Binary Search](../topics/binary-search.md) (1)
+**Asks about:** [Graphs](../topics/graphs.md) 6 · [OA Format](../topics/oa-format.md) 6 · [Math](../topics/math.md) 5 · [Strings](../topics/strings.md) 4 · [DP](../topics/dp.md) 4 · [Arrays](../topics/arrays.md) 3 · [Greedy](../topics/greedy.md) 2 · [Sorting](../topics/sorting.md) 2 · +4 more  
+**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, MNNIT Allahabad
 
-**LeetCode matches:** 2 (see the [practice list](../practice.md))
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
 
-**Drives:**
+- [2026-10-28 · IIT BHU · FTE · AI Engineer](#2026-10-28--iit-bhu--fte--ai-engineer)
+  - [Flipkart AI Engineer OA pattern](#q1-flipkart-ai-engineer-oa-pattern)
+- [2026-10-28 · BITS Pilani · FTE · AI Engineer](#2026-10-28--bits-pilani--fte--ai-engineer)
+  - [Flipkart AI Engineer OA pattern](#q1-flipkart-ai-engineer-oa-pattern-1)
+  - [Flipkart AI Engineer OA pattern](#q2-flipkart-ai-engineer-oa-pattern)
+- [2026-10-27 · IIT BHU · FTE · AI Engineer](#2026-10-27--iit-bhu--fte--ai-engineer)
+  - [Flipkart AI Engineer OA format](#q1-flipkart-ai-engineer-oa-format)
+- [2026-10-24 · IIT Delhi · FTE](#2026-10-24--iit-delhi--fte)
+  - [ASCII Digit Checksum](#q1-ascii-digit-checksum)
+  - [Balanced-Parity Category Nodes](#q2-balanced-parity-category-nodes)
+  - [Service Engineer (minimum days to finish all servicing)](#q3-service-engineer-minimum-days-to-finish-all-servicing)
+- [2026-10-24 · IIT Delhi · FTE · AI Engineer](#2026-10-24--iit-delhi--fte--ai-engineer)
+  - [Count nodes by odd/even subtree sums in a binary tree](#q1-count-nodes-by-oddeven-subtree-sums-in-a-binary-tree)
+  - [Replace each character by digit sum of its ASCII value](#q2-replace-each-character-by-digit-sum-of-its-ascii-value)
+  - [Bitmask DP on a 2D grid visiting all checkpoints with minimum distance](#q3-bitmask-dp-on-a-2d-grid-visiting-all-checkpoints-with-minimum-distance)
+  - [Test format: 3 basic DSA questions](#q4-test-format-3-basic-dsa-questions)
+- [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte)
+  - [Chef And A Complete Graph](#q1-chef-and-a-complete-graph)
+- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte)
+  - [ASCII Sum Digit-Sum to Character](#q1-ascii-sum-digit-sum-to-character)
+  - [Max Distance from Non-Celebrating House to Celebrating House](#q2-max-distance-from-non-celebrating-house-to-celebrating-house)
+  - [Count Graphs on n Nodes with k Components mod m](#q3-count-graphs-on-n-nodes-with-k-components-mod-m)
+  - [SQL Left Join Question](#q4-sql-left-join-question)
+- [2026-10-18 · IIT BHU · FTE · Data Engineer](#2026-10-18--iit-bhu--fte--data-engineer)
+  - [OA format](#q1-oa-format)
+  - [Distribute n distinct objects into k identical bags](#q2-distribute-n-distinct-objects-into-k-identical-bags)
+  - [Subgraphs](#q3-subgraphs)
+  - [KCONNECT (CodeChef)](#q4-kconnect-codechef)
+  - [Maximise the minimum distance for M boxes in N positions](#q5-maximise-the-minimum-distance-for-m-boxes-in-n-positions)
+  - [Sorted word position differences and letter (string simulation)](#q6-sorted-word-position-differences-and-letter-string-simulation)
+  - [SQL: average salary for Finance in Acme Corp with two JOINs](#q7-sql-average-salary-for-finance-in-acme-corp-with-two-joins)
+- [2026-10-15 · MNNIT Allahabad · FTE](#2026-10-15--mnnit-allahabad--fte)
+  - [Partition Seller Reviews into K Batches (Minimize Max Batch Sum)](#q1-partition-seller-reviews-into-k-batches-minimize-max-batch-sum)
 
-- [2026-10-28 · IIT BHU · FTE · AI Engineer](#2026-10-28--iit-bhu--fte--ai-engineer) · 1 question
-- [2026-10-28 · BITS Pilani · FTE · AI Engineer](#2026-10-28--bits-pilani--fte--ai-engineer) · 2 questions
-- [2026-10-27 · IIT BHU · FTE · AI Engineer](#2026-10-27--iit-bhu--fte--ai-engineer) · 1 question
-- [2026-10-24 · IIT Delhi · FTE](#2026-10-24--iit-delhi--fte) · 3 questions
-- [2026-10-24 · IIT Delhi · FTE · AI Engineer](#2026-10-24--iit-delhi--fte--ai-engineer) · 4 questions
-- [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte) · 1 question
-- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 4 questions
-- [2026-10-18 · IIT BHU · FTE · Data Engineer](#2026-10-18--iit-bhu--fte--data-engineer) · 7 questions
-- [2026-10-15 · MNNIT Allahabad · FTE](#2026-10-15--mnnit-allahabad--fte) · 1 question
-
-[← all companies](../README.md#companies)
+</details>
 
 ---
 
