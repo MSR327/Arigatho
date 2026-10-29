@@ -1,8 +1,8 @@
 # Blinkit
 
-**5 questions** · 3 drives · latest 25 Sep 2026 · [← all companies](../README.md#companies)
+**4 questions** · 2 drives · latest 25 Sep 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Software Engineering](../topics/software-engineering.md) 2 · [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Hashing](../topics/hashing.md) 1 · [Web Dev](../topics/web-dev.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [OOP](../topics/oop.md) 1 · [SQL](../topics/sql.md) 1 · +2 more  
+**Asks about:** [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Web Dev](../topics/web-dev.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [OOP](../topics/oop.md) 1 · [SQL](../topics/sql.md) 1 · +2 more  
 **Seen at:** NIT Trichy
 
 <details>
@@ -10,8 +10,6 @@
 
 - [2026-09-25 · NIT Trichy · FTE](#2026-09-25--nit-trichy--fte)
   - [Excel data analysis: AOV, CVR, GMV, CAC](#q1-excel-data-analysis-aov-cvr-gmv-cac)
-- [2026-09-22 · NIT Trichy · FTE · Interview](#2026-09-22--nit-trichy--fte--interview)
-  - [Delivery tracking system design](#q1-delivery-tracking-system-design)
 - [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview)
   - [Binary tree path-sum variants](#q1-binary-tree-path-sum-variants)
   - [Design live delivery tracking](#q2-design-live-delivery-tracking)
@@ -30,14 +28,6 @@ The company visited campus. Candidates were given an Excel sheet with a lot of d
 The exact questions were not remembered.
 
 <sub>Topics: OA Format, Finance · Source: [chat, 25 Sep](../archive/blinkit-oa/2026-09.jsonl#L8), [chat, 6 Oct](../archive/blinkit-oa/2026-10.jsonl#L4), [Dataset - WestEnd Theatre assignment (1).xlsx](../archive/files/3419-Dataset_-_WestEnd_Theatre_assignment_1_.xlsx), [chat, 6 Oct](../archive/blinkit-oa/2026-10.jsonl#L6), [chat, 6 Oct](../archive/blinkit-oa/2026-10.jsonl#L7), [chat, 6 Oct](../archive/blinkit-oa/2026-10.jsonl#L8)</sub>
-
-## 2026-09-22 · NIT Trichy · FTE · Interview
-
-### Q1. Delivery tracking system design
-
-Heard that the interview asks a design question of the delivery tracking type. The exact question is not given.
-
-<sub>Topics: Software Engineering · Source: [chat, 22 Sep](../archive/blinkit-oa/2026-09.jsonl#L4)</sub>
 
 ## 2026-09-21 · Unknown · FTE · SDE-1 · Interview
 
@@ -62,7 +52,7 @@ Design exercise on live delivery tracking. The candidate proposed RabbitMQ but r
 
 (Full problem statement was not given in the source.)
 
-<sub>Topics: Software Engineering, Web Dev · Source: [chat, 21 Sep](../archive/blinkit-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Software Engineering, Web Dev · Source: [chat, 21 Sep](../archive/blinkit-oa/2026-09.jsonl#L1) · Also asked at: NIT Trichy (2026-09-22)</sub>
 
 ### Q3. OOP, OS, DBMS, SQL and backend questions
 

@@ -1,15 +1,13 @@
 # Squarepoint
 
-**62 questions** · 30 drives · latest 21 Oct 2026 · [5 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**54 questions** · 25 drives · latest 21 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 12 · [Hashing](../topics/hashing.md) 10 · [Strings](../topics/strings.md) 8 · [Graphs](../topics/graphs.md) 7 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 7 · [Greedy](../topics/greedy.md) 7 · [Sorting](../topics/sorting.md) 6 · +15 more  
+**Asks about:** [Arrays](../topics/arrays.md) 11 · [Hashing](../topics/hashing.md) 10 · [OA Format](../topics/oa-format.md) 8 · [Strings](../topics/strings.md) 7 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 7 · [Greedy](../topics/greedy.md) 7 · [Graphs](../topics/graphs.md) 6 · [Sorting](../topics/sorting.md) 5 · +15 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-21 · IIT BHU · FTE · Interview](#2026-10-21--iit-bhu--fte--interview)
-  - [Squarepoint interview process at BHU](#q1-squarepoint-interview-process-at-bhu)
 - [2026-10-19 · IIT Madras · FTE · SDE (Python) · Interview](#2026-10-19--iit-madras--fte--sde-python--interview)
   - [Python SDE buddy rounds format](#q1-python-sde-buddy-rounds-format)
 - [2026-10-15 · IIT Roorkee · FTE · SDE (Python)](#2026-10-15--iit-roorkee--fte--sde-python)
@@ -23,8 +21,6 @@
   - [Text Editor](#q1-text-editor)
 - [2026-10-08 · IIT BHU · FTE](#2026-10-08--iit-bhu--fte)
   - [OA format: bash and bug fix rounds](#q1-oa-format-bash-and-bug-fix-rounds)
-- [2026-10-07 · IIT Kharagpur · FTE](#2026-10-07--iit-kharagpur--fte)
-  - [Sum of i%j + j%i over all pairs](#q1-sum-of-ij--ji-over-all-pairs)
 - [2026-10-05 · IIT Roorkee · FTE · SDE](#2026-10-05--iit-roorkee--fte--sde)
   - [Stable Subarray (LeetCode 3728)](#q1-stable-subarray-leetcode-3728)
   - [Trading Problem](#q2-trading-problem)
@@ -54,25 +50,21 @@
   - [Docker initialization task](#q10-docker-initialization-task)
 - [2026-10-04 · IIT Roorkee · FTE](#2026-10-04--iit-roorkee--fte)
   - [Trade Packet Correction](#q1-trade-packet-correction)
-- [2026-10-04 · IIT Roorkee · FTE · Infrastructure / SDE / DQA](#2026-10-04--iit-roorkee--fte--infrastructure--sde--dqa)
-  - [IITR OA format by role](#q1-iitr-oa-format-by-role)
 - [2026-10-02 · IIT Roorkee · FTE](#2026-10-02--iit-roorkee--fte)
   - [Get Node To Remove (Flexport problem on FastPrep)](#q1-get-node-to-remove-flexport-problem-on-fastprep)
 - [2026-10-02 · IIT Kharagpur/Kanpur · FTE](#2026-10-02--iit-kharagpurkanpur--fte)
   - [Search Suggestions System](#q1-search-suggestions-system)
 - [2026-09-30 · IIT BHU · FTE · SDE (C++)](#2026-09-30--iit-bhu--fte--sde-c)
   - [Codeforces 895C (Square Subsets)](#q1-codeforces-895c-square-subsets)
-  - [AtCoder ABC206 D](#q2-atcoder-abc206-d)
-  - [Minimum cost to make array elements distinct](#q3-minimum-cost-to-make-array-elements-distinct)
-  - [Process queues with add, update, remove and print queries](#q4-process-queues-with-add-update-remove-and-print-queries)
+  - [Minimum cost to make array elements distinct](#q2-minimum-cost-to-make-array-elements-distinct)
+  - [Process queues with add, update, remove and print queries](#q3-process-queues-with-add-update-remove-and-print-queries)
 - [2026-09-29 · IIT BHU · FTE · SDE](#2026-09-29--iit-bhu--fte--sde)
   - [Tick Sizes: trim rules and next price increment](#q1-tick-sizes-trim-rules-and-next-price-increment)
-  - [Search suggestions system](#q2-search-suggestions-system)
-  - [Debugging: order book matching market participants](#q3-debugging-order-book-matching-market-participants)
-  - [URL Hashing](#q4-url-hashing)
-  - [Company Usernames](#q5-company-usernames)
-  - [Count special subarrays (product has odd number of divisors)](#q6-count-special-subarrays-product-has-odd-number-of-divisors)
-  - [Minimum Increase to Maximize Special Indices](#q7-minimum-increase-to-maximize-special-indices)
+  - [Debugging: order book matching market participants](#q2-debugging-order-book-matching-market-participants)
+  - [URL Hashing](#q3-url-hashing)
+  - [Company Usernames](#q4-company-usernames)
+  - [Count special subarrays (product has odd number of divisors)](#q5-count-special-subarrays-product-has-odd-number-of-divisors)
+  - [Minimum Increase to Maximize Special Indices](#q6-minimum-increase-to-maximize-special-indices)
 - [2026-09-29 · IIT BHU · FTE · Infrastructure](#2026-09-29--iit-bhu--fte--infrastructure)
   - [Infrastructure role OA format](#q1-infrastructure-role-oa-format)
 - [2026-09-29 · IIT BHU · FTE · Desk Quant Analyst](#2026-09-29--iit-bhu--fte--desk-quant-analyst)
@@ -80,7 +72,6 @@
 - [2026-09-26 · IIT Kanpur · FTE · SDE](#2026-09-26--iit-kanpur--fte--sde)
   - [Minimum operations to make array a palindrome](#q1-minimum-operations-to-make-array-a-palindrome)
   - [Page reading with I and S commands](#q2-page-reading-with-i-and-s-commands)
-  - [OA format: SDE role](#q3-oa-format-sde-role)
 - [2026-09-26 · IIT Kanpur · FTE · Quant](#2026-09-26--iit-kanpur--fte--quant)
   - [Minimum a+b to represent query value](#q1-minimum-ab-to-represent-query-value)
   - [Tag counting over strings with threshold](#q2-tag-counting-over-strings-with-threshold)
@@ -88,10 +79,6 @@
   - [OA format: Infra role](#q1-oa-format-infra-role)
 - [2026-09-25 · IIT BHU · FTE · Infrastructure Engineer](#2026-09-25--iit-bhu--fte--infrastructure-engineer)
   - [Squarepoint infrastructure OA content](#q1-squarepoint-infrastructure-oa-content)
-- [2026-09-22 · IIT Roorkee · FTE · Interview](#2026-09-22--iit-roorkee--fte--interview)
-  - [Squarepoint interview focus areas](#q1-squarepoint-interview-focus-areas)
-- [2026-09-22 · IIT Roorkee · FTE](#2026-09-22--iit-roorkee--fte)
-  - [Squarepoint OA format](#q1-squarepoint-oa-format)
 - [2026-09-21 · Unknown · FTE · Software Engineer](#2026-09-21--unknown--fte--software-engineer)
   - [Online test: two medium coding problems](#q1-online-test-two-medium-coding-problems)
 - [2026-09-21 · Unknown · FTE · Software Engineer · Interview](#2026-09-21--unknown--fte--software-engineer--interview)
@@ -105,21 +92,13 @@
 
 ---
 
-## 2026-10-21 · IIT BHU · FTE · Interview
-
-### Q1. Squarepoint interview process at BHU
-
-Interview content: resume discussion plus DSA questions. The process has 3 rounds, all of them buddy rounds, followed by a 4th round that is an offline HR round. The specific questions were not shared.
-
-<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/squarepoint-oa/2026-10.jsonl#L6), [chat, 21 Oct](../archive/squarepoint-oa/2026-10.jsonl#L10), [chat, 21 Oct](../archive/squarepoint-oa/2026-10.jsonl#L20), [chat, 21 Oct](../archive/squarepoint-oa/2026-10.jsonl#L21)</sub>
-
 ## 2026-10-19 · IIT Madras · FTE · SDE (Python) · Interview
 
 ### Q1. Python SDE buddy rounds format
 
 After the OA (held 9th October at IITM), shortlisted candidates go through the Python SDE buddy round: 3 eliminatory rounds, each an interview with a company employee of about 30-45 minutes (another student thinks about 1 hour each). These select the final candidates for interviews on 1st Dec. Question content was not shared.
 
-<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/squarepoint-oa/2026-10.jsonl#L89), [chat, 20 Oct](../archive/squarepoint-oa/2026-10.jsonl#L92)</sub>
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/squarepoint-oa/2026-10.jsonl#L89), [chat, 20 Oct](../archive/squarepoint-oa/2026-10.jsonl#L92) · Also asked at: IIT BHU (2026-10-21)</sub>
 
 ## 2026-10-15 · IIT Roorkee · FTE · SDE (Python)
 
@@ -147,7 +126,7 @@ Constraints: n ≤ 10^6.
 
 Hint from the sharer: C is symmetric, so f(n) = 2 × Σ (i mod j) over all pairs up to n; for a fixed j the sum can be computed with harmonic grouping or direct summation in O(n log n), instead of checking all pairs in O(n²).
 
-<sub>Topics: Math · Source: [SquarePoint_SDE_IITKGP (1).pdf](../archive/files/6947-SquarePoint_SDE_IITKGP_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L5)</sub>
+<sub>Topics: Math · Source: [SquarePoint_SDE_IITKGP (1).pdf](../archive/files/6947-SquarePoint_SDE_IITKGP_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L5) · Also asked at: IIT Kharagpur (2026-10-07)</sub>
 
 ### Q2. Tree Traversal Integrity (Valid BFS)
 
@@ -194,18 +173,6 @@ Constraints and examples were not given.
 Reply to a question about whether the OA has other rounds such as a bash round or a bug fix round: the poster confirmed these exist, and said the coding questions need just 2-5 lines of code.
 
 <sub>Topics: OA Format · Source: [chat, 6 Oct](../archive/squarepoint-oa/2026-10.jsonl#L118), [chat, 8 Oct](../archive/squarepoint-oa/2026-10.jsonl#L141)</sub>
-
-## 2026-10-07 · IIT Kharagpur · FTE
-
-### Q1. Sum of i%j + j%i over all pairs
-
-Given a function C(i,j) = i%j + j%i where i and j are integers, find the value of the function for an input n:
-
-f(n) = sum over i from 1 to n ( sum over j from 1 to n ( C(i,j) ) )
-
-Constraint: n <= 1e6
-
-<sub>Topics: Math · Source: [chat, 7 Oct](../archive/squarepoint-oa/2026-10.jsonl#L139)</sub>
 
 ## 2026-10-05 · IIT Roorkee · FTE · SDE
 
@@ -557,15 +524,6 @@ Expected solution: scan once to find packet boundaries, then group the simple tr
 
 <sub>Topics: Arrays, Hashing · Source: [chat, 4 Oct](../archive/inter-nit/2026-10.jsonl#L1046), [chat, 4 Oct](../archive/inter-nit/2026-10.jsonl#L1047)</sub>
 
-## 2026-10-04 · IIT Roorkee · FTE · Infrastructure / SDE / DQA
-
-### Q1. IITR OA format by role
-
-Infra: 1 Linux VM question, 1 DSA on trees (tough), 3 aptitude MCQs.
-SDE/DQA: both had 2 DSA questions.
-
-<sub>Topics: OA Format · Source: [chat, 4 Oct](../archive/squarepoint-oa/2026-10.jsonl#L102)</sub>
-
 ## 2026-10-02 · IIT Roorkee · FTE
 
 ### Q1. Get Node To Remove (Flexport problem on FastPrep)
@@ -580,7 +538,7 @@ One of the Squarepoint OA questions, reported as exactly the same as the FastPre
 
 Think of a search engine that has the vector `words` as its database. The string `search` is your current keyword. As you type the search word character by character, the search engine gives 3 suggestions whose prefixes match the current state of the search word, so you get a new recommendation list after each character typed. If more than three words in the database match the current prefix, return the three lexicographically smallest ones. If none match, return an empty list. Return the list of suggestion lists, one for each prefix of the search word.
 
-<sub>Topics: Strings, Sorting, Binary Search · Similar: [LeetCode 1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) (Medium) · Source: [chat, 2 Oct](../archive/inter-nit/2026-10.jsonl#L1164)</sub>
+<sub>Topics: Strings, Sorting, Binary Search · Similar: [LeetCode 1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) (Medium) · Source: [chat, 2 Oct](../archive/inter-nit/2026-10.jsonl#L1164) · Also asked at: IIT BHU (2026-09-29)</sub>
 
 ## 2026-09-30 · IIT BHU · FTE · SDE (C++)
 
@@ -590,19 +548,13 @@ SDE C++ OA, total 2 questions in 1 hour (4 problems listed by the poster across 
 
 <sub>Topics: Math, Bit Manipulation, DP · Source: [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L44), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L45), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L46), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L47)</sub>
 
-### Q2. AtCoder ABC206 D
-
-Problem: https://atcoder.jp/contests/abc206/tasks/abc206_d. Statement not transcribed. A related report describes it as: given an integer array arr, in one operation choose two different values x and y present in the array and replace all occurrences of x with y (or y with x); find the minimum number of operations (the rest of the statement was cut off).
-
-<sub>Topics: Graphs, Arrays · Source: [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L44), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L45), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L46), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L47)</sub>
-
-### Q3. Minimum cost to make array elements distinct
+### Q2. Minimum cost to make array elements distinct
 
 Given an array `nums` with n up to 1e5, and each nums[i] up to 1e9, and a `cost` array where cost[i] is the cost of adding +1 to the i-th element. At any step you can choose an index and add 1 to that element, which costs cost[i]. Return the minimum total cost to make all the elements in the array distinct.
 
 <sub>Topics: Greedy, Heaps, Sorting · Source: [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L44), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L45), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L46), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L47)</sub>
 
-### Q4. Process queues with add, update, remove and print queries
+### Q3. Process queues with add, update, remove and print queries
 
 Every process is defined by id and size, and there are multiple queues, every queue defined by qid. Multiple queries are given:
 
@@ -663,31 +615,7 @@ Sample Case 0 input is shown only as a low-resolution screenshot (not fully legi
 
 <sub>Topics: Arrays, Binary Search · Source: [Squarepoint_260929_172234.pdf](../archive/files/1830-Squarepoint_260929_172234.pdf), [Squarepoint-2_260929_172211.pdf](../archive/files/1831-Squarepoint-2_260929_172211.pdf)</sub>
 
-### Q2. Search suggestions system
-
-Input: vector of strings `words`, string `search`.
-
-Think of a search engine that has the `words` vector as its database. `search` is your current keyword. You start typing the search word and the search engine starts giving 3 suggestions whose prefixes match the current state of your search word. So, as you write the search word character by character, you get a new recommendation list suited for that. If there are more than three words in the database that are suited, return the three lexicographically smallest ones. If there are none, return an empty list.
-
-Output: a `vector<vector<string>>` which contains the recommendations for all characters being typed one by one.
-
-Example:
-
-```
-words: ["cart", "carpet", "carpool", "call"], search: carl
-
-output:
-[
-c: ["call", "carpet", "carpool"],
-ca: ["call", "carpet", "carpool"],
-car: ["carpet", "carpool", "cart"],
-carl: []
-]
-```
-
-<sub>Topics: Strings, Sorting, Binary Search · Similar: [LeetCode 1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) (Medium) · Source: [Squarepoint_260929_172234.pdf](../archive/files/1830-Squarepoint_260929_172234.pdf), [Squarepoint-2_260929_172211.pdf](../archive/files/1831-Squarepoint-2_260929_172211.pdf)</sub>
-
-### Q3. Debugging: order book matching market participants
+### Q2. Debugging: order book matching market participants
 
 Debugging exercise (HackerRank, C++). The code given implements a basic order book class, but has a few bugs. The code simulates the "market", i.e. the supply and demand at a given time in a trading venue. Buy orders and sell orders are matched: a buy order matches the lowest-priced sell order at a price <= the buy price; a sell order matches the highest-priced buy order at a price >= the sell price. Matched orders trade (partially or fully); an unmatched order is inserted into the book, aggregating with an existing order of the same side and price. Example from the statement: buyers willing to pay up to $10.5 per share while the best sell is $11, so no trade; a new sell/buy order that crosses causes a trade and the remaining quantity stays on the book.
 
@@ -697,7 +625,7 @@ The provided buggy code defines `struct Order {bool is_buy; int qty; double pric
 
 <sub>Topics: Software Engineering, Code Output (C/C++/Java/Python) · Source: [Squarepoint_260929_172234.pdf](../archive/files/1830-Squarepoint_260929_172234.pdf), [Squarepoint-2_260929_172211.pdf](../archive/files/1831-Squarepoint-2_260929_172211.pdf)</sub>
 
-### Q4. URL Hashing
+### Q3. URL Hashing
 
 Implement an algorithm to hash a URL as described.
 
@@ -726,7 +654,7 @@ Function: `getHashedURL(string url, string hash_string, int k)` returns a string
 
 <sub>Topics: Strings, Hashing · Source: [Squarepoint_260929_172234.pdf](../archive/files/1830-Squarepoint_260929_172234.pdf), [Squarepoint-2_260929_172211.pdf](../archive/files/1831-Squarepoint-2_260929_172211.pdf)</sub>
 
-### Q5. Company Usernames
+### Q4. Company Usernames
 
 When the Company hires new employees, it needs to assign usernames to them. Implement a system to assign unique usernames to new hires.
 
@@ -752,7 +680,7 @@ Assumptions: names may contain alphabetical characters, hyphens and apostrophes 
 
 <sub>Topics: Strings, Hashing · Source: [Squarepoint_260929_172234.pdf](../archive/files/1830-Squarepoint_260929_172234.pdf), [Squarepoint-2_260929_172211.pdf](../archive/files/1831-Squarepoint-2_260929_172211.pdf)</sub>
 
-### Q6. Count special subarrays (product has odd number of divisors)
+### Q5. Count special subarrays (product has odd number of divisors)
 
 You are given an array of size n, and you have to return the number of special subarrays.
 
@@ -760,7 +688,7 @@ A special subarray is a subarray whose product has an odd number of divisors.
 
 <sub>Topics: Arrays, Math · Source: [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L33), [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L38)</sub>
 
-### Q7. Minimum Increase to Maximize Special Indices
+### Q6. Minimum Increase to Maximize Special Indices
 
 The first question (as identified by a poster) was the LeetCode problem "Minimum Increase to Maximize Special Indices" (https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/). The statement itself was not transcribed.
 
@@ -780,7 +708,7 @@ The first question (as identified by a poster) was the LeetCode problem "Minimum
 
 No MCQs; only 2 DSA questions.
 
-<sub>Topics: OA Format · Source: [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L35)</sub>
+<sub>Topics: OA Format · Source: [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L35) · Also asked at: IIT Roorkee (2026-10-04)</sub>
 
 ## 2026-09-26 · IIT Kanpur · FTE · SDE
 
@@ -792,7 +720,7 @@ In one operation, you can choose two different values x and y present in the arr
 
 Your task is to find the minimum number of operations required to make the array a palindrome.
 
-<sub>Topics: Arrays, Graphs, Greedy · Source: [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L9), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L13), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L14)</sub>
+<sub>Topics: Arrays, Graphs, Greedy · Source: [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L9), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L13), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L14) · Also asked at: IIT BHU (2026-09-30)</sub>
 
 ### Q2. Page reading with I and S commands
 
@@ -817,12 +745,6 @@ For the sample input the output is:
 The poster's description is vague, and the exact statement and constraints are missing.
 
 <sub>Topics: Arrays, Hashing · Source: [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L9), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L13), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L14)</sub>
-
-### Q3. OA format: SDE role
-
-SDE OA is DSA coding questions. Language was said to be free to choose (any language works).
-
-<sub>Topics: OA Format · Source: [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L9), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L13), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L14)</sub>
 
 ## 2026-09-26 · IIT Kanpur · FTE · Quant
 
@@ -866,29 +788,13 @@ The Infrastructure Engineer OA asks Linux commands and related Linux questions. 
 
 <sub>Topics: OA Format · Source: [chat, 25 Sep](../archive/squarepoint-oa/2026-09.jsonl#L57), [chat, 25 Sep](../archive/squarepoint-oa/2026-09.jsonl#L58)</sub>
 
-## 2026-09-22 · IIT Roorkee · FTE · Interview
-
-### Q1. Squarepoint interview focus areas
-
-The interview goes very deep into C++: C++17 features, map internals, concurrency.
-
-<sub>Topics: Software Engineering · Source: [chat, 22 Sep](../archive/squarepoint-oa/2026-09.jsonl#L100)</sub>
-
-## 2026-09-22 · IIT Roorkee · FTE
-
-### Q1. Squarepoint OA format
-
-Any language is allowed in the OA. It had 2 medium coding questions.
-
-<sub>Topics: OA Format · Source: [chat, 22 Sep](../archive/squarepoint-oa/2026-09.jsonl#L102)</sub>
-
 ## 2026-09-21 · Unknown · FTE · Software Engineer
 
 ### Q1. Online test: two medium coding problems
 
 A campus software-engineer account reports two medium coding problems in the online test. The actual problem statements are not given.
 
-<sub>Topics: OA Format · Source: [chat, 21 Sep](../archive/squarepoint-oa/2026-09.jsonl#L98)</sub>
+<sub>Topics: OA Format · Source: [chat, 21 Sep](../archive/squarepoint-oa/2026-09.jsonl#L98) · Also asked at: IIT Roorkee (2026-09-22), IIT Kanpur (2026-09-26)</sub>
 
 ## 2026-09-21 · Unknown · FTE · Software Engineer · Interview
 
@@ -898,7 +804,7 @@ Interviews covered C++17 versus C++14, structured bindings, balanced-tree map in
 
 The exact questions are not given.
 
-<sub>Topics: Other, OOP, OS/DBMS/CN MCQ · Source: [chat, 21 Sep](../archive/squarepoint-oa/2026-09.jsonl#L98)</sub>
+<sub>Topics: Other, OOP, OS/DBMS/CN MCQ · Source: [chat, 21 Sep](../archive/squarepoint-oa/2026-09.jsonl#L98) · Also asked at: IIT Roorkee (2026-09-22)</sub>
 
 ## 2026-09-21 · Unknown · FTE · Graduate C++ Developer · Interview
 

@@ -1,17 +1,19 @@
 # Flipkart
 
-**24 questions** · 9 drives · latest 28 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 10 drives · latest 29 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Graphs](../topics/graphs.md) 6 · [OA Format](../topics/oa-format.md) 6 · [Math](../topics/math.md) 5 · [Strings](../topics/strings.md) 4 · [DP](../topics/dp.md) 4 · [Arrays](../topics/arrays.md) 3 · [Greedy](../topics/greedy.md) 2 · [Sorting](../topics/sorting.md) 2 · +4 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, MNNIT Allahabad
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Strings](../topics/strings.md) 3 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 2 · [SQL](../topics/sql.md) 2 · +4 more  
+**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Kanpur, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-28 · IIT Kanpur · FTE · AI Engineer](#2026-10-28--iit-kanpur--fte--ai-engineer)
+  - [Flipkart AI engineer OA pattern](#q1-flipkart-ai-engineer-oa-pattern)
 - [2026-10-28 · IIT BHU · FTE · AI Engineer](#2026-10-28--iit-bhu--fte--ai-engineer)
-  - [Flipkart AI Engineer OA pattern](#q1-flipkart-ai-engineer-oa-pattern)
-- [2026-10-28 · BITS Pilani · FTE · AI Engineer](#2026-10-28--bits-pilani--fte--ai-engineer)
   - [Flipkart AI Engineer OA pattern](#q1-flipkart-ai-engineer-oa-pattern-1)
+- [2026-10-28 · BITS Pilani · FTE · AI Engineer](#2026-10-28--bits-pilani--fte--ai-engineer)
+  - [Flipkart AI Engineer OA pattern](#q1-flipkart-ai-engineer-oa-pattern-2)
   - [Flipkart AI Engineer OA pattern](#q2-flipkart-ai-engineer-oa-pattern)
 - [2026-10-27 · IIT BHU · FTE · AI Engineer](#2026-10-27--iit-bhu--fte--ai-engineer)
   - [Flipkart AI Engineer OA format](#q1-flipkart-ai-engineer-oa-format)
@@ -20,10 +22,8 @@
   - [Balanced-Parity Category Nodes](#q2-balanced-parity-category-nodes)
   - [Service Engineer (minimum days to finish all servicing)](#q3-service-engineer-minimum-days-to-finish-all-servicing)
 - [2026-10-24 · IIT Delhi · FTE · AI Engineer](#2026-10-24--iit-delhi--fte--ai-engineer)
-  - [Count nodes by odd/even subtree sums in a binary tree](#q1-count-nodes-by-oddeven-subtree-sums-in-a-binary-tree)
-  - [Replace each character by digit sum of its ASCII value](#q2-replace-each-character-by-digit-sum-of-its-ascii-value)
-  - [Bitmask DP on a 2D grid visiting all checkpoints with minimum distance](#q3-bitmask-dp-on-a-2d-grid-visiting-all-checkpoints-with-minimum-distance)
-  - [Test format: 3 basic DSA questions](#q4-test-format-3-basic-dsa-questions)
+  - [Bitmask DP on a 2D grid visiting all checkpoints with minimum distance](#q1-bitmask-dp-on-a-2d-grid-visiting-all-checkpoints-with-minimum-distance)
+  - [Test format: 3 basic DSA questions](#q2-test-format-3-basic-dsa-questions)
 - [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte)
   - [Chef And A Complete Graph](#q1-chef-and-a-complete-graph)
 - [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte)
@@ -36,15 +36,22 @@
   - [Distribute n distinct objects into k identical bags](#q2-distribute-n-distinct-objects-into-k-identical-bags)
   - [Subgraphs](#q3-subgraphs)
   - [KCONNECT (CodeChef)](#q4-kconnect-codechef)
-  - [Maximise the minimum distance for M boxes in N positions](#q5-maximise-the-minimum-distance-for-m-boxes-in-n-positions)
-  - [Sorted word position differences and letter (string simulation)](#q6-sorted-word-position-differences-and-letter-string-simulation)
-  - [SQL: average salary for Finance in Acme Corp with two JOINs](#q7-sql-average-salary-for-finance-in-acme-corp-with-two-joins)
+  - [Sorted word position differences and letter (string simulation)](#q5-sorted-word-position-differences-and-letter-string-simulation)
+  - [SQL: average salary for Finance in Acme Corp with two JOINs](#q6-sql-average-salary-for-finance-in-acme-corp-with-two-joins)
 - [2026-10-15 · MNNIT Allahabad · FTE](#2026-10-15--mnnit-allahabad--fte)
   - [Partition Seller Reviews into K Batches (Minimize Max Batch Sum)](#q1-partition-seller-reviews-into-k-batches-minimize-max-batch-sum)
 
 </details>
 
 ---
+
+## 2026-10-28 · IIT Kanpur · FTE · AI Engineer
+
+### Q1. Flipkart AI engineer OA pattern
+
+Three coding questions: the first was a DP problem, the second a strings problem, the third a mix of trees and strings. Exact statements not given.
+
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L206)</sub>
 
 ## 2026-10-28 · IIT BHU · FTE · AI Engineer
 
@@ -89,7 +96,7 @@ Input: msg = "A" -> Output: 11 ('A' = 65 -> 6+5 = 11)
 
 Constraints: not recorded.
 
-<sub>Topics: Strings, Math · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf)</sub>
+<sub>Topics: Strings, Math · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi ×2 (last 2026-10-29)</sub>
 
 ### Q2. Balanced-Parity Category Nodes
 
@@ -108,7 +115,7 @@ Input: root = 5, n = 2; L 8, LL 1; value = [5, 1, 2] -> Output: 0 (no node has t
 
 Constraints: n &lt;= 1000 (recalled as 100 or 1000).
 
-<sub>Topics: Trees · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf)</sub>
+<sub>Topics: Trees · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi ×2 (last 2026-10-29)</sub>
 
 ### Q3. Service Engineer (minimum days to finish all servicing)
 
@@ -125,27 +132,11 @@ Input: 2 3 / 0 0 0 / 0 0 0 -> Output: 0 (no servicing required)
 Constraints: 1 &lt;= R &lt;= 30, 1 &lt;= C &lt;= 30, 0 &lt;= matrix[i][j] &lt;= 1000; number of non-zero cells &lt;= 15. Time limit 1 s, memory 256 MB.  
 Note: same as Goldman Sachs Coding Test II 'Service Engineer', except the start is fixed at (0, 0) (there, Mona can start and finish in any cell).
 
-<sub>Topics: DP, Bit Manipulation, Graphs · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf)</sub>
+<sub>Topics: DP, Bit Manipulation, Graphs · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi (2026-10-29)</sub>
 
 ## 2026-10-24 · IIT Delhi · FTE · AI Engineer
 
-### Q1. Count nodes by odd/even subtree sums in a binary tree
-
-A binary tree is given (built from given relations of each node with respect to the root, like paths such as 'RRLR'). Find the sum of nodes for which the sum of its left subtree is odd and the sum of its right subtree is even. (Another poster described it as: count the subtrees whose children subtree sums are odd and even, both happening together.)
-
-Exact constraints and examples were not shared.
-
-<sub>Topics: Trees · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L74), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L76), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L77), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L84), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L90), [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L1)</sub>
-
-### Q2. Replace each character by digit sum of its ASCII value
-
-A string `msg` is given. Convert each `msg[i]` to the sum of the digits of its ASCII value (and compute the result as described in the question).
-
-Exact output format and constraints were not shared.
-
-<sub>Topics: Strings, Math · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L74), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L76), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L77), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L84), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L90), [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L1)</sub>
-
-### Q3. Bitmask DP on a 2D grid visiting all checkpoints with minimum distance
+### Q1. Bitmask DP on a 2D grid visiting all checkpoints with minimum distance
 
 The hardest question: bitmask DP on a 2D grid. One had to travel a path while minimizing the distance, visiting all the checkpoints.
 
@@ -153,7 +144,7 @@ Full statement and constraints were not shared.
 
 <sub>Topics: DP, Bit Manipulation, Graphs · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L74), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L76), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L77), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L84), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L90), [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L1)</sub>
 
-### Q4. Test format: 3 basic DSA questions
+### Q2. Test format: 3 basic DSA questions
 
 3 DSA questions, basic level, worth 15, 20 and 20 marks.
 
@@ -179,7 +170,7 @@ Flipkart AI Engineer role OA at IIT BHU. The test had 4 questions in 1.5 hours, 
 
 You are given N, then some numbers between 1 and N. These are the coordinates of the houses celebrating Christmas. Find the maximum possible distance between a house that is not celebrating and a house that is celebrating (i.e. the largest distance from a non-celebrating house to its nearest celebrating house).
 
-<sub>Topics: Arrays, Sorting · Similar: [LeetCode 849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) (Medium) · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L1989), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L1990)</sub>
+<sub>Topics: Arrays, Sorting · Similar: [LeetCode 849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) (Medium) · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L1989), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L1990) · Also asked at: IIT BHU (2026-10-18)</sub>
 
 ### Q3. Count Graphs on n Nodes with k Components mod m
 
@@ -219,15 +210,7 @@ CodeChef problem KCONNECT: https://www.codechef.com/problems/KCONNECT. Statement
 
 <sub>Topics: Graphs · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
 
-### Q5. Maximise the minimum distance for M boxes in N positions
-
-You have M boxes placed among N total positions. Return the maximum, over all possible positions, of the minimum distance between that position and a box placed. Can be done easily using left and right index arrays.
-
-(A reproduced version, unverified, phrases it as: N houses in a line numbered 1..N, K houses celebrate Christmas with positions in array A (distinct, any order). Each resident of a non-celebrating house goes to the nearest celebrating house. Find the maximum distance any such resident must travel. Distance is |i - j|. Rest of statement cut off.)
-
-<sub>Topics: Arrays, Greedy · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
-
-### Q6. Sorted word position differences and letter (string simulation)
+### Q5. Sorted word position differences and letter (string simulation)
 
 Given a word, sort its letters alphabetically. Compare the original and sorted positions of corresponding letters and take the absolute difference in positions. Add the ASCII value of the last character of the sorted word to each difference. Take the digit sum of each of these values and add them together to get X. Take the digit sum of X (single step) and convert it to a letter (1 → A, ..., 26 → Z; 27 → A). Return X and the letter.
 
@@ -247,7 +230,7 @@ Constraints: 1 <= word.length <= 10^5; lowercase English letters. (This is an un
 
 <sub>Topics: Strings, Sorting · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
 
-### Q7. SQL: average salary for Finance in Acme Corp with two JOINs
+### Q6. SQL: average salary for Finance in Acme Corp with two JOINs
 
 Write a SQL query using two JOINs. Filter by the company named 'Acme Corp' and the 'Finance' department, group by company name and department name, and return the average salary without rounding.
 

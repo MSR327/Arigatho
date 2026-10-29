@@ -1,18 +1,17 @@
 # Accenture
 
-**422 questions** · 103 drives · latest 29 Oct 2026 · [5 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**271 questions** · 89 drives · latest 29 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 133 · [OA Format](../topics/oa-format.md) 83 · [Web Dev](../topics/web-dev.md) 45 · [SQL](../topics/sql.md) 40 · [Math](../topics/math.md) 30 · [Arrays](../topics/arrays.md) 30 · [Software Engineering](../topics/software-engineering.md) 25 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 18 · +15 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +14 more
+**Asks about:** [OA Format](../topics/oa-format.md) 70 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 27 · [Web Dev](../topics/web-dev.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +15 more  
+**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-29 · IIT Guwahati · FTE](#2026-10-29--iit-guwahati--fte)
-  - [Accenture communication round format](#q1-accenture-communication-round-format)
+- [2026-10-29 · IIT Hyderabad · FTE · ETE](#2026-10-29--iit-hyderabad--fte--ete)
+  - [Email writing round](#q1-email-writing-round)
 - [2026-10-28 · IIT Roorkee · FTE · Elite](#2026-10-28--iit-roorkee--fte--elite)
   - [Minimum increase in experience multiplier](#q1-minimum-increase-in-experience-multiplier)
-  - [SQL join: Kolkata Knight Riders players over 30](#q2-sql-join-kolkata-knight-riders-players-over-30)
 - [2026-10-28 · IIT Indore · FTE · Elite](#2026-10-28--iit-indore--fte--elite)
   - [Count numbers whose first and last digits sum to 9](#q1-count-numbers-whose-first-and-last-digits-sum-to-9)
   - [Live search input display with HTML, CSS and JavaScript](#q2-live-search-input-display-with-html-css-and-javascript)
@@ -23,125 +22,36 @@
   - [Communication assessment sections](#q1-communication-assessment-sections)
 - [2026-10-27 · MNNIT Allahabad · FTE · Advanced Technology Engineer](#2026-10-27--mnnit-allahabad--fte--advanced-technology-engineer)
   - [ATE FTE assessment pattern (older, per another student)](#q1-ate-fte-assessment-pattern-older-per-another-student)
-- [2026-10-27 · MNNIT Allahabad · FTE](#2026-10-27--mnnit-allahabad--fte)
-  - [Scalable cloud storage](#q1-scalable-cloud-storage)
-  - [Moving data from accumulator to memory](#q2-moving-data-from-accumulator-to-memory)
-  - [Hybrid cloud secure connectivity](#q3-hybrid-cloud-secure-connectivity)
-  - [VPN type for work from home](#q4-vpn-type-for-work-from-home)
-  - [Weekly automatic deployment practice](#q5-weekly-automatic-deployment-practice)
-  - [Routing manipulation attack](#q6-routing-manipulation-attack)
-  - [Register saved during context switch](#q7-register-saved-during-context-switch)
-  - [I/O bus with cached device controllers](#q8-io-bus-with-cached-device-controllers)
-  - [Chosen-plaintext attack on symmetric encryption](#q9-chosen-plaintext-attack-on-symmetric-encryption)
-  - [Defining characteristic of containers](#q10-defining-characteristic-of-containers)
-  - [WPA3 Android configuration: incorrect line](#q11-wpa3-android-configuration-incorrect-line)
-  - [HTTP method to read restaurant list](#q12-http-method-to-read-restaurant-list)
-  - [Resource pooling and storage elasticity](#q13-resource-pooling-and-storage-elasticity)
-  - [OS property for running on varied hardware](#q14-os-property-for-running-on-varied-hardware)
-  - [Cloud features for flash-sale traffic spikes](#q15-cloud-features-for-flash-sale-traffic-spikes)
-  - [Shared responsibility model](#q16-shared-responsibility-model)
-  - [PowerPoint strictest slide navigation control](#q17-powerpoint-strictest-slide-navigation-control)
-  - [Protocol for cloud email transmission](#q18-protocol-for-cloud-email-transmission)
-  - [File format for a Word template](#q19-file-format-for-a-word-template)
-  - [Kernel-level isolation among containers with peripherals](#q20-kernel-level-isolation-among-containers-with-peripherals)
-  - [Device controller with high-speed buffers](#q21-device-controller-with-high-speed-buffers)
-  - [OS property to prioritize after a security breach](#q22-os-property-to-prioritize-after-a-security-breach)
-  - [HTTP status for Not Found](#q23-http-status-for-not-found)
-  - [PowerPoint feature for dynamic progression slide](#q24-powerpoint-feature-for-dynamic-progression-slide)
-  - [VPN topology for two offices](#q25-vpn-topology-for-two-offices)
-  - [RESTful endpoint to fetch a product by ID](#q26-restful-endpoint-to-fetch-a-product-by-id)
-  - [Containerized app consuming massive memory](#q27-containerized-app-consuming-massive-memory)
-  - [Technology for multiple isolated environments on one server](#q28-technology-for-multiple-isolated-environments-on-one-server)
-  - [OSI layer transmitting Ethernet, cable and Wi-Fi signals](#q29-osi-layer-transmitting-ethernet-cable-and-wi-fi-signals)
-  - [PivotTable custom calculations](#q30-pivottable-custom-calculations)
-  - [OSI layer for routing between network segments](#q31-osi-layer-for-routing-between-network-segments)
-  - [Security measure requiring two identification types](#q32-security-measure-requiring-two-identification-types)
-  - [Ring topology workstation failure](#q33-ring-topology-workstation-failure)
-  - [System calls to create process and run new executable](#q34-system-calls-to-create-process-and-run-new-executable)
-  - [Converting data to secure format](#q35-converting-data-to-secure-format)
-  - [Protocol to secure data in transit](#q36-protocol-to-secure-data-in-transit)
-  - [Most secure cloud deployment model for sensitive data](#q37-most-secure-cloud-deployment-model-for-sensitive-data)
-  - [Server response to connection request](#q38-server-response-to-connection-request)
-  - [Most secure Wi-Fi encryption protocol](#q39-most-secure-wi-fi-encryption-protocol)
-  - [Attack by specifying packet route to bypass packet-filter firewall](#q40-attack-by-specifying-packet-route-to-bypass-packet-filter-firewall)
-  - [Communication round: speaking section format](#q41-communication-round-speaking-section-format)
 - [2026-10-27 · IIT Dhanbad · FTE · Elite Technology Engineer](#2026-10-27--iit-dhanbad--fte--elite-technology-engineer)
   - [Next number with multiplicative persistence 1](#q1-next-number-with-multiplicative-persistence-1)
   - [Car rental: cars never rented](#q2-car-rental-cars-never-rented)
   - [HTML/CSS/JS edits to existing files](#q3-htmlcssjs-edits-to-existing-files)
 - [2026-10-27 · IIT Dhanbad · FTE · Elite Technology Engineer · Other round](#2026-10-27--iit-dhanbad--fte--elite-technology-engineer--other-round)
   - [Verbal and written communication assessment](#q1-verbal-and-written-communication-assessment)
-- [2026-10-26 · IIT Roorkee · FTE · AI and Data](#2026-10-26--iit-roorkee--fte--ai-and-data)
-  - [Scalable cloud storage](#q1-scalable-cloud-storage-1)
-  - [HTTP method to read restaurants](#q2-http-method-to-read-restaurants)
-  - [Status code for Not Found endpoint](#q3-status-code-for-not-found-endpoint)
-  - [System calls to create process and run executable](#q4-system-calls-to-create-process-and-run-executable)
-  - [Protocol to encrypt data in transit](#q5-protocol-to-encrypt-data-in-transit)
-  - [IT governance in cloud migration](#q6-it-governance-in-cloud-migration)
 - [2026-10-26 · IIT Roorkee · FTE · Interview](#2026-10-26--iit-roorkee--fte--interview)
-  - [Accenture communication round format](#q1-accenture-communication-round-format-1)
+  - [Accenture communication round format](#q1-accenture-communication-round-format)
 - [2026-10-26 · IIT BHU · FTE · Elite Technology Engineer · Other round](#2026-10-26--iit-bhu--fte--elite-technology-engineer--other-round)
   - [Communication round sections and email topic](#q1-communication-round-sections-and-email-topic)
 - [2026-10-25 · IIT Roorkee · FTE](#2026-10-25--iit-roorkee--fte)
-  - [Scalable cloud storage](#q1-scalable-cloud-storage-2)
-  - [Accumulator to memory transfer](#q2-accumulator-to-memory-transfer)
-  - [Hybrid cloud connectivity solution](#q3-hybrid-cloud-connectivity-solution)
-  - [VPN type for work from home](#q4-vpn-type-for-work-from-home-1)
-  - [Automated weekly release practice](#q5-automated-weekly-release-practice)
-  - [Routing manipulation attack](#q6-routing-manipulation-attack-1)
-  - [Register saved during context switch](#q7-register-saved-during-context-switch-1)
-  - [Bus design with cached device controller](#q8-bus-design-with-cached-device-controller)
-  - [Attack on shared-key symmetric encryption](#q9-attack-on-shared-key-symmetric-encryption)
-  - [Defining characteristic of containers](#q10-defining-characteristic-of-containers-1)
-  - [Redundant Android WPA3 config line](#q11-redundant-android-wpa3-config-line)
-  - [HTTP method to read restaurants](#q12-http-method-to-read-restaurants)
-  - [Resource pooling and storage elasticity](#q13-resource-pooling-and-storage-elasticity-1)
-  - [OS property for cross-system compatibility](#q14-os-property-for-cross-system-compatibility)
-  - [Cloud features for flash-sale traffic spikes](#q15-cloud-features-for-flash-sale-traffic-spikes-1)
-  - [Shared responsibility model](#q16-shared-responsibility-model-1)
-  - [PowerPoint strictest slide navigation control](#q17-powerpoint-strictest-slide-navigation-control-1)
-  - [Protocol for cloud email transmission](#q18-protocol-for-cloud-email-transmission-1)
-  - [File format for Word template](#q19-file-format-for-word-template)
-  - [Container isolation of hardware peripherals](#q20-container-isolation-of-hardware-peripherals)
-  - [Device controller with high-speed buffers](#q21-device-controller-with-high-speed-buffers-1)
-  - [Attack redirecting traffic via routing information](#q22-attack-redirecting-traffic-via-routing-information)
-  - [Status code for Not Found endpoint](#q23-status-code-for-not-found-endpoint)
-  - [OS property to prioritise after a breach](#q24-os-property-to-prioritise-after-a-breach)
-  - [PowerPoint feature for progression slide](#q25-powerpoint-feature-for-progression-slide)
-  - [Register held during context switch (MCQ)](#q26-register-held-during-context-switch-mcq)
-  - [VPN topology for connecting two offices](#q27-vpn-topology-for-connecting-two-offices)
-  - [RESTful endpoint for product by ID](#q28-restful-endpoint-for-product-by-id)
-  - [Containerized app consuming massive memory](#q29-containerized-app-consuming-massive-memory)
-  - [Technology for isolated environments on one server](#q30-technology-for-isolated-environments-on-one-server)
-  - [OSI layer for transmitting signals](#q31-osi-layer-for-transmitting-signals)
-  - [PivotTable custom calculations](#q32-pivottable-custom-calculations)
-  - [OSI layer for routing between segments](#q33-osi-layer-for-routing-between-segments)
-  - [System calls to create process and run executable](#q34-system-calls-to-create-process-and-run-executable)
-  - [Security measure requiring two identifiers](#q35-security-measure-requiring-two-identifiers)
-  - [Ring topology workstation failure](#q36-ring-topology-workstation-failure)
-  - [Converting data to secure format](#q37-converting-data-to-secure-format)
-  - [Protocol to encrypt data in transit](#q38-protocol-to-encrypt-data-in-transit)
-  - [Most secure cloud deployment model](#q39-most-secure-cloud-deployment-model)
-  - [Server response to SYN](#q40-server-response-to-syn)
-  - [Most secure Wi-Fi encryption protocol](#q41-most-secure-wi-fi-encryption-protocol)
-  - [Attack specifying packet route to bypass firewall](#q42-attack-specifying-packet-route-to-bypass-firewall)
+  - [Attack redirecting traffic via routing information](#q1-attack-redirecting-traffic-via-routing-information)
+  - [Register held during context switch (MCQ)](#q2-register-held-during-context-switch-mcq)
 - [2026-10-25 · BITS Pilani · Unknown](#2026-10-25--bits-pilani--unknown)
   - [Cloud storage with dynamic scaling](#q1-cloud-storage-with-dynamic-scaling)
-  - [Accumulator to memory transfer](#q2-accumulator-to-memory-transfer-1)
+  - [Accumulator to memory transfer](#q2-accumulator-to-memory-transfer)
   - [Hybrid cloud connectivity](#q3-hybrid-cloud-connectivity)
   - [VPN for remote access](#q4-vpn-for-remote-access)
   - [DevOps continuous deployment](#q5-devops-continuous-deployment)
-  - [Routing manipulation attack](#q6-routing-manipulation-attack-2)
-  - [Register saved during context switch](#q7-register-saved-during-context-switch-2)
+  - [Routing manipulation attack](#q6-routing-manipulation-attack)
+  - [Register saved during context switch](#q7-register-saved-during-context-switch)
   - [I/O bus device controller with built-in cache](#q8-io-bus-device-controller-with-built-in-cache)
   - [Attack on symmetric encryption key](#q9-attack-on-symmetric-encryption-key)
   - [Containerization characteristic](#q10-containerization-characteristic)
   - [WPA3 configuration on Android](#q11-wpa3-configuration-on-android)
-  - [HTTP method to read restaurant list](#q12-http-method-to-read-restaurant-list-1)
-  - [Resource pooling and storage elasticity](#q13-resource-pooling-and-storage-elasticity-2)
+  - [HTTP method to read restaurant list](#q12-http-method-to-read-restaurant-list)
+  - [Resource pooling and storage elasticity](#q13-resource-pooling-and-storage-elasticity)
   - [OS property for application compatibility](#q14-os-property-for-application-compatibility)
   - [Handling cloud traffic spikes](#q15-handling-cloud-traffic-spikes)
-  - [Shared responsibility model](#q16-shared-responsibility-model-2)
+  - [Shared responsibility model](#q16-shared-responsibility-model)
   - [PowerPoint restrict slide navigation](#q17-powerpoint-restrict-slide-navigation)
   - [Protocol for secure email transmission](#q18-protocol-for-secure-email-transmission)
   - [Word document template format](#q19-word-document-template-format)
@@ -158,7 +68,7 @@
   - [OSI layer for routing packets](#q30-osi-layer-for-routing-packets)
   - [System calls to create process and run executable](#q31-system-calls-to-create-process-and-run-executable)
   - [Two-factor identification security measure](#q32-two-factor-identification-security-measure)
-  - [Ring topology workstation failure](#q33-ring-topology-workstation-failure-1)
+  - [Ring topology workstation failure](#q33-ring-topology-workstation-failure)
   - [Converting data into secure format](#q34-converting-data-into-secure-format)
   - [Protocol to secure data in transit](#q35-protocol-to-secure-data-in-transit)
   - [Most secure cloud deployment model](#q36-most-secure-cloud-deployment-model)
@@ -167,10 +77,6 @@
   - [Packet routing / firewall bypass attack](#q39-packet-routing--firewall-bypass-attack)
 - [2026-10-24 · IIT Guwahati · FTE · Elite Engineer](#2026-10-24--iit-guwahati--fte--elite-engineer)
   - [Column with minimum average in 2D array](#q1-column-with-minimum-average-in-2d-array)
-  - [Simple SQL group by / joins](#q2-simple-sql-group-by--joins)
-  - [HTML, CSS and JS DOM manipulation](#q3-html-css-and-js-dom-manipulation)
-- [2026-10-24 · IIT Delhi · FTE](#2026-10-24--iit-delhi--fte)
-  - [Accenture communication assessment format](#q1-accenture-communication-assessment-format)
 - [2026-10-24 · IIT BHU · FTE](#2026-10-24--iit-bhu--fte)
   - [First element whose neighbours are both prime](#q1-first-element-whose-neighbours-are-both-prime)
   - [SQL: customers who never made a booking](#q2-sql-customers-who-never-made-a-booking)
@@ -190,9 +96,6 @@
   - [Accenture assessment stages](#q1-accenture-assessment-stages)
 - [2026-10-22 · IIT Hyderabad · FTE](#2026-10-22--iit-hyderabad--fte)
   - [Accenture coding assessment pattern (DSA, SQL, Frontend)](#q1-accenture-coding-assessment-pattern-dsa-sql-frontend)
-  - [Accenture OA pattern](#q2-accenture-oa-pattern)
-- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte)
-  - [Accenture OA pattern](#q1-accenture-oa-pattern)
 - [2026-10-21 · Unknown · FTE](#2026-10-21--unknown--fte)
   - [ETE OA DSA section difficulty and topics](#q1-ete-oa-dsa-section-difficulty-and-topics)
 - [2026-10-21 · NIT Delhi · FTE](#2026-10-21--nit-delhi--fte)
@@ -216,14 +119,8 @@
   - [Frontend: DOM event listeners for hover/mouseout/click](#q4-frontend-dom-event-listeners-for-hovermouseoutclick)
 - [2026-10-20 · IIT Hyderabad · FTE](#2026-10-20--iit-hyderabad--fte)
   - [Elite Technology Engineer coding round format](#q1-elite-technology-engineer-coding-round-format)
-- [2026-10-20 · IIT Hyderabad · FTE · Elite](#2026-10-20--iit-hyderabad--fte--elite)
-  - [Count contiguous groups of same-sign elements](#q1-count-contiguous-groups-of-same-sign-elements)
-  - [Destinations with more than 2 hotels and average nightly rate](#q2-destinations-with-more-than-2-hotels-and-average-nightly-rate)
-  - [JavaScript frontend DOM task](#q3-javascript-frontend-dom-task)
 - [2026-10-20 · IIT BHU · FTE](#2026-10-20--iit-bhu--fte)
   - [Elite Technology Engineer coding round format](#q1-elite-technology-engineer-coding-round-format-1)
-- [2026-10-19 · NIT Delhi · Intern](#2026-10-19--nit-delhi--intern)
-  - [Advanced Technology role OA format and MCQ topics](#q1-advanced-technology-role-oa-format-and-mcq-topics)
 - [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte)
   - [Accenture ETE rounds: gaming, full-stack task, communication](#q1-accenture-ete-rounds-gaming-full-stack-task-communication)
 - [2026-10-19 · MANIT Bhopal · FTE](#2026-10-19--manit-bhopal--fte)
@@ -233,21 +130,11 @@
 - [2026-10-18 · IIT Hyderabad · FTE](#2026-10-18--iit-hyderabad--fte)
   - [Check every 2x2 block of a grid has at most K buildings](#q1-check-every-2x2-block-of-a-grid-has-at-most-k-buildings)
   - [Accenture Elite Technology Engineer OA pattern](#q2-accenture-elite-technology-engineer-oa-pattern)
-- [2026-10-18 · IIT Hyderabad · FTE · Elite Technology Engineer](#2026-10-18--iit-hyderabad--fte--elite-technology-engineer)
-  - [Accenture Elite Technology Engineer OA pattern](#q1-accenture-elite-technology-engineer-oa-pattern)
-- [2026-10-18 · IIT BHU · FTE · Japan Digital Consulting](#2026-10-18--iit-bhu--fte--japan-digital-consulting)
-  - [OA format: 20 MCQs + 1 coding](#q1-oa-format-20-mcqs--1-coding)
-  - [Morse code decode to dictionary word](#q2-morse-code-decode-to-dictionary-word)
-  - [Minimum dice rolls to reach the end](#q3-minimum-dice-rolls-to-reach-the-end)
-- [2026-10-18 · BITS Pilani · Intern](#2026-10-18--bits-pilani--intern)
-  - [Accenture OA coding difficulty](#q1-accenture-oa-coding-difficulty)
 - [2026-10-17 · Unknown · FTE](#2026-10-17--unknown--fte)
   - [Elite Technology Engineer communication round](#q1-elite-technology-engineer-communication-round)
-- [2026-10-17 · NIT Patna · Intern](#2026-10-17--nit-patna--intern)
-  - [Advanced Technology Engineer intern OA pattern](#q1-advanced-technology-engineer-intern-oa-pattern)
 - [2026-10-17 · NIT Patna · Unknown](#2026-10-17--nit-patna--unknown)
   - [Cloud storage option that scales dynamically](#q1-cloud-storage-option-that-scales-dynamically)
-  - [Moving data from accumulator to memory](#q2-moving-data-from-accumulator-to-memory-1)
+  - [Moving data from accumulator to memory](#q2-moving-data-from-accumulator-to-memory)
   - [Connecting on-premise and public cloud in hybrid model](#q3-connecting-on-premise-and-public-cloud-in-hybrid-model)
   - [VPN type for employee working from home](#q4-vpn-type-for-employee-working-from-home)
   - [DevOps practice of automatic deployment to production](#q5-devops-practice-of-automatic-deployment-to-production)
@@ -255,12 +142,12 @@
   - [Register saved during context switch (no options)](#q7-register-saved-during-context-switch-no-options)
   - [I/O device controller with built-in cache](#q8-io-device-controller-with-built-in-cache)
   - [Attack technique to compromise a symmetric key](#q9-attack-technique-to-compromise-a-symmetric-key)
-  - [Defining characteristic of containers](#q10-defining-characteristic-of-containers-2)
+  - [Defining characteristic of containers](#q10-defining-characteristic-of-containers)
   - [Redundant line in Android WPA3 configuration](#q11-redundant-line-in-android-wpa3-configuration)
   - [HTTP method to read restaurant list from API](#q12-http-method-to-read-restaurant-list-from-api)
   - [Resource pooling and storage elasticity in cloud](#q13-resource-pooling-and-storage-elasticity-in-cloud)
   - [OS property for cross-platform application compatibility](#q14-os-property-for-cross-platform-application-compatibility)
-  - [Cloud features for flash-sale traffic spikes](#q15-cloud-features-for-flash-sale-traffic-spikes-2)
+  - [Cloud features for flash-sale traffic spikes](#q15-cloud-features-for-flash-sale-traffic-spikes)
   - [Shared responsibility model in cloud security](#q16-shared-responsibility-model-in-cloud-security)
   - [PowerPoint setting to force sequential slide viewing](#q17-powerpoint-setting-to-force-sequential-slide-viewing)
   - [Protocol for secure cloud email transmission](#q18-protocol-for-secure-cloud-email-transmission)
@@ -281,15 +168,17 @@
 - [2026-10-17 · MNNIT Allahabad · FTE](#2026-10-17--mnnit-allahabad--fte)
   - [AI & Data Tech Grad OA: DSA + AI/ML MCQs](#q1-ai--data-tech-grad-oa-dsa--aiml-mcqs)
   - [Elite Technology Engineer OA: allowed languages](#q2-elite-technology-engineer-oa-allowed-languages)
+- [2026-10-17 · MNNIT Allahabad · FTE · Elite Technology Engineer](#2026-10-17--mnnit-allahabad--fte--elite-technology-engineer)
+  - [Accenture OA pattern](#q1-accenture-oa-pattern)
 - [2026-10-17 · IIT Hyderabad · FTE](#2026-10-17--iit-hyderabad--fte)
-  - [Count contiguous groups of same-sign elements](#q1-count-contiguous-groups-of-same-sign-elements-1)
+  - [Count contiguous groups of same-sign elements](#q1-count-contiguous-groups-of-same-sign-elements)
   - [SQL join across three tables](#q2-sql-join-across-three-tables)
   - [JavaScript frontend task following instructions](#q3-javascript-frontend-task-following-instructions)
   - [Accenture OA platform and sections](#q4-accenture-oa-platform-and-sections)
 - [2026-10-16 · IIT Roorkee · FTE](#2026-10-16--iit-roorkee--fte)
   - [Accenture Elite/ETE OA format](#q1-accenture-eliteete-oa-format)
 - [2026-10-16 · IIT Hyderabad · FTE](#2026-10-16--iit-hyderabad--fte)
-  - [Count contiguous groups of same-sign elements](#q1-count-contiguous-groups-of-same-sign-elements-2)
+  - [Count contiguous groups of same-sign elements](#q1-count-contiguous-groups-of-same-sign-elements-1)
   - [SQL query joining three tables](#q2-sql-query-joining-three-tables)
   - [JavaScript DOM frontend task](#q3-javascript-dom-frontend-task)
   - [Accenture ETE OA pattern (IIT Hyderabad)](#q4-accenture-ete-oa-pattern-iit-hyderabad)
@@ -303,21 +192,19 @@
 - [2026-10-15 · Unknown · FTE](#2026-10-15--unknown--fte)
   - [Decode Morse code to a word in dictionary.txt](#q1-decode-morse-code-to-a-word-in-dictionarytxt)
   - [Composite number greater than n with odd digit sum](#q2-composite-number-greater-than-n-with-odd-digit-sum)
-- [2026-10-15 · NIT Rourkela · Intern · Other round](#2026-10-15--nit-rourkela--intern--other-round)
-  - [Accenture paid summer internship process](#q1-accenture-paid-summer-internship-process)
 - [2026-10-15 · IIT Roorkee · FTE](#2026-10-15--iit-roorkee--fte)
   - [Accenture elite role OA: DSA level](#q1-accenture-elite-role-oa-dsa-level)
 - [2026-10-15 · IIT Hyderabad · FTE](#2026-10-15--iit-hyderabad--fte)
-  - [Grid and Buildings](#q1-grid-and-buildings)
-  - [Water left after watering N trees](#q2-water-left-after-watering-n-trees)
-  - [SQL: join 3 tables with GROUP BY and IS NULL](#q3-sql-join-3-tables-with-group-by-and-is-null)
-  - [Web dev: HTML/CSS/JS edits guided by comments](#q4-web-dev-htmlcssjs-edits-guided-by-comments)
+  - [Water left after watering N trees](#q1-water-left-after-watering-n-trees)
+  - [SQL: join 3 tables with GROUP BY and IS NULL](#q2-sql-join-3-tables-with-group-by-and-is-null)
+  - [Web dev: HTML/CSS/JS edits guided by comments](#q3-web-dev-htmlcssjs-edits-guided-by-comments)
 - [2026-10-15 · IIT Guwahati · FTE](#2026-10-15--iit-guwahati--fte)
   - [Modified Jump Game II (medium DP)](#q1-modified-jump-game-ii-medium-dp)
   - [Accenture Japan OA format at IIT Guwahati](#q2-accenture-japan-oa-format-at-iit-guwahati)
-  - [Accenture Japan OA format](#q3-accenture-japan-oa-format)
-  - [N+1 roads problem](#q4-n1-roads-problem)
-  - [IT quiz MCQs: AI regulation, subnet masking, code output](#q5-it-quiz-mcqs-ai-regulation-subnet-masking-code-output)
+  - [N+1 roads problem](#q3-n1-roads-problem)
+  - [IT quiz MCQs: AI regulation, subnet masking, code output](#q4-it-quiz-mcqs-ai-regulation-subnet-masking-code-output)
+- [2026-10-15 · IIT Guwahati · FTE · Digital Consultant (Japan)](#2026-10-15--iit-guwahati--fte--digital-consultant-japan)
+  - [Accenture Japan OA format](#q1-accenture-japan-oa-format)
 - [2026-10-14 · Unknown · FTE](#2026-10-14--unknown--fte)
   - [Accenture I&E AI and Data OA pattern](#q1-accenture-ie-ai-and-data-oa-pattern)
   - [Convert implicit join to explicit join](#q2-convert-implicit-join-to-explicit-join)
@@ -348,35 +235,16 @@
   - [Employees working in California (multi-table join)](#q27-employees-working-in-california-multi-table-join)
 - [2026-10-14 · IIT Roorkee · FTE](#2026-10-14--iit-roorkee--fte)
   - [Accenture Elite Engineering OA: coding-only sections](#q1-accenture-elite-engineering-oa-coding-only-sections)
+- [2026-10-14 · IIT Roorkee · FTE · Digital Consultant (Japan)](#2026-10-14--iit-roorkee--fte--digital-consultant-japan)
+  - [Morse code or minimum dice problem](#q1-morse-code-or-minimum-dice-problem)
 - [2026-10-14 · IIT Hyderabad · FTE](#2026-10-14--iit-hyderabad--fte)
   - [Accenture Elite Engineering OA pattern](#q1-accenture-elite-engineering-oa-pattern)
-- [2026-10-14 · IIT Guwahati · FTE](#2026-10-14--iit-guwahati--fte)
-  - [Check Every 2 × 2 Block](#q1-check-every-2--2-block)
-  - [Minimum dice rolls to reach the end](#q2-minimum-dice-rolls-to-reach-the-end)
-  - [MCQ section on AI](#q3-mcq-section-on-ai)
-- [2026-10-14 · IIT Delhi · Unknown](#2026-10-14--iit-delhi--unknown)
-  - [Accenture Japan IT quiz (2025 sitting) - white-box testing](#q1-accenture-japan-it-quiz-2025-sitting---white-box-testing)
-  - [Statement NOT true about symmetric-key encryption](#q2-statement-not-true-about-symmetric-key-encryption)
-  - [Choosing movies to maximize count](#q3-choosing-movies-to-maximize-count)
-  - [C++ while loop reading yes](#q4-c-while-loop-reading-yes)
-  - [SLOs and SLAs incorrect options](#q5-slos-and-slas-incorrect-options)
-  - [Database rollforward processing](#q6-database-rollforward-processing)
-  - [AI alignment](#q7-ai-alignment)
-  - [Most inappropriate statement about Generative AI](#q8-most-inappropriate-statement-about-generative-ai)
-  - [Not a characteristic of a reliable transaction system](#q9-not-a-characteristic-of-a-reliable-transaction-system)
-  - [Expression equal to 6 × n using shifts](#q10-expression-equal-to-6--n-using-shifts)
-  - [In-memory vs traditional databases (incorrect description)](#q11-in-memory-vs-traditional-databases-incorrect-description)
-  - [Character never printed by function](#q12-character-never-printed-by-function)
+- [2026-10-13 · NIT Raipur · FTE](#2026-10-13--nit-raipur--fte)
+  - [Accenture OA pattern](#q1-accenture-oa-pattern-1)
 - [2026-10-13 · IIT Dhanbad · FTE](#2026-10-13--iit-dhanbad--fte)
   - [Minimum cost to visit target cities in a given order](#q1-minimum-cost-to-visit-target-cities-in-a-given-order)
-- [2026-10-12 · NIT Jalandhar · Intern · Advanced Technology Engineer](#2026-10-12--nit-jalandhar--intern--advanced-technology-engineer)
-  - [Accenture OA structure](#q1-accenture-oa-structure)
 - [2026-10-12 · MNNIT Allahabad · FTE](#2026-10-12--mnnit-allahabad--fte)
   - [Accenture technical assessment MCQ topics](#q1-accenture-technical-assessment-mcq-topics)
-- [2026-10-12 · IIT Dhanbad · FTE](#2026-10-12--iit-dhanbad--fte)
-  - [Accenture Japan OA pattern](#q1-accenture-japan-oa-pattern)
-  - [Morse code dictionary decode](#q2-morse-code-dictionary-decode)
-  - [Minimum dice rolls to reach the end](#q3-minimum-dice-rolls-to-reach-the-end-1)
 - [2026-10-11 · IIT Dhanbad · FTE](#2026-10-11--iit-dhanbad--fte)
   - [MCQ Section (20 MCQs, 20 min)](#q1-mcq-section-20-mcqs-20-min)
   - [Morse Code Dictionary (Set 1)](#q2-morse-code-dictionary-set-1)
@@ -393,32 +261,8 @@
   - [SQL three-table join](#q3-sql-three-table-join)
   - [Web dev HTML/CSS/JS task](#q4-web-dev-htmlcssjs-task)
   - [Count contiguous groups of same-sign elements](#q5-count-contiguous-groups-of-same-sign-elements)
-  - [Water remaining after watering trees](#q6-water-remaining-after-watering-trees)
-  - [SQL query joining 3 tables](#q7-sql-query-joining-3-tables)
-  - [Web dev task: HTML, CSS and JS](#q8-web-dev-task-html-css-and-js)
 - [2026-10-10 · IIT Hyderabad · Unknown](#2026-10-10--iit-hyderabad--unknown)
   - [Destinations with more than 2 hotels (SQL practice)](#q1-destinations-with-more-than-2-hotels-sql-practice)
-- [2026-10-10 · IIT Hyderabad · FTE · Elite Technology Engineer](#2026-10-10--iit-hyderabad--fte--elite-technology-engineer)
-  - [Count contiguous groups of same-sign elements](#q1-count-contiguous-groups-of-same-sign-elements-3)
-  - [SQL join across 3 tables](#q2-sql-join-across-3-tables)
-  - [JavaScript front-end DOM task](#q3-javascript-front-end-dom-task)
-  - [Remaining water after watering all trees](#q4-remaining-water-after-watering-all-trees)
-  - [Count contiguous groups of same-sign elements](#q5-count-contiguous-groups-of-same-sign-elements-1)
-  - [SQL join across 3 tables with GROUP BY and IS NULL](#q6-sql-join-across-3-tables-with-group-by-and-is-null)
-  - [Web dev: HTML/CSS/JavaScript modifications](#q7-web-dev-htmlcssjavascript-modifications)
-  - [Destinations with more than 2 hotels and average nightly rate (practice)](#q8-destinations-with-more-than-2-hotels-and-average-nightly-rate-practice)
-  - [Remaining water after watering N trees](#q9-remaining-water-after-watering-n-trees)
-  - [SQL: join of 3 tables with GROUP BY and IS NULL](#q10-sql-join-of-3-tables-with-group-by-and-is-null)
-  - [Web dev: HTML/CSS/JS task from comments](#q11-web-dev-htmlcssjs-task-from-comments)
-  - [SQL: destinations with more than 2 hotels and average nightly rate](#q12-sql-destinations-with-more-than-2-hotels-and-average-nightly-rate)
-  - [Count contiguous groups of same-sign elements](#q13-count-contiguous-groups-of-same-sign-elements)
-  - [SQL: join between 3 tables](#q14-sql-join-between-3-tables)
-  - [JavaScript front-end DOM task](#q15-javascript-front-end-dom-task)
-- [2026-10-10 · IIT Dhanbad · FTE · Elite Technology Engineer](#2026-10-10--iit-dhanbad--fte--elite-technology-engineer)
-  - [Next number with multiplicative persistence exactly 1](#q1-next-number-with-multiplicative-persistence-exactly-1)
-  - [Cars that have never been rented (car-rental schema)](#q2-cars-that-have-never-been-rented-car-rental-schema)
-  - [HTML/CSS/JS edits to given files](#q3-htmlcssjs-edits-to-given-files)
-  - [OA structure and communication rounds](#q4-oa-structure-and-communication-rounds)
 - [2026-10-09 · Unknown · FTE](#2026-10-09--unknown--fte)
   - [Elite Technology Engineer OA pattern (3 questions, 2 to qualify)](#q1-elite-technology-engineer-oa-pattern-3-questions-2-to-qualify)
 - [2026-10-09 · MNNIT Allahabad · FTE](#2026-10-09--mnnit-allahabad--fte)
@@ -426,15 +270,12 @@
   - [MCQ section size (Elite Technology Engineer OA)](#q2-mcq-section-size-elite-technology-engineer-oa)
 - [2026-10-09 · IIT Dhanbad · FTE](#2026-10-09--iit-dhanbad--fte)
   - [Accenture Japan OA format (1 coding question, 60 min)](#q1-accenture-japan-oa-format-1-coding-question-60-min)
-- [2026-10-09 · IIT Dhanbad · FTE · Elite Technology Engineer](#2026-10-09--iit-dhanbad--fte--elite-technology-engineer)
-  - [Next number with multiplicative persistence 1](#q1-next-number-with-multiplicative-persistence-1-2)
-  - [Cars that were never rented](#q2-cars-that-were-never-rented)
-  - [Modify HTML, CSS and JavaScript files](#q3-modify-html-css-and-javascript-files)
-  - [Verbal and written communication assessment](#q4-verbal-and-written-communication-assessment)
 - [2026-10-09 · IIT BHU · FTE](#2026-10-09--iit-bhu--fte)
   - [Next composite number greater than n with odd digit sum](#q1-next-composite-number-greater-than-n-with-odd-digit-sum)
 - [2026-10-08 · NIT Silchar · FTE](#2026-10-08--nit-silchar--fte)
   - [Accenture ATE role OA pattern](#q1-accenture-ate-role-oa-pattern)
+- [2026-10-06 · NIT Kurukshetra · FTE](#2026-10-06--nit-kurukshetra--fte)
+  - [Accenture OA game-based questions](#q1-accenture-oa-game-based-questions)
 - [2026-10-06 · MNNIT Allahabad · FTE](#2026-10-06--mnnit-allahabad--fte)
   - [Advanced Technology Engineer (ATE) OA pattern](#q1-advanced-technology-engineer-ate-oa-pattern)
 - [2026-10-06 · IIT Roorkee · FTE](#2026-10-06--iit-roorkee--fte)
@@ -445,8 +286,6 @@
   - [Accenture Elite/ATE OA pattern: backend, frontend and SQL](#q1-accenture-eliteate-oa-pattern-backend-frontend-and-sql)
 - [2026-10-03 · NIT Patna · FTE](#2026-10-03--nit-patna--fte)
   - [Accenture OA question topics (DSA and web dev)](#q1-accenture-oa-question-topics-dsa-and-web-dev)
-- [2026-10-03 · NIT Kurukshetra · Intern](#2026-10-03--nit-kurukshetra--intern)
-  - [Accenture OA structure](#q1-accenture-oa-structure-1)
 - [2026-10-02 · NIT Patna · FTE](#2026-10-02--nit-patna--fte)
   - [Accenture OA pattern (ATE / Advanced Application Engineering)](#q1-accenture-oa-pattern-ate--advanced-application-engineering)
 - [2026-10-01 · IIT BHU · FTE](#2026-10-01--iit-bhu--fte)
@@ -456,11 +295,7 @@
   - [Join two tables and return rows with NULL in a column](#q2-join-two-tables-and-return-rows-with-null-in-a-column)
   - [Change background color by clicking color-named divs (HTML/CSS/JS)](#q3-change-background-color-by-clicking-color-named-divs-htmlcssjs)
   - [Accenture ATE hiring process and communication round format](#q4-accenture-ate-hiring-process-and-communication-round-format)
-  - [Next composite number with odd digit sum](#q5-next-composite-number-with-odd-digit-sum)
-  - [Join two tables and return rows with NULL in a column](#q6-join-two-tables-and-return-rows-with-null-in-a-column)
-  - [Dev tasks: div colors, CSS border, add class](#q7-dev-tasks-div-colors-css-border-add-class)
-  - [Minimum steps to reach palindrome tiles](#q8-minimum-steps-to-reach-palindrome-tiles)
-  - [Accenture OA structure and communication round](#q9-accenture-oa-structure-and-communication-round)
+  - [Minimum steps to reach palindrome tiles](#q5-minimum-steps-to-reach-palindrome-tiles)
 - [2026-09-26 · IIT Dhanbad · FTE](#2026-09-26--iit-dhanbad--fte)
   - [Elite Technology Engineer OA structure (60 min, DSA + SQL + Web)](#q1-elite-technology-engineer-oa-structure-60-min-dsa--sql--web)
   - [Smallest number greater than n with multiplicative persistence 1](#q2-smallest-number-greater-than-n-with-multiplicative-persistence-1)
@@ -538,17 +373,13 @@
 
 ---
 
-## 2026-10-29 · IIT Guwahati · FTE
+## 2026-10-29 · IIT Hyderabad · FTE · ETE
 
-### Q1. Accenture communication round format
+### Q1. Email writing round
 
-Communication round format:
-1. Sentences are shown on screen and you read them aloud.
-2. Audio is played with something wrong in the sentence; you correct it and repeat the sentence.
-3. Audio is played and then questions are asked which you answer; there is also one conversation based on this.
-4. Speaking: a topic is given, 30 sec to prepare and 45 sec to speak. Email writing after that.
+A 30-minute email writing round. The full context and details are provided, and you write a professional email based on them. The format is a TO section, then the subject, then the body.
 
-<sub>Topics: OA Format, Verbal · Source: [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1288)</sub>
+<sub>Topics: Verbal, OA Format · Source: [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1302), [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1309)</sub>
 
 ## 2026-10-28 · IIT Roorkee · FTE · Elite
 
@@ -575,36 +406,7 @@ You are allowed to increase the value of K.
 
 (Input format, constraints and examples were not shared.)
 
-<sub>Topics: Binary Search, Arrays · Source: [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L1277)</sub>
-
-### Q2. SQL join: Kolkata Knight Riders players over 30
-
-Given two tables:
-
-**Players**
-
-| Column |
-|---|
-| player_id |
-| player_name |
-| age |
-| team_id |
-
-**Teams**
-
-| Column |
-|---|
-| team_id |
-| team_name |
-| country |
-
-**Task:** Write an SQL query to find the player name and age of players who satisfy all the following conditions:
-
-1. Player's age is greater than 30.
-2. Player's team is Indian.
-3. Team name is Kolkata Knight Riders
-
-<sub>Topics: SQL · Source: [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L1277)</sub>
+<sub>Topics: Binary Search, Arrays · Source: [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L1277) · Also asked at: IIT Roorkee (2026-10-21)</sub>
 
 ## 2026-10-28 · IIT Indore · FTE · Elite
 
@@ -772,7 +574,7 @@ About 7-8 sections:
 
 The poster's message is cut off after section 6.
 
-<sub>Topics: OA Format, Verbal · Source: [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L54)</sub>
+<sub>Topics: OA Format, Verbal · Source: [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L54) · Also asked at: IIT Delhi (2026-10-24), MNNIT Allahabad (2026-10-27), IIT Guwahati (2026-10-29)</sub>
 
 ## 2026-10-27 · MNNIT Allahabad · FTE · Advanced Technology Engineer
 
@@ -800,400 +602,6 @@ The poster's message is cut off after section 6.
 Another student replied that this pattern is old.
 
 <sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L57), [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L58)</sub>
-
-## 2026-10-27 · MNNIT Allahabad · FTE
-
-### Q1. Scalable cloud storage
-
-In a cloud-based application where scalability is crucial, which cloud storage option allows dynamic scaling without the need for manual intervention?
-
-A. Block storage
-B. File storage
-C. Object storage
-D. Table storage
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q2. Moving data from accumulator to memory
-
-As a computer architect designing the control unit of a CPU, you need to specify how data is moved from the accumulator to the memory. Which of the following best describes this operation?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q3. Hybrid cloud secure connectivity
-
-An enterprise adopts a hybrid cloud model combining on-premise infrastructure with public cloud services and wants to securely connect these environments and ensure reliability. What solutions should they implement?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q4. VPN type for work from home
-
-An employee at a multinational organization works from home and needs to access the company's internal network to retrieve files. Which type of VPN is best suited?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q5. Weekly automatic deployment practice
-
-An e-commerce company updates its website weekly with new features and fixes. Using Agile, after each update the new version is automatically deployed to the live environment, automating release to production frequently and reliably. Which practice is being implemented?
-
-A. Continuous Deployment
-B. Continuous Integration
-C. Continuous Testing
-D. Monitoring
-
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q6. Routing manipulation attack
-
-Hackers manipulate data packets travelling across a network by inserting malicious routing information, redirecting traffic through their own systems so they can pull, extract or edit data without detection. What type of attack is this? (A variant lists options A. Packet Sniffing, B. IP Spoofing, C. Routing Table Poisoning, D. DNS Spoofing.)
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q7. Register saved during context switch
-
-During a context switch, the OS saves the state of the running process and loads the state of the next process. Which CPU register, responsible for holding the address of the next instruction to be fetched, must be saved and restored?
-
-A. Stack Pointer
-B. General Purpose Register
-C. Program Counter
-D. Instruction Register
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q8. I/O bus with cached device controllers
-
-You want to design a bus system where I/O devices are connected to the computer via wires and data transfer is handled electronically. The host controller sends messages to the device controller, which performs the operation. If device controllers have a built-in cache for faster data transfer, which device will you choose?
-
-A. Enhanced Integrated Device Electronics A
-B. Enhanced Integrated Device Electronics B
-C. Enhanced Integrated Device Electronics C
-D. Enhanced Integrated Hard Driver
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q9. Chosen-plaintext attack on symmetric encryption
-
-Each party encrypts messages with a shared secret key and the receiver decrypts with the same key. If an attacker can send a specially crafted message to one party and analyse the resulting encrypted output, which technique is most likely to compromise the secret key?
-
-A. Analyzing patterns in intercepted encrypted messages
-B. Comparing the crafted message's encrypted output with previously encrypted messages
-C. Performing a brute-force attack on intercepted messages
-D. Matching message lengths to guess the content
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q10. Defining characteristic of containers
-
-A team uses containerization to streamline deployment by encapsulating applications and dependencies. Which characteristic defines containers?
-
-A. Virtual machines with a dedicated Hypervisor
-B. A logical separate network within the server
-C. Part of the same OS instance as the Hypervisor
-D. Virtual computers running under a Hypervisor
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q11. WPA3 Android configuration: incorrect line
-
-A developer configures a high-security Wi-Fi environment for a sensitive government project using Android devices. The configuration includes:
-
-```
-Config SAE = Y
-Config SUITEB = Y
-Configure SUITEB192 = Y
-```
-
-Which configuration line is incorrect or redundant and might weaken the desired security level?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q12. HTTP method to read restaurant list
-
-A mobile application needs to retrieve a list of all available restaurants from a food delivery service's API. It should only read data without changing server resources. Which HTTP method is most appropriate?
-
-A. POST
-B. PUT
-C. DELETE
-D. GET
-
-<sub>Topics: Web Dev, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q13. Resource pooling and storage elasticity
-
-In a data centre modernization initiative, the IT team wants to leverage existing storage devices from various vendors and integrate them with a next-generation storage solution. How does resource pooling play a crucial role in achieving elasticity in storage solutions for cloud computing?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q14. OS property for running on varied hardware
-
-You are developing an application for a large corporation that must run on computers with varying hardware specifications and operating systems. Which property of an operating system is most important to consider?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q15. Cloud features for flash-sale traffic spikes
-
-An e-commerce website sees sudden traffic spikes during a flash sale. The platform needs to access resources to handle the increase without manual intervention. Which cloud features should be prioritized?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q16. Shared responsibility model
-
-A company migrates its application to a cloud-connected environment where the cloud provider handles infrastructure services while the customer develops and deploys the application. How does the shared responsibility model impact security management in this scenario?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q17. PowerPoint strictest slide navigation control
-
-You are building a training module in MS PowerPoint and want users to view each slide sequentially with narration, without freely skipping slides. Which setting provides the strictest control over slide navigation?
-
-A. Add hyperlinks between slides
-B. Use normal Slide Show mode
-C. Set up Slide Show as Browsed at a kiosk (full screen)
-D. Enable Presenter View
-
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q18. Protocol for cloud email transmission
-
-If a company wants secure and reliable email transmission for its cloud-based email service, which protocol should they implement?
-
-A. HTTP
-B. FTP
-C. SMTP
-D. POP3
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q19. File format for a Word template
-
-To create a document template for repeated use, which file format should you save the document in?
-
-A. .docx
-B. .pdf
-C. .dotx
-D. .txt
-
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q20. Kernel-level isolation among containers with peripherals
-
-An application relies on multiple hardware peripherals and requires strict isolation from other running containers. The team uses a kernel-level configuration to allocate specific hardware resources to each container and restrict access to non-allocated devices. What is the most critical factor in maintaining operational security and preventing resource contention among containers?
-
-a. Ensuring that the host OS scheduler allocates CPU cycles equally to all containers
-b. Configuring the kernel to enforce strict resource isolation and limit peripheral access to only allocated devices
-c. Allowing virtualization software to dynamically allocate additional memory as required
-d. Allowing containers to share network interfaces with individual access control lists
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q21. Device controller with high-speed buffers
-
-Data is transferred between the CPU and a peripheral through a shared bus controlled by device controllers to improve speed and reduce latency. The controllers have dedicated high-speed buffers. Which device controller is most suitable?
-
-A. Wireless Controller
-B. USB Controller
-C. SATA Controller
-D. Ethernet Controller
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q22. OS property to prioritize after a security breach
-
-Your company recently suffered a security breach. As IT manager you must enhance the security of the computer's operating system. Which property of an OS should you prioritize?
-
-A. Access Control
-B. User Interface
-C. Multitasking
-D. Virtual Memory
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q23. HTTP status for Not Found
-
-During development, an incorrect or unavailable API endpoint results in a "Not Found" response. Which HTTP status code most accurately represents this error?
-
-A. 404
-B. 500
-C. 403
-D. 400
-
-<sub>Topics: Web Dev, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q24. PowerPoint feature for dynamic progression slide
-
-Jane wants to create a slide that illustrates a progression over time using icons, text and blanks, appearing visually dynamic without manually animating each step. Which MS PowerPoint feature can speed this up?
-
-A. Use Slide Zoom feature to create dynamic progression
-B. Use a SmartArt process layout
-C. Apply the Morph transition across duplicated slides for a smooth effect
-D. Create a custom layout with background images and animation triggers
-
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q25. VPN topology for two offices
-
-Two geographically separate offices, A and B, need to let all users in each office securely access resources in the other as if on the same local network. Which VPN topology is most appropriate?
-
-A. Remote Access VPN
-B. Site-to-Site VPN
-C. Client-to-Server VPN
-D. Peer-to-Peer VPN
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q26. RESTful endpoint to fetch a product by ID
-
-A team is designing a RESTful API for a product catalog. They need an endpoint that retrieves details of a specific product using its unique product ID. Which HTTP method and URL structure best align with RESTful principles?
-
-A. POST /products/{productId}
-B. GET /products/{productId}
-C. PUT /products/{productId}
-D. DELETE /products/{productId}
-
-<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q27. Containerized app consuming massive memory
-
-A containerized application is consuming massive memory, causing performance issues. What is the recommended approach to address this effectively?
-
-A. Increase the memory limit for the container
-B. Use a larger base image for the container
-C. Reduce the number of replicas of the container
-D. Analyze the application code for memory leaks
-
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q28. Technology for multiple isolated environments on one server
-
-A cloud infrastructure requires running multiple isolated environments on a single physical server. Which technology is primarily used to achieve this?
-
-A. Containers
-B. Virtual Machines (VMs)
-C. Serverless computing
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q29. OSI layer transmitting Ethernet, cable and Wi-Fi signals
-
-A user connects devices like a computer, smartphone and smart TV to a router. Which OSI model layer is responsible for transmitting Ethernet, cable and Wi-Fi signals between these devices?
-
-A. Physical Layer
-B. Network Layer
-C. Data Link Layer
-D. Application Layer
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q30. PivotTable custom calculations
-
-In a PivotTable, which feature allows you to create custom calculations and summaries based on the existing data?
-
-A. Calculated Fields
-B. Calculated Items
-C. Slicers
-D. Grouping
-
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q31. OSI layer for routing between network segments
-
-Data packets are transmitted between routers and switches. Which OSI model layer is responsible for establishing logical paths and routing data packets between different network segments?
-
-A. Data Link Layer
-B. Network Layer
-C. Transport Layer
-D. Session Layer
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q32. Security measure requiring two identification types
-
-In a cloud computing environment, which security measure helps protect user accounts by requiring two different types of identification before granting access?
-
-A. Firewalls
-B. Encryption
-C. Multi-Factor Authentication (MFA)
-D. Antivirus Software
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q33. Ring topology workstation failure
-
-A small business uses ring network topology. If a single workstation goes down, what impact will it have on the network?
-
-A. Minimal impact; network reroutes traffic
-B. Network becomes isolated
-C. Network slows down
-D. Network breaks completely
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q34. System calls to create process and run new executable
-
-A program needs to create a new process and run a different executable file. Which pair of system calls fulfils this requirement in a Unix-like OS?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q35. Converting data to secure format
-
-What is the process of converting data into a secure format to prevent unauthorized access?
-
-A. Encryption
-B. Authentication
-C. Authorization
-D. Compression
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q36. Protocol to secure data in transit
-
-Which protocol is commonly used to secure data in transit over the internet by encrypting communication between systems?
-
-A. HTTP
-B. MTP
-C. SSL/TLS
-D. SMTP
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q37. Most secure cloud deployment model for sensitive data
-
-You work for an organization migrating to cloud infrastructure and are responsible for data security. In the context of IT governance and cloud security, which cloud deployment model is typically the most secure choice for organizations with highly sensitive data?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q38. Server response to connection request
-
-A client application sends a SYN packet to request a reliable connection to a remote server. What is the expected response from the server, assuming it is available and ready to accept the connection?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q39. Most secure Wi-Fi encryption protocol
-
-A network administrator must select a secure wireless encryption protocol. Which of the following is considered the most secure for Wi-Fi networks?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q40. Attack by specifying packet route to bypass packet-filter firewall
-
-Hackers steal data through your network by specifying the route to be used by packets, to avoid security measures that do not analyse source information instead of using a packet filter firewall. What is this type of attack called?
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/13909-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
-
-### Q41. Communication round: speaking section format
-
-The speaking section of the Accenture communication round has about 7-8 parts:
-
-1. A sentence is shown on screen and you have to repeat (read) it aloud.
-2. A sentence is played as audio and you have to repeat it.
-3. A sentence containing a grammatical mistake is played; you have to correct it and repeat the corrected sentence.
-4. A conversation is played, then questions are asked about it and you have to answer.
-5. A context/scenario is given and you have to hold a conversation based on it.
-6. You get 30 seconds to prepare a topic and then speak on it for 45 seconds. The poster's topic was: describe a scene of an accident.
-
-The poster listed only six parts, and the text was cut off after that. The email-writing topic was not given.
-
-<sub>Topics: OA Format, Verbal · Source: [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L70)</sub>
 
 ## 2026-10-27 · IIT Dhanbad · FTE · Elite Technology Engineer
 
@@ -1250,76 +658,6 @@ Held the day after the technical OA for shortlisted candidates.
 
 <sub>Topics: OA Format, Verbal · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process (1).pdf](../archive/files/13908-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process_1_.pdf)</sub>
 
-## 2026-10-26 · IIT Roorkee · FTE · AI and Data
-
-### Q1. Scalable cloud storage
-
-In a cloud-based application where scalability is crucial, which cloud storage option allows dynamic scaling without the need for manual intervention?
-
-a. Block storage
-b. File storage
-c. Object storage
-d. Table storage
-
-Answer given: c. Object storage
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L173)</sub>
-
-### Q2. HTTP method to read restaurants
-
-A mobile application needs to retrieve a list of all available restaurants from a food delivery service's API. The application should only read data without making any changes to the server resources. Which HTTP method is most appropriate for this operation?
-
-A. POST
-B. PUT
-C. DELETE
-D. GET
-
-Answer given: D. GET
-
-<sub>Topics: Web Dev · Source: [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L173)</sub>
-
-### Q3. Status code for Not Found endpoint
-
-During application development, a developer encounters an error due to an incorrect or unavailable API endpoint, resulting in a "Not Found" response. Which HTTP status code most accurately represents this error?
-
-A. 404
-B. 500
-C. 403
-D. 400
-
-Answer given: A. 404
-
-<sub>Topics: Web Dev · Source: [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L173)</sub>
-
-### Q4. System calls to create process and run executable
-
-A developer writes a program that needs to create a new process and run a different executable file. Which pair of system calls fulfills this requirement in a Unix-like OS?
-
-Answer given: fork() creates a new process and exec() replaces it with a new executable.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L173)</sub>
-
-### Q5. Protocol to encrypt data in transit
-
-Which protocol is commonly used to secure data in transit over the internet by encrypting communication between systems?
-
-A. HTTP
-B. MTP
-C. SSL/TLS
-D. SMTP
-
-Answer given: C. TLS
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L173)</sub>
-
-### Q6. IT governance in cloud migration
-
-Assume that you have recently started working for an organization that is migrating to a cloud-based infrastructure. As part of IT governance, you ...
-
-The message was cut off here; the rest of the question is missing.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L173)</sub>
-
 ## 2026-10-26 · IIT Roorkee · FTE · Interview
 
 ### Q1. Accenture communication round format
@@ -1348,238 +686,7 @@ A wired earphone/mic is required; the Accenture team said communication attempte
 
 ## 2026-10-25 · IIT Roorkee · FTE
 
-### Q1. Scalable cloud storage
-
-In a cloud-based application where scalability is crucial, which cloud storage option allows dynamic scaling without the need for manual intervention?
-
-A. Block storage
-B. File storage
-C. Object storage
-D. Table storage
-
-Answer given: C. Object storage
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q2. Accumulator to memory transfer
-
-As a computer architect, you are designing the control unit of a CPU. You need to specify how data is moved from the accumulator to the memory. Which of the following best describes this operation?
-
-Answer given: Data transfer from accumulator to memory is done using a Store instruction.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q3. Hybrid cloud connectivity solution
-
-An enterprise is adopting a hybrid cloud model where they combine on-premise infrastructure with public cloud services to securely connect these environments and ensure reliability. What solutions should they implement?
-
-Answer given: Secure VPN or dedicated connectivity like Direct Connect.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q4. VPN type for work from home
-
-Assume that an employee at a multinational organization is working from home and needs to access the company's internal network to retrieve some files. Which type of VPN will be best suitable for this case?
-
-Answer given: Remote Access VPN.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q5. Automated weekly release practice
-
-An e-commerce company updates its website weekly with new features and fixes. Using an Agile development approach, after each update the new version is automatically deployed to the live environment. This practice automates the release of software to production frequently and reliably. Which practice is being implemented?
-
-A. Continuous Deployment
-B. Continuous Integration
-C. Continuous Testing
-D. Monitoring
-
-Answer given: A. Continuous Deployment
-
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q6. Routing manipulation attack
-
-Hackers can manipulate data packets traveling across a network by inserting malicious routing information, allowing them to redirect traffic through their own systems. This enables them to pull, extract, or edit data without detection. What type of attack is this called?
-
-Answer given: Man-in-the-Middle (MITM) attack.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q7. Register saved during context switch
-
-During a context switch, the operating system saves the state of the currently running process and loads the state of the next process. Which crucial CPU register, responsible for loading the address of the next instruction to be fetched, must be saved and restored?
-
-Answer given: Program Counter (PC).
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q8. Bus design with cached device controller
-
-Suppose you want to design a bus system where input-output devices are connected to the computer via wires, and data transfer is handled electronically. The host controller sends messages to the device controller, which performs the operation. If the device controllers have a built-in cache for faster data transfer, which device will you choose?
-
-A. Enhanced Integrated Device Electronics A
-B. Enhanced Integrated Device Electronics B
-C. Enhanced Integrated Device Electronics C
-D. Enhanced Integrated Hard Driver
-
-Answer given: B (EIDE B).
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q9. Attack on shared-key symmetric encryption
-
-Each party encrypts messages before sending them using a shared secret key, and messages are decrypted by the receiving party using the same key. If an attacker can send a specially crafted message to one party and analyze the resulting encrypted output, which technique is most likely to compromise the secret key in this symmetric encryption system?
-
-A. Analyzing patterns in intercepted encrypted messages
-B. Comparing the crafted message's encrypted output with previously encrypted messages
-C. Performing a brute-force attack on intercepted messages
-D. Matching message lengths to guess the content
-
-Answer given: B (chosen-plaintext attack).
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q10. Defining characteristic of containers
-
-A software development team is implementing containerization to streamline application deployment by encapsulating applications and their dependencies. Which characteristic defines containers in the context of software development and deployment?
-
-A. Virtual machines with a dedicated Hypervisor ALKIDI
-B. A logical separate network within the server
-C. Part of the same OS instance as the Hypervisor
-D. Virtual computers running under a Hypervisor
-
-Answer given: C.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q11. Redundant Android WPA3 config line
-
-A developer is configuring a high-security Wi-Fi environment for a sensitive government project using Android devices. The configuration includes:
-
-```
-Config SAE = Y
-Config SUITEB = Y
-Configure SUITEB192 = Y
-```
-
-In the given scenario, which configuration line is incorrect or redundant and might potentially weaken the desired security level?
-
-Answer given: Configure SUITEB192 = Y is redundant.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q12. HTTP method to read restaurants
-
-A mobile application needs to retrieve a list of all available restaurants from a food delivery service's API. The application should only read data without making any changes to the server resources. Which HTTP method is most appropriate?
-
-A. POST
-B. PUT
-C. DELETE
-D. GET
-
-Answer given: D. GET
-
-<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q13. Resource pooling and storage elasticity
-
-As part of a data center modernization initiative, the IT team is tasked with addressing storage challenges. The goal is to leverage existing storage devices from various vendors and integrate them with a next-generation storage solution. How does resource pooling play a crucial role in achieving elasticity in storage solutions for cloud computing?
-
-Answer given: Resource pooling enables dynamic allocation of shared storage capacity to meet demand.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q14. OS property for cross-system compatibility
-
-Consider you are a software developer working on a new application for a large corporation. Your application is expected to run on a variety of different computers with varying hardware specifications and operating systems. Which property of an operating system is most important for you to consider?
-
-Answer given: Resource Allocation.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q15. Cloud features for flash-sale traffic spikes
-
-An e-commerce website experiences sudden traffic spikes during a flash sale. The platform needs to access resources to handle the increase without manual intervention. Which cloud features should be prioritized?
-
-Answer given: Auto-scaling and load balancing.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q16. Shared responsibility model
-
-Assume that a company migrates its application to a cloud-connected environment where the cloud provider handles infrastructure services while the customer develops and deploys the application. How does the shared responsibility model impact security management in this scenario?
-
-Answer given: Both the cloud provider and the customer share security responsibilities.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q17. PowerPoint strictest slide navigation control
-
-You are building a training module in MS PowerPoint and want to restrict navigation so that users must view each slide sequentially with narration, without freely skipping slides. Which setting provides the strictest control over slide navigation?
-
-A. Add hyperlinks between slides
-B. Use normal Slide Show mode
-C. Set up Slide Show as Browsed at a kiosk (full screen)
-D. Enable Presenter View
-
-Answer given: C.
-
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q18. Protocol for cloud email transmission
-
-If a company wants to ensure secure and reliable email transmission for its cloud-based email service, which protocol should they implement?
-
-A. HTTP
-B. FTP
-C. SMTP
-D. POP3
-
-Answer given: C. SMTP
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q19. File format for Word template
-
-To create a document template for repeated use, which file format should you save the document in?
-
-A. .docx
-B. .pdf
-C. .dotx
-D. .txt
-
-Answer given: C. .dotx
-
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q20. Container isolation of hardware peripherals
-
-An application relies on multiple hardware peripherals and requires strict isolation from other running containers to maintain data integrity and operational security. The development team uses a kernel-level configuration to allocate specific hardware resources to each container and restrict access to non-allocated devices. What is the most critical factor in maintaining operational security and preventing resource contention among containers?
-
-a. Ensuring that the host OS scheduler allocates CPU cycles equally to all containers
-b. Configuring the kernel to enforce strict resource isolation and limit peripheral access to only allocated devices.
-c. Allowing virtualization software to dynamically allocate additional memory as required
-d. Allowing containers to share network interfaces with individual access control lists
-
-Answer given: b.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q21. Device controller with high-speed buffers
-
-Data is transferred between the CPU and a peripheral device through a shared bus controlled by device controllers to improve data transfer speed and reduce latency. The system uses controllers with dedicated high-speed buffers. Which of the following device controllers is most suitable for this purpose?
-
-A. Wireless Controller
-B. USB Controller
-C. SATA Controller
-D. Ethernet Controller
-
-Answer given: C. SATA Controller
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q22. Attack redirecting traffic via routing information
+### Q1. Attack redirecting traffic via routing information
 
 Hackers attempt to intercept and manipulate data packets traveling across a network by inserting malicious code or routing information, allowing them to redirect traffic through their own system. This enables them to eavesdrop or alter data without detection. What type of attack is this called?
 
@@ -1590,48 +697,9 @@ D. DNS Spoofing
 
 Answer given: C. Routing Table Poisoning
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Mandi (2026-10-25)</sub>
 
-### Q23. Status code for Not Found endpoint
-
-During application development, a developer encounters an error due to an incorrect or unavailable API endpoint, resulting in a "Not Found" response. Which HTTP status code most accurately represents this error?
-
-A. 404
-B. 500
-C. 403
-D. 400
-
-Answer given: A. 404
-
-<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q24. OS property to prioritise after a breach
-
-You are employed by a company that has recently suffered a security breach. As the IT manager, you are responsible for enhancing the security of the computer's operating system. Which property of an operating system should you prioritize to achieve this goal?
-
-A. Access Control
-B. User Interface
-C. Multitasking
-D. Virtual Memory
-
-Answer given: A. Access Control
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q25. PowerPoint feature for progression slide
-
-Jane wants to create a slide that illustrates a progression over time using icons, text, and blanks. She wants it to appear visually dynamic without manually animating each step. Which MS PowerPoint feature can help speed up this process?
-
-A. Use Slide Zoom feature to create dynamic progression
-B. Use a SmartArt process layout
-C. Apply the Morph transition across duplicated slides for a smooth effect
-D. Create a custom layout with background images and animation triggers
-
-Answer given: C. Morph transition
-
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q26. Register held during context switch (MCQ)
+### Q2. Register held during context switch (MCQ)
 
 During a context switch, the operating system saves the state of the currently running process and loads the state of the next process to be executed. Which CPU register, responsible for holding the address of the next instruction to be fetched, must be saved and restored during this operation?
 
@@ -1641,188 +709,6 @@ C. Program Counter
 D. Instruction Register
 
 Answer given: C. Program Counter
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q27. VPN topology for connecting two offices
-
-Two geographically separate offices, Office A and Office B, need to allow all users in Office A to securely access resources in Office B and vice versa, as if they were on the same local network. Which VPN topology is most appropriate?
-
-A. Remote Access VPN
-B. Site-to-Site VPN
-C. Client-to-Server VPN
-D. Peer-to-Peer VPN
-
-Answer given: B. Site-to-Site VPN
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q28. RESTful endpoint for product by ID
-
-A development team is designing a new RESTful API to manage a product catalog for their e-commerce platform. They need to create an endpoint that retrieves details of a specific product using its unique product ID. Which HTTP method and URL structure best align with RESTful principles?
-
-A. POST /products/{productId}
-B. GET /products/{productId}
-C. PUT /products/{productId}
-D. DELETE /products/{productId}
-
-Answer given: B.
-
-<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q29. Containerized app consuming massive memory
-
-A containerized application is consuming massive memory, causing performance issues. What is the recommended approach to address this problem effectively?
-
-A. Increase the memory limit for the container
-B. Use a larger base image for the container
-C. Reduce the number of replicas of the container
-D. Analyze the application code for memory leaks
-
-Answer given: D.
-
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q30. Technology for isolated environments on one server
-
-A cloud infrastructure requires running multiple isolated environments on a single physical server. Which technology is primarily used to achieve this?
-
-A. Containers
-B. Virtual Machines (VMs)
-C. Serverless computing
-
-Answer given: B. Virtual Machines
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q31. OSI layer for transmitting signals
-
-An internet connection is established by a user, connecting devices like a computer, smartphone, and smart TV to a router. Which OSI model layer is responsible for transmitting Ethernet, cable, and Wi-Fi signals between these devices?
-
-A. Physical Layer
-B. Network Layer
-C. Data Link Layer
-D. Application Layer
-
-Answer given: A. Physical Layer
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q32. PivotTable custom calculations
-
-In a PivotTable, which feature allows you to create custom calculations and summaries based on the existing data?
-
-A. Calculated Fields
-B. Calculated Items
-C. Slicers
-D. Grouping
-
-Answer given: A. Calculated Fields
-
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q33. OSI layer for routing between segments
-
-Data packets are transmitted between routers and switches to ensure proper delivery across different network segments. Which OSI model layer is responsible for establishing logical paths and routing data packets between different network segments?
-
-A. Data Link Layer
-B. Network Layer
-C. Transport Layer
-D. Session Layer
-
-Answer given: B. Network Layer
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q34. System calls to create process and run executable
-
-A developer writes a program that needs to create a new process and run a different executable file. Which pair of system calls fulfills this requirement in a Unix-like OS?
-
-Answer given: fork() creates a new process and exec() replaces it with a new executable.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q35. Security measure requiring two identifiers
-
-In a cloud computing environment, which security measure helps protect user accounts by requiring two different types of identification before granting access?
-
-A. Firewalls
-B. Encryption
-C. Multi-Factor Authentication (MFA)
-D. Antivirus Software
-
-Answer given: C. MFA
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q36. Ring topology workstation failure
-
-A small business uses ring network topology. If a single workstation goes down, what impact will it have on the network?
-
-A. Minimal impact; network reroutes traffic
-B. Network becomes isolated
-C. Network slows down
-D. Network breaks completely
-
-Answer given: D.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q37. Converting data to secure format
-
-What is the process of converting data into a secure format to prevent unauthorized access?
-
-A. Encryption
-B. Authentication
-C. Authorization
-D. Compression
-
-Answer given: A. Encryption
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q38. Protocol to encrypt data in transit
-
-Which protocol is commonly used to secure data in transit over the internet by encrypting communication between systems?
-
-A. HTTP
-B. MTP
-C. SSL/TLS
-D. SMTP
-
-Answer given: C. SSL/TLS
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q39. Most secure cloud deployment model
-
-Assume you have recently started working for an organization that is migrating to a cloud-based infrastructure. As part of IT governance, you are responsible for ensuring data security in the cloud environment. You need to choose the most secure option for your organization's sensitive data. In the context of IT governance and cloud security, which cloud deployment model is typically the most secure choice for organizations with highly sensitive data?
-
-Answer given: Private Cloud.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q40. Server response to SYN
-
-After initializing a connection attempt to a remote server, a client application sends a SYN packet to request a reliable connection. What is the expected response from the server, assuming it is available and prepared to accept the connection?
-
-Answer given: The server responds with a SYN-ACK packet.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q41. Most secure Wi-Fi encryption protocol
-
-A network administrator is tasked with selecting a secure wireless encryption protocol. Which of the following is considered the most secure for Wi-Fi networks?
-
-Answer given: WPA3.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
-
-### Q42. Attack specifying packet route to bypass firewall
-
-Assume your computer's data was stolen by hackers through your network by specifying the route to be used by the packets. This is done by the hackers to avoid security measures due to non-analyzing of source information instead of using a packet filter firewall. What is this type of attack called?
-
-Answer given: Source Routing Attack.
 
 <sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
 
@@ -1837,25 +723,25 @@ In a cloud-based application where scalability is crucial, which cloud storage o
 - **C.** Object storage  
 - **D.** Table storage. Answer given: c. Object storage.
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25), IIT Mandi (2026-10-25), IIT Roorkee ×2 (last 2026-10-26), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q2. Accumulator to memory transfer
 
 As a computer architect, you are designing the control unit of a CPU. You need to specify how data is moved from the accumulator to the memory. Which of the following best describes this operation? Answer given: Data transfer from accumulator to memory is done using a Store instruction.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q3. Hybrid cloud connectivity
 
 An enterprise is adopting a hybrid cloud model where they combine on-premise infrastructure with public cloud services to securely connect these environments and ensure reliability. What solutions should they implement? Answer given: Secure VPN or dedicated connectivity like Direct Connect.
 
-<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q4. VPN for remote access
 
 An employee at a multinational organization is working from home and needs to access the company's internal network to retrieve some files. Which type of VPN will be best suitable for this case? Answer given: Remote Access VPN.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q5. DevOps continuous deployment
 
@@ -1866,19 +752,19 @@ An e-commerce company updates its website weekly with new features and fixes. Us
 - **C.** Continuous Testing  
 - **D.** Monitoring. Answer given: a. Continuous Deployment.
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q6. Routing manipulation attack
 
 Hackers can manipulate data packets traveling across a network by inserting malicious routing information, allowing them to redirect traffic through their own systems. This method enables them to pull, extract, or edit data without detection. What type of attack is this called? Answer given: Man-in-the-Middle (MITM) attack.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: BITS Pilani (2026-10-25)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: BITS Pilani (2026-10-25), IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q7. Register saved during context switch
 
 During a context switch, the operating system saves the state of the currently running process and loads the state of the next process to be executed. Which crucial CPU register responsible for loading the address of the next instruction to be fetched must be saved and restored during this operation? Answer given: Program Counter (PC).
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), BITS Pilani (2026-10-25)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), BITS Pilani (2026-10-25), IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q8. I/O bus device controller with built-in cache
 
@@ -1889,7 +775,7 @@ Suppose you want to design a bus system where input-output devices are connected
 - **C.** Enhanced Integrated Device Electronics C  
 - **D.** Enhanced Integrated Hard Driver. Answer given: B. EIDE B.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: BITS Pilani (2026-10-25)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: BITS Pilani (2026-10-25), IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q9. Attack on symmetric encryption key
 
@@ -1900,7 +786,7 @@ Each party encrypts messages before sending them using a shared secret key, and 
 - **C.** Performing a brute-force attack on intercepted messages  
 - **D.** Matching message lengths to guess the content. Answer given: B (chosen-plaintext attack).
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q10. Containerization characteristic
 
@@ -1911,13 +797,13 @@ A software development team is implementing containerization to streamline appli
 - **C.** Part of the same OS instance as the Hypervisor  
 - **D.** Virtual computers running under a Hypervisor. Answer given: C. Part of the same OS instance as the Hypervisor.
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q11. WPA3 configuration on Android
 
 A developer is tasked with configuring a high-security Wi-Fi environment for a sensitive government project using Android devices. The configuration includes: Config SAE = Y; Config SUITEB = Y; Configure SUITEB192 = Y. Which configuration line is incorrect or redundant and might potentially weaken the desired security level? Answer given: Configure SUITEB192 = Y.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q12. HTTP method to read restaurant list
 
@@ -1928,31 +814,31 @@ A mobile application needs to retrieve a list of all available restaurants from 
 - **C.** DELETE  
 - **D.** GET. Answer given: D. GET.
 
-<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25)</sub>
+<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25), IIT Mandi (2026-10-25), IIT Roorkee ×2 (last 2026-10-26), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q13. Resource pooling and storage elasticity
 
 As part of a data center modernization initiative, the IT team is tasked with addressing storage challenges. The goal is to leverage existing storage devices from various vendors and integrate them with a next-generation storage solution. How does resource pooling play a crucial role in achieving elasticity in storage solutions for cloud computing? Answer given: Resource pooling enables dynamic allocation of shared storage capacity to meet demand.
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q14. OS property for application compatibility
 
 You are a software developer working on a new application for a large corporation. Your application is expected to run on a variety of different computers with varying hardware specifications and operating systems. Which property of an operating system is most important for you to consider? Answer given: Resource Allocation.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q15. Handling cloud traffic spikes
 
 An e-commerce website experiences sudden traffic spikes during a flash sale. The platform needs to access resources to handle the increase without manual intervention. Which cloud features should be prioritized? Answer given: Auto-scaling and load balancing.
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q16. Shared responsibility model
 
 A company migrates its application to a cloud-connected environment where the cloud provider handles infrastructure services while the customer develops and deploys the application. How does the shared responsibility model impact security management in this scenario? Answer given: Both the cloud provider and the customer share security responsibilities.
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q17. PowerPoint restrict slide navigation
 
@@ -1963,7 +849,7 @@ You are building a training module in MS PowerPoint and want to restrict navigat
 - **C.** Set up Slide Show as Browsed at a kiosk (full screen)  
 - **D.** Enable Presenter View. Answer given: C.
 
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q18. Protocol for secure email transmission
 
@@ -1974,7 +860,7 @@ If a company wants to ensure secure and reliable email transmission for its clou
 - **C.** SMTP  
 - **D.** POP3. Answer given: C. SMTP.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q19. Word document template format
 
@@ -1985,7 +871,7 @@ To create a document template for repeated use, which file format should you sav
 - **C.** .dotx  
 - **D.** .txt. Answer given: C. .dotx.
 
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q20. Container hardware isolation
 
@@ -1996,7 +882,7 @@ An application relies on multiple hardware peripherals and requires strict isola
 - **C.** Allowing virtualization software to dynamically allocate additional memory as required  
 - **D.** Allowing containers to share network interfaces with individual access control lists. Answer given: b.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q21. HTTP status code for Not Found
 
@@ -2007,7 +893,7 @@ During application development, a developer encounters an error due to an incorr
 - **C.** 403  
 - **D.** 400. Answer given: A. 404.
 
-<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25)</sub>
+<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25), IIT Mandi (2026-10-25), IIT Roorkee ×2 (last 2026-10-26), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q22. OS property for security after breach
 
@@ -2018,7 +904,7 @@ You are employed by a company that has recently suffered a security breach. As t
 - **C.** Multitasking  
 - **D.** Virtual Memory. Answer given: A. Access Control.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q23. PowerPoint dynamic progression feature
 
@@ -2029,7 +915,7 @@ Jane wants to create a slide that illustrates a progression over time using icon
 - **C.** Apply the Morph transition across duplicated slides  
 - **D.** Create a custom layout with background images and animation triggers. Answer given: C. Morph transition.
 
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q24. VPN topology for two offices
 
@@ -2040,7 +926,7 @@ Two geographically separate offices, Office A and Office B, need to allow all us
 - **C.** Client-to-Server VPN  
 - **D.** Peer-to-Peer VPN. Answer given: B. Site-to-Site VPN.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q25. RESTful endpoint for product by ID
 
@@ -2051,7 +937,7 @@ A development team is designing a new RESTful API to manage a product catalog fo
 - **C.** PUT /products/{productId}  
 - **D.** DELETE /products/{productId}. Answer given: B.
 
-<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q26. Container consuming massive memory
 
@@ -2062,7 +948,7 @@ A containerized application is consuming massive memory, causing performance iss
 - **C.** Reduce the number of replicas  
 - **D.** Analyze the application code for memory leaks. Answer given: D.
 
-<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q27. Isolated environments on one server
 
@@ -2072,7 +958,7 @@ A cloud infrastructure requires running multiple isolated environments on a sing
 - **B.** Virtual Machines (VMs)  
 - **C.** Serverless computing. Answer given: B. Virtual Machines.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q28. OSI layer for transmitting signals
 
@@ -2083,7 +969,7 @@ An internet connection is established by a user, connecting devices like a compu
 - **C.** Data Link Layer  
 - **D.** Application Layer. Answer given: A. Physical Layer.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q29. PivotTable custom calculations
 
@@ -2094,7 +980,7 @@ In a PivotTable, which feature allows you to create custom calculations and summ
 - **C.** Slicers  
 - **D.** Grouping. Answer given: A. Calculated Fields.
 
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q30. OSI layer for routing packets
 
@@ -2105,13 +991,13 @@ Data packets are transmitted between routers and switches to ensure proper deliv
 - **C.** Transport Layer  
 - **D.** Session Layer. Answer given: B. Network Layer.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q31. System calls to create process and run executable
 
 A developer writes a program that needs to create a new process and run a different executable file. Which pair of system calls fulfills this requirement in a Unix-like OS? Answer given: fork() creates a new process and exec() replaces it with a new executable.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25), IIT Mandi (2026-10-25), IIT Roorkee ×2 (last 2026-10-26), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q32. Two-factor identification security measure
 
@@ -2122,7 +1008,7 @@ In a cloud computing environment, which security measure helps protect user acco
 - **C.** Multi-Factor Authentication (MFA)  
 - **D.** Antivirus Software. Answer given: C. MFA.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q33. Ring topology workstation failure
 
@@ -2133,7 +1019,7 @@ A small business uses ring network topology. If a single workstation goes down, 
 - **C.** Network slows down  
 - **D.** Network breaks completely. Answer given: D. Network breaks completely.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q34. Converting data into secure format
 
@@ -2144,7 +1030,7 @@ What is the process of converting data into a secure format to prevent unauthori
 - **C.** Authorization  
 - **D.** Compression. Answer given: A. Encryption.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q35. Protocol to secure data in transit
 
@@ -2155,31 +1041,31 @@ Which protocol is commonly used to secure data in transit over the internet by e
 - **C.** SSL/TLS  
 - **D.** SMTP. Answer given: C. TLS.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25), IIT Mandi (2026-10-25), IIT Roorkee ×2 (last 2026-10-26), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q36. Most secure cloud deployment model
 
 You have recently started working for an organization that is migrating to a cloud-based infrastructure. As part of IT governance, you are responsible for ensuring data security in the cloud environment. In the context of IT governance and cloud security, which cloud deployment model is typically the most secure choice for organizations with highly sensitive data? Answer given: Private cloud.
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Guwahati (2026-10-25), IIT Mandi (2026-10-25), IIT Roorkee ×2 (last 2026-10-26), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q37. Server response to SYN
 
 After initializing a connection attempt to a remote server, a client application sends a SYN packet to indicate the request for establishing a reliable connection. What is the expected response from the server, assuming it is available and prepared to accept the connection? Answer given: The server responds with a SYN-ACK packet.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q38. Most secure Wi-Fi encryption protocol
 
 A network administrator is tasked with selecting a secure wireless encryption protocol. Which of the following is considered the most secure for Wi-Fi networks? Answer given: WPA3.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q39. Packet routing / firewall bypass attack
 
 Assume your computer's data was stolen by hackers through your network by mentioning the route to be used by the packets. This is done by the hackers to avoid security measures due to non-analyzing of source information instead of using a packet filter firewall. What is this type of attack called? Answer given: Source Routing Attack.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ## 2026-10-24 · IIT Guwahati · FTE · Elite Engineer
 
@@ -2188,34 +1074,6 @@ Assume your computer's data was stolen by hackers through your network by mentio
 Given a 2D array, take the average of all the elements in each column and return which column has the minimum average.
 
 <sub>Topics: Arrays, Math · Source: [chat, 24 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L109), [chat, 24 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L111), [chat, 24 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L113)</sub>
-
-### Q2. Simple SQL group by / joins
-
-One easy SQL question: simple select / group by, on joins.
-
-<sub>Topics: SQL · Source: [chat, 24 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L109), [chat, 24 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L111), [chat, 24 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L113)</sub>
-
-### Q3. HTML, CSS and JS DOM manipulation
-
-One web dev question: simple HTML, CSS and JS. The required HTML/CSS changes are given exactly in comments; for JS, only about 2-3 lines of basic DOM manipulation are needed.
-
-<sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L109), [chat, 24 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L111), [chat, 24 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L113)</sub>
-
-## 2026-10-24 · IIT Delhi · FTE
-
-### Q1. Accenture communication assessment format
-
-Communication round with 7-8 sections, e.g.:
-1. A sentence is written and you must repeat it.
-2. A sentence's audio is played and you must repeat it.
-3. A sentence with a grammatical mistake is played; correct it and repeat the sentence.
-4. A conversation is played, then questions are asked and you answer.
-5. A context is given and you hold a conversation based on it.
-6. 30 seconds to prepare a topic, then speak for 45 seconds (poster's topic: describe a scene of an accident).
-
-Audio is not repeated in any section. If the verbal part is cleared, a written part follows: write an email in 15 minutes for a given situation.
-
-<sub>Topics: OA Format, Verbal · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L78)</sub>
 
 ## 2026-10-24 · IIT BHU · FTE
 
@@ -2345,20 +1203,6 @@ At IIT Hyderabad the process was:
 
 <sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L361)</sub>
 
-### Q2. Accenture OA pattern
-
-A coding assessment with 3 questions (1 DSA, 1 SQL and 1 Frontend), followed by a communication round and then an interview.
-
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L230)</sub>
-
-## 2026-10-22 · IIT BHU · FTE
-
-### Q1. Accenture OA pattern
-
-3 questions: 1 DSA, 1 SQL and 1 Frontend. DSA was easy; C++ not allowed, only Python, C# and Java. SQL difficulty differed across sets (easy in some). Frontend was said to be easy by those with knowledge of it.
-
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L232)</sub>
-
 ## 2026-10-21 · Unknown · FTE
 
 ### Q1. ETE OA DSA section difficulty and topics
@@ -2410,7 +1254,7 @@ Write an SQL query to find the player name and age of players who satisfy all th
 2. Player's team is Indian.  
 3. Team name is Kolkata Knight Riders.
 
-<sub>Topics: SQL · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1801) · Also asked at: IIT Roorkee ×2 (last 2026-10-25)</sub>
+<sub>Topics: SQL · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1801) · Also asked at: IIT Roorkee ×4 (last 2026-10-28)</sub>
 
 ### Q4. Currency Converter (Frontend HTML/CSS/JS)
 
@@ -2429,7 +1273,7 @@ When the user clicks the Convert button:
 Example: Input Amount: 100, From: EUR, To: INR. Calculation: rateFrom = 0.92; rateTo = 83; result = (100 / 0.92) * 83. Output: Display the converted amount with exactly 2 decimal places.  
 Additional Conditions: If the amount field is empty, display: "Enter amount". If the am... (message truncated)
 
-<sub>Topics: Web Dev · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1801) · Also asked at: IIT Roorkee ×2 (last 2026-10-24)</sub>
+<sub>Topics: Web Dev · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1801) · Also asked at: IIT Roorkee ×3 (last 2026-10-24)</sub>
 
 ## 2026-10-21 · IIT Hyderabad · FTE
 
@@ -2544,75 +1388,6 @@ First round is a coding round of 3 questions: 1 DSA, 1 SQL, 1 Web (JavaScript fr
 
 <sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L522)</sub>
 
-## 2026-10-20 · IIT Hyderabad · FTE · Elite
-
-### Q1. Count contiguous groups of same-sign elements
-
-Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign.
-A new group starts whenever the sign changes between two consecutive elements.
-
-Example 1:
-
-```
-Input:
-arr = [1, 2, -3, -4, 5]
-Output:
-3
-```
-
-Explanation: The array can be divided into three contiguous groups: [1, 2], [-3, -4], and [5].
-
-<sub>Topics: Arrays · Source: [chat, 20 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L285)</sub>
-
-### Q2. Destinations with more than 2 hotels and average nightly rate
-
-You are given two tables, `Destination` and `Hotel`.
-
-Write an SQL query to find the destinations that have more than 2 hotels and calculate the average nightly rate of hotels in each destination.
-
-Display: Destination name, Average nightly rate.
-
-Table `Destination`:
-
-| destination_id | destination_name |
-| --- | --- |
-| 1 | Goa |
-| 2 | Mumbai |
-| 3 | Jaipur |
-| 4 | Manali |
-
-Table `Hotel`:
-
-| hotel_id | destination_id | night_rate |
-| --- | --- | --- |
-| 101 | 1 | 2000 |
-| 102 | 1 | 3000 |
-| 103 | 1 | 2500 |
-| 104 | 1 | 3500 |
-| 105 | 2 | 4000 |
-| 106 | 2 | 5000 |
-| 107 | 3 | 1500 |
-| 108 | 3 | 2500 |
-| 109 | 3 | 2000 |
-| 110 | 4 | 3000 |
-
-Expected output:
-
-| destination_name | avg_night_rate |
-| --- | --- |
-| Goa | 2750.00 |
-| Jaipur | 2000.00 |
-
-Use `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
-
-<sub>Topics: SQL · Source: [chat, 20 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L285)</sub>
-
-### Q3. JavaScript frontend DOM task
-
-A JavaScript frontend question where you had to follow the instructions given in the question; basic DOM understanding was enough. The exact statement was not shared.
-
-<sub>Topics: Web Dev · Source: [chat, 20 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L285)</sub>
-
 ## 2026-10-20 · IIT BHU · FTE
 
 ### Q1. Elite Technology Engineer coding round format
@@ -2623,19 +1398,6 @@ A JavaScript frontend question where you had to follow the instructions given in
 3. 1 HTML/CSS/JavaScript question — something like make a table, add an event listener, add some CSS effect.
 
 <sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L523)</sub>
-
-## 2026-10-19 · NIT Delhi · Intern
-
-### Q1. Advanced Technology role OA format and MCQ topics
-
-Accenture Advanced Technology role (2M intern, third year) process:
-- First an OA with 3 rounds; each one is an elimination round.
-- If you clear that, a communication round (can be taken any time, anywhere).
-- Then a 15-20 min interview.
-
-The MCQs came from a wide range of topics, including MS Office, cloud, computer networks and CS fundamentals. The coding round had a DSA question, a SQL question and a frontend question.
-
-<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L554), [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L557)</sub>
 
 ## 2026-10-19 · MNNIT Allahabad · FTE
 
@@ -2701,7 +1463,7 @@ Print `YES` if every 2 × 2 block contains at most K buildings; otherwise, print
 
 (Constraints, examples and whether coordinates are 0- or 1-based were not given.)
 
-<sub>Topics: Arrays, Hashing · Source: [accenture_japan_grid_buildings_problem.pdf](../archive/files/8500-accenture_japan_grid_buildings_problem.pdf)</sub>
+<sub>Topics: Arrays, Hashing · Source: [accenture_japan_grid_buildings_problem.pdf](../archive/files/8500-accenture_japan_grid_buildings_problem.pdf) · Also asked at: IIT Guwahati (2026-10-14), IIT Hyderabad (2026-10-15)</sub>
 
 ### Q2. Accenture Elite Technology Engineer OA pattern
 
@@ -2715,49 +1477,6 @@ There was no gaming round at this college.
 
 <sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/accenture-oa/2026-10.jsonl#L610), [chat, 18 Oct](../archive/accenture-oa/2026-10.jsonl#L612), [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L623), [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L624)</sub>
 
-## 2026-10-18 · IIT Hyderabad · FTE · Elite Technology Engineer
-
-### Q1. Accenture Elite Technology Engineer OA pattern
-
-The OA has 3 questions. To qualify for the next round one must solve 2, and the DSA question and SQL question were compulsory.
-
-<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L144), [chat, 18 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L145)</sub>
-
-## 2026-10-18 · IIT BHU · FTE · Japan Digital Consulting
-
-### Q1. OA format: 20 MCQs + 1 coding
-
-20 MCQs (20 minutes) followed by 1 coding question (60 minutes, all languages allowed). MCQ topics: LLM / Generative AI, Aptitude, Pseudocode/output-based, SQL, Computer Science fundamentals (mainly OS and Cloud Computing, reported easy).
-
-<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L313)</sub>
-
-### Q2. Morse code decode to dictionary word
-
-A Morse-code mapping table is provided, where each English letter maps to a combination of . and -. Given a string in Morse code, decode it and output a corresponding English word. The word must be present in the provided dictionary.txt and its Morse representation must match the input. If multiple valid words exist, print any one.
-
-Input: a Morse-code string, along with the mapping table.
-Output: any valid word from dictionary.txt whose Morse representation matches the input.
-
-<sub>Topics: Strings, Hashing · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L313)</sub>
-
-### Q3. Minimum dice rolls to reach the end
-
-You are given an array A of non-negative integers of size N. You start at index 0 and need to reach an index >= N. A special die lets you choose any number 1 to 6 whenever you roll. At any index there are two actions:
-- Roll the die: choose any value 1 to 6 and jump forward that many positions. This counts as one dice roll.
-- Use the value at the current index: jump forward by exactly A[i] positions. This does not require a dice roll.
-
-The rest of the statement was cut off (presumably find the minimum number of rolls).
-
-<sub>Topics: DP, Graphs · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L313)</sub>
-
-## 2026-10-18 · BITS Pilani · Intern
-
-### Q1. Accenture OA coding difficulty
-
-3 LeetCode hard questions were asked. Focus more on DP and graphs. (Specific problems not given.)
-
-<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/intern-2028/2026-10.jsonl#L177)</sub>
-
 ## 2026-10-17 · Unknown · FTE
 
 ### Q1. Elite Technology Engineer communication round
@@ -2769,20 +1488,6 @@ The communication round of the Accenture Elite Technology Engineer process inclu
 - sometimes email writing
 
 <sub>Topics: OA Format, Verbal · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L731)</sub>
-
-## 2026-10-17 · NIT Patna · Intern
-
-### Q1. Advanced Technology Engineer intern OA pattern
-
-OA pattern for Advanced Technology Engineer (intern):
-1. **Technical round:** 45 minutes, 45 questions; about 30% of the MCQs are repeated ones.
-2. **Coding round:**
-   1. DSA problem (most of the time array/string)
-   2. SQL (join on two or three tables)
-   3. Frontend (DOM manipulation)
-3. **Gaming round**
-
-<sub>Topics: OA Format · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L800)</sub>
 
 ## 2026-10-17 · NIT Patna · Unknown
 
@@ -3033,7 +1738,7 @@ D. Ethernet Controller
 
 Answer given in the PDF: C. SATA Controller
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q22. HTTP status code for unavailable API endpoint
 
@@ -3142,6 +1847,14 @@ In the Accenture Elite Technology Engineer OA, the coding questions can be solve
 
 <sub>Topics: OA Format · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L743), [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L749)</sub>
 
+## 2026-10-17 · MNNIT Allahabad · FTE · Elite Technology Engineer
+
+### Q1. Accenture OA pattern
+
+Accenture OA generally asks coding in Python and Java and some web-development type questions. Actual questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 17 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L235)</sub>
+
 ## 2026-10-17 · IIT Hyderabad · FTE
 
 ### Q1. Count contiguous groups of same-sign elements
@@ -3226,7 +1939,7 @@ A SQL question that required a JOIN between 3 tables.
 
 (The schema and the exact query asked were not shared.)
 
-<sub>Topics: SQL · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L764), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L771)</sub>
+<sub>Topics: SQL · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L764), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L771) · Also asked at: IIT Hyderabad ×3 (last 2026-10-10)</sub>
 
 ### Q3. JavaScript DOM frontend task
 
@@ -3234,7 +1947,7 @@ A JavaScript frontend task: you had to follow the instructions given in the ques
 
 (The exact task was not shared.)
 
-<sub>Topics: Web Dev · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L764), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L771) · Also asked at: IIT Hyderabad ×2 (last 2026-10-20)</sub>
+<sub>Topics: Web Dev · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L764), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L771) · Also asked at: IIT Hyderabad ×6 (last 2026-10-20)</sub>
 
 ### Q4. Accenture ETE OA pattern (IIT Hyderabad)
 
@@ -3306,7 +2019,7 @@ The exact requirements and conditions were not given.
 
 The coding part of the OA had 1 DSA question, 1 SQL question and 1 dev (frontend) question.
 
-<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L779), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L781) · Also asked at: IIT Roorkee (2026-10-23)</sub>
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L779), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L781) · Also asked at: IIT Hyderabad (2026-10-22), IIT BHU (2026-10-22), IIT Roorkee (2026-10-23)</sub>
 
 ## 2026-10-15 · Unknown · FTE
 
@@ -3339,14 +2052,6 @@ Constraints and examples were not given, and the poster did not say whether the 
 
 <sub>Topics: Math · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L825), [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L826)</sub>
 
-## 2026-10-15 · NIT Rourkela · Intern · Other round
-
-### Q1. Accenture paid summer internship process
-
-Online assessment: aptitude, logical reasoning, verbal ability and technical questions. Technical round: basic programming, SQL queries, OOPs concepts, problem-solving. Interview: resume projects, previous internship experience, technical fundamentals, situational questions. Difficulty moderate.
-
-<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/intern-2027/2026-10.jsonl#L129)</sub>
-
 ## 2026-10-15 · IIT Roorkee · FTE
 
 ### Q1. Accenture elite role OA: DSA level
@@ -3357,39 +2062,7 @@ Accenture elite role OA: the DSA questions are basic, only string and array ques
 
 ## 2026-10-15 · IIT Hyderabad · FTE
 
-### Q1. Grid and Buildings
-
-A city is an N × N grid of square parcels, formed by N+1 roads in each of two perpendicular directions. Any four parcels forming a 2 × 2 square are called a block. There are M buildings. Building i lies in parcel (Ai, Bi) (row, column). A parcel may hold more than one building.
-
-Given an integer K, print YES if every 2 × 2 block contains at most K buildings, otherwise print NO.
-
-Input format:
-```
-N M K
-A1 B1
-A2 B2
-...
-AM BM
-```
-Parcels are indexed 1 to N (1-based). Output: a single line, YES or NO.
-
-Example:
-```
-Input
-4 5 2
-1 1
-1 2
-2 2
-3 3
-4 4
-Output
-NO
-```
-The block with top-left parcel (1,1) holds 3 buildings, more than K = 2, so the answer is NO. If N = 1 there are no blocks, so the answer is YES.
-
-<sub>Topics: Arrays, Math · Source: [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L115)</sub>
-
-### Q2. Water left after watering N trees
+### Q1. Water left after watering N trees
 
 (Similar to this; the language might be different.)
 
@@ -3418,15 +2091,15 @@ max(0, K - totalWaterRequired)
 
 <sub>Topics: Arrays, Math · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L812)</sub>
 
-### Q3. SQL: join 3 tables with GROUP BY and IS NULL
+### Q2. SQL: join 3 tables with GROUP BY and IS NULL
 
 One SQL query: join 3 tables, using GROUP BY, IS NULL and multiple join conditions. The poster said the schema was too complex to understand.
 
 The schema and the exact task were not shared.
 
-<sub>Topics: SQL · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L812)</sub>
+<sub>Topics: SQL · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L812) · Also asked at: IIT Hyderabad ×3 (last 2026-10-10)</sub>
 
-### Q4. Web dev: HTML/CSS/JS edits guided by comments
+### Q3. Web dev: HTML/CSS/JS edits guided by comments
 
 One web dev question (HTML, CSS, JS). Hints are given for each part, like "change the colour from this to this". Everything is clearly written in comments, and the JS part works the same way.
 
@@ -3444,21 +2117,15 @@ Accenture Japan OA DSA question, repeated from the IIT Dhanbad and IIT Roorkee O
 
 The poster did not say what the modification was or give the full statement.
 
-<sub>Topics: DP, Arrays · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L803)</sub>
+<sub>Topics: DP, Arrays · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L803) · Also asked at: MNNIT Allahabad (2026-10-15)</sub>
 
 ### Q2. Accenture Japan OA format at IIT Guwahati
 
 The OA was the same as at IIT Dhanbad and IIT Roorkee: one DSA question (a repeat) plus an MCQ section of 20 questions in 20 minutes.
 
-<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L803)</sub>
+<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L803) · Also asked at: MNNIT Allahabad (2026-10-15)</sub>
 
-### Q3. Accenture Japan OA format
-
-Accenture Japan OA: 1 simple DSA question based on BFS, and 20 MCQs on AI topics of medium level.
-
-<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L113)</sub>
-
-### Q4. N+1 roads problem
+### Q3. N+1 roads problem
 
 The new DSA question asked in the IIT Guwahati Accenture Japan OA was "the N+1, N+1 roads problem".
 
@@ -3466,7 +2133,7 @@ Only the name was given: no statement, constraints or examples.
 
 <sub>Topics: Other · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L823)</sub>
 
-### Q5. IT quiz MCQs: AI regulation, subnet masking, code output
+### Q4. IT quiz MCQs: AI regulation, subnet masking, code output
 
 MCQ section of the Accenture Japan OA:
 - One question on the AI regulation policies of the US, Japan, China and the EU.
@@ -3476,6 +2143,14 @@ MCQ section of the Accenture Japan OA:
 The exact questions and options were not shared.
 
 <sub>Topics: ML/AI, OS/DBMS/CN MCQ, Code Output (C/C++/Java/Python) · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L823)</sub>
+
+## 2026-10-15 · IIT Guwahati · FTE · Digital Consultant (Japan)
+
+### Q1. Accenture Japan OA format
+
+20 MCQ questions on AI, and one simple BFS DSA question.
+
+<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L235)</sub>
 
 ## 2026-10-14 · Unknown · FTE
 
@@ -3782,6 +2457,14 @@ Accenture Elite engineering role OA:
 
 <sub>Topics: OA Format, Web Dev · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L871)</sub>
 
+## 2026-10-14 · IIT Roorkee · FTE · Digital Consultant (Japan)
+
+### Q1. Morse code or minimum dice problem
+
+1 DSA question: either a Morse code problem or a minimum dice problem (same as in the IIT Dhanbad Accenture Japan OA). In some sets there was also a graph-related question. Statements were not given.
+
+<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L232)</sub>
+
 ## 2026-10-14 · IIT Hyderabad · FTE
 
 ### Q1. Accenture Elite Engineering OA pattern
@@ -3796,215 +2479,17 @@ No MCQs.
 
 <sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L868)</sub>
 
-## 2026-10-14 · IIT Guwahati · FTE
+## 2026-10-13 · NIT Raipur · FTE
 
-### Q1. Check Every 2 × 2 Block
+### Q1. Accenture OA pattern
 
-A city consists of N+1 roads running from west to east and N+1 roads running from north to south. These roads form an N × N grid containing N² blocks.
+Same pattern as last year's OA:
 
-There are M houses in the city, and each house is located in exactly one block.
+- Round 1: some mental games
+- Round 2: CP fundamentals and bit manipulation questions
+- Round 3: 3 questions (1 DOM manipulation, 1 SQL, 1 Python/Java DSA code)
 
-The coordinates of a block are represented by (a, b), where 1 ≤ a, b ≤ N.
-
-A 2 × 2 block consists of four adjacent blocks with coordinates:
-- (a, b)
-- (a+1, b)
-- (a, b+1)
-- (a+1, b+1)
-
-where 1 ≤ a, b < N.
-
-Determine whether every possible 2 × 2 block contains fewer than K houses.
-- If every 2 × 2 block contains fewer than K houses, print `YES`.
-- Otherwise, print `NO`.
-
-**Input Format**
-- The first line contains three integers N, M, and K.
-- The next M lines each contain two integers a and b, representing the coordinates of a house.
-
-**Output Format**
-Print `YES` if every possible 2 × 2 block contains fewer than K houses. Otherwise, print `NO`.
-
-**Constraints**
-- 1 ≤ N, M, K ≤ 10^5
-- 1 ≤ a, b ≤ N
-- There could be multiple houses in the same cell of the grid.
-
-<sub>Topics: Hashing, Arrays · Source: [chat, 14 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L304), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L309), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L310)</sub>
-
-### Q2. Minimum dice rolls to reach the end
-
-A coding question on the minimum number of dice rolls needed to reach the end (a BFS problem, similar to Snakes and Ladders). The poster described it only briefly; the full statement was not given.
-
-<sub>Topics: Graphs · Similar: [LeetCode 909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) (Medium) · Source: [chat, 14 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L304), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L309), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L310)</sub>
-
-### Q3. MCQ section on AI
-
-The test had 20 MCQs on AI plus one simple BFS coding question.
-
-<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L304), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L309), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L310)</sub>
-
-## 2026-10-14 · IIT Delhi · Unknown
-
-### Q1. Accenture Japan IT quiz (2025 sitting) - white-box testing
-
-What is white box testing? Choose all that are true.
-
-A. Understanding the inputs but not output.
-B. Understanding the inputs, outputs, and the technical methods in between.
-C. Testing with knowledge of the code (e.g. unit testing).
-D. Testing a computer which is white in color
-
-<sub>Topics: Software Engineering · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
-
-### Q2. Statement NOT true about symmetric-key encryption
-
-Choose the statement that is NOT true about symmetric-key encryption.
-
-A. The sender and the recipient use the same key.
-B. The computation is faster than public-key encryption.
-C. It uses a method called RSA, which is based on the difficulty of factoring large numbers.
-D. The key must be sent to the recipient.
-
-<sub>Topics: Other · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
-
-### Q3. Choosing movies to maximize count
-
-You will play n movies today; movie i starts at time l_i and ends at r_i (1 ≤ i ≤ n). You must watch a chosen movie from beginning to end, so you cannot watch movies whose times overlap (it is also impossible if the end of one equals the start of another). You want to watch as many movies as possible. Which is the correct way to choose?
-
-A. Repeat while at least one movie can be watched: "Watch the movie with the earliest starting time from among the movies you can watch."
-B. Repeat ...: "Watch the movie with the earliest ending time from among the movies you can watch."
-C. Repeat ...: "Watch the movie with the shortest running time from among the movies you can watch."
-D. Repeat ...: "For each movie you can watch, count the number of movies that it would be impossible to watch if you watched that one. Watch the movie with the lowest count."
-
-<sub>Topics: Greedy · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
-
-### Q4. C++ while loop reading yes
-
-Choose the correct statement below (C++):
-```cpp
-int main(void) {
-    while (1) {
-        string s;
-        cin >> s;
-        if (s == "yes") {
-            cout << "clinic" << endl;
-        } else {
-            break;
-        }
-    }
-    return 0;
-}
-```
-A. Entering the string Yes will exit the program. (not yes but Yes)
-B. Entering yessir will return the string clinic.
-C. If you enter yes once, it outputs clinic and the program exits.
-D. (option D was cut off in the photo)
-
-This PDF is third-party prep material containing 20 questions from the 2025 sitting; only the first 12 are transcribed here.
-
-<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
-
-### Q5. SLOs and SLAs incorrect options
-
-Choose the two incorrect options regarding SLOs and SLAs in the context of site reliability engineering.
-
-A. If an SLO is breached, there is a possibility of pursuing legal liability such as damages.
-B. Within the boundaries of meeting the SLO, the SRE team is allowed to intentionally cause outages if there are reasonable justifications.
-C. SLAs are usually set at values that are more difficult to achieve than SLOs.
-D. SLAs are established by considering factors such as the stability of competing services from other companies, the feasibility of service stability from an engineering perspective, and customer stability requirements.
-
-<sub>Topics: Software Engineering · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
-
-### Q6. Database rollforward processing
-
-Choose the correct description of database rollforward processing.
-
-A. Restore using a journal file before updating against a physical failure.
-B. Restore using a journal file after updating against a physical failure.
-C. Restore using a journal file before updating against a logical failure.
-D. Restore using a journal file after updating against a logical failure.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
-
-### Q7. AI alignment
-
-Which of the following best describes AI alignment?
-
-A. Setting up the input data so that it is not used to train the generative AI.
-B. Creating an AI model that can reveal the reasons and rationale for the answers given by the generative AI.
-C. Attempting to match the AI's goals with human intentions and ethics in the human world.
-D. Biasing the output results by biasing the data input to the generative AI.
-
-<sub>Topics: ML/AI · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
-
-### Q8. Most inappropriate statement about Generative AI
-
-Choose the most inappropriate statement about Generative AI.
-
-A. Generative AI is an AI system that can generate text, images, or other media.
-B. Typical Generative AI systems include ChatGPT, which was built by OpenAI using GPT-3.5 and GPT-4.
-C. Generative AI is built on a reinforcement learning framework that aims to maximize a reward value based on input.
-D. Generative AI can perform automatic program generation if programs are included in the training data.
-
-<sub>Topics: ML/AI · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
-
-### Q9. Not a characteristic of a reliable transaction system
-
-Which one of the following is not included in the characteristics of a reliable transaction system?
-
-A. Atomicity
-B. Isolation
-C. Consistency
-D. Transparency
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
-
-### Q10. Expression equal to 6 × n using shifts
-
-Given an integer n, `n << i` shifts n left by i bits and `n >> i` shifts n right by i bits. Which expression is equal to 6 × n?
-
-A. ((n<<1)+n)<<1
-B. (n<<3)+(n<<3)
-C. (n>>2)+(n>>1)
-D. ((n>>2)+n)<<1
-
-<sub>Topics: Bit Manipulation · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
-
-### Q11. In-memory vs traditional databases (incorrect description)
-
-Choose the description that is incorrect regarding the differences between in-memory databases and traditional databases like MySQL or PostgreSQL.
-
-A. In-memory databases are often faster compared to relational databases like MySQL.
-B. In-memory databases are resilient to the physical failure of an HDD or SSD, making data loss less likely compared to storage-based databases.
-C. In-memory databases ensure sufficient main memory for storing all data is typically the only method used, rather than following rules like deleting infrequently used data to allocate enough capacity.
-D. Redis and Memcached are prominent examples of in-memory databases.
-
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
-
-### Q12. Character never printed by function
-
-Which of the following characters will never be printed by the function below?
-```python
-def describe(n):
-    if n >= 0:
-        if n < 3:
-            print("A");
-        else:
-            print("B");
-    else:
-        if n < 3:
-            print("C");
-        else:
-            print("D");
-```
-A. A
-B. B
-C. C
-D. D
-E. All of the above characters can be printed out
-
-<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6740-Accenture_Japan_IT_Quiz_Prep.pdf)</sub>
+<sub>Topics: OA Format · Source: [chat, 13 Oct](../archive/campus-nit-raipur-placements/2026-10.jsonl#L10)</sub>
 
 ## 2026-10-13 · IIT Dhanbad · FTE
 
@@ -4016,18 +2501,6 @@ Given N cities and M bidirectional roads with costs, a starting city S, and an o
 
 <sub>Topics: Graphs · Source: [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L924), [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L937)</sub>
 
-## 2026-10-12 · NIT Jalandhar · Intern · Advanced Technology Engineer
-
-### Q1. Accenture OA structure
-
-Three rounds, each an elimination round (clear one to move to the next):
-
-1. 45 MCQs in 45 minutes
-2. Coding: 3 questions: 1 DSA, 1 SQL, 1 frontend (HTML, CSS, JS)
-3. Gaming round: maths, behaviour and similar
-
-<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/intern-2028/2026-10.jsonl#L161)</sub>
-
 ## 2026-10-12 · MNNIT Allahabad · FTE
 
 ### Q1. Accenture technical assessment MCQ topics
@@ -4036,49 +2509,13 @@ Accenture technical assessment MCQs: Computer Networks, DBMS, and pseudo-code ou
 
 <sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/accenture-oa/2026-10.jsonl#L986)</sub>
 
-## 2026-10-12 · IIT Dhanbad · FTE
-
-### Q1. Accenture Japan OA pattern
-
-The OA had 20 MCQs (20 minutes) and 1 coding question (60 minutes), 80 minutes in total. All programming languages were allowed.
-
-The MCQs covered LLM / Generative AI, Aptitude, Pseudocode / output-based questions, SQL, and CS fundamentals (mainly Operating Systems and Cloud Computing). The OS and Cloud questions were reported as relatively easy.
-
-<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L173)</sub>
-
-### Q2. Morse code dictionary decode
-
-A Morse-code mapping table is provided, where each English alphabet character corresponds to a Morse-code representation using combinations of . and -. Given a string written in Morse code, decode it and output a corresponding English word.
-
-- The output word must be present in the provided dictionary.txt.
-- The word's Morse-code representation must match the given input.
-- If multiple valid dictionary words can be generated, any one valid word may be printed.
-
-Input: a Morse-code string, along with the Morse-code mapping table for the alphabet.
-
-Output: print any valid word from dictionary.txt whose Morse-code representation matches the given input.
-
-<sub>Topics: Strings, Hashing · Source: [chat, 12 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L173)</sub>
-
-### Q3. Minimum dice rolls to reach the end
-
-You are given an array A of non-negative integers of size N. You start at index 0 and need to reach an index greater than or equal to N.
-
-A special die is available. You can choose any number from 1 to 6 whenever you roll the die. At any index, there are two possible actions:
-
-- Roll the die: choose any value from 1 to ...
-
-The message is cut off here, so the second action and the rest of the statement are missing.
-
-<sub>Topics: DP, Greedy · Source: [chat, 12 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L173)</sub>
-
 ## 2026-10-11 · IIT Dhanbad · FTE
 
 ### Q1. MCQ Section (20 MCQs, 20 min)
 
 Accenture Japan OA pattern: 20 MCQs (20 minutes) followed by 1 coding question (60 minutes), 80 minutes total. The MCQs covered LLM / Generative AI, Aptitude, Pseudocode / output-based questions, SQL, and Computer Science fundamentals (mainly Operating Systems and Cloud Computing). The OS and Cloud Computing questions were reported to be relatively easy.
 
-<sub>Topics: OA Format · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Roorkee ×2 (last 2026-10-08), IIT Delhi (2026-10-12), IIT Dhanbad ×6 (last 2026-10-18)</sub>
+<sub>Topics: OA Format · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Roorkee ×2 (last 2026-10-08), IIT Delhi (2026-10-12), IIT Guwahati ×2 (last 2026-10-15), IIT Dhanbad ×8 (last 2026-10-18), IIT BHU (2026-10-18)</sub>
 
 ### Q2. Morse Code Dictionary (Set 1)
 
@@ -4088,7 +2525,7 @@ Input: a Morse-code string, along with the Morse-code mapping table for the alph
 Output: any valid word from dictionary.txt whose Morse-code representation matches the input.  
 (1 coding question, 60 minutes, all languages allowed.)
 
-<sub>Topics: Strings, Recursion/Backtracking, Hashing · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Delhi (2026-10-12), IIT Dhanbad ×7 (last 2026-10-18)</sub>
+<sub>Topics: Strings, Recursion/Backtracking, Hashing · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Delhi (2026-10-12), IIT Dhanbad ×9 (last 2026-10-18), IIT BHU (2026-10-18)</sub>
 
 ### Q3. Minimum Dice Rolls to Reach the End (Set 2)
 
@@ -4099,7 +2536,7 @@ Find the minimum number of dice rolls needed to reach an index >= N.
 Example: N = 10, A = [0, 0, 0, 0, 0, 1, 1, 1, 1] -> Output: 1.  
 The PDF notes that the jump structure is similar to LeetCode 45 (Jump Game II), with an extra die operation and free jumps based on the array value.
 
-<sub>Topics: DP, Graphs, Arrays · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Delhi (2026-10-12), MNNIT Allahabad (2026-10-15), IIT Roorkee (2026-10-15), IIT Dhanbad ×7 (last 2026-10-18)</sub>
+<sub>Topics: DP, Graphs, Arrays · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Delhi (2026-10-12), IIT Guwahati (2026-10-14), MNNIT Allahabad (2026-10-15), IIT Roorkee (2026-10-15), IIT Dhanbad ×9 (last 2026-10-18), IIT BHU (2026-10-18)</sub>
 
 ## 2026-10-11 · IIT Delhi · FTE
 
@@ -4195,7 +2632,7 @@ Display:
 
 Write the SQL query using `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
 
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1029), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1030), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1031) · Also asked at: IIT Hyderabad ×3 (last 2026-10-20)</sub>
+<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1029), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1030), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1031) · Also asked at: IIT Hyderabad ×7 (last 2026-10-20)</sub>
 
 ### Q2. Remaining water after watering trees
 
@@ -4203,57 +2640,26 @@ You are given N trees and K units of total water. Each tree initially requires M
 Input: integer N (number of trees), integer K (total available water), integer M (initial requirement per tree), array array1 of size N, array array2 of size N.  
 Output: max(0, K - totalWaterRequired).
 
-<sub>Topics: Math, Arrays · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×3 (last 2026-10-13)</sub>
+<sub>Topics: Math, Arrays · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×7 (last 2026-10-13)</sub>
 
 ### Q3. SQL three-table join
 
 SQL query joining 3 tables using GROUP BY, IS NULL and multiple join conditions (complex schema; exact question not shared).
 
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×4 (last 2026-10-13)</sub>
+<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×5 (last 2026-10-13)</sub>
 
 ### Q4. Web dev HTML/CSS/JS task
 
 Web development task (HTML, CSS, JS): follow the hints in the code comments (e.g. change a colour from X to Y) and complete the JS part as described in the comments.
 
-<sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×4 (last 2026-10-13)</sub>
+<sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×8 (last 2026-10-13), IIT Guwahati (2026-10-24)</sub>
 
 ### Q5. Count contiguous groups of same-sign elements
 
 Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign. A new group starts whenever the sign changes between two consecutive elements.  
 Example: arr = [1, 2, -3, -4, 5] -> Output: 3 (groups [1, 2], [-3, -4], [5]).
 
-<sub>Topics: Arrays · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L247) · Also asked at: IIT Hyderabad ×3 (last 2026-10-20)</sub>
-
-### Q6. Water remaining after watering trees
-
-You are given N trees and K units of total water. Each tree initially requires M units of water. For the ith tree:
-
-- array1[i] denotes the number of additional times the tree needs to be watered.
-- array2[i] denotes the amount of water required during each additional watering.
-
-The total water required by the ith tree is M + (array1[i] × array2[i]).
-
-Calculate and return the amount of water remaining after watering all N trees. If the total water required is greater than K, return 0.
-
-Input: integer N (number of trees), integer K (total available water), integer M (initial requirement of each tree), array array1 of size N, array array2 of size N.
-
-Output: the remaining water, max(0, K - totalWaterRequired).
-
-The poster says the real question is similar to this, possibly in a different language.
-
-<sub>Topics: Arrays, Math · Source: [chat, 10 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L159)</sub>
-
-### Q7. SQL query joining 3 tables
-
-Join 3 tables, using GROUP BY, IS NULL and multiple join conditions. The poster says the schema was too complex to understand easily. The exact schema and question were not given.
-
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L159)</sub>
-
-### Q8. Web dev task: HTML, CSS and JS
-
-A front-end task in HTML, CSS and JS. Hints are given for each part as comments, such as "change the colour from this to this". The JS part works the same way, with instructions in comments. The poster advises practising JS basics and DOM components.
-
-<sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L159)</sub>
+<sub>Topics: Arrays · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L247) · Also asked at: IIT Hyderabad ×8 (last 2026-10-20)</sub>
 
 ## 2026-10-10 · IIT Hyderabad · Unknown
 
@@ -4264,255 +2670,6 @@ Write an SQL query to find destinations that have more than 2 hotels and the ave
 Expected output: Goa 2750.00; Jaipur 2000.00.
 
 <sub>Topics: SQL · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L248)</sub>
-
-## 2026-10-10 · IIT Hyderabad · FTE · Elite Technology Engineer
-
-### Q1. Count contiguous groups of same-sign elements
-
-Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign. A new group starts whenever the sign changes between two consecutive elements.
-
-Example 1:
-
-```
-Input: arr = [1, 2, -3, -4, 5]
-Output: 3
-```
-The array can be divided into three contiguous groups: [1, 2], [-3, -4], and [5].
-
-<sub>Topics: Arrays · Source: [chat, 10 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L160)</sub>
-
-### Q2. SQL join across 3 tables
-
-An SQL question with a JOIN between 3 tables. No schema was given.
-
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L160)</sub>
-
-### Q3. JavaScript front-end DOM task
-
-A JavaScript front-end task. You just had to follow the instructions given in the question. Basic DOM understanding is enough.
-
-<sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L160)</sub>
-
-### Q4. Remaining water after watering all trees
-
-You are given N trees and K units of total water. Each tree initially requires M units of water. For the i-th tree:
-- `array1[i]` denotes the number of additional times the tree needs to be watered.
-- `array2[i]` denotes the amount of water required during each additional watering.
-
-The total water required by the i-th tree is `M + (array1[i] × array2[i])`. Calculate and return the amount of water remaining after watering all N trees. If the total water required is greater than K, return 0.
-
-Input: integer N, integer K, integer M, array `array1` of size N, array `array2` of size N.
-
-Output: `max(0, K - totalWaterRequired)`
-
-(Poster says the actual question was similar to this; the language may differ.)
-
-<sub>Topics: Arrays, Math · Source: [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L235), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L236), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L237)</sub>
-
-### Q5. Count contiguous groups of same-sign elements
-
-Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign. A new group starts whenever the sign changes between two consecutive elements.
-
-Example:
-```
-Input: arr = [1, 2, -3, -4, 5]
-Output: 3
-```
-The array can be divided into three contiguous groups: [1, 2], [-3, -4], and [5].
-
-<sub>Topics: Arrays · Source: [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L235), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L236), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L237)</sub>
-
-### Q6. SQL join across 3 tables with GROUP BY and IS NULL
-
-One SQL query: join 3 tables, using GROUP BY, IS NULL and multiple join conditions. The poster says the schema was too complex to understand; the exact schema was not shared.
-
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L235), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L236), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L237)</sub>
-
-### Q7. Web dev: HTML/CSS/JavaScript modifications
-
-A front-end question (HTML, CSS, JS) where hints were given for each part in comments, e.g. change the colour from this to this. The JS part also just required following the given instructions with basic DOM understanding.
-
-<sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L235), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L236), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L237)</sub>
-
-### Q8. Destinations with more than 2 hotels and average nightly rate (practice)
-
-You are given two tables, `Destination` and `Hotel`. Write an SQL query to find the destinations that have more than 2 hotels and calculate the average nightly rate of hotels in each destination. Display the destination name and the average nightly rate. Use `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
-
-`Destination`:
-
-| destination_id | destination_name |
-| --- | --- |
-| 1 | Goa |
-| 2 | Mumbai |
-| 3 | Jaipur |
-| 4 | Manali |
-
-`Hotel`:
-
-| hotel_id | destination_id | night_rate |
-| --- | --- | --- |
-| 101 | 1 | 2000 |
-| 102 | 1 | 3000 |
-| 103 | 1 | 2500 |
-| 104 | 1 | 3500 |
-| 105 | 2 | 4000 |
-| 106 | 2 | 5000 |
-| 107 | 3 | 1500 |
-| 108 | 3 | 2500 |
-| 109 | 3 | 2000 |
-| 110 | 4 | 3000 |
-
-Expected output:
-
-| destination_name | avg_night_rate |
-| --- | --- |
-| Goa | 2750.00 |
-| Jaipur | 2000.00 |
-
-(Shared as a practice question, not necessarily an actual OA question.)
-
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L235), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L236), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L237)</sub>
-
-### Q9. Remaining water after watering N trees
-
-You are given N trees and K units of total water.
-Each tree initially requires M units of water. For the ith tree:
-- `array1[i]` denotes the number of additional times the tree needs to be watered.
-- `array2[i]` denotes the amount of water required during each additional watering.
-
-The total water required by the ith tree is `M + (array1[i] × array2[i])`.
-Calculate and return the amount of water remaining after watering all N trees. If the total water required is greater than K, return 0.
-
-Input:
-- An integer N, the number of trees.
-- An integer K, the total available water.
-- An integer M, the initial water requirement of each tree.
-- An array `array1` of size N.
-- An array `array2` of size N.
-
-Output: the remaining water, `max(0, K - totalWaterRequired)`.
-
-(Poster says this is similar to the actual question; the language and exact wording may differ.)
-
-<sub>Topics: Arrays, Math · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L482), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L484), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L485)</sub>
-
-### Q10. SQL: join of 3 tables with GROUP BY and IS NULL
-
-Write an SQL query that joins 3 tables, using GROUP BY, IS NULL and multiple join conditions. The poster found the schema too complex to follow. The exact tables and columns were not given.
-
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L482), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L484), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L485)</sub>
-
-### Q11. Web dev: HTML/CSS/JS task from comments
-
-A front-end task in HTML, CSS and JS. Each step had hints in comments, for example change a colour from one value to another. The JS part was likewise clearly described in comments. The poster advised knowing basic components and DOM manipulation. The exact task was not given.
-
-<sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L482), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L484), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L485)</sub>
-
-### Q12. SQL: destinations with more than 2 hotels and average nightly rate
-
-Practice question. You are given two tables, `Destination` and `Hotel`.
-
-Write an SQL query to find the destinations that have more than 2 hotels and calculate the average nightly rate of hotels in each destination.
-
-Display the destination name and the average nightly rate.
-
-Table `Destination`:
-
-| destination_id | destination_name |
-| -------------- | ---------------- |
-| 1 | Goa |
-| 2 | Mumbai |
-| 3 | Jaipur |
-| 4 | Manali |
-
-Table `Hotel`:
-
-| hotel_id | destination_id | night_rate |
-| -------- | -------------- | ---------- |
-| 101 | 1 | 2000 |
-| 102 | 1 | 3000 |
-| 103 | 1 | 2500 |
-| 104 | 1 | 3500 |
-| 105 | 2 | 4000 |
-| 106 | 2 | 5000 |
-| 107 | 3 | 1500 |
-| 108 | 3 | 2500 |
-| 109 | 3 | 2000 |
-| 110 | 4 | 3000 |
-
-Expected output:
-
-| destination_name | avg_night_rate |
-| ---------------- | -------------- |
-| Goa | 2750.00 |
-| Jaipur | 2000.00 |
-
-Use `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
-
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L482), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L484), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L485)</sub>
-
-### Q13. Count contiguous groups of same-sign elements
-
-Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign. A new group starts whenever the sign changes between two consecutive elements.
-
-Example 1:
-```
-Input: arr = [1, 2, -3, -4, 5]
-Output: 3
-```
-Explanation: the array can be divided into three contiguous groups: [1, 2], [-3, -4] and [5].
-
-<sub>Topics: Arrays · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L483)</sub>
-
-### Q14. SQL: join between 3 tables
-
-An SQL question involving a JOIN between 3 tables. The exact schema and query were not given.
-
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L483)</sub>
-
-### Q15. JavaScript front-end DOM task
-
-A JavaScript front-end task where you just had to follow the instructions given in the question. Basic DOM understanding was enough. The exact task was not given.
-
-<sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L483)</sub>
-
-## 2026-10-10 · IIT Dhanbad · FTE · Elite Technology Engineer
-
-### Q1. Next number with multiplicative persistence exactly 1
-
-Given a positive integer n, repeatedly multiply all of its digits together to form a new number. Continue until the result becomes a single-digit number. The number of multiplication rounds required is the multiplicative persistence of the number.
-
-Return the smallest number greater than n whose multiplicative persistence is exactly 1.
-
-Examples remembered:
-- n = 10: 1 × 0 = 0, so the persistence is 1.
-- n = 27: 2 × 7 = 14, then 1 × 4 = 4, so the persistence is 2. The next number greater than 27 with persistence 1 is 30.
-- n = 9: the next number greater than 9 with persistence 1 is 10.
-
-Supported languages: Python, C# and Java. Difficulty varied across question sets.
-
-<sub>Topics: Math · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4938-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
-
-### Q2. Cars that have never been rented (car-rental schema)
-
-An ER diagram / database schema of a car-rental system (customer, rental and car tables) was provided, not a sample input/output. Identify the cars that have never been rented and return the requested car details such as car model, rental rate and other relevant attributes. Can be solved with a JOIN plus NOT EXISTS, or a LEFT JOIN with an IS NULL condition.
-
-<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4938-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
-
-### Q3. HTML/CSS/JS edits to given files
-
-Existing HTML, CSS and JavaScript files were provided, and specific changes had to be made:
-- HTML: change a tag, e.g. a div to an h2.
-- CSS: add or modify a style property, e.g. font-size, for an element identified by a class.
-- JavaScript: an addEventListener and function already existed; add if/else logic to change innerText according to specified conditions.
-
-<sub>Topics: Web Dev · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4938-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
-
-### Q4. OA structure and communication rounds
-
-Technical OA of 60 minutes with 3 questions: DSA/coding, SQL, and HTML/CSS/JavaScript. The next day a verbal communication assessment (AI-assisted) was held for shortlisted candidates: sentence reading, repeating sentences after an AI voice, and listening/reading comprehension. Candidates who cleared it took a written communication assessment, which was one email-writing task based on a given situation.
-
-<sub>Topics: OA Format · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4938-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
 
 ## 2026-10-09 · Unknown · FTE
 
@@ -4525,7 +2682,7 @@ Accenture Elite Technology Engineer OA pattern (secondhand, from NIT students):
 
 Solving 2 out of 3 was reportedly needed to qualify.
 
-<sub>Topics: OA Format · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1080), [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1090), [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1091)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1080), [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1090), [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1091) · Also asked at: IIT Hyderabad (2026-10-18)</sub>
 
 ## 2026-10-09 · MNNIT Allahabad · FTE
 
@@ -4537,7 +2694,7 @@ Some candidates got slight variations of this question.
 
 *Constraints and examples were not shared.*
 
-<sub>Topics: Arrays, Math, Hashing · Similar: [LeetCode 2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) (Medium) · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1057), [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1058)</sub>
+<sub>Topics: Arrays, Math, Hashing · Similar: [LeetCode 2964. Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/) (Medium) · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1057), [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1058) · Also asked at: MNNIT Allahabad (2026-10-09)</sub>
 
 ### Q2. MCQ section size (Elite Technology Engineer OA)
 
@@ -4552,45 +2709,6 @@ MCQs were asked in the Accenture Elite Technology Engineer (ETE) OA: 45 MCQs in 
 Accenture Japan (MC Delivery Associate) OA: there was 1 coding question, with 60 minutes allocated to the coding section. All programming languages were allowed. Different candidates got different sets (Set 1: Morse Code Dictionary, Set 2: Minimum Dice Rolls to Reach the End).
 
 <sub>Topics: OA Format · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1066)</sub>
-
-## 2026-10-09 · IIT Dhanbad · FTE · Elite Technology Engineer
-
-### Q1. Next number with multiplicative persistence 1
-
-Given a positive integer n, repeatedly multiply all of its digits together to form a new number. Continue until the result is a single-digit number. The number of multiplication rounds required is the multiplicative persistence of the number.
-
-Return the smallest number greater than n whose multiplicative persistence is exactly 1.
-
-Examples:
-```
-n = 10: 1 x 0 = 0, so persistence is 1.
-n = 27: 2 x 7 = 14, then 1 x 4 = 4, so persistence is 2. Next number greater than 27 with persistence 1 is 30.
-n = 9: next number greater than 9 with persistence 1 is 10.
-```
-Languages: Python, C#, Java. Difficulty varied across question sets. Constraints were not given.
-
-<sub>Topics: Math, Arrays · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4238-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
-
-### Q2. Cars that were never rented
-
-An ER diagram / schema of a car-rental system was provided (customer, rental and car tables). Write a query to find cars that have never been rented and return the car model, rental rate and other requested car details. A JOIN with NOT EXISTS, or LEFT JOIN with IS NULL, works. Exact table and column names were not given.
-
-<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4238-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
-
-### Q3. Modify HTML, CSS and JavaScript files
-
-Existing HTML, CSS and JavaScript files were provided and specific changes were required:
-- HTML: change a tag/structure, e.g. a div to an h2.
-- CSS: add or modify a style property such as font-size for an element selected by class.
-- JavaScript: an addEventListener and function already existed; add if/else logic to change innerText according to the given conditions.
-
-<sub>Topics: Web Dev · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4238-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
-
-### Q4. Verbal and written communication assessment
-
-Technical OA was 60 minutes (DSA + SQL + HTML/CSS/JS). The next day came an AI-assisted verbal communication assessment: read sentences aloud, repeat sentences after an AI voice, and listening/reading comprehension questions. Candidates who cleared it took a written assessment of one email-writing task based on a given situation.
-
-<sub>Topics: OA Format, Verbal · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4238-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
 
 ## 2026-10-09 · IIT BHU · FTE
 
@@ -4615,6 +2733,14 @@ Accenture ATE role OA structure:
 - A quiz section.
 
 <sub>Topics: OA Format · Source: [chat, 8 Oct](../archive/accenture-oa/2026-10.jsonl#L1149)</sub>
+
+## 2026-10-06 · NIT Kurukshetra · FTE
+
+### Q1. Accenture OA game-based questions
+
+The poster said the Accenture OA had game-based questions. No further details given.
+
+<sub>Topics: OA Format · Source: [chat, 6 Oct](../archive/campus-nit-kurukshetra-placements/2026-10.jsonl#L12)</sub>
 
 ## 2026-10-06 · MNNIT Allahabad · FTE
 
@@ -4665,20 +2791,6 @@ The OA has 3 questions: one backend, one frontend and one SQL.
 
 <sub>Topics: OA Format · Source: [chat, 3 Oct](../archive/accenture-oa/2026-10.jsonl#L1230), [chat, 4 Oct](../archive/accenture-oa/2026-10.jsonl#L1242)</sub>
 
-## 2026-10-03 · NIT Kurukshetra · Intern
-
-### Q1. Accenture OA structure
-
-The OA had 3 questions:
-
-1. Backend/frontend question
-2. DSA question
-3. Basic SQL question
-
-The actual question statements were not shared.
-
-<sub>Topics: OA Format · Source: [chat, 3 Oct](../archive/intern-2028/2026-10.jsonl#L304)</sub>
-
 ## 2026-10-02 · NIT Patna · FTE
 
 ### Q1. Accenture OA pattern (ATE / Advanced Application Engineering)
@@ -4714,7 +2826,7 @@ Return a number greater than `n` such that it is **composite** and the **sum of 
 
 (The poster did not say whether the smallest such number is required, and gave no constraints or examples.)
 
-<sub>Topics: Math · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250)</sub>
+<sub>Topics: Math · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250) · Also asked at: IIT BHU (2026-09-27)</sub>
 
 ### Q2. Join two tables and return rows with NULL in a column
 
@@ -4722,7 +2834,7 @@ Several tables are given. Join two of them and return the rows where a given col
 
 (The poster did not give the table schemas or column names.)
 
-<sub>Topics: SQL · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250) · Also asked at: IIT BHU (2026-10-09)</sub>
+<sub>Topics: SQL · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250) · Also asked at: IIT BHU ×2 (last 2026-10-09)</sub>
 
 ### Q3. Change background color by clicking color-named divs (HTML/CSS/JS)
 
@@ -4733,7 +2845,7 @@ Web dev task with several parts:
 
 (The poster did not say whether the page background or the div's own background changes.)
 
-<sub>Topics: Web Dev · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250) · Also asked at: IIT BHU (2026-10-09)</sub>
+<sub>Topics: Web Dev · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250) · Also asked at: IIT BHU ×2 (last 2026-10-09)</sub>
 
 ### Q4. Accenture ATE hiring process and communication round format
 
@@ -4754,40 +2866,13 @@ The process had 3 rounds:
 
 If you pass these, there is an email writing task.
 
-<sub>Topics: OA Format, Verbal · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250)</sub>
+<sub>Topics: OA Format, Verbal · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250) · Also asked at: IIT BHU (2026-09-27)</sub>
 
-### Q5. Next composite number with odd digit sum
-
-Input: n. Return a number greater than n such that it is composite and the sum of its digits is odd. (Constraints and exact output format not given.)
-
-<sub>Topics: Math · Source: [chat, 9 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L458)</sub>
-
-### Q6. Join two tables and return rows with NULL in a column
-
-Multiple tables were given. Join two of them and return the rows where a given column's value is NULL. (Exact schema not remembered.)
-
-<sub>Topics: SQL · Source: [chat, 9 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L458)</sub>
-
-### Q7. Dev tasks: div colors, CSS border, add class
-
-Dev (programming) section:
-- There are 4 divs with color names written in them; clicking a div should change the background color.
-- Add a border in CSS to one div.
-- Add a class in the HTML.
-
-<sub>Topics: Web Dev · Source: [chat, 9 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L458)</sub>
-
-### Q8. Minimum steps to reach palindrome tiles
+### Q5. Minimum steps to reach palindrome tiles
 
 Find the minimum steps to reach the desired tiles satisfying a palindrome condition, where the tile's square must also be a palindrome. The poster only vaguely remembered it; the full statement is missing.
 
 <sub>Topics: Math, Graphs · Source: [chat, 9 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L458)</sub>
-
-### Q9. Accenture OA structure and communication round
-
-OA had DSA, SQL and Dev (programming) questions: 1 SQL + 3 DSA + 1 Backend + 1 Frontend. C#, Java and Python3 were allowed. Process: coding round, communication round, then interview (resume and HR). Communication round: reading, repeat, fill in the blanks, error correction, 2 stories with 5 questions each, or speak for 45 seconds on a topic; if cleared, email writing. For Accenture Japan: 20 MCQs on Cloud, OS, pseudocode, CyberSecurity, SQL etc. plus 1 DSA question.
-
-<sub>Topics: OA Format, Verbal · Source: [chat, 9 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L458)</sub>
 
 ## 2026-09-26 · IIT Dhanbad · FTE
 
@@ -4805,7 +2890,7 @@ Accenture Elite Technology Engineer, IIT Dhanbad.
 
 The technical OA had three areas (DSA/Coding, SQL, HTML/CSS/JavaScript) and lasted 60 minutes overall. Supported coding languages included Python, C# and Java. DSA difficulty varied across question sets: some sets had easy DSA questions, others medium-level ones.
 
-<sub>Topics: OA Format · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+<sub>Topics: OA Format · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad (2026-10-10)</sub>
 
 ### Q2. Smallest number greater than n with multiplicative persistence 1
 
@@ -4823,7 +2908,7 @@ n = 9:  the next number greater than 9 with persistence 1 is 10.
 
 A multiplicative-persistence question was also present in another question set within the same assessment.
 
-<sub>Topics: Math · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+<sub>Topics: Math · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-10)</sub>
 
 ### Q3. Car rental: cars that were never rented
 
@@ -4835,7 +2920,7 @@ This can be done with a JOIN plus NOT EXISTS, or an equivalent anti-join such as
 
 *Exact table and column names were not shared.*
 
-<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-10)</sub>
 
 ### Q4. Edit given HTML/CSS/JS files (tag change, font-size, if/else innerText)
 
@@ -4844,7 +2929,7 @@ Existing HTML, CSS and JavaScript files were provided, and the task was to make 
 - **CSS:** add or modify a style property for an element identified by a class, such as `font-size`.
 - **JavaScript:** an `addEventListener` and function were already present; add the appropriate if/else logic to change `innerText` according to specified conditions.
 
-<sub>Topics: Web Dev · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: NIT Patna (2026-10-17), Unknown (2026-10-21)</sub>
+<sub>Topics: Web Dev · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-10), NIT Patna (2026-10-17), Unknown (2026-10-21)</sub>
 
 ### Q5. Next-day verbal and written communication assessment
 
@@ -4855,7 +2940,7 @@ Existing HTML, CSS and JavaScript files were provided, and the task was to make 
 
 **Written communication (for candidates who cleared verbal):** one email-writing task based on the situation or prompt provided.
 
-<sub>Topics: Verbal · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Roorkee (2026-10-21)</sub>
+<sub>Topics: Verbal · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad (2026-10-09), IIT Roorkee (2026-10-21)</sub>
 
 ## 2026-09-25 · Unknown · FTE
 
@@ -4986,7 +3071,7 @@ SQL was on joins, including one nested-join question.
 
 A very basic SQL query question based on GROUP BY, ORDER BY, etc. (exact schema not recalled).
 
-<sub>Topics: SQL · Source: [chat, 23 Sep](../archive/inter-iit/2026-09.jsonl#L112) · Also asked at: IIT Dhanbad (2026-09-24), VIT Vellore (2026-09-24)</sub>
+<sub>Topics: SQL · Source: [chat, 23 Sep](../archive/inter-iit/2026-09.jsonl#L112) · Also asked at: IIT Dhanbad (2026-09-24), VIT Vellore (2026-09-24), IIT Guwahati (2026-10-24)</sub>
 
 ### Q2. Reduce number to single digit by summing digits
 
@@ -5030,7 +3115,7 @@ C. C
 D. D  
 E. All of the above characters can be printed out
 
-<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ### Q3. Symmetric-key encryption: NOT true
 
@@ -5040,7 +3125,7 @@ B. The computation is faster than public-key encryption.
 C. It uses a method called RSA, which is based on the difficulty of factoring large numbers.  
 D. The key must be sent to the recipient.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ### Q4. Movie scheduling greedy rule
 
@@ -5050,7 +3135,7 @@ B. Repeatedly watch the movie with the earliest ending time among the movies you
 C. Repeatedly watch the movie with the shortest running time among the movies you can watch.  
 D. Repeatedly: for each movie you can watch, count how many movies it would make impossible to watch; watch the one with the lowest count.
 
-<sub>Topics: Greedy, Sorting · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: Greedy, Sorting · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ### Q5. C++ while loop reading 'yes'
 
@@ -5069,7 +3154,7 @@ B. Entering yessir will return the string clinic.
 C. If you enter yes once, it outputs clinic and the program exits.  
 D. (option cut off in the photo)
 
-<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ### Q6. Unix file owner/group/others
 
@@ -5145,7 +3230,7 @@ B. Understanding the inputs, outputs, and the technical methods in between.
 C. Testing with knowledge of the code (e.g. unit testing).  
 D. Testing a computer which is white in color.
 
-<sub>Topics: Software Engineering · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ### Q13. bash: command not found fix
 
@@ -5181,7 +3266,7 @@ B. Within the boundaries of meeting the SLO, the SRE team is allowed to intentio
 C. SLAs are usually set at values that are more difficult to achieve than SLOs.  
 D. SLAs are established by considering factors such as the stability of competing services from other companies, the feasibility of service stability from an engineering perspective, and customer stability requirements.
 
-<sub>Topics: Software Engineering · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ### Q16. Database rollforward processing
 
@@ -5191,7 +3276,7 @@ B. Restore using a journal file after updating against a physical failure.
 C. Restore using a journal file before updating against a logical failure.  
 D. Restore using a journal file after updating against a logical failure.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi ×3 (last 2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×4 (last 2026-10-14)</sub>
 
 ### Q17. AI alignment
 
@@ -5201,7 +3286,7 @@ B. Creating an AI model that can reveal the reasons and rationale for the answer
 C. Attempting to match the AI's goals with human intentions and ethics in the human world.  
 D. Biasing the output results by biasing the data input to the generative AI.
 
-<sub>Topics: ML/AI · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: ML/AI · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ### Q18. Inappropriate statement about generative AI
 
@@ -5211,7 +3296,7 @@ B. Typical Generative AI systems include ChatGPT, which was built by OpenAI usin
 C. Generative AI is built on a reinforcement learning framework that aims to maximize a reward value based on input.  
 D. Generative AI can perform automatic program generation if programs are included in the training data.
 
-<sub>Topics: ML/AI · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: ML/AI · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ### Q19. Not a characteristic of a reliable transaction system
 
@@ -5221,7 +3306,7 @@ B. Isolation
 C. Consistency  
 D. Transparency
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ### Q20. Shift expression equal to 6n
 
@@ -5231,7 +3316,7 @@ B. (n&lt;&lt;3)+(n&lt;&lt;3)
 C. (n>>2)+(n>>1)  
 D. ((n>>2)+n)&lt;&lt;1
 
-<sub>Topics: Bit Manipulation · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: Bit Manipulation · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ### Q21. In-memory vs traditional databases (incorrect statement)
 
@@ -5241,7 +3326,7 @@ B. In-memory databases are resilient to the physical failure of an HDD or SSD, m
 C. In in-memory databases, ensuring sufficient main memory for storing all data is typically the only method used, rather than following rules like deleting infrequently used data to allocate enough capacity.  
 D. Redis and Memcached are prominent examples of in-memory databases.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ## 2024-10-09 · Unknown · FTE
 

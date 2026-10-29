@@ -1,8 +1,8 @@
 # Deutsche Bank
 
-**9 questions** · 5 drives · latest 16 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**12 questions** · 6 drives · latest 29 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Arrays](../topics/arrays.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Strings](../topics/strings.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Graphs](../topics/graphs.md) 1 · [Trees](../topics/trees.md) 1 · [Sorting](../topics/sorting.md) 1 · +1 more  
+**Asks about:** [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Strings](../topics/strings.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · [Arrays](../topics/arrays.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Two Pointers](../topics/two-pointers.md) 1 · [Sorting](../topics/sorting.md) 1 · +1 more  
 **Seen at:** IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur
 
 <details>
@@ -10,6 +10,10 @@
 
 - [2026-10-16 · IIT Kharagpur · FTE](#2026-10-16--iit-kharagpur--fte)
   - [OA pattern: 3 DSA questions](#q1-oa-pattern-3-dsa-questions)
+- [2026-10-16 · IIT Kanpur · FTE](#2026-10-16--iit-kanpur--fte)
+  - [Tree DFS bringing result up](#q1-tree-dfs-bringing-result-up)
+  - [Standard BFS on a graph](#q2-standard-bfs-on-a-graph)
+  - [Single pass over a string checking a condition](#q3-single-pass-over-a-string-checking-a-condition)
 - [2026-10-15 · IIT Kharagpur · FTE](#2026-10-15--iit-kharagpur--fte)
   - [Deutsche Bank OA format](#q1-deutsche-bank-oa-format)
 - [2026-10-15 · IIT Kanpur · FTE](#2026-10-15--iit-kanpur--fte)
@@ -33,7 +37,27 @@
 
 Deutsche Bank OA (IIT Kharagpur) had 3 DSA questions: 1 tough and 2 easy-to-medium.
 
-<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508)</sub>
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508) · Also asked at: IIT Guwahati ×2 (last 2026-10-29)</sub>
+
+## 2026-10-16 · IIT Kanpur · FTE
+
+### Q1. Tree DFS bringing result up
+
+Given a tree, run a DFS on it to compute a result and bring the result up. (Poster did not remember the exact statement.)
+
+<sub>Topics: Trees · Source: [chat, 16 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L106)</sub>
+
+### Q2. Standard BFS on a graph
+
+A standard BFS problem on a graph. (Poster did not remember the exact statement.)
+
+<sub>Topics: Graphs · Source: [chat, 16 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L106)</sub>
+
+### Q3. Single pass over a string checking a condition
+
+Iterate over a string once, checking a condition. (Poster did not remember the exact statement.) The allotted time was 1h30m but it only needed 25-30 minutes; the questions were easy.
+
+<sub>Topics: Strings · Source: [chat, 16 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L106)</sub>
 
 ## 2026-10-15 · IIT Kharagpur · FTE
 

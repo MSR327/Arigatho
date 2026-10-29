@@ -1,126 +1,116 @@
 # NatWest
 
-**71 questions** · 22 drives · latest 27 Oct 2026 · [11 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**40 questions** · 17 drives · latest 29 Oct 2026 · [7 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Graphs](../topics/graphs.md) 13 · [Strings](../topics/strings.md) 12 · [Arrays](../topics/arrays.md) 12 · [Math](../topics/math.md) 10 · [SQL](../topics/sql.md) 8 · [Hashing](../topics/hashing.md) 8 · [Greedy](../topics/greedy.md) 5 · +9 more  
-**Seen at:** Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Roorkee, VNIT Nagpur
+**Asks about:** [Arrays](../topics/arrays.md) 9 · [Graphs](../topics/graphs.md) 7 · [OA Format](../topics/oa-format.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · [DP](../topics/dp.md) 5 · +8 more  
+**Seen at:** Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-29 · IIT Guwahati · FTE](#2026-10-29--iit-guwahati--fte)
+  - [Multisource BFS problem](#q1-multisource-bfs-problem)
+  - [Greedy problem](#q2-greedy-problem)
+  - [DFS / Dijkstra question](#q3-dfs--dijkstra-question)
+  - [Medium greedy manipulation problem](#q4-medium-greedy-manipulation-problem)
+  - [LRU Cache](#q5-lru-cache)
 - [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte)
-  - [NatWest OA pattern](#q1-natwest-oa-pattern)
-  - [Maximum Employees to Be Invited to a Meeting](#q2-maximum-employees-to-be-invited-to-a-meeting)
-  - [Basic array traversal](#q3-basic-array-traversal)
+  - [Maximum Employees to Be Invited to a Meeting](#q1-maximum-employees-to-be-invited-to-a-meeting)
+  - [Basic array traversal](#q2-basic-array-traversal)
 - [2026-10-26 · IIT Roorkee · FTE](#2026-10-26--iit-roorkee--fte)
   - [Minimum lines to cover points](#q1-minimum-lines-to-cover-points)
+- [2026-10-25 · IIT Roorkee · FTE](#2026-10-25--iit-roorkee--fte)
+  - [Mapping-based DSA question](#q1-mapping-based-dsa-question)
 - [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
   - [Smallest Permutation of an Integer](#q1-smallest-permutation-of-an-integer)
   - [Largest Odd-Sized Palindromic Square Submatrix](#q2-largest-odd-sized-palindromic-square-submatrix)
 - [2026-10-25 · IIT BHU · FTE](#2026-10-25--iit-bhu--fte)
-  - [NatWest OA format](#q1-natwest-oa-format)
-  - [Longest subarray of ones after flips (variation)](#q2-longest-subarray-of-ones-after-flips-variation)
-  - [Binary array XOR of neighbours after K operations](#q3-binary-array-xor-of-neighbours-after-k-operations)
-  - [Maximum employees to be invited to a meeting](#q4-maximum-employees-to-be-invited-to-a-meeting)
-  - [NatWest OA structure](#q5-natwest-oa-structure)
-  - [DSA questions: sorting + pick/not-pick DP](#q6-dsa-questions-sorting--picknot-pick-dp)
+  - [Longest subarray of ones after flips (variation)](#q1-longest-subarray-of-ones-after-flips-variation)
+  - [Binary array XOR of neighbours after K operations](#q2-binary-array-xor-of-neighbours-after-k-operations)
+  - [DSA questions: sorting + pick/not-pick DP](#q3-dsa-questions-sorting--picknot-pick-dp)
 - [2026-10-23 · IIT Guwahati · FTE](#2026-10-23--iit-guwahati--fte)
-  - [NatWest OA pattern](#q1-natwest-oa-pattern-1)
-  - [Multi-source Dijkstra](#q2-multi-source-dijkstra)
-  - [Remove vowels from a string](#q3-remove-vowels-from-a-string)
+  - [Multi-source Dijkstra](#q1-multi-source-dijkstra)
 - [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte)
   - [Remove all vowels from a string](#q1-remove-all-vowels-from-a-string)
-  - [Maximum Employees to Be Invited to a Meeting (print the cycle)](#q2-maximum-employees-to-be-invited-to-a-meeting-print-the-cycle)
-  - [NatWest OA structure and coding questions](#q3-natwest-oa-structure-and-coding-questions)
-- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte)
-  - [Count occurrences of a digit in a number](#q1-count-occurrences-of-a-digit-in-a-number)
-  - [Start node covering the maximum nodes in a directed graph](#q2-start-node-covering-the-maximum-nodes-in-a-directed-graph)
-  - [NatWest OA structure](#q3-natwest-oa-structure)
-- [2026-10-14 · IIT Roorkee · FTE](#2026-10-14--iit-roorkee--fte)
-  - [NatWest SQL MCQ section](#q1-natwest-sql-mcq-section)
+- [2026-10-18 · IIT Roorkee · FTE](#2026-10-18--iit-roorkee--fte)
+  - [Remaining intervals after removing overlaps](#q1-remaining-intervals-after-removing-overlaps)
+  - [Area of largest palindromic submatrix](#q2-area-of-largest-palindromic-submatrix)
 - [2026-10-14 · IIT BHU · FTE](#2026-10-14--iit-bhu--fte)
-  - [Count Occurrences of a Digit in a Number](#q1-count-occurrences-of-a-digit-in-a-number-1)
+  - [Count Occurrences of a Digit in a Number](#q1-count-occurrences-of-a-digit-in-a-number)
   - [Start Node Reaching Maximum Nodes in Directed Graph](#q2-start-node-reaching-maximum-nodes-in-directed-graph)
   - [Other Sections (Behavioural, Reasoning, SQL MCQ)](#q3-other-sections-behavioural-reasoning-sql-mcq)
 - [2026-10-13 · IIT Guwahati · FTE](#2026-10-13--iit-guwahati--fte)
   - [OA DSA set: string, two sum, stones DP, graph](#q1-oa-dsa-set-string-two-sum-stones-dp-graph)
 - [2026-10-13 · IIT BHU · FTE](#2026-10-13--iit-bhu--fte)
   - [OA DSA set: one easy, one 2-D DP](#q1-oa-dsa-set-one-easy-one-2-d-dp)
-  - [Count occurrences of a digit in a number](#q2-count-occurrences-of-a-digit-in-a-number)
-  - [Start node covering maximum nodes in directed graph](#q3-start-node-covering-maximum-nodes-in-directed-graph)
-  - [OA format: behavioural, reasoning, SQL MCQ](#q4-oa-format-behavioural-reasoning-sql-mcq)
 - [2026-10-12 · VNIT Nagpur · FTE](#2026-10-12--vnit-nagpur--fte)
   - [Aptitude section content](#q1-aptitude-section-content)
 - [2026-10-12 · IIT Guwahati · FTE](#2026-10-12--iit-guwahati--fte)
-  - [OA structure: DSA, SQL and CS fundamentals](#q1-oa-structure-dsa-sql-and-cs-fundamentals)
-  - [Two Sum style problems](#q2-two-sum-style-problems)
-  - [Simple string question](#q3-simple-string-question)
+  - [Two Sum](#q1-two-sum)
+  - [Simple string problem](#q2-simple-string-problem)
+  - [Jump problem (DP)](#q3-jump-problem-dp)
   - [SQL query on IPL teams data](#q4-sql-query-on-ipl-teams-data)
-  - [Two Sum](#q5-two-sum)
-  - [Simple string problem](#q6-simple-string-problem)
-  - [Jump problem (DP)](#q7-jump-problem-dp)
-  - [SQL query on IPL teams data](#q8-sql-query-on-ipl-teams-data)
-  - [SQL MCQs](#q9-sql-mcqs)
-  - [Two Sum](#q10-two-sum)
-  - [DP jump problem](#q11-dp-jump-problem)
-  - [Simple string problem](#q12-simple-string-problem)
-  - [SQL questions (easy)](#q13-sql-questions-easy)
-  - [CS fundamentals MCQs and paper overview](#q14-cs-fundamentals-mcqs-and-paper-overview)
+  - [SQL MCQs](#q5-sql-mcqs)
+  - [SQL questions (easy)](#q6-sql-questions-easy)
 - [2026-10-12 · IIT BHU · FTE](#2026-10-12--iit-bhu--fte)
-  - [NatWest OA structure](#q1-natwest-oa-structure)
-  - [OA pattern](#q2-oa-pattern)
-- [2026-10-12 · IIT BHU · Intern](#2026-10-12--iit-bhu--intern)
-  - [Max distance between special nodes in a tree](#q1-max-distance-between-special-nodes-in-a-tree)
-  - [Overlapping area of two circles](#q2-overlapping-area-of-two-circles)
-- [2026-10-12 · IIT BHU · FTE · Software](#2026-10-12--iit-bhu--fte--software)
-  - [NatWest OA pattern (IIT BHU)](#q1-natwest-oa-pattern-iit-bhu)
-- [2026-10-12 · Delhi Technological University · FTE](#2026-10-12--delhi-technological-university--fte)
-  - [Non-Overlapping Substring Occurrences](#q1-non-overlapping-substring-occurrences)
-  - [Grid Path with Obstacles](#q2-grid-path-with-obstacles)
-  - [Non-overlapping substring occurrences](#q3-non-overlapping-substring-occurrences)
-  - [Grid path with obstacles](#q4-grid-path-with-obstacles)
+  - [OA pattern](#q1-oa-pattern)
 - [2026-10-11 · Delhi Technological University · FTE](#2026-10-11--delhi-technological-university--fte)
   - [OA Pattern + DSA Section Overview](#q1-oa-pattern--dsa-section-overview)
   - [CS Fundamentals + SQL Sections](#q2-cs-fundamentals--sql-sections)
-  - [Non-Overlapping Substring Occurrences](#q3-non-overlapping-substring-occurrences-1)
-  - [Grid Path with Obstacles](#q4-grid-path-with-obstacles-1)
+  - [Non-Overlapping Substring Occurrences](#q3-non-overlapping-substring-occurrences)
+  - [Grid Path with Obstacles](#q4-grid-path-with-obstacles)
   - [Count Pairs with Difference K](#q5-count-pairs-with-difference-k)
   - [Area of Intersection of Two Circles](#q6-area-of-intersection-of-two-circles)
   - [Last Occurrence Map Problem](#q7-last-occurrence-map-problem)
   - [Minimum Distance Between a Point and a Line](#q8-minimum-distance-between-a-point-and-a-line)
 - [2026-10-10 · Delhi Technological University · FTE](#2026-10-10--delhi-technological-university--fte)
-  - [NatWest OA pattern](#q1-natwest-oa-pattern-2)
-- [2026-10-07 · Delhi Technological University · FTE · SDE](#2026-10-07--delhi-technological-university--fte--sde)
-  - [Non-overlapping substring occurrences](#q1-non-overlapping-substring-occurrences-1)
-  - [Grid path with obstacles](#q2-grid-path-with-obstacles-1)
-- [2026-10-06 · IIT Delhi · FTE · SDE](#2026-10-06--iit-delhi--fte--sde)
-  - [NatWest OA structure](#q1-natwest-oa-structure-1)
-- [2026-10-06 · IIT Delhi · FTE](#2026-10-06--iit-delhi--fte)
-  - [Count pairs with difference K](#q1-count-pairs-with-difference-k)
-  - [Common area of two intersecting circles](#q2-common-area-of-two-intersecting-circles)
-  - [Last occurrence map problem](#q3-last-occurrence-map-problem)
-  - [Optimize distance between a point and a line on an infinite plane](#q4-optimize-distance-between-a-point-and-a-line-on-an-infinite-plane)
-  - [SQL basics and logical reasoning](#q5-sql-basics-and-logical-reasoning)
+  - [NatWest OA pattern](#q1-natwest-oa-pattern)
 
 </details>
 
 ---
 
+## 2026-10-29 · IIT Guwahati · FTE
+
+### Q1. Multisource BFS problem
+
+A multi-source BFS question (statement not given). Poster said the test had 2 DSA questions: one multi-source BFS and one normal greedy question. Full statement is missing.
+
+<sub>Topics: Graphs · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2808), [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1197) · Also asked at: IIT Guwahati (2026-10-29)</sub>
+
+### Q2. Greedy problem
+
+A normal greedy question (statement not given). Full statement is missing.
+
+<sub>Topics: Greedy · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2808), [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1197)</sub>
+
+### Q3. DFS / Dijkstra question
+
+One question was on DFS/Dijkstra (statement not given). Full statement is missing.
+
+<sub>Topics: Graphs · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2808), [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1197)</sub>
+
+### Q4. Medium greedy manipulation problem
+
+The other DSA question was a medium-level greedy manipulation problem. Statement not given.
+
+<sub>Topics: Greedy · Source: [chat, 29 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L233)</sub>
+
+### Q5. LRU Cache
+
+LeetCode 146 was asked. Another question was a search pattern problem (from GFG); details not given.
+
+<sub>Topics: Hashing, Linked List · Similar: [LeetCode 146. LRU Cache](https://leetcode.com/problems/lru-cache/) (Medium) · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L470)</sub>
+
 ## 2026-10-27 · IIT BHU · FTE
 
-### Q1. NatWest OA pattern
-
-Sections reported: 12 SQL MCQs in 15 minutes, 8 aptitude questions in about 15 minutes, 2 DSA questions in 1 hour, and finally 100 behavioural questions with unlimited time. Coding topics mentioned across sets: DP, segment trees, geometry, matrix, sorting. Difficulty varies a lot by set (very easy to very hard). SQL was easy to medium MCQs.
-
-<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/natwest-oa/2026-10.jsonl#L10), [chat, 25 Oct](../archive/natwest-oa/2026-10.jsonl#L32), [chat, 25 Oct](../archive/natwest-oa/2026-10.jsonl#L33), [chat, 27 Oct](../archive/natwest-oa/2026-10.jsonl#L44), [chat, 27 Oct](../archive/natwest-oa/2026-10.jsonl#L45), [chat, 27 Oct](../archive/natwest-oa/2026-10.jsonl#L49)</sub>
-
-### Q2. Maximum Employees to Be Invited to a Meeting
+### Q1. Maximum Employees to Be Invited to a Meeting
 
 The poster got LeetCode 2127 (Maximum Employees to Be Invited to a Meeting) in their set and called it one of the toughest sets. The full statement was not shared.
 
-<sub>Topics: Graphs · Similar: [LeetCode 2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) (Hard) · Source: [chat, 21 Oct](../archive/natwest-oa/2026-10.jsonl#L10), [chat, 25 Oct](../archive/natwest-oa/2026-10.jsonl#L32), [chat, 25 Oct](../archive/natwest-oa/2026-10.jsonl#L33), [chat, 27 Oct](../archive/natwest-oa/2026-10.jsonl#L44), [chat, 27 Oct](../archive/natwest-oa/2026-10.jsonl#L45), [chat, 27 Oct](../archive/natwest-oa/2026-10.jsonl#L49)</sub>
+<sub>Topics: Graphs · Similar: [LeetCode 2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) (Hard) · Source: [chat, 21 Oct](../archive/natwest-oa/2026-10.jsonl#L10), [chat, 25 Oct](../archive/natwest-oa/2026-10.jsonl#L32), [chat, 25 Oct](../archive/natwest-oa/2026-10.jsonl#L33), [chat, 27 Oct](../archive/natwest-oa/2026-10.jsonl#L44), [chat, 27 Oct](../archive/natwest-oa/2026-10.jsonl#L45), [chat, 27 Oct](../archive/natwest-oa/2026-10.jsonl#L49) · Also asked at: IIT Roorkee ×2 (last 2026-10-22), IIT Kanpur (2026-10-23), IIT BHU (2026-10-25)</sub>
 
-### Q3. Basic array traversal
+### Q2. Basic array traversal
 
 The second DSA question in the same set was a basic array traversal problem. The statement was not shared.
 
@@ -133,6 +123,14 @@ The second DSA question in the same set was a basic array traversal problem. The
 Find the minimum number of lines needed to cover all given points (GeeksforGeeks: minimum-lines-cover-points). The other question in the set was easy. Full statement not given.
 
 <sub>Topics: Math, Hashing · Source: [chat, 26 Oct](../archive/natwest-oa/2026-10.jsonl#L39)</sub>
+
+## 2026-10-25 · IIT Roorkee · FTE
+
+### Q1. Mapping-based DSA question
+
+The second DSA question was about mapping. The poster does not remember the exact question.
+
+<sub>Topics: Hashing · Source: [chat, 25 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L67)</sub>
 
 ## 2026-10-25 · IIT Guwahati · FTE
 
@@ -173,37 +171,19 @@ If no valid square larger than 1x1 exists, return 1.
 
 ## 2026-10-25 · IIT BHU · FTE
 
-### Q1. NatWest OA format
-
-2 easy DSA questions, 8 aptitude, 12 SQL and 100 behavioural questions.
-
-<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L128)</sub>
-
-### Q2. Longest subarray of ones after flips (variation)
+### Q1. Longest subarray of ones after flips (variation)
 
 A variation of LeetCode Max Consecutive Ones III (easy version). Exact statement not given.
 
 <sub>Topics: Sliding Window, Arrays · Similar: [LeetCode 1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) (Medium) · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L138), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L144)</sub>
 
-### Q3. Binary array XOR of neighbours after K operations
+### Q2. Binary array XOR of neighbours after K operations
 
 Given an n-sized binary array, exactly K operations are performed. In each operation, every element is changed as a[i] = xor of (a[i-1], a[i+1]), where the left and right of the boundary elements are assumed to be 0. Return the array after K such operations. Constraints were not given.
 
 <sub>Topics: Arrays, Bit Manipulation · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L138), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L144)</sub>
 
-### Q4. Maximum employees to be invited to a meeting
-
-Asked to other candidates: LeetCode problem Maximum Employees to Be Invited to a Meeting. Exact statement not given.
-
-<sub>Topics: Graphs · Similar: [LeetCode 2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) (Hard) · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L138), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L144)</sub>
-
-### Q5. NatWest OA structure
-
-Section 1: SQL + MCQs; Section 2: 2 DSA questions; Section 3: Aptitude. Question sets and section difficulty differed per candidate.
-
-<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L138), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L144)</sub>
-
-### Q6. DSA questions: sorting + pick/not-pick DP
+### Q3. DSA questions: sorting + pick/not-pick DP
 
 The poster's 2 easy-to-medium DSA questions were a sorting problem and a pick / not-pick (take / not take) DP problem. No full problem statements were shared.
 
@@ -211,23 +191,11 @@ The poster's 2 easy-to-medium DSA questions were a sorting problem and a pick / 
 
 ## 2026-10-23 · IIT Guwahati · FTE
 
-### Q1. NatWest OA pattern
-
-15 SQL MCQs, 2 DSA questions and approximately 12 aptitude questions, followed by behavioral questions. Questions repeated from the BHU sets.
-
-<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L154), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L156), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L157)</sub>
-
-### Q2. Multi-source Dijkstra
+### Q1. Multi-source Dijkstra
 
 One DSA question was a multi-source Dijkstra problem. The exact statement was not shared.
 
 <sub>Topics: Graphs, Heaps · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L154), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L156), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L157)</sub>
-
-### Q3. Remove vowels from a string
-
-Remove vowels from a string.
-
-<sub>Topics: Strings · Similar: [LeetCode 1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) (Easy) · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L154), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L156), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L157)</sub>
 
 ## 2026-10-22 · IIT Roorkee · FTE
 
@@ -235,56 +203,21 @@ Remove vowels from a string.
 
 Remove all vowels from a given string. (Reported as asked in some sets; full statement not given.)
 
-<sub>Topics: Strings · Similar: [LeetCode 1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) (Easy) · Source: [chat, 21 Oct](../archive/natwest-oa/2026-10.jsonl#L14), [chat, 21 Oct](../archive/natwest-oa/2026-10.jsonl#L15), [chat, 22 Oct](../archive/natwest-oa/2026-10.jsonl#L17)</sub>
+<sub>Topics: Strings · Similar: [LeetCode 1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) (Easy) · Source: [chat, 21 Oct](../archive/natwest-oa/2026-10.jsonl#L14), [chat, 21 Oct](../archive/natwest-oa/2026-10.jsonl#L15), [chat, 22 Oct](../archive/natwest-oa/2026-10.jsonl#L17) · Also asked at: IIT Guwahati (2026-10-23), IIT Roorkee (2026-10-25)</sub>
 
-### Q2. Maximum Employees to Be Invited to a Meeting (print the cycle)
+## 2026-10-18 · IIT Roorkee · FTE
 
-LeetCode 2127 (Maximum Employees to Be Invited to a Meeting). One poster's version required printing the cycle instead of the count. Full statement not given.
+### Q1. Remaining intervals after removing overlaps
 
-<sub>Topics: Graphs · Similar: [LeetCode 2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) (Hard) · Source: [chat, 21 Oct](../archive/natwest-oa/2026-10.jsonl#L14), [chat, 21 Oct](../archive/natwest-oa/2026-10.jsonl#L15), [chat, 22 Oct](../archive/natwest-oa/2026-10.jsonl#L17)</sub>
+Find the intervals left after overlapping intervals are removed. (Exact statement not given by the poster.)
 
-### Q3. NatWest OA structure and coding questions
+<sub>Topics: Arrays, Sorting · Source: [chat, 18 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L156) · Also asked at: IIT Roorkee (2026-10-21)</sub>
 
-- 2 DSA questions: the 1st was an easy string-based question; the 2nd was map-based (poster does not remember it exactly)
-- 8 aptitude questions
-- 100 behavioural questions, unlimited time
-- SQL MCQ: 12 questions in 15 minutes
+### Q2. Area of largest palindromic submatrix
 
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L225)</sub>
+Find the area of the largest palindromic submatrix, where a submatrix is palindromic if a[i][j] = a[n-i+1][m-j+1].
 
-## 2026-10-22 · IIT BHU · FTE
-
-### Q1. Count occurrences of a digit in a number
-
-Given a digit and a number, find how many times that digit occurs in the number.
-
-<sub>Topics: Math, Strings · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L218), [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L219)</sub>
-
-### Q2. Start node covering the maximum nodes in a directed graph
-
-Given a directed graph, find which node to start from so that the maximum number of nodes can be covered (reached).
-
-Constraints: number of nodes = 1000, number of edges = 10000.
-
-<sub>Topics: Graphs · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L218), [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L219)</sub>
-
-### Q3. NatWest OA structure
-
-Two coding questions, plus:
-
-- Behavioural: 100 questions, unlimited time
-- Reasoning: about 8 questions, 12 minutes
-- SQL MCQ: 12 questions, 15 minutes
-
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L218), [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L219)</sub>
-
-## 2026-10-14 · IIT Roorkee · FTE
-
-### Q1. NatWest SQL MCQ section
-
-The SQL section was MCQ-based only, with no SQL query writing. There were 12 SQL questions to solve in 15 minutes. The actual questions were not shared.
-
-<sub>Topics: OA Format, SQL · Source: [chat, 14 Oct](../archive/natwest-oa/2026-10.jsonl#L69)</sub>
+<sub>Topics: Arrays, DP · Source: [chat, 18 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L156) · Also asked at: IIT Roorkee (2026-10-21)</sub>
 
 ## 2026-10-14 · IIT BHU · FTE
 
@@ -292,19 +225,19 @@ The SQL section was MCQ-based only, with no SQL query writing. There were 12 SQL
 
 Given a digit and a number, count how many times that digit appears in the number.
 
-<sub>Topics: Math, Strings · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L183)</sub>
+<sub>Topics: Math, Strings · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L183) · Also asked at: IIT BHU ×3 (last 2026-10-22), IIT Roorkee ×2 (last 2026-10-26)</sub>
 
 ### Q2. Start Node Reaching Maximum Nodes in Directed Graph
 
 Given a directed graph, find the node to start from such that the maximum number of nodes can be covered (reached). Number of nodes = 1000, number of edges = 10000.
 
-<sub>Topics: Graphs · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L183)</sub>
+<sub>Topics: Graphs · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L183) · Also asked at: IIT BHU ×3 (last 2026-10-22), IIT Roorkee ×2 (last 2026-10-26)</sub>
 
 ### Q3. Other Sections (Behavioural, Reasoning, SQL MCQ)
 
 The test also had a behavioural section (100 questions, no time limit), a reasoning section (8 questions, 12 minutes), and an SQL MCQ section (12 questions, 15 minutes).
 
-<sub>Topics: OA Format, SQL, Aptitude · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L183) · Also asked at: IIT BHU ×2 (last 2026-10-25)</sub>
+<sub>Topics: OA Format, SQL, Aptitude · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L183) · Also asked at: IIT BHU ×5 (last 2026-10-25), IIT Roorkee ×3 (last 2026-10-26)</sub>
 
 ## 2026-10-13 · IIT Guwahati · FTE
 
@@ -322,239 +255,62 @@ Two DSA questions: one very easy and the other a medium 2-D DP problem. Statemen
 
 <sub>Topics: DP · Source: [chat, 13 Oct](../archive/natwest-oa/2026-10.jsonl#L57)</sub>
 
-### Q2. Count occurrences of a digit in a number
-
-Given a digit and a number, find how many times the digit occurs in the number.
-
-<sub>Topics: Math · Source: [chat, 13 Oct](../archive/natwest-oa/2026-10.jsonl#L64)</sub>
-
-### Q3. Start node covering maximum nodes in directed graph
-
-Given a directed graph, find which starting node lets you cover the maximum number of nodes.
-
-Constraints: number of nodes = 1000, number of edges = 10000.
-
-<sub>Topics: Graphs · Source: [chat, 13 Oct](../archive/natwest-oa/2026-10.jsonl#L64)</sub>
-
-### Q4. OA format: behavioural, reasoning, SQL MCQ
-
-- Behavioural: 100 questions, unlimited time
-- Reasoning: 8 questions, 12 min
-- SQL MCQ: 12 questions, 15 min
-
-<sub>Topics: OA Format · Source: [chat, 13 Oct](../archive/natwest-oa/2026-10.jsonl#L64)</sub>
-
 ## 2026-10-12 · VNIT Nagpur · FTE
 
 ### Q1. Aptitude section content
 
 The aptitude section mainly has simple maths type questions, not too heavy on aptitude.
 
-<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L128)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L128) · Also asked at: IIT Roorkee (2026-10-18)</sub>
 
 ## 2026-10-12 · IIT Guwahati · FTE
 
-### Q1. OA structure: DSA, SQL and CS fundamentals
-
-4 sections: 4 DSA questions, 1 SQL coding question, 15 SQL MCQs and 40 CS fundamentals MCQs.
-
-<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L135), [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L136)</sub>
-
-### Q2. Two Sum style problems
-
-Simple two-sum problems were asked. Exact statements not given.
-
-<sub>Topics: Arrays, Hashing · Similar: [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum/) (Easy) · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L135), [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L136)</sub>
-
-### Q3. Simple string question
-
-One simple string question (described as a homework-type problem). Exact statement not given.
-
-<sub>Topics: Strings · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L135), [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L136)</sub>
-
-### Q4. SQL query on IPL teams data
-
-A SQL question on IPL teams data. Exact statement not given.
-
-<sub>Topics: SQL · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L135), [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L136)</sub>
-
-### Q5. Two Sum
+### Q1. Two Sum
 
 A simple Two Sum problem: given an array of integers and a target, find two elements whose sum equals the target.
 
-<sub>Topics: Arrays, Hashing · Similar: [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum/) (Easy) · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356)</sub>
+<sub>Topics: Arrays, Hashing · Similar: [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum/) (Easy) · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356) · Also asked at: IIT Guwahati ×2 (last 2026-10-12)</sub>
 
-### Q6. Simple string problem
+### Q2. Simple string problem
 
 A simple string problem of roughly Codeforces 900 rating. The poster did not give the exact statement.
 
-<sub>Topics: Strings · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356)</sub>
+<sub>Topics: Strings · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356) · Also asked at: IIT Guwahati ×2 (last 2026-10-12)</sub>
 
-### Q7. Jump problem (DP)
+### Q3. Jump problem (DP)
 
 A dynamic programming problem of the jump type (like Jump Game or Frog Jump). The poster did not give the exact statement.
 
-<sub>Topics: DP · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356)</sub>
+<sub>Topics: DP · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356) · Also asked at: IIT Guwahati (2026-10-12)</sub>
 
-### Q8. SQL query on IPL teams data
+### Q4. SQL query on IPL teams data
 
 A simple SQL coding question on a table of IPL teams data covering all 10 teams. The poster did not give the exact query asked.
 
-<sub>Topics: SQL · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356)</sub>
+<sub>Topics: SQL · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356) · Also asked at: IIT Guwahati (2026-10-12)</sub>
 
-### Q9. SQL MCQs
+### Q5. SQL MCQs
 
 Multiple-choice questions on SQL, mostly easy.
 
-<sub>Topics: SQL · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356)</sub>
+<sub>Topics: SQL · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356) · Also asked at: IIT Roorkee (2026-10-18)</sub>
 
-### Q10. Two Sum
-
-A 2-sum problem was asked. (Full statement not given.)
-
-<sub>Topics: Arrays, Hashing · Similar: [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum/) (Easy) · Source: [chat, 12 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L368)</sub>
-
-### Q11. DP jump problem
-
-One DP problem of the jump type was asked. (Full statement not given.)
-
-<sub>Topics: DP · Source: [chat, 12 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L368)</sub>
-
-### Q12. Simple string problem
-
-One simple string problem was asked. (Details not given.)
-
-<sub>Topics: Strings · Source: [chat, 12 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L368)</sub>
-
-### Q13. SQL questions (easy)
+### Q6. SQL questions (easy)
 
 SQL questions, all easy. (Details not given.)
 
 <sub>Topics: SQL · Source: [chat, 12 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L368)</sub>
 
-### Q14. CS fundamentals MCQs and paper overview
-
-CS fundamentals MCQs were included; the poster says the paper is on the high-scoring side if you know the fundamentals.
-
-<sub>Topics: OS/DBMS/CN MCQ, OA Format · Source: [chat, 12 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L368)</sub>
-
 ## 2026-10-12 · IIT BHU · FTE
 
-### Q1. NatWest OA structure
-
-OA held at IIT BHU on 2026-10-12. Sections reported:
-- 12 SQL questions, 15 min
-- Aptitude: 8 questions, 12 min
-- 2 easy-medium DSA questions (poster's was a sorting question; another was a take/not-take DP)
-- Behavioural: approx. 100 questions ("which describes you best", choose 2 out of 3)
-
-<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L406), [chat, 12 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L409), [chat, 12 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L411)</sub>
-
-### Q2. OA pattern
+### Q1. OA pattern
 
 - 12 SQL questions, 15 min
 - Aptitude 8 questions, 12 min
 - 2 easy-medium DSA questions (poster's was a sorting one; take / not take DP also mentioned)
 - Behavioural: 100 questions (choose which describes you best, 2 out of 3)
 
-<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L138)</sub>
-
-## 2026-10-12 · IIT BHU · Intern
-
-### Q1. Max distance between special nodes in a tree
-
-Given a tree and an array of special nodes, find the maximum distance between any two of the special nodes. The poster's solution got TLE; only 7-8 test cases passed. Constraints missing.
-
-<sub>Topics: Trees, Graphs · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L139), [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L142), [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L145), [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L54)</sub>
-
-### Q2. Overlapping area of two circles
-
-Given two circles, find the overlapping area. Other details missing.
-
-<sub>Topics: Math · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L139), [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L142), [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L145), [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L54)</sub>
-
-## 2026-10-12 · IIT BHU · FTE · Software
-
-### Q1. NatWest OA pattern (IIT BHU)
-
-OA pattern at BHU:
-
-- 2 DSA questions (Codeforces-style: complete the full code, taking input and printing output yourself; one other poster described LC-style, no input handling needed)
-- 100 behavioural questions
-- 12 SQL MCQs in 15 minutes (no OS/CN MCQs, only SQL)
-- 8 aptitude questions: interactive pie chart, predict pattern types
-
-The actual coding problems were not shared.
-
-<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/natwest-oa/2026-10.jsonl#L73), [chat, 15 Oct](../archive/natwest-oa/2026-10.jsonl#L74), [chat, 15 Oct](../archive/natwest-oa/2026-10.jsonl#L78), [chat, 16 Oct](../archive/natwest-oa/2026-10.jsonl#L81), [chat, 21 Oct](../archive/natwest-oa/2026-10.jsonl#L8)</sub>
-
-## 2026-10-12 · Delhi Technological University · FTE
-
-### Q1. Non-Overlapping Substring Occurrences
-
-Given a string `S` and a substring `P`, find the maximum number of non-overlapping occurrences of `P` inside `S`. An occurrence of `P` can only be counted if it does not overlap with any previously counted occurrence.
-
-Example:
-
-```
-S = "abababa"
-P = "aba"
-```
-
-Occurrences are at indices 0, 2, and 4, but they overlap with each other. Therefore, the maximum number of non-overlapping occurrences is 2 (e.g., indices 0 and 4).
-
-Return the maximum number of times `P` can occur in `S` without overlapping.
-
-<sub>Topics: Strings, Greedy · Source: [chat, 12 Oct](../archive/campus-igdtuw-placements/2026-10.jsonl#L5)</sub>
-
-### Q2. Grid Path with Obstacles
-
-Given an `m × n` grid containing free cells and obstacles, you start at the top-left cell `(0,0)` and need to reach the bottom-right cell `(m-1,n-1)`. You cannot move through or onto obstacle cells. Determine whether there exists a valid path from the top-left cell to the bottom-right cell. You may move between adjacent cells according to the allowed movement directions (e.g., up, down, left, right, if specified).
-
-Example:
-
-```
-0 0 0
-1 1 0
-0 0 0
-```
-
-`0` = free cell, `1` = obstacle. A valid path exists: (0,0) → (0,1) → (0,2) → (1,2) → (2,2). So the answer is YES.
-
-<sub>Topics: Graphs, Arrays · Source: [chat, 12 Oct](../archive/campus-igdtuw-placements/2026-10.jsonl#L5)</sub>
-
-### Q3. Non-overlapping substring occurrences
-
-Given a string `S` and a substring `P`, find the maximum number of non-overlapping occurrences of `P` inside `S`. An occurrence of `P` can only be counted if it does not overlap with any previously counted occurrence.
-
-Example:
-
-```
-S = "abababa"
-P = "aba"
-```
-
-Occurrences are at indices 0, 2, and 4, but they overlap with each other. Therefore, the maximum number of non-overlapping occurrences is 2 (e.g., indices 0 and 4).
-
-Return the maximum number of times `P` can occur in `S` without overlapping.
-
-<sub>Topics: Strings, Greedy · Source: [chat, 12 Oct](../archive/campus-bits-hyderabad-placements/2026-10.jsonl#L3)</sub>
-
-### Q4. Grid path with obstacles
-
-Given an `m × n` grid containing free cells and obstacles, you start at the top-left cell (0,0) and need to reach the bottom-right cell (m-1,n-1). You cannot move through or onto obstacle cells. Determine whether there exists a valid path from the top-left cell to the bottom-right cell. You may move between adjacent cells according to the allowed movement directions (e.g., up, down, left, right, if specified).
-
-Example (0 = free cell, 1 = obstacle):
-
-```
-0 0 0
-1 1 0
-0 0 0
-```
-
-A valid path exists: (0,0) → (0,1) → (0,2) → (1,2) → (2,2). So the answer is YES.
-
-<sub>Topics: Graphs, Recursion/Backtracking · Source: [chat, 12 Oct](../archive/campus-bits-hyderabad-placements/2026-10.jsonl#L3)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L138) · Also asked at: IIT BHU ×5 (last 2026-10-27), IIT Roorkee ×6 (last 2026-10-29), IIT Guwahati ×3 (last 2026-10-29), IIT Kharagpur/Kanpur (2026-10-29), NIT Patna (2026-10-29), Unknown (2026-10-29), IIT Hyderabad (2026-10-29)</sub>
 
 ## 2026-10-11 · Delhi Technological University · FTE
 
@@ -562,20 +318,20 @@ A valid path exists: (0,0) → (0,1) → (0,2) → (1,2) → (2,2). So the answe
 
 The NatWest OA had 4 sections. Section 1: 4 DSA questions. One candidate got 1 DP question (pick / not-pick), 1 difference-array question, 1 greedy question, and 1 question about math and modulo. Question sets differed between candidates; others got BFS, Dijkstra and sliding-window questions. Section 2: 40 CS fundamentals MCQs. Section 3: 15 SQL MCQs. Section 4: 1 easy SQL problem. The DSA section decides the main cutoff, so aim to solve at least 3.
 
-<sub>Topics: OA Format · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172)</sub>
+<sub>Topics: OA Format · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: IIT Delhi (2026-10-06), IIT Guwahati (2026-10-12)</sub>
 
 ### Q2. CS Fundamentals + SQL Sections
 
 Section 2: 40 CS fundamentals MCQs covering Computer Networks, Operating Systems, Distributed Computing, DBMS and Data Warehousing. Section 3: 15 SQL MCQs. Section 4: 1 easy SQL coding problem. The test also included SQL basics and logical reasoning.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ, SQL · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ, SQL · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: IIT Delhi (2026-10-06), IIT Guwahati (2026-10-12)</sub>
 
 ### Q3. Non-Overlapping Substring Occurrences
 
 Given a string S and a substring P, find the maximum number of non-overlapping occurrences of P in S. An occurrence of P counts only if it does not overlap any previously counted occurrence.  
 Example: S = "abababa", P = "aba". P occurs at indices 0, 2 and 4, but these overlap each other. The maximum number of non-overlapping occurrences is 2 (e.g., indices 0 and 4). Return the maximum number of times P can occur in S without overlapping.
 
-<sub>Topics: Strings, Greedy · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172)</sub>
+<sub>Topics: Strings, Greedy · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: Delhi Technological University ×3 (last 2026-10-12)</sub>
 
 ### Q4. Grid Path with Obstacles
 
@@ -586,31 +342,31 @@ Example grid:
 0 0 0  
 A valid path exists: (0,0) -> (0,1) -> (0,2) -> (1,2) -> (2,2), so the answer is YES.
 
-<sub>Topics: Graphs, Arrays · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172)</sub>
+<sub>Topics: Graphs, Arrays · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: Delhi Technological University ×3 (last 2026-10-12)</sub>
 
 ### Q5. Count Pairs with Difference K
 
 Given an array of integers and an integer K, find the number of pairs in the array whose difference equals K.
 
-<sub>Topics: Hashing, Arrays · Similar: [LeetCode 2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) (Easy) · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172)</sub>
+<sub>Topics: Hashing, Arrays · Similar: [LeetCode 2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) (Easy) · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: IIT Delhi (2026-10-06)</sub>
 
 ### Q6. Area of Intersection of Two Circles
 
 Two circles with different radii intersect each other. Write code to find the area of their common (intersecting) region. Input includes the radii r1 and r2.
 
-<sub>Topics: Math · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172)</sub>
+<sub>Topics: Math · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: IIT Delhi (2026-10-06)</sub>
 
 ### Q7. Last Occurrence Map Problem
 
 A problem about mapping: use a map data structure to store the last occurrence of each number, then apply a condition. The poster did not remember the exact statement.
 
-<sub>Topics: Hashing · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172)</sub>
+<sub>Topics: Hashing · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: IIT Delhi (2026-10-06)</sub>
 
 ### Q8. Minimum Distance Between a Point and a Line
 
 Given an infinite plane, optimize (minimize) the distance between a point and a line. The poster did not remember the exact statement.
 
-<sub>Topics: Math · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172)</sub>
+<sub>Topics: Math · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: IIT Delhi (2026-10-06)</sub>
 
 ## 2026-10-10 · Delhi Technological University · FTE
 
@@ -619,88 +375,3 @@ Given an infinite plane, optimize (minimize) the distance between a point and a 
 NatWest OA pattern: MCQs on DSA and behavioural-type questions. Both CS fundamentals and aptitude types of MCQs appeared; the questions were easy and took hardly 1 minute each. There were also SQL MCQs (not query writing).
 
 <sub>Topics: OA Format · Source: [chat, 10 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L55), [chat, 10 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L57), [chat, 10 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L1), [chat, 10 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L2), [chat, 10 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L3)</sub>
-
-## 2026-10-07 · Delhi Technological University · FTE · SDE
-
-### Q1. Non-overlapping substring occurrences
-
-Given a string `S` and a substring `P`, find the maximum number of non-overlapping occurrences of `P` inside `S`. An occurrence of `P` can only be counted if it does not overlap with any previously counted occurrence.
-
-Example:
-```
-S = "abababa"
-P = "aba"
-```
-Occurrences are at indices 0, 2 and 4, but they overlap with each other. Therefore the maximum number of non-overlapping occurrences is 2 (e.g., indices 0 and 4).
-
-Return the maximum number of times `P` can occur in `S` without overlapping.
-
-<sub>Topics: Strings, Greedy · Source: [chat, 7 Oct](../archive/natwest-oa/2026-10.jsonl#L159), [chat, 7 Oct](../archive/natwest-oa/2026-10.jsonl#L160)</sub>
-
-### Q2. Grid path with obstacles
-
-Given an `m × n` grid containing free cells and obstacles, you start at the top-left cell (0,0) and need to reach the bottom-right cell (m-1,n-1). You cannot move through or onto obstacle cells. Determine whether a valid path exists. You may move between adjacent cells according to the allowed movement directions (e.g., up, down, left, right, if specified).
-
-Example (0 = free, 1 = obstacle):
-```
-0 0 0
-1 1 0
-0 0 0
-```
-A valid path exists: (0,0) → (0,1) → (0,2) → (1,2) → (2,2). Answer: YES.
-
-<sub>Topics: Graphs, Arrays · Source: [chat, 7 Oct](../archive/natwest-oa/2026-10.jsonl#L159), [chat, 7 Oct](../archive/natwest-oa/2026-10.jsonl#L160)</sub>
-
-## 2026-10-06 · IIT Delhi · FTE · SDE
-
-### Q1. NatWest OA structure
-
-The OA had 4 sections:
-
-Section 1 - 4 DSA questions. The poster got 1 DP question (pick/not pick), 1 difference array question, 1 greedy question and 1 about math and modulo (can't remember much). Others got different sets, e.g. BFS, Dijkstra, sliding window.
-
-Section 2 - 40 CS fundamentals questions (CN, OS, Distributed Computing, DBMS, Data Warehousing).
-
-Section 3 - 15 SQL MCQs.
-
-Section 4 - 1 easy SQL problem.
-
-The main cutoff is DSA; try to solve at least 3.
-
-<sub>Topics: OA Format · Source: [chat, 6 Oct](../archive/natwest-oa/2026-10.jsonl#L155)</sub>
-
-## 2026-10-06 · IIT Delhi · FTE
-
-### Q1. Count pairs with difference K
-
-An array of integers and K (the difference of two numbers) are given. Find the number of pairs in the array such that the difference of the numbers = K.
-
-<sub>Topics: Arrays, Hashing · Source: [chat, 6 Oct](../archive/natwest-oa/2026-10.jsonl#L156)</sub>
-
-### Q2. Common area of two intersecting circles
-
-Two circles of different radius intersect each other. Write code to find the area of their intersection.
-
-Input: r1 and r2.
-
-The distance between centres is not mentioned in the post.
-
-<sub>Topics: Math · Source: [chat, 6 Oct](../archive/natwest-oa/2026-10.jsonl#L156)</sub>
-
-### Q3. Last occurrence map problem
-
-One question used a map data structure to store the last occurrence of a number and then applying a condition. The poster did not remember the full statement.
-
-<sub>Topics: Hashing · Source: [chat, 6 Oct](../archive/natwest-oa/2026-10.jsonl#L156)</sub>
-
-### Q4. Optimize distance between a point and a line on an infinite plane
-
-Poster vaguely remembered: there is an infinite plane and you have to optimize the distance between a point and a line. Full statement not remembered.
-
-<sub>Topics: Math · Source: [chat, 6 Oct](../archive/natwest-oa/2026-10.jsonl#L156)</sub>
-
-### Q5. SQL basics and logical reasoning
-
-The OA also had SQL basics and logical reasoning questions (no details given).
-
-<sub>Topics: SQL, Aptitude · Source: [chat, 6 Oct](../archive/natwest-oa/2026-10.jsonl#L156)</sub>

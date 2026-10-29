@@ -1,28 +1,57 @@
 # Unknown
 
-**7 questions** · 4 drives · latest 27 Oct 2026 · [← all companies](../README.md#companies)
+**13 questions** · 9 drives · latest 29 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Strings](../topics/strings.md) 1 · [Math](../topics/math.md) 1 · [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · +3 more  
-**Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Math](../topics/math.md) 2 · [Arrays](../topics/arrays.md) 2 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1 · +7 more  
+**Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee, NIT Trichy
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-29 · Unknown · FTE · SDE](#2026-10-29--unknown--fte--sde)
+  - [Paytm SDE OA format](#q1-paytm-sde-oa-format)
+- [2026-10-28 · IIT Roorkee · FTE](#2026-10-28--iit-roorkee--fte)
+  - [Data preprocessing and ML model with F1 score](#q1-data-preprocessing-and-ml-model-with-f1-score)
 - [2026-10-27 · IIT Hyderabad · FTE](#2026-10-27--iit-hyderabad--fte)
   - [IDFC First Bank OA pattern](#q1-idfc-first-bank-oa-pattern)
 - [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte)
   - [MCQ round format](#q1-mcq-round-format)
+- [2026-10-25 · NIT Trichy · FTE](#2026-10-25--nit-trichy--fte)
+  - [PharmaAce OA format](#q1-pharmaace-oa-format)
 - [2026-10-25 · IIT Delhi · FTE](#2026-10-25--iit-delhi--fte)
   - [ASCII digit-sum of string characters](#q1-ascii-digit-sum-of-string-characters)
   - [Binary tree alternating subtree sums](#q2-binary-tree-alternating-subtree-sums)
   - [Grid travel with work and 8-hour days (Olly)](#q3-grid-travel-with-work-and-8-hour-days-olly)
+- [2026-10-23 · IIT Kanpur · FTE](#2026-10-23--iit-kanpur--fte)
+  - [Sum of factors for each array element](#q1-sum-of-factors-for-each-array-element)
+  - [Event booking promo code validation](#q2-event-booking-promo-code-validation)
 - [2026-10-18 · IIT Bombay · FTE](#2026-10-18--iit-bombay--fte)
   - [Sony Japan OA format](#q1-sony-japan-oa-format)
   - [Unique elements up to the kth element](#q2-unique-elements-up-to-the-kth-element)
+- [2026-10-14 · NIT Trichy · FTE](#2026-10-14--nit-trichy--fte)
+  - [IQVIA OA format](#q1-iqvia-oa-format)
 
 </details>
 
 ---
+
+## 2026-10-29 · Unknown · FTE · SDE
+
+### Q1. Paytm SDE OA format
+
+3 coding questions (Easy–Medium) on arrays, strings, graphs, DP and greedy, sometimes with SQL/CS MCQs.
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L399)</sub>
+
+## 2026-10-28 · IIT Roorkee · FTE
+
+### Q1. Data preprocessing and ML model with F1 score
+
+Asked to perform data preprocessing, build at least one model which predicts the output, and report its F1 score.
+
+The exact dataset and problem statement are missing.
+
+<sub>Topics: ML/AI, Python & Pandas · Source: [chat, 28 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L264)</sub>
 
 ## 2026-10-27 · IIT Hyderabad · FTE
 
@@ -30,7 +59,7 @@
 
 The IDFC First Bank OA had pseudocode questions and code output questions. (No further details given.)
 
-<sub>Topics: OA Format, Code Output (C/C++/Java/Python) · Source: [chat, 27 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L38)</sub>
+<sub>Topics: OA Format, Code Output (C/C++/Java/Python) · Source: [chat, 27 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L38) · Also asked at: IIT Guwahati (2026-10-29)</sub>
 
 ## 2026-10-27 · IIT BHU · FTE
 
@@ -39,6 +68,14 @@ The IDFC First Bank OA had pseudocode questions and code output questions. (No f
 The process has 2 rounds. The MCQ round had 16 MCQs in 1 hour, on probability, physics and CS fundamentals. The company is not named in the message.
 
 <sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L21)</sub>
+
+## 2026-10-25 · NIT Trichy · FTE
+
+### Q1. PharmaAce OA format
+
+PharmaAce OA (company name taken from the replied-to message): mostly aptitude, in 4 sections, with easy questions.
+
+<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-nit-trichy-placements/2026-10.jsonl#L45), [chat, 25 Oct](../archive/campus-nit-trichy-placements/2026-10.jsonl#L46), [chat, 25 Oct](../archive/campus-nit-trichy-placements/2026-10.jsonl#L47)</sub>
 
 ## 2026-10-25 · IIT Delhi · FTE
 
@@ -82,6 +119,24 @@ The statement is truncated: the exact output and constraints were not given.
 
 <sub>Topics: Graphs, DP, Bit Manipulation · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L112), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L113), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L114), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L115), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L116)</sub>
 
+## 2026-10-23 · IIT Kanpur · FTE
+
+### Q1. Sum of factors for each array element
+
+Given an array `arr` of size n, return an array `ans` where `ans[i]` is the sum of all factors of `arr[i]`, including 1 and the number itself.
+
+Note: coding question was different for everyone.
+
+<sub>Topics: Arrays, Math · Source: [chat, 23 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L56), [chat, 23 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L61)</sub>
+
+### Q2. Event booking promo code validation
+
+An event booking system: write the logic for promo code validation. The existing system has a problem with this: it accepts expired codes, codes used multiple times, etc.
+
+The exact spec is not given. This was a GitHub repository based task (frameworks available: Django/Node.js/JavaScript).
+
+<sub>Topics: Web Dev, Software Engineering · Source: [chat, 23 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L56), [chat, 23 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L61)</sub>
+
 ## 2026-10-18 · IIT Bombay · FTE
 
 ### Q1. Sony Japan OA format
@@ -95,3 +150,11 @@ The Sony Japan OA had 1 DSA question and 30 MCQs. The DSA question was fairly ea
 Count the number of unique elements encountered till the kth element of an array. (The poster solved it in Python using a set. Exact constraints and examples were not given.)
 
 <sub>Topics: Arrays, Hashing · Source: [chat, 18 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L139), [chat, 18 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L140), [chat, 18 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L142), [chat, 19 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L144)</sub>
+
+## 2026-10-14 · NIT Trichy · FTE
+
+### Q1. IQVIA OA format
+
+IQVIA OA (company name taken from the replied-to message): one English comprehension section with lengthy paragraphs followed by MCQs based on the paragraph. Another section was aptitude (moderate, not easy).
+
+<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/campus-nit-trichy-placements/2026-10.jsonl#L15)</sub>

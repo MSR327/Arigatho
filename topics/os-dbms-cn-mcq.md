@@ -1,12 +1,12 @@
 # OS/DBMS/CN MCQ
 
-194 questions from 23 companys, newest first. [← all topics](../README.md#topics)
+114 questions from 21 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Cortex-A72 performance: data structure, matrix order, list cycle](../companies/texas-instruments.md#q3-cortex-a72-performance-data-structure-matrix-order-list-cycle) | |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Slowest and fastest implementation by memory section](../companies/texas-instruments.md#q1-slowest-and-fastest-implementation-by-memory-section) | |
-| 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern) | |
+| 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-1) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Role of a hypervisor](../companies/deloitte.md#q11-role-of-a-hypervisor) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Advantages of data virtualization](../companies/deloitte.md#q10-advantages-of-data-virtualization) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Network layer for sequencing, addressing and congestion control](../companies/deloitte.md#q7-network-layer-for-sequencing-addressing-and-congestion-control) | |
@@ -15,85 +15,17 @@
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Password change succeeds but verify fails for many accounts](../companies/deloitte.md#q27-password-change-succeeds-but-verify-fails-for-many-accounts) | |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Cloud computing category using virtualized resources](../companies/deloitte.md#q26-cloud-computing-category-using-virtualized-resources) | |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Mean hops in a complete binary tree of 15 routers](../companies/deloitte.md#q21-mean-hops-in-a-complete-binary-tree-of-15-routers) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Attack by specifying packet route to bypass packet-filter firewall](../companies/accenture.md#q40-attack-by-specifying-packet-route-to-bypass-packet-filter-firewall) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Most secure Wi-Fi encryption protocol](../companies/accenture.md#q39-most-secure-wi-fi-encryption-protocol) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Server response to connection request](../companies/accenture.md#q38-server-response-to-connection-request) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Most secure cloud deployment model for sensitive data](../companies/accenture.md#q37-most-secure-cloud-deployment-model-for-sensitive-data) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Protocol to secure data in transit](../companies/accenture.md#q36-protocol-to-secure-data-in-transit) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Converting data to secure format](../companies/accenture.md#q35-converting-data-to-secure-format) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [System calls to create process and run new executable](../companies/accenture.md#q34-system-calls-to-create-process-and-run-new-executable) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Ring topology workstation failure](../companies/accenture.md#q33-ring-topology-workstation-failure) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Security measure requiring two identification types](../companies/accenture.md#q32-security-measure-requiring-two-identification-types) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [OSI layer for routing between network segments](../companies/accenture.md#q31-osi-layer-for-routing-between-network-segments) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [OSI layer transmitting Ethernet, cable and Wi-Fi signals](../companies/accenture.md#q29-osi-layer-transmitting-ethernet-cable-and-wi-fi-signals) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Technology for multiple isolated environments on one server](../companies/accenture.md#q28-technology-for-multiple-isolated-environments-on-one-server) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [VPN topology for two offices](../companies/accenture.md#q25-vpn-topology-for-two-offices) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [HTTP status for Not Found](../companies/accenture.md#q23-http-status-for-not-found) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [OS property to prioritize after a security breach](../companies/accenture.md#q22-os-property-to-prioritize-after-a-security-breach) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Device controller with high-speed buffers](../companies/accenture.md#q21-device-controller-with-high-speed-buffers) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Kernel-level isolation among containers with peripherals](../companies/accenture.md#q20-kernel-level-isolation-among-containers-with-peripherals) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Protocol for cloud email transmission](../companies/accenture.md#q18-protocol-for-cloud-email-transmission) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Shared responsibility model](../companies/accenture.md#q16-shared-responsibility-model) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Cloud features for flash-sale traffic spikes](../companies/accenture.md#q15-cloud-features-for-flash-sale-traffic-spikes) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [OS property for running on varied hardware](../companies/accenture.md#q14-os-property-for-running-on-varied-hardware) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Resource pooling and storage elasticity](../companies/accenture.md#q13-resource-pooling-and-storage-elasticity) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [HTTP method to read restaurant list](../companies/accenture.md#q12-http-method-to-read-restaurant-list) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [WPA3 Android configuration: incorrect line](../companies/accenture.md#q11-wpa3-android-configuration-incorrect-line) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Defining characteristic of containers](../companies/accenture.md#q10-defining-characteristic-of-containers) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Chosen-plaintext attack on symmetric encryption](../companies/accenture.md#q9-chosen-plaintext-attack-on-symmetric-encryption) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [I/O bus with cached device controllers](../companies/accenture.md#q8-io-bus-with-cached-device-controllers) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Register saved during context switch](../companies/accenture.md#q7-register-saved-during-context-switch) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Routing manipulation attack](../companies/accenture.md#q6-routing-manipulation-attack) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [VPN type for work from home](../companies/accenture.md#q4-vpn-type-for-work-from-home) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Hybrid cloud secure connectivity](../companies/accenture.md#q3-hybrid-cloud-secure-connectivity) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Moving data from accumulator to memory](../companies/accenture.md#q2-moving-data-from-accumulator-to-memory) | |
-| 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Scalable cloud storage](../companies/accenture.md#q1-scalable-cloud-storage) | |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Round 2: experience and OS for autonomous vehicles](../companies/nvidia.md#q4-round-2-experience-and-os-for-autonomous-vehicles) | |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Round 2 questions](../companies/nvidia.md#q1-round-2-questions) | |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [OS for Autonomous Vehicles](../companies/nvidia.md#q1-os-for-autonomous-vehicles) | |
-| 2026-10-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [IT governance in cloud migration](../companies/accenture.md#q6-it-governance-in-cloud-migration) | |
-| 2026-10-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Protocol to encrypt data in transit](../companies/accenture.md#q5-protocol-to-encrypt-data-in-transit) | |
-| 2026-10-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [System calls to create process and run executable](../companies/accenture.md#q4-system-calls-to-create-process-and-run-executable) | |
-| 2026-10-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Scalable cloud storage](../companies/accenture.md#q1-scalable-cloud-storage-1) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Attack specifying packet route to bypass firewall](../companies/accenture.md#q42-attack-specifying-packet-route-to-bypass-firewall) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Most secure Wi-Fi encryption protocol](../companies/accenture.md#q41-most-secure-wi-fi-encryption-protocol) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Server response to SYN](../companies/accenture.md#q40-server-response-to-syn) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Most secure cloud deployment model](../companies/accenture.md#q39-most-secure-cloud-deployment-model) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Protocol to encrypt data in transit](../companies/accenture.md#q38-protocol-to-encrypt-data-in-transit) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Converting data to secure format](../companies/accenture.md#q37-converting-data-to-secure-format) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Ring topology workstation failure](../companies/accenture.md#q36-ring-topology-workstation-failure) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Security measure requiring two identifiers](../companies/accenture.md#q35-security-measure-requiring-two-identifiers) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [System calls to create process and run executable](../companies/accenture.md#q34-system-calls-to-create-process-and-run-executable) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [OSI layer for routing between segments](../companies/accenture.md#q33-osi-layer-for-routing-between-segments) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [OSI layer for transmitting signals](../companies/accenture.md#q31-osi-layer-for-transmitting-signals) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Technology for isolated environments on one server](../companies/accenture.md#q30-technology-for-isolated-environments-on-one-server) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [VPN topology for connecting two offices](../companies/accenture.md#q27-vpn-topology-for-connecting-two-offices) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Register held during context switch (MCQ)](../companies/accenture.md#q26-register-held-during-context-switch-mcq) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [OS property to prioritise after a breach](../companies/accenture.md#q24-os-property-to-prioritise-after-a-breach) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Attack redirecting traffic via routing information](../companies/accenture.md#q22-attack-redirecting-traffic-via-routing-information) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Device controller with high-speed buffers](../companies/accenture.md#q21-device-controller-with-high-speed-buffers-1) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Container isolation of hardware peripherals](../companies/accenture.md#q20-container-isolation-of-hardware-peripherals) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Protocol for cloud email transmission](../companies/accenture.md#q18-protocol-for-cloud-email-transmission-1) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Shared responsibility model](../companies/accenture.md#q16-shared-responsibility-model-1) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Cloud features for flash-sale traffic spikes](../companies/accenture.md#q15-cloud-features-for-flash-sale-traffic-spikes-1) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [OS property for cross-system compatibility](../companies/accenture.md#q14-os-property-for-cross-system-compatibility) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Resource pooling and storage elasticity](../companies/accenture.md#q13-resource-pooling-and-storage-elasticity-1) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Redundant Android WPA3 config line](../companies/accenture.md#q11-redundant-android-wpa3-config-line) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Defining characteristic of containers](../companies/accenture.md#q10-defining-characteristic-of-containers-1) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Attack on shared-key symmetric encryption](../companies/accenture.md#q9-attack-on-shared-key-symmetric-encryption) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Bus design with cached device controller](../companies/accenture.md#q8-bus-design-with-cached-device-controller) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Register saved during context switch](../companies/accenture.md#q7-register-saved-during-context-switch-1) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Routing manipulation attack](../companies/accenture.md#q6-routing-manipulation-attack-1) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [VPN type for work from home](../companies/accenture.md#q4-vpn-type-for-work-from-home-1) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Hybrid cloud connectivity solution](../companies/accenture.md#q3-hybrid-cloud-connectivity-solution) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Accumulator to memory transfer](../companies/accenture.md#q2-accumulator-to-memory-transfer) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Scalable cloud storage](../companies/accenture.md#q1-scalable-cloud-storage-2) | |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Register held during context switch (MCQ)](../companies/accenture.md#q2-register-held-during-context-switch-mcq) | |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Attack redirecting traffic via routing information](../companies/accenture.md#q1-attack-redirecting-traffic-via-routing-information) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Packet routing / firewall bypass attack](../companies/accenture.md#q39-packet-routing--firewall-bypass-attack) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Most secure Wi-Fi encryption protocol](../companies/accenture.md#q38-most-secure-wi-fi-encryption-protocol) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Server response to SYN](../companies/accenture.md#q37-server-response-to-syn) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Protocol to secure data in transit](../companies/accenture.md#q35-protocol-to-secure-data-in-transit) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Converting data into secure format](../companies/accenture.md#q34-converting-data-into-secure-format) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Ring topology workstation failure](../companies/accenture.md#q33-ring-topology-workstation-failure-1) | |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Ring topology workstation failure](../companies/accenture.md#q33-ring-topology-workstation-failure) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Two-factor identification security measure](../companies/accenture.md#q32-two-factor-identification-security-measure) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [System calls to create process and run executable](../companies/accenture.md#q31-system-calls-to-create-process-and-run-executable) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [OSI layer for routing packets](../companies/accenture.md#q30-osi-layer-for-routing-packets) | |
@@ -108,12 +40,12 @@
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [WPA3 configuration on Android](../companies/accenture.md#q11-wpa3-configuration-on-android) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Attack on symmetric encryption key](../companies/accenture.md#q9-attack-on-symmetric-encryption-key) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [I/O bus device controller with built-in cache](../companies/accenture.md#q8-io-bus-device-controller-with-built-in-cache) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Register saved during context switch](../companies/accenture.md#q7-register-saved-during-context-switch-2) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Routing manipulation attack](../companies/accenture.md#q6-routing-manipulation-attack-2) | |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Register saved during context switch](../companies/accenture.md#q7-register-saved-during-context-switch) | |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Routing manipulation attack](../companies/accenture.md#q6-routing-manipulation-attack) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [VPN for remote access](../companies/accenture.md#q4-vpn-for-remote-access) | |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Hybrid cloud connectivity](../companies/accenture.md#q3-hybrid-cloud-connectivity) | |
-| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Accumulator to memory transfer](../companies/accenture.md#q2-accumulator-to-memory-transfer-1) | |
-| 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [OA structure: 3 DSA and 13 MCQs](../companies/eternal-zomato.md#q6-oa-structure-3-dsa-and-13-mcqs) | |
+| 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Accumulator to memory transfer](../companies/accenture.md#q2-accumulator-to-memory-transfer) | |
+| 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [OA structure: 3 DSA and 13 MCQs](../companies/eternal-zomato.md#q5-oa-structure-3-dsa-and-13-mcqs) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Attack that specifies packet route to bypass firewall](../companies/accenture.md#q28-attack-that-specifies-packet-route-to-bypass-firewall) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Most secure Wi-Fi encryption protocol](../companies/accenture.md#q27-most-secure-wi-fi-encryption-protocol) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Server response to a TCP SYN packet](../companies/accenture.md#q26-server-response-to-a-tcp-syn-packet) | |
@@ -124,35 +56,25 @@
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Protocol for secure cloud email transmission](../companies/accenture.md#q18-protocol-for-secure-cloud-email-transmission) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [OS property for cross-platform application compatibility](../companies/accenture.md#q14-os-property-for-cross-platform-application-compatibility) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Redundant line in Android WPA3 configuration](../companies/accenture.md#q11-redundant-line-in-android-wpa3-configuration) | |
-| 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Defining characteristic of containers](../companies/accenture.md#q10-defining-characteristic-of-containers-2) | |
+| 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Defining characteristic of containers](../companies/accenture.md#q10-defining-characteristic-of-containers) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Attack technique to compromise a symmetric key](../companies/accenture.md#q9-attack-technique-to-compromise-a-symmetric-key) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [I/O device controller with built-in cache](../companies/accenture.md#q8-io-device-controller-with-built-in-cache) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Register saved during context switch (no options)](../companies/accenture.md#q7-register-saved-during-context-switch-no-options) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Attack that inserts malicious routing info to redirect traffic](../companies/accenture.md#q6-attack-that-inserts-malicious-routing-info-to-redirect-traffic) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [VPN type for employee working from home](../companies/accenture.md#q4-vpn-type-for-employee-working-from-home) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Connecting on-premise and public cloud in hybrid model](../companies/accenture.md#q3-connecting-on-premise-and-public-cloud-in-hybrid-model) | |
-| 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Moving data from accumulator to memory](../companies/accenture.md#q2-moving-data-from-accumulator-to-memory-1) | |
+| 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Moving data from accumulator to memory](../companies/accenture.md#q2-moving-data-from-accumulator-to-memory) | |
 | 2026-10-16 | [ICICI](../companies/icici.md) | NIT Silchar | [ICICI Tech OA topics](../companies/icici.md#q1-icici-tech-oa-topics) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Subnetting Same Subnet Host (MCQ)](../companies/harness.md#q6-subnetting-same-subnet-host-mcq) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Race Condition Final Values (MCQ)](../companies/harness.md#q2-race-condition-final-values-mcq) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Deadlock Detection (MCQ)](../companies/harness.md#q1-deadlock-detection-mcq) | |
-| 2026-10-15 | [Harness](../companies/harness.md) | IIT Delhi | [OA pattern and MCQs (10 MCQs + 2 coding)](../companies/harness.md#q2-oa-pattern-and-mcqs-10-mcqs--2-coding) | |
+| 2026-10-15 | [Harness](../companies/harness.md) | IIT Delhi | [OA pattern and MCQs (10 MCQs + 2 coding)](../companies/harness.md#q1-oa-pattern-and-mcqs-10-mcqs--2-coding) | |
 | 2026-10-15 | [Cashfree](../companies/cashfree.md) | Unknown | [OA pattern: CS fundamentals MCQs + one Python and one Java question](../companies/cashfree.md#q1-oa-pattern-cs-fundamentals-mcqs--one-python-and-one-java-question) | |
-| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Guwahati | [IT quiz MCQs: AI regulation, subnet masking, code output](../companies/accenture.md#q5-it-quiz-mcqs-ai-regulation-subnet-masking-code-output) | |
-| 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | [MCQs on CN, DBMS, OS and Linux](../companies/media-net.md#q4-mcqs-on-cn-dbms-os-and-linux) | |
+| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Guwahati | [IT quiz MCQs: AI regulation, subnet masking, code output](../companies/accenture.md#q4-it-quiz-mcqs-ai-regulation-subnet-masking-code-output) | |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [SQL MCQ: indexing strategy for energy records](../companies/rystad-energy.md#q10-sql-mcq-indexing-strategy-for-energy-records) | |
-| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [In-memory vs traditional databases (incorrect description)](../companies/accenture.md#q11-in-memory-vs-traditional-databases-incorrect-description) | |
-| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [Not a characteristic of a reliable transaction system](../companies/accenture.md#q9-not-a-characteristic-of-a-reliable-transaction-system) | |
-| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [Database rollforward processing](../companies/accenture.md#q6-database-rollforward-processing) | |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Hive ORDER BY vs SORT BY](../companies/accenture.md#q4-hive-order-by-vs-sort-by) | |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Purpose of Apache Hive](../companies/accenture.md#q3-purpose-of-apache-hive) | |
-| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [OA format: 15 MCQs](../companies/eternal-zomato.md#q1-oa-format-15-mcqs) | |
 | 2026-10-13 | [ICICI](../companies/icici.md) | MNIT Jaipur | [ICICI DP OA overall pattern](../companies/icici.md#q1-icici-dp-oa-overall-pattern) | |
-| 2026-10-13 | [Media.net](../companies/media-net.md) | Unknown | [Media.net SRE hiring process description](../companies/media-net.md#q1-medianet-sre-hiring-process-description) | |
-| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [I/O controller OS function](../companies/qualcomm.md#q8-io-controller-os-function) | |
-| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Smallest-hole allocation technique](../companies/qualcomm.md#q7-smallest-hole-allocation-technique) | |
-| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Priority scheduling statements](../companies/qualcomm.md#q6-priority-scheduling-statements) | |
-| 2026-10-12 | [NatWest](../companies/natwest.md) | IIT Guwahati | [CS fundamentals MCQs and paper overview](../companies/natwest.md#q14-cs-fundamentals-mcqs-and-paper-overview) | |
 | 2026-10-11 | [NatWest](../companies/natwest.md) | Delhi Technological University | [CS Fundamentals + SQL Sections](../companies/natwest.md#q2-cs-fundamentals--sql-sections) | |
 | 2026-10-09 | [Warner Music Group](../companies/warner-music-group.md) | IIT Dhanbad | [Core Fundamentals MCQ section](../companies/warner-music-group.md#q1-core-fundamentals-mcq-section) | |
 | 2026-10-09 | [ION](../companies/ion.md) | VNIT Nagpur | [OS and Computer Networks basics](../companies/ion.md#q4-os-and-computer-networks-basics) | |
@@ -162,22 +84,20 @@
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Highest normal form of R(A,B,C,D)](../companies/squarepoint.md#q5-highest-normal-form-of-rabcd) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Containers vs VMs](../companies/squarepoint.md#q3-containers-vs-vms) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [TLB properties](../companies/squarepoint.md#q1-tlb-properties) | |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Subnet membership for address with /27](../companies/eternal-zomato.md#q11-subnet-membership-for-address-with-27) | |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Linux for-loop code and output questions](../companies/eternal-zomato.md#q10-linux-for-loop-code-and-output-questions) | |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [GROUP BY multiple-correct question](../companies/eternal-zomato.md#q9-group-by-multiple-correct-question) | |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Error returned when requested data is not in database](../companies/eternal-zomato.md#q8-error-returned-when-requested-data-is-not-in-database) | |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Correct SQL clause order](../companies/eternal-zomato.md#q7-correct-sql-clause-order) | |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [HTTP method for partial update](../companies/eternal-zomato.md#q6-http-method-for-partial-update) | |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Subnet membership for address with /27](../companies/eternal-zomato.md#q10-subnet-membership-for-address-with-27) | |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Linux for-loop code and output questions](../companies/eternal-zomato.md#q9-linux-for-loop-code-and-output-questions) | |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [GROUP BY multiple-correct question](../companies/eternal-zomato.md#q8-group-by-multiple-correct-question) | |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Error returned when requested data is not in database](../companies/eternal-zomato.md#q7-error-returned-when-requested-data-is-not-in-database) | |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Correct SQL clause order](../companies/eternal-zomato.md#q6-correct-sql-clause-order) | |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [HTTP method for partial update](../companies/eternal-zomato.md#q5-http-method-for-partial-update) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Protocol used in VoIP](../companies/eternal-zomato.md#q2-protocol-used-in-voip) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [OA pattern: 15 MCQs on OS, DBMS, SQL, CN, Docker](../companies/eternal-zomato.md#q1-oa-pattern-15-mcqs-on-os-dbms-sql-cn-docker) | |
 | 2026-09-26 | [Squarepoint](../companies/squarepoint.md) | IIT Kanpur | [OA format: Infra role](../companies/squarepoint.md#q1-oa-format-infra-role) | |
 | 2026-09-21 | [Zscaler](../companies/zscaler.md) | Unknown | [Associate Software Engineer interview topics](../companies/zscaler.md#q2-associate-software-engineer-interview-topics) | |
 | 2026-09-21 | [Zscaler](../companies/zscaler.md) | Unknown | [Associate Software Engineer OA format](../companies/zscaler.md#q1-associate-software-engineer-oa-format) | |
-| 2026-09-21 | [Zscaler](../companies/zscaler.md) | Unknown | [C developer intern interview topics](../companies/zscaler.md#q4-c-developer-intern-interview-topics) | |
 | 2026-09-21 | [Reliance](../companies/reliance.md) | Unknown | [Distributed caches, SQL vs NoSQL, CAP and indexing](../companies/reliance.md#q4-distributed-caches-sql-vs-nosql-cap-and-indexing) | |
 | 2026-09-21 | [Cisco](../companies/cisco.md) | Unknown | [Network SWE intern technical round: DSA, OOP, OS and projects](../companies/cisco.md#q2-network-swe-intern-technical-round-dsa-oop-os-and-projects) | |
 | 2026-09-21 | [Blinkit](../companies/blinkit.md) | Unknown | [OOP, OS, DBMS, SQL and backend questions](../companies/blinkit.md#q3-oop-os-dbms-sql-and-backend-questions) | |
-| 2026-09-21 | [Adobe](../companies/adobe.md) | Unknown | [DBMS normalization and sharding](../companies/adobe.md#q4-dbms-normalization-and-sharding) | |
 | 2026-09-21 | [Adobe](../companies/adobe.md) | Unknown | [Process crashes](../companies/adobe.md#q2-process-crashes) | |
 | 2026-09-21 | [Adobe](../companies/adobe.md) | Unknown | [Producer/consumer concurrency](../companies/adobe.md#q1-producerconsumer-concurrency) | |
 | 2026-09-21 | [Chargebee](../companies/chargebee.md) | Unknown | [Table keys and second-highest salary (SQL)](../companies/chargebee.md#q5-table-keys-and-second-highest-salary-sql) | [176](https://leetcode.com/problems/second-highest-salary/) Medium |

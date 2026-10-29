@@ -1,13 +1,18 @@
 # American Express
 
-**47 questions** · 26 drives · latest 28 Oct 2026 · [15 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**54 questions** · 32 drives · latest 29 Oct 2026 · [15 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 24 · [ML/AI](../topics/ml-ai.md) 7 · [Hashing](../topics/hashing.md) 6 · [Strings](../topics/strings.md) 5 · [Sliding Window](../topics/sliding-window.md) 5 · [Trees](../topics/trees.md) 5 · [Graphs](../topics/graphs.md) 5 · [Aptitude](../topics/aptitude.md) 3 · +9 more  
-**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Mandi, IIT Roorkee, MNNIT Allahabad
+**Asks about:** [OA Format](../topics/oa-format.md) 31 · [ML/AI](../topics/ml-ai.md) 8 · [Hashing](../topics/hashing.md) 6 · [Strings](../topics/strings.md) 5 · [Sliding Window](../topics/sliding-window.md) 5 · [Trees](../topics/trees.md) 5 · [Graphs](../topics/graphs.md) 5 · [Aptitude](../topics/aptitude.md) 3 · +9 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Mandi, IIT Roorkee +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-29 · MNNIT Allahabad · FTE · Analyst / AI Engineer](#2026-10-29--mnnit-allahabad--fte--analyst--ai-engineer)
+  - [Amex analyst and AI engineer OA format](#q1-amex-analyst-and-ai-engineer-oa-format)
+- [2026-10-29 · IIT Roorkee · FTE · AI Engineering](#2026-10-29--iit-roorkee--fte--ai-engineering)
+  - [Amex AI Engineering OA format](#q1-amex-ai-engineering-oa-format)
+  - [Amex AI Engineering OA tasks](#q2-amex-ai-engineering-oa-tasks)
 - [2026-10-28 · IIT Roorkee · FTE · Data Science & Analytics](#2026-10-28--iit-roorkee--fte--data-science--analytics)
   - [Amex DS & Analytics OA format](#q1-amex-ds--analytics-oa-format)
 - [2026-10-28 · IIT Guwahati · FTE · AI Engineering](#2026-10-28--iit-guwahati--fte--ai-engineering)
@@ -15,7 +20,7 @@
   - [Amex AI Engineering OA contents](#q2-amex-ai-engineering-oa-contents)
   - [Amex AI Engineering OA format](#q3-amex-ai-engineering-oa-format)
 - [2026-10-28 · IIT BHU · FTE · AI Engineer](#2026-10-28--iit-bhu--fte--ai-engineer)
-  - [Amex AI Engineering OA format](#q1-amex-ai-engineering-oa-format)
+  - [Amex AI Engineering OA format](#q1-amex-ai-engineering-oa-format-1)
 - [2026-10-27 · IIT Roorkee · FTE](#2026-10-27--iit-roorkee--fte)
   - [SQL query using date functions (Data Engineer)](#q1-sql-query-using-date-functions-data-engineer)
   - [PySpark + Python data processing question (Data Engineer)](#q2-pyspark--python-data-processing-question-data-engineer)
@@ -35,6 +40,8 @@
   - [Amex DS & Analytics OA format](#q1-amex-ds--analytics-oa-format-2)
 - [2026-10-26 · Unknown · FTE](#2026-10-26--unknown--fte)
   - [Amex OA format](#q1-amex-oa-format)
+- [2026-10-26 · IIT Roorkee · FTE · Data Science / Data Engineer](#2026-10-26--iit-roorkee--fte--data-science--data-engineer)
+  - [Amex OA: PySpark and DSA](#q1-amex-oa-pyspark-and-dsa)
 - [2026-10-26 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-26--iit-guwahati--fte--data-science-and-analytics)
   - [Amex data science OA pattern](#q1-amex-data-science-oa-pattern)
 - [2026-10-26 · IIT Guwahati · FTE · Management Trainee](#2026-10-26--iit-guwahati--fte--management-trainee)
@@ -72,11 +79,17 @@
   - [Amex OA pattern (AI, DS, data engineer roles)](#q1-amex-oa-pattern-ai-ds-data-engineer-roles)
 - [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte)
   - [Largest Natural Number](#q1-largest-natural-number)
+- [2026-10-20 · MNNIT Allahabad · FTE · Data Science](#2026-10-20--mnnit-allahabad--fte--data-science)
+  - [Amex data science OA pattern (MCQ, coding, SQL)](#q1-amex-data-science-oa-pattern-mcq-coding-sql)
 - [2026-10-18 · MNNIT Allahabad · FTE](#2026-10-18--mnnit-allahabad--fte)
   - [OA pattern (Data Analytics role): MCQs + SQL, no coding](#q1-oa-pattern-data-analytics-role-mcqs--sql-no-coding)
   - [OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude](#q2-oa-pattern-data-engineer-role-sql--mcqs-on-mlgenaicore-csaptitude)
 - [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte)
   - [Amex OA pattern](#q1-amex-oa-pattern)
+- [2026-10-18 · IIT Guwahati · FTE · Data Science](#2026-10-18--iit-guwahati--fte--data-science)
+  - [Amex data science OA pattern](#q1-amex-data-science-oa-pattern-2)
+- [2026-10-16 · IIT Delhi · FTE · Data Analytics](#2026-10-16--iit-delhi--fte--data-analytics)
+  - [Amex data analytics OA format (iMocha)](#q1-amex-data-analytics-oa-format-imocha)
 - [2026-10-15 · IIT Mandi · FTE](#2026-10-15--iit-mandi--fte)
   - [Number of Steps to Reduce a Binary Number to One](#q1-number-of-steps-to-reduce-a-binary-number-to-one)
   - [Fruit Into Baskets](#q2-fruit-into-baskets-4)
@@ -85,6 +98,30 @@
 </details>
 
 ---
+
+## 2026-10-29 · MNNIT Allahabad · FTE · Analyst / AI Engineer
+
+### Q1. Amex analyst and AI engineer OA format
+
+3 coding questions (Easy–Medium) on DSA, plus possible ML/AI or statistics questions depending on the role. Suggested prep: arrays, strings, sliding window, probability, ML fundamentals, and LLM/RAG basics.
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L401)</sub>
+
+## 2026-10-29 · IIT Roorkee · FTE · AI Engineering
+
+### Q1. Amex AI Engineering OA format
+
+1 SQL question and 2 DSA questions. Only Python was allowed as the language. Duration: 60 minutes.
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L268)</sub>
+
+### Q2. Amex AI Engineering OA tasks
+
+Tasks asked: code a CNN from scratch, build an ETL pipeline from scratch, and build an LLM using a chatbot.
+
+Exact statements were not given.
+
+<sub>Topics: ML/AI, OA Format · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L463)</sub>
 
 ## 2026-10-28 · IIT Roorkee · FTE · Data Science & Analytics
 
@@ -112,7 +149,7 @@ Topics asked: LangGraph, KNN, Clojure. (No further detail given.)
 
 3 questions: LangGraph, CNN and closure (Clojure). AI assistance was given only for the 1st question, and only provided syntax.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 28 Oct](../archive/inter-iit/2026-10.jsonl#L1160)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 28 Oct](../archive/inter-iit/2026-10.jsonl#L1160) · Also asked at: IIT Guwahati (2026-10-23)</sub>
 
 ### Q3. Amex AI Engineering OA format
 
@@ -132,7 +169,7 @@ The exact problem statements were not shared.
 
 One problem was titled "Problem 1: Average Recycle"; its statement was not shared.
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/inter-nit/2026-10.jsonl#L2756)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/inter-nit/2026-10.jsonl#L2756) · Also asked at: IIT Roorkee ×3 (last 2026-10-26)</sub>
 
 ## 2026-10-27 · IIT Roorkee · FTE
 
@@ -140,7 +177,7 @@ One problem was titled "Problem 1: Average Recycle"; its statement was not share
 
 American Express Data Engineer track: 3 questions in 90 minutes (1 SQL, 1 PySpark, 1 Python). The SQL question needed knowledge of SQL date functions to solve.
 
-<sub>Topics: SQL · Source: [chat, 27 Oct](../archive/inter-nit/2026-10.jsonl#L2634), [chat, 27 Oct](../archive/inter-nit/2026-10.jsonl#L2645)</sub>
+<sub>Topics: SQL · Source: [chat, 27 Oct](../archive/inter-nit/2026-10.jsonl#L2634), [chat, 27 Oct](../archive/inter-nit/2026-10.jsonl#L2645) · Also asked at: IIT Roorkee (2026-10-27)</sub>
 
 ### Q2. PySpark + Python data processing question (Data Engineer)
 
@@ -166,7 +203,7 @@ American Express Data Science role OA (as reported from IIT Roorkee): 45 MCQs in
 
 All MCQs: easy SQL, Python, aptitude and prompt engineering.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L17), [chat, 27 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L18)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L17), [chat, 27 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L18) · Also asked at: IIT Roorkee (2026-10-28)</sub>
 
 ## 2026-10-27 · IIT Hyderabad · FTE · Data Science & Analytics
 
@@ -180,7 +217,7 @@ All MCQs: easy SQL, Python, aptitude and prompt engineering.
 
 The poster noted many questions in sections 1 and 2 were wrong, with options not matching.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/american-express-oa/2026-10.jsonl#L3), [chat, 27 Oct](../archive/american-express-oa/2026-10.jsonl#L4)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/american-express-oa/2026-10.jsonl#L3), [chat, 27 Oct](../archive/american-express-oa/2026-10.jsonl#L4) · Also asked at: IIT Delhi (2026-10-29), IIT Guwahati ×3 (last 2026-10-29)</sub>
 
 ## 2026-10-27 · IIT Guwahati · FTE
 
@@ -208,7 +245,7 @@ Section 3: Technical, 12 questions in 15 minutes (+1/-0.25). Mostly prompt-engin
 
 45 MCQs in 60 minutes covering statistics, probability, aptitude, some SQL and prompt engineering.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-bhubaneswar-placements/2026-10.jsonl#L23)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-bhubaneswar-placements/2026-10.jsonl#L23) · Also asked at: IIT Guwahati (2026-10-26)</sub>
 
 ## 2026-10-27 · IIT Guwahati · FTE · Data Science & Analytics
 
@@ -233,7 +270,17 @@ OA sections:
 - 17 aptitude questions (easy)
 - 16 data interpretation questions
 
-<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L4)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L4) · Also asked at: IIT Roorkee ×3 (last 2026-10-26)</sub>
+
+## 2026-10-26 · IIT Roorkee · FTE · Data Science / Data Engineer
+
+### Q1. Amex OA: PySpark and DSA
+
+The OA had 1 PySpark question and 2 DSA questions.
+
+Exact problem statements were not given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L92)</sub>
 
 ## 2026-10-26 · IIT Guwahati · FTE · Data Science and Analytics
 
@@ -275,7 +322,7 @@ Coding task (not DSA): implement an ETL pipeline using the Clojure programming l
 
 American Express OA for the Data Science / Data Engineer role had 3 coding tasks: (1) building an LLM pipeline, (2) building a CNN classification model, (3) building an ETL pipeline in Clojure.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 25 Oct](../archive/inter-iit/2026-10.jsonl#L990)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 25 Oct](../archive/inter-iit/2026-10.jsonl#L990) · Also asked at: IIT Guwahati ×2 (last 2026-10-25)</sub>
 
 ## 2026-10-25 · IIT Guwahati · FTE · Data Science and Analytics
 
@@ -420,7 +467,7 @@ LeetCode 2477: Minimum Fuel Cost to Report to the Capital.
 
 45 MCQs, no DSA coding. Described as a formality; shortlisting will be based on CPI.
 
-<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L174)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L174) · Also asked at: IIT Guwahati (2026-10-29)</sub>
 
 ## 2026-10-23 · IIT Guwahati · FTE · Data Engineer / Data Science / AI
 
@@ -437,6 +484,14 @@ No DSA questions. Questions were unusual; about 3 such questions and hardly anyo
 American Express Data Engineering role OA (IIT Roorkee). The poster said the OA had 3 LeetCode-hard coding problems and shared a link to one of them, 'Largest Natural Number': https://www.codinzhub.com/question/largest-natural-number-amex-data-engineering-role-online-assessmnet-iit-roorkee. The full problem statement, constraints and examples are not in the chat. They are only on the linked page, which could not be fetched.
 
 <sub>Topics: Other · Source: [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L744), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L745)</sub>
+
+## 2026-10-20 · MNNIT Allahabad · FTE · Data Science
+
+### Q1. Amex data science OA pattern (MCQ, coding, SQL)
+
+MCQ based, maybe some AI-assisted coding (poster not sure about this part), and an SQL query.
+
+<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L175)</sub>
 
 ## 2026-10-18 · MNNIT Allahabad · FTE
 
@@ -460,22 +515,40 @@ Amex OA contained: ability (aptitude) questions, Python DSA questions, SQL and s
 
 <sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L269)</sub>
 
+## 2026-10-18 · IIT Guwahati · FTE · Data Science
+
+### Q1. Amex data science OA pattern
+
+Sections: reasoning, aptitude, ML and DL MCQs, and 1 DSA question. Only Python was allowed.
+
+Number of questions per section and the DSA question itself were not given.
+
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L244)</sub>
+
+## 2026-10-16 · IIT Delhi · FTE · Data Analytics
+
+### Q1. Amex data analytics OA format (iMocha)
+
+Amex OA for data analytics, held on the iMocha platform. Three sections: Logical Reasoning (LR), Basic Probability, and Technical Thinking (SQL and Prompt Engineering). The poster said many MCQs had wrong questions or options (e.g. 'Mussel' used for Muscle Car, 'Microhard' as a company name example). Actual questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L208)</sub>
+
 ## 2026-10-15 · IIT Mandi · FTE
 
 ### Q1. Number of Steps to Reduce a Binary Number to One
 
 LeetCode 1404. Given the binary representation of an integer as a string s, return the number of steps to reduce it to 1: if the current number is even, divide it by 2; if it is odd, add 1.
 
-<sub>Topics: Strings, Bit Manipulation · Similar: [LeetCode 1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) (Medium) · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L82) · Also asked at: IIT Mandi ×3 (last 2026-10-23), IIT Hyderabad (2026-10-23), IIT BHU (2026-10-24)</sub>
+<sub>Topics: Strings, Bit Manipulation · Similar: [LeetCode 1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) (Medium) · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L82) · Also asked at: IIT Mandi ×5 (last 2026-10-23), IIT Hyderabad (2026-10-23), Unknown (2026-10-23), IIT Kanpur (2026-10-23), IIT BHU (2026-10-24)</sub>
 
 ### Q2. Fruit Into Baskets
 
 LeetCode 904. Given an array fruits where fruits[i] is the type of fruit on the i-th tree, and two baskets that can each hold only one type of fruit, start at any tree and pick exactly one fruit from every tree moving right until you hit a fruit that fits in neither basket. Return the maximum number of fruits you can pick (longest subarray with at most 2 distinct values).
 
-<sub>Topics: Sliding Window, Hashing, Arrays · Similar: [LeetCode 904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (Medium) · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L82) · Also asked at: IIT Mandi ×3 (last 2026-10-23), IIT Hyderabad (2026-10-23), IIT BHU (2026-10-24)</sub>
+<sub>Topics: Sliding Window, Hashing, Arrays · Similar: [LeetCode 904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (Medium) · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L82) · Also asked at: IIT Mandi ×5 (last 2026-10-23), IIT Hyderabad (2026-10-23), Unknown (2026-10-23), IIT Kanpur (2026-10-23), IIT BHU (2026-10-24)</sub>
 
 ### Q3. Minimum Fuel Cost to Report to the Capital
 
 LeetCode 2477. A tree of n cities (0 to n-1) with city 0 as the capital, given by roads. Each city has one representative and a car with the given number of seats. Representatives travel to the capital, may switch cars, and each road traversed by a car costs one litre of fuel. Return the minimum litres of fuel needed for all representatives to reach the capital.
 
-<sub>Topics: Trees, Graphs · Similar: [LeetCode 2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) (Medium) · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L82) · Also asked at: IIT Mandi ×3 (last 2026-10-23), IIT Hyderabad (2026-10-23), IIT BHU (2026-10-24)</sub>
+<sub>Topics: Trees, Graphs · Similar: [LeetCode 2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) (Medium) · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L82) · Also asked at: IIT Mandi ×5 (last 2026-10-23), IIT Hyderabad (2026-10-23), Unknown (2026-10-23), IIT Kanpur (2026-10-23), IIT BHU (2026-10-24)</sub>

@@ -1,9 +1,9 @@
 # Deloitte
 
-**62 questions** · 7 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
+**58 questions** · 9 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Verbal](../topics/verbal.md) 16 · [Aptitude](../topics/aptitude.md) 16 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [OA Format](../topics/oa-format.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Math](../topics/math.md) 5 · [Puzzles](../topics/puzzles.md) 4 · +8 more  
-**Seen at:** IIT BHU, IIT Dhanbad, IIT Indore, IIT Kanpur, MNNIT Allahabad
+**Asks about:** [Aptitude](../topics/aptitude.md) 16 · [Verbal](../topics/verbal.md) 9 · [OA Format](../topics/oa-format.md) 8 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Math](../topics/math.md) 5 · [Puzzles](../topics/puzzles.md) 4 · +10 more  
+**Seen at:** IIT BHU, IIT Dhanbad, IIT Indore, IIT Kanpur, MNNIT Allahabad, NIT Raipur, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -63,20 +63,18 @@
   - [Sentence arrangement: army surgeon at Bombay](#q34-sentence-arrangement-army-surgeon-at-bombay)
   - [Fill in the blank: poured tea the cup](#q35-fill-in-the-blank-poured-tea-the-cup)
   - [Error detection: start to panic](#q36-error-detection-start-to-panic)
-- [2026-10-26 · IIT Dhanbad · FTE](#2026-10-26--iit-dhanbad--fte)
-  - [Error detection: letters to each other](#q1-error-detection-letters-to-each-other)
-  - [Sentence arrangement: microwave food safety](#q2-sentence-arrangement-microwave-food-safety)
-  - [Reading comprehension: what happened as seasons changed](#q3-reading-comprehension-what-happened-as-seasons-changed)
-  - [Reading comprehension: Koji and Haruki learnt to](#q4-reading-comprehension-koji-and-haruki-learnt-to)
-  - [Fill in the blank: Roys and wealth](#q5-fill-in-the-blank-roys-and-wealth)
-  - [Sentence arrangement: surgeon in the Army](#q6-sentence-arrangement-surgeon-in-the-army)
-  - [Fill in the blank: poured tea](#q7-fill-in-the-blank-poured-tea)
 - [2026-10-26 · IIT BHU · FTE](#2026-10-26--iit-bhu--fte)
   - [Deloitte test pattern](#q1-deloitte-test-pattern)
 - [2026-10-23 · IIT Indore · FTE](#2026-10-23--iit-indore--fte)
   - [Deloitte OA structure: aptitude round then vibe coding test](#q1-deloitte-oa-structure-aptitude-round-then-vibe-coding-test)
 - [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte)
   - [Deloitte OA contents](#q1-deloitte-oa-contents)
+- [2026-10-18 · NIT Raipur · FTE · Data Analyst](#2026-10-18--nit-raipur--fte--data-analyst)
+  - [Deloitte Data Analyst OA format](#q1-deloitte-data-analyst-oa-format)
+- [2026-10-10 · VNIT Nagpur · FTE](#2026-10-10--vnit-nagpur--fte)
+  - [Deloitte OA format at VNIT](#q1-deloitte-oa-format-at-vnit)
+- [2026-10-10 · VNIT Nagpur · FTE · Interview](#2026-10-10--vnit-nagpur--fte--interview)
+  - [Deloitte interview: Python/SQL and resume](#q1-deloitte-interview-pythonsql-and-resume)
 
 </details>
 
@@ -366,7 +364,7 @@ B. looking up them who had
 C. looking for those who had
 D. looking up them who have
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14)</sub>
 
 ### Q3. Attention to details: multiples of 10 in a sequence
 
@@ -379,7 +377,7 @@ B. 4
 C. 1
 D. 3
 
-<sub>Topics: Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14)</sub>
 
 ### Q4. Eighth book in alphabetical pattern A, E, I, M, Q
 
@@ -390,7 +388,7 @@ B. C
 C. E
 D. G
 
-<sub>Topics: Puzzles, Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Puzzles, Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14)</sub>
 
 ### Q5. Seven photographers circular seating: who sits clockwise of Boreas
 
@@ -418,7 +416,7 @@ B. Draco
 C. Echo
 D. Aurora
 
-<sub>Topics: Puzzles, Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Puzzles, Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14)</sub>
 
 ### Q6. Seven photographers: photos taken by the two seated next to Echo
 
@@ -431,7 +429,7 @@ B. 115
 C. 105
 D. 95
 
-<sub>Topics: Puzzles, Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Puzzles, Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14)</sub>
 
 ### Q7. Assumptions: food wastage awareness
 
@@ -448,7 +446,7 @@ B. Neither assumption I nor II is implicit
 C. Only assumption II is implicit
 D. Both assumptions I and II are implicit
 
-<sub>Topics: Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14)</sub>
 
 ### Q8. KALEIDOSCOPE rearranged: 7th letter from left
 
@@ -459,7 +457,7 @@ B. D
 C. I
 D. O
 
-<sub>Topics: Aptitude, Strings · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Aptitude, Strings · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14)</sub>
 
 ### Q9. Critical reasoning: lifts in buildings
 
@@ -472,7 +470,7 @@ B. The lift is accessible from the 3rd floor onwards.
 C. A building consisting of five floors has a lift.
 D. The top floor is accessible by a lift.
 
-<sub>Topics: Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14)</sub>
 
 ### Q10. Pallavi's walk: shortest distance and direction from R
 
@@ -483,7 +481,7 @@ B. 3√13 km, south-east
 C. √145 km, north west
 D. 3√13 km, north-east
 
-<sub>Topics: Puzzles, Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Puzzles, Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14)</sub>
 
 ### Q11. Ice cream market research inference
 
@@ -508,7 +506,7 @@ People forever wrote letters to each other, (A) asking where (B) they could find
 
 Options: B, C, D, A
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
 
 ### Q13. Distributing 22 coupons among 6 students
 
@@ -669,7 +667,7 @@ B. AECBD
 C. BDEAC
 D. BEACD
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
 
 ### Q24. What happens to weights during neural network training
 
@@ -793,7 +791,7 @@ B. The oak tree grew weaker and withered as the seasons changed but the bamboo r
 C. The oak plant grew taller and stronger while the bamboo plant remained delicate and thin.
 D. The oak tree became more beautiful while the bamboo plant grew long and ugly.
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
 
 ### Q32. Reading comprehension: what Koji and Haruki learnt
 
@@ -806,7 +804,7 @@ B. be proud of their trees and boast about them.
 C. nurture a specific tree in the garden and make it grow stronger.
 D. change their responsibilities as the seasons change.
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
 
 ### Q33. Fill in the blank: The Roys and their wealth
 
@@ -816,7 +814,7 @@ The Roys have always been ones to ______ off their wealth.
 
 Options not captured in the screenshot.
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
 
 ### Q34. Sentence arrangement: army surgeon at Bombay
 
@@ -832,7 +830,7 @@ B. DCBA
 C. CABD
 D. BCDA
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
 
 ### Q35. Fill in the blank: poured tea the cup
 
@@ -842,7 +840,7 @@ As he poured tea ______ the cup, he smiled at us.
 
 Options not captured in the screenshot.
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
 
 ### Q36. Error detection: start to panic
 
@@ -852,105 +850,7 @@ He start to panic (A) when (B) his boss did not respond to (C) his text for two 
 
 Options: B, C, A, D
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
-
-## 2026-10-26 · IIT Dhanbad · FTE
-
-### Q1. Error detection: letters to each other
-
-Verbal Ability, Error Detection. Out of the four underlined phrases marked (A), (B), (C) and (D), choose the phrase which is wrong or inappropriate in the context of the sentence.
-
-People forever wrote letters to each other, (A) asking where (B) they could find (C) decent cooks and competent maids or reliable footmen. (D)
-
-A. B
-B. C
-C. D
-D. A
-
-<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
-
-### Q2. Sentence arrangement: microwave food safety
-
-Verbal Ability, Sentence Arrangement. Choose the most logical order of the given sentences to construct a coherent paragraph.
-
-A. There has been some concern that microwaves might damage food,
-B. Microwaving food raises several safety issues,
-C. but the dominant view is that microwaved food is as safe to eat as conventionally cooked food.
-D. connected with the leakage of microwave radiation outside the oven
-E. largely and the risk of fire from high temperature heat sources.
-
-Options:
-A. ABCDE
-B. AECBD
-C. BDEAC
-D. BEACD
-
-<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
-
-### Q3. Reading comprehension: what happened as seasons changed
-
-Verbal Ability, Reading Comprehension. Direction: Read the passage and answer the question that follows. There may be more than one question based on the passage.
-
-Passage (partly legible in the screenshot): One day, the head monk of the Zen monastery called Koji and Haruki and entrusted them with a task: to look after the beautiful gardens of the monastery. They were also given individual responsibilities of nurturing a specific type of tree. Koji was given a sturdy oak tree and Haruki was given a delicate bamboo plant. Seasons changed, months passed, and Koji's oak tree grew taller and stronger, its expansive branches provided ample shade and also protected the garden from natural disasters. On the other hand, Haruki's bamboo plant was delicate and thin, its tender stems swaying in the direction of the wind. Koji, with great pride, looked at his oak tree, then glanced at Haruki's bamboo plant and said, "Haruki, your bamboo is beautiful, but compared to the grandeur of my oak tree, it looks utterly pale." Haruki smiled gently with wisdom shining in his eyes. "Your oak tree provides shelter and strength, while my bamboo plant teaches the ability to overcome any adversity." From that moment, Koji and Haruki began to respect and care for all trees equally. They embraced a life without comparison, leading them towards profound inner peace.
-
-Question: What happened as the seasons changed?
-
-A. The bamboo plant grew taller and stronger alongside the oak tree.
-B. The oak tree grew weaker and withered as the seasons changed but the bamboo remained strong.
-C. The oak plant grew taller and stronger while the bamboo plant remained delicate and thin.
-D. The oak tree became more beautiful while the bamboo plant grew long and ugly.
-
-<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
-
-### Q4. Reading comprehension: Koji and Haruki learnt to
-
-Verbal Ability, Reading Comprehension. Same passage as the previous question (the Zen monastery gardens, Koji's oak tree and Haruki's bamboo plant).
-
-Question: Koji and Haruki learnt to:
-
-A. have equal respect and care for all the trees in the garden.
-B. be proud of their trees and boast about them.
-C. nurture a specific tree in the garden and make it grow stronger.
-D. change their responsibilities as the seasons change.
-
-<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
-
-### Q5. Fill in the blank: Roys and wealth
-
-Verbal Ability, Fill in the Blank(s). Direction: Fill in the blank(s) below with the most appropriate word.
-
-The Roys have always been ones to ______ off their wealth.
-
-Options were not captured in the screenshot.
-
-<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
-
-### Q6. Sentence arrangement: surgeon in the Army
-
-Verbal Ability, Sentence Arrangement. Choose the most logical order of the given sentences to construct a coherent paragraph.
-
-A. On landing at Bombay, I learned that my corps had advanced through the passes, and was already deep in the enemy's country.
-B. In the year 1878, I took my degree of Doctor of Medicine of the University of London and proceeded to Netley to go through the course prescribed for surgeons in the Army.
-C. Having completed my studies there, I was duly attached to the Fifth Northumberland Fusiliers as assistant surgeon.
-D. The regiment was stationed in India at the time, and before I could join it, the second Afghan war had broken out.
-
-Options:
-A. ADBC
-B. DCBA
-C. CABD
-D. BCDA
-
-<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
-
-### Q7. Fill in the blank: poured tea
-
-Verbal Ability, Fill in the Blank(s). Direction: Fill in the blank(s) below with the most appropriate word.
-
-As he poured tea ______ the cup, he smiled at us.
-
-Options were not captured in the screenshot.
-
-<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14)</sub>
 
 ## 2026-10-26 · IIT BHU · FTE
 
@@ -962,7 +862,7 @@ Part 1 – MCQs (60 minutes): Verbal Ability, Logical Reasoning, Quantitative Ap
 
 Part 2 – Vibe Coding (30 minutes): only candidates who clear the Part 1 cutoff can attempt it.
 
-<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L54)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L54) · Also asked at: IIT Kanpur (2026-10-27)</sub>
 
 ## 2026-10-23 · IIT Indore · FTE
 
@@ -982,4 +882,28 @@ The OA has data interpretation and aptitude questions.
 
 No individual questions were given.
 
-<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/deloitte-oa/2026-10.jsonl#L68)</sub>
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/deloitte-oa/2026-10.jsonl#L68) · Also asked at: MNNIT Allahabad (2026-10-25)</sub>
+
+## 2026-10-18 · NIT Raipur · FTE · Data Analyst
+
+### Q1. Deloitte Data Analyst OA format
+
+Deloitte OA for the Data Analyst role: 2 coding questions, and the rest of the test was general aptitude. (The poster did not give the actual questions.)
+
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-vit-vellore-placements/2026-10.jsonl#L31)</sub>
+
+## 2026-10-10 · VNIT Nagpur · FTE
+
+### Q1. Deloitte OA format at VNIT
+
+Deloitte visited VNIT Nagpur. The OA was held online, taken from the students' own rooms. No questions or sections were shared.
+
+<sub>Topics: OA Format · Source: [chat, 10 Oct](../archive/campus-vnit-nagpur-placements/2026-10.jsonl#L2), [chat, 10 Oct](../archive/campus-vnit-nagpur-placements/2026-10.jsonl#L3)</sub>
+
+## 2026-10-10 · VNIT Nagpur · FTE · Interview
+
+### Q1. Deloitte interview: Python/SQL and resume
+
+The interview had one round. It was mainly based on Python or SQL, plus the usual resume-based questions. No specific questions were shared.
+
+<sub>Topics: Python & Pandas, SQL, HR & Behavioral · Source: [chat, 10 Oct](../archive/campus-vnit-nagpur-placements/2026-10.jsonl#L2), [chat, 10 Oct](../archive/campus-vnit-nagpur-placements/2026-10.jsonl#L4)</sub>

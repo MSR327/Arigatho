@@ -1,15 +1,13 @@
 # Futures First
 
-**51 questions** · 8 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
+**36 questions** · 7 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 48 · [Math](../topics/math.md) 19 · [Puzzles](../topics/puzzles.md) 5 · [OA Format](../topics/oa-format.md) 3 · [Finance](../topics/finance.md) 2  
-**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, MNNIT Allahabad
+**Asks about:** [Aptitude](../topics/aptitude.md) 35 · [Math](../topics/math.md) 7 · [Puzzles](../topics/puzzles.md) 4 · [OA Format](../topics/oa-format.md) 2  
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Madras, IIT Mandi, IIT Roorkee, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-28 · IIT Guwahati · FTE · Quant Options Trainee](#2026-10-28--iit-guwahati--fte--quant-options-trainee)
-  - [Futures First OA format](#q1-futures-first-oa-format)
 - [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte)
   - [Speed Math: 88888 + 8888 + 888 + 88 + 8](#q1-speed-math-88888--8888--888--88--8)
   - [Speed Math: 8750 ÷ 3.5 + 6250 ÷ 2.5](#q2-speed-math-8750--35--6250--25)
@@ -28,20 +26,20 @@
   - [Speed Math: (45.6)^2 − (44.4)^2](#q15-speed-math-4562--4442)
 - [2026-10-19 · IIT BHU · FTE](#2026-10-19--iit-bhu--fte)
   - [OA pattern: aptitude section + speed math section](#q1-oa-pattern-aptitude-section--speed-math-section)
-- [2026-10-18 · IIT BHU · FTE · Futures Trainee – International Markets](#2026-10-18--iit-bhu--fte--futures-trainee--international-markets)
-  - [Futures First OA format: aptitude and speed math](#q1-futures-first-oa-format-aptitude-and-speed-math)
+- [2026-10-14 · IIT Madras · FTE](#2026-10-14--iit-madras--fte)
+  - [Line graph data interpretation](#q1-line-graph-data-interpretation)
+  - [Figure and pattern recognition](#q2-figure-and-pattern-recognition)
+  - [Number series and patterns](#q3-number-series-and-patterns)
 - [2026-10-14 · IIT Delhi · FTE](#2026-10-14--iit-delhi--fte)
-  - [Chord length with points A and B](#q1-chord-length-with-points-a-and-b)
-  - [Trains crossing two walking persons](#q2-trains-crossing-two-walking-persons)
-  - [Figure matrix completion](#q3-figure-matrix-completion)
-  - [Number series 162, 149, 123, 118, 84, 71](#q4-number-series-162-149-123-118-84-71)
-  - [Queue of researchers: highest reports](#q5-queue-of-researchers-highest-reports)
-  - [Queue of researchers: how many submitted more than Aarav](#q6-queue-of-researchers-how-many-submitted-more-than-aarav)
-  - [Queue of researchers: in front of second-highest](#q7-queue-of-researchers-in-front-of-second-highest)
-  - [Queue of researchers: increasing-count positions](#q8-queue-of-researchers-increasing-count-positions)
-  - [Line graph: votes for A and C vs B and D](#q9-line-graph-votes-for-a-and-c-vs-b-and-d)
-  - [Line graph: ratio of percentage declines B vs C](#q10-line-graph-ratio-of-percentage-declines-b-vs-c)
-  - [Line graph: increase in votes for C to change ratio](#q11-line-graph-increase-in-votes-for-c-to-change-ratio)
+  - [Trains crossing two walking persons](#q1-trains-crossing-two-walking-persons)
+  - [Figure matrix completion](#q2-figure-matrix-completion)
+  - [Number series 162, 149, 123, 118, 84, 71](#q3-number-series-162-149-123-118-84-71)
+  - [Queue of researchers: how many submitted more than Aarav](#q4-queue-of-researchers-how-many-submitted-more-than-aarav)
+  - [Queue of researchers: in front of second-highest](#q5-queue-of-researchers-in-front-of-second-highest)
+  - [Queue of researchers: increasing-count positions](#q6-queue-of-researchers-increasing-count-positions)
+  - [Line graph: votes for A and C vs B and D](#q7-line-graph-votes-for-a-and-c-vs-b-and-d)
+  - [Line graph: ratio of percentage declines B vs C](#q8-line-graph-ratio-of-percentage-declines-b-vs-c)
+  - [Line graph: increase in votes for C to change ratio](#q9-line-graph-increase-in-votes-for-c-to-change-ratio)
 - [2026-10-13 · MNNIT Allahabad · FTE](#2026-10-13--mnnit-allahabad--fte)
   - [Speed Math section (15 questions)](#q1-speed-math-section-15-questions)
 - [2026-10-13 · IIT Delhi · FTE](#2026-10-13--iit-delhi--fte)
@@ -51,34 +49,12 @@
   - [Recurrence d_m = d_{m+1} + (m+1)](#q4-recurrence-d_m--d_m1--m1)
   - [Portfolio valuation](#q5-portfolio-valuation)
   - [Queue positioning: highest reports](#q6-queue-positioning-highest-reports)
-- [2026-10-07 · MNNIT Allahabad · FTE](#2026-10-07--mnnit-allahabad--fte)
-  - [Sum of repeated 8s](#q1-sum-of-repeated-8s)
-  - [Sum of two divisions](#q2-sum-of-two-divisions)
-  - [Simple interest on 75,000](#q3-simple-interest-on-75000)
-  - [Sum and difference of cubes](#q4-sum-and-difference-of-cubes)
-  - [Difference of squares 999 and 998](#q5-difference-of-squares-999-and-998)
-  - [Cost price after discount and profit](#q6-cost-price-after-discount-and-profit)
-  - [Convert USD to INR](#q7-convert-usd-to-inr)
-  - [Sum of three numbers](#q8-sum-of-three-numbers)
-  - [Cube equation, find x](#q9-cube-equation-find-x)
-  - [Decimal multiplication](#q10-decimal-multiplication)
-  - [Percentage of 875](#q11-percentage-of-875)
-  - [Multiply and divide](#q12-multiply-and-divide)
-  - [Cricket run rate](#q13-cricket-run-rate)
-  - [Square root of 12321](#q14-square-root-of-12321-1)
-  - [Difference of squares of decimals](#q15-difference-of-squares-of-decimals)
+- [2026-10-12 · IIT Mandi · FTE](#2026-10-12--iit-mandi--fte)
+  - [Aptitude test topic list](#q1-aptitude-test-topic-list)
 
 </details>
 
 ---
-
-## 2026-10-28 · IIT Guwahati · FTE · Quant Options Trainee
-
-### Q1. Futures First OA format
-
-Two sections: one fast (speed) maths section and one ability section. The IIT Guwahati test was scheduled for 28 October. The actual questions were not shared.
-
-<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/futures-first-oa/2026-10.jsonl#L79), [chat, 15 Oct](../archive/futures-first-oa/2026-10.jsonl#L80), [chat, 15 Oct](../archive/futures-first-oa/2026-10.jsonl#L81)</sub>
 
 ## 2026-10-19 · MNNIT Allahabad · FTE
 
@@ -86,91 +62,91 @@ Two sections: one fast (speed) maths section and one ability section. The IIT Gu
 
 Section B - Speed Math. Compute 88888 + 8888 + 888 + 88 + 8 = ? (Answer given: 98760)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q2. Speed Math: 8750 ÷ 3.5 + 6250 ÷ 2.5
 
 Compute 8750 ÷ 3.5 + 6250 ÷ 2.5 = ? (Answer given: 5000)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q3. Simple interest on ₹75,000 at 8.75% for 2.5 years
 
 A sum of ₹75,000 is invested at 8.75% p.a. simple interest for 2.5 years. Find the interest earned. (Answer given: ₹16,406.25)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q4. Speed Math: 12^3 + 18^3 − 24^3
 
 Compute 12^3 + 18^3 − 24^3 = ? (Answer given: −6264)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q5. Speed Math: 999^2 − 998^2
 
 Compute 999^2 − 998^2 = ? (Answer given: 1997)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q6. Cost price after 12.5% discount and 20% gain
 
 A trader gives a 12.5% discount on a marked price of ₹4800 and still gains 20%. Find the cost price. (Answer given: ₹3,500)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q7. Convert $2450 to INR at ₹83.75 per USD
 
 If 1 USD = ₹83.75, convert $2450 into INR. (Answer given: ₹2,05,187.50)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q8. Speed Math: 105 + 83 + 122
 
 Compute 105 + 83 + 122 = ? (Answer given: 310)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q9. Speed Math: solve 28^3 + 17^3 = 10 + x^3
 
 28^3 + 17^3 = 10 + x^3. Find x (round to 2 decimal places). (Answer given: x ≈ 29.95)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q10. Speed Math: 23.75 × 18.60
 
 Compute 23.75 × 18.60 = ? (Answer given: 441.75)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q11. Speed Math: 875 × 42.80%
 
 Compute 875 × 42.80% = ? (Answer given: 374.5)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q12. Speed Math: 2222 × 13 / 111
 
 Compute 2222 × 13 / 111 = ? (Answer given: ≈ 260.23)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q13. Cricket run rate for 282 runs in 18.3 overs
 
 In a cricket match, a team scored 282 runs in 18 overs and 3 balls. Calculate the run rate (round to 2 decimal places). (Answer given: 15.24)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q14. Square root of 12321
 
 Find the square root of 12321 = ? (Answer given: 111)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ### Q15. Speed Math: (45.6)^2 − (44.4)^2
 
 Compute (45.6)^2 − (44.4)^2 = ? (Answer given: 108)
 
-<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: Aptitude · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1682), [Speed_Math_Answers.pdf](../archive/files/9121-Speed_Math_Answers.pdf) · Also asked at: MNNIT Allahabad (2026-10-07)</sub>
 
 ## 2026-10-19 · IIT BHU · FTE
 
@@ -178,39 +154,45 @@ Compute (45.6)^2 − (44.4)^2 = ? (Answer given: 108)
 
 Futures First OA had 2 sections: (1) Aptitude: 51 questions in 35 minutes; (2) Speed math: 15 questions in 5 minutes. No question details were shared.
 
-<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1601) · Also asked at: IIT BHU (2026-10-19)</sub>
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1601) · Also asked at: IIT BHU ×2 (last 2026-10-19), IIT Roorkee (2026-10-21), Unknown (2026-10-27), IIT Guwahati (2026-10-28)</sub>
 
-## 2026-10-18 · IIT BHU · FTE · Futures Trainee – International Markets
+## 2026-10-14 · IIT Madras · FTE
 
-### Q1. Futures First OA format: aptitude and speed math
+### Q1. Line graph data interpretation
 
-The online test (computerized) had 2 sections:
+Interpret a line graph showing values across different months and answer questions involving percentage changes.
 
-1. Aptitude: 51 questions in 35 minutes (MCQ).
-2. Speed math: 15 questions in 5 minutes. Answers have to be typed in (not MCQ), up to 2 decimal digits.
+- Calculate percentage increases or decreases between two months.
+- Compare values for different series and identify the required percentage or difference.
 
-Individual questions were not shared.
+Exact questions and options were not transcribed (blurry source).
 
-<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/futures-first-oa/2026-10.jsonl#L24), [chat, 19 Oct](../archive/futures-first-oa/2026-10.jsonl#L31), [chat, 20 Oct](../archive/futures-first-oa/2026-10.jsonl#L33), [chat, 21 Oct](../archive/futures-first-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: Aptitude · Source: [chat, 15 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L118)</sub>
+
+### Q2. Figure and pattern recognition
+
+Non-verbal reasoning questions:
+
+- Find the missing figure in a sequence of grids containing different symbols.
+- Identify the next figure by observing how symbols change positions across successive grids.
+- Select the correct option that completes a visual pattern.
+- Arrangements of shapes and spatial patterns.
+
+Exact questions and options were not transcribed (blurry source).
+
+<sub>Topics: Aptitude · Source: [chat, 15 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L118)</sub>
+
+### Q3. Number series and patterns
+
+Identify the missing number in a numerical sequence, and determine the mathematical pattern connecting successive numbers.
+
+Exact questions were not transcribed.
+
+<sub>Topics: Aptitude · Source: [chat, 15 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L118)</sub>
 
 ## 2026-10-14 · IIT Delhi · FTE
 
-### Q1. Chord length with points A and B
-
-Let C be a circle of radius 13 meters centered at O. Let PQ be a chord passing through points A and B, where:
-- A is 5 meters north of O
-- B is 9 meters east and 5 meters north of O
-
-Find the length of chord PQ.
-
-A. 20
-B. 22
-C. 24
-D. 26
-
-<sub>Topics: Math, Aptitude · Source: [future first (1).pdf](../archive/files/6668-future_first_1_.pdf)</sub>
-
-### Q2. Trains crossing two walking persons
+### Q1. Trains crossing two walking persons
 
 Two persons are walking beside a railway track at respective speeds of 2 km/h and 4 km/h in the same direction. A train comes from behind them and crosses the first person in 90 seconds and the second person in a different (not clearly legible) number of seconds, respectively.
 
@@ -220,13 +202,13 @@ Options (as legible): 72, 95, 75, 90. The second crossing time is not legible in
 
 <sub>Topics: Aptitude, Math · Source: [future first (1).pdf](../archive/files/6668-future_first_1_.pdf)</sub>
 
-### Q3. Figure matrix completion
+### Q2. Figure matrix completion
 
 Select a suitable figure from the four alternatives that would complete the figure matrix. (A 3×3 matrix of figures with a circle-and-lines symbol in each cell and the last cell missing; four image options numbered 1 to 4. The images are not reproduced here.)
 
 <sub>Topics: Aptitude · Source: [future first (1).pdf](../archive/files/6668-future_first_1_.pdf)</sub>
 
-### Q4. Number series 162, 149, 123, 118, 84, 71
+### Q3. Number series 162, 149, 123, 118, 84, 71
 
 Look at the following series:
 
@@ -238,29 +220,7 @@ Options (as legible in the photo): 58, 60, 45, 49
 
 <sub>Topics: Aptitude · Source: [future first (1).pdf](../archive/files/6668-future_first_1_.pdf)</sub>
 
-### Q5. Queue of researchers: highest reports
-
-Exactly seven researchers — Aarav, Bilal, Chirag, Darsh, Eklavya, Fahad and Gaurav — were standing in a queue (not necessarily in the same order) at the registration desk of an academic conference to submit their project reports.
-
-Each researcher submitted a distinct number of reports, which is a positive integer less than eight (i.e., 1 to 7).
-
-The following information is known:
-1. Chirag was standing immediately behind Fahad and submitted three more reports than Fahad.
-2. There were at least four researchers standing in front of Gaurav, and each of them had submitted more reports than Gaurav.
-3. The researcher who submitted the least number of reports was standing exactly two positions away from Eklavya.
-4. Darsh was not standing at either end of the queue and was standing somewhere in front of Eklavya.
-5. The researcher standing immediately in front of Aarav had submitted two fewer reports than Gaurav.
-
-Question 1/4: Who submitted the highest number of reports among the seven researchers?
-
-A. Chirag
-B. Eklavya
-C. Darsh
-D. Aarav
-
-<sub>Topics: Puzzles, Aptitude · Source: [future first (1).pdf](../archive/files/6668-future_first_1_.pdf)</sub>
-
-### Q6. Queue of researchers: how many submitted more than Aarav
+### Q4. Queue of researchers: how many submitted more than Aarav
 
 Same setup as the queue puzzle (seven researchers Aarav, Bilal, Chirag, Darsh, Eklavya, Fahad and Gaurav; distinct report counts 1 to 7; five conditions: Chirag immediately behind Fahad with 3 more reports; at least four researchers in front of Gaurav, all with more reports than Gaurav; the researcher with the least reports is exactly two positions away from Eklavya; Darsh is not at either end and is in front of Eklavya; the researcher immediately in front of Aarav submitted two fewer reports than Gaurav).
 
@@ -270,7 +230,7 @@ Options (as legible in the photo): 0, 1, 3, 4
 
 <sub>Topics: Puzzles, Aptitude · Source: [future first (1).pdf](../archive/files/6668-future_first_1_.pdf)</sub>
 
-### Q7. Queue of researchers: in front of second-highest
+### Q5. Queue of researchers: in front of second-highest
 
 Same setup as the queue puzzle (seven researchers, distinct report counts 1 to 7, five conditions as above).
 
@@ -283,7 +243,7 @@ D. Cannot be determined
 
 <sub>Topics: Puzzles, Aptitude · Source: [future first (1).pdf](../archive/files/6668-future_first_1_.pdf)</sub>
 
-### Q8. Queue of researchers: increasing-count positions
+### Q6. Queue of researchers: increasing-count positions
 
 Same setup as the queue puzzle (seven researchers, distinct report counts 1 to 7, five conditions as above).
 
@@ -293,7 +253,7 @@ Options: four numeric options (not clearly legible in the photo).
 
 <sub>Topics: Puzzles, Aptitude · Source: [future first (1).pdf](../archive/files/6668-future_first_1_.pdf)</sub>
 
-### Q9. Line graph: votes for A and C vs B and D
+### Q7. Line graph: votes for A and C vs B and D
 
 Direction: Study the following line graph carefully to answer the questions that follow.
 
@@ -305,7 +265,7 @@ Options (as legible): 27% less, 37% less, 18% more, None of the above
 
 <sub>Topics: Aptitude · Source: [future first (1).pdf](../archive/files/6668-future_first_1_.pdf)</sub>
 
-### Q10. Line graph: ratio of percentage declines B vs C
+### Q8. Line graph: ratio of percentage declines B vs C
 
 Same line graph (opinion polls for IT companies A, B, C and D in alternate months, votes in lakhs).
 
@@ -315,7 +275,7 @@ Options (as legible): 9 : 1, 20 : 11, 11 : 20, 59 : 25
 
 <sub>Topics: Aptitude · Source: [future first (1).pdf](../archive/files/6668-future_first_1_.pdf)</sub>
 
-### Q11. Line graph: increase in votes for C to change ratio
+### Q9. Line graph: increase in votes for C to change ratio
 
 Same line graph (opinion polls for IT companies A, B, C and D in alternate months, votes in lakhs).
 
@@ -360,7 +320,7 @@ B. 20
 C. 24
 D. 26
 
-<sub>Topics: Math, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71)</sub>
+<sub>Topics: Math, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71) · Also asked at: IIT Mandi (2026-10-12), IIT Delhi (2026-10-14)</sub>
 
 ### Q2. Trading cards distribution
 
@@ -371,7 +331,7 @@ B. 62
 C. 64
 D. 126
 
-<sub>Topics: Math, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71)</sub>
+<sub>Topics: Math, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71) · Also asked at: IIT Mandi (2026-10-12)</sub>
 
 ### Q3. Exponential product inequality
 
@@ -382,7 +342,7 @@ B. 49
 C. 50
 D. 51
 
-<sub>Topics: Math, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71)</sub>
+<sub>Topics: Math, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71) · Also asked at: IIT Mandi (2026-10-12)</sub>
 
 ### Q4. Recurrence d_m = d_{m+1} + (m+1)
 
@@ -393,7 +353,7 @@ B. 5050
 C. -5051
 D. 5051
 
-<sub>Topics: Math, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71)</sub>
+<sub>Topics: Math, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71) · Also asked at: IIT Mandi (2026-10-12)</sub>
 
 ### Q5. Portfolio valuation
 
@@ -404,7 +364,7 @@ B. ₹8 lakh
 C. ₹10 lakh
 D. ₹12 lakh
 
-<sub>Topics: Math, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71)</sub>
+<sub>Topics: Math, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71) · Also asked at: IIT Mandi (2026-10-12)</sub>
 
 ### Q6. Queue positioning: highest reports
 
@@ -415,96 +375,27 @@ B. Bilal
 C. Chirag
 D. Darsh
 
-<sub>Topics: Puzzles, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71)</sub>
+<sub>Topics: Puzzles, Aptitude · Source: [chat, 13 Oct](../archive/futures-first-oa/2026-10.jsonl#L71) · Also asked at: IIT Mandi (2026-10-12), IIT Delhi (2026-10-14)</sub>
 
-## 2026-10-07 · MNNIT Allahabad · FTE
+## 2026-10-12 · IIT Mandi · FTE
 
-### Q1. Sum of repeated 8s
+### Q1. Aptitude test topic list
 
-88888 + 8888 + 888 + 88 + 8 =
+Topics reported in the OA (sent as a PDF of the paper and MCQs):
 
-<sub>Topics: Aptitude, Math · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
+- Number Series: next or missing number from a mathematical pattern
+- Letter Series: patterns between groups of alphabets
+- Seating Arrangement: arrange seven researchers in a queue from given conditions
+- Logical Deduction: positions and rankings using researchers' report counts
+- Data Interpretation: line graph comparing votes received by four companies across months
+- Percentages and Ratios: percentage decreases and comparisons using graph data
+- Geometry: chord length in a circle
+- Figure Matrix: missing figure in a 3×3 pattern
+- Visual Series: next arrangement of dots, circles and squares in a grid
+- Arithmetic: maximum possible second-largest number among distinct natural numbers with a given mean
+- Figure Counting: total number of rectangles in a diagram
+- Coding–Decoding: letter encoding rule applied to another word
+- Direction Sense: final direction or distance after a series of movements
+- Numerical Puzzles: missing values in number diagrams using arithmetic relations
 
-### Q2. Sum of two divisions
-
-8750 ÷ 3.5 + 6250 ÷ 2.5 =
-
-<sub>Topics: Aptitude, Math · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q3. Simple interest on 75,000
-
-A sum of ₹75,000 is invested at 8.75% p.a. simple interest for 2.5 years. Find the interest earned.
-
-<sub>Topics: Aptitude, Finance · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q4. Sum and difference of cubes
-
-12^3 + 18^3 − 24^3 =
-
-<sub>Topics: Aptitude, Math · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q5. Difference of squares 999 and 998
-
-999^2 − 998^2 =
-
-<sub>Topics: Aptitude, Math · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q6. Cost price after discount and profit
-
-A trader gives 12.5% discount on a marked price of ₹4800 and still gains 20%. Find the cost price.
-
-<sub>Topics: Aptitude · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q7. Convert USD to INR
-
-If 1 USD = ₹83.75, convert $2450 into INR.
-
-<sub>Topics: Aptitude, Finance · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q8. Sum of three numbers
-
-105 + 83 + 122 =
-
-<sub>Topics: Aptitude, Math · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q9. Cube equation, find x
-
-28^3 + 17^3 = 10 + x^3. Find x (round to 2 decimal places).
-
-<sub>Topics: Aptitude, Math · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q10. Decimal multiplication
-
-23.75 × 18.60 =
-
-<sub>Topics: Aptitude, Math · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q11. Percentage of 875
-
-875 × 42.80% =
-
-<sub>Topics: Aptitude, Math · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q12. Multiply and divide
-
-2222 × 13 / 111 =
-
-<sub>Topics: Aptitude, Math · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q13. Cricket run rate
-
-In a cricket match, a team scored 282 runs in 18 overs and 3 balls. Calculate the run rate (round to 2 decimal places).
-
-<sub>Topics: Aptitude · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q14. Square root of 12321
-
-Find the square root of 12321 =
-
-<sub>Topics: Aptitude, Math · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
-
-### Q15. Difference of squares of decimals
-
-(45.6)^2 − (44.4)^2 =
-
-<sub>Topics: Aptitude, Math · Source: [Speed_Math_Answers.pdf](../archive/files/3569-Speed_Math_Answers.pdf)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 13 Oct](../archive/campus-iit-mandi-placements/2026-10.jsonl#L9), [future first.pdf](../archive/files/6136-future_first.pdf), [chat, 13 Oct](../archive/campus-iit-mandi-placements/2026-10.jsonl#L11), [chat, 13 Oct](../archive/campus-iit-mandi-placements/2026-10.jsonl#L12)</sub>

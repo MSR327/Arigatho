@@ -1,18 +1,24 @@
 # Paytm
 
-**14 questions** · 3 drives · latest 25 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**17 questions** · 6 drives · latest 29 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Strings](../topics/strings.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · [SQL](../topics/sql.md) 1 · [Other](../topics/other.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · +6 more  
-**Seen at:** BIT Mesra, BITS Pilani
+**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Strings](../topics/strings.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · [Other](../topics/other.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · +6 more  
+**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-29 · Unknown · FTE · SDE](#2026-10-29--unknown--fte--sde)
+  - [Paytm SQL question on multiple joins](#q1-paytm-sql-question-on-multiple-joins)
+- [2026-10-29 · BIT Mesra · FTE](#2026-10-29--bit-mesra--fte)
+  - [Paytm OA pattern](#q1-paytm-oa-pattern)
 - [2026-10-25 · BITS Pilani · FTE](#2026-10-25--bits-pilani--fte)
   - [Number of Steps to Reduce a Number in Binary Representation to One (LC 1404)](#q1-number-of-steps-to-reduce-a-number-in-binary-representation-to-one-lc-1404)
 - [2026-10-22 · BIT Mesra · FTE](#2026-10-22--bit-mesra--fte)
   - [List Customer and Product Without Sale](#q1-list-customer-and-product-without-sale)
   - [Bank Transactions](#q2-bank-transactions)
+- [2026-10-21 · Delhi Technological University · FTE · Software](#2026-10-21--delhi-technological-university--fte--software)
+  - [Paytm SW role OA pattern](#q1-paytm-sw-role-oa-pattern)
 - [2026-09-21 · Unknown · Unknown · Other round](#2026-09-21--unknown--unknown--other-round)
   - [OA format: 3 coding tasks and 2 SQL queries](#q1-oa-format-3-coding-tasks-and-2-sql-queries)
   - [Convert numbers to words](#q2-convert-numbers-to-words)
@@ -29,6 +35,22 @@
 </details>
 
 ---
+
+## 2026-10-29 · Unknown · FTE · SDE
+
+### Q1. Paytm SQL question on multiple joins
+
+SQL question based on multiple joins between tables; you need to work out which tables to use, then apply simple where and group by clauses. Exact question not given.
+
+<sub>Topics: SQL · Source: [chat, 29 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L409)</sub>
+
+## 2026-10-29 · BIT Mesra · FTE
+
+### Q1. Paytm OA pattern
+
+OA consisted of an SQL section (easy to medium) and 3-4 coding problems (difficulty easy to medium). Platform: HackerRank.
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/campus-bit-mesra-placements/2026-10.jsonl#L9), [chat, 29 Oct](../archive/campus-bit-mesra-placements/2026-10.jsonl#L10), [chat, 29 Oct](../archive/campus-bit-mesra-placements/2026-10.jsonl#L11), [chat, 29 Oct](../archive/campus-bit-mesra-placements/2026-10.jsonl#L12)</sub>
 
 ## 2026-10-25 · BITS Pilani · FTE
 
@@ -51,6 +73,20 @@ Paytm OA at BIT Mesra, Ranchi. The pattern was 1 DSA + 1 SQL + MCQs. This is the
 Paytm OA at BIT Mesra, Ranchi. This is the DSA question, titled 'Bank Transactions'. The poster shared only a link: https://www.codinzhub.com/question/bank-transactions-paytm-online-assessment. The full problem statement, constraints and examples are not in the chat.
 
 <sub>Topics: Other · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2010)</sub>
+
+## 2026-10-21 · Delhi Technological University · FTE · Software
+
+### Q1. Paytm SW role OA pattern
+
+Paytm OA for the software role consisted of:
+
+- 2 DSA questions
+- 1 SQL question
+- Around 8 MCQs
+
+The actual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L113)</sub>
 
 ## 2026-09-21 · Unknown · Unknown · Other round
 

@@ -1,24 +1,17 @@
 # Meltwater
 
-**12 questions** · 3 drives · latest 16 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 2 drives · latest 16 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 6 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 3 · [DP](../topics/dp.md) 2 · [Sorting](../topics/sorting.md) 2 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1 · [Two Pointers](../topics/two-pointers.md) 1  
+**Asks about:** [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [Math](../topics/math.md) 2 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1 · [Sorting](../topics/sorting.md) 1 · [Arrays](../topics/arrays.md) 1  
 **Seen at:** IIT Hyderabad, VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-10-16 · IIT Hyderabad · FTE](#2026-10-16--iit-hyderabad--fte)
-  - [Sum of first n triangular numbers](#q1-sum-of-first-n-triangular-numbers)
-  - [Kth character of concatenated unique substrings](#q2-kth-character-of-concatenated-unique-substrings)
-  - [Subarray with GCD g: max sum, count, min length](#q3-subarray-with-gcd-g-max-sum-count-min-length)
-  - [Sum of First N Triangular Numbers](#q4-sum-of-first-n-triangular-numbers)
-  - [Kth Character of Concatenated Sorted Unique Substrings](#q5-kth-character-of-concatenated-sorted-unique-substrings)
-  - [Subarrays with GCD Equal to G](#q6-subarrays-with-gcd-equal-to-g)
-- [2026-10-15 · IIT Hyderabad · FTE](#2026-10-15--iit-hyderabad--fte)
-  - [Sum of first n triangular numbers](#q1-sum-of-first-n-triangular-numbers-1)
-  - [Kth character of concatenated unique substrings](#q2-kth-character-of-concatenated-unique-substrings-1)
-  - [Subarrays with GCD g: max sum, count, min length](#q3-subarrays-with-gcd-g-max-sum-count-min-length)
+  - [Sum of First N Triangular Numbers](#q1-sum-of-first-n-triangular-numbers)
+  - [Kth Character of Concatenated Sorted Unique Substrings](#q2-kth-character-of-concatenated-sorted-unique-substrings)
+  - [Subarrays with GCD Equal to G](#q3-subarrays-with-gcd-equal-to-g)
 - [2026-10-13 · VIT Vellore · FTE](#2026-10-13--vit-vellore--fte)
   - [Remove Boxes (LeetCode 546)](#q1-remove-boxes-leetcode-546)
   - [Minimum Number of Taps to Open to Water a Garden (LeetCode 1326)](#q2-minimum-number-of-taps-to-open-to-water-a-garden-leetcode-1326)
@@ -30,71 +23,23 @@
 
 ## 2026-10-16 · IIT Hyderabad · FTE
 
-### Q1. Sum of first n triangular numbers
-
-Given n, calculate the sum of the first n triangular numbers.
-
-<sub>Topics: Math · Source: [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L131), [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L133), [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L134), [chat, 21 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L68)</sub>
-
-### Q2. Kth character of concatenated unique substrings
-
-Given a string s_input and an integer k, calculate the kth character of the string obtained by concatenating all the unique substrings of s_input in lexicographical order.
-
-<sub>Topics: Strings, Sorting · Source: [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L131), [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L133), [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L134), [chat, 21 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L68)</sub>
-
-### Q3. Subarray with GCD g: max sum, count, min length
-
-Given two arrays c and v and an integer g, calculate 3 things:
-1. The maximum sum of v values of a subarray whose gcd of c values is g.
-2. The number of such subarrays.
-3. The minimum length among all such subarrays.
-
-Note: different questions were given to different people, but the pattern is the same (2 very easy questions and 1 hard question; 3 DSA questions in total, no MCQs).
-
-<sub>Topics: Arrays, Math, Two Pointers · Source: [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L131), [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L133), [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L134), [chat, 21 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L68)</sub>
-
-### Q4. Sum of First N Triangular Numbers
+### Q1. Sum of First N Triangular Numbers
 
 Given n, return the sum of the first n triangular numbers. (One of 2 easy questions. Different candidates got different questions, but the pattern was the same for both roles.)
 
-<sub>Topics: Math · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492)</sub>
+<sub>Topics: Math · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492) · Also asked at: IIT Hyderabad ×2 (last 2026-10-16)</sub>
 
-### Q5. Kth Character of Concatenated Sorted Unique Substrings
+### Q2. Kth Character of Concatenated Sorted Unique Substrings
 
 Given a string s_input and an integer k, take all unique substrings of s_input, sort them in lexicographical order and concatenate them. Return the k-th character of the resulting string.
 
-<sub>Topics: Strings, Sorting · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492)</sub>
+<sub>Topics: Strings, Sorting · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492) · Also asked at: IIT Hyderabad ×2 (last 2026-10-16)</sub>
 
-### Q6. Subarrays with GCD Equal to G
+### Q3. Subarrays with GCD Equal to G
 
 Hard question. You are given two arrays c and v and an integer g. Over all subarrays where the GCD of the c values equals g, compute: (1) the maximum sum of the v values of such a subarray, (2) how many such subarrays there are, and (3) the minimum length among all such subarrays.
 
-<sub>Topics: Math, Arrays · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492)</sub>
-
-## 2026-10-15 · IIT Hyderabad · FTE
-
-### Q1. Sum of first n triangular numbers
-
-Given n, compute the sum of the first n triangular numbers.
-
-<sub>Topics: Math · Source: [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L126), [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L130)</sub>
-
-### Q2. Kth character of concatenated unique substrings
-
-Given a string `s_input` and an integer `k`, calculate the k-th character of the string obtained by concatenating all the unique substrings of `s_input` in lexicographical order.
-
-<sub>Topics: Strings · Source: [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L126), [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L130)</sub>
-
-### Q3. Subarrays with GCD g: max sum, count, min length
-
-Given two arrays `c` and `v` and an integer `g`, calculate 3 things over subarrays whose GCD of `c` values is `g`:
-1. The maximum sum of `v` values of such a subarray.
-2. The number of such subarrays.
-3. The minimum length among all such subarrays.
-
-(Constraints were not shared.)
-
-<sub>Topics: Arrays, Math · Source: [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L126), [chat, 16 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L130)</sub>
+<sub>Topics: Math, Arrays · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492) · Also asked at: IIT Hyderabad ×2 (last 2026-10-16)</sub>
 
 ## 2026-10-13 · VIT Vellore · FTE
 

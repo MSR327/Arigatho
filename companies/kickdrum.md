@@ -1,9 +1,9 @@
 # Kickdrum
 
-**12 questions** · 6 drives · latest 23 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 5 drives · latest 23 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 6 · [Stack/Queue](../topics/stack-queue.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Hashing](../topics/hashing.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Linked List](../topics/linked-list.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Web Dev](../topics/web-dev.md) 1 · +1 more  
-**Seen at:** IIT Dhanbad, IIT Patna, NIT Rourkela, NIT Silchar
+**Asks about:** [Arrays](../topics/arrays.md) 4 · [Hashing](../topics/hashing.md) 2 · [Two Pointers](../topics/two-pointers.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Linked List](../topics/linked-list.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Web Dev](../topics/web-dev.md) 1 · +1 more  
+**Seen at:** IIT Dhanbad, IIT Patna, NIT Rourkela, NIT Silchar, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -12,17 +12,12 @@
   - [Project folder walkthrough and feature implementation](#q1-project-folder-walkthrough-and-feature-implementation)
 - [2026-10-21 · NIT Silchar · FTE](#2026-10-21--nit-silchar--fte)
   - [Guess the Word: longest odd-length word](#q1-guess-the-word-longest-odd-length-word)
-- [2026-10-12 · IIT Dhanbad · FTE](#2026-10-12--iit-dhanbad--fte)
-  - [Codeforces 1771B-like coding question](#q1-codeforces-1771b-like-coding-question)
-  - [Browser history design question](#q2-browser-history-design-question)
-  - [OA format and MCQ topics](#q3-oa-format-and-mcq-topics)
 - [2026-10-05 · IIT Dhanbad · FTE](#2026-10-05--iit-dhanbad--fte)
   - [Count cut-ahead adventurers](#q1-count-cut-ahead-adventurers)
-  - [Manage recipe experiments (undo/redo history)](#q2-manage-recipe-experiments-undoredo-history)
 - [2026-09-30 · IIT Patna · FTE](#2026-09-30--iit-patna--fte)
   - [Hashing coding question (40 marks)](#q1-hashing-coding-question-40-marks)
   - [Linked list coding question (60 marks)](#q2-linked-list-coding-question-60-marks)
-  - [OA format and MCQ topics](#q3-oa-format-and-mcq-topics-1)
+  - [OA format and MCQ topics](#q3-oa-format-and-mcq-topics)
 - [2026-09-29 · Unknown · FTE](#2026-09-29--unknown--fte)
   - [Hossam and Friends (Codeforces)](#q1-hossam-and-friends-codeforces)
   - [Variation of Browser History](#q2-variation-of-browser-history)
@@ -85,26 +80,6 @@ Note: the first line is the number of strings.
 
 <sub>Topics: Strings, Arrays · Source: [chat, 21 Oct](../archive/intern-2027/2026-10.jsonl#L89)</sub>
 
-## 2026-10-12 · IIT Dhanbad · FTE
-
-### Q1. Codeforces 1771B-like coding question
-
-One coding question similar to Codeforces contest 1771 problem B (https://codeforces.com/contest/1771/problem/B). The exact statement was not shared.
-
-<sub>Topics: Arrays, Two Pointers · Source: [chat, 12 Oct](../archive/kickdrum-oa/2026-10.jsonl#L9)</sub>
-
-### Q2. Browser history design question
-
-One coding question similar to LeetCode Design Browser History. The exact statement was not shared.
-
-<sub>Topics: Stack/Queue · Similar: [LeetCode 1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) (Medium) · Source: [chat, 12 Oct](../archive/kickdrum-oa/2026-10.jsonl#L9)</sub>
-
-### Q3. OA format and MCQ topics
-
-20 MCQs and 2 coding questions. MCQs were based on Python, SQL, OOPs and ACID properties.
-
-<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/kickdrum-oa/2026-10.jsonl#L9)</sub>
-
 ## 2026-10-05 · IIT Dhanbad · FTE
 
 ### Q1. Count cut-ahead adventurers
@@ -136,33 +111,6 @@ The original problem statement is missing.
 
 <sub>Topics: Arrays, Hashing · Source: [chat, 5 Oct](../archive/kickdrum-oa/2026-10.jsonl#L3)</sub>
 
-### Q2. Manage recipe experiments (undo/redo history)
-
-Function `manage_recipe_experiments(operations)` takes a list of string operations and returns a list of strings. The poster shared only a C++ solution, not the statement. From the code: history starts with "Basic". Operations:
-- `COOK recipe`: discard any redo history beyond the current position and add the recipe as the new current state.
-- `UNDO k`: move back k steps (not below the start) and output the current recipe.
-- `REDO k`: move forward k steps (not past the latest) and output the current recipe.
-- `ACTIVE`: output the current recipe.
-
-```cpp
-vector<string> manage_recipe_experiments(vector<string> operations) {
-    vector<string> history; history.push_back("Basic");
-    int cur = 0; vector<string> ans;
-    for (const string& op : operations) {
-        if (op.empty()) continue;
-        stringstream ss(op); string cmd;
-        if (!(ss >> cmd)) continue;
-        if (cmd == "COOK") { string recipe; ss >> recipe; history.resize(cur + 1); history.push_back(recipe); cur++; }
-        else if (cmd == "UNDO") { long long k; ss >> k; cur = max(0LL, (long long)cur - k); ans.push_back(history[cur]); }
-        else if (cmd == "REDO") { long long k; ss >> k; cur = min((long long)history.size() - 1, (long long)cur + k); ans.push_back(history[cur]); }
-        else if (cmd == "ACTIVE") ans.push_back(history[cur]);
-    }
-    return ans;
-}
-```
-
-<sub>Topics: Stack/Queue, Arrays · Similar: [LeetCode 1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) (Medium) · Source: [chat, 5 Oct](../archive/kickdrum-oa/2026-10.jsonl#L3)</sub>
-
 ## 2026-09-30 · IIT Patna · FTE
 
 ### Q1. Hashing coding question (40 marks)
@@ -181,7 +129,7 @@ Coding question on linked lists, medium to hard level, worth 60 marks. The linke
 
 Two coding questions in 90 minutes and 20 MCQs in 30 minutes. MCQ topics: LLM tokens, transactions, SQL, OOPs.
 
-<sub>Topics: OA Format · Source: [chat, 30 Sep](../archive/kickdrum-oa/2026-09.jsonl#L7), [chat, 30 Sep](../archive/kickdrum-oa/2026-09.jsonl#L9), [chat, 30 Sep](../archive/kickdrum-oa/2026-09.jsonl#L10), [chat, 30 Sep](../archive/kickdrum-oa/2026-09.jsonl#L11)</sub>
+<sub>Topics: OA Format · Source: [chat, 30 Sep](../archive/kickdrum-oa/2026-09.jsonl#L7), [chat, 30 Sep](../archive/kickdrum-oa/2026-09.jsonl#L9), [chat, 30 Sep](../archive/kickdrum-oa/2026-09.jsonl#L10), [chat, 30 Sep](../archive/kickdrum-oa/2026-09.jsonl#L11) · Also asked at: IIT Dhanbad (2026-10-12), VNIT Nagpur (2026-10-22)</sub>
 
 ## 2026-09-29 · Unknown · FTE
 
@@ -189,10 +137,10 @@ Two coding questions in 90 minutes and 20 MCQs in 30 minutes. MCQ topics: LLM to
 
 Hossam and Friends (Codeforces 1771B): there are n people and m pairs who are not friends; count the subsegments [a, b] of people in which every pair of people are friends.
 
-<sub>Topics: Two Pointers, Arrays · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L127)</sub>
+<sub>Topics: Two Pointers, Arrays · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L127) · Also asked at: IIT Dhanbad (2026-10-12)</sub>
 
 ### Q2. Variation of Browser History
 
 A variation of the Design Browser History problem: support visit(url), back(steps) and forward(steps) operations on a browser's history.
 
-<sub>Topics: Stack/Queue, Arrays · Similar: [LeetCode 1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) (Medium) · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L127)</sub>
+<sub>Topics: Stack/Queue, Arrays · Similar: [LeetCode 1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) (Medium) · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L127) · Also asked at: IIT Dhanbad ×2 (last 2026-10-12)</sub>

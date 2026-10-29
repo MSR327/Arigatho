@@ -1,15 +1,16 @@
 # McKinsey
 
-**1 question** · 1 drive · latest 28 Oct 2026 · [← all companies](../README.md#companies)
+**2 questions** · 1 drive · latest 28 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Heaps](../topics/heaps.md) 1 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1  
+**Asks about:** [Heaps](../topics/heaps.md) 1 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1 · [OA Format](../topics/oa-format.md) 1  
 **Seen at:** IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-10-28 · IIT Roorkee · FTE · Data Science](#2026-10-28--iit-roorkee--fte--data-science)
-  - [Reorder songs so same artist is not consecutive](#q1-reorder-songs-so-same-artist-is-not-consecutive)
+  - [McKinsey data science OA format](#q1-mckinsey-data-science-oa-format)
+  - [Reorder songs so same artist is not consecutive](#q2-reorder-songs-so-same-artist-is-not-consecutive)
 
 </details>
 
@@ -17,7 +18,13 @@
 
 ## 2026-10-28 · IIT Roorkee · FTE · Data Science
 
-### Q1. Reorder songs so same artist is not consecutive
+### Q1. McKinsey data science OA format
+
+1 easy DSA question, 1 model building question, and 20 MCQs on ML. Specific questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L42)</sub>
+
+### Q2. Reorder songs so same artist is not consecutive
 
 You are given a 2D array `songs`, where each row contains a song name and its artist:
 

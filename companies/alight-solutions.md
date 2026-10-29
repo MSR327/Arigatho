@@ -1,8 +1,8 @@
 # Alight Solutions
 
-**16 questions** · 7 drives · latest 22 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**17 questions** · 8 drives · latest 22 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Arrays](../topics/arrays.md) 4 · [DP](../topics/dp.md) 4 · [Aptitude](../topics/aptitude.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Other](../topics/other.md) 1 · [Graphs](../topics/graphs.md) 1 · +5 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Arrays](../topics/arrays.md) 4 · [DP](../topics/dp.md) 4 · [Aptitude](../topics/aptitude.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Other](../topics/other.md) 1 · [Graphs](../topics/graphs.md) 1 · +5 more  
 **Seen at:** IIT Delhi, IIT Hyderabad, IIT Roorkee
 
 <details>
@@ -20,6 +20,8 @@
   - [Minimum insertions to make a string a palindrome](#q2-minimum-insertions-to-make-a-string-a-palindrome)
 - [2026-10-19 · IIT Delhi · FTE](#2026-10-19--iit-delhi--fte)
   - [Alight OA pattern](#q1-alight-oa-pattern)
+- [2026-10-18 · IIT Roorkee · FTE](#2026-10-18--iit-roorkee--fte)
+  - [Alight OA overview](#q1-alight-oa-overview)
 - [2026-10-15 · IIT Roorkee · FTE](#2026-10-15--iit-roorkee--fte)
   - [Alight OA format](#q1-alight-oa-format)
 - [2026-10-15 · IIT Hyderabad · FTE](#2026-10-15--iit-hyderabad--fte)
@@ -101,7 +103,15 @@ Given a string, find the minimum number of characters you need to insert to make
 
 Time-bounded sections of 5, 5, 5, 5, 10, 10, 10, 10 and 30 minutes each. Sections: aptitude, computer fundamentals, data structures, ML (5 min, 5 questions; all 5-minute sections have 5 questions), 4 case study sections (2 questions each: ML, data engineering, full stack, DSA), and 1 coding question (medium-hard). Question sets differ by the role applied for (AI Engineer, Full Stack, Data Engineer); applicants of multiple roles get all the corresponding types.
 
-<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L149), [chat, 19 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L150), [chat, 19 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L54)</sub>
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L149), [chat, 19 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L150), [chat, 19 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L54) · Also asked at: IIT Roorkee ×2 (last 2026-10-18)</sub>
+
+## 2026-10-18 · IIT Roorkee · FTE
+
+### Q1. Alight OA overview
+
+MCQs were easy. One of the sets had a binary lifting question. The DSA question differed for many candidates.
+
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L160)</sub>
 
 ## 2026-10-15 · IIT Roorkee · FTE
 
@@ -147,10 +157,10 @@ Divide the array into k contiguous segments. The cost of a segment is the number
 
 This set had one DSA coding question. The poster shared only a link to it, not the problem statement: https://codeforces.com/blog/entry/53849. The poster said it can't really be solved in the 30 minutes given, and they don't know anyone at IIT Roorkee who got this question and solved it.
 
-<sub>Topics: Other · Source: [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L964), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L965), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L971), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L976), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L978), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L979), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L980), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L981), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L983), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L984), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L987), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L988)</sub>
+<sub>Topics: Other · Source: [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L964), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L965), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L971), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L976), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L978), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L979), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L980), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L981), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L983), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L984), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L987), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L988) · Also asked at: IIT Roorkee (2026-10-14)</sub>
 
 ### Q2. MCQ and case-study sections
 
 The test had 29 questions in total, and only one was DSA. The rest were MCQs on aptitude, data structures, data engineering and core CS fundamentals. There were also case studies (one dev-based, one based on data structures) with multi-correct MCQs. All 3 roles took the same exam.
 
-<sub>Topics: OA Format · Source: [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L964), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L965), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L971), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L976), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L978), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L979), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L980), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L981), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L983), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L984), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L987), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L988) · Also asked at: IIT Roorkee (2026-10-21)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L964), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L965), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L971), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L976), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L978), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L979), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L980), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L981), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L983), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L984), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L987), [chat, 5 Oct](../archive/inter-nit/2026-10.jsonl#L988) · Also asked at: IIT Roorkee ×2 (last 2026-10-21)</sub>

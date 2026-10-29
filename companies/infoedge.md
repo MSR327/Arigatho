@@ -1,8 +1,8 @@
 # InfoEdge
 
-**31 questions** · 10 drives · latest 26 Oct 2026 · [← all companies](../README.md#companies)
+**26 questions** · 7 drives · latest 29 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11 · [ML/AI](../topics/ml-ai.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · [OOP](../topics/oop.md) 2 · [Binary Search](../topics/binary-search.md) 1 · +4 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · [OOP](../topics/oop.md) 2 · [Binary Search](../topics/binary-search.md) 1 · +4 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Patna
 
 <details>
@@ -12,21 +12,13 @@
   - [OA pattern: aptitude/core CS MCQs + 2 DSA](#q1-oa-pattern-aptitudecore-cs-mcqs--2-dsa)
 - [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte)
   - [InfoEdge OA pattern](#q1-infoedge-oa-pattern)
-  - [InfoEdge OA pattern](#q2-infoedge-oa-pattern)
-- [2026-10-26 · IIT Guwahati · FTE · AI Scientist](#2026-10-26--iit-guwahati--fte--ai-scientist)
-  - [InfoEdge AI Scientist OA format](#q1-infoedge-ai-scientist-oa-format)
 - [2026-10-26 · IIIT Allahabad · FTE](#2026-10-26--iiit-allahabad--fte)
   - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-1)
-- [2026-10-25 · IIT Hyderabad · FTE](#2026-10-25--iit-hyderabad--fte)
-  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-2)
 - [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
-  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-3)
-  - [InfoEdge OA format and topics](#q2-infoedge-oa-format-and-topics)
-  - [InfoEdge OA format](#q3-infoedge-oa-format)
+  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-2)
+  - [InfoEdge OA format](#q2-infoedge-oa-format)
 - [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte)
   - [OA pattern: 40 MCQs on stats, ML, DL](#q1-oa-pattern-40-mcqs-on-stats-ml-dl)
-- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte)
-  - [InfoEdge OA format: ML/DL MCQs](#q1-infoedge-oa-format-mldl-mcqs)
 - [2026-10-05 · IIT Guwahati · FTE](#2026-10-05--iit-guwahati--fte)
   - [Effect of increasing k in KNN](#q1-effect-of-increasing-k-in-knn)
   - [Rows in A LEFT JOIN B](#q2-rows-in-a-left-join-b)
@@ -66,23 +58,9 @@ InfoEdge OA pattern: MCQs on aptitude and core CS, plus 2 DSA coding questions.
 
 ### Q1. InfoEdge OA pattern
 
-40 MCQs in 60 minutes covering ML, DL, NLP, SQL and some LLM questions.
-
-<sub>Topics: OA Format, ML/AI · Source: [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L5)</sub>
-
-### Q2. InfoEdge OA pattern
-
 40 MCQ questions in 60 minutes, covering ML, DL, NLP, SQL and some LLM questions.
 
-<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L5)</sub>
-
-## 2026-10-26 · IIT Guwahati · FTE · AI Scientist
-
-### Q1. InfoEdge AI Scientist OA format
-
-60 minutes, 40 MCQs on ML / DL / NLP / LLMs.
-
-<sub>Topics: OA Format, ML/AI · Source: [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L15)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L5) · Also asked at: IIT Guwahati ×3 (last 2026-10-26)</sub>
 
 ## 2026-10-26 · IIIT Allahabad · FTE
 
@@ -92,14 +70,6 @@ The OA had 3 coding questions. No question details were given.
 
 <sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iiit-allahabad-placements/2026-10.jsonl#L34)</sub>
 
-## 2026-10-25 · IIT Hyderabad · FTE
-
-### Q1. InfoEdge OA pattern
-
-40 MCQs covering maths + stats, ML, DL, SQL and Python.
-
-<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L98), [chat, 25 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L99)</sub>
-
 ## 2026-10-25 · IIT Guwahati · FTE
 
 ### Q1. InfoEdge OA pattern
@@ -108,17 +78,11 @@ MCQs based on ML, DL, aptitude, data interpretation, and coding.
 
 <sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L139)</sub>
 
-### Q2. InfoEdge OA format and topics
-
-40 MCQs divided into 4 sections (10 questions each). Everyone got a different set of questions. The poster's set had questions from Linear Algebra, ML, DL and Programming. Difficulty was easy to medium, with some questions quite theoretical and conceptual. Total time limit: 1 hour.
-
-<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-dharwad-placements/2026-10.jsonl#L18)</sub>
-
-### Q3. InfoEdge OA format
+### Q2. InfoEdge OA format
 
 Total time 1 hour. 40 MCQs divided into 4 sections of 10 questions each; candidates got different sets. Topics: Linear Algebra, ML, DL and Programming. Easy to medium difficulty, some theoretical and conceptual.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L141), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L142)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L141), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L142) · Also asked at: IIT Hyderabad (2026-10-25), IIT Guwahati ×2 (last 2026-10-26)</sub>
 
 ## 2026-10-22 · IIT Roorkee · FTE
 
@@ -126,15 +90,7 @@ Total time 1 hour. 40 MCQs divided into 4 sections of 10 questions each; candida
 
 InfoEdge OA was MCQ only: 40 MCQs on statistics, machine learning and deep learning core concepts. Difficulty easy to medium. Some basic questions on AI agents were also asked.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L766), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L767), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L772), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L774)</sub>
-
-## 2026-10-22 · IIT BHU · FTE
-
-### Q1. InfoEdge OA format: ML/DL MCQs
-
-40 MCQs based on ML and DL core concepts. Level was not that hard; some questions on AI agents, solvable with basic understanding.
-
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L231)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L766), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L767), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L772), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L774) · Also asked at: IIT BHU (2026-10-22), IIT Hyderabad (2026-10-25), IIT Guwahati (2026-10-29)</sub>
 
 ## 2026-10-05 · IIT Guwahati · FTE
 

@@ -1,9 +1,9 @@
 # Accelequant
 
-**15 questions** · 3 drives · latest 21 Oct 2026 · [8 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 2 drives · latest 21 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [DP](../topics/dp.md) 4 · [Greedy](../topics/greedy.md) 4 · [Heaps](../topics/heaps.md) 3 · [Math](../topics/math.md) 3 · [Aptitude](../topics/aptitude.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Hashing](../topics/hashing.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · +2 more  
-**Seen at:** BITS Pilani, IIT Delhi, IIT Indore
+**Asks about:** [Math](../topics/math.md) 3 · [Aptitude](../topics/aptitude.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [OA Format](../topics/oa-format.md) 2 · [DP](../topics/dp.md) 1 · [Arrays](../topics/arrays.md) 1 · [Greedy](../topics/greedy.md) 1 · [Heaps](../topics/heaps.md) 1 · +2 more  
+**Seen at:** BITS Pilani, IIT Indore, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -15,17 +15,9 @@
   - [Probability MCQs (Bayes' theorem, circular bead arrangement)](#q4-probability-mcqs-bayes-theorem-circular-bead-arrangement)
   - [Quantum Computing MCQs](#q5-quantum-computing-mcqs)
   - [Python pseudocode output MCQs](#q6-python-pseudocode-output-mcqs)
-  - [Cherry Pickup II](#q7-cherry-pickup-ii)
-  - [Task Scheduler](#q8-task-scheduler)
-  - [Aptitude, Python output and physics MCQs](#q9-aptitude-python-output-and-physics-mcqs)
-- [2026-10-20 · IIT Indore · FTE](#2026-10-20--iit-indore--fte)
-  - [Cherry Pickup II](#q1-cherry-pickup-ii)
-  - [Task Scheduler](#q2-task-scheduler)
-  - [Accelequant MCQ section](#q3-accelequant-mcq-section)
-- [2026-10-16 · IIT Delhi · Intern](#2026-10-16--iit-delhi--intern)
+  - [Aptitude, Python output and physics MCQs](#q7-aptitude-python-output-and-physics-mcqs)
+- [2026-10-14 · MNNIT Allahabad · FTE](#2026-10-14--mnnit-allahabad--fte)
   - [Accelequant OA format](#q1-accelequant-oa-format)
-  - [Cherry Pickup II](#q2-cherry-pickup-ii)
-  - [Task Scheduler](#q3-task-scheduler)
 
 </details>
 
@@ -37,13 +29,13 @@
 
 LeetCode Cherry Pickup II: You are given a rows x cols matrix grid where grid[i][j] is the number of cherries in cell (i, j). Robot #1 starts at (0, 0) and Robot #2 starts at (0, cols-1). From cell (i, j) a robot can move to (i+1, j-1), (i+1, j) or (i+1, j+1). A robot picks up all cherries in each cell it passes; if both robots are in the same cell, only one of them takes the cherries. Robots cannot move outside the grid, and both must reach the bottom row. Return the maximum total number of cherries the two robots can collect. Constraints: 2 &lt;= rows, cols &lt;= 70, 0 &lt;= grid[i][j] &lt;= 100.
 
-<sub>Topics: DP, Arrays · Similar: [LeetCode 1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) (Hard) · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1818) · Also asked at: BITS Pilani (2026-10-21)</sub>
+<sub>Topics: DP, Arrays · Similar: [LeetCode 1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) (Hard) · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1818) · Also asked at: BITS Pilani (2026-10-21), IIT Indore ×3 (last 2026-10-21)</sub>
 
 ### Q2. Task Scheduler (LeetCode 621)
 
 LeetCode Task Scheduler: You are given an array of CPU tasks, each labeled with a letter A to Z, and a cooling interval n. Each CPU interval can either run one task or be idle. Two tasks with the same label must be at least n intervals apart. Return the minimum number of CPU intervals needed to finish all tasks. Example: tasks = ["A","A","A","B","B","B"], n = 2 -> 8 (A -> B -> idle -> A -> B -> idle -> A -> B). Constraints: 1 &lt;= tasks.length &lt;= 10^4, 0 &lt;= n &lt;= 100.
 
-<sub>Topics: Greedy, Heaps, Hashing · Similar: [LeetCode 621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) (Medium) · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1818) · Also asked at: BITS Pilani (2026-10-21)</sub>
+<sub>Topics: Greedy, Heaps, Hashing · Similar: [LeetCode 621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) (Medium) · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1818) · Also asked at: BITS Pilani (2026-10-21), IIT Indore ×3 (last 2026-10-21)</sub>
 
 ### Q3. Linear Algebra MCQs (A^2 = I)
 
@@ -69,62 +61,16 @@ Python MCQs based on pseudocode: find the output of the given code or explain wh
 
 <sub>Topics: Code Output (C/C++/Java/Python) · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1818) · Also asked at: BITS Pilani (2026-10-21)</sub>
 
-### Q7. Cherry Pickup II
-
-DSA question 1 (2 hours, 22 questions in total): LeetCode "Cherry Pickup II" (https://leetcode.com/problems/cherry-pickup-ii/description/).
-
-<sub>Topics: DP · Similar: [LeetCode 1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) (Hard) · Source: [chat, 21 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L217)</sub>
-
-### Q8. Task Scheduler
-
-DSA question 2: LeetCode "Task Scheduler" (https://leetcode.com/problems/task-scheduler/description/).
-
-<sub>Topics: Greedy, Heaps · Similar: [LeetCode 621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) (Medium) · Source: [chat, 21 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L217)</sub>
-
-### Q9. Aptitude, Python output and physics MCQs
+### Q7. Aptitude, Python output and physics MCQs
 
 20 MCQs: aptitude questions related to probability and permutations & combinations, some Python code output prediction questions, and around 5 quantum physics questions. Exact questions were not shared.
 
-<sub>Topics: OA Format, Aptitude, Code Output (C/C++/Java/Python) · Source: [chat, 21 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L217)</sub>
+<sub>Topics: OA Format, Aptitude, Code Output (C/C++/Java/Python) · Source: [chat, 21 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L217) · Also asked at: IIT Indore (2026-10-20)</sub>
 
-## 2026-10-20 · IIT Indore · FTE
-
-### Q1. Cherry Pickup II
-
-DSA question 1 (2 hours total, 22 questions in the test): LeetCode Cherry Pickup II.
-
-<sub>Topics: DP · Similar: [LeetCode 1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) (Hard) · Source: [chat, 20 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L59)</sub>
-
-### Q2. Task Scheduler
-
-DSA question 2: LeetCode Task Scheduler.
-
-<sub>Topics: Greedy, Heaps · Similar: [LeetCode 621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) (Medium) · Source: [chat, 20 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L59)</sub>
-
-### Q3. Accelequant MCQ section
-
-20 MCQs: aptitude questions related to probability and PnC, some Python code output prediction questions, and about 5 quantum physics related questions.
-
-<sub>Topics: OA Format, Aptitude · Source: [chat, 20 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L59)</sub>
-
-## 2026-10-16 · IIT Delhi · Intern
+## 2026-10-14 · MNNIT Allahabad · FTE
 
 ### Q1. Accelequant OA format
 
-2 hours, 22 questions.
+The OA had DSA questions and MCQs covering various CS fundamentals and some Agentic AI questions. No specific questions were shared.
 
-MCQs (20 questions): aptitude questions on probability and PnC, some Python code output prediction questions, and around 5 quantum physics related questions.
-
-<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/intern-2028/2026-10.jsonl#L164)</sub>
-
-### Q2. Cherry Pickup II
-
-DSA question 1: LeetCode Cherry Pickup II (problem statement not given in the message).
-
-<sub>Topics: DP · Similar: [LeetCode 1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) (Hard) · Source: [chat, 16 Oct](../archive/intern-2028/2026-10.jsonl#L164)</sub>
-
-### Q3. Task Scheduler
-
-DSA question 2: LeetCode Task Scheduler (problem statement not given in the message).
-
-<sub>Topics: Greedy, Hashing · Similar: [LeetCode 621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) (Medium) · Source: [chat, 16 Oct](../archive/intern-2028/2026-10.jsonl#L164)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L278), [chat, 14 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L279)</sub>

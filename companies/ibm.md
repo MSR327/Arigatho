@@ -1,21 +1,30 @@
 # IBM
 
-**17 questions** · 11 drives · latest 28 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 13 drives · latest 29 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 3 · [Software Engineering](../topics/software-engineering.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · +2 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 3 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · +2 more  
 **Seen at:** IIIT Kottayam, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-29 · IIT Guwahati · FTE](#2026-10-29--iit-guwahati--fte)
+  - [Basic easy DSA question](#q1-basic-easy-dsa-question)
 - [2026-10-28 · MNNIT Allahabad · FTE](#2026-10-28--mnnit-allahabad--fte)
   - [Easy-medium DSA question](#q1-easy-medium-dsa-question)
   - [Promo code validation backend fix](#q2-promo-code-validation-backend-fix)
   - [Frameworks allowed for the web-dev question](#q3-frameworks-allowed-for-the-web-dev-question)
+- [2026-10-28 · IIT Kanpur · FTE · Interview](#2026-10-28--iit-kanpur--fte--interview)
+  - [Interpreting data for others](#q1-interpreting-data-for-others)
+  - [Guiding people through a challenging task](#q2-guiding-people-through-a-challenging-task)
+  - [Managing a project start to finish](#q3-managing-a-project-start-to-finish)
+  - [Reorganizing plans on short notice](#q4-reorganizing-plans-on-short-notice)
 - [2026-10-28 · IIT Guwahati · FTE · Interview](#2026-10-28--iit-guwahati--fte--interview)
   - [IBM recorded competency interview format](#q1-ibm-recorded-competency-interview-format)
 - [2026-10-27 · IIT Kanpur · FTE · Hardware](#2026-10-27--iit-kanpur--fte--hardware)
   - [IBM hardware role test pattern](#q1-ibm-hardware-role-test-pattern)
+- [2026-10-27 · IIT Kanpur · FTE · Interview](#2026-10-27--iit-kanpur--fte--interview)
+  - [IBM interview: 4STAR questions](#q1-ibm-interview-4star-questions)
 - [2026-10-27 · IIT Hyderabad · FTE · Software Engineering · Interview](#2026-10-27--iit-hyderabad--fte--software-engineering--interview)
   - [IBM diversity hiring interviews](#q1-ibm-diversity-hiring-interviews)
 - [2026-10-24 · IIT Kharagpur/Kanpur · FTE · Software Engineer / Software Developer](#2026-10-24--iit-kharagpurkanpur--fte--software-engineer--software-developer)
@@ -25,8 +34,6 @@
 - [2026-10-24 · IIT Kanpur · FTE · Software Engineer (SWE)](#2026-10-24--iit-kanpur--fte--software-engineer-swe)
   - [Easy DSA question](#q1-easy-dsa-question)
   - [Codebase understanding and feature implementation (web dev)](#q2-codebase-understanding-and-feature-implementation-web-dev)
-- [2026-10-22 · IIT Guwahati · FTE](#2026-10-22--iit-guwahati--fte)
-  - [IBM OA pattern](#q1-ibm-oa-pattern)
 - [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte)
   - [OA pattern: 3 LeetCode hard + 20 OOPs/DBMS MCQs](#q1-oa-pattern-3-leetcode-hard--20-oopsdbms-mcqs)
 - [2026-10-21 · MNNIT Allahabad · FTE · Software](#2026-10-21--mnnit-allahabad--fte--software)
@@ -40,6 +47,14 @@
 </details>
 
 ---
+
+## 2026-10-29 · IIT Guwahati · FTE
+
+### Q1. Basic easy DSA question
+
+One basic, very easy DSA question. Statement not given.
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2809)</sub>
 
 ## 2026-10-28 · MNNIT Allahabad · FTE
 
@@ -61,6 +76,32 @@ Allowed frameworks for the backend/web-dev question: Node.js, Spring (Java), Dja
 
 <sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L27), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L46), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L48)</sub>
 
+## 2026-10-28 · IIT Kanpur · FTE · Interview
+
+### Q1. Interpreting data for others
+
+Can you give an example of when you had to interpret data or information for others? How did you communicate your findings and ensure they were understood?
+
+<sub>Topics: HR & Behavioral · Source: [chat, 28 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L34)</sub>
+
+### Q2. Guiding people through a challenging task
+
+Can you share an experience where you guided, directed, or motivated people to accomplish a challenging project or task? What techniques did you use to encourage effective teamwork?
+
+<sub>Topics: HR & Behavioral · Source: [chat, 28 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L34)</sub>
+
+### Q3. Managing a project start to finish
+
+Can you share an example of a project you managed from start to finish? How did you plan, prioritize, and coordinate the project, and what challenges did you face along the way?
+
+<sub>Topics: HR & Behavioral · Source: [chat, 28 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L34)</sub>
+
+### Q4. Reorganizing plans on short notice
+
+Tell me about a time when you had to quickly reorganize your plans or priorities due to unforeseen circumstances. How did you manage the change?
+
+<sub>Topics: HR & Behavioral · Source: [chat, 28 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L34)</sub>
+
 ## 2026-10-28 · IIT Guwahati · FTE · Interview
 
 ### Q1. IBM recorded competency interview format
@@ -76,6 +117,14 @@ AI-based recorded interview: you get 1 minute to prepare for each question and t
 The test had MCQs, a Verilog coding question and a Python coding question.
 
 <sub>Topics: OA Format, Digital Electronics · Source: [chat, 27 Oct](../archive/ibm-oa/2026-10.jsonl#L42)</sub>
+
+## 2026-10-27 · IIT Kanpur · FTE · Interview
+
+### Q1. IBM interview: 4STAR questions
+
+The interview was not pre-recorded in their case. They asked 4STAR (behavioral) questions that had to be written in the chat. The specific questions were not shared.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 27 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L13)</sub>
 
 ## 2026-10-27 · IIT Hyderabad · FTE · Software Engineering · Interview
 
@@ -97,13 +146,13 @@ You have an array of numbers and must convert it into an array consisting of a s
 
 Given an entire codebase, API documentation, architecture and a task description, the task was to fix the validation logic of one API route so that 8 test cases pass. The poster found it easy with hands-on backend experience. No AI-assisted coding was allowed.
 
-<sub>Topics: Web Dev, Software Engineering · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31)</sub>
+<sub>Topics: Web Dev, Software Engineering · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: MNNIT Allahabad (2026-10-25)</sub>
 
 ### Q3. IBM SWE OA format (HackerRank)
 
 2 questions on HackerRank: one easy (LeetCode-easy level) DSA question and one codebase-understanding and feature/bug-fix implementation question for web development. Same common test for both software engineer and software developer roles. Everything had to be done manually, with no AI assistance.
 
-<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31)</sub>
+<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: IIT Guwahati ×2 (last 2026-10-29)</sub>
 
 ## 2026-10-24 · IIT Kanpur · FTE · Software Engineer (SWE)
 
@@ -119,21 +168,13 @@ One question where you must understand a complete codebase and implement feature
 
 <sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L13)</sub>
 
-## 2026-10-22 · IIT Guwahati · FTE
-
-### Q1. IBM OA pattern
-
-3 DSA questions (hard) and 20 MCQs on OOPS, DBMS and CN.
-
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L235)</sub>
-
 ## 2026-10-22 · IIT BHU · FTE
 
 ### Q1. OA pattern: 3 LeetCode hard + 20 OOPs/DBMS MCQs
 
 IBM OA pattern for Software Developer / Software Engineer / Hardware Engineer roles: 3 LeetCode-hard coding questions and 20 MCQs on OOPs and DBMS.
 
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L778)</sub>
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L778) · Also asked at: IIT Guwahati (2026-10-22)</sub>
 
 ## 2026-10-21 · MNNIT Allahabad · FTE · Software
 

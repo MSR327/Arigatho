@@ -2,16 +2,16 @@
 
 **10 questions** · 10 drives · latest 27 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Aptitude](../topics/aptitude.md) 1  
-**Seen at:** IIT Guwahati, MNIT Jaipur, MNNIT Allahabad, Manipal, NIT Silchar, NIT Trichy, VNIT Nagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Aptitude](../topics/aptitude.md) 1 · [OOP](../topics/oop.md) 1  
+**Seen at:** IIT Guwahati, IIT Hyderabad, MNIT Jaipur, MNNIT Allahabad, Manipal, NIT Silchar, NIT Trichy, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-10-27 · VNIT Nagpur · FTE](#2026-10-27--vnit-nagpur--fte)
   - [ICICI Lombard OA pattern](#q1-icici-lombard-oa-pattern)
-- [2026-10-22 · VNIT Nagpur · Intern · Data Science](#2026-10-22--vnit-nagpur--intern--data-science)
-  - [ICICI data science intern OA format](#q1-icici-data-science-intern-oa-format)
+- [2026-10-20 · IIT Hyderabad · FTE](#2026-10-20--iit-hyderabad--fte)
+  - [ICICI Bank OA difficulty and topics](#q1-icici-bank-oa-difficulty-and-topics)
 - [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte)
   - [OA topics: CS fundamentals, DSA, ML, Cloud](#q1-oa-topics-cs-fundamentals-dsa-ml-cloud)
 - [2026-10-16 · VNIT Nagpur · FTE](#2026-10-16--vnit-nagpur--fte)
@@ -41,13 +41,13 @@ Mainly aptitude questions and coding MCQs. There were SQL query related MCQs; th
 
 <sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/icici-oa/2026-10.jsonl#L47), [chat, 27 Oct](../archive/icici-oa/2026-10.jsonl#L50)</sub>
 
-## 2026-10-22 · VNIT Nagpur · Intern · Data Science
+## 2026-10-20 · IIT Hyderabad · FTE
 
-### Q1. ICICI data science intern OA format
+### Q1. ICICI Bank OA difficulty and topics
 
-Technical MCQs based on code snippets, plus some aptitude questions.
+Described as very easy: basic coding syntax and OOPs are enough.
 
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/icici-oa/2026-10.jsonl#L32)</sub>
+<sub>Topics: OA Format, OOP · Source: [chat, 20 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L187)</sub>
 
 ## 2026-10-18 · IIT Guwahati · FTE
 

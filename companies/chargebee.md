@@ -1,15 +1,13 @@
 # Chargebee
 
-**10 questions** · 5 drives · latest 22 Sep 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 4 drives · latest 22 Sep 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Software Engineering](../topics/software-engineering.md) 3 · [SQL](../topics/sql.md) 2 · [Hashing](../topics/hashing.md) 2 · [Math](../topics/math.md) 2 · [Web Dev](../topics/web-dev.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Strings](../topics/strings.md) 1 · +6 more  
+**Asks about:** [Software Engineering](../topics/software-engineering.md) 3 · [OA Format](../topics/oa-format.md) 2 · [SQL](../topics/sql.md) 2 · [Hashing](../topics/hashing.md) 2 · [Math](../topics/math.md) 2 · [Web Dev](../topics/web-dev.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Strings](../topics/strings.md) 1 · +6 more  
 **Seen at:** VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-09-22 · VIT Vellore · FTE · SDE-1](#2026-09-22--vit-vellore--fte--sde-1)
-  - [Chargebee SDE-1 OA pattern](#q1-chargebee-sde-1-oa-pattern)
 - [2026-09-21 · Unknown · FTE · SDE-1](#2026-09-21--unknown--fte--sde-1)
   - [SDE-1 OA format: 90-minute assessment](#q1-sde-1-oa-format-90-minute-assessment)
 - [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview)
@@ -28,16 +26,6 @@
 
 ---
 
-## 2026-09-22 · VIT Vellore · FTE · SDE-1
-
-### Q1. Chargebee SDE-1 OA pattern
-
-Chargebee SDE-1 OA (from an interview experience): 5 MCQs + 2 coding questions + 2 DB (SQL) questions, 90 minutes in total.
-
-Individual questions were not given.
-
-<sub>Topics: OA Format · Source: [chat, 22 Sep](../archive/chargebee-oa/2026-09.jsonl#L5)</sub>
-
 ## 2026-09-21 · Unknown · FTE · SDE-1
 
 ### Q1. SDE-1 OA format: 90-minute assessment
@@ -46,7 +34,7 @@ A 90-minute assessment with five MCQs, two coding tasks and two database tasks.
 
 The individual questions are not given.
 
-<sub>Topics: OA Format · Source: [chat, 21 Sep](../archive/chargebee-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: OA Format · Source: [chat, 21 Sep](../archive/chargebee-oa/2026-09.jsonl#L1) · Also asked at: VIT Vellore (2026-09-22)</sub>
 
 ## 2026-09-21 · Unknown · FTE · SDE-1 · Interview
 

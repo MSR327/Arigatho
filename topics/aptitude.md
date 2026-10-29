@@ -1,20 +1,13 @@
 # Aptitude
 
-260 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+154 questions from 19 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Boat and stream round trip distance](../companies/eternal-zomato.md#q2-boat-and-stream-round-trip-distance) |
-| 2026-10-28 | [Nvidia](../companies/nvidia.md) | NIT Meghalaya | [Smallest k making abcabc * 7007^k a perfect cube](../companies/nvidia.md#q1-smallest-k-making-abcabc--7007k-a-perfect-cube) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [Data Science track MCQ pattern](../companies/american-express.md#q4-data-science-track-mcq-pattern) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - LR/DI section](../companies/american-express.md#q2-amex-ds--analytics---lrdi-section) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - Numerical Ability section](../companies/american-express.md#q1-amex-ds--analytics---numerical-ability-section) |
-| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Probability it snowed given father's claim](../companies/eternal-zomato.md#q6-probability-it-snowed-given-fathers-claim) |
-| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Cube with red and blue faces cut into 729 cubes](../companies/eternal-zomato.md#q5-cube-with-red-and-blue-faces-cut-into-729-cubes) |
-| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Normal distribution probability above 55](../companies/eternal-zomato.md#q4-normal-distribution-probability-above-55) |
-| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Highest power of 24 dividing 150!](../companies/eternal-zomato.md#q3-highest-power-of-24-dividing-150) |
-| 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Binomial mean and variance of archer's hits](../companies/eternal-zomato.md#q2-binomial-mean-and-variance-of-archers-hits) |
-| 2026-10-27 | [KPMG](../companies/kpmg.md) | VNIT Nagpur | [KPMG AI intern OA format](../companies/kpmg.md#q1-kpmg-ai-intern-oa-format) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Surface area of a cube with a square tunnel](../companies/deloitte.md#q19-surface-area-of-a-cube-with-a-square-tunnel) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Profit percentage: 23 articles bought for ₹8, sold for ₹10](../companies/deloitte.md#q18-profit-percentage-23-articles-bought-for-8-sold-for-10) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Two circles with radii ratio 5:3 and tangent from P](../companies/deloitte.md#q17-two-circles-with-radii-ratio-53-and-tangent-from-p) |
@@ -36,9 +29,8 @@
 | 2026-10-22 | [Slice](../companies/slice.md) | MNNIT Allahabad | [Aptitude MCQs (finance/business and probability)](../companies/slice.md#q1-aptitude-mcqs-financebusiness-and-probability) |
 | 2026-10-22 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [Four people ordering statements](../companies/alight-solutions.md#q5-four-people-ordering-statements) |
 | 2026-10-22 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [Die with flowers: incorrect opposite pairs](../companies/alight-solutions.md#q4-die-with-flowers-incorrect-opposite-pairs) |
-| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Aptitude, Python output and physics MCQs](../companies/accelequant.md#q9-aptitude-python-output-and-physics-mcqs) |
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Aptitude, Python output and physics MCQs](../companies/accelequant.md#q7-aptitude-python-output-and-physics-mcqs) |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Probability MCQs (Bayes' theorem, circular bead arrangement)](../companies/accelequant.md#q4-probability-mcqs-bayes-theorem-circular-bead-arrangement) |
-| 2026-10-20 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Accelequant MCQ section](../companies/accelequant.md#q3-accelequant-mcq-section) |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Speed Math: (45.6)^2 − (44.4)^2](../companies/futures-first.md#q15-speed-math-4562--4442) |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Square root of 12321](../companies/futures-first.md#q14-square-root-of-12321) |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Cricket run rate for 282 runs in 18.3 overs](../companies/futures-first.md#q13-cricket-run-rate-for-282-runs-in-183-overs) |
@@ -54,11 +46,6 @@
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Simple interest on ₹75,000 at 8.75% for 2.5 years](../companies/futures-first.md#q3-simple-interest-on-75000-at-875-for-25-years) |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Speed Math: 8750 ÷ 3.5 + 6250 ÷ 2.5](../companies/futures-first.md#q2-speed-math-8750--35--6250--25) |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Speed Math: 88888 + 8888 + 888 + 88 + 8](../companies/futures-first.md#q1-speed-math-88888--8888--888--88--8) |
-| 2026-10-17 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Probability it snowed given father's claim](../companies/eternal-zomato.md#q6-probability-it-snowed-given-fathers-claim-1) |
-| 2026-10-17 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Painted cube with red and blue faces](../companies/eternal-zomato.md#q5-painted-cube-with-red-and-blue-faces) |
-| 2026-10-17 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Probability of sample mean greater than 55](../companies/eternal-zomato.md#q4-probability-of-sample-mean-greater-than-55) |
-| 2026-10-17 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Highest power of 24 dividing 150!](../companies/eternal-zomato.md#q3-highest-power-of-24-dividing-150-1) |
-| 2026-10-17 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Mean and variance of archer's successful attempts](../companies/eternal-zomato.md#q2-mean-and-variance-of-archers-successful-attempts) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Next term 91, 131, 99, 147, 126, 228, 190, 484, 315](../companies/reliance.md#q88-next-term-91-131-99-147-126-228-190-484-315) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Second word in reverse dictionary order](../companies/reliance.md#q87-second-word-in-reverse-dictionary-order) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Kajal's relation to Ashutosh](../companies/reliance.md#q86-kajals-relation-to-ashutosh) |
@@ -98,28 +85,29 @@
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Jonita final direction](../companies/reliance.md#q38-jonita-final-direction) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Reliability of shaft on two bearings](../companies/reliance.md#q28-reliability-of-shaft-on-two-bearings) |
 | 2026-10-16 | [ICICI](../companies/icici.md) | VNIT Nagpur | [ICICI OA aptitude only](../companies/icici.md#q1-icici-oa-aptitude-only) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Madras | [Number series and patterns](../companies/futures-first.md#q3-number-series-and-patterns) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Madras | [Figure and pattern recognition](../companies/futures-first.md#q2-figure-and-pattern-recognition) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Madras | [Line graph data interpretation](../companies/futures-first.md#q1-line-graph-data-interpretation) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Logical reasoning: pizza toppings circular seating](../companies/rystad-energy.md#q25-logical-reasoning-pizza-toppings-circular-seating) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Logical reasoning: missing figure in series](../companies/rystad-energy.md#q24-logical-reasoning-missing-figure-in-series) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [DI: Yahoo/Gmail/Rediffmail Venn diagram](../companies/rystad-energy.md#q22-di-yahoogmailrediffmail-venn-diagram) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [DI: years with ≥25% revenue growth for PQR](../companies/rystad-energy.md#q21-di-years-with-25-revenue-growth-for-pqr) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [DI: BSF share of Indian Defence Service joiners](../companies/rystad-energy.md#q20-di-bsf-share-of-indian-defence-service-joiners) |
-| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Line graph: increase in votes for C to change ratio](../companies/futures-first.md#q11-line-graph-increase-in-votes-for-c-to-change-ratio) |
-| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Line graph: ratio of percentage declines B vs C](../companies/futures-first.md#q10-line-graph-ratio-of-percentage-declines-b-vs-c) |
-| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Line graph: votes for A and C vs B and D](../companies/futures-first.md#q9-line-graph-votes-for-a-and-c-vs-b-and-d) |
-| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: increasing-count positions](../companies/futures-first.md#q8-queue-of-researchers-increasing-count-positions) |
-| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: in front of second-highest](../companies/futures-first.md#q7-queue-of-researchers-in-front-of-second-highest) |
-| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: how many submitted more than Aarav](../companies/futures-first.md#q6-queue-of-researchers-how-many-submitted-more-than-aarav) |
-| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: highest reports](../companies/futures-first.md#q5-queue-of-researchers-highest-reports) |
-| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Number series 162, 149, 123, 118, 84, 71](../companies/futures-first.md#q4-number-series-162-149-123-118-84-71) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Line graph: increase in votes for C to change ratio](../companies/futures-first.md#q9-line-graph-increase-in-votes-for-c-to-change-ratio) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Line graph: ratio of percentage declines B vs C](../companies/futures-first.md#q8-line-graph-ratio-of-percentage-declines-b-vs-c) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Line graph: votes for A and C vs B and D](../companies/futures-first.md#q7-line-graph-votes-for-a-and-c-vs-b-and-d) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: increasing-count positions](../companies/futures-first.md#q6-queue-of-researchers-increasing-count-positions) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: in front of second-highest](../companies/futures-first.md#q5-queue-of-researchers-in-front-of-second-highest) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: how many submitted more than Aarav](../companies/futures-first.md#q4-queue-of-researchers-how-many-submitted-more-than-aarav) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Number series 162, 149, 123, 118, 84, 71](../companies/futures-first.md#q3-number-series-162-149-123-118-84-71) |
 | 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Number puzzle in connected boxes](../companies/axxela.md#q6-number-puzzle-in-connected-boxes) |
 | 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Complete the figure series (grid with dots and squares)](../companies/axxela.md#q5-complete-the-figure-series-grid-with-dots-and-squares) |
 | 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Count the rectangles in the figure](../companies/axxela.md#q4-count-the-rectangles-in-the-figure) |
 | 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Letter coding: MOBILE to CHARGE](../companies/axxela.md#q3-letter-coding-mobile-to-charge) |
 | 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Distance and direction after walking](../companies/axxela.md#q2-distance-and-direction-after-walking) |
 | 2026-10-14 | [Axxela](../companies/axxela.md) | SVNIT Surat | [Mean of fifteen different natural numbers](../companies/axxela.md#q1-mean-of-fifteen-different-natural-numbers) |
-| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Figure matrix completion](../companies/futures-first.md#q3-figure-matrix-completion) |
-| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Trains crossing two walking persons](../companies/futures-first.md#q2-trains-crossing-two-walking-persons) |
-| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Chord length with points A and B](../companies/futures-first.md#q1-chord-length-with-points-a-and-b) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Figure matrix completion](../companies/futures-first.md#q2-figure-matrix-completion) |
+| 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Trains crossing two walking persons](../companies/futures-first.md#q1-trains-crossing-two-walking-persons) |
 | 2026-10-14 | [NatWest](../companies/natwest.md) | IIT BHU | [Other Sections (Behavioural, Reasoning, SQL MCQ)](../companies/natwest.md#q3-other-sections-behavioural-reasoning-sql-mcq) |
 | 2026-10-14 | [Tredence](../companies/tredence.md) | VNIT Nagpur | [OA and interview process description](../companies/tredence.md#q1-oa-and-interview-process-description) |
 | 2026-10-13 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue positioning: highest reports](../companies/futures-first.md#q6-queue-positioning-highest-reports) |
@@ -135,100 +123,28 @@
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Normal distribution: P(mean > 55)](../companies/eternal-zomato.md#q3-normal-distribution-pmean--55) |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Highest power of 24 dividing 150!](../companies/eternal-zomato.md#q2-highest-power-of-24-dividing-150) |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Binomial distribution: archer mean and variance](../companies/eternal-zomato.md#q1-binomial-distribution-archer-mean-and-variance) |
-| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Symbol coding: GIFT / MUST / TRUE](../companies/qualcomm.md#q33-symbol-coding-gift--must--true) |
-| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Star-operation word coding](../companies/qualcomm.md#q32-star-operation-word-coding) |
-| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Analogy: POCKET : PTOECK :: SILVER : ?](../companies/qualcomm.md#q31-analogy-pocket--ptoeck--silver--) |
-| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Letter coding: HOUSE -> JQWUG](../companies/qualcomm.md#q30-letter-coding-house---jqwug) |
-| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Two students on a circular track](../companies/qualcomm.md#q29-two-students-on-a-circular-track) |
-| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Factory production rate](../companies/qualcomm.md#q23-factory-production-rate) |
-| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Shopkeeper markup and discount](../companies/qualcomm.md#q12-shopkeeper-markup-and-discount) |
-| 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Glucose solution dilution](../companies/qualcomm.md#q1-glucose-solution-dilution) |
-| 2026-10-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Probability that it snowed given father's report](../companies/eternal-zomato.md#q10-probability-that-it-snowed-given-fathers-report) |
-| 2026-10-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Cube with red and blue faces, 729 small cubes](../companies/eternal-zomato.md#q9-cube-with-red-and-blue-faces-729-small-cubes) |
-| 2026-10-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Normal distribution: sample mean greater than 55](../companies/eternal-zomato.md#q8-normal-distribution-sample-mean-greater-than-55) |
-| 2026-10-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Highest power of 24 dividing 150!](../companies/eternal-zomato.md#q7-highest-power-of-24-dividing-150) |
-| 2026-10-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Binomial distribution: archer mean and variance](../companies/eternal-zomato.md#q6-binomial-distribution-archer-mean-and-variance) |
+| 2026-10-12 | [Futures First](../companies/futures-first.md) | IIT Mandi | [Aptitude test topic list](../companies/futures-first.md#q1-aptitude-test-topic-list) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Estimate total functional two-wheelers in India](../companies/sedemac.md#q24-estimate-total-functional-two-wheelers-in-india) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Average matches played per player in one hour of court](../companies/sedemac.md#q21-average-matches-played-per-player-in-one-hour-of-court) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Unique doubles badminton matches with 7 players](../companies/sedemac.md#q20-unique-doubles-badminton-matches-with-7-players) |
 | 2026-10-10 | [Finmechanics](../companies/finmechanics.md) | IIT Kharagpur/Kanpur | [Maths and logic section (probability)](../companies/finmechanics.md#q1-maths-and-logic-section-probability) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Streaming plans subscribers](../companies/texas-instruments.md#q21-streaming-plans-subscribers) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Number arrangement machine](../companies/texas-instruments.md#q20-number-arrangement-machine) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Day of week after 15 days](../companies/texas-instruments.md#q19-day-of-week-after-15-days) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Five friends piggy bank savings](../companies/texas-instruments.md#q18-five-friends-piggy-bank-savings) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Letter pairs in PRECISE](../companies/texas-instruments.md#q17-letter-pairs-in-precise) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Teachers in schools](../companies/texas-instruments.md#q16-teachers-in-schools) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Marathon runners finishing order](../companies/texas-instruments.md#q15-marathon-runners-finishing-order) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Seating arrangement in a row](../companies/texas-instruments.md#q13-seating-arrangement-in-a-row) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Photograph blood relation](../companies/texas-instruments.md#q12-photograph-blood-relation) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Alphanumeric sequence completion](../companies/texas-instruments.md#q11-alphanumeric-sequence-completion-1) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Two dice sum is 5](../companies/texas-instruments.md#q10-two-dice-sum-is-5-1) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Speeds of A, B, C, D](../companies/texas-instruments.md#q9-speeds-of-a-b-c-d-2) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Painter average daily earnings](../companies/texas-instruments.md#q8-painter-average-daily-earnings-2) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Football players team selection](../companies/texas-instruments.md#q7-football-players-team-selection-1) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Queue of doctors](../companies/texas-instruments.md#q6-queue-of-doctors) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Probability three books together](../companies/texas-instruments.md#q5-probability-three-books-together-1) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Number of triangles in grid figure](../companies/texas-instruments.md#q4-number-of-triangles-in-grid-figure) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Event schedule with slots](../companies/texas-instruments.md#q3-event-schedule-with-slots) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Three men building a wall](../companies/texas-instruments.md#q2-three-men-building-a-wall) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Pens on a shelf ordering](../companies/texas-instruments.md#q1-pens-on-a-shelf-ordering-1) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Streaming plans subscribers](../companies/texas-instruments.md#q117-streaming-plans-subscribers) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Number arrangement machine Step V](../companies/texas-instruments.md#q116-number-arrangement-machine-step-v) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Day of week after 15 days](../companies/texas-instruments.md#q115-day-of-week-after-15-days) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Five friends piggy bank savings](../companies/texas-instruments.md#q114-five-friends-piggy-bank-savings) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Letter pairs in PRECISE](../companies/texas-instruments.md#q105-letter-pairs-in-precise) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Five teachers in four schools](../companies/texas-instruments.md#q94-five-teachers-in-four-schools) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Marathon runners finishing order](../companies/texas-instruments.md#q83-marathon-runners-finishing-order) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Seating arrangement of six in a row](../companies/texas-instruments.md#q73-seating-arrangement-of-six-in-a-row) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Blood relation from photograph](../companies/texas-instruments.md#q72-blood-relation-from-photograph) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Alphanumeric sequence completion](../companies/texas-instruments.md#q71-alphanumeric-sequence-completion) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Two dice sum is 5](../companies/texas-instruments.md#q70-two-dice-sum-is-5) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Speeds of A, B, C, D](../companies/texas-instruments.md#q69-speeds-of-a-b-c-d) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Painter average daily earnings](../companies/texas-instruments.md#q68-painter-average-daily-earnings) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Football players Phoenix and Devils teams](../companies/texas-instruments.md#q67-football-players-phoenix-and-devils-teams) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Queue of doctors](../companies/texas-instruments.md#q66-queue-of-doctors) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Probability three books together](../companies/texas-instruments.md#q65-probability-three-books-together) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Count triangles in grid with diagonal](../companies/texas-instruments.md#q64-count-triangles-in-grid-with-diagonal) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Event schedule with slot restriction](../companies/texas-instruments.md#q63-event-schedule-with-slot-restriction) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Three men building a wall, minimum time](../companies/texas-instruments.md#q62-three-men-building-a-wall-minimum-time) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Pens on a shelf ordering](../companies/texas-instruments.md#q61-pens-on-a-shelf-ordering) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Streaming plans subscribers](../companies/texas-instruments.md#q60-streaming-plans-subscribers) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Number arrangement machine](../companies/texas-instruments.md#q59-number-arrangement-machine) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Day of week after 15 days](../companies/texas-instruments.md#q58-day-of-week-after-15-days) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Five friends piggy bank savings](../companies/texas-instruments.md#q56-five-friends-piggy-bank-savings) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Letter pairs in PRECISE](../companies/texas-instruments.md#q45-letter-pairs-in-precise) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Five teachers in four schools](../companies/texas-instruments.md#q34-five-teachers-in-four-schools) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Marathon runners finishing order](../companies/texas-instruments.md#q23-marathon-runners-finishing-order) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Six people sitting in a row](../companies/texas-instruments.md#q13-six-people-sitting-in-a-row) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Blood relation from photograph](../companies/texas-instruments.md#q12-blood-relation-from-photograph) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Alphanumeric sequence completion](../companies/texas-instruments.md#q11-alphanumeric-sequence-completion) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Two dice sum is 5](../companies/texas-instruments.md#q10-two-dice-sum-is-5) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Speeds of A, B, C, D](../companies/texas-instruments.md#q9-speeds-of-a-b-c-d) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Painter average daily earnings](../companies/texas-instruments.md#q8-painter-average-daily-earnings) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Football players team selection](../companies/texas-instruments.md#q7-football-players-team-selection) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Doctors in a queue](../companies/texas-instruments.md#q6-doctors-in-a-queue) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Probability three books together](../companies/texas-instruments.md#q5-probability-three-books-together) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Count triangles in grid with diagonal](../companies/texas-instruments.md#q4-count-triangles-in-grid-with-diagonal) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Event schedule with slot restriction](../companies/texas-instruments.md#q3-event-schedule-with-slot-restriction) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Minimum time to build wall with pairs](../companies/texas-instruments.md#q2-minimum-time-to-build-wall-with-pairs) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Pens on a shelf ordering](../companies/texas-instruments.md#q1-pens-on-a-shelf-ordering) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Streaming plan subscribers](../companies/texas-instruments.md#q60-streaming-plan-subscribers) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Number arrangement machine](../companies/texas-instruments.md#q59-number-arrangement-machine-1) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Day of week after 15 days](../companies/texas-instruments.md#q58-day-of-week-after-15-days-1) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Number arrangement machine](../companies/texas-instruments.md#q59-number-arrangement-machine) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Day of week after 15 days](../companies/texas-instruments.md#q58-day-of-week-after-15-days) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Piggy bank savings of five friends](../companies/texas-instruments.md#q56-piggy-bank-savings-of-five-friends) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Letter pairs in PRECISE](../companies/texas-instruments.md#q45-letter-pairs-in-precise-1) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Letter pairs in PRECISE](../companies/texas-instruments.md#q45-letter-pairs-in-precise) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Teachers in schools](../companies/texas-instruments.md#q34-teachers-in-schools) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Marathon finishing order](../companies/texas-instruments.md#q23-marathon-finishing-order) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Seating in a row](../companies/texas-instruments.md#q13-seating-in-a-row) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Blood relation - photograph (Rita)](../companies/texas-instruments.md#q12-blood-relation---photograph-rita) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Alphanumeric sequence](../companies/texas-instruments.md#q11-alphanumeric-sequence) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Two dice sum 5](../companies/texas-instruments.md#q10-two-dice-sum-5) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Speeds of A, B, C, D](../companies/texas-instruments.md#q9-speeds-of-a-b-c-d-1) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Painter average daily earnings](../companies/texas-instruments.md#q8-painter-average-daily-earnings-1) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Speeds of A, B, C, D](../companies/texas-instruments.md#q9-speeds-of-a-b-c-d) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Painter average daily earnings](../companies/texas-instruments.md#q8-painter-average-daily-earnings) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Football team selection (Phoenix/Devils)](../companies/texas-instruments.md#q7-football-team-selection-phoenixdevils) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Doctors in a queue](../companies/texas-instruments.md#q6-doctors-in-a-queue-1) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Doctors in a queue](../companies/texas-instruments.md#q6-doctors-in-a-queue) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Probability 3 books together](../companies/texas-instruments.md#q5-probability-3-books-together) |
-| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Count triangles in grid with diagonal](../companies/texas-instruments.md#q4-count-triangles-in-grid-with-diagonal-1) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Count triangles in grid with diagonal](../companies/texas-instruments.md#q4-count-triangles-in-grid-with-diagonal) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Scheduling club activities in slots](../companies/texas-instruments.md#q3-scheduling-club-activities-in-slots) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Wall construction with pairs of men](../companies/texas-instruments.md#q2-wall-construction-with-pairs-of-men) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Pen arrangement on shelf](../companies/texas-instruments.md#q1-pen-arrangement-on-shelf) |
@@ -236,31 +152,9 @@
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | [HACKER arrangements with vowels together](../companies/eternal-zomato.md#q9-hacker-arrangements-with-vowels-together) |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | [Relative performance using normal distribution](../companies/eternal-zomato.md#q6-relative-performance-using-normal-distribution) |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | [Cube painted green cut into 1000 cubes](../companies/eternal-zomato.md#q1-cube-painted-green-cut-into-1000-cubes) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Difference of squares of decimals](../companies/futures-first.md#q15-difference-of-squares-of-decimals) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Square root of 12321](../companies/futures-first.md#q14-square-root-of-12321-1) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Cricket run rate](../companies/futures-first.md#q13-cricket-run-rate) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Multiply and divide](../companies/futures-first.md#q12-multiply-and-divide) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Percentage of 875](../companies/futures-first.md#q11-percentage-of-875) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Decimal multiplication](../companies/futures-first.md#q10-decimal-multiplication) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Cube equation, find x](../companies/futures-first.md#q9-cube-equation-find-x) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Sum of three numbers](../companies/futures-first.md#q8-sum-of-three-numbers) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Convert USD to INR](../companies/futures-first.md#q7-convert-usd-to-inr) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Cost price after discount and profit](../companies/futures-first.md#q6-cost-price-after-discount-and-profit) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Difference of squares 999 and 998](../companies/futures-first.md#q5-difference-of-squares-999-and-998) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Sum and difference of cubes](../companies/futures-first.md#q4-sum-and-difference-of-cubes) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Simple interest on 75,000](../companies/futures-first.md#q3-simple-interest-on-75000) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Sum of two divisions](../companies/futures-first.md#q2-sum-of-two-divisions) |
-| 2026-10-07 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Sum of repeated 8s](../companies/futures-first.md#q1-sum-of-repeated-8s) |
-| 2026-10-06 | [NatWest](../companies/natwest.md) | IIT Delhi | [SQL basics and logical reasoning](../companies/natwest.md#q5-sql-basics-and-logical-reasoning) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Logical Reasoning: Friday Prime](../companies/infoedge.md#q8-logical-reasoning-friday-prime) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Logical Reasoning: Circle Map (seating)](../companies/infoedge.md#q7-logical-reasoning-circle-map-seating) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Simple interest capital](../companies/infoedge.md#q6-simple-interest-capital) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Petrol replaced by kerosene (mixtures)](../companies/infoedge.md#q2-petrol-replaced-by-kerosene-mixtures) |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Probability it snowed given father's claim](../companies/eternal-zomato.md#q6-probability-it-snowed-given-fathers-claim-2) |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Painted cube with red and blue faces](../companies/eternal-zomato.md#q5-painted-cube-with-red-and-blue-faces-1) |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Probability sample mean exceeds 55 (normal distribution)](../companies/eternal-zomato.md#q4-probability-sample-mean-exceeds-55-normal-distribution) |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Highest power of 24 dividing 150!](../companies/eternal-zomato.md#q3-highest-power-of-24-dividing-150-2) |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Mean and variance of archer's successful attempts](../companies/eternal-zomato.md#q1-mean-and-variance-of-archers-successful-attempts) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Aptitude: linear equations and zeros in 100!](../companies/eternal-zomato.md#q2-aptitude-linear-equations-and-zeros-in-100) |
 | 2026-09-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Aptitude section (Product Analyst)](../companies/eternal-zomato.md#q1-aptitude-section-product-analyst) |
-| 2026-09-24 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Aptitude section format](../companies/eternal-zomato.md#q1-aptitude-section-format) |

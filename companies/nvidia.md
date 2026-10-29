@@ -1,27 +1,15 @@
 # Nvidia
 
-**32 questions** · 13 drives · latest 29 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**21 questions** · 11 drives · latest 28 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 9 · [OA Format](../topics/oa-format.md) 8 · [Math](../topics/math.md) 6 · [Stack/Queue](../topics/stack-queue.md) 5 · [Trees](../topics/trees.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 3 · [Graphs](../topics/graphs.md) 3 · +9 more  
-**Seen at:** IIT BHU, IIT Dhanbad, MNNIT Allahabad, NIT Delhi, NIT Meghalaya, NIT Rourkela, VNIT Nagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Stack/Queue](../topics/stack-queue.md) 5 · [Trees](../topics/trees.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 3 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Math](../topics/math.md) 2 · [Graphs](../topics/graphs.md) 2 · +7 more  
+**Seen at:** IIT Delhi, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, NIT Rourkela, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-29 · NIT Delhi · Intern · HW Intern](#2026-10-29--nit-delhi--intern--hw-intern)
-  - [Smallest k making abcabc × p^k a perfect cube](#q1-smallest-k-making-abcabc--pk-a-perfect-cube)
-  - [Clock buffers and max frequency with jitter](#q2-clock-buffers-and-max-frequency-with-jitter)
-  - [Boolean expression from CMOS stick diagram](#q3-boolean-expression-from-cmos-stick-diagram)
-  - [Output bit width of product of two sums of N-bit numbers](#q4-output-bit-width-of-product-of-two-sums-of-n-bit-numbers)
-  - [Minimum clock cycles between states of D flip-flop circuit](#q5-minimum-clock-cycles-between-states-of-d-flip-flop-circuit)
 - [2026-10-28 · NIT Rourkela · FTE · System Software Engineer](#2026-10-28--nit-rourkela--fte--system-software-engineer)
   - [Maximum Latency Path in a Tree](#q1-maximum-latency-path-in-a-tree)
-- [2026-10-28 · NIT Meghalaya · Intern · Hardware (GPU)](#2026-10-28--nit-meghalaya--intern--hardware-gpu)
-  - [Smallest k making abcabc * 7007^k a perfect cube](#q1-smallest-k-making-abcabc--7007k-a-perfect-cube)
-  - [Clock buffers and max frequency with jitter](#q2-clock-buffers-and-max-frequency-with-jitter-1)
-  - [Boolean expression from CMOS stick diagram](#q3-boolean-expression-from-cmos-stick-diagram-1)
-  - [Output bits for product of two sums of N-bit numbers](#q4-output-bits-for-product-of-two-sums-of-n-bit-numbers)
-  - [Minimum clocks between two states of 4 D flip-flops](#q5-minimum-clocks-between-two-states-of-4-d-flip-flops)
 - [2026-10-28 · MNNIT Allahabad · FTE · System Software Engineer](#2026-10-28--mnnit-allahabad--fte--system-software-engineer)
   - [Nvidia System Software Engineer OA pattern](#q1-nvidia-system-software-engineer-oa-pattern)
 - [2026-10-26 · MNNIT Allahabad · FTE](#2026-10-26--mnnit-allahabad--fte)
@@ -40,91 +28,22 @@
   - [How a stack works in recursion](#q5-how-a-stack-works-in-recursion)
   - [Iterative in-order traversal using a stack](#q6-iterative-in-order-traversal-using-a-stack)
   - [32-bit multiplication on a 16-bit multiplier ALU](#q7-32-bit-multiplication-on-a-16-bit-multiplier-alu)
+- [2026-10-26 · IIT Delhi · FTE · Hardware](#2026-10-26--iit-delhi--fte--hardware)
+  - [Nvidia hardware role OA pattern](#q1-nvidia-hardware-role-oa-pattern)
 - [2026-10-25 · VNIT Nagpur · FTE · System Software](#2026-10-25--vnit-nagpur--fte--system-software)
   - [Nvidia System Software OA: graph and DP questions](#q1-nvidia-system-software-oa-graph-and-dp-questions)
-- [2026-10-25 · IIT Dhanbad · Intern · System Software](#2026-10-25--iit-dhanbad--intern--system-software)
-  - [System Software OA structure](#q1-system-software-oa-structure)
-  - [Max path sum plus max edge in weighted tree](#q2-max-path-sum-plus-max-edge-in-weighted-tree)
+- [2026-10-22 · IIT Guwahati · FTE · Hardware](#2026-10-22--iit-guwahati--fte--hardware)
+  - [Nvidia hardware OA pattern](#q1-nvidia-hardware-oa-pattern)
 - [2026-10-21 · MNNIT Allahabad · FTE · Compiler](#2026-10-21--mnnit-allahabad--fte--compiler)
   - [Message Delivery System (duplicate message filter)](#q1-message-delivery-system-duplicate-message-filter)
 - [2026-10-18 · Unknown · FTE · System Software](#2026-10-18--unknown--fte--system-software)
   - [System Software OA format](#q1-system-software-oa-format)
 - [2026-10-17 · MNNIT Allahabad · FTE · Software Compiler](#2026-10-17--mnnit-allahabad--fte--software-compiler)
   - [Nvidia OA format: 1 coding question and 20-25 MCQs](#q1-nvidia-oa-format-1-coding-question-and-20-25-mcqs)
-- [2026-10-16 · IIT BHU · Intern · Compiler Verification](#2026-10-16--iit-bhu--intern--compiler-verification)
-  - [Nvidia compiler verification OA format](#q1-nvidia-compiler-verification-oa-format)
 
 </details>
 
 ---
-
-## 2026-10-29 · NIT Delhi · Intern · HW Intern
-
-### Q1. Smallest k making abcabc × p^k a perfect cube
-
-A number N is of the form abcabc, where a, b and c are decimal digits between 1 and 9, including 1 and 9. The number abc is a perfect cube. N is multiplied by p^k.
-
-For p = 7007, find the smallest non-zero value of k such that N × p^k is a perfect cube.
-
-<sub>Topics: Math · Source: [chat, 29 Oct](../archive/nvidia-oa/2026-10.jsonl#L121)</sub>
-
-### Q2. Clock buffers and max frequency with jitter
-
-A sequential circuit consists of two identical flip-flops F1 and F2, a combinational logic cloud, and a number of clock buffers.
-
-Given:
-- Tsetup = 0.7 ns
-- Thold = 0 ns
-- Tclk-q = 0.5 ns
-- Tpd = 1.1 ns
-- Tcb = 0.1 ns
-- F = 250 MHz
-- Jitter J = 0.5%
-
-Find:
-1. How many clock buffers are present in the circuit for a zero-jitter clock source?
-2. If the clock source has jitter equal to J of the rated clock period, what is the maximum rated clock frequency at which the circuit will operate correctly? Round off to the nearest integer.
-
-<sub>Topics: Digital Electronics, Circuits · Source: [chat, 29 Oct](../archive/nvidia-oa/2026-10.jsonl#L121)</sub>
-
-### Q3. Boolean expression from CMOS stick diagram
-
-For the given CMOS stick diagram, A, B, C and D are inputs and Y is the output. VDD and GND are power rails. pDIFF denotes PMOS diffusion (pull-up network) and nDIFF denotes NMOS diffusion (pull-down network).
-
-Derive the Boolean expression for Y.
-
-(+ denotes OR, . denotes AND, and ' denotes NOT.)
-
-The stick diagram itself was not included in the message.
-
-<sub>Topics: Digital Electronics, Circuits · Source: [chat, 29 Oct](../archive/nvidia-oa/2026-10.jsonl#L121)</sub>
-
-### Q4. Output bit width of product of two sums of N-bit numbers
-
-A, B, C and D are N-bit unsigned integer variables.
-
-The circuit performs the following operations:
-1. Add A and B to obtain A + B.
-2. Add C and D.
-3. Multiply the two sums to obtain X.
-
-Given N = 14, find the minimum number of bits required to store the output X.
-
-<sub>Topics: Digital Electronics, Math · Source: [chat, 29 Oct](../archive/nvidia-oa/2026-10.jsonl#L121)</sub>
-
-### Q5. Minimum clock cycles between states of D flip-flop circuit
-
-Four D flip-flops are arranged so that the input of the first flip-flop is derived from a combinational circuit using the outputs of the other flip-flops. Initially, a clear signal is applied to the flip-flops. Subsequently, clocks are provided to each flip-flop, causing Q0, Q1, Q2 and Q3 to assume different values.
-
-Assuming the start state is S (Q0Q1Q2Q3) and the final state is F (Q0Q1Q2Q3), determine the minimum number of clock cycles required to transition from the start state to the final state.
-
-Consider:
-- S = 0100
-- F = 0010
-
-The combinational logic feeding the first flip-flop was not included in the message.
-
-<sub>Topics: Digital Electronics · Source: [chat, 29 Oct](../archive/nvidia-oa/2026-10.jsonl#L121)</sub>
 
 ## 2026-10-28 · NIT Rourkela · FTE · System Software Engineer
 
@@ -149,74 +68,6 @@ Print a single integer: the maximum possible path latency among all pairs of dis
 
 <sub>Topics: Trees, Graphs · Source: [chat, 28 Oct](../archive/intern-2027/2026-10.jsonl#L49)</sub>
 
-## 2026-10-28 · NIT Meghalaya · Intern · Hardware (GPU)
-
-### Q1. Smallest k making abcabc * 7007^k a perfect cube
-
-A number N is of the form abcabc, where a, b and c are decimal digits between 1 and 9, including 1 and 9. The number abc is a perfect cube. N is multiplied by p^k.
-
-For p = 7007, find the smallest non-zero value of k such that N × p^k is a perfect cube.
-
-<sub>Topics: Math, Aptitude · Source: [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L37), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L38), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L40), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L41)</sub>
-
-### Q2. Clock buffers and max frequency with jitter
-
-A sequential circuit consists of two identical flip-flops F1 and F2, a combinational logic cloud, and a number of clock buffers.
-
-Given:
-- Tsetup = 0.7 ns
-- Thold = 0 ns
-- Tclk-q = 0.5 ns
-- Tpd = 1.1 ns
-- Tcb = 0.1 ns
-- F = 250 MHz
-- Jitter J = 0.5%
-
-Find:
-1. How many clock buffers are present in the circuit for a zero-jitter clock source?
-2. If the clock source has jitter equal to J of the rated clock period, what is the maximum rated clock frequency at which the circuit will operate correctly? Round off to the nearest integer.
-
-<sub>Topics: Digital Electronics, Circuits · Source: [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L37), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L38), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L40), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L41)</sub>
-
-### Q3. Boolean expression from CMOS stick diagram
-
-For the given CMOS stick diagram, A, B, C and D are inputs and Y is the output. VDD and GND are power rails. pDIFF denotes PMOS diffusion (pull-up network) and nDIFF denotes NMOS diffusion (pull-down network).
-
-Derive the Boolean expression for Y.
-
-(+ denotes OR, . denotes AND, and ' denotes NOT.)
-
-The stick diagram itself was not included.
-
-<sub>Topics: Digital Electronics, Analog Electronics · Source: [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L37), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L38), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L40), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L41)</sub>
-
-### Q4. Output bits for product of two sums of N-bit numbers
-
-A, B, C and D are N-bit unsigned integer variables.
-
-The circuit performs the following operations:
-1. Add A and B to obtain A + B.
-2. Add C and D.
-3. Multiply the two sums to obtain X.
-
-Given N = 14, find the minimum number of bits required to store the output X.
-
-<sub>Topics: Digital Electronics, Math · Source: [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L37), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L38), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L40), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L41)</sub>
-
-### Q5. Minimum clocks between two states of 4 D flip-flops
-
-Four D flip-flops are arranged so that the input of the first flip-flop is derived from a combinational circuit using the outputs of the other flip-flops. Initially, a clear signal is applied to the flip-flops. Subsequently, clocks are provided to each flip-flop, causing Q0, Q1, Q2 and Q3 to assume different values.
-
-Assuming the start state is S (Q0Q1Q2Q3) and the final state is F (Q0Q1Q2Q3), determine the minimum number of clock cycles required to transition from the start state to the final state.
-
-Consider:
-- S = 0100
-- F = 0010
-
-The combinational circuit was not included.
-
-<sub>Topics: Digital Electronics · Source: [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L37), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L38), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L40), [chat, 28 Oct](../archive/nvidia-oa/2026-10.jsonl#L41)</sub>
-
 ## 2026-10-28 · MNNIT Allahabad · FTE · System Software Engineer
 
 ### Q1. Nvidia System Software Engineer OA pattern
@@ -237,19 +88,19 @@ The combinational circuit was not included.
 
 (Round 3, Technical) Explain how the call stack works in recursion.
 
-<sub>Topics: Recursion/Backtracking, Stack/Queue · Source: [chat, 26 Oct](../archive/inter-nit/2026-10.jsonl#L2436)</sub>
+<sub>Topics: Recursion/Backtracking, Stack/Queue · Source: [chat, 26 Oct](../archive/inter-nit/2026-10.jsonl#L2436) · Also asked at: MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q3. Iterative In-order Traversal Using Stack
 
 (Round 3, Technical) Implement in-order traversal of a binary tree using a stack, optimize it, and explain its time and space complexity.
 
-<sub>Topics: Trees, Stack/Queue · Similar: [LeetCode 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy) · Source: [chat, 26 Oct](../archive/inter-nit/2026-10.jsonl#L2436)</sub>
+<sub>Topics: Trees, Stack/Queue · Similar: [LeetCode 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy) · Source: [chat, 26 Oct](../archive/inter-nit/2026-10.jsonl#L2436) · Also asked at: MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q4. 32-bit Multiplication on 16-bit ALU
 
 (Round 3, Technical) Write a C program to perform 32-bit multiplication on a microprocessor whose ALU only supports 16-bit multiplication.
 
-<sub>Topics: Bit Manipulation, Math · Source: [chat, 26 Oct](../archive/inter-nit/2026-10.jsonl#L2436)</sub>
+<sub>Topics: Bit Manipulation, Math · Source: [chat, 26 Oct](../archive/inter-nit/2026-10.jsonl#L2436) · Also asked at: MNNIT Allahabad (2026-10-27)</sub>
 
 ## 2026-10-26 · MNNIT Allahabad · FTE · System Software Engineer
 
@@ -257,7 +108,7 @@ The combinational circuit was not included.
 
 Round 1 was an OA with two coding questions (2 medium level on LeetCode), an OS section (medium level), a COA section (hard level) and C++ output questions (easy to medium). A minimum of 60% is needed to qualify for the next round.
 
-<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78) · Also asked at: MNNIT Allahabad ×2 (last 2026-10-27)</sub>
 
 ### Q2. Nvidia System Software Engineer OA format
 
@@ -279,19 +130,19 @@ Roles and responsibilities in the current organization.
 Which OS will be used for autonomous vehicles and why?
 Three easy to medium LeetCode questions (not specified).
 
-<sub>Topics: HR & Behavioral, OS/DBMS/CN MCQ · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78)</sub>
+<sub>Topics: HR & Behavioral, OS/DBMS/CN MCQ · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78) · Also asked at: MNNIT Allahabad ×2 (last 2026-10-27)</sub>
 
 ### Q2. Recursion stack and iterative in-order traversal
 
 How does the stack work in recursion? Implement in-order traversal using a stack, optimize it, and explain time and space complexity.
 
-<sub>Topics: Trees, Stack/Queue · Similar: [LeetCode 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy) · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78)</sub>
+<sub>Topics: Trees, Stack/Queue · Similar: [LeetCode 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy) · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78) · Also asked at: MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q3. 32-bit multiplication using 16-bit ALU
 
 Write a C program for handling 32-bit multiplication on a microprocessor ALU supporting 16-bit multiplication.
 
-<sub>Topics: Bit Manipulation, Math · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78)</sub>
+<sub>Topics: Bit Manipulation, Math · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78) · Also asked at: MNNIT Allahabad (2026-10-27)</sub>
 
 ### Q4. Round 2: experience and OS for autonomous vehicles
 
@@ -320,6 +171,16 @@ Write a C program for handling 32-bit multiplication on a microprocessor ALU tha
 
 <sub>Topics: Digital Electronics, Bit Manipulation · Source: [chat, 26 Oct](../archive/intern-2027/2026-10.jsonl#L22)</sub>
 
+## 2026-10-26 · IIT Delhi · FTE · Hardware
+
+### Q1. Nvidia hardware role OA pattern
+
+21 numerical answer type questions, no MCQs, 45 minutes. Topics: digital logic, computer architecture, aptitude, and C++ coding-type questions.
+
+The poster does not have the actual questions, only the pattern.
+
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-mnit-jaipur-placements/2026-10.jsonl#L40)</sub>
+
 ## 2026-10-25 · VNIT Nagpur · FTE · System Software
 
 ### Q1. Nvidia System Software OA: graph and DP questions
@@ -328,21 +189,15 @@ Two medium-level DSA questions were asked, based on graphs and dynamic programmi
 
 <sub>Topics: Graphs, DP · Source: [chat, 25 Oct](../archive/intern-2027/2026-10.jsonl#L13)</sub>
 
-## 2026-10-25 · IIT Dhanbad · Intern · System Software
+## 2026-10-22 · IIT Guwahati · FTE · Hardware
 
-### Q1. System Software OA structure
+### Q1. Nvidia hardware OA pattern
 
-The OA has 4 sections:
-- A coding question to be solved in 25 minutes
-- Three MCQ sections based on: OS, compiler-related topics, and code output (C & C++ pointers)
+Nvidia hardware OA had 60 questions, mostly on core electrical topics and signals and systems.
 
-<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/nvidia-oa/2026-10.jsonl#L16)</sub>
+The actual questions were not shared.
 
-### Q2. Max path sum plus max edge in weighted tree
-
-Given a tree with weighted edges, return the maximum possible value of f(u,v), where f(u,v) is the sum of the weights of the edges on the path from u to v plus the maximum-weight edge on that path.
-
-<sub>Topics: Trees, Graphs, DP · Source: [chat, 25 Oct](../archive/nvidia-oa/2026-10.jsonl#L18)</sub>
+<sub>Topics: OA Format, Signals & Systems · Source: [chat, 22 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L122) · Also asked at: IIT Hyderabad (2026-10-22)</sub>
 
 ## 2026-10-21 · MNNIT Allahabad · FTE · Compiler
 
@@ -414,11 +269,3 @@ The Nvidia OA (software compiler role) had 1 coding question and 20-25 MCQs. The
 The actual questions were not shared.
 
 <sub>Topics: OA Format · Source: [chat, 17 Oct](../archive/nvidia-oa/2026-10.jsonl#L64), [chat, 17 Oct](../archive/nvidia-oa/2026-10.jsonl#L66), [chat, 17 Oct](../archive/nvidia-oa/2026-10.jsonl#L67), [chat, 17 Oct](../archive/nvidia-oa/2026-10.jsonl#L69)</sub>
-
-## 2026-10-16 · IIT BHU · Intern · Compiler Verification
-
-### Q1. Nvidia compiler verification OA format
-
-21 MCQs on C/C++, programming, data structures, and compiler output, plus one coding question (as told by a senior last year).
-
-<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/intern-2027/2026-10.jsonl#L143), [chat, 16 Oct](../archive/intern-2027/2026-10.jsonl#L144)</sub>

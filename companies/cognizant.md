@@ -1,6 +1,6 @@
 # Cognizant
 
-**2 questions** · 2 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 29 Oct 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 2  
 **Seen at:** IIIT, IIT BHU
@@ -40,4 +40,4 @@ The assessment had these parts:
 4. GenAI / Python question - Need to make a common rank by combining two given ranks, then pass that to an LLM and retrieve answers
 5. React task - Login page and Creating Profile page with validations (Phone number should be 10 digits, Name shouldn't contain digits or symbols)
 
-<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/cognizant-oa/2026-10.jsonl#L3), [chat, 25 Oct](../archive/cognizant-oa/2026-10.jsonl#L6)</sub>
+<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/cognizant-oa/2026-10.jsonl#L3), [chat, 25 Oct](../archive/cognizant-oa/2026-10.jsonl#L6) · Also asked at: Unknown ×3 (last 2026-10-29)</sub>

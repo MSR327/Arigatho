@@ -3,7 +3,7 @@
 **4 questions** · 4 drives · latest 26 Oct 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 3 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [OOP](../topics/oop.md) 1 · [DP](../topics/dp.md) 1 · [Greedy](../topics/greedy.md) 1  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -53,4 +53,4 @@ Cashfree OA (posted from an IIIT campus): questions on DBMS, OOP, OS and other C
 
 The OA was held on HackerRank. It had 4 MCQs on CS fundamentals (from OOPs and SQL) and 2 coding questions. The coding difficulty was medium, and one question was hard. There were no language constraints. The actual questions were not shared in the chat.
 
-<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/cashfree-oa/2026-10.jsonl#L1), [chat, 14 Oct](../archive/cashfree-oa/2026-10.jsonl#L2), [chat, 15 Oct](../archive/cashfree-oa/2026-10.jsonl#L7), [chat, 15 Oct](../archive/cashfree-oa/2026-10.jsonl#L8), [chat, 15 Oct](../archive/cashfree-oa/2026-10.jsonl#L11)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/cashfree-oa/2026-10.jsonl#L1), [chat, 14 Oct](../archive/cashfree-oa/2026-10.jsonl#L2), [chat, 15 Oct](../archive/cashfree-oa/2026-10.jsonl#L7), [chat, 15 Oct](../archive/cashfree-oa/2026-10.jsonl#L8), [chat, 15 Oct](../archive/cashfree-oa/2026-10.jsonl#L11) · Also asked at: MNNIT Allahabad (2026-10-17)</sub>

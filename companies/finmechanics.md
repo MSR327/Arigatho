@@ -1,15 +1,16 @@
 # Finmechanics
 
-**8 questions** · 2 drives · latest 23 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**10 questions** · 3 drives · latest 23 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [DP](../topics/dp.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Graphs](../topics/graphs.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Strings](../topics/strings.md) 1 · [Hashing](../topics/hashing.md) 1 · +3 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Math](../topics/math.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [DP](../topics/dp.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Graphs](../topics/graphs.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Strings](../topics/strings.md) 1 · +3 more  
 **Seen at:** IIT Kanpur, IIT Kharagpur/Kanpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-10-23 · IIT Kanpur · FTE](#2026-10-23--iit-kanpur--fte)
-  - [Finmechanics OA contents and pattern](#q1-finmechanics-oa-contents-and-pattern)
+  - [Finmechanics OA format and contents](#q1-finmechanics-oa-format-and-contents)
+  - [Finmechanics OA contents and pattern](#q2-finmechanics-oa-contents-and-pattern)
 - [2026-10-10 · IIT Kharagpur/Kanpur · FTE](#2026-10-10--iit-kharagpurkanpur--fte)
   - [Maths and logic section (probability)](#q1-maths-and-logic-section-probability)
   - [Longest Increasing Subsequence](#q2-longest-increasing-subsequence)
@@ -18,6 +19,8 @@
   - [Decode String](#q5-decode-string)
   - [Longest Consecutive Sequence](#q6-longest-consecutive-sequence)
   - [Finance comprehension](#q7-finance-comprehension)
+- [2026-10-10 · IIT Kanpur · FTE](#2026-10-10--iit-kanpur--fte)
+  - [Finmechanics OA format](#q1-finmechanics-oa-format)
 
 </details>
 
@@ -25,7 +28,17 @@
 
 ## 2026-10-23 · IIT Kanpur · FTE
 
-### Q1. Finmechanics OA contents and pattern
+### Q1. Finmechanics OA format and contents
+
+Fully pen-and-paper test.
+- Part 1: maths (probability and PnC, a few JEE-type questions on coordinate geometry and integration)
+- Finance questions based on a given comprehension
+- Write full code (not pseudocode) for questions like LIS, topological sort, string manipulation, etc.
+- Part 2: HR, 10 subjective questions
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L150)</sub>
+
+### Q2. Finmechanics OA contents and pattern
 
 Finmechanics OA had questions related to:
 
@@ -35,7 +48,7 @@ Finmechanics OA had questions related to:
 4. Finance comprehension questions (2).
 5. HR questions.
 
-<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L54)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L54) · Also asked at: IIT Kanpur (2026-10-23)</sub>
 
 ## 2026-10-10 · IIT Kharagpur/Kanpur · FTE
 
@@ -80,3 +93,14 @@ Find the length of the longest run of consecutive integers present in an (unsort
 Section 3 (Finance): 2 reading-comprehension passages with questions to solve based on them.
 
 <sub>Topics: Verbal · Source: [chat, 10 Oct](../archive/inter-nit/2026-10.jsonl#L593)</sub>
+
+## 2026-10-10 · IIT Kanpur · FTE
+
+### Q1. Finmechanics OA format
+
+Maths section: 9 questions on probability, AM-GM, 3D geometry.
+Coding section: 6 questions: simple unbounded knapsack, prefix and suffix array, BFS in grid and simple problems.
+Finance: 2 comprehension passages.
+The constraint was not the difficulty of the problems but the time.
+
+<sub>Topics: OA Format · Source: [chat, 13 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L193)</sub>
