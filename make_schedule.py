@@ -45,7 +45,8 @@ if sys.argv[1:] == ["--remove"]:
     print("removed")
     sys.exit(0)
 if sys.argv[1:] == ["--resume-only"]:
-        sys.exit(0)
+    print(f"{RESUME}: every 15 min, reruns after a usage-limit stop", install_resume())
+    sys.exit(0)
 
 times = sys.argv[1:] or ["23:00"]
 print(f"{LABEL}: daily at {', '.join(times)}", install(LABEL, {
