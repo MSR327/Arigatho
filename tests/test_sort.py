@@ -316,6 +316,29 @@ def test_run_claude_reads_usage_and_keeps_a_reserve(monkeypatch):
         sort_mod.run_claude("p", {}, model="haiku")  # 93% used: no new call
 
 
+def test_run_claude_stops_before_a_call_would_cross_the_reserve(monkeypatch):
+    import json as _json
+    import subprocess as _sp
+    import oa.sort as sort_mod
+
+    reported = iter([0.80, 0.84, 0.87])
+
+    def fake_run(cmd, **kw):
+        events = [{"type": "rate_limit_event", "rate_limit_info": {"unifiedWindows": {
+                      "five_hour": {"utilization": next(reported)}}}},
+                  {"type": "result", "subtype": "success", "is_error": False, "structured_output": {}}]
+        return _sp.CompletedProcess(cmd, 0, "\n".join(_json.dumps(e) for e in events), "")
+
+    monkeypatch.setattr(sort_mod.subprocess, "run", fake_run)
+    monkeypatch.setitem(sort_mod.USAGE, "five_hour", None)
+    monkeypatch.setitem(sort_mod.USAGE, "step", 0.0)
+    sort_mod.run_claude("p", {})  # -> 80%
+    sort_mod.run_claude("p", {})  # -> 84%: calls cost about 4%
+    sort_mod.run_claude("p", {})  # 84 + 4 < 90: runs, -> 87%
+    with pytest.raises(UsageLimit):
+        sort_mod.run_claude("p", {})  # 87 + 4 would pass 90: stop at 87, not 91
+
+
 def test_run_claude_records_resets_at(monkeypatch):
     import json as _json
     import subprocess as _sp
@@ -355,3 +378,18 @@ def test_main_writes_and_clears_resume_at(monkeypatch):
     monkeypatch.setattr(sort_mod, "sort_pending", lambda *a, **kw: 0)
     sort_mod.main([])
     assert not marker.exists()
+
+
+def test_main_checks_leftover_reposts_before_sorting(monkeypatch):
+    import oa.sort as sort_mod
+
+    calls = []
+    monkeypatch.setattr(sort_mod, "Archive", lambda p: None)
+    monkeypatch.setattr(sort_mod, "load_state", lambda p: {})
+    monkeypatch.setattr(sort_mod.leetcode, "load", lambda: [])
+    monkeypatch.setattr(sort_mod, "read_jsonl", lambda p: [])
+    monkeypatch.setattr(sort_mod, "notify", lambda m: None)
+    monkeypatch.setattr(sort_mod, "dedupe_pending", lambda: calls.append("dedupe"))
+    monkeypatch.setattr(sort_mod, "sort_pending", lambda *a, **kw: calls.append("sort"))
+    sort_mod.main([])
+    assert calls == ["dedupe", "sort", "dedupe"]

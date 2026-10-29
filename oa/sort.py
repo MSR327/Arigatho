@@ -123,12 +123,14 @@ def build_batch_prompt(batch, companies, groups=None):
     )
 
 
-USAGE = {"five_hour": None, "resets_at": None}  # latest share (0-1) of the 5-hour window used, as claude reports it
+# latest share (0-1) of the 5-hour window used, as claude reports it, and the biggest rise seen
+# between two calls: a call is only started if one more such rise still stays under the reserve
+USAGE = {"five_hour": None, "resets_at": None, "step": 0.0}
 
 
 def run_claude(prompt, schema, model=None):
     used = USAGE["five_hour"]
-    if used is not None and used >= RESERVE_FROM:
+    if used is not None and used + USAGE["step"] >= RESERVE_FROM:
         raise UsageLimit(f"keeping the last {1 - RESERVE_FROM:.0%} of the 5-hour limit free "
                          f"({used:.0%} used)")
     # Without the user's own Claude Code setup (connectors, skills, plugins, output style): it is
@@ -147,6 +149,8 @@ def run_claude(prompt, schema, model=None):
         if event.get("type") == "rate_limit_event":
             window = (event.get("rate_limit_info") or {}).get("unifiedWindows", {}).get("five_hour", {})
             if "utilization" in window:
+                if used is not None:
+                    USAGE["step"] = max(USAGE["step"], window["utilization"] - used)
                 USAGE["five_hour"] = window["utilization"]
             if window.get("resetsAt"):
                 USAGE["resets_at"] = window["resetsAt"]  # epoch seconds
@@ -430,17 +434,16 @@ def main(argv=None):
     archive, state = Archive(ARCHIVE), load_state(STATE)
     before, stopped = len(read_jsonl(QUESTIONS)), None
     try:
+        # rows an earlier stopped run left unchecked go first, so the pages lose those reposts
+        # now rather than only once the whole backlog is sorted
+        dedupe_pending()
         sort_pending(archive, state, limit=args.limit,
                      save=lambda: save_state(STATE, state), problems=leetcode.load())
-    except UsageLimit as e:
+        dedupe_pending()  # this run's new rows
+    except UsageLimit as e:  # every later call would hit it too
         stopped = str(e)[:80]
         log(f"stopped early: {e}")
     new_rows = read_jsonl(QUESTIONS)[before:]
-    try:
-        dedupe_pending()  # also picks up rows left unchecked by earlier stopped runs
-    except UsageLimit as e:
-        stopped = stopped or str(e)[:80]
-        log(f"stopped early: {e}")
     schedule_resume(stopped)
     fresh = Counter(r["company"] for r in new_rows)
     summary = ", ".join(f"{c} {n}" for c, n in fresh.most_common(5))
