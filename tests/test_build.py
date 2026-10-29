@@ -74,21 +74,26 @@ def test_build_site(tmp_path):
     (tmp_path / "companies" / "stale.md").write_text("old")
     build_site(ROWS, MSGS, tmp_path, NOW, LOCS)
     readme = (tmp_path / "README.md").read_text()
-    assert "**4 questions · 2 companies · 2 colleges**" in readme  # duplicates are not counted
-    assert ("| [Amazon](companies/amazon.md) | 3 | Arrays, Hashing, Other "
-            "| IIT Bombay, IIT Kharagpur | 2026-10-14 |") in readme
-    new = readme.split("## New this week")[1].split("## Companies")[0]
-    assert "**Wed 14 Oct**" in new and "**Mon 12 Oct**" in new
-    assert ("- [Amazon](companies/amazon.md#2026-10-12--iit-kharagpur--fte) · IIT Kharagpur · "
-            "2 questions") in new
+    # duplicates are not counted
+    assert "**4 questions from 2 companies** · shared by students of 2 colleges" in readme
+    assert readme.index("## Companies") < readme.index("## New this week")  # companies first
+    assert "| **A** | [Amazon](companies/amazon.md) (3) |" in readme  # A–Z directory
+    assert "| **N** | [Nvidia](companies/nvidia.md) (1) |" in readme
+    new = readme.split("## New this week")[1].split("## Topics")[0]
+    assert "- **Wed 14 Oct:** [Amazon](companies/amazon.md#2026-10-14--iit-kharagpur--fte) (1)" in new
+    assert "- **Mon 12 Oct:** [Amazon](companies/amazon.md#2026-10-12--iit-kharagpur--fte) (2)" in new
     assert "Nvidia" not in new  # not this week
     assert "**DSA:** [Arrays](topics/arrays.md) 1 · [Strings](topics/strings.md) 1" in readme
     assert "[LeetCode practice list](practice.md)" in readme
     assert not (tmp_path / "companies" / "stale.md").exists()
 
     amazon = (tmp_path / "companies" / "amazon.md").read_text()
-    assert amazon.startswith("# Amazon\n\n**3 questions** from 2 OA drives")
-    assert "- [2026-10-12 · IIT Kharagpur · FTE](#2026-10-12--iit-kharagpur--fte) · 2 questions" in amazon
+    assert amazon.startswith("# Amazon\n\n**3 questions** · 2 drives · latest 14 Oct 2026 · "
+                             "[1 LeetCode match](../practice.md)")
+    assert "[Arrays](../topics/arrays.md) 1" in amazon and "**Seen at:** IIT Bombay, IIT Kharagpur" in amazon
+    assert ("- [2026-10-12 · IIT Kharagpur · FTE](#2026-10-12--iit-kharagpur--fte)\n"
+            "  - [Two sum](#q1-two-sum)\n  - [LRU](#q2-lru)") in amazon  # folded contents
+    assert amazon.index("</details>") < amazon.index("### Q1.")  # questions right after it
     assert amazon.index("Longest unique substring") < amazon.index("Two sum")  # newest drive first
     assert "## 2026-10-12 · IIT Kharagpur · FTE" in amazon
     assert "Also asked at: IIT Bombay (2026-10-13)" in amazon
@@ -119,7 +124,13 @@ def test_drive_with_position_and_round(tmp_path):
     title = "2026-10-14 · IIT Kharagpur · FTE · Data Analyst · Interview"
     assert f"## {title}" in amazon
     assert "## 2026-10-14 · IIT Kharagpur · FTE\n" in amazon  # the plain drive stays separate
-    new = (tmp_path / "README.md").read_text().split("## New this week")[1].split("## Companies")[0]
-    assert ("- [Amazon](companies/amazon.md#2026-10-14--iit-kharagpur--fte--data-analyst--interview)"
-            " · IIT Kharagpur · 1 question") in new
-    assert "(companies/amazon.md#2026-10-14--iit-kharagpur--fte) · IIT Kharagpur · 1 question" in new
+    new = (tmp_path / "README.md").read_text().split("## New this week")[1].split("## Topics")[0]
+    # one entry per company per day, linking to that day's topmost drive
+    assert "- **Wed 14 Oct:** [Amazon](companies/amazon.md#2026-10-14--iit-kharagpur--fte) (2)" in new
+
+
+def test_brackets_and_digits_in_names(tmp_path):
+    rows = [q("9-1", "[24]7.ai", "IIT Kharagpur", "2026-10-14", "Max of a[i]", ["Arrays"])]
+    build_site(rows, {}, tmp_path, NOW)
+    assert "| **0–9** | [\\[24\\]7.ai](companies/24-7-ai.md) (1) |" in (tmp_path / "README.md").read_text()
+    assert "  - [Max of a\\[i\\]](#q1-max-of-ai)" in (tmp_path / "companies" / "24-7-ai.md").read_text()

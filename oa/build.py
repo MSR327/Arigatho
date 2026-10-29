@@ -29,6 +29,15 @@ def cell(text):
     return str(text).replace("|", "\\|").replace("\n", " ")
 
 
+def label(text):
+    """Text safe inside [link text]: a stray bracket would end the link early."""
+    return cell(text).replace("[", "\\[").replace("]", "\\]")
+
+
+def _day(iso):
+    return f"{datetime.fromisoformat(iso):%-d %b %Y}"
+
+
 def message_lines(root):
     """{message id: (path, line)}, so a source link opens the exact line of the chat log."""
     loc = {}
@@ -149,8 +158,8 @@ def _company_page(company, rows, sightings, dups, messages, locs):
     for r in rows:
         drives[_drive_key(r)].append(r)
     order = sorted(drives, key=lambda k: (k[0], k[1]), reverse=True)
-    colleges = sorted({r["college"] for r in sightings})
-    topics = Counter(t for r in rows for t in r["topics"])
+    colleges = sorted({r["college"] for r in sightings} - {"Unknown"})
+    topics = Counter(t for r in rows for t in r["topics"]).most_common()
     lc = sum(1 for r in rows if r.get("leetcode"))
 
     seen = Counter()
@@ -171,17 +180,23 @@ def _company_page(company, rows, sightings, dups, messages, locs):
                 meta.append(f"Also asked at: {_also(dups[r['qid']])}")
             body += [f"### {heading}", "", format_text(r), "", "<sub>" + " · ".join(meta) + "</sub>", ""]
 
-    head = [f"# {company}", "",
-            f"**{_plural(len(rows), 'question')}** from {_plural(len(drives), 'OA drive')} · "
-            f"seen at {', '.join(colleges)} · latest {max(r['date'] for r in sightings)}", "",
-            "**Topics:** " + " · ".join(f"[{t}](../topics/{slug(t)}.md) ({n})"
-                                         for t, n in topics.most_common()), ""]
+    # questions start on the first screen; the full contents is folded away
+    stats = (f"**{_plural(len(rows), 'question')}** · {_plural(len(drives), 'drive')} · "
+             f"latest {_day(max(r['date'] for r in sightings))}")
     if lc:
-        head += [f"**LeetCode matches:** {lc} (see the [practice list](../practice.md))", ""]
-    head += ["**Drives:**", ""]
-    head += [f"- [{_drive_title(k)}](#{drive_anchor[k]}) · {_plural(len(drives[k]), 'question')}"
-             for k in order]
-    head += ["", "[← all companies](../README.md#companies)", "", "---", ""]
+        stats += f" · [{lc} LeetCode match{'' if lc == 1 else 'es'}](../practice.md)"
+    asks = " · ".join(f"[{t}](../topics/{slug(t)}.md) {n}" for t, n in topics[:8])
+    head = [f"# {company}", "", stats + " · [← all companies](../README.md#companies)", "",
+            f"**Asks about:** {asks}" + (f" · +{len(topics) - 8} more" if len(topics) > 8 else "") + "  "]
+    if colleges:
+        head.append("**Seen at:** " + ", ".join(colleges[:8])
+                    + (f" +{len(colleges) - 8} more" if len(colleges) > 8 else ""))
+    head += ["", "<details>", "<summary><b>Contents</b>: every drive and question, newest first</summary>", ""]
+    for k in order:
+        head.append(f"- [{label(_drive_title(k))}](#{drive_anchor[k]})")
+        head += [f"  - [{label(r['title'])}](#{q_anchor[r['qid']]})"
+                 for r in sorted(drives[k], key=lambda r: r["qid"])]
+    head += ["", "</details>", "", "---", ""]
     return "\n".join(head + body), q_anchor, drive_anchor
 
 
@@ -245,55 +260,45 @@ def build_site(rows, messages, out, now, locs=None, groups=None):
     for sub in ("companies", "topics"):
         shutil.rmtree(out / sub, ignore_errors=True)
         (out / sub).mkdir(parents=True)
-    q_link, drive_link = {}, {}
+    q_link, day_link = {}, {}
     for company, rs in by_company.items():
         page, q_anchor, d_anchor = _company_page(company, rs, sightings[company], dups, messages, locs)
         (out / "companies" / f"{slug(company)}.md").write_text(page)
         q_link.update({q: f"companies/{slug(company)}.md#{a}" for q, a in q_anchor.items()})
-        drive_link.update({(company,) + k: f"companies/{slug(company)}.md#{a}" for k, a in d_anchor.items()})
+        for k, a in d_anchor.items():  # page order: a day's first drive is its topmost
+            day_link.setdefault((company, k[0]), f"companies/{slug(company)}.md#{a}")
     for topic, rs in by_topic.items():
         (out / "topics" / f"{slug(topic)}.md").write_text(_topic_page(topic, rs, q_link))
     (out / "practice.md").write_text(_practice_page(originals, dups, q_link))
 
-    # README
+    # README: the company list comes first; everything else is below it
     week_ago = (now - timedelta(days=7)).date().isoformat()
-    recent = defaultdict(list)
+    recent = defaultdict(Counter)
     for r in originals:
         if r["date"] >= week_ago:
-            recent[r["date"]].append(r)
+            recent[r["date"]][r["company"]] += 1
     colleges = {r["college"] for r in originals if r["college"] != "Unknown"}
+    letters = defaultdict(list)
+    for company in sorted(by_company, key=str.casefold):
+        letters[company[0].upper() if company[0].isalpha() else "0–9"].append(company)
     md = ["# OA Questions Tracker", "",
-          f"**{len(originals)} questions · {len(by_company)} companies · {len(colleges)} colleges** "
-          f"· updated {now:%-d %b %Y, %H:%M}", "",
-          "[New this week](#new-this-week) · [Companies](#companies) · [Topics](#topics) · "
-          "[Colleges](#colleges) · [LeetCode practice list](practice.md)", "",
-          "Online-assessment questions shared in the OAHelper placement groups, sorted by company, "
-          "topic and college. Each company page lists its OA drives, newest first. A question "
-          "shared again later is folded into the first time it was seen (\"also asked at\").", "",
-          *([f"Read daily from {_plural(len(groups), 'OAHelper group')}: "
-             f"{sum(1 for g in groups.values() if g.get('role') == 'OA preparation')} company OA groups, "
-             f"{sum(1 for g in groups.values() if g.get('role') == 'Campus')} campus groups, and the "
-             "placement and intern batch groups. New groups are joined automatically.", ""]
-            if groups else []),
-          "## New this week", ""]
+          f"**{len(originals)} questions from {len(by_company)} companies** · shared by students of "
+          f"{len(colleges)} colleges · updated {now:%-d %b %Y, %H:%M}", "",
+          "**Find a company** in the list below, or press Ctrl+F (⌘F on a Mac) and type its name. "
+          "Its page has every question asked there, newest first.", "",
+          "[Companies](#companies) · [New this week](#new-this-week) · [Topics](#topics) · "
+          "[LeetCode practice list](practice.md) · [Colleges](#colleges) · [About](#about)", "",
+          "## Companies", "", "| A–Z | Company (questions) |", "|---|---|"]
+    for letter in sorted(letters, key=lambda l: (l == "0–9", l)):
+        md.append(f"| **{letter}** | " + " · ".join(
+            f"[{label(c)}](companies/{slug(c)}.md) ({len(by_company[c])})" for c in letters[letter]) + " |")
+    md += ["", "## New this week", ""]
     if not recent:
         md.append("Nothing new in the last 7 days.")
     for d in sorted(recent, reverse=True):
-        md += [f"**{datetime.fromisoformat(d):%a %-d %b}**", ""]
-        groups = Counter((r["company"], r["college"], _drive_key(r)) for r in recent[d])
-        for (c, col, key), n in sorted(groups.items(), key=lambda kv: (-kv[1], kv[0])):
-            link = drive_link.get((c,) + key, f"companies/{slug(c)}.md")
-            md.append(f"- [{c}]({link}) · {col} · {_plural(n, 'question')}")
-        md.append("")
-    md += ["## Companies", "", "| Company | Questions | Main topics | Colleges | Latest |",
-           "|---|---|---|---|---|"]
-    for company, rs in sorted(by_company.items(), key=lambda kv: (-len(kv[1]), kv[0])):
-        seen = sightings[company]
-        cols = sorted({r["college"] for r in seen})
-        cols_txt = ", ".join(cols[:3]) + (f" +{len(cols) - 3} more" if len(cols) > 3 else "")
-        top = ", ".join(t for t, _ in Counter(t for r in rs for t in r["topics"]).most_common(3))
-        md.append(f"| [{cell(company)}](companies/{slug(company)}.md) | {len(rs)} | {cell(top)} "
-                  f"| {cell(cols_txt)} | {max(r['date'] for r in seen)} |")
+        md.append(f"- **{datetime.fromisoformat(d):%a %-d %b}:** " + " · ".join(
+            f"[{label(c)}]({day_link.get((c, d), f'companies/{slug(c)}.md')}) ({n})"
+            for c, n in sorted(recent[d].items(), key=lambda kv: (-kv[1], kv[0]))))
     md += ["", "## Topics", ""]
     for group, topics in TOPIC_GROUPS.items():
         present = [t for t in topics if by_topic.get(t)]
@@ -310,7 +315,15 @@ def build_site(rows, messages, out, now, locs=None, groups=None):
     for college in sorted(by_college):
         parts = ", ".join(f"{c} ({n})" for c, n in by_college[college].most_common())
         md.append(f"| {cell(college)} | {cell(parts)} |")
-    md += ["", "</details>"]
+    md += ["", "</details>", "", "## About", "",
+           "Online-assessment and interview questions shared in the OAHelper placement groups, for "
+           "every role, sorted by company, topic and college. A question shared again later is "
+           "folded into the first time it was seen (\"also asked at\")."]
+    if groups:
+        md += ["", f"Read daily from {_plural(len(groups), 'OAHelper group')}: "
+               f"{sum(1 for g in groups.values() if g.get('role') == 'OA preparation')} company OA groups, "
+               f"{sum(1 for g in groups.values() if g.get('role') == 'Campus')} campus groups, and the "
+               "placement and intern batch groups. New groups are joined automatically."]
     (out / "README.md").write_text("\n".join(md) + "\n")
 
 

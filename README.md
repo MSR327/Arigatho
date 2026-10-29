@@ -1,356 +1,50 @@
 # OA Questions Tracker
 
-**2093 questions · 90 companies · 48 colleges** · updated 29 Oct 2026, 14:04
+**2093 questions from 90 companies** · shared by students of 48 colleges · updated 29 Oct 2026, 16:52
 
-[New this week](#new-this-week) · [Companies](#companies) · [Topics](#topics) · [Colleges](#colleges) · [LeetCode practice list](practice.md)
+**Find a company** in the list below, or press Ctrl+F (⌘F on a Mac) and type its name. Its page has every question asked there, newest first.
 
-Online-assessment questions shared in the OAHelper placement groups, sorted by company, topic and college. Each company page lists its OA drives, newest first. A question shared again later is folded into the first time it was seen ("also asked at").
-
-Read daily from 186 OAHelper groups: 112 company OA groups, 70 campus groups, and the placement and intern batch groups. New groups are joined automatically.
-
-## New this week
-
-**Thu 29 Oct**
-
-- [Nvidia](companies/nvidia.md#2026-10-29--nit-delhi--intern--hw-intern) · NIT Delhi · 5 questions
-- [Accenture](companies/accenture.md#2026-10-29--iit-guwahati--fte) · IIT Guwahati · 1 question
-- [Amazon](companies/amazon.md#2026-10-29--bits--fte--sde) · BITS · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-29--iit-indore--fte--associate-program-manager) · IIT Indore · 1 question
-- [HP](companies/hp.md#2026-10-29--vnit-nagpur--fte--ai--full-stack) · VNIT Nagpur · 1 question
-
-**Wed 28 Oct**
-
-- [Deloitte](companies/deloitte.md#2026-10-28--iit-dhanbad--fte--analyst) · IIT Dhanbad · 15 questions
-- [Plutus Research](companies/plutus-research.md#2026-10-28--iit-guwahati--fte--quant) · IIT Guwahati · 6 questions
-- [Plutus Research](companies/plutus-research.md#2026-10-28--iit-kharagpur--fte) · IIT Kharagpur · 6 questions
-- [Nvidia](companies/nvidia.md#2026-10-28--nit-meghalaya--intern--hardware-gpu) · NIT Meghalaya · 5 questions
-- [Texas Instruments](companies/texas-instruments.md#2026-10-28--iit-bhu--unknown--embedded-sw--other-round) · IIT BHU · 5 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-28--iit-bhu--fte--product-analyst) · IIT BHU · 4 questions
-- [QiCap](companies/qicap.md#2026-10-28--iit-bhu--fte) · IIT BHU · 4 questions
-- [Accenture](companies/accenture.md#2026-10-28--iit-indore--fte--elite) · IIT Indore · 3 questions
-- [American Express](companies/american-express.md#2026-10-28--iit-guwahati--fte--ai-engineering) · IIT Guwahati · 3 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-28--iit-indore--fte--product-analyst) · IIT Indore · 3 questions
-- [IBM](companies/ibm.md#2026-10-28--mnnit-allahabad--fte) · MNNIT Allahabad · 3 questions
-- [Accenture](companies/accenture.md#2026-10-28--iit-roorkee--fte--elite) · IIT Roorkee · 2 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-28--iit-delhi--fte--sde) · IIT Delhi · 2 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-28--iit-roorkee--fte--product-analyst) · IIT Roorkee · 2 questions
-- [Flipkart](companies/flipkart.md#2026-10-28--bits-pilani--fte--ai-engineer) · BITS Pilani · 2 questions
-- [Mastercard](companies/mastercard.md#2026-10-28--iit-guwahati--fte--data-science) · IIT Guwahati · 2 questions
-- [Tiger Analytics](companies/tiger-analytics.md#2026-10-28--iit-bhu--fte) · IIT BHU · 2 questions
-- [Tredence](companies/tredence.md#2026-10-28--iit-hyderabad--fte) · IIT Hyderabad · 2 questions
-- [Tredence](companies/tredence.md#2026-10-28--iit-hyderabad--fte--other-round) · IIT Hyderabad · 2 questions
-- [Accenture](companies/accenture.md#2026-10-28--iit-guwahati--fte--elite) · IIT Guwahati · 1 question
-- [American Express](companies/american-express.md#2026-10-28--iit-bhu--fte--ai-engineer) · IIT BHU · 1 question
-- [American Express](companies/american-express.md#2026-10-28--iit-roorkee--fte--data-science--analytics) · IIT Roorkee · 1 question
-- [Auronova Consulting](companies/auronova-consulting.md#2026-10-28--iit-guwahati--fte) · IIT Guwahati · 1 question
-- [Cognizant](companies/cognizant.md#2026-10-28--iit-bhu--fte--ace-frontier-engineer) · IIT BHU · 1 question
-- [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md#2026-10-28--iit-guwahati--fte--graduate-engineering--technology-graduate---data-science) · IIT Guwahati · 1 question
-- [Deloitte](companies/deloitte.md#2026-10-28--iit-bhu--fte) · IIT BHU · 1 question
-- [EXL](companies/exl.md#2026-10-28--iit-bhu--fte--consultant-i---analytics-band-b1) · IIT BHU · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-28--iit-bhu--fte--sde--interview) · IIT BHU · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-28--iit-bhu--fte--sde) · IIT BHU · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-28--iit-indore--fte--associate-program-manager) · IIT Indore · 1 question
-- [Flipkart](companies/flipkart.md#2026-10-28--iit-bhu--fte--ai-engineer) · IIT BHU · 1 question
-- [Futures First](companies/futures-first.md#2026-10-28--iit-guwahati--fte--quant-options-trainee) · IIT Guwahati · 1 question
-- [IBM](companies/ibm.md#2026-10-28--iit-guwahati--fte--interview) · IIT Guwahati · 1 question
-- [InMobi](companies/inmobi.md#2026-10-28--unknown--fte--applied-scientist) · Unknown · 1 question
-- [McKinsey](companies/mckinsey.md#2026-10-28--iit-roorkee--fte--data-science) · IIT Roorkee · 1 question
-- [Nvidia](companies/nvidia.md#2026-10-28--mnnit-allahabad--fte--system-software-engineer) · MNNIT Allahabad · 1 question
-- [Nvidia](companies/nvidia.md#2026-10-28--nit-rourkela--fte--system-software-engineer) · NIT Rourkela · 1 question
-- [Visa](companies/visa.md#2026-10-28--iit-bhu--intern--swe) · IIT BHU · 1 question
-- [Visa](companies/visa.md#2026-10-28--unknown--intern--swe) · Unknown · 1 question
-
-**Tue 27 Oct**
-
-- [Accenture](companies/accenture.md#2026-10-27--mnnit-allahabad--fte) · MNNIT Allahabad · 41 questions
-- [Deloitte](companies/deloitte.md#2026-10-27--iit-kanpur--fte--analyst) · IIT Kanpur · 36 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-27--iit-dhanbad--fte--product-analyst) · IIT Dhanbad · 8 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-27--iit-guwahati--fte--product-analyst) · IIT Guwahati · 6 questions
-- [American Express](companies/american-express.md#2026-10-27--iit-roorkee--fte) · IIT Roorkee · 4 questions
-- [Accenture](companies/accenture.md#2026-10-27--iit-dhanbad--fte--elite-technology-engineer) · IIT Dhanbad · 3 questions
-- [American Express](companies/american-express.md#2026-10-27--iit-guwahati--fte) · IIT Guwahati · 3 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-27--iit-dhanbad--fte--sde) · IIT Dhanbad · 3 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-27--iit-guwahati--fte--sde) · IIT Guwahati · 3 questions
-- [NatWest](companies/natwest.md#2026-10-27--iit-bhu--fte) · IIT BHU · 3 questions
-- [QiCap](companies/qicap.md#2026-10-27--iit-delhi--fte) · IIT Delhi · 3 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-27--iit-dhanbad--fte--sde--interview) · IIT Dhanbad · 2 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-27--iit-hyderabad--fte--product-analyst) · IIT Hyderabad · 2 questions
-- [ThoughtSpot](companies/thoughtspot.md#2026-10-27--iit-guwahati--fte) · IIT Guwahati · 2 questions
-- [Accenture](companies/accenture.md#2026-10-27--iit-dhanbad--fte--elite-technology-engineer--other-round) · IIT Dhanbad · 1 question
-- [Accenture](companies/accenture.md#2026-10-27--mnnit-allahabad--fte--other-round) · MNNIT Allahabad · 1 question
-- [Accenture](companies/accenture.md#2026-10-27--mnnit-allahabad--fte--advanced-technology-engineer) · MNNIT Allahabad · 1 question
-- [American Express](companies/american-express.md#2026-10-27--iit-guwahati--fte--data-science--analytics) · IIT Guwahati · 1 question
-- [American Express](companies/american-express.md#2026-10-27--iit-guwahati--fte--data-science-and-analytics) · IIT Guwahati · 1 question
-- [American Express](companies/american-express.md#2026-10-27--iit-hyderabad--fte--data-science--analytics) · IIT Hyderabad · 1 question
-- [American Express](companies/american-express.md#2026-10-27--iit-roorkee--fte--data-science-and-analytics) · IIT Roorkee · 1 question
-- [Citi](companies/citi.md#2026-10-27--unknown--intern--modelanalysisvalidation-analyst-i-risk-model-developmentvalidationmonitoring--other-round) · Unknown · 1 question
-- [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md#2026-10-27--iit-bhu--fte) · IIT BHU · 1 question
-- [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md#2026-10-27--iit-hyderabad--fte) · IIT Hyderabad · 1 question
-- [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md#2026-10-27--unknown--fte--graduate-engineering-technology-graduate---data-science) · Unknown · 1 question
-- [Dell](companies/dell.md#2026-10-27--iiit-allahabad--fte) · IIIT Allahabad · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-27--delhi-technological-university--fte--associate-program-manager--interview) · Delhi Technological University · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-27--iit-bhu--fte--associate-program-manager) · IIT BHU · 1 question
-- [Flipkart](companies/flipkart.md#2026-10-27--iit-bhu--fte--ai-engineer) · IIT BHU · 1 question
-- [IBM](companies/ibm.md#2026-10-27--iit-hyderabad--fte--software-engineering--interview) · IIT Hyderabad · 1 question
-- [IBM](companies/ibm.md#2026-10-27--iit-kanpur--fte--hardware) · IIT Kanpur · 1 question
-- [ICICI](companies/icici.md#2026-10-27--vnit-nagpur--fte) · VNIT Nagpur · 1 question
-- [Juspay](companies/juspay.md#2026-10-27--iit-bhu--fte--other-round) · IIT BHU · 1 question
-- [Juspay](companies/juspay.md#2026-10-27--iit-delhi--fte) · IIT Delhi · 1 question
-- [KPMG](companies/kpmg.md#2026-10-27--vnit-nagpur--intern--ai-intern) · VNIT Nagpur · 1 question
-- [Microsoft](companies/microsoft.md#2026-10-27--nit-allahabad-mnnit--fte--software-engineer-apprentice) · NIT Allahabad (MNNIT) · 1 question
-- [ThoughtSpot](companies/thoughtspot.md#2026-10-27--iit-bhu--fte) · IIT BHU · 1 question
-- [Tiger Analytics](companies/tiger-analytics.md#2026-10-27--unknown--fte--trainee-analyst) · Unknown · 1 question
-- [Unknown](companies/unknown.md#2026-10-27--iit-bhu--fte) · IIT BHU · 1 question
-- [Unknown](companies/unknown.md#2026-10-27--iit-hyderabad--fte) · IIT Hyderabad · 1 question
-
-**Mon 26 Oct**
-
-- [Deloitte](companies/deloitte.md#2026-10-26--iit-dhanbad--fte) · IIT Dhanbad · 7 questions
-- [Nvidia](companies/nvidia.md#2026-10-26--mnnit-allahabad--fte--system-software-engineer--interview) · MNNIT Allahabad · 7 questions
-- [Accenture](companies/accenture.md#2026-10-26--iit-roorkee--fte--ai-and-data) · IIT Roorkee · 6 questions
-- [Visa](companies/visa.md#2026-10-26--iit-bhu--intern) · IIT BHU · 5 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-26--iit-delhi--fte--data-science) · IIT Delhi · 4 questions
-- [Nvidia](companies/nvidia.md#2026-10-26--mnnit-allahabad--fte) · MNNIT Allahabad · 4 questions
-- [Capital One](companies/capital-one.md#2026-10-26--iit-bombay--fte) · IIT Bombay · 3 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-26--iit-dhanbad--fte--sde) · IIT Dhanbad · 3 questions
-- [Tredence](companies/tredence.md#2026-10-26--unknown--fte) · Unknown · 3 questions
-- [InfoEdge](companies/infoedge.md#2026-10-26--iit-guwahati--fte) · IIT Guwahati · 2 questions
-- [Nvidia](companies/nvidia.md#2026-10-26--mnnit-allahabad--fte--system-software-engineer) · MNNIT Allahabad · 2 questions
-- [Accenture](companies/accenture.md#2026-10-26--iit-bhu--fte--elite-technology-engineer--other-round) · IIT BHU · 1 question
-- [Accenture](companies/accenture.md#2026-10-26--iit-roorkee--fte--interview) · IIT Roorkee · 1 question
-- [American Express](companies/american-express.md#2026-10-26--iit-guwahati--fte--data-science-and-analytics) · IIT Guwahati · 1 question
-- [American Express](companies/american-express.md#2026-10-26--iit-guwahati--fte--management-trainee) · IIT Guwahati · 1 question
-- [American Express](companies/american-express.md#2026-10-26--unknown--fte) · Unknown · 1 question
-- [BlackRock](companies/blackrock.md#2026-10-26--iit-bhu--intern) · IIT BHU · 1 question
-- [Cashfree](companies/cashfree.md#2026-10-26--iiit-allahabad--fte) · IIIT Allahabad · 1 question
-- [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md#2026-10-26--iit-guwahati--fte) · IIT Guwahati · 1 question
-- [Deloitte](companies/deloitte.md#2026-10-26--iit-bhu--fte) · IIT BHU · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-26--iit-bhu--fte--product-analyst) · IIT BHU · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-26--iit-guwahati--fte--data-science) · IIT Guwahati · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-26--iit-guwahati--fte--product-analyst) · IIT Guwahati · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-26--iit-guwahati--fte--sde) · IIT Guwahati · 1 question
-- [InfoEdge](companies/infoedge.md#2026-10-26--iiit-allahabad--fte) · IIIT Allahabad · 1 question
-- [InfoEdge](companies/infoedge.md#2026-10-26--iit-guwahati--fte--ai-scientist) · IIT Guwahati · 1 question
-- [InfoEdge](companies/infoedge.md#2026-10-26--mnnit-allahabad--fte) · MNNIT Allahabad · 1 question
-- [Juspay](companies/juspay.md#2026-10-26--iit-delhi--fte) · IIT Delhi · 1 question
-- [Microsoft](companies/microsoft.md#2026-10-26--bits-pilani--fte--software-engineer-apprentice) · BITS Pilani · 1 question
-- [NatWest](companies/natwest.md#2026-10-26--iit-roorkee--fte) · IIT Roorkee · 1 question
-- [Stripe](companies/stripe.md#2026-10-26--iit-bhu--fte--interview) · IIT BHU · 1 question
-- [ThoughtSpot](companies/thoughtspot.md#2026-10-26--iit-bhu--fte) · IIT BHU · 1 question
-- [Visa](companies/visa.md#2026-10-26--igdtuw--intern) · IGDTUW · 1 question
-- [Visa](companies/visa.md#2026-10-26--iit-bhu--intern--swe) · IIT BHU · 1 question
-- [Visa](companies/visa.md#2026-10-26--mnnit-allahabad--intern) · MNNIT Allahabad · 1 question
-- [Visa](companies/visa.md#2026-10-26--unknown--fte--interview) · Unknown · 1 question
-- [Visa](companies/visa.md#2026-10-26--unknown--fte) · Unknown · 1 question
-
-**Sun 25 Oct**
-
-- [Accenture](companies/accenture.md#2026-10-25--iit-roorkee--fte) · IIT Roorkee · 42 questions
-- [Accenture](companies/accenture.md#2026-10-25--bits-pilani--unknown) · BITS Pilani · 39 questions
-- [NatWest](companies/natwest.md#2026-10-25--iit-bhu--fte) · IIT BHU · 6 questions
-- [American Express](companies/american-express.md#2026-10-25--iit-guwahati--fte) · IIT Guwahati · 4 questions
-- [InfoEdge](companies/infoedge.md#2026-10-25--iit-guwahati--fte) · IIT Guwahati · 3 questions
-- [Unknown](companies/unknown.md#2026-10-25--iit-delhi--fte) · IIT Delhi · 3 questions
-- [NatWest](companies/natwest.md#2026-10-25--iit-guwahati--fte) · IIT Guwahati · 2 questions
-- [Nvidia](companies/nvidia.md#2026-10-25--iit-dhanbad--intern--system-software) · IIT Dhanbad · 2 questions
-- [ThoughtSpot](companies/thoughtspot.md#2026-10-25--iit-guwahati--fte) · IIT Guwahati · 2 questions
-- [American Express](companies/american-express.md#2026-10-25--iit-guwahati--fte--data-science) · IIT Guwahati · 1 question
-- [American Express](companies/american-express.md#2026-10-25--iit-guwahati--fte--data-science-and-analytics) · IIT Guwahati · 1 question
-- [American Express](companies/american-express.md#2026-10-25--iit-guwahati--fte--management-trainee) · IIT Guwahati · 1 question
-- [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md#2026-10-25--iit-bhu--unknown) · IIT BHU · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-25--iit-guwahati--fte) · IIT Guwahati · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-25--iit-guwahati--fte--data-scientist) · IIT Guwahati · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-25--iit-guwahati--fte--product-analyst) · IIT Guwahati · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-25--iit-roorkee--fte--sde) · IIT Roorkee · 1 question
-- [Houlihan Lokey](companies/houlihan-lokey.md#2026-10-25--iit-guwahati--fte) · IIT Guwahati · 1 question
-- [InfoEdge](companies/infoedge.md#2026-10-25--iit-hyderabad--fte) · IIT Hyderabad · 1 question
-- [Mastercard](companies/mastercard.md#2026-10-25--iiit-sri-city--fte--associate-consultant--aps--other-round) · IIIT Sri City · 1 question
-- [Nvidia](companies/nvidia.md#2026-10-25--vnit-nagpur--fte--system-software) · VNIT Nagpur · 1 question
-- [Paytm](companies/paytm.md#2026-10-25--bits-pilani--fte) · BITS Pilani · 1 question
-- [Stripe](companies/stripe.md#2026-10-25--iit-hyderabad--fte--interview) · IIT Hyderabad · 1 question
-- [Texas Instruments](companies/texas-instruments.md#2026-10-25--iit-bhu--fte) · IIT BHU · 1 question
-- [Visa](companies/visa.md#2026-10-25--unknown--intern--system-engineer) · Unknown · 1 question
-
-**Sat 24 Oct**
-
-- [Accenture](companies/accenture.md#2026-10-24--iit-bhu--fte) · IIT BHU · 4 questions
-- [Flipkart](companies/flipkart.md#2026-10-24--iit-delhi--fte--ai-engineer) · IIT Delhi · 4 questions
-- [Accenture](companies/accenture.md#2026-10-24--iit-guwahati--fte--elite-engineer) · IIT Guwahati · 3 questions
-- [American Express](companies/american-express.md#2026-10-24--iit-bhu--fte--management-trainee---data-science--analytics) · IIT BHU · 3 questions
-- [Flipkart](companies/flipkart.md#2026-10-24--iit-delhi--fte) · IIT Delhi · 3 questions
-- [IBM](companies/ibm.md#2026-10-24--iit-kharagpurkanpur--fte--software-engineer--software-developer) · IIT Kharagpur/Kanpur · 3 questions
-- [InMobi](companies/inmobi.md#2026-10-24--iit-kharagpurkanpur--fte) · IIT Kharagpur/Kanpur · 3 questions
-- [Juspay](companies/juspay.md#2026-10-24--iit-bhu--unknown) · IIT BHU · 3 questions
-- [IBM](companies/ibm.md#2026-10-24--iit-kanpur--fte--software-engineer-swe) · IIT Kanpur · 2 questions
-- [Mastercard](companies/mastercard.md#2026-10-24--iit-kharagpur--fte--software) · IIT Kharagpur · 2 questions
-- [Mastercard](companies/mastercard.md#2026-10-24--iit-kharagpurkanpur--fte) · IIT Kharagpur/Kanpur · 2 questions
-- [Wayfair](companies/wayfair.md#2026-10-24--iit-bhu--fte) · IIT BHU · 2 questions
-- [Accenture](companies/accenture.md#2026-10-24--iit-delhi--fte) · IIT Delhi · 1 question
-- [Apple](companies/apple.md#2026-10-24--iit-bhu--intern--software-engineering-intern) · IIT BHU · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-24--iit-bhu--fte--sde) · IIT BHU · 1 question
-- [Houlihan Lokey](companies/houlihan-lokey.md#2026-10-24--iit-guwahati--fte) · IIT Guwahati · 1 question
-- [NK Securities](companies/nk-securities.md#2026-10-24--iit-bhu--fte--sde--interview) · IIT BHU · 1 question
-- [Visa](companies/visa.md#2026-10-24--iit-bhu--intern) · IIT BHU · 1 question
-- [Visa](companies/visa.md#2026-10-24--mnnit-allahabad--fte) · MNNIT Allahabad · 1 question
-
-**Fri 23 Oct**
-
-- [Juspay](companies/juspay.md#2026-10-23--iit-bhu--fte--sde) · IIT BHU · 5 questions
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-23--iit-guwahati--fte--sde) · IIT Guwahati · 4 questions
-- [Juspay](companies/juspay.md#2026-10-23--iit-bhu--fte) · IIT BHU · 4 questions
-- [American Express](companies/american-express.md#2026-10-23--iit-hyderabad--fte--data-engineer) · IIT Hyderabad · 3 questions
-- [American Express](companies/american-express.md#2026-10-23--iit-kharagpurkanpur--fte) · IIT Kharagpur/Kanpur · 3 questions
-- [American Express](companies/american-express.md#2026-10-23--unknown--fte) · Unknown · 3 questions
-- [NatWest](companies/natwest.md#2026-10-23--iit-guwahati--fte) · IIT Guwahati · 3 questions
-- [Slice](companies/slice.md#2026-10-23--iit-bombay--fte) · IIT Bombay · 3 questions
-- [Tredence](companies/tredence.md#2026-10-23--iit-dhanbad--fte--associate-data-scientist) · IIT Dhanbad · 3 questions
-- [Accenture](companies/accenture.md#2026-10-23--iit-bhu--fte) · IIT BHU · 1 question
-- [Accenture](companies/accenture.md#2026-10-23--iit-hyderabad--fte) · IIT Hyderabad · 1 question
-- [Accenture](companies/accenture.md#2026-10-23--iit-roorkee--fte) · IIT Roorkee · 1 question
-- [Accenture](companies/accenture.md#2026-10-23--mnnit-allahabad--fte) · MNNIT Allahabad · 1 question
-- [American Express](companies/american-express.md#2026-10-23--iit-guwahati--fte--data-engineer--data-science--ai) · IIT Guwahati · 1 question
-- [American Express](companies/american-express.md#2026-10-23--iit-guwahati--fte--data-science-and-analytics) · IIT Guwahati · 1 question
-- [Axxela](companies/axxela.md#2026-10-23--iit-dhanbad--fte) · IIT Dhanbad · 1 question
-- [Deloitte](companies/deloitte.md#2026-10-23--iit-indore--fte) · IIT Indore · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-23--iit-dhanbad--fte--product-analyst) · IIT Dhanbad · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-23--iit-guwahati--fte--product-analyst) · IIT Guwahati · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-23--iit-hyderabad--fte--product-analyst) · IIT Hyderabad · 1 question
-- [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-23--iit-roorkee--fte--sde) · IIT Roorkee · 1 question
-- [Finmechanics](companies/finmechanics.md#2026-10-23--iit-kanpur--fte) · IIT Kanpur · 1 question
-- [Flipkart](companies/flipkart.md#2026-10-23--iit-bhu--fte) · IIT BHU · 1 question
-- [Harness](companies/harness.md#2026-10-23--iit-bhu--fte) · IIT BHU · 1 question
-- [Harness](companies/harness.md#2026-10-23--iit-kharagpur--fte) · IIT Kharagpur · 1 question
-- [Juspay](companies/juspay.md#2026-10-23--iit-hyderabad--fte) · IIT Hyderabad · 1 question
-- [Kickdrum](companies/kickdrum.md#2026-10-23--nit-rourkela--fte--interview) · NIT Rourkela · 1 question
-- [NPCI](companies/npci.md#2026-10-23--iit-jodhpur--fte) · IIT Jodhpur · 1 question
-- [Straive](companies/straive.md#2026-10-23--iit-guwahati--fte) · IIT Guwahati · 1 question
-- [Visa](companies/visa.md#2026-10-23--mnnit-allahabad--intern) · MNNIT Allahabad · 1 question
-- [Zscaler](companies/zscaler.md#2026-10-23--nit-patna--intern--skybound-intern) · NIT Patna · 1 question
-- [Zscaler](companies/zscaler.md#2026-10-23--unknown--fte) · Unknown · 1 question
-- [Zscaler](companies/zscaler.md#2026-10-23--unknown--intern--sde) · Unknown · 1 question
-
-**Thu 22 Oct**
-
-- [Alight Solutions](companies/alight-solutions.md#2026-10-22--iit-roorkee--fte) · IIT Roorkee · 6 questions
-- [Flipkart](companies/flipkart.md#2026-10-22--iit-bhu--fte) · IIT BHU · 4 questions
-- [NatWest](companies/natwest.md#2026-10-22--iit-bhu--fte) · IIT BHU · 3 questions
-- [NatWest](companies/natwest.md#2026-10-22--iit-roorkee--fte) · IIT Roorkee · 3 questions
-- [Accenture](companies/accenture.md#2026-10-22--iit-hyderabad--fte) · IIT Hyderabad · 2 questions
-- [InMobi](companies/inmobi.md#2026-10-22--iit-delhi--fte) · IIT Delhi · 2 questions
-- [Paytm](companies/paytm.md#2026-10-22--bit-mesra--fte) · BIT Mesra · 2 questions
-- [Accenture](companies/accenture.md#2026-10-22--iit-bhu--fte) · IIT BHU · 1 question
-- [Accenture](companies/accenture.md#2026-10-22--mnnit-allahabad--fte) · MNNIT Allahabad · 1 question
-- [Accenture](companies/accenture.md#2026-10-22--nit-delhi--fte) · NIT Delhi · 1 question
-- [American Express](companies/american-express.md#2026-10-22--iit-roorkee--fte) · IIT Roorkee · 1 question
-- [Capital One](companies/capital-one.md#2026-10-22--iit-bhu--fte) · IIT BHU · 1 question
-- [IBM](companies/ibm.md#2026-10-22--iit-bhu--fte) · IIT BHU · 1 question
-- [IBM](companies/ibm.md#2026-10-22--iit-guwahati--fte) · IIT Guwahati · 1 question
-- [ICICI](companies/icici.md#2026-10-22--vnit-nagpur--intern--data-science) · VNIT Nagpur · 1 question
-- [ION](companies/ion.md#2026-10-22--iit-roorkee--fte--product-analyst--interview) · IIT Roorkee · 1 question
-- [InMobi](companies/inmobi.md#2026-10-22--iit-bombay--fte) · IIT Bombay · 1 question
-- [InfoEdge](companies/infoedge.md#2026-10-22--iit-bhu--fte) · IIT BHU · 1 question
-- [InfoEdge](companies/infoedge.md#2026-10-22--iit-roorkee--fte) · IIT Roorkee · 1 question
-- [JSW](companies/jsw.md#2026-10-22--vnit-nagpur--fte) · VNIT Nagpur · 1 question
-- [Slice](companies/slice.md#2026-10-22--iit-kharagpur--fte) · IIT Kharagpur · 1 question
-- [Slice](companies/slice.md#2026-10-22--mnnit-allahabad--fte) · MNNIT Allahabad · 1 question
-- [Tech Mahindra](companies/tech-mahindra.md#2026-10-22--nit-silchar--fte--other-round) · NIT Silchar · 1 question
-- [Visa](companies/visa.md#2026-10-22--iit-dhanbad--intern) · IIT Dhanbad · 1 question
-- [Zscaler](companies/zscaler.md#2026-10-22--iiit--intern--skybound-intern) · IIIT · 1 question
+[Companies](#companies) · [New this week](#new-this-week) · [Topics](#topics) · [LeetCode practice list](practice.md) · [Colleges](#colleges) · [About](#about)
 
 ## Companies
 
-| Company | Questions | Main topics | Colleges | Latest |
-|---|---|---|---|---|
-| [Accenture](companies/accenture.md) | 422 | OS/DBMS/CN MCQ, OA Format, Web Dev | BITS Pilani, IIT BHU, IIT Delhi +20 more | 2026-10-29 |
-| [Eternal (Zomato)](companies/eternal-zomato.md) | 264 | OA Format, Arrays, DP | Delhi Technological University, IIIT Hyderabad, IIT BHU +13 more | 2026-10-29 |
-| [Texas Instruments](companies/texas-instruments.md) | 205 | Aptitude, Digital Electronics, Circuits | BITS Pilani, IIIT Hyderabad, IIT BHU +3 more | 2026-10-28 |
-| [Reliance](companies/reliance.md) | 107 | Mechanical, Aptitude, Verbal | IIT Guwahati, MNNIT Allahabad, Unknown | 2026-10-17 |
-| [NatWest](companies/natwest.md) | 71 | OA Format, Graphs, Strings | Delhi Technological University, IIT BHU, IIT Delhi +3 more | 2026-10-27 |
-| [Deloitte](companies/deloitte.md) | 62 | Verbal, Aptitude, OS/DBMS/CN MCQ | IIT BHU, IIT Dhanbad, IIT Indore +2 more | 2026-10-28 |
-| [Squarepoint](companies/squarepoint.md) | 62 | Arrays, OA Format, Hashing | IIT BHU, IIT Delhi, IIT Kanpur +5 more | 2026-10-21 |
-| [Futures First](companies/futures-first.md) | 51 | Aptitude, Math, Puzzles | IIT BHU, IIT Delhi, IIT Guwahati +1 more | 2026-10-28 |
-| [Rystad Energy](companies/rystad-energy.md) | 51 | Python & Pandas, SQL, Aptitude | IIT Delhi, MNNIT Allahabad | 2026-10-17 |
-| [InMobi](companies/inmobi.md) | 48 | Arrays, DP, Graphs | IIT BHU, IIT Bombay, IIT Delhi +7 more | 2026-10-28 |
-| [American Express](companies/american-express.md) | 47 | OA Format, ML/AI, Hashing | IIT BHU, IIT Guwahati, IIT Hyderabad +5 more | 2026-10-28 |
-| [Harness](companies/harness.md) | 41 | DP, Arrays, Graphs | IIT BHU, IIT Delhi, IIT Guwahati +6 more | 2026-10-23 |
-| [Sedemac](companies/sedemac.md) | 39 | Mechanical, Circuits, Math | IIT Roorkee, NIT Surathkal | 2026-10-11 |
-| [Qualcomm](companies/qualcomm.md) | 35 | Digital Electronics, Aptitude, Code Output (C/C++/Java/Python) | IIT Delhi, IIT Guwahati | 2026-10-18 |
-| [Nvidia](companies/nvidia.md) | 32 | Digital Electronics, OA Format, Math | IIT BHU, IIT Dhanbad, MNNIT Allahabad +5 more | 2026-10-29 |
-| [InfoEdge](companies/infoedge.md) | 31 | OA Format, ML/AI, Code Output (C/C++/Java/Python) | IIIT Allahabad, IIT BHU, IIT Guwahati +4 more | 2026-10-26 |
-| [Flipkart](companies/flipkart.md) | 24 | Graphs, OA Format, Math | BITS Pilani, IIT BHU, IIT Delhi +1 more | 2026-10-28 |
-| [Juspay](companies/juspay.md) | 23 | OA Format, Other, Trees | IIIT Allahabad, IIT BHU, IIT Delhi +3 more | 2026-10-27 |
-| [Tredence](companies/tredence.md) | 23 | OA Format, SQL, Python & Pandas | IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad +3 more | 2026-10-28 |
-| [Visa](companies/visa.md) | 20 | OA Format, Graphs, Math | IGDTUW, IIT BHU, IIT Dhanbad +2 more | 2026-10-28 |
-| [Media.net](companies/media-net.md) | 18 | DP, Arrays, Trees | Delhi Technological University, IIT Bhubaneswar, IIT Bombay +4 more | 2026-10-19 |
-| [IBM](companies/ibm.md) | 17 | OA Format, Web Dev, Arrays | IIIT Kottayam, IIT BHU, IIT Guwahati +4 more | 2026-10-28 |
-| [Alight Solutions](companies/alight-solutions.md) | 16 | OA Format, Arrays, DP | IIT Delhi, IIT Hyderabad, IIT Roorkee | 2026-10-22 |
-| [Accelequant](companies/accelequant.md) | 15 | DP, Greedy, Heaps | BITS Pilani, IIT Delhi, IIT Indore | 2026-10-21 |
-| [Honda](companies/honda.md) | 14 | Arrays, Math, DP | IIT Delhi, IIT Hyderabad, IIT Madras +1 more | 2026-10-17 |
-| [Paytm](companies/paytm.md) | 14 | Strings, OA Format, Linked List | BIT Mesra, BITS Pilani, Unknown | 2026-10-25 |
-| [Teradata](companies/teradata.md) | 14 | Graphs, DP, Math | IIT BHU, NIT Warangal, Unknown | 2026-09-28 |
-| [Zscaler](companies/zscaler.md) | 14 | OA Format, OS/DBMS/CN MCQ, Strings | IIIT, IIT Kharagpur/Kanpur, NIT Patna +2 more | 2026-10-23 |
-| [Spotnana](companies/spotnana.md) | 13 | Binary Search, Greedy, Trees | IIT Delhi, IIT Kanpur | 2026-10-12 |
-| [Adobe](companies/adobe.md) | 12 | OS/DBMS/CN MCQ, Arrays, DP | Unknown | 2026-09-21 |
-| [Kickdrum](companies/kickdrum.md) | 12 | Arrays, Stack/Queue, Two Pointers | IIT Dhanbad, IIT Patna, NIT Rourkela +2 more | 2026-10-23 |
-| [Meltwater](companies/meltwater.md) | 12 | Math, Strings, Arrays | IIT Hyderabad, VIT Vellore | 2026-10-16 |
-| [Microsoft](companies/microsoft.md) | 12 | OA Format, Python & Pandas, Sorting | BITS Pilani, IIT Delhi, IIT Guwahati +3 more | 2026-10-27 |
-| [Plutus Research](companies/plutus-research.md) | 12 | Greedy, Graphs, Trees | IIT Guwahati, IIT Kharagpur | 2026-10-28 |
-| [Axxela](companies/axxela.md) | 10 | Aptitude, OA Format, Math | IIT Dhanbad, IIT Guwahati, SVNIT Surat | 2026-10-23 |
-| [Chargebee](companies/chargebee.md) | 10 | OA Format, Software Engineering, SQL | Unknown, VIT Vellore | 2026-09-22 |
-| [ICICI](companies/icici.md) | 10 | OA Format, OS/DBMS/CN MCQ, Code Output (C/C++/Java/Python) | IIT Guwahati, MNIT Jaipur, MNNIT Allahabad +4 more | 2026-10-27 |
-| [Deutsche Bank](companies/deutsche-bank.md) | 9 | Recursion/Backtracking, Arrays, OA Format | IIT Delhi, IIT Guwahati, IIT Kanpur +1 more | 2026-10-16 |
-| [Capgemini](companies/capgemini.md) | 8 | Strings, Web Dev, OA Format | IIT Delhi, NIT Trichy | 2026-10-20 |
-| [Finmechanics](companies/finmechanics.md) | 8 | Math, Aptitude, DP | IIT Kanpur, IIT Kharagpur/Kanpur | 2026-10-23 |
-| [Google](companies/google.md) | 8 | OA Format, Graphs, Trees | BITS Pilani, IIT Roorkee, Unknown | 2026-09-22 |
-| [ION](companies/ion.md) | 8 | HR & Behavioral, OS/DBMS/CN MCQ, Arrays | IIT BHU, IIT Roorkee, VNIT Nagpur | 2026-10-22 |
-| [MyGate](companies/mygate.md) | 8 | Math, Arrays, Sliding Window | IIT BHU, IIT Delhi, IIT Guwahati | 2026-10-15 |
-| [NxtWave](companies/nxtwave.md) | 8 | Arrays, OA Format, Graphs | IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur | 2026-10-12 |
-| [Pace Stock](companies/pace-stock.md) | 8 | Math, Greedy, Hashing | IIT Kharagpur | 2026-10-07 |
-| [Tech Mahindra](companies/tech-mahindra.md) | 8 | DP, Python & Pandas, OA Format | IIT Delhi, NIT Silchar, VNIT Nagpur | 2026-10-22 |
-| [Mastercard](companies/mastercard.md) | 7 | OA Format, DP, Strings | IIIT Sri City, IIT Guwahati, IIT Kharagpur +1 more | 2026-10-28 |
-| [QiCap](companies/qicap.md) | 7 | Bit Manipulation, DP, Graphs | IIT BHU, IIT Delhi | 2026-10-28 |
-| [Silicon Labs](companies/silicon-labs.md) | 7 | OA Format, Sorting, Arrays | NIT Rourkela, NIT Surathkal, Unknown | 2026-10-15 |
-| [Unknown](companies/unknown.md) | 7 | OA Format, Strings, Math | IIT BHU, IIT Bombay, IIT Delhi +1 more | 2026-10-27 |
-| [Cisco](companies/cisco.md) | 6 | OA Format, Trees, Software Engineering | MNNIT Allahabad, NIT Kurukshetra, Unknown | 2026-09-22 |
-| [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md) | 6 | OA Format, ML/AI, OS/DBMS/CN MCQ | IIT BHU, IIT Guwahati, IIT Hyderabad +1 more | 2026-10-28 |
-| [ThoughtSpot](companies/thoughtspot.md) | 6 | OA Format, Math, Greedy | IIT BHU, IIT Guwahati | 2026-10-27 |
-| [Virtusa](companies/virtusa.md) | 6 | OA Format | IIT Palakkad, Unknown | 2026-09-22 |
-| [Blinkit](companies/blinkit.md) | 5 | Software Engineering, Trees, Recursion/Backtracking | NIT Trichy, Unknown | 2026-09-25 |
-| [Edelweiss](companies/edelweiss.md) | 5 | Math, Puzzles, OA Format | IIT Hyderabad | 2026-10-13 |
-| [Nielsen](companies/nielsen.md) | 5 | Strings, Graphs, Stack/Queue | VIT Vellore | 2026-10-13 |
-| [Slice](companies/slice.md) | 5 | OA Format, Aptitude, Finance | IIT Bombay, IIT Kharagpur, MNNIT Allahabad | 2026-10-23 |
-| [Calix](companies/calix.md) | 4 | OA Format, DP, Math | IIT Dhanbad | 2026-09-22 |
-| [Capital One](companies/capital-one.md) | 4 | Math, OA Format, Graphs | IIT BHU, IIT Bombay | 2026-10-26 |
-| [Cashfree](companies/cashfree.md) | 4 | OA Format, OS/DBMS/CN MCQ, OOP | IIIT Allahabad, IIT BHU, IIT Guwahati +1 more | 2026-10-26 |
-| [Houlihan Lokey](companies/houlihan-lokey.md) | 4 | OA Format | IIT Guwahati | 2026-10-25 |
-| [Straive](companies/straive.md) | 4 | OA Format | IIT Guwahati | 2026-10-23 |
-| [Amazon](companies/amazon.md) | 3 | Hashing, Trees, ML/AI | BITS, IIT BHU | 2026-10-29 |
-| [LG Ads (Alphonso)](companies/lg-ads-alphonso.md) | 3 | Arrays, Sliding Window, Hashing | IIT BHU | 2026-10-21 |
-| [Stripe](companies/stripe.md) | 3 | OA Format, Sorting, Binary Search | BITS Pilani, IIT BHU, IIT Hyderabad | 2026-10-26 |
-| [Tiger Analytics](companies/tiger-analytics.md) | 3 | OA Format | IIT BHU, Unknown | 2026-10-28 |
-| [Warner Music Group](companies/warner-music-group.md) | 3 | SQL, OA Format, OS/DBMS/CN MCQ | IIT Dhanbad | 2026-10-16 |
-| [Apple](companies/apple.md) | 2 | Greedy, Arrays, OA Format | IIT BHU, MNNIT Allahabad | 2026-10-24 |
-| [Cognizant](companies/cognizant.md) | 2 | OA Format | IIIT, IIT BHU | 2026-10-28 |
-| [Dell](companies/dell.md) | 2 | OA Format | IIIT Allahabad, IIT Kharagpur/Kanpur | 2026-10-27 |
-| [NPCI](companies/npci.md) | 2 | Graphs, Greedy, OA Format | IIT BHU, IIT Jodhpur | 2026-10-23 |
-| [Optum](companies/optum.md) | 2 | OA Format | NIT Warangal, Unknown | 2026-10-02 |
-| [Siemens EDA](companies/siemens-eda.md) | 2 | OA Format, Mechanical | IIT Kharagpur/Kanpur, NIT Raipur | 2026-10-15 |
-| [Triology](companies/triology.md) | 2 | OA Format | MNNIT Allahabad, NIT Surathkal | 2026-10-17 |
-| [Wayfair](companies/wayfair.md) | 2 | DP, Arrays, Hashing | IIT BHU | 2026-10-24 |
-| [Auronova Consulting](companies/auronova-consulting.md) | 1 | OA Format | IIT Guwahati | 2026-10-28 |
-| [BlackRock](companies/blackrock.md) | 1 | OA Format | IIT BHU | 2026-10-26 |
-| [Citi](companies/citi.md) | 1 | OA Format | Unknown | 2026-10-27 |
-| [EXL](companies/exl.md) | 1 | OA Format | IIT BHU | 2026-10-28 |
-| [HP](companies/hp.md) | 1 | OA Format | VNIT Nagpur | 2026-10-29 |
-| [Humming Wave](companies/humming-wave.md) | 1 | OA Format | IIT Delhi | 2026-10-12 |
-| [IndusInd Bank](companies/indusind-bank.md) | 1 | OA Format | VNIT Nagpur | 2026-10-11 |
-| [JSW](companies/jsw.md) | 1 | OA Format | VNIT Nagpur | 2026-10-22 |
-| [KPMG](companies/kpmg.md) | 1 | OA Format, Aptitude | VNIT Nagpur | 2026-10-27 |
-| [McKinsey](companies/mckinsey.md) | 1 | Heaps, Greedy, Hashing | IIT Roorkee | 2026-10-28 |
-| [Myntra](companies/myntra.md) | 1 | OA Format | Unknown | 2026-10-10 |
-| [NK Securities](companies/nk-securities.md) | 1 | OA Format | IIT BHU | 2026-10-24 |
-| [NetApp](companies/netapp.md) | 1 | Strings, OA Format | IIT BHU | 2026-10-17 |
-| [Samsung Research Bangalore](companies/samsung-research-bangalore.md) | 1 | DP | BITS Pilani | 2026-10-12 |
+| A–Z | Company (questions) |
+|---|---|
+| **A** | [Accelequant](companies/accelequant.md) (15) · [Accenture](companies/accenture.md) (422) · [Adobe](companies/adobe.md) (12) · [Alight Solutions](companies/alight-solutions.md) (16) · [Amazon](companies/amazon.md) (3) · [American Express](companies/american-express.md) (47) · [Apple](companies/apple.md) (2) · [Auronova Consulting](companies/auronova-consulting.md) (1) · [Axxela](companies/axxela.md) (10) |
+| **B** | [BlackRock](companies/blackrock.md) (1) · [Blinkit](companies/blinkit.md) (5) |
+| **C** | [Calix](companies/calix.md) (4) · [Capgemini](companies/capgemini.md) (8) · [Capital One](companies/capital-one.md) (4) · [Cashfree](companies/cashfree.md) (4) · [Chargebee](companies/chargebee.md) (10) · [Cisco](companies/cisco.md) (6) · [Citi](companies/citi.md) (1) · [Cognizant](companies/cognizant.md) (2) · [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md) (6) |
+| **D** | [Dell](companies/dell.md) (2) · [Deloitte](companies/deloitte.md) (62) · [Deutsche Bank](companies/deutsche-bank.md) (9) |
+| **E** | [Edelweiss](companies/edelweiss.md) (5) · [Eternal (Zomato)](companies/eternal-zomato.md) (264) · [EXL](companies/exl.md) (1) |
+| **F** | [Finmechanics](companies/finmechanics.md) (8) · [Flipkart](companies/flipkart.md) (24) · [Futures First](companies/futures-first.md) (51) |
+| **G** | [Google](companies/google.md) (8) |
+| **H** | [Harness](companies/harness.md) (41) · [Honda](companies/honda.md) (14) · [Houlihan Lokey](companies/houlihan-lokey.md) (4) · [HP](companies/hp.md) (1) · [Humming Wave](companies/humming-wave.md) (1) |
+| **I** | [IBM](companies/ibm.md) (17) · [ICICI](companies/icici.md) (10) · [IndusInd Bank](companies/indusind-bank.md) (1) · [InfoEdge](companies/infoedge.md) (31) · [InMobi](companies/inmobi.md) (48) · [ION](companies/ion.md) (8) |
+| **J** | [JSW](companies/jsw.md) (1) · [Juspay](companies/juspay.md) (23) |
+| **K** | [Kickdrum](companies/kickdrum.md) (12) · [KPMG](companies/kpmg.md) (1) |
+| **L** | [LG Ads (Alphonso)](companies/lg-ads-alphonso.md) (3) |
+| **M** | [Mastercard](companies/mastercard.md) (7) · [McKinsey](companies/mckinsey.md) (1) · [Media.net](companies/media-net.md) (18) · [Meltwater](companies/meltwater.md) (12) · [Microsoft](companies/microsoft.md) (12) · [MyGate](companies/mygate.md) (8) · [Myntra](companies/myntra.md) (1) |
+| **N** | [NatWest](companies/natwest.md) (71) · [NetApp](companies/netapp.md) (1) · [Nielsen](companies/nielsen.md) (5) · [NK Securities](companies/nk-securities.md) (1) · [NPCI](companies/npci.md) (2) · [Nvidia](companies/nvidia.md) (32) · [NxtWave](companies/nxtwave.md) (8) |
+| **O** | [Optum](companies/optum.md) (2) |
+| **P** | [Pace Stock](companies/pace-stock.md) (8) · [Paytm](companies/paytm.md) (14) · [Plutus Research](companies/plutus-research.md) (12) |
+| **Q** | [QiCap](companies/qicap.md) (7) · [Qualcomm](companies/qualcomm.md) (35) |
+| **R** | [Reliance](companies/reliance.md) (107) · [Rystad Energy](companies/rystad-energy.md) (51) |
+| **S** | [Samsung Research Bangalore](companies/samsung-research-bangalore.md) (1) · [Sedemac](companies/sedemac.md) (39) · [Siemens EDA](companies/siemens-eda.md) (2) · [Silicon Labs](companies/silicon-labs.md) (7) · [Slice](companies/slice.md) (5) · [Spotnana](companies/spotnana.md) (13) · [Squarepoint](companies/squarepoint.md) (62) · [Straive](companies/straive.md) (4) · [Stripe](companies/stripe.md) (3) |
+| **T** | [Tech Mahindra](companies/tech-mahindra.md) (8) · [Teradata](companies/teradata.md) (14) · [Texas Instruments](companies/texas-instruments.md) (205) · [ThoughtSpot](companies/thoughtspot.md) (6) · [Tiger Analytics](companies/tiger-analytics.md) (3) · [Tredence](companies/tredence.md) (23) · [Triology](companies/triology.md) (2) |
+| **U** | [Unknown](companies/unknown.md) (7) |
+| **V** | [Virtusa](companies/virtusa.md) (6) · [Visa](companies/visa.md) (20) |
+| **W** | [Warner Music Group](companies/warner-music-group.md) (3) · [Wayfair](companies/wayfair.md) (2) |
+| **Z** | [Zscaler](companies/zscaler.md) (14) |
+
+## New this week
+
+- **Thu 29 Oct:** [Nvidia](companies/nvidia.md#2026-10-29--nit-delhi--intern--hw-intern) (5) · [Accenture](companies/accenture.md#2026-10-29--iit-guwahati--fte) (1) · [Amazon](companies/amazon.md#2026-10-29--bits--fte--sde) (1) · [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-29--iit-indore--fte--associate-program-manager) (1) · [HP](companies/hp.md#2026-10-29--vnit-nagpur--fte--ai--full-stack) (1)
+- **Wed 28 Oct:** [Deloitte](companies/deloitte.md#2026-10-28--iit-dhanbad--fte--analyst) (16) · [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-28--iit-roorkee--fte--product-analyst) (14) · [Plutus Research](companies/plutus-research.md#2026-10-28--iit-kharagpur--fte) (12) · [Nvidia](companies/nvidia.md#2026-10-28--nit-rourkela--fte--system-software-engineer) (7) · [Accenture](companies/accenture.md#2026-10-28--iit-roorkee--fte--elite) (6) · [American Express](companies/american-express.md#2026-10-28--iit-roorkee--fte--data-science--analytics) (5) · [Texas Instruments](companies/texas-instruments.md#2026-10-28--iit-bhu--unknown--embedded-sw--other-round) (5) · [IBM](companies/ibm.md#2026-10-28--mnnit-allahabad--fte) (4) · [QiCap](companies/qicap.md#2026-10-28--iit-bhu--fte) (4) · [Tredence](companies/tredence.md#2026-10-28--iit-hyderabad--fte) (4) · [Flipkart](companies/flipkart.md#2026-10-28--iit-bhu--fte--ai-engineer) (3) · [Mastercard](companies/mastercard.md#2026-10-28--iit-guwahati--fte--data-science) (2) · [Tiger Analytics](companies/tiger-analytics.md#2026-10-28--iit-bhu--fte) (2) · [Visa](companies/visa.md#2026-10-28--unknown--intern--swe) (2) · [Auronova Consulting](companies/auronova-consulting.md#2026-10-28--iit-guwahati--fte) (1) · [Cognizant](companies/cognizant.md#2026-10-28--iit-bhu--fte--ace-frontier-engineer) (1) · [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md#2026-10-28--iit-guwahati--fte--graduate-engineering--technology-graduate---data-science) (1) · [EXL](companies/exl.md#2026-10-28--iit-bhu--fte--consultant-i---analytics-band-b1) (1) · [Futures First](companies/futures-first.md#2026-10-28--iit-guwahati--fte--quant-options-trainee) (1) · [InMobi](companies/inmobi.md#2026-10-28--unknown--fte--applied-scientist) (1) · [McKinsey](companies/mckinsey.md#2026-10-28--iit-roorkee--fte--data-science) (1)
+- **Tue 27 Oct:** [Accenture](companies/accenture.md#2026-10-27--mnnit-allahabad--fte--other-round) (47) · [Deloitte](companies/deloitte.md#2026-10-27--iit-kanpur--fte--analyst) (36) · [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-27--iit-hyderabad--fte--product-analyst) (26) · [American Express](companies/american-express.md#2026-10-27--iit-roorkee--fte) (11) · [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md#2026-10-27--unknown--fte--graduate-engineering-technology-graduate---data-science) (3) · [NatWest](companies/natwest.md#2026-10-27--iit-bhu--fte) (3) · [QiCap](companies/qicap.md#2026-10-27--iit-delhi--fte) (3) · [ThoughtSpot](companies/thoughtspot.md#2026-10-27--iit-guwahati--fte) (3) · [IBM](companies/ibm.md#2026-10-27--iit-kanpur--fte--hardware) (2) · [Juspay](companies/juspay.md#2026-10-27--iit-delhi--fte) (2) · [Unknown](companies/unknown.md#2026-10-27--iit-hyderabad--fte) (2) · [Citi](companies/citi.md#2026-10-27--unknown--intern--modelanalysisvalidation-analyst-i-risk-model-developmentvalidationmonitoring--other-round) (1) · [Dell](companies/dell.md#2026-10-27--iiit-allahabad--fte) (1) · [Flipkart](companies/flipkart.md#2026-10-27--iit-bhu--fte--ai-engineer) (1) · [ICICI](companies/icici.md#2026-10-27--vnit-nagpur--fte) (1) · [KPMG](companies/kpmg.md#2026-10-27--vnit-nagpur--intern--ai-intern) (1) · [Microsoft](companies/microsoft.md#2026-10-27--nit-allahabad-mnnit--fte--software-engineer-apprentice) (1) · [Tiger Analytics](companies/tiger-analytics.md#2026-10-27--unknown--fte--trainee-analyst) (1)
+- **Mon 26 Oct:** [Nvidia](companies/nvidia.md#2026-10-26--mnnit-allahabad--fte) (13) · [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-26--iit-guwahati--fte--sde) (11) · [Visa](companies/visa.md#2026-10-26--unknown--fte) (10) · [Accenture](companies/accenture.md#2026-10-26--iit-roorkee--fte--ai-and-data) (8) · [Deloitte](companies/deloitte.md#2026-10-26--iit-dhanbad--fte) (8) · [InfoEdge](companies/infoedge.md#2026-10-26--mnnit-allahabad--fte) (5) · [American Express](companies/american-express.md#2026-10-26--unknown--fte) (3) · [Capital One](companies/capital-one.md#2026-10-26--iit-bombay--fte) (3) · [Tredence](companies/tredence.md#2026-10-26--unknown--fte) (3) · [BlackRock](companies/blackrock.md#2026-10-26--iit-bhu--intern) (1) · [Cashfree](companies/cashfree.md#2026-10-26--iiit-allahabad--fte) (1) · [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md#2026-10-26--iit-guwahati--fte) (1) · [Juspay](companies/juspay.md#2026-10-26--iit-delhi--fte) (1) · [Microsoft](companies/microsoft.md#2026-10-26--bits-pilani--fte--software-engineer-apprentice) (1) · [NatWest](companies/natwest.md#2026-10-26--iit-roorkee--fte) (1) · [Stripe](companies/stripe.md#2026-10-26--iit-bhu--fte--interview) (1) · [ThoughtSpot](companies/thoughtspot.md#2026-10-26--iit-bhu--fte) (1)
+- **Sun 25 Oct:** [Accenture](companies/accenture.md#2026-10-25--iit-roorkee--fte) (81) · [NatWest](companies/natwest.md#2026-10-25--iit-guwahati--fte) (8) · [American Express](companies/american-express.md#2026-10-25--iit-guwahati--fte) (7) · [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-25--iit-roorkee--fte--sde) (4) · [InfoEdge](companies/infoedge.md#2026-10-25--iit-hyderabad--fte) (4) · [Nvidia](companies/nvidia.md#2026-10-25--vnit-nagpur--fte--system-software) (3) · [Unknown](companies/unknown.md#2026-10-25--iit-delhi--fte) (3) · [ThoughtSpot](companies/thoughtspot.md#2026-10-25--iit-guwahati--fte) (2) · [Commonwealth Bank of Australia](companies/commonwealth-bank-of-australia.md#2026-10-25--iit-bhu--unknown) (1) · [Houlihan Lokey](companies/houlihan-lokey.md#2026-10-25--iit-guwahati--fte) (1) · [Mastercard](companies/mastercard.md#2026-10-25--iiit-sri-city--fte--associate-consultant--aps--other-round) (1) · [Paytm](companies/paytm.md#2026-10-25--bits-pilani--fte) (1) · [Stripe](companies/stripe.md#2026-10-25--iit-hyderabad--fte--interview) (1) · [Texas Instruments](companies/texas-instruments.md#2026-10-25--iit-bhu--fte) (1) · [Visa](companies/visa.md#2026-10-25--unknown--intern--system-engineer) (1)
+- **Sat 24 Oct:** [Accenture](companies/accenture.md#2026-10-24--iit-guwahati--fte--elite-engineer) (8) · [Flipkart](companies/flipkart.md#2026-10-24--iit-delhi--fte) (7) · [IBM](companies/ibm.md#2026-10-24--iit-kharagpurkanpur--fte--software-engineer--software-developer) (5) · [Mastercard](companies/mastercard.md#2026-10-24--iit-kharagpurkanpur--fte) (4) · [American Express](companies/american-express.md#2026-10-24--iit-bhu--fte--management-trainee---data-science--analytics) (3) · [InMobi](companies/inmobi.md#2026-10-24--iit-kharagpurkanpur--fte) (3) · [Juspay](companies/juspay.md#2026-10-24--iit-bhu--unknown) (3) · [Visa](companies/visa.md#2026-10-24--mnnit-allahabad--fte) (2) · [Wayfair](companies/wayfair.md#2026-10-24--iit-bhu--fte) (2) · [Apple](companies/apple.md#2026-10-24--iit-bhu--intern--software-engineering-intern) (1) · [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-24--iit-bhu--fte--sde) (1) · [Houlihan Lokey](companies/houlihan-lokey.md#2026-10-24--iit-guwahati--fte) (1) · [NK Securities](companies/nk-securities.md#2026-10-24--iit-bhu--fte--sde--interview) (1)
+- **Fri 23 Oct:** [American Express](companies/american-express.md#2026-10-23--unknown--fte) (11) · [Juspay](companies/juspay.md#2026-10-23--iit-hyderabad--fte) (10) · [Eternal (Zomato)](companies/eternal-zomato.md#2026-10-23--iit-roorkee--fte--sde) (8) · [Accenture](companies/accenture.md#2026-10-23--mnnit-allahabad--fte) (4) · [NatWest](companies/natwest.md#2026-10-23--iit-guwahati--fte) (3) · [Slice](companies/slice.md#2026-10-23--iit-bombay--fte) (3) · [Tredence](companies/tredence.md#2026-10-23--iit-dhanbad--fte--associate-data-scientist) (3) · [Zscaler](companies/zscaler.md#2026-10-23--unknown--fte) (3) · [Harness](companies/harness.md#2026-10-23--iit-kharagpur--fte) (2) · [Axxela](companies/axxela.md#2026-10-23--iit-dhanbad--fte) (1) · [Deloitte](companies/deloitte.md#2026-10-23--iit-indore--fte) (1) · [Finmechanics](companies/finmechanics.md#2026-10-23--iit-kanpur--fte) (1) · [Flipkart](companies/flipkart.md#2026-10-23--iit-bhu--fte) (1) · [Kickdrum](companies/kickdrum.md#2026-10-23--nit-rourkela--fte--interview) (1) · [NPCI](companies/npci.md#2026-10-23--iit-jodhpur--fte) (1) · [Straive](companies/straive.md#2026-10-23--iit-guwahati--fte) (1) · [Visa](companies/visa.md#2026-10-23--mnnit-allahabad--intern) (1)
+- **Thu 22 Oct:** [Alight Solutions](companies/alight-solutions.md#2026-10-22--iit-roorkee--fte) (6) · [NatWest](companies/natwest.md#2026-10-22--iit-roorkee--fte) (6) · [Accenture](companies/accenture.md#2026-10-22--nit-delhi--fte) (5) · [Flipkart](companies/flipkart.md#2026-10-22--iit-bhu--fte) (4) · [InMobi](companies/inmobi.md#2026-10-22--iit-delhi--fte) (3) · [IBM](companies/ibm.md#2026-10-22--iit-guwahati--fte) (2) · [InfoEdge](companies/infoedge.md#2026-10-22--iit-roorkee--fte) (2) · [Paytm](companies/paytm.md#2026-10-22--bit-mesra--fte) (2) · [Slice](companies/slice.md#2026-10-22--mnnit-allahabad--fte) (2) · [American Express](companies/american-express.md#2026-10-22--iit-roorkee--fte) (1) · [Capital One](companies/capital-one.md#2026-10-22--iit-bhu--fte) (1) · [ICICI](companies/icici.md#2026-10-22--vnit-nagpur--intern--data-science) (1) · [ION](companies/ion.md#2026-10-22--iit-roorkee--fte--product-analyst--interview) (1) · [JSW](companies/jsw.md#2026-10-22--vnit-nagpur--fte) (1) · [Tech Mahindra](companies/tech-mahindra.md#2026-10-22--nit-silchar--fte--other-round) (1) · [Visa](companies/visa.md#2026-10-22--iit-dhanbad--intern) (1) · [Zscaler](companies/zscaler.md#2026-10-22--iiit--intern--skybound-intern) (1)
 
 ## Topics
 
@@ -418,3 +112,9 @@ Read daily from 186 OAHelper groups: 112 company OA groups, 70 campus groups, an
 | VNIT Nagpur | ION (6), ICICI (3), Tredence (2), Accenture (1), IndusInd Bank (1), NatWest (1), HP (1), Media.net (1), Nvidia (1), KPMG (1), Tech Mahindra (1), JSW (1) |
 
 </details>
+
+## About
+
+Online-assessment and interview questions shared in the OAHelper placement groups, for every role, sorted by company, topic and college. A question shared again later is folded into the first time it was seen ("also asked at").
+
+Read daily from 186 OAHelper groups: 112 company OA groups, 70 campus groups, and the placement and intern batch groups. New groups are joined automatically.
