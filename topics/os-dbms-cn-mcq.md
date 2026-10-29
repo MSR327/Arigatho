@@ -1,6 +1,6 @@
 # OS/DBMS/CN MCQ
 
-189 questions from 23 companys, newest first. [← all topics](../README.md#topics)
+194 questions from 23 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
@@ -48,7 +48,8 @@
 | 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Hybrid cloud secure connectivity](../companies/accenture.md#q3-hybrid-cloud-secure-connectivity) | |
 | 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Moving data from accumulator to memory](../companies/accenture.md#q2-moving-data-from-accumulator-to-memory) | |
 | 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Scalable cloud storage](../companies/accenture.md#q1-scalable-cloud-storage) | |
-| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Round 2: experience and OS for autonomous vehicles](../companies/nvidia.md#q1-round-2-experience-and-os-for-autonomous-vehicles) | |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Round 2: experience and OS for autonomous vehicles](../companies/nvidia.md#q4-round-2-experience-and-os-for-autonomous-vehicles) | |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Round 2 questions](../companies/nvidia.md#q1-round-2-questions) | |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [OS for Autonomous Vehicles](../companies/nvidia.md#q1-os-for-autonomous-vehicles) | |
 | 2026-10-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [IT governance in cloud migration](../companies/accenture.md#q6-it-governance-in-cloud-migration) | |
 | 2026-10-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Protocol to encrypt data in transit](../companies/accenture.md#q5-protocol-to-encrypt-data-in-transit) | |
@@ -137,11 +138,15 @@
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Deadlock Detection (MCQ)](../companies/harness.md#q1-deadlock-detection-mcq) | |
 | 2026-10-15 | [Harness](../companies/harness.md) | IIT Delhi | [OA pattern and MCQs (10 MCQs + 2 coding)](../companies/harness.md#q2-oa-pattern-and-mcqs-10-mcqs--2-coding) | |
 | 2026-10-15 | [Cashfree](../companies/cashfree.md) | Unknown | [OA pattern: CS fundamentals MCQs + one Python and one Java question](../companies/cashfree.md#q1-oa-pattern-cs-fundamentals-mcqs--one-python-and-one-java-question) | |
-| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Guwahati | [IT quiz MCQs: AI regulation, subnet masking, code output](../companies/accenture.md#q4-it-quiz-mcqs-ai-regulation-subnet-masking-code-output) | |
+| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Guwahati | [IT quiz MCQs: AI regulation, subnet masking, code output](../companies/accenture.md#q5-it-quiz-mcqs-ai-regulation-subnet-masking-code-output) | |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | [MCQs on CN, DBMS, OS and Linux](../companies/media-net.md#q4-mcqs-on-cn-dbms-os-and-linux) | |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [SQL MCQ: indexing strategy for energy records](../companies/rystad-energy.md#q10-sql-mcq-indexing-strategy-for-energy-records) | |
+| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [In-memory vs traditional databases (incorrect description)](../companies/accenture.md#q11-in-memory-vs-traditional-databases-incorrect-description) | |
+| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [Not a characteristic of a reliable transaction system](../companies/accenture.md#q9-not-a-characteristic-of-a-reliable-transaction-system) | |
+| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [Database rollforward processing](../companies/accenture.md#q6-database-rollforward-processing) | |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Hive ORDER BY vs SORT BY](../companies/accenture.md#q4-hive-order-by-vs-sort-by) | |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Purpose of Apache Hive](../companies/accenture.md#q3-purpose-of-apache-hive) | |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [OA format: 15 MCQs](../companies/eternal-zomato.md#q1-oa-format-15-mcqs) | |
 | 2026-10-13 | [ICICI](../companies/icici.md) | MNIT Jaipur | [ICICI DP OA overall pattern](../companies/icici.md#q1-icici-dp-oa-overall-pattern) | |
 | 2026-10-13 | [Media.net](../companies/media-net.md) | Unknown | [Media.net SRE hiring process description](../companies/media-net.md#q1-medianet-sre-hiring-process-description) | |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [I/O controller OS function](../companies/qualcomm.md#q8-io-controller-os-function) | |

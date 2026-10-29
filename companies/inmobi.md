@@ -1,8 +1,8 @@
 # InMobi
 
-**47 questions** from 22 OA drives · seen at IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNNIT Allahabad, Unknown · latest 2026-10-28
+**48 questions** from 23 OA drives · seen at IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNNIT Allahabad, Unknown · latest 2026-10-28
 
-**Topics:** [Arrays](../topics/arrays.md) (20) · [DP](../topics/dp.md) (12) · [Graphs](../topics/graphs.md) (11) · [OA Format](../topics/oa-format.md) (7) · [Strings](../topics/strings.md) (6) · [Binary Search](../topics/binary-search.md) (5) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (4) · [Greedy](../topics/greedy.md) (4) · [Sliding Window](../topics/sliding-window.md) (4) · [Hashing](../topics/hashing.md) (4) · [Heaps](../topics/heaps.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Stack/Queue](../topics/stack-queue.md) (2) · [Trees](../topics/trees.md) (2) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1)
+**Topics:** [Arrays](../topics/arrays.md) (21) · [DP](../topics/dp.md) (12) · [Graphs](../topics/graphs.md) (11) · [OA Format](../topics/oa-format.md) (8) · [Strings](../topics/strings.md) (6) · [Binary Search](../topics/binary-search.md) (5) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (5) · [Greedy](../topics/greedy.md) (4) · [Sliding Window](../topics/sliding-window.md) (4) · [Hashing](../topics/hashing.md) (4) · [Heaps](../topics/heaps.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Stack/Queue](../topics/stack-queue.md) (2) · [Trees](../topics/trees.md) (2) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1)
 
 **LeetCode matches:** 17 (see the [practice list](../practice.md))
 
@@ -15,6 +15,7 @@
 - [2026-10-21 · IIT Guwahati · FTE · Interview](#2026-10-21--iit-guwahati--fte--interview) · 1 question
 - [2026-10-21 · IIT Delhi · FTE](#2026-10-21--iit-delhi--fte) · 3 questions
 - [2026-10-21 · IIT Delhi · FTE · SDE](#2026-10-21--iit-delhi--fte--sde) · 4 questions
+- [2026-10-20 · IIT BHU · FTE](#2026-10-20--iit-bhu--fte) · 1 question
 - [2026-10-14 · IIT BHU · FTE](#2026-10-14--iit-bhu--fte) · 3 questions
 - [2026-10-13 · Unknown · FTE](#2026-10-13--unknown--fte) · 1 question
 - [2026-10-13 · IIT BHU · FTE](#2026-10-13--iit-bhu--fte) · 3 questions
@@ -292,6 +293,20 @@ Constraints:
 3 coding questions (IIT Delhi, 21 Oct 2026, SDE). Question statements were very long, so the poster had to infer them from the examples. Copy-paste inside the IDE was disabled, and errors showed only as a generic compile error / runtime error. Test cases took a while to run, and `#include <bits/stdc++.h>` was allowed. Shortlisting at IIT Indore was reportedly only for those who solved 3/3.
 
 <sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L93), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L96), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L99), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L1), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L3), [InMobi - OA_iitd.pdf](../archive/files/10309-InMobi_-_OA_iitd.pdf)</sub>
+
+## 2026-10-20 · IIT BHU · FTE
+
+### Q1. InMobi OA format and DSA problems
+
+3 DSA problems on DoSelect, difficulty LeetCode medium-hard, duration 1 hr 30 mins.
+
+IIT BHU problems: one recursion + backtracking problem, one based on LeetCode 1640 (Check Array Formation Through Concatenation), and one very easy problem.
+
+In one question the array size n was not given in the input, so the array elements had to be read until end of input (e.g. `while(cin>>x)`).
+
+Exact statements were not shared.
+
+<sub>Topics: OA Format, Recursion/Backtracking, Arrays · Source: [chat, 20 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L211), [chat, 20 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L214)</sub>
 
 ## 2026-10-14 · IIT BHU · FTE
 

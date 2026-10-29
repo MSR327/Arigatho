@@ -1,11 +1,12 @@
 # Straive
 
-**3 questions** from 3 OA drives · seen at IIT Guwahati · latest 2026-10-19
+**4 questions** from 4 OA drives · seen at IIT Guwahati · latest 2026-10-23
 
-**Topics:** [OA Format](../topics/oa-format.md) (3)
+**Topics:** [OA Format](../topics/oa-format.md) (4)
 
 **Drives:**
 
+- [2026-10-23 · IIT Guwahati · FTE](#2026-10-23--iit-guwahati--fte) · 1 question
 - [2026-10-19 · IIT Guwahati · FTE](#2026-10-19--iit-guwahati--fte) · 1 question
 - [2026-10-16 · IIT Guwahati · FTE](#2026-10-16--iit-guwahati--fte) · 1 question
 - [2026-10-15 · IIT Guwahati · FTE · Data Analyst](#2026-10-15--iit-guwahati--fte--data-analyst) · 1 question
@@ -13,6 +14,14 @@
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-23 · IIT Guwahati · FTE
+
+### Q1. Straive OA pattern
+
+Aptitude, ML and DL questions, 1 Python DSA question (medium-hard), 1 easy SQL question.
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L175)</sub>
 
 ## 2026-10-19 · IIT Guwahati · FTE
 

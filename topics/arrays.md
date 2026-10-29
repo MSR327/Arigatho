@@ -1,6 +1,6 @@
 # Arrays
 
-197 questions from 51 companys, newest first. [← all topics](../README.md#topics)
+214 questions from 51 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
@@ -28,6 +28,7 @@
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur/Kanpur | [Mario and the Number Mountain](../companies/mastercard.md#q2-mario-and-the-number-mountain) | |
 | 2026-10-24 | [Wayfair](../companies/wayfair.md) | IIT BHU | [LIS-based problem](../companies/wayfair.md#q1-lis-based-problem) | |
 | 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kanpur | [Easy DSA question](../companies/ibm.md#q1-easy-dsa-question) | |
+| 2026-10-24 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Column with minimum average in 2D array](../companies/accenture.md#q1-column-with-minimum-average-in-2d-array) | |
 | 2026-10-24 | [Accenture](../companies/accenture.md) | IIT BHU | [First element whose neighbours are both prime](../companies/accenture.md#q1-first-element-whose-neighbours-are-both-prime) | |
 | 2026-10-23 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [First greater element in the entire array](../companies/eternal-zomato.md#q1-first-greater-element-in-the-entire-array) | |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | [Max Distance from Non-Celebrating House to Celebrating House](../companies/flipkart.md#q2-max-distance-from-non-celebrating-house-to-celebrating-house) | [849](https://leetcode.com/problems/maximize-distance-to-closest-person/) Medium |
@@ -47,6 +48,7 @@
 | 2026-10-20 | [IBM](../companies/ibm.md) | MNNIT Allahabad | [In-person coding round: two easy-medium DSA questions](../companies/ibm.md#q1-in-person-coding-round-two-easy-medium-dsa-questions) | |
 | 2026-10-20 | [Capgemini](../companies/capgemini.md) | IIT Delhi | [Frequency of each integer in an array](../companies/capgemini.md#q4-frequency-of-each-integer-in-an-array) | |
 | 2026-10-20 | [Capgemini](../companies/capgemini.md) | IIT Delhi | [Spiral matrix traversal](../companies/capgemini.md#q3-spiral-matrix-traversal) | [54](https://leetcode.com/problems/spiral-matrix/) Medium |
+| 2026-10-20 | [InMobi](../companies/inmobi.md) | IIT BHU | [InMobi OA format and DSA problems](../companies/inmobi.md#q1-inmobi-oa-format-and-dsa-problems) | |
 | 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [Asteroid collision type problem](../companies/eternal-zomato.md#q2-asteroid-collision-type-problem) | [735](https://leetcode.com/problems/asteroid-collision/) Medium |
 | 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-4) | |
 | 2026-10-19 | [Media.net](../companies/media-net.md) | Unknown | [Matrix 2x2 XOR Conversion](../companies/media-net.md#q3-matrix-2x2-xor-conversion) | |
@@ -62,19 +64,24 @@
 | 2026-10-16 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Count contiguous groups of same-sign elements](../companies/accenture.md#q1-count-contiguous-groups-of-same-sign-elements-2) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Count Inversions (MCQ)](../companies/harness.md#q7-count-inversions-mcq) | |
 | 2026-10-16 | [Media.net](../companies/media-net.md) | Delhi Technological University | [Trapping rain water and an easy array question](../companies/media-net.md#q1-trapping-rain-water-and-an-easy-array-question) | [42](https://leetcode.com/problems/trapping-rain-water/) Hard |
-| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Subarrays with GCD Equal to G](../companies/meltwater.md#q3-subarrays-with-gcd-equal-to-g) | |
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Subarrays with GCD Equal to G](../companies/meltwater.md#q6-subarrays-with-gcd-equal-to-g) | |
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Subarray with GCD g: max sum, count, min length](../companies/meltwater.md#q3-subarray-with-gcd-g-max-sum-count-min-length) | |
+| 2026-10-15 | [Harness](../companies/harness.md) | IIT Delhi | [Grid path maximum score (2 rows)](../companies/harness.md#q3-grid-path-maximum-score-2-rows) | |
 | 2026-10-15 | [Microsoft](../companies/microsoft.md) | IIT Delhi | [Count minimum operations to reach target distances](../companies/microsoft.md#q2-count-minimum-operations-to-reach-target-distances) | |
 | 2026-10-15 | [Honda](../companies/honda.md) | IIT Delhi | [Maximum Gross Value of Any Valid Triple](../companies/honda.md#q4-maximum-gross-value-of-any-valid-triple) | |
 | 2026-10-15 | [Microsoft](../companies/microsoft.md) | IIT Delhi | [Count Minimum Operations](../companies/microsoft.md#q2-count-minimum-operations) | [2602](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/) Medium |
 | 2026-10-15 | [Honda](../companies/honda.md) | IIT Delhi | [Maximum Gross Value of Any Valid Triple](../companies/honda.md#q2-maximum-gross-value-of-any-valid-triple) | |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | [Max Sum of Two Cells Not in Same Row/Column](../companies/deutsche-bank.md#q3-max-sum-of-two-cells-not-in-same-rowcolumn) | |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | [Largest Magic Square in Matrix](../companies/deutsche-bank.md#q1-largest-magic-square-in-matrix) | [1895](https://leetcode.com/problems/largest-magic-square/) Medium |
+| 2026-10-15 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Subarrays with GCD g: max sum, count, min length](../companies/meltwater.md#q3-subarrays-with-gcd-g-max-sum-count-min-length) | |
+| 2026-10-15 | [Alight Solutions](../companies/alight-solutions.md) | IIT Hyderabad | [Kadane's with leftmost maximum-sum subarray](../companies/alight-solutions.md#q2-kadanes-with-leftmost-maximum-sum-subarray) | [53](https://leetcode.com/problems/maximum-subarray/) Medium |
 | 2026-10-15 | [Flipkart](../companies/flipkart.md) | MNNIT Allahabad | [Partition Seller Reviews into K Batches (Minimize Max Batch Sum)](../companies/flipkart.md#q1-partition-seller-reviews-into-k-batches-minimize-max-batch-sum) | [410](https://leetcode.com/problems/split-array-largest-sum/) Hard |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | [Two Cores and a Latch (Optimal Operation Split)](../companies/squarepoint.md#q3-two-cores-and-a-latch-optimal-operation-split) | |
-| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Water left after watering N trees](../companies/accenture.md#q1-water-left-after-watering-n-trees) | |
+| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Water left after watering N trees](../companies/accenture.md#q2-water-left-after-watering-n-trees) | |
 | 2026-10-15 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Round down decimals in a list](../companies/rystad-energy.md#q1-round-down-decimals-in-a-list) | |
+| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Grid and Buildings](../companies/accenture.md#q1-grid-and-buildings) | |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | [Merge adjacent elements with minimum total cost](../companies/media-net.md#q3-merge-adjacent-elements-with-minimum-total-cost) | [1000](https://leetcode.com/problems/minimum-cost-to-merge-stones/) Hard |
-| 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | [Fruit Into Baskets](../companies/american-express.md#q2-fruit-into-baskets-2) | [904](https://leetcode.com/problems/fruit-into-baskets/) Medium |
+| 2026-10-15 | [American Express](../companies/american-express.md) | IIT Mandi | [Fruit Into Baskets](../companies/american-express.md#q2-fruit-into-baskets-4) | [904](https://leetcode.com/problems/fruit-into-baskets/) Medium |
 | 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Modified Jump Game II (medium DP)](../companies/accenture.md#q1-modified-jump-game-ii-medium-dp) | |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Round down all decimals in a list](../companies/rystad-energy.md#q1-round-down-all-decimals-in-a-list) | |
 | 2026-10-14 | [Tech Mahindra](../companies/tech-mahindra.md) | IIT Delhi | [Cherry Pickup (LeetCode 741)](../companies/tech-mahindra.md#q2-cherry-pickup-leetcode-741) | [741](https://leetcode.com/problems/cherry-pickup/) Hard |
@@ -86,15 +93,22 @@
 | 2026-10-13 | [InMobi](../companies/inmobi.md) | IIT BHU | [Minimum towers to cover circular towers](../companies/inmobi.md#q3-minimum-towers-to-cover-circular-towers) | |
 | 2026-10-13 | [InMobi](../companies/inmobi.md) | IIT BHU | [Max subarray sum with increasing-decreasing-increasing shape](../companies/inmobi.md#q2-max-subarray-sum-with-increasing-decreasing-increasing-shape) | |
 | 2026-10-13 | [InMobi](../companies/inmobi.md) | IIT BHU | [Subarrays with exactly k odd numbers](../companies/inmobi.md#q1-subarrays-with-exactly-k-odd-numbers) | [1248](https://leetcode.com/problems/count-number-of-nice-subarrays/) Medium |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Jodhpur | [Algorithm training and execution scheduling](../companies/eternal-zomato.md#q4-algorithm-training-and-execution-scheduling) | |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Jodhpur | [Maximum-length equal arrays by merging subarrays](../companies/eternal-zomato.md#q3-maximum-length-equal-arrays-by-merging-subarrays) | |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Jodhpur | [Rearrange songs by artist](../companies/eternal-zomato.md#q2-rearrange-songs-by-artist) | [767](https://leetcode.com/problems/reorganize-string/) Medium |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second highest frequency element](../companies/eternal-zomato.md#q2-second-highest-frequency-element) | |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Asteroid collision type](../companies/eternal-zomato.md#q2-asteroid-collision-type) | [735](https://leetcode.com/problems/asteroid-collision/) Medium |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Second most occurring element](../companies/eternal-zomato.md#q1-second-most-occurring-element) | |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Array prefix sum question](../companies/eternal-zomato.md#q4-array-prefix-sum-question) | |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Servers with lost config values, minimal sum](../companies/eternal-zomato.md#q3-servers-with-lost-config-values-minimal-sum) | |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-5) | |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal OA: DSU and prefix sum](../companies/eternal-zomato.md#q1-eternal-oa-dsu-and-prefix-sum) | |
 | 2026-10-13 | [MyGate](../companies/mygate.md) | IIT BHU | [Missing Number (LeetCode 268)](../companies/mygate.md#q1-missing-number-leetcode-268) | [268](https://leetcode.com/problems/missing-number/) Easy |
 | 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | [Kth next largest element](../companies/nielsen.md#q1-kth-next-largest-element) | |
-| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIIT Hyderabad | [Asteroid collision type](../companies/eternal-zomato.md#q2-asteroid-collision-type) | [735](https://leetcode.com/problems/asteroid-collision/) Medium |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIIT Hyderabad | [Asteroid collision type](../companies/eternal-zomato.md#q2-asteroid-collision-type-1) | [735](https://leetcode.com/problems/asteroid-collision/) Medium |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIIT Hyderabad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-6) | |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Array vs stack difference](../companies/qualcomm.md#q2-array-vs-stack-difference) | |
+| 2026-10-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second most occurring element](../companies/eternal-zomato.md#q1-second-most-occurring-element-1) | |
 | 2026-10-12 | [NxtWave](../companies/nxtwave.md) | IIT Delhi | [Matrix/traversal problems](../companies/nxtwave.md#q6-matrixtraversal-problems) | |
 | 2026-10-12 | [NxtWave](../companies/nxtwave.md) | IIT Delhi | [Maximum sum subarray of size K](../companies/nxtwave.md#q3-maximum-sum-subarray-of-size-k) | |
 | 2026-10-12 | [NxtWave](../companies/nxtwave.md) | IIT Delhi | [Longest subarray with sum K](../companies/nxtwave.md#q1-longest-subarray-with-sum-k) | |
@@ -113,10 +127,12 @@
 | 2026-10-11 | [MyGate](../companies/mygate.md) | IIT Guwahati | [Minimum Replacements to Sort the Array](../companies/mygate.md#q1-minimum-replacements-to-sort-the-array) | [2366](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) Hard |
 | 2026-10-11 | [InMobi](../companies/inmobi.md) | IIT Kanpur | [Max profit streak with start and end ranges](../companies/inmobi.md#q2-max-profit-streak-with-start-and-end-ranges) | |
 | 2026-10-11 | [InMobi](../companies/inmobi.md) | IIT Kanpur | [Max profit streak within a window](../companies/inmobi.md#q1-max-profit-streak-within-a-window) | |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Count contiguous groups of same-sign elements](../companies/accenture.md#q10-count-contiguous-groups-of-same-sign-elements) | |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Remaining water after watering N trees](../companies/accenture.md#q6-remaining-water-after-watering-n-trees) | |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Count contiguous groups of same-sign elements](../companies/accenture.md#q2-count-contiguous-groups-of-same-sign-elements) | |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Remaining water after watering all trees](../companies/accenture.md#q1-remaining-water-after-watering-all-trees) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Count contiguous groups of same-sign elements](../companies/accenture.md#q13-count-contiguous-groups-of-same-sign-elements) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Remaining water after watering N trees](../companies/accenture.md#q9-remaining-water-after-watering-n-trees) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Count contiguous groups of same-sign elements](../companies/accenture.md#q5-count-contiguous-groups-of-same-sign-elements-1) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Remaining water after watering all trees](../companies/accenture.md#q4-remaining-water-after-watering-all-trees) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Count contiguous groups of same-sign elements](../companies/accenture.md#q1-count-contiguous-groups-of-same-sign-elements-3) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Water remaining after watering trees](../companies/accenture.md#q6-water-remaining-after-watering-trees) | |
 | 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Count contiguous groups of same-sign elements](../companies/accenture.md#q5-count-contiguous-groups-of-same-sign-elements) | |
 | 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Remaining water after watering trees](../companies/accenture.md#q2-remaining-water-after-watering-trees) | |
 | 2026-10-10 | [Finmechanics](../companies/finmechanics.md) | IIT Kharagpur/Kanpur | [Longest Consecutive Sequence](../companies/finmechanics.md#q6-longest-consecutive-sequence) | [128](https://leetcode.com/problems/longest-consecutive-sequence/) Medium |
@@ -125,6 +141,7 @@
 | 2026-10-09 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [Split array into k segments, pair-count cost](../companies/alight-solutions.md#q2-split-array-into-k-segments-pair-count-cost) | |
 | 2026-10-09 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [Maximum subarray sum with start and end indices](../companies/alight-solutions.md#q1-maximum-subarray-sum-with-start-and-end-indices) | [53](https://leetcode.com/problems/maximum-subarray/) Medium |
 | 2026-10-09 | [InMobi](../companies/inmobi.md) | IIT BHU | [Trionic Array II](../companies/inmobi.md#q1-trionic-array-ii) | [3640](https://leetcode.com/problems/trionic-array-ii/) Hard |
+| 2026-10-09 | [Honda](../companies/honda.md) | IIT Hyderabad | [Unique pairs with target sum](../companies/honda.md#q2-unique-pairs-with-target-sum-1) | |
 | 2026-10-09 | [Honda](../companies/honda.md) | VIT Vellore | [Maximum Jumps to Reach the Last Index](../companies/honda.md#q3-maximum-jumps-to-reach-the-last-index) | [2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) Medium |
 | 2026-10-09 | [Honda](../companies/honda.md) | VIT Vellore | [Unique Pairs with Target Sum](../companies/honda.md#q2-unique-pairs-with-target-sum) | |
 | 2026-10-09 | [ION](../companies/ion.md) | VNIT Nagpur | [Basic DSA: arrays, strings, hashing, linked lists](../companies/ion.md#q1-basic-dsa-arrays-strings-hashing-linked-lists) | |
@@ -157,8 +174,8 @@
 | 2026-10-01 | [Apple](../companies/apple.md) | MNNIT Allahabad | [Jump Game II](../companies/apple.md#q1-jump-game-ii) | [45](https://leetcode.com/problems/jump-game-ii/) Medium |
 | 2026-09-30 | [Squarepoint](../companies/squarepoint.md) | IIT BHU | [AtCoder ABC206 D](../companies/squarepoint.md#q2-atcoder-abc206-d) | |
 | 2026-09-30 | [Tredence](../companies/tredence.md) | MNNIT Allahabad | [Unique pairs in array with absolute difference d](../companies/tredence.md#q1-unique-pairs-in-array-with-absolute-difference-d) | [532](https://leetcode.com/problems/k-diff-pairs-in-an-array/) Medium |
-| 2026-09-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Asteroid collision type](../companies/eternal-zomato.md#q2-asteroid-collision-type-1) | |
-| 2026-09-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Second most occurring element](../companies/eternal-zomato.md#q1-second-most-occurring-element) | |
+| 2026-09-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Asteroid collision type](../companies/eternal-zomato.md#q2-asteroid-collision-type-2) | |
+| 2026-09-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Second most occurring element](../companies/eternal-zomato.md#q1-second-most-occurring-element-2) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Second most frequent element](../companies/eternal-zomato.md#q1-second-most-frequent-element-8) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Clothes sizes received: can next day's sales be fulfilled](../companies/eternal-zomato.md#q10-clothes-sizes-received-can-next-days-sales-be-fulfilled) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Key-value store with low/medium/high range check](../companies/eternal-zomato.md#q9-key-value-store-with-lowmediumhigh-range-check) | |

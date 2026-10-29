@@ -1,6 +1,6 @@
 # SQL
 
-112 questions from 19 companys, newest first. [← all topics](../README.md#topics)
+117 questions from 19 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@
 | 2026-10-27 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Car rental: cars never rented](../companies/accenture.md#q2-car-rental-cars-never-rented) | |
 | 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [DS role OA pattern](../companies/eternal-zomato.md#q1-ds-role-oa-pattern) | |
 | 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Product Analyst OA structure](../companies/eternal-zomato.md#q1-product-analyst-oa-structure) | |
+| 2026-10-24 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Simple SQL group by / joins](../companies/accenture.md#q2-simple-sql-group-by--joins) | |
 | 2026-10-24 | [Accenture](../companies/accenture.md) | IIT BHU | [SQL: customers who never made a booking](../companies/accenture.md#q2-sql-customers-who-never-made-a-booking) | [183](https://leetcode.com/problems/customers-who-never-order/) Easy |
 | 2026-10-23 | [Tredence](../companies/tredence.md) | IIT Dhanbad | [SQL: high speed trains](../companies/tredence.md#q3-sql-high-speed-trains) | |
 | 2026-10-22 | [Paytm](../companies/paytm.md) | BIT Mesra | [List Customer and Product Without Sale](../companies/paytm.md#q1-list-customer-and-product-without-sale) | |
@@ -42,7 +43,7 @@
 | 2026-10-17 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL join across three tables](../companies/accenture.md#q2-sql-join-across-three-tables) | |
 | 2026-10-16 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Car rental: cars that were never rented](../companies/accenture.md#q2-car-rental-cars-that-were-never-rented) | |
 | 2026-10-16 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL query joining three tables](../companies/accenture.md#q2-sql-query-joining-three-tables) | |
-| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL: join 3 tables with GROUP BY and IS NULL](../companies/accenture.md#q2-sql-join-3-tables-with-group-by-and-is-null) | |
+| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL: join 3 tables with GROUP BY and IS NULL](../companies/accenture.md#q3-sql-join-3-tables-with-group-by-and-is-null) | |
 | 2026-10-15 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Rank employees per department by salary with ties](../companies/rystad-energy.md#q11-rank-employees-per-department-by-salary-with-ties) | |
 | 2026-10-15 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [SQL data type for wind project names](../companies/rystad-energy.md#q10-sql-data-type-for-wind-project-names) | |
 | 2026-10-15 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Indexing strategy for energy records](../companies/rystad-energy.md#q9-indexing-strategy-for-energy-records) | |
@@ -62,6 +63,8 @@
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Convert implicit join to explicit join](../companies/accenture.md#q2-convert-implicit-join-to-explicit-join) | |
 | 2026-10-13 | [Harness](../companies/harness.md) | IIT Guwahati | [10 MCQs on Backend, Testing and SQL](../companies/harness.md#q3-10-mcqs-on-backend-testing-and-sql) | |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [SQL: email campaign analysis](../companies/eternal-zomato.md#q6-sql-email-campaign-analysis) | |
+| 2026-10-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [SQL: email campaign analysis](../companies/eternal-zomato.md#q11-sql-email-campaign-analysis) | |
+| 2026-10-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [SQL: device traffic and cost in May](../companies/eternal-zomato.md#q2-sql-device-traffic-and-cost-in-may) | |
 | 2026-10-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [SQL: basic join and datetime aggregate](../companies/eternal-zomato.md#q2-sql-basic-join-and-datetime-aggregate) | |
 | 2026-10-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [SQL: country, city, customer and logs & bids](../companies/eternal-zomato.md#q1-sql-country-city-customer-and-logs--bids) | |
 | 2026-10-12 | [NatWest](../companies/natwest.md) | IIT Guwahati | [SQL questions (easy)](../companies/natwest.md#q13-sql-questions-easy) | |
@@ -69,11 +72,13 @@
 | 2026-10-12 | [NatWest](../companies/natwest.md) | IIT Guwahati | [SQL query on IPL teams data](../companies/natwest.md#q8-sql-query-on-ipl-teams-data) | |
 | 2026-10-12 | [NatWest](../companies/natwest.md) | IIT Guwahati | [SQL query on IPL teams data](../companies/natwest.md#q4-sql-query-on-ipl-teams-data) | |
 | 2026-10-11 | [NatWest](../companies/natwest.md) | Delhi Technological University | [CS Fundamentals + SQL Sections](../companies/natwest.md#q2-cs-fundamentals--sql-sections) | |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL: join between 3 tables](../companies/accenture.md#q11-sql-join-between-3-tables) | |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL: destinations with more than 2 hotels and average nightly rate](../companies/accenture.md#q9-sql-destinations-with-more-than-2-hotels-and-average-nightly-rate) | |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL: join of 3 tables with GROUP BY and IS NULL](../companies/accenture.md#q7-sql-join-of-3-tables-with-group-by-and-is-null) | |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Destinations with more than 2 hotels and average nightly rate (practice)](../companies/accenture.md#q5-destinations-with-more-than-2-hotels-and-average-nightly-rate-practice) | |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL join across 3 tables with GROUP BY and IS NULL](../companies/accenture.md#q3-sql-join-across-3-tables-with-group-by-and-is-null) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL: join between 3 tables](../companies/accenture.md#q14-sql-join-between-3-tables) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL: destinations with more than 2 hotels and average nightly rate](../companies/accenture.md#q12-sql-destinations-with-more-than-2-hotels-and-average-nightly-rate) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL: join of 3 tables with GROUP BY and IS NULL](../companies/accenture.md#q10-sql-join-of-3-tables-with-group-by-and-is-null) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Destinations with more than 2 hotels and average nightly rate (practice)](../companies/accenture.md#q8-destinations-with-more-than-2-hotels-and-average-nightly-rate-practice) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL join across 3 tables with GROUP BY and IS NULL](../companies/accenture.md#q6-sql-join-across-3-tables-with-group-by-and-is-null) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL join across 3 tables](../companies/accenture.md#q2-sql-join-across-3-tables) | |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL query joining 3 tables](../companies/accenture.md#q7-sql-query-joining-3-tables) | |
 | 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Destinations with more than 2 hotels (SQL practice)](../companies/accenture.md#q1-destinations-with-more-than-2-hotels-sql-practice) | |
 | 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL three-table join](../companies/accenture.md#q3-sql-three-table-join) | |
 | 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [SQL: destinations with more than 2 hotels and average nightly rate](../companies/accenture.md#q1-sql-destinations-with-more-than-2-hotels-and-average-nightly-rate) | |

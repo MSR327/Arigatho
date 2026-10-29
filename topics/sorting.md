@@ -1,6 +1,6 @@
 # Sorting
 
-47 questions from 21 companys, newest first. [← all topics](../README.md#topics)
+48 questions from 21 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
@@ -20,7 +20,8 @@
 | 2026-10-18 | [Flipkart](../companies/flipkart.md) | IIT BHU | [Sorted word position differences and letter (string simulation)](../companies/flipkart.md#q6-sorted-word-position-differences-and-letter-string-simulation) | |
 | 2026-10-17 | [Honda](../companies/honda.md) | IIT Madras | [Square with minimum area enclosing k points](../companies/honda.md#q1-square-with-minimum-area-enclosing-k-points) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Count Inversions (MCQ)](../companies/harness.md#q7-count-inversions-mcq) | |
-| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Kth Character of Concatenated Sorted Unique Substrings](../companies/meltwater.md#q2-kth-character-of-concatenated-sorted-unique-substrings) | |
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Kth Character of Concatenated Sorted Unique Substrings](../companies/meltwater.md#q5-kth-character-of-concatenated-sorted-unique-substrings) | |
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Kth character of concatenated unique substrings](../companies/meltwater.md#q2-kth-character-of-concatenated-unique-substrings) | |
 | 2026-10-15 | [Microsoft](../companies/microsoft.md) | IIT Delhi | [Count minimum operations to reach target distances](../companies/microsoft.md#q2-count-minimum-operations-to-reach-target-distances) | |
 | 2026-10-15 | [Microsoft](../companies/microsoft.md) | IIT Delhi | [Count Minimum Operations](../companies/microsoft.md#q2-count-minimum-operations) | [2602](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/) Medium |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | [Max Sum of Two Cells Not in Same Row/Column](../companies/deutsche-bank.md#q3-max-sum-of-two-cells-not-in-same-rowcolumn) | |

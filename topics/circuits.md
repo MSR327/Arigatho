@@ -1,6 +1,6 @@
 # Circuits
 
-44 questions from 3 companys, newest first. [← all topics](../README.md#topics)
+57 questions from 3 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -21,6 +21,19 @@
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Estimate temperature from ADC counts for thermistor divider](../companies/sedemac.md#q11-estimate-temperature-from-adc-counts-for-thermistor-divider) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Thermistor divider: where is confidence in readings higher](../companies/sedemac.md#q10-thermistor-divider-where-is-confidence-in-readings-higher) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Steady-state voltage at node A in RC network](../companies/sedemac.md#q1-steady-state-voltage-at-node-a-in-rc-network) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Thevenin equivalent from Norton current and resistance](../companies/texas-instruments.md#q112-thevenin-equivalent-from-norton-current-and-resistance) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Two-diode clipper output peak](../companies/texas-instruments.md#q93-two-diode-clipper-output-peak) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Op-amp capacitor voltage decay](../companies/texas-instruments.md#q92-op-amp-capacitor-voltage-decay) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Power dissipated by 12 ohm resistor in network](../companies/texas-instruments.md#q91-power-dissipated-by-12-ohm-resistor-in-network) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Switched-capacitor effective resistance](../companies/texas-instruments.md#q90-switched-capacitor-effective-resistance) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Heart rate monitor RC charging time](../companies/texas-instruments.md#q87-heart-rate-monitor-rc-charging-time) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Equivalent impedance of linear passive circuit](../companies/texas-instruments.md#q86-equivalent-impedance-of-linear-passive-circuit) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Average power in 5 ohm resistor with current source](../companies/texas-instruments.md#q85-average-power-in-5-ohm-resistor-with-current-source) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Maximum average power in variable resistor R](../companies/texas-instruments.md#q81-maximum-average-power-in-variable-resistor-r) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [RC filter time constant in motor control panel](../companies/texas-instruments.md#q80-rc-filter-time-constant-in-motor-control-panel) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [PN diode and Schottky diode ON/OFF states](../companies/texas-instruments.md#q79-pn-diode-and-schottky-diode-onoff-states) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [RL circuit current for 50 cos 200t source](../companies/texas-instruments.md#q78-rl-circuit-current-for-50-cos-200t-source) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Finite-gain op-amp as high pass filter poles](../companies/texas-instruments.md#q75-finite-gain-op-amp-as-high-pass-filter-poles) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [CMOS 3-input NAND delay](../companies/texas-instruments.md#q53-cmos-3-input-nand-delay) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Thevenin equivalent from Norton values](../companies/texas-instruments.md#q52-thevenin-equivalent-from-norton-values) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Ripple factor of inductor filter](../companies/texas-instruments.md#q35-ripple-factor-of-inductor-filter) |

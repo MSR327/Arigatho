@@ -1,6 +1,6 @@
 # Strings
 
-87 questions from 37 companys, newest first. [← all topics](../README.md#topics)
+93 questions from 37 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
@@ -17,9 +17,12 @@
 | 2026-10-24 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Replace each character by digit sum of its ASCII value](../companies/flipkart.md#q2-replace-each-character-by-digit-sum-of-its-ascii-value) | |
 | 2026-10-24 | [Mastercard](../companies/mastercard.md) | IIT Kharagpur/Kanpur | [Edit the Filename](../companies/mastercard.md#q1-edit-the-filename) | [72](https://leetcode.com/problems/edit-distance/) Medium |
 | 2026-10-24 | [American Express](../companies/american-express.md) | IIT BHU | [Number of steps to reduce binary number to one](../companies/american-express.md#q1-number-of-steps-to-reduce-binary-number-to-one) | [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) Medium |
+| 2026-10-23 | [American Express](../companies/american-express.md) | IIT Hyderabad | [Minimum steps to reduce binary number to one](../companies/american-express.md#q1-minimum-steps-to-reduce-binary-number-to-one-1) | [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) Medium |
 | 2026-10-23 | [Juspay](../companies/juspay.md) | IIT BHU | [Maximum points converting DE to CD or ED to DC](../companies/juspay.md#q4-maximum-points-converting-de-to-cd-or-ed-to-dc) | |
 | 2026-10-23 | [Juspay](../companies/juspay.md) | IIT BHU | [Encrypted file name update](../companies/juspay.md#q4-encrypted-file-name-update) | |
+| 2026-10-23 | [NatWest](../companies/natwest.md) | IIT Guwahati | [Remove vowels from a string](../companies/natwest.md#q3-remove-vowels-from-a-string) | [1119](https://leetcode.com/problems/remove-vowels-from-a-string/) Easy |
 | 2026-10-23 | [American Express](../companies/american-express.md) | Unknown | [Minimum steps to reduce binary number to one](../companies/american-express.md#q1-minimum-steps-to-reduce-binary-number-to-one) | [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) Medium |
+| 2026-10-23 | [American Express](../companies/american-express.md) | IIT Kharagpur/Kanpur | [Steps to reduce binary number to one](../companies/american-express.md#q1-steps-to-reduce-binary-number-to-one) | [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) Medium |
 | 2026-10-22 | [InMobi](../companies/inmobi.md) | IIT Delhi | [Word Ladder II variant with costs](../companies/inmobi.md#q1-word-ladder-ii-variant-with-costs) | |
 | 2026-10-22 | [Flipkart](../companies/flipkart.md) | IIT BHU | [ASCII Sum Digit-Sum to Character](../companies/flipkart.md#q1-ascii-sum-digit-sum-to-character) | |
 | 2026-10-22 | [NatWest](../companies/natwest.md) | IIT BHU | [Count occurrences of a digit in a number](../companies/natwest.md#q1-count-occurrences-of-a-digit-in-a-number) | |
@@ -33,9 +36,11 @@
 | 2026-10-18 | [Accenture](../companies/accenture.md) | IIT BHU | [Morse code decode to dictionary word](../companies/accenture.md#q2-morse-code-decode-to-dictionary-word) | |
 | 2026-10-18 | [Flipkart](../companies/flipkart.md) | IIT BHU | [Sorted word position differences and letter (string simulation)](../companies/flipkart.md#q6-sorted-word-position-differences-and-letter-string-simulation) | |
 | 2026-10-17 | [NetApp](../companies/netapp.md) | IIT BHU | [Interview: 2 DSA questions with approach in 3 minutes](../companies/netapp.md#q1-interview-2-dsa-questions-with-approach-in-3-minutes) | |
-| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Kth Character of Concatenated Sorted Unique Substrings](../companies/meltwater.md#q2-kth-character-of-concatenated-sorted-unique-substrings) | |
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Kth Character of Concatenated Sorted Unique Substrings](../companies/meltwater.md#q5-kth-character-of-concatenated-sorted-unique-substrings) | |
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Kth character of concatenated unique substrings](../companies/meltwater.md#q2-kth-character-of-concatenated-unique-substrings) | |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Delhi | [Minimum Concatenations to Form a Target String](../companies/media-net.md#q1-minimum-concatenations-to-form-a-target-string) | |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | [Palindrome with Question Marks](../companies/deutsche-bank.md#q1-palindrome-with-question-marks) | |
+| 2026-10-15 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Kth character of concatenated unique substrings](../companies/meltwater.md#q2-kth-character-of-concatenated-unique-substrings-1) | |
 | 2026-10-15 | [Accenture](../companies/accenture.md) | Unknown | [Decode Morse code to a word in dictionary.txt](../companies/accenture.md#q1-decode-morse-code-to-a-word-in-dictionarytxt) | |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Roorkee | [LeetCode 3035 question](../companies/squarepoint.md#q2-leetcode-3035-question) | [3035](https://leetcode.com/problems/maximum-palindromes-after-operations/) Medium |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | [Build string from prefixes with minimum concatenations](../companies/media-net.md#q1-build-string-from-prefixes-with-minimum-concatenations) | [3291](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/) Medium |
@@ -49,6 +54,7 @@
 | 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | [Caesar cipher variant](../companies/nielsen.md#q3-caesar-cipher-variant) | |
 | 2026-10-13 | [Nielsen](../companies/nielsen.md) | VIT Vellore | [Edit Distance](../companies/nielsen.md#q2-edit-distance) | [72](https://leetcode.com/problems/edit-distance/) Medium |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Word rearrangement with a priority queue](../companies/qualcomm.md#q34-word-rearrangement-with-a-priority-queue) | |
+| 2026-10-12 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Morse code dictionary decode](../companies/accenture.md#q2-morse-code-dictionary-decode) | |
 | 2026-10-12 | [NatWest](../companies/natwest.md) | Delhi Technological University | [Non-overlapping substring occurrences](../companies/natwest.md#q3-non-overlapping-substring-occurrences) | |
 | 2026-10-12 | [NxtWave](../companies/nxtwave.md) | IIT Delhi | [Longest substring without repeating characters](../companies/nxtwave.md#q5-longest-substring-without-repeating-characters) | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
 | 2026-10-12 | [NxtWave](../companies/nxtwave.md) | IIT Delhi | [First non-repeating character](../companies/nxtwave.md#q2-first-non-repeating-character) | |

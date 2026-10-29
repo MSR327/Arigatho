@@ -1,12 +1,14 @@
 # HR & Behavioral
 
-13 questions from 11 companys, newest first. [← all topics](../README.md#topics)
+15 questions from 11 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [SDE interview rounds](../companies/eternal-zomato.md#q1-sde-interview-rounds) |
+| 2026-10-28 | [IBM](../companies/ibm.md) | IIT Guwahati | [IBM recorded competency interview format](../companies/ibm.md#q1-ibm-recorded-competency-interview-format) |
 | 2026-10-27 | [IBM](../companies/ibm.md) | IIT Hyderabad | [IBM diversity hiring interviews](../companies/ibm.md#q1-ibm-diversity-hiring-interviews) |
-| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Round 2: experience and OS for autonomous vehicles](../companies/nvidia.md#q1-round-2-experience-and-os-for-autonomous-vehicles) |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Round 2: experience and OS for autonomous vehicles](../companies/nvidia.md#q4-round-2-experience-and-os-for-autonomous-vehicles) |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Round 2 questions](../companies/nvidia.md#q1-round-2-questions) |
 | 2026-10-22 | [ION](../companies/ion.md) | IIT Roorkee | [ION Product Analyst interview overview](../companies/ion.md#q1-ion-product-analyst-interview-overview) |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kharagpur | [Deutsche Bank OA format](../companies/deutsche-bank.md#q1-deutsche-bank-oa-format) |
 | 2026-10-14 | [Tredence](../companies/tredence.md) | VNIT Nagpur | [OA and interview process description](../companies/tredence.md#q1-oa-and-interview-process-description) |

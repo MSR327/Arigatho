@@ -1,6 +1,6 @@
 # Web Dev
 
-65 questions from 15 companys, newest first. [← all topics](../README.md#topics)
+68 questions from 15 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -22,6 +22,7 @@
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [HTTP method to read restaurant list](../companies/accenture.md#q12-http-method-to-read-restaurant-list-1) |
 | 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kharagpur/Kanpur | [Fix API route validation logic (backend task)](../companies/ibm.md#q2-fix-api-route-validation-logic-backend-task) |
 | 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kanpur | [Codebase understanding and feature implementation (web dev)](../companies/ibm.md#q2-codebase-understanding-and-feature-implementation-web-dev) |
+| 2026-10-24 | [Accenture](../companies/accenture.md) | IIT Guwahati | [HTML, CSS and JS DOM manipulation](../companies/accenture.md#q3-html-css-and-js-dom-manipulation) |
 | 2026-10-24 | [Accenture](../companies/accenture.md) | IIT BHU | [Frontend: build a dynamic URL from text input](../companies/accenture.md#q3-frontend-build-a-dynamic-url-from-text-input) |
 | 2026-10-23 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Live word-count text box (HTML/CSS/JS)](../companies/accenture.md#q1-live-word-count-text-box-htmlcssjs) |
 | 2026-10-23 | [Kickdrum](../companies/kickdrum.md) | NIT Rourkela | [Project folder walkthrough and feature implementation](../companies/kickdrum.md#q1-project-folder-walkthrough-and-feature-implementation) |
@@ -36,14 +37,16 @@
 | 2026-10-17 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [JavaScript frontend task following instructions](../companies/accenture.md#q3-javascript-frontend-task-following-instructions) |
 | 2026-10-16 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Edit given HTML/CSS/JS files to meet requirements](../companies/accenture.md#q3-edit-given-htmlcssjs-files-to-meet-requirements) |
 | 2026-10-16 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [JavaScript DOM frontend task](../companies/accenture.md#q3-javascript-dom-frontend-task) |
-| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Web dev: HTML/CSS/JS edits guided by comments](../companies/accenture.md#q3-web-dev-htmlcssjs-edits-guided-by-comments) |
+| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Web dev: HTML/CSS/JS edits guided by comments](../companies/accenture.md#q4-web-dev-htmlcssjs-edits-guided-by-comments) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Python MCQ: when Selenium is necessary](../companies/rystad-energy.md#q31-python-mcq-when-selenium-is-necessary) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Python MCQ: API pagination with unknown page count](../companies/rystad-energy.md#q29-python-mcq-api-pagination-with-unknown-page-count) |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Accenture Elite Engineering OA: coding-only sections](../companies/accenture.md#q1-accenture-elite-engineering-oa-coding-only-sections) |
 | 2026-10-13 | [Harness](../companies/harness.md) | IIT Guwahati | [10 MCQs on Backend, Testing and SQL](../companies/harness.md#q3-10-mcqs-on-backend-testing-and-sql) |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [JavaScript front-end DOM task](../companies/accenture.md#q12-javascript-front-end-dom-task) |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Web dev: HTML/CSS/JS task from comments](../companies/accenture.md#q8-web-dev-htmlcssjs-task-from-comments) |
-| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Web dev: HTML/CSS/JavaScript modifications](../companies/accenture.md#q4-web-dev-htmlcssjavascript-modifications) |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [JavaScript front-end DOM task](../companies/accenture.md#q15-javascript-front-end-dom-task) |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Web dev: HTML/CSS/JS task from comments](../companies/accenture.md#q11-web-dev-htmlcssjs-task-from-comments) |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Web dev: HTML/CSS/JavaScript modifications](../companies/accenture.md#q7-web-dev-htmlcssjavascript-modifications) |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [JavaScript front-end DOM task](../companies/accenture.md#q3-javascript-front-end-dom-task) |
+| 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Web dev task: HTML, CSS and JS](../companies/accenture.md#q8-web-dev-task-html-css-and-js) |
 | 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Web dev HTML/CSS/JS task](../companies/accenture.md#q4-web-dev-htmlcssjs-task) |
 | 2026-10-10 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [HTML/CSS/JS edits to given files](../companies/accenture.md#q3-htmlcssjs-edits-to-given-files) |
 | 2026-10-09 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Modify HTML, CSS and JavaScript files](../companies/accenture.md#q3-modify-html-css-and-javascript-files) |

@@ -1,11 +1,12 @@
 # Unknown
 
-**6 questions** from 3 OA drives · seen at IIT BHU, IIT Bombay, IIT Delhi · latest 2026-10-27
+**7 questions** from 4 OA drives · seen at IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad · latest 2026-10-27
 
-**Topics:** [OA Format](../topics/oa-format.md) (2) · [Strings](../topics/strings.md) (1) · [Math](../topics/math.md) (1) · [Trees](../topics/trees.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Graphs](../topics/graphs.md) (1) · [DP](../topics/dp.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1) · [Hashing](../topics/hashing.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (3) · [Strings](../topics/strings.md) (1) · [Math](../topics/math.md) (1) · [Trees](../topics/trees.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Graphs](../topics/graphs.md) (1) · [DP](../topics/dp.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1) · [Hashing](../topics/hashing.md) (1) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (1)
 
 **Drives:**
 
+- [2026-10-27 · IIT Hyderabad · FTE](#2026-10-27--iit-hyderabad--fte) · 1 question
 - [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte) · 1 question
 - [2026-10-25 · IIT Delhi · FTE](#2026-10-25--iit-delhi--fte) · 3 questions
 - [2026-10-18 · IIT Bombay · FTE](#2026-10-18--iit-bombay--fte) · 2 questions
@@ -13,6 +14,14 @@
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-27 · IIT Hyderabad · FTE
+
+### Q1. IDFC First Bank OA pattern
+
+The IDFC First Bank OA had pseudocode questions and code output questions. (No further details given.)
+
+<sub>Topics: OA Format, Code Output (C/C++/Java/Python) · Source: [chat, 27 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L38)</sub>
 
 ## 2026-10-27 · IIT BHU · FTE
 

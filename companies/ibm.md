@@ -1,18 +1,20 @@
 # IBM
 
-**15 questions** from 9 OA drives · seen at IIIT Kottayam, IIT BHU, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad · latest 2026-10-28
+**17 questions** from 11 OA drives · seen at IIIT Kottayam, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad · latest 2026-10-28
 
-**Topics:** [OA Format](../topics/oa-format.md) (6) · [Web Dev](../topics/web-dev.md) (5) · [Arrays](../topics/arrays.md) (3) · [Software Engineering](../topics/software-engineering.md) (2) · [Sliding Window](../topics/sliding-window.md) (1) · [Math](../topics/math.md) (1) · [Heaps](../topics/heaps.md) (1) · [Greedy](../topics/greedy.md) (1) · [Digital Electronics](../topics/digital-electronics.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (8) · [Web Dev](../topics/web-dev.md) (5) · [Arrays](../topics/arrays.md) (3) · [Software Engineering](../topics/software-engineering.md) (2) · [HR & Behavioral](../topics/hr-behavioral.md) (2) · [Sliding Window](../topics/sliding-window.md) (1) · [Math](../topics/math.md) (1) · [Heaps](../topics/heaps.md) (1) · [Greedy](../topics/greedy.md) (1) · [Digital Electronics](../topics/digital-electronics.md) (1)
 
 **LeetCode matches:** 1 (see the [practice list](../practice.md))
 
 **Drives:**
 
 - [2026-10-28 · MNNIT Allahabad · FTE](#2026-10-28--mnnit-allahabad--fte) · 3 questions
+- [2026-10-28 · IIT Guwahati · FTE · Interview](#2026-10-28--iit-guwahati--fte--interview) · 1 question
 - [2026-10-27 · IIT Kanpur · FTE · Hardware](#2026-10-27--iit-kanpur--fte--hardware) · 1 question
 - [2026-10-27 · IIT Hyderabad · FTE · Software Engineering · Interview](#2026-10-27--iit-hyderabad--fte--software-engineering--interview) · 1 question
 - [2026-10-24 · IIT Kharagpur/Kanpur · FTE · Software Engineer / Software Developer](#2026-10-24--iit-kharagpurkanpur--fte--software-engineer--software-developer) · 3 questions
 - [2026-10-24 · IIT Kanpur · FTE · Software Engineer (SWE)](#2026-10-24--iit-kanpur--fte--software-engineer-swe) · 2 questions
+- [2026-10-22 · IIT Guwahati · FTE](#2026-10-22--iit-guwahati--fte) · 1 question
 - [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 1 question
 - [2026-10-21 · MNNIT Allahabad · FTE · Software](#2026-10-21--mnnit-allahabad--fte--software) · 1 question
 - [2026-10-20 · MNNIT Allahabad · FTE · ASE · Interview](#2026-10-20--mnnit-allahabad--fte--ase--interview) · 1 question
@@ -41,6 +43,14 @@ A backend question about validating a promo code. The conditions that must be fu
 Allowed frameworks for the backend/web-dev question: Node.js, Spring (Java), Django (Python).
 
 <sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L27), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L46), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L48)</sub>
+
+## 2026-10-28 · IIT Guwahati · FTE · Interview
+
+### Q1. IBM recorded competency interview format
+
+AI-based recorded interview: you get 1 minute to prepare for each question and then must speak for the next 3 minutes.
+
+<sub>Topics: HR & Behavioral, OA Format · Source: [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L39)</sub>
 
 ## 2026-10-27 · IIT Kanpur · FTE · Hardware
 
@@ -91,6 +101,14 @@ One easy DSA question on HackerRank. The exact problem statement was not shared.
 One question where you must understand a complete codebase and implement features, for web development. The question is given in the framework matching the language you choose; for Python it was given in Django.
 
 <sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L13)</sub>
+
+## 2026-10-22 · IIT Guwahati · FTE
+
+### Q1. IBM OA pattern
+
+3 DSA questions (hard) and 20 MCQs on OOPS, DBMS and CN.
+
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L235)</sub>
 
 ## 2026-10-22 · IIT BHU · FTE
 

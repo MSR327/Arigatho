@@ -1,16 +1,18 @@
 # Recursion/Backtracking
 
-24 questions from 13 companys, newest first. [← all topics](../README.md#topics)
+26 questions from 14 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Optimal building placement minimizing max distance](../companies/eternal-zomato.md#q1-optimal-building-placement-minimizing-max-distance) | |
 | 2026-10-27 | [QiCap](../companies/qicap.md) | IIT Delhi | [Minimum cost to remove special nodes in 2^N segment](../companies/qicap.md#q1-minimum-cost-to-remove-special-nodes-in-2n-segment) | |
-| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [How a stack works in recursion](../companies/nvidia.md#q2-how-a-stack-works-in-recursion) | |
+| 2026-10-27 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Guwahati | [Count permutations where Alice wins chocolate trays game](../companies/thoughtspot.md#q2-count-permutations-where-alice-wins-chocolate-trays-game) | |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [How a stack works in recursion](../companies/nvidia.md#q5-how-a-stack-works-in-recursion) | |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [How Stack Works in Recursion](../companies/nvidia.md#q2-how-stack-works-in-recursion) | |
 | 2026-10-25 | [Unknown](../companies/unknown.md) | IIT Delhi | [Binary tree alternating subtree sums](../companies/unknown.md#q2-binary-tree-alternating-subtree-sums) | |
 | 2026-10-23 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Remove at most one node to maximize uninfected nodes](../companies/eternal-zomato.md#q3-remove-at-most-one-node-to-maximize-uninfected-nodes) | |
 | 2026-10-21 | [InMobi](../companies/inmobi.md) | IIT Delhi | [Word Ladder with per-index change cost](../companies/inmobi.md#q1-word-ladder-with-per-index-change-cost) | [126](https://leetcode.com/problems/word-ladder-ii/) Hard |
+| 2026-10-20 | [InMobi](../companies/inmobi.md) | IIT BHU | [InMobi OA format and DSA problems](../companies/inmobi.md#q1-inmobi-oa-format-and-dsa-problems) | |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Delhi | [Domino Arrangement with Matching Columns](../companies/deutsche-bank.md#q2-domino-arrangement-with-matching-columns) | |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | [Largest Perfect Subtree](../companies/deutsche-bank.md#q3-largest-perfect-subtree) | |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [N queens in a row (DSA question)](../companies/deutsche-bank.md#q1-n-queens-in-a-row-dsa-question) | |

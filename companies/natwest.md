@@ -1,10 +1,10 @@
 # NatWest
 
-**68 questions** from 21 OA drives · seen at Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Roorkee, VNIT Nagpur · latest 2026-10-27
+**71 questions** from 22 OA drives · seen at Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Roorkee, VNIT Nagpur · latest 2026-10-27
 
-**Topics:** [OA Format](../topics/oa-format.md) (18) · [Graphs](../topics/graphs.md) (12) · [Arrays](../topics/arrays.md) (12) · [Strings](../topics/strings.md) (11) · [Math](../topics/math.md) (10) · [SQL](../topics/sql.md) (8) · [Hashing](../topics/hashing.md) (8) · [Greedy](../topics/greedy.md) (5) · [DP](../topics/dp.md) (5) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (2) · [Aptitude](../topics/aptitude.md) (2) · [Sorting](../topics/sorting.md) (2) · [Trees](../topics/trees.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Sliding Window](../topics/sliding-window.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (19) · [Graphs](../topics/graphs.md) (13) · [Strings](../topics/strings.md) (12) · [Arrays](../topics/arrays.md) (12) · [Math](../topics/math.md) (10) · [SQL](../topics/sql.md) (8) · [Hashing](../topics/hashing.md) (8) · [Greedy](../topics/greedy.md) (5) · [DP](../topics/dp.md) (5) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (2) · [Aptitude](../topics/aptitude.md) (2) · [Sorting](../topics/sorting.md) (2) · [Trees](../topics/trees.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Sliding Window](../topics/sliding-window.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Heaps](../topics/heaps.md) (1)
 
-**LeetCode matches:** 10 (see the [practice list](../practice.md))
+**LeetCode matches:** 11 (see the [practice list](../practice.md))
 
 **Drives:**
 
@@ -12,6 +12,7 @@
 - [2026-10-26 · IIT Roorkee · FTE](#2026-10-26--iit-roorkee--fte) · 1 question
 - [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte) · 2 questions
 - [2026-10-25 · IIT BHU · FTE](#2026-10-25--iit-bhu--fte) · 6 questions
+- [2026-10-23 · IIT Guwahati · FTE](#2026-10-23--iit-guwahati--fte) · 3 questions
 - [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte) · 3 questions
 - [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 3 questions
 - [2026-10-14 · IIT Roorkee · FTE](#2026-10-14--iit-roorkee--fte) · 1 question
@@ -136,6 +137,26 @@ Section 1: SQL + MCQs; Section 2: 2 DSA questions; Section 3: Aptitude. Question
 The poster's 2 easy-to-medium DSA questions were a sorting problem and a pick / not-pick (take / not take) DP problem. No full problem statements were shared.
 
 <sub>Topics: Sorting, DP · Source: [chat, 25 Oct](../archive/inter-iit/2026-10.jsonl#L989)</sub>
+
+## 2026-10-23 · IIT Guwahati · FTE
+
+### Q1. NatWest OA pattern
+
+15 SQL MCQs, 2 DSA questions and approximately 12 aptitude questions, followed by behavioral questions. Questions repeated from the BHU sets.
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L154), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L156), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L157)</sub>
+
+### Q2. Multi-source Dijkstra
+
+One DSA question was a multi-source Dijkstra problem. The exact statement was not shared.
+
+<sub>Topics: Graphs, Heaps · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L154), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L156), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L157)</sub>
+
+### Q3. Remove vowels from a string
+
+Remove vowels from a string.
+
+<sub>Topics: Strings · Similar: [LeetCode 1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) (Easy) · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L154), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L156), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L157)</sub>
 
 ## 2026-10-22 · IIT Roorkee · FTE
 

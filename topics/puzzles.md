@@ -1,6 +1,6 @@
 # Puzzles
 
-40 questions from 7 companys, newest first. [← all topics](../README.md#topics)
+55 questions from 8 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -19,6 +19,10 @@
 | 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: how many submitted more than Aarav](../companies/futures-first.md#q6-queue-of-researchers-how-many-submitted-more-than-aarav) |
 | 2026-10-14 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue of researchers: highest reports](../companies/futures-first.md#q5-queue-of-researchers-highest-reports) |
 | 2026-10-13 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Queue positioning: highest reports](../companies/futures-first.md#q6-queue-positioning-highest-reports) |
+| 2026-10-13 | [Edelweiss](../companies/edelweiss.md) | IIT Hyderabad | [Expected stopping index when a_k < a_{k+1}](../companies/edelweiss.md#q5-expected-stopping-index-when-a_k--a_k1) |
+| 2026-10-13 | [Edelweiss](../companies/edelweiss.md) | IIT Hyderabad | [Expected arc length containing a 4th random point](../companies/edelweiss.md#q4-expected-arc-length-containing-a-4th-random-point) |
+| 2026-10-13 | [Edelweiss](../companies/edelweiss.md) | IIT Hyderabad | [Probability: selecting a number from [1,120) as a sum of factors of 120](../companies/edelweiss.md#q3-probability-selecting-a-number-from-1120-as-a-sum-of-factors-of-120) |
+| 2026-10-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Cube with red and blue faces, 729 small cubes](../companies/eternal-zomato.md#q9-cube-with-red-and-blue-faces-729-small-cubes) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Number arrangement machine](../companies/texas-instruments.md#q20-number-arrangement-machine) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Day of week after 15 days](../companies/texas-instruments.md#q19-day-of-week-after-15-days) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Letter pairs in PRECISE](../companies/texas-instruments.md#q17-letter-pairs-in-precise) |
@@ -31,6 +35,17 @@
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Queue of doctors](../companies/texas-instruments.md#q6-queue-of-doctors) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Number of triangles in grid figure](../companies/texas-instruments.md#q4-number-of-triangles-in-grid-figure) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Pens on a shelf ordering](../companies/texas-instruments.md#q1-pens-on-a-shelf-ordering-1) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Number arrangement machine Step V](../companies/texas-instruments.md#q116-number-arrangement-machine-step-v) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Letter pairs in PRECISE](../companies/texas-instruments.md#q105-letter-pairs-in-precise) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Five teachers in four schools](../companies/texas-instruments.md#q94-five-teachers-in-four-schools) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Marathon runners finishing order](../companies/texas-instruments.md#q83-marathon-runners-finishing-order) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Seating arrangement of six in a row](../companies/texas-instruments.md#q73-seating-arrangement-of-six-in-a-row) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Blood relation from photograph](../companies/texas-instruments.md#q72-blood-relation-from-photograph) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Alphanumeric sequence completion](../companies/texas-instruments.md#q71-alphanumeric-sequence-completion) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Football players Phoenix and Devils teams](../companies/texas-instruments.md#q67-football-players-phoenix-and-devils-teams) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Queue of doctors](../companies/texas-instruments.md#q66-queue-of-doctors) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Count triangles in grid with diagonal](../companies/texas-instruments.md#q64-count-triangles-in-grid-with-diagonal) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Pens on a shelf ordering](../companies/texas-instruments.md#q61-pens-on-a-shelf-ordering) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Number arrangement machine](../companies/texas-instruments.md#q59-number-arrangement-machine) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Day of week after 15 days](../companies/texas-instruments.md#q58-day-of-week-after-15-days) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Letter pairs in PRECISE](../companies/texas-instruments.md#q45-letter-pairs-in-precise) |

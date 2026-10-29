@@ -1,12 +1,14 @@
 # Two Pointers
 
-13 questions from 9 companys, newest first. [← all topics](../README.md#topics)
+15 questions from 11 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
 | 2026-10-19 | [Media.net](../companies/media-net.md) | Netaji Subhas University of Technology | [Trapping Rain Water](../companies/media-net.md#q1-trapping-rain-water) | [42](https://leetcode.com/problems/trapping-rain-water/) Hard |
 | 2026-10-16 | [Media.net](../companies/media-net.md) | Delhi Technological University | [Trapping rain water and an easy array question](../companies/media-net.md#q1-trapping-rain-water-and-an-easy-array-question) | [42](https://leetcode.com/problems/trapping-rain-water/) Hard |
+| 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Subarray with GCD g: max sum, count, min length](../companies/meltwater.md#q3-subarray-with-gcd-g-max-sum-count-min-length) | |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | [Palindrome with Question Marks](../companies/deutsche-bank.md#q1-palindrome-with-question-marks) | |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Jodhpur | [Maximum-length equal arrays by merging subarrays](../companies/eternal-zomato.md#q3-maximum-length-equal-arrays-by-merging-subarrays) | |
 | 2026-10-12 | [Kickdrum](../companies/kickdrum.md) | IIT Dhanbad | [Codeforces 1771B-like coding question](../companies/kickdrum.md#q1-codeforces-1771b-like-coding-question) | |
 | 2026-10-10 | [Spotnana](../companies/spotnana.md) | IIT Delhi | [Subsequence With the Minimum Score](../companies/spotnana.md#q3-subsequence-with-the-minimum-score) | [2565](https://leetcode.com/problems/subsequence-with-the-minimum-score/) Hard |
 | 2026-10-10 | [Spotnana](../companies/spotnana.md) | IIT Delhi | [Subsequence with the minimum score](../companies/spotnana.md#q6-subsequence-with-the-minimum-score) | [2565](https://leetcode.com/problems/subsequence-with-the-minimum-score/) Hard |

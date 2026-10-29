@@ -1,15 +1,15 @@
 # American Express
 
-**34 questions** from 18 OA drives · seen at IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Mandi, IIT Roorkee, MNNIT Allahabad, Unknown · latest 2026-10-28
+**47 questions** from 26 OA drives · seen at IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Mandi, IIT Roorkee, MNNIT Allahabad, Unknown · latest 2026-10-28
 
-**Topics:** [OA Format](../topics/oa-format.md) (18) · [ML/AI](../topics/ml-ai.md) (5) · [Hashing](../topics/hashing.md) (4) · [Strings](../topics/strings.md) (3) · [Sliding Window](../topics/sliding-window.md) (3) · [Trees](../topics/trees.md) (3) · [Graphs](../topics/graphs.md) (3) · [Aptitude](../topics/aptitude.md) (3) · [SQL](../topics/sql.md) (2) · [Python & Pandas](../topics/python-pandas.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1) · [Other](../topics/other.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1) · [Greedy](../topics/greedy.md) (1) · [Math](../topics/math.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (24) · [ML/AI](../topics/ml-ai.md) (7) · [Hashing](../topics/hashing.md) (6) · [Strings](../topics/strings.md) (5) · [Sliding Window](../topics/sliding-window.md) (5) · [Trees](../topics/trees.md) (5) · [Graphs](../topics/graphs.md) (5) · [Aptitude](../topics/aptitude.md) (3) · [Python & Pandas](../topics/python-pandas.md) (3) · [Math](../topics/math.md) (3) · [SQL](../topics/sql.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1) · [Other](../topics/other.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1) · [Greedy](../topics/greedy.md) (1)
 
-**LeetCode matches:** 9 (see the [practice list](../practice.md))
+**LeetCode matches:** 15 (see the [practice list](../practice.md))
 
 **Drives:**
 
 - [2026-10-28 · IIT Roorkee · FTE · Data Science & Analytics](#2026-10-28--iit-roorkee--fte--data-science--analytics) · 1 question
-- [2026-10-28 · IIT Guwahati · FTE · AI Engineering](#2026-10-28--iit-guwahati--fte--ai-engineering) · 2 questions
+- [2026-10-28 · IIT Guwahati · FTE · AI Engineering](#2026-10-28--iit-guwahati--fte--ai-engineering) · 3 questions
 - [2026-10-28 · IIT BHU · FTE · AI Engineer](#2026-10-28--iit-bhu--fte--ai-engineer) · 1 question
 - [2026-10-27 · IIT Roorkee · FTE](#2026-10-27--iit-roorkee--fte) · 4 questions
 - [2026-10-27 · IIT Roorkee · FTE · Data Science and Analytics](#2026-10-27--iit-roorkee--fte--data-science-and-analytics) · 1 question
@@ -17,11 +17,19 @@
 - [2026-10-27 · IIT Guwahati · FTE](#2026-10-27--iit-guwahati--fte) · 3 questions
 - [2026-10-27 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-27--iit-guwahati--fte--data-science-and-analytics) · 1 question
 - [2026-10-27 · IIT Guwahati · FTE · Data Science & Analytics](#2026-10-27--iit-guwahati--fte--data-science--analytics) · 1 question
+- [2026-10-26 · Unknown · FTE](#2026-10-26--unknown--fte) · 1 question
 - [2026-10-26 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-26--iit-guwahati--fte--data-science-and-analytics) · 1 question
+- [2026-10-26 · IIT Guwahati · FTE · Management Trainee](#2026-10-26--iit-guwahati--fte--management-trainee) · 1 question
 - [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte) · 4 questions
 - [2026-10-25 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-25--iit-guwahati--fte--data-science-and-analytics) · 1 question
+- [2026-10-25 · IIT Guwahati · FTE · Management Trainee](#2026-10-25--iit-guwahati--fte--management-trainee) · 1 question
+- [2026-10-25 · IIT Guwahati · FTE · Data Science](#2026-10-25--iit-guwahati--fte--data-science) · 1 question
 - [2026-10-24 · IIT BHU · FTE · Management Trainee - Data Science & Analytics](#2026-10-24--iit-bhu--fte--management-trainee---data-science--analytics) · 3 questions
 - [2026-10-23 · Unknown · FTE](#2026-10-23--unknown--fte) · 3 questions
+- [2026-10-23 · IIT Kharagpur/Kanpur · FTE](#2026-10-23--iit-kharagpurkanpur--fte) · 3 questions
+- [2026-10-23 · IIT Hyderabad · FTE · Data Engineer](#2026-10-23--iit-hyderabad--fte--data-engineer) · 3 questions
+- [2026-10-23 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-23--iit-guwahati--fte--data-science-and-analytics) · 1 question
+- [2026-10-23 · IIT Guwahati · FTE · Data Engineer / Data Science / AI](#2026-10-23--iit-guwahati--fte--data-engineer--data-science--ai) · 1 question
 - [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte) · 1 question
 - [2026-10-18 · MNNIT Allahabad · FTE](#2026-10-18--mnnit-allahabad--fte) · 2 questions
 - [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte) · 1 question
@@ -58,6 +66,14 @@ Topics asked: LangGraph, KNN, Clojure. (No further detail given.)
 3 questions: LangGraph, CNN and closure (Clojure). AI assistance was given only for the 1st question, and only provided syntax.
 
 <sub>Topics: OA Format, ML/AI · Source: [chat, 28 Oct](../archive/inter-iit/2026-10.jsonl#L1160)</sub>
+
+### Q3. Amex AI Engineering OA format
+
+In the AI Engineering role OA, the questions covered LangGraph, CNN and Clojure (ETL pipeline). Only the 1st question was AI-assisted. For the 2nd and 3rd questions, candidates had to write the models/code themselves.
+
+The exact problem statements were not shared.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L440), [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L441)</sub>
 
 ## 2026-10-28 · IIT BHU · FTE · AI Engineer
 
@@ -161,6 +177,17 @@ Poster noted that many questions in sections 1 and 2 were wrong (options didn't 
 
 <sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L35)</sub>
 
+## 2026-10-26 · Unknown · FTE
+
+### Q1. Amex OA format
+
+OA sections:
+- 12 questions on prompt engineering, Python, SQL MCQs
+- 17 aptitude questions (easy)
+- 16 data interpretation questions
+
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L4)</sub>
+
 ## 2026-10-26 · IIT Guwahati · FTE · Data Science and Analytics
 
 ### Q1. Amex data science OA pattern
@@ -168,6 +195,14 @@ Poster noted that many questions in sections 1 and 2 were wrong (options didn't 
 45 questions, all MCQ, 60 minutes. There was a section-wise time cutoff, so some questions might be missed. Questions were a bit calculation-heavy.
 
 <sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L3)</sub>
+
+## 2026-10-26 · IIT Guwahati · FTE · Management Trainee
+
+### Q1. Amex management trainee OA format
+
+All MCQs with negative marking and intentionally wrong answers, so be precise about what you attempt. Topics: aptitude, logical reasoning, "which prompt is best" type questions, and a few ML-based questions.
+
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L82)</sub>
 
 ## 2026-10-25 · IIT Guwahati · FTE
 
@@ -202,6 +237,55 @@ American Express OA for the Data Science / Data Engineer role had 3 coding tasks
 Around 45 MCQs based on aptitude, probability, SQL queries, and prompt-based LLM/GenAI questions. Each question had negative marking.
 
 <sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L139)</sub>
+
+## 2026-10-25 · IIT Guwahati · FTE · Management Trainee
+
+### Q1. Amex Management Trainee OA pattern
+
+Around 45 MCQs based on aptitude, probability, SQL queries, and prompt-based LLM / GenAI questions. Each question had negative marking.
+
+<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L145)</sub>
+
+## 2026-10-25 · IIT Guwahati · FTE · Data Science
+
+### Q1. FactoryMonitorAgent with LangGraph and LangChain
+
+Task Overview: Implement a `FactoryMonitorAgent` class using LangGraph and LangChain. The agent monitors factory machines by processing telemetry data, assessing severity, taking automated or human-guided actions, and generating a summary report.
+
+Workflow Steps:
+1. Telemetry Input: Machines send telemetry (e.g., temperature, parts inventory, vibration). Agent receives telemetry and machine ID.
+2. Severity Assessment: Agent calls an LLM with the telemetry and machine ID. LLM classifies severity as LOW, MEDIUM, HIGH, or CRITICAL (returns JSON: `{"severity": "..."}`). Agent records "assessed" in `actions_taken`.
+3. Routing Based on Severity: If CRITICAL, agent sets `pending_human_review` to True and pauses and waits for human input (using LangGraph's `interrupt()`). If LOW, MEDIUM or HIGH, agent proceeds to automated resolution.
+4. Automated Resolution: Agent calls LLM with tool-calling enabled. LLM selects which maintenance tools to call (from provided tools). ToolNode executes the selected tools. Agent collects tool results into `actions_taken`.
+5. Human Intervention (if CRITICAL): Agent waits for human decision. When human input is received, agent resumes and records `human_decision`.
+6. Summary Generation: Agent calls LLM to generate a final report. Prompt includes `actions_taken` and, if present, `human_decision`. Report is stored in `state["report"]`.
+
+Required Graph Structure:
+Nodes:
+- `assess`: LLM call for severity assessment.
+- `auto_resolve`: LLM tool-calling for maintenance actions.
+- `tools`: ToolNode that executes tool calls.
+- `await_human`: Pauses for human input.
+- `summarize`: LLM call for final report.
+
+Routing:
+- After `assess`: if CRITICAL -> `await_human`, else -> `auto_resolve`.
+- After `auto_resolve`: if tool calls present -> `tools`, else -> `summarize`.
+- After `tools`: loop back to `auto_resolve`.
+- After `await_human`: proceed to `summarize`.
+
+Graph must use MemorySaver checkpointer for pause/resume.
+
+State Schema:
+```python
+class MachineState(TypedDict):
+    machine_id: str
+    telemetry: dict
+    s...
+```
+The message is cut off here; the rest of the state schema is missing.
+
+<sub>Topics: ML/AI, Python & Pandas · Source: [chat, 25 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L62)</sub>
 
 ## 2026-10-24 · IIT BHU · FTE · Management Trainee - Data Science & Analytics
 
@@ -242,6 +326,62 @@ Fruit Into Baskets (LeetCode 904). Full statement not given.
 Minimum fuel cost to report to the capital (LeetCode 2477). Full statement not given.
 
 <sub>Topics: Graphs, Trees · Similar: [LeetCode 2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) (Medium) · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L236)</sub>
+
+## 2026-10-23 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Steps to reduce binary number to one
+
+LeetCode 1404: Number of Steps to Reduce a Number in Binary Representation to One.
+
+<sub>Topics: Strings, Math · Similar: [LeetCode 1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) (Medium) · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L249)</sub>
+
+### Q2. Fruit into baskets
+
+LeetCode 904: Fruit Into Baskets.
+
+<sub>Topics: Sliding Window, Hashing · Similar: [LeetCode 904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (Medium) · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L249)</sub>
+
+### Q3. Minimum fuel cost to reach capital
+
+LeetCode 2477: Minimum Fuel Cost to Report to the Capital.
+
+<sub>Topics: Graphs, Trees · Similar: [LeetCode 2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) (Medium) · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L249)</sub>
+
+## 2026-10-23 · IIT Hyderabad · FTE · Data Engineer
+
+### Q1. Minimum steps to reduce binary number to one
+
+LeetCode 1404: Number of Steps to Reduce a Number in Binary Representation to One.
+
+<sub>Topics: Strings, Math · Similar: [LeetCode 1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) (Medium) · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L176)</sub>
+
+### Q2. Fruit into baskets
+
+LeetCode 904: Fruit Into Baskets.
+
+<sub>Topics: Sliding Window, Hashing · Similar: [LeetCode 904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (Medium) · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L176)</sub>
+
+### Q3. Minimum fuel cost to reach the capital
+
+LeetCode 2477: Minimum Fuel Cost to Report to the Capital.
+
+<sub>Topics: Graphs, Trees · Similar: [LeetCode 2477. Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) (Medium) · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L176)</sub>
+
+## 2026-10-23 · IIT Guwahati · FTE · Data Science and Analytics
+
+### Q1. Amex Data Science OA pattern
+
+45 MCQs, no DSA coding. Described as a formality; shortlisting will be based on CPI.
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L174)</sub>
+
+## 2026-10-23 · IIT Guwahati · FTE · Data Engineer / Data Science / AI
+
+### Q1. Amex OA pattern (AI, DS, data engineer roles)
+
+No DSA questions. Questions were unusual; about 3 such questions and hardly anyone could solve any. Data engineer role: build an ELT pipeline using their AI chatbot. AI role: should know how to build pipelines and implement a CNN. DS role: aptitude, prompt/LLM, a few stats, SQL and Python questions. All were MCQs only (for the DS/AI paper).
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L182), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L183), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L186), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L188)</sub>
 
 ## 2026-10-22 · IIT Roorkee · FTE
 

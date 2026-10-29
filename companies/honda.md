@@ -1,16 +1,17 @@
 # Honda
 
-**10 questions** from 3 OA drives · seen at IIT Delhi, IIT Madras, VIT Vellore · latest 2026-10-17
+**14 questions** from 4 OA drives · seen at IIT Delhi, IIT Hyderabad, IIT Madras, VIT Vellore · latest 2026-10-17
 
-**Topics:** [Arrays](../topics/arrays.md) (5) · [Math](../topics/math.md) (3) · [DP](../topics/dp.md) (3) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Hashing](../topics/hashing.md) (1) · [Two Pointers](../topics/two-pointers.md) (1) · [Graphs](../topics/graphs.md) (1) · [Sorting](../topics/sorting.md) (1) · [Other](../topics/other.md) (1)
+**Topics:** [Arrays](../topics/arrays.md) (6) · [Math](../topics/math.md) (4) · [DP](../topics/dp.md) (4) · [Hashing](../topics/hashing.md) (2) · [Graphs](../topics/graphs.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Two Pointers](../topics/two-pointers.md) (1) · [Sorting](../topics/sorting.md) (1) · [Other](../topics/other.md) (1)
 
-**LeetCode matches:** 2 (see the [practice list](../practice.md))
+**LeetCode matches:** 3 (see the [practice list](../practice.md))
 
 **Drives:**
 
 - [2026-10-17 · IIT Madras · FTE](#2026-10-17--iit-madras--fte) · 2 questions
 - [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 4 questions
 - [2026-10-09 · VIT Vellore · FTE](#2026-10-09--vit-vellore--fte) · 4 questions
+- [2026-10-09 · IIT Hyderabad · FTE](#2026-10-09--iit-hyderabad--fte) · 4 questions
 
 [← all companies](../README.md#companies)
 
@@ -137,3 +138,74 @@ Rule:
 Return the remain[ing nodes] ... (message text was cut off here in the source)
 
 <sub>Topics: Graphs · Similar: [LeetCode 3310. Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) (Medium) · Source: [chat, 9 Oct](../archive/inter-iit/2026-10.jsonl#L292)</sub>
+
+## 2026-10-09 · IIT Hyderabad · FTE
+
+### Q1. Maximum GCD of any pair
+
+Given an integer n (n ≥ 2), consider every pair of distinct integers (a, b) with 1 ≤ a < b ≤ n. Return the maximum value of gcd(a, b) over all such pairs.
+
+Example
+
+```
+Input: n = 5
+Pairs: (1,2), (1,3), (1,4), (1,5), (2,3), (2,4), (2,5), (3,4), (3,5), (4,5)
+Output: 2, from the pair (2, 4)
+```
+
+<sub>Topics: Math · Source: [chat, 9 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L153)</sub>
+
+### Q2. Unique pairs with target sum
+
+Given an integer array nums and an integer target, return all unique pairs (a, b) from the array such that a + b = target.
+
+- Each pair uses two different indices.
+- Pairs are unordered, so (a, b) and (b, a) count as the same pair.
+- Duplicate values in the array must not produce duplicate pairs in the output.
+
+Example
+
+```
+Input: nums = [1, 5, 7, -1, 5], target = 6
+Output: [(1, 5), (7, -1)]
+```
+(1, 5) appears only once even though 5 occurs twice.
+
+<sub>Topics: Hashing, Arrays · Source: [chat, 9 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L153)</sub>
+
+### Q3. Maximum jumps to reach the last stone
+
+You are given an array nums of length n and an integer limit. You start at index 0 and want to reach index n - 1.
+
+From index i, you may jump to any index j that satisfies both conditions:
+
+- i < j (you can only jump forward)
+- |nums[j] - nums[i]| ≤ limit
+
+Return the maximum number of jumps you can make to reach index n - 1. If the last index cannot be reached, return -1.
+
+Example
+
+```
+Input: nums = [1, 3, 6, 4, 1, 2], limit = 2
+Output: 3, using the path 0 → 1 → 3 → 5 (values 1 → 3 → 4 → 2)
+```
+
+The poster notes this is the same as LeetCode 2770.
+
+<sub>Topics: DP · Similar: [LeetCode 2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) (Medium) · Source: [chat, 9 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L153)</sub>
+
+### Q4. Remove suspicious nodes from a directed graph
+
+You are given n nodes labeled 0 to n - 1, a list of directed edges edges where [a, b] means node a points to node b, and a node k that is suspicious.
+
+Suspicious set: node k, plus every node reachable from k (directly or indirectly) by following the edges.
+
+Rule:
+
+- If no node outside the suspicious set has an edge into any node inside it, remove the entire suspicious set.
+- If at least one outside node points into the suspicious set, removing it is not allowed, so no nodes are removed.
+
+Return the remain... (the message is cut off here; the rest of the statement is missing).
+
+<sub>Topics: Graphs · Source: [chat, 9 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L153)</sub>

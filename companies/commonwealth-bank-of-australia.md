@@ -1,12 +1,14 @@
 # Commonwealth Bank of Australia
 
-**4 questions** from 4 OA drives · seen at IIT BHU, IIT Guwahati · latest 2026-10-28
+**6 questions** from 6 OA drives · seen at IIT BHU, IIT Guwahati, IIT Hyderabad, Unknown · latest 2026-10-28
 
-**Topics:** [OA Format](../topics/oa-format.md) (4) · [ML/AI](../topics/ml-ai.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [SQL](../topics/sql.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (6) · [ML/AI](../topics/ml-ai.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [SQL](../topics/sql.md) (1)
 
 **Drives:**
 
 - [2026-10-28 · IIT Guwahati · FTE · Graduate Engineering / Technology Graduate - Data Science](#2026-10-28--iit-guwahati--fte--graduate-engineering--technology-graduate---data-science) · 1 question
+- [2026-10-27 · Unknown · FTE · Graduate Engineering, Technology Graduate - Data Science](#2026-10-27--unknown--fte--graduate-engineering-technology-graduate---data-science) · 1 question
+- [2026-10-27 · IIT Hyderabad · FTE](#2026-10-27--iit-hyderabad--fte) · 1 question
 - [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte) · 1 question
 - [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte) · 1 question
 - [2026-10-25 · IIT BHU · Unknown](#2026-10-25--iit-bhu--unknown) · 1 question
@@ -22,6 +24,22 @@
 DSA questions, core CS MCQs on operating systems and computer networks, and SQL.
 
 <sub>Topics: OA Format, OS/DBMS/CN MCQ, SQL · Source: [chat, 28 Oct](../archive/inter-nit/2026-10.jsonl#L2695), [chat, 28 Oct](../archive/inter-nit/2026-10.jsonl#L2698)</sub>
+
+## 2026-10-27 · Unknown · FTE · Graduate Engineering, Technology Graduate - Data Science
+
+### Q1. CBA OA pattern
+
+MCQs covering aptitude and CS fundamentals, plus 2 easy coding questions (as heard by the poster).
+
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L32)</sub>
+
+## 2026-10-27 · IIT Hyderabad · FTE
+
+### Q1. Commonwealth Bank OA pattern
+
+The OA had coding + MCQ sections. (Question details and MCQ topics were not given.)
+
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L36)</sub>
 
 ## 2026-10-27 · IIT BHU · FTE
 

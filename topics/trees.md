@@ -1,6 +1,6 @@
 # Trees
 
-64 questions from 28 companys, newest first. [← all topics](../README.md#topics)
+70 questions from 28 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
@@ -15,22 +15,27 @@
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Mean hops in a complete binary tree of 15 routers](../companies/deloitte.md#q21-mean-hops-in-a-complete-binary-tree-of-15-routers) | |
 | 2026-10-26 | [Visa](../companies/visa.md) | IIT BHU | [Remove Node to Minimise Infection in Tree](../companies/visa.md#q3-remove-node-to-minimise-infection-in-tree) | |
 | 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q3-minimum-sum-assignment-on-a-tree-1) | |
-| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Iterative in-order traversal using a stack](../companies/nvidia.md#q3-iterative-in-order-traversal-using-a-stack) | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) Easy |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Iterative in-order traversal using a stack](../companies/nvidia.md#q6-iterative-in-order-traversal-using-a-stack) | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) Easy |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Recursion stack and iterative in-order traversal](../companies/nvidia.md#q2-recursion-stack-and-iterative-in-order-traversal) | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) Easy |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Iterative In-order Traversal Using Stack](../companies/nvidia.md#q3-iterative-in-order-traversal-using-stack) | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) Easy |
+| 2026-10-25 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Rerooting question](../companies/eternal-zomato.md#q1-rerooting-question) | |
 | 2026-10-25 | [Nvidia](../companies/nvidia.md) | IIT Dhanbad | [Max path sum plus max edge in weighted tree](../companies/nvidia.md#q2-max-path-sum-plus-max-edge-in-weighted-tree) | |
 | 2026-10-25 | [Unknown](../companies/unknown.md) | IIT Delhi | [Binary tree alternating subtree sums](../companies/unknown.md#q2-binary-tree-alternating-subtree-sums) | |
 | 2026-10-24 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Balanced-Parity Category Nodes](../companies/flipkart.md#q2-balanced-parity-category-nodes) | |
 | 2026-10-24 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Count nodes by odd/even subtree sums in a binary tree](../companies/flipkart.md#q1-count-nodes-by-oddeven-subtree-sums-in-a-binary-tree) | |
 | 2026-10-24 | [InMobi](../companies/inmobi.md) | IIT Kharagpur/Kanpur | [Secure Network Resilience](../companies/inmobi.md#q2-secure-network-resilience) | |
 | 2026-10-24 | [American Express](../companies/american-express.md) | IIT BHU | [Minimum fuel cost to reach the capital](../companies/american-express.md#q3-minimum-fuel-cost-to-reach-the-capital) | [2477](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) Medium |
+| 2026-10-23 | [American Express](../companies/american-express.md) | IIT Hyderabad | [Minimum fuel cost to reach the capital](../companies/american-express.md#q3-minimum-fuel-cost-to-reach-the-capital-1) | [2477](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) Medium |
 | 2026-10-23 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Maximum connected value for every node in a tree](../companies/eternal-zomato.md#q2-maximum-connected-value-for-every-node-in-a-tree) | |
 | 2026-10-23 | [American Express](../companies/american-express.md) | Unknown | [Minimum fuel cost to report to the capital](../companies/american-express.md#q3-minimum-fuel-cost-to-report-to-the-capital) | [2477](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) Medium |
+| 2026-10-23 | [American Express](../companies/american-express.md) | IIT Kharagpur/Kanpur | [Minimum fuel cost to reach capital](../companies/american-express.md#q3-minimum-fuel-cost-to-reach-capital) | [2477](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) Medium |
 | 2026-10-22 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [Height of binary tree: find the error](../companies/alight-solutions.md#q3-height-of-binary-tree-find-the-error) | |
 | 2026-10-21 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q3-minimum-sum-assignment-on-a-tree-2) | |
 | 2026-10-19 | [Media.net](../companies/media-net.md) | Unknown | [Magic Number Array](../companies/media-net.md#q1-magic-number-array) | |
 | 2026-10-18 | [Juspay](../companies/juspay.md) | IIIT Allahabad | [Sync Engine](../companies/juspay.md#q1-sync-engine) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | IIT Delhi | [Codeforces 592D](../companies/harness.md#q1-codeforces-592d) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Binary Tree Traversals (MSQ)](../companies/harness.md#q5-binary-tree-traversals-msq) | |
+| 2026-10-15 | [Harness](../companies/harness.md) | IIT Delhi | [Minimum moves to visit required nodes in a tree](../companies/harness.md#q4-minimum-moves-to-visit-required-nodes-in-a-tree) | |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Delhi | [Recover Two Swapped Elements in a BST](../companies/media-net.md#q2-recover-two-swapped-elements-in-a-bst) | [99](https://leetcode.com/problems/recover-binary-search-tree/) Medium |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | [Largest Perfect Subtree](../companies/deutsche-bank.md#q3-largest-perfect-subtree) | |
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Kharagpur | [Tree Traversal Integrity (Valid BFS)](../companies/squarepoint.md#q2-tree-traversal-integrity-valid-bfs) | |
@@ -39,6 +44,7 @@
 | 2026-10-13 | [Harness](../companies/harness.md) | IIT Guwahati | [Tower Placement on a Tree](../companies/harness.md#q2-tower-placement-on-a-tree-1) | |
 | 2026-10-13 | [Harness](../companies/harness.md) | IIT Guwahati | [Tower Placement on a Tree](../companies/harness.md#q2-tower-placement-on-a-tree) | |
 | 2026-10-13 | [MyGate](../companies/mygate.md) | IIT Delhi | [7 DSA MCQs](../companies/mygate.md#q2-7-dsa-mcqs) | |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Thread Count (tree with adjacent difference exactly 1)](../companies/eternal-zomato.md#q3-thread-count-tree-with-adjacent-difference-exactly-1) | |
 | 2026-10-13 | [Media.net](../companies/media-net.md) | IIT Bhubaneswar | [Recover BST with two swapped nodes](../companies/media-net.md#q2-recover-bst-with-two-swapped-nodes) | [99](https://leetcode.com/problems/recover-binary-search-tree/) Medium |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Rerooting tree question](../companies/eternal-zomato.md#q2-rerooting-tree-question) | |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [In-order predecessor of the root](../companies/qualcomm.md#q4-in-order-predecessor-of-the-root) | |

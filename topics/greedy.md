@@ -1,6 +1,6 @@
 # Greedy
 
-69 questions from 27 companys, newest first. [← all topics](../README.md#topics)
+77 questions from 27 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
@@ -19,10 +19,12 @@
 | 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kharagpur/Kanpur | [Minimum cost to merge array into one element](../companies/ibm.md#q1-minimum-cost-to-merge-array-into-one-element) | [1167](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) Medium |
 | 2026-10-23 | [Juspay](../companies/juspay.md) | IIT BHU | [Maximum points converting DE to CD or ED to DC](../companies/juspay.md#q4-maximum-points-converting-de-to-cd-or-ed-to-dc) | |
 | 2026-10-23 | [American Express](../companies/american-express.md) | Unknown | [Minimum steps to reduce binary number to one](../companies/american-express.md#q1-minimum-steps-to-reduce-binary-number-to-one) | [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) Medium |
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Task Scheduler](../companies/accelequant.md#q8-task-scheduler) | [621](https://leetcode.com/problems/task-scheduler/) Medium |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Task Scheduler (LeetCode 621)](../companies/accelequant.md#q2-task-scheduler-leetcode-621) | [621](https://leetcode.com/problems/task-scheduler/) Medium |
 | 2026-10-21 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum sum assignment on a tree](../companies/eternal-zomato.md#q3-minimum-sum-assignment-on-a-tree-2) | |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Minimum Increase in Experience Multiplier](../companies/accenture.md#q2-minimum-increase-in-experience-multiplier) | |
 | 2026-10-21 | [Accenture](../companies/accenture.md) | IIT BHU | [Find minimum number of cars](../companies/accenture.md#q1-find-minimum-number-of-cars) | |
+| 2026-10-20 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Task Scheduler](../companies/accelequant.md#q2-task-scheduler) | [621](https://leetcode.com/problems/task-scheduler/) Medium |
 | 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [Servers with lost config values, minimum total sum](../companies/eternal-zomato.md#q5-servers-with-lost-config-values-minimum-total-sum) | |
 | 2026-10-19 | [Media.net](../companies/media-net.md) | Unknown | [Matrix 2x2 XOR Conversion](../companies/media-net.md#q3-matrix-2x2-xor-conversion) | |
 | 2026-10-18 | [NPCI](../companies/npci.md) | IIT BHU | [Rogue Packet Filters](../companies/npci.md#q1-rogue-packet-filters) | |
@@ -36,10 +38,16 @@
 | 2026-10-15 | [Squarepoint](../companies/squarepoint.md) | IIT Roorkee | [Minimize maximum distance (variant of Robot collisions/factories)](../companies/squarepoint.md#q1-minimize-maximum-distance-variant-of-robot-collisionsfactories) | |
 | 2026-10-15 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Minimum moves to make a equal b](../companies/rystad-energy.md#q12-minimum-moves-to-make-a-equal-b) | |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Minimum moves to make a equal to b (±1..10 per move)](../companies/rystad-energy.md#q12-minimum-moves-to-make-a-equal-to-b-110-per-move) | |
+| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [Choosing movies to maximize count](../companies/accenture.md#q3-choosing-movies-to-maximize-count) | |
 | 2026-10-13 | [InMobi](../companies/inmobi.md) | IIT BHU | [Minimum towers to cover circular towers](../companies/inmobi.md#q3-minimum-towers-to-cover-circular-towers) | |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Jodhpur | [Algorithm training and execution scheduling](../companies/eternal-zomato.md#q4-algorithm-training-and-execution-scheduling) | |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Jodhpur | [Maximum-length equal arrays by merging subarrays](../companies/eternal-zomato.md#q3-maximum-length-equal-arrays-by-merging-subarrays) | |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Jodhpur | [Rearrange songs by artist](../companies/eternal-zomato.md#q2-rearrange-songs-by-artist) | [767](https://leetcode.com/problems/reorganize-string/) Medium |
+| 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Thread Count (tree with adjacent difference exactly 1)](../companies/eternal-zomato.md#q3-thread-count-tree-with-adjacent-difference-exactly-1) | |
 | 2026-10-13 | [Media.net](../companies/media-net.md) | IIT Bhubaneswar | [Minimum cost to merge array into one element](../companies/media-net.md#q3-minimum-cost-to-merge-array-into-one-element) | |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Servers with lost config values, minimal sum](../companies/eternal-zomato.md#q3-servers-with-lost-config-values-minimal-sum) | |
 | 2026-10-13 | [Meltwater](../companies/meltwater.md) | VIT Vellore | [Minimum Number of Taps to Open to Water a Garden (LeetCode 1326)](../companies/meltwater.md#q2-minimum-number-of-taps-to-open-to-water-a-garden-leetcode-1326) | [1326](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) Hard |
+| 2026-10-12 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Minimum dice rolls to reach the end](../companies/accenture.md#q3-minimum-dice-rolls-to-reach-the-end-1) | |
 | 2026-10-12 | [NatWest](../companies/natwest.md) | Delhi Technological University | [Non-overlapping substring occurrences](../companies/natwest.md#q3-non-overlapping-substring-occurrences) | |
 | 2026-10-12 | [NatWest](../companies/natwest.md) | Delhi Technological University | [Non-Overlapping Substring Occurrences](../companies/natwest.md#q1-non-overlapping-substring-occurrences) | |
 | 2026-10-12 | [MyGate](../companies/mygate.md) | IIT Guwahati | [Minimum Replacements to Sort the Array](../companies/mygate.md#q3-minimum-replacements-to-sort-the-array) | [2366](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) Hard |

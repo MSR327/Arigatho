@@ -1,6 +1,6 @@
 # Code Output (C/C++/Java/Python)
 
-56 questions from 13 companys, newest first. [← all topics](../README.md#topics)
+63 questions from 14 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -9,16 +9,20 @@
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Java output: inner class this.m1() and Sample.this.m1()](../companies/deloitte.md#q13-java-output-inner-class-thism1-and-samplethism1) |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [C++ output: virtual show() with override](../companies/deloitte.md#q12-c-output-virtual-show-with-override) |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Pseudocode: average marks after adding 5 to those below 40](../companies/deloitte.md#q2-pseudocode-average-marks-after-adding-5-to-those-below-40) |
+| 2026-10-27 | [Unknown](../companies/unknown.md) | IIT Hyderabad | [IDFC First Bank OA pattern](../companies/unknown.md#q1-idfc-first-bank-oa-pattern) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Smart water dispenser refill count](../companies/deloitte.md#q29-smart-water-dispenser-refill-count) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [XOR of 1..N with one value skipped](../companies/deloitte.md#q25-xor-of-1n-with-one-value-skipped) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [C++ output: virtual function with object slicing](../companies/deloitte.md#q20-c-output-virtual-function-with-object-slicing) |
 | 2026-10-22 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [Height of binary tree: find the error](../companies/alight-solutions.md#q3-height-of-binary-tree-find-the-error) |
+| 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Aptitude, Python output and physics MCQs](../companies/accelequant.md#q9-aptitude-python-output-and-physics-mcqs) |
 | 2026-10-21 | [Accelequant](../companies/accelequant.md) | IIT Indore | [Python pseudocode output MCQs](../companies/accelequant.md#q6-python-pseudocode-output-mcqs) |
 | 2026-10-16 | [ICICI](../companies/icici.md) | NIT Silchar | [ICICI Tech OA topics](../companies/icici.md#q1-icici-tech-oa-topics) |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Decimal to Binary Code Output (MCQ)](../companies/harness.md#q8-decimal-to-binary-code-output-mcq) |
 | 2026-10-15 | [Harness](../companies/harness.md) | IIT Delhi | [OA pattern and MCQs (10 MCQs + 2 coding)](../companies/harness.md#q2-oa-pattern-and-mcqs-10-mcqs--2-coding) |
-| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Guwahati | [IT quiz MCQs: AI regulation, subnet masking, code output](../companies/accenture.md#q4-it-quiz-mcqs-ai-regulation-subnet-masking-code-output) |
+| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Guwahati | [IT quiz MCQs: AI regulation, subnet masking, code output](../companies/accenture.md#q5-it-quiz-mcqs-ai-regulation-subnet-masking-code-output) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Pandas MCQ: apply with column-dependent lambda](../companies/rystad-energy.md#q8-pandas-mcq-apply-with-column-dependent-lambda) |
+| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [Character never printed by function](../companies/accenture.md#q12-character-never-printed-by-function) |
+| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [C++ while loop reading yes](../companies/accenture.md#q4-c-while-loop-reading-yes) |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Multiply list elements with reduce](../companies/accenture.md#q24-multiply-list-elements-with-reduce) |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Python file handling with 'w' mode](../companies/accenture.md#q23-python-file-handling-with-w-mode) |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Python regex case-insensitive match groups](../companies/accenture.md#q22-python-regex-case-insensitive-match-groups) |
@@ -33,6 +37,9 @@
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Expected output of random() with abs() program](../companies/sedemac.md#q9-expected-output-of-random-with-abs-program) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Expected output of random() squared program](../companies/sedemac.md#q8-expected-output-of-random-squared-program) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Expected output of random() product program](../companies/sedemac.md#q7-expected-output-of-random-product-program) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Microcontroller loop with INPUT HIGH](../companies/texas-instruments.md#q110-microcontroller-loop-with-input-high) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [C program digit-weighted sum of 1111101](../companies/texas-instruments.md#q102-c-program-digit-weighted-sum-of-1111101) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [C macro and shift-assignment output](../companies/texas-instruments.md#q100-c-macro-and-shift-assignment-output) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Microcontroller loop final count](../companies/texas-instruments.md#q50-microcontroller-loop-final-count) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [C program digit weighting output](../companies/texas-instruments.md#q42-c-program-digit-weighting-output) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [C output with $ and _ macros](../companies/texas-instruments.md#q40-c-output-with--and-_-macros) |

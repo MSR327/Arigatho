@@ -1,6 +1,6 @@
 # Other
 
-40 questions from 11 companys, newest first. [← all topics](../README.md#topics)
+41 questions from 11 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -34,7 +34,8 @@
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Fastest toxic exposure route](../companies/reliance.md#q37-fastest-toxic-exposure-route) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Purpose of Liebig condenser](../companies/reliance.md#q36-purpose-of-liebig-condenser) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Electrolytic extraction of aluminium](../companies/reliance.md#q35-electrolytic-extraction-of-aluminium) |
-| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Guwahati | [N+1 roads problem](../companies/accenture.md#q3-n1-roads-problem) |
+| 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Guwahati | [N+1 roads problem](../companies/accenture.md#q4-n1-roads-problem) |
+| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [Statement NOT true about symmetric-key encryption](../companies/accenture.md#q2-statement-not-true-about-symmetric-key-encryption) |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Spark filter records born after 1950](../companies/accenture.md#q9-spark-filter-records-born-after-1950) |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Spark RDD category-count pairs](../companies/accenture.md#q8-spark-rdd-category-count-pairs) |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Third coding question (not remembered)](../companies/eternal-zomato.md#q5-third-coding-question-not-remembered) |

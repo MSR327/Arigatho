@@ -1,6 +1,6 @@
 # Digital Electronics
 
-52 questions from 5 companys, newest first. [← all topics](../README.md#topics)
+65 questions from 5 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -13,7 +13,7 @@
 | 2026-10-28 | [Nvidia](../companies/nvidia.md) | NIT Meghalaya | [Boolean expression from CMOS stick diagram](../companies/nvidia.md#q3-boolean-expression-from-cmos-stick-diagram-1) |
 | 2026-10-28 | [Nvidia](../companies/nvidia.md) | NIT Meghalaya | [Clock buffers and max frequency with jitter](../companies/nvidia.md#q2-clock-buffers-and-max-frequency-with-jitter-1) |
 | 2026-10-27 | [IBM](../companies/ibm.md) | IIT Kanpur | [IBM hardware role test pattern](../companies/ibm.md#q1-ibm-hardware-role-test-pattern) |
-| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [32-bit multiplication on a 16-bit multiplier ALU](../companies/nvidia.md#q4-32-bit-multiplication-on-a-16-bit-multiplier-alu) |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [32-bit multiplication on a 16-bit multiplier ALU](../companies/nvidia.md#q7-32-bit-multiplication-on-a-16-bit-multiplier-alu) |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [8085 program: register C and carry flag](../companies/qualcomm.md#q28-8085-program-register-c-and-carry-flag) |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [VLSI design methodology choice](../companies/qualcomm.md#q26-vlsi-design-methodology-choice) |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [JK flip-flop counter: J1 and K1](../companies/qualcomm.md#q25-jk-flip-flop-counter-j1-and-k1) |
@@ -25,6 +25,19 @@
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [4x1 MUX realized function](../companies/qualcomm.md#q17-4x1-mux-realized-function) |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Weighted-resistor DAC](../companies/qualcomm.md#q16-weighted-resistor-dac) |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [4-bit R-2R ladder DAC](../companies/qualcomm.md#q15-4-bit-r-2r-ladder-dac) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [3-input CMOS NAND gate delay with parasitic RC](../companies/texas-instruments.md#q113-3-input-cmos-nand-gate-delay-with-parasitic-rc) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [8086 assembly program final CX](../companies/texas-instruments.md#q111-8086-assembly-program-final-cx) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Microcontroller loop with INPUT HIGH](../companies/texas-instruments.md#q110-microcontroller-loop-with-input-high) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [PROM size for traffic light controller](../companies/texas-instruments.md#q109-prom-size-for-traffic-light-controller) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Synchronous counter for sequence 0,3,1,2](../companies/texas-instruments.md#q108-synchronous-counter-for-sequence-0312) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Identify flip flop type from circuit](../companies/texas-instruments.md#q107-identify-flip-flop-type-from-circuit) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [ASIC timing closure after place-and-route](../companies/texas-instruments.md#q106-asic-timing-closure-after-place-and-route) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [3-input NAND output HIGH count](../companies/texas-instruments.md#q104-3-input-nand-output-high-count) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [BCD counter after 7 clock pulses](../companies/texas-instruments.md#q101-bcd-counter-after-7-clock-pulses) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Setup slack time in two flip-flop circuit](../companies/texas-instruments.md#q99-setup-slack-time-in-two-flip-flop-circuit) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Minimum PROM size for dual 4-to-1 multiplexer control](../companies/texas-instruments.md#q98-minimum-prom-size-for-dual-4-to-1-multiplexer-control) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Verilog/VHDL toggle flop final value of q](../companies/texas-instruments.md#q97-verilogvhdl-toggle-flop-final-value-of-q) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Output of 4:1 MUX](../companies/texas-instruments.md#q96-output-of-41-mux) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [4-bit ripple counter settling time](../companies/texas-instruments.md#q57-4-bit-ripple-counter-settling-time) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Aliasing when sampling at 30 kHz](../companies/texas-instruments.md#q55-aliasing-when-sampling-at-30-khz) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Minterm function equivalent expression](../companies/texas-instruments.md#q54-minterm-function-equivalent-expression) |

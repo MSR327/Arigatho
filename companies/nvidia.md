@@ -1,10 +1,10 @@
 # Nvidia
 
-**28 questions** from 13 OA drives · seen at IIT BHU, IIT Dhanbad, MNNIT Allahabad, NIT Delhi, NIT Meghalaya, NIT Rourkela, Unknown, VNIT Nagpur · latest 2026-10-29
+**32 questions** from 13 OA drives · seen at IIT BHU, IIT Dhanbad, MNNIT Allahabad, NIT Delhi, NIT Meghalaya, NIT Rourkela, Unknown, VNIT Nagpur · latest 2026-10-29
 
-**Topics:** [Digital Electronics](../topics/digital-electronics.md) (9) · [OA Format](../topics/oa-format.md) (7) · [Math](../topics/math.md) (5) · [Stack/Queue](../topics/stack-queue.md) (4) · [Trees](../topics/trees.md) (4) · [Graphs](../topics/graphs.md) (3) · [Circuits](../topics/circuits.md) (3) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (2) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [DP](../topics/dp.md) (2) · [Hashing](../topics/hashing.md) (1) · [Strings](../topics/strings.md) (1) · [Arrays](../topics/arrays.md) (1) · [Aptitude](../topics/aptitude.md) (1) · [Analog Electronics](../topics/analog-electronics.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1)
+**Topics:** [Digital Electronics](../topics/digital-electronics.md) (9) · [OA Format](../topics/oa-format.md) (8) · [Math](../topics/math.md) (6) · [Stack/Queue](../topics/stack-queue.md) (5) · [Trees](../topics/trees.md) (5) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (3) · [Bit Manipulation](../topics/bit-manipulation.md) (3) · [Graphs](../topics/graphs.md) (3) · [Circuits](../topics/circuits.md) (3) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (2) · [DP](../topics/dp.md) (2) · [HR & Behavioral](../topics/hr-behavioral.md) (2) · [Hashing](../topics/hashing.md) (1) · [Strings](../topics/strings.md) (1) · [Arrays](../topics/arrays.md) (1) · [Aptitude](../topics/aptitude.md) (1) · [Analog Electronics](../topics/analog-electronics.md) (1)
 
-**LeetCode matches:** 2 (see the [practice list](../practice.md))
+**LeetCode matches:** 3 (see the [practice list](../practice.md))
 
 **Drives:**
 
@@ -13,8 +13,8 @@
 - [2026-10-28 · NIT Meghalaya · Intern · Hardware (GPU)](#2026-10-28--nit-meghalaya--intern--hardware-gpu) · 5 questions
 - [2026-10-28 · MNNIT Allahabad · FTE · System Software Engineer](#2026-10-28--mnnit-allahabad--fte--system-software-engineer) · 1 question
 - [2026-10-26 · MNNIT Allahabad · FTE](#2026-10-26--mnnit-allahabad--fte) · 4 questions
-- [2026-10-26 · MNNIT Allahabad · FTE · System Software Engineer](#2026-10-26--mnnit-allahabad--fte--system-software-engineer) · 1 question
-- [2026-10-26 · MNNIT Allahabad · FTE · System Software Engineer · Interview](#2026-10-26--mnnit-allahabad--fte--system-software-engineer--interview) · 4 questions
+- [2026-10-26 · MNNIT Allahabad · FTE · System Software Engineer](#2026-10-26--mnnit-allahabad--fte--system-software-engineer) · 2 questions
+- [2026-10-26 · MNNIT Allahabad · FTE · System Software Engineer · Interview](#2026-10-26--mnnit-allahabad--fte--system-software-engineer--interview) · 7 questions
 - [2026-10-25 · VNIT Nagpur · FTE · System Software](#2026-10-25--vnit-nagpur--fte--system-software) · 1 question
 - [2026-10-25 · IIT Dhanbad · Intern · System Software](#2026-10-25--iit-dhanbad--intern--system-software) · 2 questions
 - [2026-10-21 · MNNIT Allahabad · FTE · Compiler](#2026-10-21--mnnit-allahabad--fte--compiler) · 1 question
@@ -223,6 +223,12 @@ The combinational circuit was not included.
 
 ### Q1. Nvidia System Software Engineer OA format
 
+Round 1 was an OA with two coding questions (2 medium level on LeetCode), an OS section (medium level), a COA section (hard level) and C++ output questions (easy to medium). A minimum of 60% is needed to qualify for the next round.
+
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78)</sub>
+
+### Q2. Nvidia System Software Engineer OA format
+
 Round 1 was an OA with:
 - Two coding questions (medium level, LeetCode style)
 - OS (medium level)
@@ -235,7 +241,27 @@ A minimum of 60% was needed to qualify for the next round.
 
 ## 2026-10-26 · MNNIT Allahabad · FTE · System Software Engineer · Interview
 
-### Q1. Round 2: experience and OS for autonomous vehicles
+### Q1. Round 2 questions
+
+Roles and responsibilities in the current organization.
+Which OS will be used for autonomous vehicles and why?
+Three easy to medium LeetCode questions (not specified).
+
+<sub>Topics: HR & Behavioral, OS/DBMS/CN MCQ · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78)</sub>
+
+### Q2. Recursion stack and iterative in-order traversal
+
+How does the stack work in recursion? Implement in-order traversal using a stack, optimize it, and explain time and space complexity.
+
+<sub>Topics: Trees, Stack/Queue · Similar: [LeetCode 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy) · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78)</sub>
+
+### Q3. 32-bit multiplication using 16-bit ALU
+
+Write a C program for handling 32-bit multiplication on a microprocessor ALU supporting 16-bit multiplication.
+
+<sub>Topics: Bit Manipulation, Math · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L78)</sub>
+
+### Q4. Round 2: experience and OS for autonomous vehicles
 
 Round 2 questions:
 - Roles and responsibilities in the current organization.
@@ -244,19 +270,19 @@ Round 2 questions:
 
 <sub>Topics: HR & Behavioral, OS/DBMS/CN MCQ · Source: [chat, 26 Oct](../archive/intern-2027/2026-10.jsonl#L22)</sub>
 
-### Q2. How a stack works in recursion
+### Q5. How a stack works in recursion
 
 Technical round: explain how the stack works in recursion. The interviewer also asked about the candidate's current role in the company.
 
 <sub>Topics: Recursion/Backtracking, Stack/Queue · Source: [chat, 26 Oct](../archive/intern-2027/2026-10.jsonl#L22)</sub>
 
-### Q3. Iterative in-order traversal using a stack
+### Q6. Iterative in-order traversal using a stack
 
 Implement in-order traversal using a stack, optimize it, and explain the time and space complexity.
 
 <sub>Topics: Trees, Stack/Queue · Similar: [LeetCode 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy) · Source: [chat, 26 Oct](../archive/intern-2027/2026-10.jsonl#L22)</sub>
 
-### Q4. 32-bit multiplication on a 16-bit multiplier ALU
+### Q7. 32-bit multiplication on a 16-bit multiplier ALU
 
 Write a C program for handling 32-bit multiplication on a microprocessor ALU that supports 16-bit multiplication.
 

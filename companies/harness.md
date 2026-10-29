@@ -1,8 +1,8 @@
 # Harness
 
-**39 questions** from 13 OA drives · seen at IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Roorkee, MNNIT Allahabad, NIT Rourkela, NIT Surathkal · latest 2026-10-23
+**41 questions** from 13 OA drives · seen at IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Roorkee, MNNIT Allahabad, NIT Rourkela, NIT Surathkal · latest 2026-10-23
 
-**Topics:** [DP](../topics/dp.md) (10) · [Arrays](../topics/arrays.md) (8) · [Graphs](../topics/graphs.md) (7) · [Hashing](../topics/hashing.md) (6) · [Trees](../topics/trees.md) (6) · [OA Format](../topics/oa-format.md) (5) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (4) · [Sorting](../topics/sorting.md) (3) · [Sliding Window](../topics/sliding-window.md) (2) · [Strings](../topics/strings.md) (2) · [Greedy](../topics/greedy.md) (2) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (2) · [Two Pointers](../topics/two-pointers.md) (1) · [Linked List](../topics/linked-list.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [Web Dev](../topics/web-dev.md) (1) · [SQL](../topics/sql.md) (1) · [ML/AI](../topics/ml-ai.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Heaps](../topics/heaps.md) (1) · [OOP](../topics/oop.md) (1) · [Math](../topics/math.md) (1)
+**Topics:** [DP](../topics/dp.md) (11) · [Arrays](../topics/arrays.md) (9) · [Graphs](../topics/graphs.md) (8) · [Trees](../topics/trees.md) (7) · [Hashing](../topics/hashing.md) (6) · [OA Format](../topics/oa-format.md) (5) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (4) · [Sorting](../topics/sorting.md) (3) · [Sliding Window](../topics/sliding-window.md) (2) · [Strings](../topics/strings.md) (2) · [Greedy](../topics/greedy.md) (2) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (2) · [Two Pointers](../topics/two-pointers.md) (1) · [Linked List](../topics/linked-list.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [Web Dev](../topics/web-dev.md) (1) · [SQL](../topics/sql.md) (1) · [ML/AI](../topics/ml-ai.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Heaps](../topics/heaps.md) (1) · [OOP](../topics/oop.md) (1) · [Math](../topics/math.md) (1)
 
 **LeetCode matches:** 14 (see the [practice list](../practice.md))
 
@@ -14,7 +14,7 @@
 - [2026-10-16 · IIT Delhi · FTE](#2026-10-16--iit-delhi--fte) · 2 questions
 - [2026-10-15 · NIT Rourkela · FTE](#2026-10-15--nit-rourkela--fte) · 1 question
 - [2026-10-15 · IIT Roorkee · FTE](#2026-10-15--iit-roorkee--fte) · 1 question
-- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 2 questions
+- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 4 questions
 - [2026-10-14 · IIT Guwahati · FTE](#2026-10-14--iit-guwahati--fte) · 1 question
 - [2026-10-13 · IIT Guwahati · FTE](#2026-10-13--iit-guwahati--fte) · 3 questions
 - [2026-10-13 · IIT Guwahati · FTE · SDE-1](#2026-10-13--iit-guwahati--fte--sde-1) · 4 questions
@@ -195,6 +195,43 @@ Reported answer: B.
 (The message is truncated after question 8; the remaining questions are missing.)
 
 <sub>Topics: OS/DBMS/CN MCQ, OA Format, Code Output (C/C++/Java/Python) · Source: [chat, 15 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L190)</sub>
+
+### Q3. Grid path maximum score (2 rows)
+
+You are given a grid with 2 rows and N columns, each cell containing an integer.
+- Start at the top-left cell (0, 0).
+- Each move goes to an adjacent cell.
+- The multiplier starts at 0 for the first cell and increases by 1 after every move.
+- Each visited cell contributes value × multiplier to the total score.
+
+Find the maximum possible total score.
+
+Example:
+```
+grid = [[1, 3],
+        [4, 2]]
+Path: 1 → 3 → 2 → 4
+Score: 1×0 + 3×1 + 2×2 + 4×3 = 19
+```
+
+<sub>Topics: DP, Arrays · Source: [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L128), [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L129)</sub>
+
+### Q4. Minimum moves to visit required nodes in a tree
+
+You are given a tree with N nodes, its edges, and a list of required nodes.
+- Start at node 1.
+- Finish at node N.
+- Every edge traversal costs 1.
+- Every required node must be visited at least once.
+- You may revisit nodes and backtrack.
+
+Find the minimum number of moves required to visit all required nodes and finish at node N.
+
+Example 1: Node 1 connects to nodes 2 and 3. Both are required, destination is node 3. Route: 1 → 2 → 1 → 3, Output: 3.
+
+Example 2: A tree has 7 nodes, with edges 1–2, 1–5, 2–3, 2–4, 5–6, 5–7. All leaves are required, destination is node 7. Output: 10.
+
+<sub>Topics: Trees, Graphs · Source: [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L128), [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L129)</sub>
 
 ## 2026-10-14 · IIT Guwahati · FTE
 

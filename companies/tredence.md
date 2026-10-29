@@ -1,15 +1,16 @@
 # Tredence
 
-**19 questions** from 11 OA drives · seen at IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad, Unknown, VIT Vellore, VNIT Nagpur · latest 2026-10-28
+**23 questions** from 12 OA drives · seen at IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad, Unknown, VIT Vellore, VNIT Nagpur · latest 2026-10-28
 
-**Topics:** [OA Format](../topics/oa-format.md) (9) · [SQL](../topics/sql.md) (5) · [Hashing](../topics/hashing.md) (3) · [Graphs](../topics/graphs.md) (3) · [Python & Pandas](../topics/python-pandas.md) (2) · [ML/AI](../topics/ml-ai.md) (1) · [Arrays](../topics/arrays.md) (1) · [OOP](../topics/oop.md) (1) · [DP](../topics/dp.md) (1) · [Strings](../topics/strings.md) (1) · [Aptitude](../topics/aptitude.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1) · [Linked List](../topics/linked-list.md) (1) · [Verbal](../topics/verbal.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (11) · [SQL](../topics/sql.md) (5) · [Python & Pandas](../topics/python-pandas.md) (4) · [Hashing](../topics/hashing.md) (3) · [Graphs](../topics/graphs.md) (3) · [ML/AI](../topics/ml-ai.md) (3) · [Verbal](../topics/verbal.md) (2) · [Arrays](../topics/arrays.md) (1) · [OOP](../topics/oop.md) (1) · [DP](../topics/dp.md) (1) · [Strings](../topics/strings.md) (1) · [Aptitude](../topics/aptitude.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1) · [Linked List](../topics/linked-list.md) (1)
 
 **LeetCode matches:** 2 (see the [practice list](../practice.md))
 
 **Drives:**
 
 - [2026-10-28 · IIT Hyderabad · FTE](#2026-10-28--iit-hyderabad--fte) · 2 questions
-- [2026-10-28 · IIT Hyderabad · FTE · Other round](#2026-10-28--iit-hyderabad--fte--other-round) · 1 question
+- [2026-10-28 · IIT Hyderabad · FTE · Other round](#2026-10-28--iit-hyderabad--fte--other-round) · 2 questions
+- [2026-10-26 · Unknown · FTE](#2026-10-26--unknown--fte) · 3 questions
 - [2026-10-23 · IIT Dhanbad · FTE · Associate Data Scientist](#2026-10-23--iit-dhanbad--fte--associate-data-scientist) · 3 questions
 - [2026-10-14 · VNIT Nagpur · FTE · Data Engineer](#2026-10-14--vnit-nagpur--fte--data-engineer) · 2 questions
 - [2026-10-02 · IIT Dhanbad · FTE · Analyst](#2026-10-02--iit-dhanbad--fte--analyst) · 2 questions
@@ -62,6 +63,39 @@ The communication round has several sections:
 - Several grammar questions.
 
 <sub>Topics: OA Format, Verbal · Source: [chat, 28 Oct](../archive/tredence-oa/2026-10.jsonl#L45)</sub>
+
+### Q2. Tredence communication round format
+
+The communication round has several sections:
+
+- A sentence is shown and you have to speak it.
+- You hear a sentence and speak it back.
+- You speak on a topic they give.
+- Several grammar questions.
+
+The exact questions were not shared.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L443)</sub>
+
+## 2026-10-26 · Unknown · FTE
+
+### Q1. Tredence OA pattern
+
+Pattern: 1. DSA, 2. SQL, 3. MCQ. Along with this there were 34 MCQs and 2 Python ML-related questions.
+
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L5)</sub>
+
+### Q2. Fill in blanks in data cleaning snippet
+
+A data cleaning code snippet was given with some blanks; write the appropriate function name for each blank.
+
+<sub>Topics: Python & Pandas, ML/AI · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L5)</sub>
+
+### Q3. Dataset summary function
+
+Write a function that gets the shape of the dataset, the data type of all columns, the count and percent of null values, and the mean, median and mode of numeric columns. This was written in a text box; there were no test cases.
+
+<sub>Topics: Python & Pandas, ML/AI · Source: [chat, 26 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L5)</sub>
 
 ## 2026-10-23 · IIT Dhanbad · FTE · Associate Data Scientist
 

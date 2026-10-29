@@ -1,6 +1,6 @@
 # Software Engineering
 
-52 questions from 17 companys, newest first. [← all topics](../README.md#topics)
+54 questions from 17 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -32,6 +32,8 @@
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Cloud storage option that scales dynamically](../companies/accenture.md#q1-cloud-storage-option-that-scales-dynamically) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Python MCQ: retry decorator with exponential backoff](../companies/rystad-energy.md#q27-python-mcq-retry-decorator-with-exponential-backoff) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [MCQ: daily import shows exactly 50% fewer records](../companies/rystad-energy.md#q18-mcq-daily-import-shows-exactly-50-fewer-records) |
+| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [SLOs and SLAs incorrect options](../companies/accenture.md#q5-slos-and-slas-incorrect-options) |
+| 2026-10-14 | [Accenture](../companies/accenture.md) | IIT Delhi | [Accenture Japan IT quiz (2025 sitting) - white-box testing](../companies/accenture.md#q1-accenture-japan-it-quiz-2025-sitting---white-box-testing) |
 | 2026-10-13 | [Harness](../companies/harness.md) | IIT Guwahati | [10 MCQs on Backend, Testing and SQL](../companies/harness.md#q3-10-mcqs-on-backend-testing-and-sql) |
 | 2026-10-09 | [ION](../companies/ion.md) | VNIT Nagpur | [Project deep-dive](../companies/ion.md#q5-project-deep-dive) |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Docker initialization task](../companies/squarepoint.md#q10-docker-initialization-task) |

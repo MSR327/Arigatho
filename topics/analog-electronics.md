@@ -1,6 +1,6 @@
 # Analog Electronics
 
-31 questions from 4 companys, newest first. [← all topics](../README.md#topics)
+43 questions from 4 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -13,6 +13,18 @@
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Thermistor in place of Ro: change in resolution](../companies/sedemac.md#q13-thermistor-in-place-of-ro-change-in-resolution) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Estimate temperature from ADC counts for thermistor divider](../companies/sedemac.md#q11-estimate-temperature-from-adc-counts-for-thermistor-divider) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Thermistor divider: where is confidence in readings higher](../companies/sedemac.md#q10-thermistor-divider-where-is-confidence-in-readings-higher) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [3-input CMOS NAND gate delay with parasitic RC](../companies/texas-instruments.md#q113-3-input-cmos-nand-gate-delay-with-parasitic-rc) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Ripple factor of inductor filter](../companies/texas-instruments.md#q95-ripple-factor-of-inductor-filter) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Two-diode clipper output peak](../companies/texas-instruments.md#q93-two-diode-clipper-output-peak) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Op-amp capacitor voltage decay](../companies/texas-instruments.md#q92-op-amp-capacitor-voltage-decay) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Switched-capacitor effective resistance](../companies/texas-instruments.md#q90-switched-capacitor-effective-resistance) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [IC 555 astable charging vs discharging time](../companies/texas-instruments.md#q89-ic-555-astable-charging-vs-discharging-time) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [BJT base drive current](../companies/texas-instruments.md#q88-bjt-base-drive-current) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Resistance seen through MOS source terminal](../companies/texas-instruments.md#q84-resistance-seen-through-mos-source-terminal) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Emitter current in self-bias NPN amplifier](../companies/texas-instruments.md#q82-emitter-current-in-self-bias-npn-amplifier) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [PN diode and Schottky diode ON/OFF states](../companies/texas-instruments.md#q79-pn-diode-and-schottky-diode-onoff-states) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [NMOS source follower with diode-connected load Vx](../companies/texas-instruments.md#q76-nmos-source-follower-with-diode-connected-load-vx) |
+| 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Finite-gain op-amp as high pass filter poles](../companies/texas-instruments.md#q75-finite-gain-op-amp-as-high-pass-filter-poles) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Ripple factor of inductor filter](../companies/texas-instruments.md#q35-ripple-factor-of-inductor-filter) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Diode clipper peak output](../companies/texas-instruments.md#q33-diode-clipper-peak-output) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Op-amp capacitor voltage decay](../companies/texas-instruments.md#q32-op-amp-capacitor-voltage-decay) |
