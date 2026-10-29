@@ -314,3 +314,44 @@ def test_run_claude_reads_usage_and_keeps_a_reserve(monkeypatch):
     assert sort_mod.USAGE["five_hour"] == 0.93
     with pytest.raises(UsageLimit, match="10% of the 5-hour limit free"):
         sort_mod.run_claude("p", {}, model="haiku")  # 93% used: no new call
+
+
+def test_run_claude_records_resets_at(monkeypatch):
+    import json as _json
+    import subprocess as _sp
+    import oa.sort as sort_mod
+
+    events = [{"type": "rate_limit_event", "rate_limit_info": {"unifiedWindows": {
+                  "five_hour": {"utilization": 0.71, "resetsAt": 1793234400}}}},
+              {"type": "result", "subtype": "success", "is_error": False, "structured_output": {}}]
+    monkeypatch.setattr(sort_mod.subprocess, "run", lambda cmd, **kw: _sp.CompletedProcess(
+        cmd, 0, "\n".join(_json.dumps(e) for e in events), ""))
+    monkeypatch.setitem(sort_mod.USAGE, "five_hour", None)
+    monkeypatch.setitem(sort_mod.USAGE, "resets_at", None)
+    sort_mod.run_claude("p", {})
+    assert sort_mod.USAGE["resets_at"] == 1793234400
+
+
+def test_main_writes_and_clears_resume_at(monkeypatch):
+    import oa.sort as sort_mod
+
+    def limited(*a, **kw):
+        raise UsageLimit("limit")
+
+    monkeypatch.setattr(sort_mod, "Archive", lambda p: None)
+    monkeypatch.setattr(sort_mod, "load_state", lambda p: {})
+    monkeypatch.setattr(sort_mod, "save_state", lambda p, s: None)
+    monkeypatch.setattr(sort_mod.leetcode, "load", lambda: [])
+    monkeypatch.setattr(sort_mod, "dedupe_pending", lambda: None)
+    monkeypatch.setattr(sort_mod, "read_jsonl", lambda p: [])
+    monkeypatch.setattr(sort_mod, "notify", lambda m: None)
+    monkeypatch.setitem(sort_mod.USAGE, "resets_at", 1793234400)
+    marker = sort_mod.LOGS / "resume_at"
+
+    monkeypatch.setattr(sort_mod, "sort_pending", limited)
+    sort_mod.main([])
+    assert marker.read_text() == str(1793234400 + 300)
+
+    monkeypatch.setattr(sort_mod, "sort_pending", lambda *a, **kw: 0)
+    sort_mod.main([])
+    assert not marker.exists()

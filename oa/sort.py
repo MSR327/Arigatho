@@ -6,7 +6,7 @@ import re
 import subprocess
 import sys
 from collections import Counter
-from datetime import date
+from datetime import date, datetime
 
 from oa import leetcode
 from oa.common import (ARCHIVE, BATCH_SIZE, COLLEGE_ALIASES, COMPANY_ALIASES, LOGS, MODELS, PROMPTS,
@@ -123,7 +123,7 @@ def build_batch_prompt(batch, companies, groups=None):
     )
 
 
-USAGE = {"five_hour": None}  # latest share (0-1) of the 5-hour window used, as claude reports it
+USAGE = {"five_hour": None, "resets_at": None}  # latest share (0-1) of the 5-hour window used, as claude reports it
 
 
 def run_claude(prompt, schema, model=None):
@@ -148,6 +148,8 @@ def run_claude(prompt, schema, model=None):
             window = (event.get("rate_limit_info") or {}).get("unifiedWindows", {}).get("five_hour", {})
             if "utilization" in window:
                 USAGE["five_hour"] = window["utilization"]
+            if window.get("resetsAt"):
+                USAGE["resets_at"] = window["resetsAt"]  # epoch seconds
         elif event.get("type") == "result":
             out = event
     if out is None:
@@ -390,6 +392,18 @@ def enrich(path=QUESTIONS, runner=None, problems=None, batch_size=ENRICH_BATCH, 
     return done
 
 
+def schedule_resume(stopped):
+    """After a usage-limit stop, ask resume.sh to rerun just after the window resets."""
+    marker = LOGS / "resume_at"
+    if not stopped:
+        marker.unlink(missing_ok=True)
+    elif USAGE["resets_at"]:
+        at = int(USAGE["resets_at"]) + 300
+        LOGS.mkdir(parents=True, exist_ok=True)
+        marker.write_text(str(at))
+        log(f"will resume after the limit resets, at {datetime.fromtimestamp(at):%H:%M}")
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, help="only sort the first N pending messages")
@@ -427,6 +441,7 @@ def main(argv=None):
     except UsageLimit as e:
         stopped = stopped or str(e)[:80]
         log(f"stopped early: {e}")
+    schedule_resume(stopped)
     fresh = Counter(r["company"] for r in new_rows)
     summary = ", ".join(f"{c} {n}" for c, n in fresh.most_common(5))
     msg = f"{len(new_rows)} new questions" + (f": {summary}" if summary else "")
