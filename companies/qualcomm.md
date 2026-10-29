@@ -1,16 +1,30 @@
 # Qualcomm
 
-**34 questions** from 1 OA drive · seen at IIT Delhi · latest 2026-10-13
+**35 questions** from 2 OA drives · seen at IIT Delhi, IIT Guwahati · latest 2026-10-18
 
-**Topics:** [Digital Electronics](../topics/digital-electronics.md) (11) · [Aptitude](../topics/aptitude.md) (8) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (5) · [Stack/Queue](../topics/stack-queue.md) (3) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (3) · [Analog Electronics](../topics/analog-electronics.md) (3) · [Heaps](../topics/heaps.md) (1) · [Strings](../topics/strings.md) (1) · [Arrays](../topics/arrays.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Trees](../topics/trees.md) (1) · [Sorting](../topics/sorting.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Signals & Systems](../topics/signals-systems.md) (1) · [Control Systems](../topics/control-systems.md) (1)
+**Topics:** [Digital Electronics](../topics/digital-electronics.md) (11) · [Aptitude](../topics/aptitude.md) (8) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (5) · [Stack/Queue](../topics/stack-queue.md) (3) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (3) · [Analog Electronics](../topics/analog-electronics.md) (3) · [Heaps](../topics/heaps.md) (1) · [Strings](../topics/strings.md) (1) · [Arrays](../topics/arrays.md) (1) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (1) · [Trees](../topics/trees.md) (1) · [Sorting](../topics/sorting.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Signals & Systems](../topics/signals-systems.md) (1) · [Control Systems](../topics/control-systems.md) (1) · [OA Format](../topics/oa-format.md) (1)
 
 **Drives:**
 
+- [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte) · 1 question
 - [2026-10-13 · IIT Delhi · Intern](#2026-10-13--iit-delhi--intern) · 34 questions
 
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-18 · IIT Guwahati · FTE
+
+### Q1. Qualcomm OA format
+
+The OA is all MCQs:
+- 15 aptitude
+- 15 basic programming
+- 30 questions based on the section you choose (core or coding)
+
+Another poster notes that the hardware OA also has a basic programming section.
+
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L348), [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L350)</sub>
 
 ## 2026-10-13 · IIT Delhi · Intern
 

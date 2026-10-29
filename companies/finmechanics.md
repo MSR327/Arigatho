@@ -1,18 +1,33 @@
 # Finmechanics
 
-**7 questions** from 1 OA drive · seen at IIT Kharagpur/Kanpur · latest 2026-10-10
+**8 questions** from 2 OA drives · seen at IIT Kanpur, IIT Kharagpur/Kanpur · latest 2026-10-23
 
-**Topics:** [Math](../topics/math.md) (2) · [Aptitude](../topics/aptitude.md) (1) · [DP](../topics/dp.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Graphs](../topics/graphs.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Strings](../topics/strings.md) (1) · [Hashing](../topics/hashing.md) (1) · [Arrays](../topics/arrays.md) (1) · [Verbal](../topics/verbal.md) (1)
+**Topics:** [Math](../topics/math.md) (2) · [Aptitude](../topics/aptitude.md) (1) · [DP](../topics/dp.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Graphs](../topics/graphs.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Strings](../topics/strings.md) (1) · [Hashing](../topics/hashing.md) (1) · [Arrays](../topics/arrays.md) (1) · [Verbal](../topics/verbal.md) (1) · [OA Format](../topics/oa-format.md) (1)
 
 **LeetCode matches:** 4 (see the [practice list](../practice.md))
 
 **Drives:**
 
+- [2026-10-23 · IIT Kanpur · FTE](#2026-10-23--iit-kanpur--fte) · 1 question
 - [2026-10-10 · IIT Kharagpur/Kanpur · FTE](#2026-10-10--iit-kharagpurkanpur--fte) · 7 questions
 
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-23 · IIT Kanpur · FTE
+
+### Q1. Finmechanics OA contents and pattern
+
+Finmechanics OA had questions related to:
+
+1. Probability: mostly Expectation/Variance of continuous distributions (uniform) on complex functions like max(X,Y) or |X-Y|, PDF & CDF manipulation, permutation & combination based probability, and one recursive expectation.
+2. A multivariable optimisation question, a coordinate geometry question and some basic logical aptitude questions.
+3. Around 5 DSA questions, medium-easy level, related to Arrays, recursion, DP, heaps.
+4. Finance comprehension questions (2).
+5. HR questions.
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L54)</sub>
 
 ## 2026-10-10 · IIT Kharagpur/Kanpur · FTE
 

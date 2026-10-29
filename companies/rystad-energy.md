@@ -1,16 +1,147 @@
 # Rystad Energy
 
-**31 questions** from 1 OA drive · seen at IIT Delhi · latest 2026-10-14
+**51 questions** from 3 OA drives · seen at IIT Delhi, MNNIT Allahabad · latest 2026-10-17
 
-**Topics:** [Python & Pandas](../topics/python-pandas.md) (16) · [SQL](../topics/sql.md) (6) · [Aptitude](../topics/aptitude.md) (5) · [Software Engineering](../topics/software-engineering.md) (2) · [Web Dev](../topics/web-dev.md) (2) · [ML/AI](../topics/ml-ai.md) (2) · [Arrays](../topics/arrays.md) (1) · [Math](../topics/math.md) (1) · [Greedy](../topics/greedy.md) (1) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1)
+**Topics:** [Python & Pandas](../topics/python-pandas.md) (30) · [SQL](../topics/sql.md) (9) · [Aptitude](../topics/aptitude.md) (5) · [ML/AI](../topics/ml-ai.md) (3) · [Arrays](../topics/arrays.md) (2) · [Math](../topics/math.md) (2) · [Greedy](../topics/greedy.md) (2) · [Software Engineering](../topics/software-engineering.md) (2) · [Web Dev](../topics/web-dev.md) (2) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [OA Format](../topics/oa-format.md) (1) · [Verbal](../topics/verbal.md) (1)
 
 **Drives:**
 
+- [2026-10-17 · MNNIT Allahabad · FTE · Data Analyst · Other round](#2026-10-17--mnnit-allahabad--fte--data-analyst--other-round) · 1 question
+- [2026-10-15 · IIT Delhi · FTE · Data Analyst](#2026-10-15--iit-delhi--fte--data-analyst) · 19 questions
 - [2026-10-14 · IIT Delhi · FTE](#2026-10-14--iit-delhi--fte) · 31 questions
 
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-17 · MNNIT Allahabad · FTE · Data Analyst · Other round
+
+### Q1. Rystad video assessment round contents
+
+The round had a general English ability test, and the SQL part of the OA where they ask for your approach.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 17 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L14)</sub>
+
+## 2026-10-15 · IIT Delhi · FTE · Data Analyst
+
+### Q1. Round down decimals in a list
+
+Write a function to round down all decimal numbers in a list to integers.
+
+Example:
+```
+[1.2, 4.6, 3.5] -> [1, 4, 3]
+```
+
+<sub>Topics: Arrays, Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q2. Drop rows/columns with missing values
+
+Which function drops rows or columns containing missing values?
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q3. Group by site_id and mean consumption
+
+How do you group data by `site_id` and calculate the mean of `consumption`?
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q4. Select column with spaces in name
+
+How do you select a column named `consumption per day`?
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q5. Different transformations on columns A and B with apply()
+
+How do you apply different transformations to columns A and B using `apply()`?
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q6. Detect duplicates by timestamp
+
+How do you detect duplicate rows based on the `timestamp` column?
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q7. Sort DataFrame by date ascending
+
+How do you sort a DataFrame by the `date` column in ascending order?
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q8. Efficient filtering of 10 million rows
+
+Which approach is most efficient for filtering 10 million rows where `status == 'active'`?
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q9. Indexing strategy for energy records
+
+What is the best indexing strategy for frequently queried energy records based on site ID and date?
+
+<sub>Topics: SQL · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q10. SQL data type for wind project names
+
+Which SQL data type should be used to store offshore wind project names?
+
+<sub>Topics: SQL · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q11. Rank employees per department by salary with ties
+
+Which SQL query calculates employee ranks within each department by salary while handling ties?
+
+<sub>Topics: SQL · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q12. Minimum moves to make a equal b
+
+Given two integers `a` and `b`, find the minimum moves required to make `a = b`, where each move allows adding or subtracting an integer from 1 to 10.
+
+<sub>Topics: Math, Greedy · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q13. Python plotting library
+
+Which library is commonly used for creating plots in Python? (Options not given.)
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q14. Retry decorator with exponential backoff
+
+How do you create a decorator that retries failed API calls with exponential backoff? (Options not given.)
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q15. Purpose of softmax in classifier
+
+What is the primary goal of the softmax function in a neural network classifier? (Options not given.)
+
+<sub>Topics: ML/AI · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q16. API pagination with unknown page count
+
+How should API pagination be handled when the total number of pages is unknown? (Options not given.)
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q17. Process a 20 GB CSV without memory errors
+
+How do you process a 20 GB CSV file without memory errors? (Options not given.)
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q18. Validate gas composition sums to 100%
+
+How should gas composition data be validated when every reading must sum to 100%? (Options not given.)
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
+
+### Q19. DataFrame attribute for column labels
+
+Which attribute of a Pandas DataFrame returns its column labels?
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Oct](../archive/rystad-energy-oa/2026-10.jsonl#L6)</sub>
 
 ## 2026-10-14 · IIT Delhi · FTE
 

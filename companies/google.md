@@ -1,14 +1,16 @@
 # Google
 
-**6 questions** from 2 OA drives · seen at IIT Roorkee, Unknown · latest 2026-09-22
+**8 questions** from 4 OA drives · seen at BITS Pilani, IIT Roorkee, Unknown · latest 2026-09-22
 
-**Topics:** [OA Format](../topics/oa-format.md) (3) · [Graphs](../topics/graphs.md) (2) · [Trees](../topics/trees.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (5) · [Graphs](../topics/graphs.md) (2) · [Trees](../topics/trees.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1)
 
 **LeetCode matches:** 1 (see the [practice list](../practice.md))
 
 **Drives:**
 
 - [2026-09-22 · IIT Roorkee · Intern · SDE Intern](#2026-09-22--iit-roorkee--intern--sde-intern) · 1 question
+- [2026-09-22 · BITS Pilani · Intern · Summer Intern · Interview](#2026-09-22--bits-pilani--intern--summer-intern--interview) · 1 question
+- [2026-09-22 · BITS Pilani · Intern · Summer Intern](#2026-09-22--bits-pilani--intern--summer-intern) · 1 question
 - [2026-09-21 · Unknown · Intern · SWE Intern · Other round](#2026-09-21--unknown--intern--swe-intern--other-round) · 5 questions
 
 [← all companies](../README.md#companies)
@@ -22,6 +24,22 @@
 The intern OA at IIT Roorkee had 2 questions and was unproctored.
 
 <sub>Topics: OA Format · Source: [chat, 22 Sep](../archive/google-step-intern/2026-09.jsonl#L3)</sub>
+
+## 2026-09-22 · BITS Pilani · Intern · Summer Intern · Interview
+
+### Q1. Google summer intern 2027 interview process
+
+A recruiter call, then 2 technical rounds of 45 minutes each. (Heard from a senior who was shortlisted through the Big Code route.)
+
+<sub>Topics: OA Format · Source: [chat, 22 Sep](../archive/intern-2028/2026-09.jsonl#L46)</sub>
+
+## 2026-09-22 · BITS Pilani · Intern · Summer Intern
+
+### Q1. Google intern OA format
+
+On-campus: the OA had 2 coding questions. Off-campus: 15 MCQs + 3 coding questions (heard secondhand).
+
+<sub>Topics: OA Format · Source: [chat, 22 Sep](../archive/intern-2028/2026-09.jsonl#L48)</sub>
 
 ## 2026-09-21 · Unknown · Intern · SWE Intern · Other round
 

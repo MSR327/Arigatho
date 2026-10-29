@@ -1,16 +1,39 @@
 # Capital One
 
-**1 question** from 1 OA drive · seen at IIT BHU · latest 2026-10-22
+**4 questions** from 2 OA drives · seen at IIT BHU, IIT Bombay · latest 2026-10-26
 
-**Topics:** [OA Format](../topics/oa-format.md) (1)
+**Topics:** [Math](../topics/math.md) (2) · [OA Format](../topics/oa-format.md) (1) · [Graphs](../topics/graphs.md) (1) · [Sliding Window](../topics/sliding-window.md) (1) · [Heaps](../topics/heaps.md) (1) · [Arrays](../topics/arrays.md) (1)
+
+**LeetCode matches:** 3 (see the [practice list](../practice.md))
 
 **Drives:**
 
+- [2026-10-26 · IIT Bombay · FTE](#2026-10-26--iit-bombay--fte) · 3 questions
 - [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 1 question
 
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-26 · IIT Bombay · FTE
+
+### Q1. Digit Operations to Make Two Integers Equal
+
+The poster only named the LeetCode problem (LC 3377) as a question in the Capital One OA. The full statement was not given.
+
+<sub>Topics: Graphs, Math · Similar: [LeetCode 3377. Digit Operations to Make Two Integers Equal](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/) (Medium) · Source: [chat, 26 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L25)</sub>
+
+### Q2. Longest subarray with absolute difference within limit
+
+The poster said a question was almost similar to LC 1438. The full statement was not given.
+
+<sub>Topics: Sliding Window, Heaps · Similar: [LeetCode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) (Medium) · Source: [chat, 26 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L25)</sub>
+
+### Q3. Erect the Fence
+
+The poster only named the LeetCode problem (LC 587) as a question in the Capital One OA. The full statement was not given.
+
+<sub>Topics: Arrays, Math · Similar: [LeetCode 587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/) (Hard) · Source: [chat, 26 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L25)</sub>
 
 ## 2026-10-22 · IIT BHU · FTE
 

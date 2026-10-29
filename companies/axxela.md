@@ -1,11 +1,13 @@
 # Axxela
 
-**8 questions** from 3 OA drives · seen at IIT Guwahati, SVNIT Surat · latest 2026-10-16
+**10 questions** from 5 OA drives · seen at IIT Dhanbad, IIT Guwahati, SVNIT Surat · latest 2026-10-23
 
-**Topics:** [Aptitude](../topics/aptitude.md) (6) · [OA Format](../topics/oa-format.md) (2) · [Math](../topics/math.md) (1)
+**Topics:** [Aptitude](../topics/aptitude.md) (6) · [OA Format](../topics/oa-format.md) (4) · [Math](../topics/math.md) (1)
 
 **Drives:**
 
+- [2026-10-23 · IIT Dhanbad · FTE](#2026-10-23--iit-dhanbad--fte) · 1 question
+- [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte) · 1 question
 - [2026-10-16 · IIT Guwahati · FTE](#2026-10-16--iit-guwahati--fte) · 1 question
 - [2026-10-15 · IIT Guwahati · FTE](#2026-10-15--iit-guwahati--fte) · 1 question
 - [2026-10-14 · SVNIT Surat · FTE](#2026-10-14--svnit-surat--fte) · 6 questions
@@ -13,6 +15,24 @@
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-23 · IIT Dhanbad · FTE
+
+### Q1. Axxela OA pattern
+
+25 aptitude questions; 36 speed-math questions in 6 minutes; another general section of 17 questions.
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L155)</sub>
+
+## 2026-10-18 · IIT Guwahati · FTE
+
+### Q1. Axxela OA pattern
+
+- 36 maths questions in 6 minutes
+- 25 ability questions in 30 minutes
+- 15 general questions in 5 minutes
+
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L272), [chat, 19 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L289)</sub>
 
 ## 2026-10-16 · IIT Guwahati · FTE
 

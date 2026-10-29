@@ -1,13 +1,14 @@
 # Accenture
 
-**346 questions** from 83 OA drives · seen at BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee, MANIT Bhopal, MNNIT Allahabad, NIT Delhi, NIT Patna, NIT Rourkela, NIT Silchar, NIT Warangal, Unknown, VIT Vellore, VNIT Nagpur · latest 2026-10-28
+**395 questions** from 99 OA drives · seen at BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee, MANIT Bhopal, MNNIT Allahabad, NIT Delhi, NIT Jalandhar, NIT Kurukshetra, NIT Patna, NIT Rourkela, NIT Silchar, NIT Surathkal, NIT Warangal, Unknown, VIT Vellore, VNIT Nagpur · latest 2026-10-29
 
-**Topics:** [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (130) · [OA Format](../topics/oa-format.md) (64) · [Web Dev](../topics/web-dev.md) (34) · [SQL](../topics/sql.md) (27) · [Software Engineering](../topics/software-engineering.md) (23) · [Math](../topics/math.md) (20) · [Arrays](../topics/arrays.md) (18) · [Other](../topics/other.md) (17) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (16) · [ML/AI](../topics/ml-ai.md) (15) · [Verbal](../topics/verbal.md) (10) · [Strings](../topics/strings.md) (4) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (4) · [Hashing](../topics/hashing.md) (4) · [DP](../topics/dp.md) (4) · [Sorting](../topics/sorting.md) (4) · [Stack/Queue](../topics/stack-queue.md) (3) · [Graphs](../topics/graphs.md) (2) · [Greedy](../topics/greedy.md) (2) · [Python & Pandas](../topics/python-pandas.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [OOP](../topics/oop.md) (1) · [Binary Search](../topics/binary-search.md) (1)
+**Topics:** [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (130) · [OA Format](../topics/oa-format.md) (80) · [Web Dev](../topics/web-dev.md) (42) · [SQL](../topics/sql.md) (37) · [Math](../topics/math.md) (27) · [Arrays](../topics/arrays.md) (26) · [Software Engineering](../topics/software-engineering.md) (23) · [Other](../topics/other.md) (17) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (16) · [ML/AI](../topics/ml-ai.md) (15) · [Verbal](../topics/verbal.md) (15) · [Hashing](../topics/hashing.md) (6) · [Strings](../topics/strings.md) (5) · [DP](../topics/dp.md) (5) · [Graphs](../topics/graphs.md) (5) · [Sorting](../topics/sorting.md) (5) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (4) · [Greedy](../topics/greedy.md) (3) · [Stack/Queue](../topics/stack-queue.md) (3) · [Python & Pandas](../topics/python-pandas.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [OOP](../topics/oop.md) (1) · [Binary Search](../topics/binary-search.md) (1)
 
-**LeetCode matches:** 4 (see the [practice list](../practice.md))
+**LeetCode matches:** 5 (see the [practice list](../practice.md))
 
 **Drives:**
 
+- [2026-10-29 · IIT Guwahati · FTE](#2026-10-29--iit-guwahati--fte) · 1 question
 - [2026-10-28 · IIT Roorkee · FTE · Elite](#2026-10-28--iit-roorkee--fte--elite) · 2 questions
 - [2026-10-28 · IIT Indore · FTE · Elite](#2026-10-28--iit-indore--fte--elite) · 3 questions
 - [2026-10-28 · IIT Guwahati · FTE · Elite](#2026-10-28--iit-guwahati--fte--elite) · 1 question
@@ -17,30 +18,37 @@
 - [2026-10-27 · IIT Dhanbad · FTE · Elite Technology Engineer](#2026-10-27--iit-dhanbad--fte--elite-technology-engineer) · 3 questions
 - [2026-10-27 · IIT Dhanbad · FTE · Elite Technology Engineer · Other round](#2026-10-27--iit-dhanbad--fte--elite-technology-engineer--other-round) · 1 question
 - [2026-10-26 · IIT Roorkee · FTE · AI and Data](#2026-10-26--iit-roorkee--fte--ai-and-data) · 6 questions
+- [2026-10-26 · IIT Roorkee · FTE · Interview](#2026-10-26--iit-roorkee--fte--interview) · 1 question
 - [2026-10-26 · IIT BHU · FTE · Elite Technology Engineer · Other round](#2026-10-26--iit-bhu--fte--elite-technology-engineer--other-round) · 1 question
 - [2026-10-25 · IIT Roorkee · FTE](#2026-10-25--iit-roorkee--fte) · 42 questions
 - [2026-10-25 · BITS Pilani · Unknown](#2026-10-25--bits-pilani--unknown) · 39 questions
-- [2026-10-24 · IIT BHU · FTE](#2026-10-24--iit-bhu--fte) · 3 questions
+- [2026-10-24 · IIT Delhi · FTE](#2026-10-24--iit-delhi--fte) · 1 question
+- [2026-10-24 · IIT BHU · FTE](#2026-10-24--iit-bhu--fte) · 4 questions
 - [2026-10-23 · MNNIT Allahabad · FTE](#2026-10-23--mnnit-allahabad--fte) · 1 question
 - [2026-10-23 · IIT Roorkee · FTE](#2026-10-23--iit-roorkee--fte) · 1 question
 - [2026-10-23 · IIT Hyderabad · FTE](#2026-10-23--iit-hyderabad--fte) · 1 question
 - [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte) · 1 question
 - [2026-10-22 · NIT Delhi · FTE](#2026-10-22--nit-delhi--fte) · 1 question
 - [2026-10-22 · MNNIT Allahabad · FTE](#2026-10-22--mnnit-allahabad--fte) · 1 question
-- [2026-10-22 · IIT Hyderabad · FTE](#2026-10-22--iit-hyderabad--fte) · 1 question
+- [2026-10-22 · IIT Hyderabad · FTE](#2026-10-22--iit-hyderabad--fte) · 2 questions
+- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 1 question
 - [2026-10-21 · Unknown · FTE](#2026-10-21--unknown--fte) · 1 question
 - [2026-10-21 · NIT Delhi · FTE](#2026-10-21--nit-delhi--fte) · 1 question
 - [2026-10-21 · IIT Roorkee · FTE](#2026-10-21--iit-roorkee--fte) · 4 questions
 - [2026-10-21 · IIT Hyderabad · FTE](#2026-10-21--iit-hyderabad--fte) · 2 questions
+- [2026-10-21 · IIT BHU · FTE · Elite](#2026-10-21--iit-bhu--fte--elite) · 1 question
 - [2026-10-20 · NIT Patna · FTE](#2026-10-20--nit-patna--fte) · 1 question
 - [2026-10-20 · NIT Delhi · FTE](#2026-10-20--nit-delhi--fte) · 4 questions
 - [2026-10-20 · IIT Hyderabad · FTE](#2026-10-20--iit-hyderabad--fte) · 1 question
+- [2026-10-20 · IIT Hyderabad · FTE · Elite](#2026-10-20--iit-hyderabad--fte--elite) · 3 questions
 - [2026-10-20 · IIT BHU · FTE](#2026-10-20--iit-bhu--fte) · 1 question
 - [2026-10-19 · NIT Delhi · Intern](#2026-10-19--nit-delhi--intern) · 1 question
 - [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte) · 1 question
 - [2026-10-19 · MANIT Bhopal · FTE](#2026-10-19--manit-bhopal--fte) · 1 question
 - [2026-10-19 · IIT Hyderabad · FTE](#2026-10-19--iit-hyderabad--fte) · 1 question
 - [2026-10-18 · IIT Hyderabad · FTE](#2026-10-18--iit-hyderabad--fte) · 2 questions
+- [2026-10-18 · IIT BHU · FTE · Japan Digital Consulting](#2026-10-18--iit-bhu--fte--japan-digital-consulting) · 3 questions
+- [2026-10-18 · BITS Pilani · Intern](#2026-10-18--bits-pilani--intern) · 1 question
 - [2026-10-17 · Unknown · FTE](#2026-10-17--unknown--fte) · 1 question
 - [2026-10-17 · NIT Patna · Intern](#2026-10-17--nit-patna--intern) · 1 question
 - [2026-10-17 · NIT Patna · Unknown](#2026-10-17--nit-patna--unknown) · 28 questions
@@ -53,13 +61,16 @@
 - [2026-10-16 · IIT Dhanbad · FTE](#2026-10-16--iit-dhanbad--fte) · 4 questions
 - [2026-10-16 · IIT BHU · FTE](#2026-10-16--iit-bhu--fte) · 1 question
 - [2026-10-15 · Unknown · FTE](#2026-10-15--unknown--fte) · 2 questions
+- [2026-10-15 · NIT Rourkela · Intern · Other round](#2026-10-15--nit-rourkela--intern--other-round) · 1 question
 - [2026-10-15 · IIT Roorkee · FTE](#2026-10-15--iit-roorkee--fte) · 1 question
 - [2026-10-15 · IIT Hyderabad · FTE](#2026-10-15--iit-hyderabad--fte) · 3 questions
 - [2026-10-15 · IIT Guwahati · FTE](#2026-10-15--iit-guwahati--fte) · 4 questions
 - [2026-10-14 · Unknown · FTE](#2026-10-14--unknown--fte) · 27 questions
 - [2026-10-14 · IIT Roorkee · FTE](#2026-10-14--iit-roorkee--fte) · 1 question
 - [2026-10-14 · IIT Hyderabad · FTE](#2026-10-14--iit-hyderabad--fte) · 1 question
+- [2026-10-14 · IIT Guwahati · FTE](#2026-10-14--iit-guwahati--fte) · 3 questions
 - [2026-10-13 · IIT Dhanbad · FTE](#2026-10-13--iit-dhanbad--fte) · 1 question
+- [2026-10-12 · NIT Jalandhar · Intern · Advanced Technology Engineer](#2026-10-12--nit-jalandhar--intern--advanced-technology-engineer) · 1 question
 - [2026-10-12 · MNNIT Allahabad · FTE](#2026-10-12--mnnit-allahabad--fte) · 1 question
 - [2026-10-11 · IIT Dhanbad · FTE](#2026-10-11--iit-dhanbad--fte) · 3 questions
 - [2026-10-11 · IIT Delhi · FTE](#2026-10-11--iit-delhi--fte) · 1 question
@@ -67,9 +78,12 @@
 - [2026-10-10 · VIT Vellore · FTE](#2026-10-10--vit-vellore--fte) · 1 question
 - [2026-10-10 · IIT Hyderabad · FTE](#2026-10-10--iit-hyderabad--fte) · 5 questions
 - [2026-10-10 · IIT Hyderabad · Unknown](#2026-10-10--iit-hyderabad--unknown) · 1 question
+- [2026-10-10 · IIT Hyderabad · FTE · Elite Technology Engineer](#2026-10-10--iit-hyderabad--fte--elite-technology-engineer) · 12 questions
+- [2026-10-10 · IIT Dhanbad · FTE · Elite Technology Engineer](#2026-10-10--iit-dhanbad--fte--elite-technology-engineer) · 4 questions
 - [2026-10-09 · Unknown · FTE](#2026-10-09--unknown--fte) · 1 question
 - [2026-10-09 · MNNIT Allahabad · FTE](#2026-10-09--mnnit-allahabad--fte) · 2 questions
 - [2026-10-09 · IIT Dhanbad · FTE](#2026-10-09--iit-dhanbad--fte) · 1 question
+- [2026-10-09 · IIT Dhanbad · FTE · Elite Technology Engineer](#2026-10-09--iit-dhanbad--fte--elite-technology-engineer) · 4 questions
 - [2026-10-09 · IIT BHU · FTE](#2026-10-09--iit-bhu--fte) · 1 question
 - [2026-10-08 · NIT Silchar · FTE](#2026-10-08--nit-silchar--fte) · 1 question
 - [2026-10-06 · MNNIT Allahabad · FTE](#2026-10-06--mnnit-allahabad--fte) · 1 question
@@ -77,13 +91,15 @@
 - [2026-10-06 · IIT BHU · FTE](#2026-10-06--iit-bhu--fte) · 1 question
 - [2026-10-05 · IIT BHU · FTE](#2026-10-05--iit-bhu--fte) · 1 question
 - [2026-10-03 · NIT Patna · FTE](#2026-10-03--nit-patna--fte) · 1 question
+- [2026-10-03 · NIT Kurukshetra · Intern](#2026-10-03--nit-kurukshetra--intern) · 1 question
 - [2026-10-02 · NIT Patna · FTE](#2026-10-02--nit-patna--fte) · 1 question
 - [2026-10-01 · IIT BHU · FTE](#2026-10-01--iit-bhu--fte) · 1 question
-- [2026-09-27 · IIT BHU · FTE](#2026-09-27--iit-bhu--fte) · 4 questions
+- [2026-09-27 · IIT BHU · FTE](#2026-09-27--iit-bhu--fte) · 9 questions
 - [2026-09-26 · IIT Dhanbad · FTE](#2026-09-26--iit-dhanbad--fte) · 5 questions
 - [2026-09-25 · Unknown · FTE](#2026-09-25--unknown--fte) · 3 questions
 - [2026-09-25 · IIT Madras · FTE](#2026-09-25--iit-madras--fte) · 1 question
 - [2026-09-24 · NIT Warangal · FTE](#2026-09-24--nit-warangal--fte) · 1 question
+- [2026-09-24 · NIT Surathkal · FTE](#2026-09-24--nit-surathkal--fte) · 4 questions
 - [2026-09-23 · VNIT Nagpur · FTE](#2026-09-23--vnit-nagpur--fte) · 1 question
 - [2026-09-23 · NIT Rourkela · FTE](#2026-09-23--nit-rourkela--fte) · 1 question
 - [2026-09-22 · NIT Warangal · FTE](#2026-09-22--nit-warangal--fte) · 1 question
@@ -95,6 +111,18 @@
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-29 · IIT Guwahati · FTE
+
+### Q1. Accenture communication round format
+
+Communication round format:
+1. Sentences are shown on screen and you read them aloud.
+2. Audio is played with something wrong in the sentence; you correct it and repeat the sentence.
+3. Audio is played and then questions are asked which you answer; there is also one conversation based on this.
+4. Speaking: a topic is given, 30 sec to prepare and 45 sec to speak. Email writing after that.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1288)</sub>
 
 ## 2026-10-28 · IIT Roorkee · FTE · Elite
 
@@ -865,6 +893,14 @@ Assume that you have recently started working for an organization that is migrat
 The message was cut off here; the rest of the question is missing.
 
 <sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L173)</sub>
+
+## 2026-10-26 · IIT Roorkee · FTE · Interview
+
+### Q1. Accenture communication round format
+
+The communication round has 2 sections, verbal and written. In the verbal section you read some sentences carefully from the screen, listen to some sentences and repeat them aloud properly, and speak on a given topic for 1-2 minutes.
+
+<sub>Topics: Verbal, OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L77)</sub>
 
 ## 2026-10-26 · IIT BHU · FTE · Elite Technology Engineer · Other round
 
@@ -1719,6 +1755,22 @@ Assume your computer's data was stolen by hackers through your network by mentio
 
 <sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf)</sub>
 
+## 2026-10-24 · IIT Delhi · FTE
+
+### Q1. Accenture communication assessment format
+
+Communication round with 7-8 sections, e.g.:
+1. A sentence is written and you must repeat it.
+2. A sentence's audio is played and you must repeat it.
+3. A sentence with a grammatical mistake is played; correct it and repeat the sentence.
+4. A conversation is played, then questions are asked and you answer.
+5. A context is given and you hold a conversation based on it.
+6. 30 seconds to prepare a topic, then speak for 45 seconds (poster's topic: describe a scene of an accident).
+
+Audio is not repeated in any section. If the verbal part is cleared, a written part follows: write an email in 15 minutes for a given situation.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L78)</sub>
+
 ## 2026-10-24 · IIT BHU · FTE
 
 ### Q1. First element whose neighbours are both prime
@@ -1744,6 +1796,12 @@ Given a text input and a result-link element, use JavaScript to generate a URL a
 The URL-formation rules from the starter-code comments were not shared.
 
 <sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/accenture-oa/2026-10.jsonl#L268)</sub>
+
+### Q4. Accenture OA format at BHU
+
+Three questions: one coding question (only Python allowed), one frontend question (hints were given), and one medium-level SQL question. For the Elite Tech Engineer OA, MySQL was the SQL dialect given.
+
+<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L188), [chat, 24 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L195)</sub>
 
 ## 2026-10-23 · MNNIT Allahabad · FTE
 
@@ -1840,6 +1898,20 @@ At IIT Hyderabad the process was:
 3. Interview
 
 <sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L361)</sub>
+
+### Q2. Accenture OA pattern
+
+A coding assessment with 3 questions (1 DSA, 1 SQL and 1 Frontend), followed by a communication round and then an interview.
+
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L230)</sub>
+
+## 2026-10-22 · IIT BHU · FTE
+
+### Q1. Accenture OA pattern
+
+3 questions: 1 DSA, 1 SQL and 1 Frontend. DSA was easy; C++ not allowed, only Python, C# and Java. SQL difficulty differed across sets (easy in some). Frontend was said to be easy by those with knowledge of it.
+
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L232)</sub>
 
 ## 2026-10-21 · Unknown · FTE
 
@@ -1939,6 +2011,33 @@ If you are shortlisted, there is a communication round with a verbal and a writt
 
 <sub>Topics: OA Format, Verbal · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L542), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L547), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L548)</sub>
 
+## 2026-10-21 · IIT BHU · FTE · Elite
+
+### Q1. Find minimum number of cars
+
+You are given an integer n, representing the number of teams in a company, and two arrays:
+
+- members[i]: The number of members in the i-th team.
+- seats[i]: The number of seats available in the car assigned to the i-th team.
+
+Teams with 2 or fewer members will not participate in the trip, and their cars cannot be used.
+
+Members of participating teams can travel in any available car, regardless of which team owns it.
+
+Determine the minimum number of cars required to accommodate all members of the participating teams.
+
+Return -1 if no teams are participating or if the available cars do not have enough seats.
+
+Input Format:
+The first line contains an integer n, representing the number of teams.
+The second line contains n space-separated integers representing members.
+The third line contains n space-separated integers representing seats.
+
+Output Format:
+Print a single integer representing the minimum number of cars required, or -1 if the trip is not possible.
+
+<sub>Topics: Greedy, Sorting, Arrays · Source: [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L287)</sub>
+
 ## 2026-10-20 · NIT Patna · FTE
 
 ### Q1. Advanced Technology Engineer OA rounds
@@ -1998,6 +2097,75 @@ The exact task was not shared.
 First round is a coding round of 3 questions: 1 DSA, 1 SQL, 1 Web (JavaScript frontend). If you solve the DSA and SQL questions, you will be shortlisted.
 
 <sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L522)</sub>
+
+## 2026-10-20 · IIT Hyderabad · FTE · Elite
+
+### Q1. Count contiguous groups of same-sign elements
+
+Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign.
+A new group starts whenever the sign changes between two consecutive elements.
+
+Example 1:
+
+```
+Input:
+arr = [1, 2, -3, -4, 5]
+Output:
+3
+```
+
+Explanation: The array can be divided into three contiguous groups: [1, 2], [-3, -4], and [5].
+
+<sub>Topics: Arrays · Source: [chat, 20 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L285)</sub>
+
+### Q2. Destinations with more than 2 hotels and average nightly rate
+
+You are given two tables, `Destination` and `Hotel`.
+
+Write an SQL query to find the destinations that have more than 2 hotels and calculate the average nightly rate of hotels in each destination.
+
+Display: Destination name, Average nightly rate.
+
+Table `Destination`:
+
+| destination_id | destination_name |
+| --- | --- |
+| 1 | Goa |
+| 2 | Mumbai |
+| 3 | Jaipur |
+| 4 | Manali |
+
+Table `Hotel`:
+
+| hotel_id | destination_id | night_rate |
+| --- | --- | --- |
+| 101 | 1 | 2000 |
+| 102 | 1 | 3000 |
+| 103 | 1 | 2500 |
+| 104 | 1 | 3500 |
+| 105 | 2 | 4000 |
+| 106 | 2 | 5000 |
+| 107 | 3 | 1500 |
+| 108 | 3 | 2500 |
+| 109 | 3 | 2000 |
+| 110 | 4 | 3000 |
+
+Expected output:
+
+| destination_name | avg_night_rate |
+| --- | --- |
+| Goa | 2750.00 |
+| Jaipur | 2000.00 |
+
+Use `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
+
+<sub>Topics: SQL · Source: [chat, 20 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L285)</sub>
+
+### Q3. JavaScript frontend DOM task
+
+A JavaScript frontend question where you had to follow the instructions given in the question; basic DOM understanding was enough. The exact statement was not shared.
+
+<sub>Topics: Web Dev · Source: [chat, 20 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L285)</sub>
 
 ## 2026-10-20 · IIT BHU · FTE
 
@@ -2100,6 +2268,41 @@ OA pattern for the Accenture full-time Elite Technology Engineering (ETE) role:
 There was no gaming round at this college.
 
 <sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/accenture-oa/2026-10.jsonl#L610), [chat, 18 Oct](../archive/accenture-oa/2026-10.jsonl#L612), [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L623), [chat, 19 Oct](../archive/accenture-oa/2026-10.jsonl#L624)</sub>
+
+## 2026-10-18 · IIT BHU · FTE · Japan Digital Consulting
+
+### Q1. OA format: 20 MCQs + 1 coding
+
+20 MCQs (20 minutes) followed by 1 coding question (60 minutes, all languages allowed). MCQ topics: LLM / Generative AI, Aptitude, Pseudocode/output-based, SQL, Computer Science fundamentals (mainly OS and Cloud Computing, reported easy).
+
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L313)</sub>
+
+### Q2. Morse code decode to dictionary word
+
+A Morse-code mapping table is provided, where each English letter maps to a combination of . and -. Given a string in Morse code, decode it and output a corresponding English word. The word must be present in the provided dictionary.txt and its Morse representation must match the input. If multiple valid words exist, print any one.
+
+Input: a Morse-code string, along with the mapping table.
+Output: any valid word from dictionary.txt whose Morse representation matches the input.
+
+<sub>Topics: Strings, Hashing · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L313)</sub>
+
+### Q3. Minimum dice rolls to reach the end
+
+You are given an array A of non-negative integers of size N. You start at index 0 and need to reach an index >= N. A special die lets you choose any number 1 to 6 whenever you roll. At any index there are two actions:
+- Roll the die: choose any value 1 to 6 and jump forward that many positions. This counts as one dice roll.
+- Use the value at the current index: jump forward by exactly A[i] positions. This does not require a dice roll.
+
+The rest of the statement was cut off (presumably find the minimum number of rolls).
+
+<sub>Topics: DP, Graphs · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L313)</sub>
+
+## 2026-10-18 · BITS Pilani · Intern
+
+### Q1. Accenture OA coding difficulty
+
+3 LeetCode hard questions were asked. Focus more on DP and graphs. (Specific problems not given.)
+
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/intern-2028/2026-10.jsonl#L177)</sub>
 
 ## 2026-10-17 · Unknown · FTE
 
@@ -2682,6 +2885,14 @@ Constraints and examples were not given, and the poster did not say whether the 
 
 <sub>Topics: Math · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L825), [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L826)</sub>
 
+## 2026-10-15 · NIT Rourkela · Intern · Other round
+
+### Q1. Accenture paid summer internship process
+
+Online assessment: aptitude, logical reasoning, verbal ability and technical questions. Technical round: basic programming, SQL queries, OOPs concepts, problem-solving. Interview: resume projects, previous internship experience, technical fundamentals, situational questions. Difficulty moderate.
+
+<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/intern-2027/2026-10.jsonl#L129)</sub>
+
 ## 2026-10-15 · IIT Roorkee · FTE
 
 ### Q1. Accenture elite role OA: DSA level
@@ -3093,6 +3304,54 @@ No MCQs.
 
 <sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L868)</sub>
 
+## 2026-10-14 · IIT Guwahati · FTE
+
+### Q1. Check Every 2 × 2 Block
+
+A city consists of N+1 roads running from west to east and N+1 roads running from north to south. These roads form an N × N grid containing N² blocks.
+
+There are M houses in the city, and each house is located in exactly one block.
+
+The coordinates of a block are represented by (a, b), where 1 ≤ a, b ≤ N.
+
+A 2 × 2 block consists of four adjacent blocks with coordinates:
+- (a, b)
+- (a+1, b)
+- (a, b+1)
+- (a+1, b+1)
+
+where 1 ≤ a, b < N.
+
+Determine whether every possible 2 × 2 block contains fewer than K houses.
+- If every 2 × 2 block contains fewer than K houses, print `YES`.
+- Otherwise, print `NO`.
+
+**Input Format**
+- The first line contains three integers N, M, and K.
+- The next M lines each contain two integers a and b, representing the coordinates of a house.
+
+**Output Format**
+Print `YES` if every possible 2 × 2 block contains fewer than K houses. Otherwise, print `NO`.
+
+**Constraints**
+- 1 ≤ N, M, K ≤ 10^5
+- 1 ≤ a, b ≤ N
+- There could be multiple houses in the same cell of the grid.
+
+<sub>Topics: Hashing, Arrays · Source: [chat, 14 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L304), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L309), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L310)</sub>
+
+### Q2. Minimum dice rolls to reach the end
+
+A coding question on the minimum number of dice rolls needed to reach the end (a BFS problem, similar to Snakes and Ladders). The poster described it only briefly; the full statement was not given.
+
+<sub>Topics: Graphs · Similar: [LeetCode 909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) (Medium) · Source: [chat, 14 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L304), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L309), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L310)</sub>
+
+### Q3. MCQ section on AI
+
+The test had 20 MCQs on AI plus one simple BFS coding question.
+
+<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L304), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L309), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L310)</sub>
+
 ## 2026-10-13 · IIT Dhanbad · FTE
 
 ### Q1. Minimum cost to visit target cities in a given order
@@ -3102,6 +3361,18 @@ Given N cities and M bidirectional roads with costs, a starting city S, and an o
 *Input format, constraints and examples were not shared.*
 
 <sub>Topics: Graphs · Source: [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L924), [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L937)</sub>
+
+## 2026-10-12 · NIT Jalandhar · Intern · Advanced Technology Engineer
+
+### Q1. Accenture OA structure
+
+Three rounds, each an elimination round (clear one to move to the next):
+
+1. 45 MCQs in 45 minutes
+2. Coding: 3 questions: 1 DSA, 1 SQL, 1 frontend (HTML, CSS, JS)
+3. Gaming round: maths, behaviour and similar
+
+<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/intern-2028/2026-10.jsonl#L161)</sub>
 
 ## 2026-10-12 · MNNIT Allahabad · FTE
 
@@ -3273,6 +3544,229 @@ Expected output: Goa 2750.00; Jaipur 2000.00.
 
 <sub>Topics: SQL · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L248)</sub>
 
+## 2026-10-10 · IIT Hyderabad · FTE · Elite Technology Engineer
+
+### Q1. Remaining water after watering all trees
+
+You are given N trees and K units of total water. Each tree initially requires M units of water. For the i-th tree:
+- `array1[i]` denotes the number of additional times the tree needs to be watered.
+- `array2[i]` denotes the amount of water required during each additional watering.
+
+The total water required by the i-th tree is `M + (array1[i] × array2[i])`. Calculate and return the amount of water remaining after watering all N trees. If the total water required is greater than K, return 0.
+
+Input: integer N, integer K, integer M, array `array1` of size N, array `array2` of size N.
+
+Output: `max(0, K - totalWaterRequired)`
+
+(Poster says the actual question was similar to this; the language may differ.)
+
+<sub>Topics: Arrays, Math · Source: [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L235), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L236), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L237)</sub>
+
+### Q2. Count contiguous groups of same-sign elements
+
+Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign. A new group starts whenever the sign changes between two consecutive elements.
+
+Example:
+```
+Input: arr = [1, 2, -3, -4, 5]
+Output: 3
+```
+The array can be divided into three contiguous groups: [1, 2], [-3, -4], and [5].
+
+<sub>Topics: Arrays · Source: [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L235), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L236), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L237)</sub>
+
+### Q3. SQL join across 3 tables with GROUP BY and IS NULL
+
+One SQL query: join 3 tables, using GROUP BY, IS NULL and multiple join conditions. The poster says the schema was too complex to understand; the exact schema was not shared.
+
+<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L235), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L236), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L237)</sub>
+
+### Q4. Web dev: HTML/CSS/JavaScript modifications
+
+A front-end question (HTML, CSS, JS) where hints were given for each part in comments, e.g. change the colour from this to this. The JS part also just required following the given instructions with basic DOM understanding.
+
+<sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L235), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L236), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L237)</sub>
+
+### Q5. Destinations with more than 2 hotels and average nightly rate (practice)
+
+You are given two tables, `Destination` and `Hotel`. Write an SQL query to find the destinations that have more than 2 hotels and calculate the average nightly rate of hotels in each destination. Display the destination name and the average nightly rate. Use `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
+
+`Destination`:
+
+| destination_id | destination_name |
+| --- | --- |
+| 1 | Goa |
+| 2 | Mumbai |
+| 3 | Jaipur |
+| 4 | Manali |
+
+`Hotel`:
+
+| hotel_id | destination_id | night_rate |
+| --- | --- | --- |
+| 101 | 1 | 2000 |
+| 102 | 1 | 3000 |
+| 103 | 1 | 2500 |
+| 104 | 1 | 3500 |
+| 105 | 2 | 4000 |
+| 106 | 2 | 5000 |
+| 107 | 3 | 1500 |
+| 108 | 3 | 2500 |
+| 109 | 3 | 2000 |
+| 110 | 4 | 3000 |
+
+Expected output:
+
+| destination_name | avg_night_rate |
+| --- | --- |
+| Goa | 2750.00 |
+| Jaipur | 2000.00 |
+
+(Shared as a practice question, not necessarily an actual OA question.)
+
+<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L235), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L236), [chat, 10 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L237)</sub>
+
+### Q6. Remaining water after watering N trees
+
+You are given N trees and K units of total water.
+Each tree initially requires M units of water. For the ith tree:
+- `array1[i]` denotes the number of additional times the tree needs to be watered.
+- `array2[i]` denotes the amount of water required during each additional watering.
+
+The total water required by the ith tree is `M + (array1[i] × array2[i])`.
+Calculate and return the amount of water remaining after watering all N trees. If the total water required is greater than K, return 0.
+
+Input:
+- An integer N, the number of trees.
+- An integer K, the total available water.
+- An integer M, the initial water requirement of each tree.
+- An array `array1` of size N.
+- An array `array2` of size N.
+
+Output: the remaining water, `max(0, K - totalWaterRequired)`.
+
+(Poster says this is similar to the actual question; the language and exact wording may differ.)
+
+<sub>Topics: Arrays, Math · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L482), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L484), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L485)</sub>
+
+### Q7. SQL: join of 3 tables with GROUP BY and IS NULL
+
+Write an SQL query that joins 3 tables, using GROUP BY, IS NULL and multiple join conditions. The poster found the schema too complex to follow. The exact tables and columns were not given.
+
+<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L482), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L484), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L485)</sub>
+
+### Q8. Web dev: HTML/CSS/JS task from comments
+
+A front-end task in HTML, CSS and JS. Each step had hints in comments, for example change a colour from one value to another. The JS part was likewise clearly described in comments. The poster advised knowing basic components and DOM manipulation. The exact task was not given.
+
+<sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L482), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L484), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L485)</sub>
+
+### Q9. SQL: destinations with more than 2 hotels and average nightly rate
+
+Practice question. You are given two tables, `Destination` and `Hotel`.
+
+Write an SQL query to find the destinations that have more than 2 hotels and calculate the average nightly rate of hotels in each destination.
+
+Display the destination name and the average nightly rate.
+
+Table `Destination`:
+
+| destination_id | destination_name |
+| -------------- | ---------------- |
+| 1 | Goa |
+| 2 | Mumbai |
+| 3 | Jaipur |
+| 4 | Manali |
+
+Table `Hotel`:
+
+| hotel_id | destination_id | night_rate |
+| -------- | -------------- | ---------- |
+| 101 | 1 | 2000 |
+| 102 | 1 | 3000 |
+| 103 | 1 | 2500 |
+| 104 | 1 | 3500 |
+| 105 | 2 | 4000 |
+| 106 | 2 | 5000 |
+| 107 | 3 | 1500 |
+| 108 | 3 | 2500 |
+| 109 | 3 | 2000 |
+| 110 | 4 | 3000 |
+
+Expected output:
+
+| destination_name | avg_night_rate |
+| ---------------- | -------------- |
+| Goa | 2750.00 |
+| Jaipur | 2000.00 |
+
+Use `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
+
+<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L482), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L484), [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L485)</sub>
+
+### Q10. Count contiguous groups of same-sign elements
+
+Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign. A new group starts whenever the sign changes between two consecutive elements.
+
+Example 1:
+```
+Input: arr = [1, 2, -3, -4, 5]
+Output: 3
+```
+Explanation: the array can be divided into three contiguous groups: [1, 2], [-3, -4] and [5].
+
+<sub>Topics: Arrays · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L483)</sub>
+
+### Q11. SQL: join between 3 tables
+
+An SQL question involving a JOIN between 3 tables. The exact schema and query were not given.
+
+<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L483)</sub>
+
+### Q12. JavaScript front-end DOM task
+
+A JavaScript front-end task where you just had to follow the instructions given in the question. Basic DOM understanding was enough. The exact task was not given.
+
+<sub>Topics: Web Dev · Source: [chat, 10 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L483)</sub>
+
+## 2026-10-10 · IIT Dhanbad · FTE · Elite Technology Engineer
+
+### Q1. Next number with multiplicative persistence exactly 1
+
+Given a positive integer n, repeatedly multiply all of its digits together to form a new number. Continue until the result becomes a single-digit number. The number of multiplication rounds required is the multiplicative persistence of the number.
+
+Return the smallest number greater than n whose multiplicative persistence is exactly 1.
+
+Examples remembered:
+- n = 10: 1 × 0 = 0, so the persistence is 1.
+- n = 27: 2 × 7 = 14, then 1 × 4 = 4, so the persistence is 2. The next number greater than 27 with persistence 1 is 30.
+- n = 9: the next number greater than 9 with persistence 1 is 10.
+
+Supported languages: Python, C# and Java. Difficulty varied across question sets.
+
+<sub>Topics: Math · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4938-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q2. Cars that have never been rented (car-rental schema)
+
+An ER diagram / database schema of a car-rental system (customer, rental and car tables) was provided, not a sample input/output. Identify the cars that have never been rented and return the requested car details such as car model, rental rate and other relevant attributes. Can be solved with a JOIN plus NOT EXISTS, or a LEFT JOIN with an IS NULL condition.
+
+<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4938-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q3. HTML/CSS/JS edits to given files
+
+Existing HTML, CSS and JavaScript files were provided, and specific changes had to be made:
+- HTML: change a tag, e.g. a div to an h2.
+- CSS: add or modify a style property, e.g. font-size, for an element identified by a class.
+- JavaScript: an addEventListener and function already existed; add if/else logic to change innerText according to specified conditions.
+
+<sub>Topics: Web Dev · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4938-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q4. OA structure and communication rounds
+
+Technical OA of 60 minutes with 3 questions: DSA/coding, SQL, and HTML/CSS/JavaScript. The next day a verbal communication assessment (AI-assisted) was held for shortlisted candidates: sentence reading, repeating sentences after an AI voice, and listening/reading comprehension. Candidates who cleared it took a written communication assessment, which was one email-writing task based on a given situation.
+
+<sub>Topics: OA Format · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4938-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
 ## 2026-10-09 · Unknown · FTE
 
 ### Q1. Elite Technology Engineer OA pattern (3 questions, 2 to qualify)
@@ -3311,6 +3805,45 @@ MCQs were asked in the Accenture Elite Technology Engineer (ETE) OA: 45 MCQs in 
 Accenture Japan (MC Delivery Associate) OA: there was 1 coding question, with 60 minutes allocated to the coding section. All programming languages were allowed. Different candidates got different sets (Set 1: Morse Code Dictionary, Set 2: Minimum Dice Rolls to Reach the End).
 
 <sub>Topics: OA Format · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1066)</sub>
+
+## 2026-10-09 · IIT Dhanbad · FTE · Elite Technology Engineer
+
+### Q1. Next number with multiplicative persistence 1
+
+Given a positive integer n, repeatedly multiply all of its digits together to form a new number. Continue until the result is a single-digit number. The number of multiplication rounds required is the multiplicative persistence of the number.
+
+Return the smallest number greater than n whose multiplicative persistence is exactly 1.
+
+Examples:
+```
+n = 10: 1 x 0 = 0, so persistence is 1.
+n = 27: 2 x 7 = 14, then 1 x 4 = 4, so persistence is 2. Next number greater than 27 with persistence 1 is 30.
+n = 9: next number greater than 9 with persistence 1 is 10.
+```
+Languages: Python, C#, Java. Difficulty varied across question sets. Constraints were not given.
+
+<sub>Topics: Math, Arrays · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4238-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q2. Cars that were never rented
+
+An ER diagram / schema of a car-rental system was provided (customer, rental and car tables). Write a query to find cars that have never been rented and return the car model, rental rate and other requested car details. A JOIN with NOT EXISTS, or LEFT JOIN with IS NULL, works. Exact table and column names were not given.
+
+<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4238-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q3. Modify HTML, CSS and JavaScript files
+
+Existing HTML, CSS and JavaScript files were provided and specific changes were required:
+- HTML: change a tag/structure, e.g. a div to an h2.
+- CSS: add or modify a style property such as font-size for an element selected by class.
+- JavaScript: an addEventListener and function already existed; add if/else logic to change innerText according to the given conditions.
+
+<sub>Topics: Web Dev · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4238-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
+
+### Q4. Verbal and written communication assessment
+
+Technical OA was 60 minutes (DSA + SQL + HTML/CSS/JS). The next day came an AI-assisted verbal communication assessment: read sentences aloud, repeat sentences after an AI voice, and listening/reading comprehension questions. Candidates who cleared it took a written assessment of one email-writing task based on a given situation.
+
+<sub>Topics: OA Format, Verbal · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4238-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf)</sub>
 
 ## 2026-10-09 · IIT BHU · FTE
 
@@ -3384,6 +3917,20 @@ The OA has 3 questions: one backend, one frontend and one SQL.
 - Web dev question: a simple frontend DOM manipulation question.
 
 <sub>Topics: OA Format · Source: [chat, 3 Oct](../archive/accenture-oa/2026-10.jsonl#L1230), [chat, 4 Oct](../archive/accenture-oa/2026-10.jsonl#L1242)</sub>
+
+## 2026-10-03 · NIT Kurukshetra · Intern
+
+### Q1. Accenture OA structure
+
+The OA had 3 questions:
+
+1. Backend/frontend question
+2. DSA question
+3. Basic SQL question
+
+The actual question statements were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 3 Oct](../archive/intern-2028/2026-10.jsonl#L304)</sub>
 
 ## 2026-10-02 · NIT Patna · FTE
 
@@ -3461,6 +4008,39 @@ The process had 3 rounds:
 If you pass these, there is an email writing task.
 
 <sub>Topics: OA Format, Verbal · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250)</sub>
+
+### Q5. Next composite number with odd digit sum
+
+Input: n. Return a number greater than n such that it is composite and the sum of its digits is odd. (Constraints and exact output format not given.)
+
+<sub>Topics: Math · Source: [chat, 9 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L458)</sub>
+
+### Q6. Join two tables and return rows with NULL in a column
+
+Multiple tables were given. Join two of them and return the rows where a given column's value is NULL. (Exact schema not remembered.)
+
+<sub>Topics: SQL · Source: [chat, 9 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L458)</sub>
+
+### Q7. Dev tasks: div colors, CSS border, add class
+
+Dev (programming) section:
+- There are 4 divs with color names written in them; clicking a div should change the background color.
+- Add a border in CSS to one div.
+- Add a class in the HTML.
+
+<sub>Topics: Web Dev · Source: [chat, 9 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L458)</sub>
+
+### Q8. Minimum steps to reach palindrome tiles
+
+Find the minimum steps to reach the desired tiles satisfying a palindrome condition, where the tile's square must also be a palindrome. The poster only vaguely remembered it; the full statement is missing.
+
+<sub>Topics: Math, Graphs · Source: [chat, 9 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L458)</sub>
+
+### Q9. Accenture OA structure and communication round
+
+OA had DSA, SQL and Dev (programming) questions: 1 SQL + 3 DSA + 1 Backend + 1 Frontend. C#, Java and Python3 were allowed. Process: coding round, communication round, then interview (resume and HR). Communication round: reading, repeat, fill in the blanks, error correction, 2 stories with 5 questions each, or speak for 45 seconds on a topic; if cleared, email writing. For Accenture Japan: 20 MCQs on Cloud, OS, pseudocode, CyberSecurity, SQL etc. plus 1 DSA question.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 9 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L458)</sub>
 
 ## 2026-09-26 · IIT Dhanbad · FTE
 
@@ -3585,6 +4165,40 @@ Coding section:
 - 1 frontend question: make some changes in the CSS and complete a JS function
 
 <sub>Topics: OA Format · Source: [chat, 24 Sep](../archive/accenture-oa/2026-09.jsonl#L70)</sub>
+
+## 2026-09-24 · NIT Surathkal · FTE
+
+### Q1. Minimum paper rolls to cover field perimeter
+
+A field has 4 sections namely hexagonal, square, triangular and pentagonal. You have to cover each section along the perimeter with some number of paper rolls. What is the minimum number of paper rolls you will use to cover all sections?
+
+Input:
+```
+100            // total length covered by one roll
+{H,T,S,P}      // hexagonal, triangle, square, pentagonal
+{10,10,10,10}  // one side length
+```
+(Backend question. Output format and exact constraints not given.)
+
+<sub>Topics: Math · Source: [chat, 24 Sep](../archive/intern-2028/2026-09.jsonl#L70)</sub>
+
+### Q2. SQL query on given tables
+
+Database question: some tables were given and a SQL query had to be written to find the required output. (Tables and exact requirement not remembered.)
+
+<sub>Topics: SQL · Source: [chat, 24 Sep](../archive/intern-2028/2026-09.jsonl#L70)</sub>
+
+### Q3. Frontend scaffold with blank placeholders
+
+Frontend question: update the blank placeholders in HTML, CSS and JavaScript to make a working scaffold. (Details not given.)
+
+<sub>Topics: Web Dev · Source: [chat, 24 Sep](../archive/intern-2028/2026-09.jsonl#L70)</sub>
+
+### Q4. OA format
+
+For many people only 1 question was there from either frontend/backend, plus 1 DSA question. Languages allowed: Python, Java, C#.
+
+<sub>Topics: OA Format · Source: [chat, 24 Sep](../archive/intern-2028/2026-09.jsonl#L70)</sub>
 
 ## 2026-09-23 · VNIT Nagpur · FTE
 

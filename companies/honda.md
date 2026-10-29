@@ -1,29 +1,80 @@
 # Honda
 
-**6 questions** from 2 OA drives · seen at IIT Delhi, VIT Vellore · latest 2026-10-15
+**10 questions** from 3 OA drives · seen at IIT Delhi, IIT Madras, VIT Vellore · latest 2026-10-17
 
-**Topics:** [Arrays](../topics/arrays.md) (3) · [Math](../topics/math.md) (2) · [DP](../topics/dp.md) (2) · [Hashing](../topics/hashing.md) (1) · [Two Pointers](../topics/two-pointers.md) (1) · [Graphs](../topics/graphs.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1)
+**Topics:** [Arrays](../topics/arrays.md) (5) · [Math](../topics/math.md) (3) · [DP](../topics/dp.md) (3) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Hashing](../topics/hashing.md) (1) · [Two Pointers](../topics/two-pointers.md) (1) · [Graphs](../topics/graphs.md) (1) · [Sorting](../topics/sorting.md) (1) · [Other](../topics/other.md) (1)
 
 **LeetCode matches:** 2 (see the [practice list](../practice.md))
 
 **Drives:**
 
-- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 2 questions
+- [2026-10-17 · IIT Madras · FTE](#2026-10-17--iit-madras--fte) · 2 questions
+- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 4 questions
 - [2026-10-09 · VIT Vellore · FTE](#2026-10-09--vit-vellore--fte) · 4 questions
 
 [← all companies](../README.md#companies)
 
 ---
 
+## 2026-10-17 · IIT Madras · FTE
+
+### Q1. Square with minimum area enclosing k points
+
+Find the square with minimum area enclosing k points among given n points. Reference link: https://stackoverflow.com/questions/30951045/square-with-minimum-area-enclosing-k-points-among-given-n-points
+
+<sub>Topics: Arrays, Sorting · Source: [chat, 17 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L111)</sub>
+
+### Q2. FactSet photo album
+
+Problem from fastprep.io: https://www.fastprep.io/problems/factset-photo-album (statement not given in the message).
+
+<sub>Topics: Other · Source: [chat, 17 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L111)</sub>
+
 ## 2026-10-15 · IIT Delhi · FTE
 
 ### Q1. Bitwise Recurrence
+
+A sequence is defined using three initial values F0, F1, F2. Subsequent terms use bitwise OR and XOR. The recurrence visible in the screenshot:
+
+F_i = (F_{i-1} | F_{i-2}) ^ F_{i-3}
+
+Given a, b, c and n, return F_n.
+
+Function signature (C):
+```
+long bitwiseRecurrence(long a, long b, long c, long n)
+```
+Examples:
+- a = 4, b = 1, c = 10, n = 4 → 14
+- a = 3, b = 2, c = 5, n = 3 → 2
+
+Note: the second example appears inconsistent with the recurrence as readable.
+
+<sub>Topics: Bit Manipulation, Math · Source: [chat, 15 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L191)</sub>
+
+### Q2. Maximum Gross Value of Any Valid Triple
+
+Given an integer array arr of length n, select a valid triple of indices to maximize the gross value, calculated using sums of array segments: the sum of the selected segment, the sum of elements before it, and the sum of elements after it. Empty segments contribute zero. Return the maximum possible gross value.
+
+Function signature (C):
+```
+long getMaximumGrossValue(int arr_count, int* arr)
+```
+Examples:
+- arr = [-1, 1, -2, -2] → 6
+- arr = [4, -8, 2, -10, 3, -20] → 43
+
+The exact gross value formula is not fully given.
+
+<sub>Topics: Arrays, DP · Source: [chat, 15 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L191)</sub>
+
+### Q3. Bitwise Recurrence
 
 A sequence is defined by three starting values F0 = a, F1 = b, F2 = c. Each later term is F_i = (F_{i-1} | F_{i-2}) ^ F_{i-3}, using bitwise OR and XOR. Given a, b, c and n, return F_n. Function signature (C): long bitwiseRecurrence(long a, long b, long c, long n). Examples: a=4, b=1, c=10, n=4 -> 14; a=3, b=2, c=5, n=3 -> 2. (The poster notes the second example looks inconsistent with the recurrence as read from the screenshot.) This was the OA at IIT Delhi last year.
 
 <sub>Topics: Bit Manipulation, Math · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1304)</sub>
 
-### Q2. Maximum Gross Value of Any Valid Triple
+### Q4. Maximum Gross Value of Any Valid Triple
 
 You are given an integer array arr of length n. Choose a valid triple of indices to maximize the gross value. The gross value is computed from three sums: the sum of the selected segment, the sum of the elements before it, and the sum of the elements after it. Empty segments count as zero. Return the largest possible gross value. Function signature (C): long getMaximumGrossValue(int arr_count, int* arr). Examples: arr = [-1, 1, -2, -2] -> 6; arr = [4, -8, 2, -10, 3, -20] -> 4.
 

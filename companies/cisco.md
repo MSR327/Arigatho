@@ -1,11 +1,12 @@
 # Cisco
 
-**5 questions** from 4 OA drives · seen at MNNIT Allahabad, Unknown · latest 2026-09-21
+**6 questions** from 5 OA drives · seen at MNNIT Allahabad, NIT Kurukshetra, Unknown · latest 2026-09-22
 
-**Topics:** [OA Format](../topics/oa-format.md) (3) · [Trees](../topics/trees.md) (2) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [Arrays](../topics/arrays.md) (1) · [Linked List](../topics/linked-list.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (4) · [Trees](../topics/trees.md) (2) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [Arrays](../topics/arrays.md) (1) · [Linked List](../topics/linked-list.md) (1)
 
 **Drives:**
 
+- [2026-09-22 · NIT Kurukshetra · Intern · SWE · Interview](#2026-09-22--nit-kurukshetra--intern--swe--interview) · 1 question
 - [2026-09-21 · Unknown · FTE · SDE](#2026-09-21--unknown--fte--sde) · 1 question
 - [2026-09-21 · Unknown · FTE · SDE · Interview](#2026-09-21--unknown--fte--sde--interview) · 2 questions
 - [2026-09-21 · Unknown · Intern · Interview](#2026-09-21--unknown--intern--interview) · 1 question
@@ -14,6 +15,14 @@
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-09-22 · NIT Kurukshetra · Intern · SWE · Interview
+
+### Q1. Cisco interview rounds
+
+Two interviews: one on arrays/linked list, and one on trees/graphs. Specific questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 22 Sep](../archive/intern-2027/2026-09.jsonl#L7)</sub>
 
 ## 2026-09-21 · Unknown · FTE · SDE
 

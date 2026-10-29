@@ -1,11 +1,13 @@
 # Silicon Labs
 
-**5 questions** from 3 OA drives · seen at Unknown · latest 2026-09-21
+**7 questions** from 5 OA drives · seen at NIT Rourkela, NIT Surathkal, Unknown · latest 2026-10-15
 
-**Topics:** [OA Format](../topics/oa-format.md) (2) · [Sorting](../topics/sorting.md) (2) · [Arrays](../topics/arrays.md) (2) · [Heaps](../topics/heaps.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Digital Electronics](../topics/digital-electronics.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (4) · [Sorting](../topics/sorting.md) (2) · [Arrays](../topics/arrays.md) (2) · [Heaps](../topics/heaps.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Digital Electronics](../topics/digital-electronics.md) (1)
 
 **Drives:**
 
+- [2026-10-15 · NIT Rourkela · Intern](#2026-10-15--nit-rourkela--intern) · 1 question
+- [2026-10-06 · NIT Surathkal · FTE · Hardware/Electronic engineer](#2026-10-06--nit-surathkal--fte--hardwareelectronic-engineer) · 1 question
 - [2026-09-21 · Unknown · Intern · Software Design Intern](#2026-09-21--unknown--intern--software-design-intern) · 1 question
 - [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview) · 3 questions
 - [2026-09-21 · Unknown · FTE · Embedded / Design Verification · Other round](#2026-09-21--unknown--fte--embedded--design-verification--other-round) · 1 question
@@ -13,6 +15,22 @@
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-15 · NIT Rourkela · Intern
+
+### Q1. Silicon Labs OA contents
+
+The OA covered C programming, data structures, digital electronics, microcontrollers, embedded C, basic RTOS concepts and communication protocols like SPI, I2C and UART.
+
+<sub>Topics: OA Format · Source: [chat, 15 Oct](../archive/intern-2027/2026-10.jsonl#L125)</sub>
+
+## 2026-10-06 · NIT Surathkal · FTE · Hardware/Electronic engineer
+
+### Q1. Silicon Labs OA structure
+
+First round is the same as the other roles. The second round contains MCQs from core subjects.
+
+<sub>Topics: OA Format · Source: [chat, 6 Oct](../archive/silicon-labs-oa/2026-10.jsonl#L7)</sub>
 
 ## 2026-09-21 · Unknown · Intern · Software Design Intern
 

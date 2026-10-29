@@ -1,13 +1,18 @@
 # InfoEdge
 
-**22 questions** from 4 OA drives · seen at IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Patna · latest 2026-10-26
+**29 questions** from 9 OA drives · seen at IIIT Allahabad, IIT BHU, IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Patna · latest 2026-10-26
 
-**Topics:** [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (5) · [Math](../topics/math.md) (5) · [Aptitude](../topics/aptitude.md) (4) · [ML/AI](../topics/ml-ai.md) (4) · [Python & Pandas](../topics/python-pandas.md) (4) · [OOP](../topics/oop.md) (2) · [OA Format](../topics/oa-format.md) (2) · [Binary Search](../topics/binary-search.md) (1) · [Strings](../topics/strings.md) (1) · [Two Pointers](../topics/two-pointers.md) (1) · [Arrays](../topics/arrays.md) (1) · [SQL](../topics/sql.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (9) · [ML/AI](../topics/ml-ai.md) (7) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (5) · [Math](../topics/math.md) (5) · [Aptitude](../topics/aptitude.md) (4) · [Python & Pandas](../topics/python-pandas.md) (4) · [OOP](../topics/oop.md) (2) · [Binary Search](../topics/binary-search.md) (1) · [Strings](../topics/strings.md) (1) · [Two Pointers](../topics/two-pointers.md) (1) · [Arrays](../topics/arrays.md) (1) · [SQL](../topics/sql.md) (1)
 
 **Drives:**
 
 - [2026-10-26 · MNNIT Allahabad · FTE](#2026-10-26--mnnit-allahabad--fte) · 1 question
+- [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte) · 2 questions
+- [2026-10-26 · IIT Guwahati · FTE · AI Scientist](#2026-10-26--iit-guwahati--fte--ai-scientist) · 1 question
+- [2026-10-26 · IIIT Allahabad · FTE](#2026-10-26--iiit-allahabad--fte) · 1 question
+- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte) · 2 questions
 - [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte) · 1 question
+- [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 1 question
 - [2026-10-05 · IIT Guwahati · FTE](#2026-10-05--iit-guwahati--fte) · 10 questions
 - [2026-10-03 · NIT Patna · FTE](#2026-10-03--nit-patna--fte) · 10 questions
 
@@ -23,6 +28,50 @@ InfoEdge OA pattern: MCQs on aptitude and core CS, plus 2 DSA coding questions.
 
 <sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/inter-nit/2026-10.jsonl#L2394)</sub>
 
+## 2026-10-26 · IIT Guwahati · FTE
+
+### Q1. InfoEdge OA pattern
+
+40 MCQs in 60 minutes covering ML, DL, NLP, SQL and some LLM questions.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L5)</sub>
+
+### Q2. InfoEdge OA pattern
+
+40 MCQ questions in 60 minutes, covering ML, DL, NLP, SQL and some LLM questions.
+
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L5)</sub>
+
+## 2026-10-26 · IIT Guwahati · FTE · AI Scientist
+
+### Q1. InfoEdge AI Scientist OA format
+
+60 minutes, 40 MCQs on ML / DL / NLP / LLMs.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L15)</sub>
+
+## 2026-10-26 · IIIT Allahabad · FTE
+
+### Q1. InfoEdge OA pattern
+
+The OA had 3 coding questions. No question details were given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iiit-allahabad-placements/2026-10.jsonl#L34)</sub>
+
+## 2026-10-25 · IIT Guwahati · FTE
+
+### Q1. InfoEdge OA format and topics
+
+40 MCQs divided into 4 sections (10 questions each). Everyone got a different set of questions. The poster's set had questions from Linear Algebra, ML, DL and Programming. Difficulty was easy to medium, with some questions quite theoretical and conceptual. Total time limit: 1 hour.
+
+<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-dharwad-placements/2026-10.jsonl#L18)</sub>
+
+### Q2. InfoEdge OA format
+
+Total time 1 hour. 40 MCQs divided into 4 sections of 10 questions each; candidates got different sets. Topics: Linear Algebra, ML, DL and Programming. Easy to medium difficulty, some theoretical and conceptual.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L141), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L142)</sub>
+
 ## 2026-10-22 · IIT Roorkee · FTE
 
 ### Q1. OA pattern: 40 MCQs on stats, ML, DL
@@ -30,6 +79,14 @@ InfoEdge OA pattern: MCQs on aptitude and core CS, plus 2 DSA coding questions.
 InfoEdge OA was MCQ only: 40 MCQs on statistics, machine learning and deep learning core concepts. Difficulty easy to medium. Some basic questions on AI agents were also asked.
 
 <sub>Topics: OA Format, ML/AI · Source: [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L766), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L767), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L772), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L774)</sub>
+
+## 2026-10-22 · IIT BHU · FTE
+
+### Q1. InfoEdge OA format: ML/DL MCQs
+
+40 MCQs based on ML and DL core concepts. Level was not that hard; some questions on AI agents, solvable with basic understanding.
+
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L231)</sub>
 
 ## 2026-10-05 · IIT Guwahati · FTE
 

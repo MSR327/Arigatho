@@ -1,13 +1,16 @@
 # Deloitte
 
-**53 questions** from 4 OA drives · seen at IIT Dhanbad, IIT Indore, IIT Kanpur, MNNIT Allahabad · latest 2026-10-28
+**62 questions** from 7 OA drives · seen at IIT BHU, IIT Dhanbad, IIT Indore, IIT Kanpur, MNNIT Allahabad · latest 2026-10-28
 
-**Topics:** [Aptitude](../topics/aptitude.md) (16) · [Verbal](../topics/verbal.md) (9) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (8) · [ML/AI](../topics/ml-ai.md) (7) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (6) · [Math](../topics/math.md) (5) · [OA Format](../topics/oa-format.md) (4) · [Puzzles](../topics/puzzles.md) (4) · [OOP](../topics/oop.md) (3) · [SQL](../topics/sql.md) (3) · [Strings](../topics/strings.md) (1) · [Graphs](../topics/graphs.md) (1) · [Trees](../topics/trees.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1) · [Web Dev](../topics/web-dev.md) (1)
+**Topics:** [Verbal](../topics/verbal.md) (16) · [Aptitude](../topics/aptitude.md) (16) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (8) · [ML/AI](../topics/ml-ai.md) (7) · [OA Format](../topics/oa-format.md) (6) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (6) · [Math](../topics/math.md) (5) · [Puzzles](../topics/puzzles.md) (4) · [OOP](../topics/oop.md) (3) · [SQL](../topics/sql.md) (3) · [Strings](../topics/strings.md) (1) · [Graphs](../topics/graphs.md) (1) · [Trees](../topics/trees.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Arrays](../topics/arrays.md) (1) · [Web Dev](../topics/web-dev.md) (1)
 
 **Drives:**
 
 - [2026-10-28 · IIT Dhanbad · FTE · Analyst](#2026-10-28--iit-dhanbad--fte--analyst) · 15 questions
+- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte) · 1 question
 - [2026-10-27 · IIT Kanpur · FTE · Analyst](#2026-10-27--iit-kanpur--fte--analyst) · 36 questions
+- [2026-10-26 · IIT Dhanbad · FTE](#2026-10-26--iit-dhanbad--fte) · 7 questions
+- [2026-10-26 · IIT BHU · FTE](#2026-10-26--iit-bhu--fte) · 1 question
 - [2026-10-23 · IIT Indore · FTE](#2026-10-23--iit-indore--fte) · 1 question
 - [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte) · 1 question
 
@@ -271,6 +274,14 @@ C. Transformers maintain only one hidden state, eliminating intermediate activat
 D. Self-attention allows sequence positions to be processed with greater parallelism than strictly sequential recurrent updates.
 
 <sub>Topics: ML/AI · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L43), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L45), [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L49), [ChatGPT Image Oct 27, 2026, 04_12_36 PM.pdf](../archive/files/15299-ChatGPT_Image_Oct_27_2026_04_12_36_PM.pdf)</sub>
+
+## 2026-10-28 · IIT BHU · FTE
+
+### Q1. Deloitte vibe coding and debugging rounds
+
+Only those who cleared round 1 were allowed to give the vibe coding round; there were test cases that needed to be passed. Then a debugging round was also there.
+
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L80), [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L81)</sub>
 
 ## 2026-10-27 · IIT Kanpur · FTE · Analyst
 
@@ -778,6 +789,116 @@ He start to panic (A) when (B) his boss did not respond to (C) his text for two 
 Options: B, C, A, D
 
 <sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+
+## 2026-10-26 · IIT Dhanbad · FTE
+
+### Q1. Error detection: letters to each other
+
+Verbal Ability, Error Detection. Out of the four underlined phrases marked (A), (B), (C) and (D), choose the phrase which is wrong or inappropriate in the context of the sentence.
+
+People forever wrote letters to each other, (A) asking where (B) they could find (C) decent cooks and competent maids or reliable footmen. (D)
+
+A. B
+B. C
+C. D
+D. A
+
+<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
+
+### Q2. Sentence arrangement: microwave food safety
+
+Verbal Ability, Sentence Arrangement. Choose the most logical order of the given sentences to construct a coherent paragraph.
+
+A. There has been some concern that microwaves might damage food,
+B. Microwaving food raises several safety issues,
+C. but the dominant view is that microwaved food is as safe to eat as conventionally cooked food.
+D. connected with the leakage of microwave radiation outside the oven
+E. largely and the risk of fire from high temperature heat sources.
+
+Options:
+A. ABCDE
+B. AECBD
+C. BDEAC
+D. BEACD
+
+<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
+
+### Q3. Reading comprehension: what happened as seasons changed
+
+Verbal Ability, Reading Comprehension. Direction: Read the passage and answer the question that follows. There may be more than one question based on the passage.
+
+Passage (partly legible in the screenshot): One day, the head monk of the Zen monastery called Koji and Haruki and entrusted them with a task: to look after the beautiful gardens of the monastery. They were also given individual responsibilities of nurturing a specific type of tree. Koji was given a sturdy oak tree and Haruki was given a delicate bamboo plant. Seasons changed, months passed, and Koji's oak tree grew taller and stronger, its expansive branches provided ample shade and also protected the garden from natural disasters. On the other hand, Haruki's bamboo plant was delicate and thin, its tender stems swaying in the direction of the wind. Koji, with great pride, looked at his oak tree, then glanced at Haruki's bamboo plant and said, "Haruki, your bamboo is beautiful, but compared to the grandeur of my oak tree, it looks utterly pale." Haruki smiled gently with wisdom shining in his eyes. "Your oak tree provides shelter and strength, while my bamboo plant teaches the ability to overcome any adversity." From that moment, Koji and Haruki began to respect and care for all trees equally. They embraced a life without comparison, leading them towards profound inner peace.
+
+Question: What happened as the seasons changed?
+
+A. The bamboo plant grew taller and stronger alongside the oak tree.
+B. The oak tree grew weaker and withered as the seasons changed but the bamboo remained strong.
+C. The oak plant grew taller and stronger while the bamboo plant remained delicate and thin.
+D. The oak tree became more beautiful while the bamboo plant grew long and ugly.
+
+<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
+
+### Q4. Reading comprehension: Koji and Haruki learnt to
+
+Verbal Ability, Reading Comprehension. Same passage as the previous question (the Zen monastery gardens, Koji's oak tree and Haruki's bamboo plant).
+
+Question: Koji and Haruki learnt to:
+
+A. have equal respect and care for all the trees in the garden.
+B. be proud of their trees and boast about them.
+C. nurture a specific tree in the garden and make it grow stronger.
+D. change their responsibilities as the seasons change.
+
+<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
+
+### Q5. Fill in the blank: Roys and wealth
+
+Verbal Ability, Fill in the Blank(s). Direction: Fill in the blank(s) below with the most appropriate word.
+
+The Roys have always been ones to ______ off their wealth.
+
+Options were not captured in the screenshot.
+
+<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
+
+### Q6. Sentence arrangement: surgeon in the Army
+
+Verbal Ability, Sentence Arrangement. Choose the most logical order of the given sentences to construct a coherent paragraph.
+
+A. On landing at Bombay, I learned that my corps had advanced through the passes, and was already deep in the enemy's country.
+B. In the year 1878, I took my degree of Doctor of Medicine of the University of London and proceeded to Netley to go through the course prescribed for surgeons in the Army.
+C. Having completed my studies there, I was duly attached to the Fifth Northumberland Fusiliers as assistant surgeon.
+D. The regiment was stationed in India at the time, and before I could join it, the second Afghan war had broken out.
+
+Options:
+A. ADBC
+B. DCBA
+C. CABD
+D. BCDA
+
+<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
+
+### Q7. Fill in the blank: poured tea
+
+Verbal Ability, Fill in the Blank(s). Direction: Fill in the blank(s) below with the most appropriate word.
+
+As he poured tea ______ the cup, he smiled at us.
+
+Options were not captured in the screenshot.
+
+<sub>Topics: Verbal · Source: [Deloitte .pdf](../archive/files/13759-Deloitte_.pdf), [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L73), [Deloitte.pdf](../archive/files/13800-Deloitte.pdf)</sub>
+
+## 2026-10-26 · IIT BHU · FTE
+
+### Q1. Deloitte test pattern
+
+Total 90 minutes.
+
+Part 1 – MCQs (60 minutes): Verbal Ability, Logical Reasoning, Quantitative Aptitude, Technical (CS Fundamentals).
+
+Part 2 – Vibe Coding (30 minutes): only candidates who clear the Part 1 cutoff can attempt it.
+
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L54)</sub>
 
 ## 2026-10-23 · IIT Indore · FTE
 

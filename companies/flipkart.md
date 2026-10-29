@@ -1,20 +1,56 @@
 # Flipkart
 
-**8 questions** from 3 OA drives · seen at IIT BHU, IIT Delhi, MNNIT Allahabad · latest 2026-10-24
+**24 questions** from 9 OA drives · seen at BITS Pilani, IIT BHU, IIT Delhi, MNNIT Allahabad · latest 2026-10-28
 
-**Topics:** [Math](../topics/math.md) (3) · [Arrays](../topics/arrays.md) (2) · [Strings](../topics/strings.md) (2) · [DP](../topics/dp.md) (2) · [Graphs](../topics/graphs.md) (2) · [Binary Search](../topics/binary-search.md) (1) · [Greedy](../topics/greedy.md) (1) · [Sorting](../topics/sorting.md) (1) · [SQL](../topics/sql.md) (1) · [Trees](../topics/trees.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1)
+**Topics:** [Graphs](../topics/graphs.md) (6) · [OA Format](../topics/oa-format.md) (6) · [Math](../topics/math.md) (5) · [Strings](../topics/strings.md) (4) · [DP](../topics/dp.md) (4) · [Arrays](../topics/arrays.md) (3) · [Greedy](../topics/greedy.md) (2) · [Sorting](../topics/sorting.md) (2) · [SQL](../topics/sql.md) (2) · [Trees](../topics/trees.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Binary Search](../topics/binary-search.md) (1)
 
 **LeetCode matches:** 2 (see the [practice list](../practice.md))
 
 **Drives:**
 
+- [2026-10-28 · IIT BHU · FTE · AI Engineer](#2026-10-28--iit-bhu--fte--ai-engineer) · 1 question
+- [2026-10-28 · BITS Pilani · FTE · AI Engineer](#2026-10-28--bits-pilani--fte--ai-engineer) · 2 questions
+- [2026-10-27 · IIT BHU · FTE · AI Engineer](#2026-10-27--iit-bhu--fte--ai-engineer) · 1 question
 - [2026-10-24 · IIT Delhi · FTE](#2026-10-24--iit-delhi--fte) · 3 questions
+- [2026-10-24 · IIT Delhi · FTE · AI Engineer](#2026-10-24--iit-delhi--fte--ai-engineer) · 4 questions
+- [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte) · 1 question
 - [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 4 questions
+- [2026-10-18 · IIT BHU · FTE · Data Engineer](#2026-10-18--iit-bhu--fte--data-engineer) · 7 questions
 - [2026-10-15 · MNNIT Allahabad · FTE](#2026-10-15--mnnit-allahabad--fte) · 1 question
 
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-28 · IIT BHU · FTE · AI Engineer
+
+### Q1. Flipkart AI Engineer OA pattern
+
+3 DSA questions. Per the poster, all languages were allowed in the first message; a later message says Python, C++ and Java are allowed for the AI role (not yet conducted), while C++ was not allowed for the Data Engineer role (already conducted). No actual questions were shared.
+
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/inter-nit/2026-10.jsonl#L2703), [chat, 28 Oct](../archive/inter-nit/2026-10.jsonl#L2713)</sub>
+
+## 2026-10-28 · BITS Pilani · FTE · AI Engineer
+
+### Q1. Flipkart AI Engineer OA pattern
+
+3 DSA questions, medium-hard level. Time given: 1.5 hours.
+
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/inter-iit/2026-10.jsonl#L1150), [chat, 28 Oct](../archive/inter-iit/2026-10.jsonl#L1152)</sub>
+
+### Q2. Flipkart AI Engineer OA pattern
+
+3 DSA LeetCode-style questions, mostly medium-hard.
+
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/inter-nit/2026-10.jsonl#L2697), [chat, 28 Oct](../archive/inter-nit/2026-10.jsonl#L2699)</sub>
+
+## 2026-10-27 · IIT BHU · FTE · AI Engineer
+
+### Q1. Flipkart AI Engineer OA format
+
+Three DSA questions, easy level. C++ was not allowed.
+
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L17)</sub>
 
 ## 2026-10-24 · IIT Delhi · FTE
 
@@ -67,6 +103,46 @@ Note: same as Goldman Sachs Coding Test II 'Service Engineer', except the start 
 
 <sub>Topics: DP, Bit Manipulation, Graphs · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf)</sub>
 
+## 2026-10-24 · IIT Delhi · FTE · AI Engineer
+
+### Q1. Count nodes by odd/even subtree sums in a binary tree
+
+A binary tree is given (built from given relations of each node with respect to the root, like paths such as 'RRLR'). Find the sum of nodes for which the sum of its left subtree is odd and the sum of its right subtree is even. (Another poster described it as: count the subtrees whose children subtree sums are odd and even, both happening together.)
+
+Exact constraints and examples were not shared.
+
+<sub>Topics: Trees · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L74), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L76), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L77), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L84), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L90), [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L1)</sub>
+
+### Q2. Replace each character by digit sum of its ASCII value
+
+A string `msg` is given. Convert each `msg[i]` to the sum of the digits of its ASCII value (and compute the result as described in the question).
+
+Exact output format and constraints were not shared.
+
+<sub>Topics: Strings, Math · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L74), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L76), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L77), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L84), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L90), [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L1)</sub>
+
+### Q3. Bitmask DP on a 2D grid visiting all checkpoints with minimum distance
+
+The hardest question: bitmask DP on a 2D grid. One had to travel a path while minimizing the distance, visiting all the checkpoints.
+
+Full statement and constraints were not shared.
+
+<sub>Topics: DP, Bit Manipulation, Graphs · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L74), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L76), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L77), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L84), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L90), [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L1)</sub>
+
+### Q4. Test format: 3 basic DSA questions
+
+3 DSA questions, basic level, worth 15, 20 and 20 marks.
+
+<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L74), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L76), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L77), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L84), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L90), [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L1)</sub>
+
+## 2026-10-23 · IIT BHU · FTE
+
+### Q1. Chef And A Complete Graph
+
+One question was the same as the CodeChef problem "Chef And A Complete Graph". Statement not given.
+
+<sub>Topics: Graphs · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L249)</sub>
+
 ## 2026-10-22 · IIT BHU · FTE
 
 ### Q1. ASCII Sum Digit-Sum to Character
@@ -92,6 +168,68 @@ Described as the tough question. You are given three numbers n, k and m. Print (
 A SQL question based on a LEFT JOIN. The poster did not share the exact schema or problem statement.
 
 <sub>Topics: SQL · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L1989), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L1990)</sub>
+
+## 2026-10-18 · IIT BHU · FTE · Data Engineer
+
+### Q1. OA format
+
+4 questions (3 coding + 1 SQL), to be done in Python or Java only (C++ not allowed). Open to all branches; CPI criterion reportedly 6 or 0.
+
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
+
+### Q2. Distribute n distinct objects into k identical bags
+
+Distributing n distinct objects to k identical bags (described as the reverse of the 'beggar coin' problem). Full statement not given.
+
+<sub>Topics: DP, Math · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
+
+### Q3. Subgraphs
+
+A question on subgraphs. Full statement not given.
+
+<sub>Topics: Graphs · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
+
+### Q4. KCONNECT (CodeChef)
+
+CodeChef problem KCONNECT: https://www.codechef.com/problems/KCONNECT. Statement not given in the message.
+
+<sub>Topics: Graphs · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
+
+### Q5. Maximise the minimum distance for M boxes in N positions
+
+You have M boxes placed among N total positions. Return the maximum, over all possible positions, of the minimum distance between that position and a box placed. Can be done easily using left and right index arrays.
+
+(A reproduced version, unverified, phrases it as: N houses in a line numbered 1..N, K houses celebrate Christmas with positions in array A (distinct, any order). Each resident of a non-celebrating house goes to the nearest celebrating house. Find the maximum distance any such resident must travel. Distance is |i - j|. Rest of statement cut off.)
+
+<sub>Topics: Arrays, Greedy · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
+
+### Q6. Sorted word position differences and letter (string simulation)
+
+Given a word, sort its letters alphabetically. Compare the original and sorted positions of corresponding letters and take the absolute difference in positions. Add the ASCII value of the last character of the sorted word to each difference. Take the digit sum of each of these values and add them together to get X. Take the digit sum of X (single step) and convert it to a letter (1 → A, ..., 26 → Z; 27 → A). Return X and the letter.
+
+Repeated letters are matched in order of appearance.
+
+```
+Input: word = "question"
+Output: 55 J
+```
+
+```
+Input: word = "application"
+Output: 81 I
+```
+
+Constraints: 1 <= word.length <= 10^5; lowercase English letters. (This is an unverified AI reproduction of the question.)
+
+<sub>Topics: Strings, Sorting · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
+
+### Q7. SQL: average salary for Finance in Acme Corp with two JOINs
+
+Write a SQL query using two JOINs. Filter by the company named 'Acme Corp' and the 'Finance' department, group by company name and department name, and return the average salary without rounding.
+
+The result has the columns company_name, department_name, average_salary (empty if the company has no Finance department with employees). Rows may be in any order. (Unverified AI reproduction.)
+
+<sub>Topics: SQL · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
 
 ## 2026-10-15 · MNNIT Allahabad · FTE
 

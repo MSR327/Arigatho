@@ -1,11 +1,12 @@
 # Cashfree
 
-**3 questions** from 3 OA drives · seen at IIT BHU, IIT Guwahati, Unknown · latest 2026-10-17
+**4 questions** from 4 OA drives · seen at IIIT Allahabad, IIT BHU, IIT Guwahati, Unknown · latest 2026-10-26
 
-**Topics:** [OA Format](../topics/oa-format.md) (3) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [OOP](../topics/oop.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (3) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [OOP](../topics/oop.md) (1) · [DP](../topics/dp.md) (1) · [Greedy](../topics/greedy.md) (1)
 
 **Drives:**
 
+- [2026-10-26 · IIIT Allahabad · FTE](#2026-10-26--iiit-allahabad--fte) · 1 question
 - [2026-10-17 · IIT BHU · FTE](#2026-10-17--iit-bhu--fte) · 1 question
 - [2026-10-15 · Unknown · FTE](#2026-10-15--unknown--fte) · 1 question
 - [2026-10-14 · IIT Guwahati · FTE · SDE](#2026-10-14--iit-guwahati--fte--sde) · 1 question
@@ -13,6 +14,14 @@
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-26 · IIIT Allahabad · FTE
+
+### Q1. Knapsack with weight 2^i
+
+Knapsack problem where the weight of the i-th item is 2^i (a similar question was asked). The OA had 3 DSA questions in total. Exact constraints and examples were not given.
+
+<sub>Topics: DP, Greedy · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L61)</sub>
 
 ## 2026-10-17 · IIT BHU · FTE
 

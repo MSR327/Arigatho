@@ -1,8 +1,8 @@
 # IBM
 
-**14 questions** from 8 OA drives · seen at IIIT Kottayam, IIT BHU, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad · latest 2026-10-28
+**15 questions** from 9 OA drives · seen at IIIT Kottayam, IIT BHU, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad · latest 2026-10-28
 
-**Topics:** [OA Format](../topics/oa-format.md) (6) · [Web Dev](../topics/web-dev.md) (5) · [Arrays](../topics/arrays.md) (2) · [Software Engineering](../topics/software-engineering.md) (2) · [Sliding Window](../topics/sliding-window.md) (1) · [Math](../topics/math.md) (1) · [Heaps](../topics/heaps.md) (1) · [Greedy](../topics/greedy.md) (1) · [Digital Electronics](../topics/digital-electronics.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (6) · [Web Dev](../topics/web-dev.md) (5) · [Arrays](../topics/arrays.md) (3) · [Software Engineering](../topics/software-engineering.md) (2) · [Sliding Window](../topics/sliding-window.md) (1) · [Math](../topics/math.md) (1) · [Heaps](../topics/heaps.md) (1) · [Greedy](../topics/greedy.md) (1) · [Digital Electronics](../topics/digital-electronics.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1)
 
 **LeetCode matches:** 1 (see the [practice list](../practice.md))
 
@@ -10,6 +10,7 @@
 
 - [2026-10-28 · MNNIT Allahabad · FTE](#2026-10-28--mnnit-allahabad--fte) · 3 questions
 - [2026-10-27 · IIT Kanpur · FTE · Hardware](#2026-10-27--iit-kanpur--fte--hardware) · 1 question
+- [2026-10-27 · IIT Hyderabad · FTE · Software Engineering · Interview](#2026-10-27--iit-hyderabad--fte--software-engineering--interview) · 1 question
 - [2026-10-24 · IIT Kharagpur/Kanpur · FTE · Software Engineer / Software Developer](#2026-10-24--iit-kharagpurkanpur--fte--software-engineer--software-developer) · 3 questions
 - [2026-10-24 · IIT Kanpur · FTE · Software Engineer (SWE)](#2026-10-24--iit-kanpur--fte--software-engineer-swe) · 2 questions
 - [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte) · 1 question
@@ -48,6 +49,14 @@ Allowed frameworks for the backend/web-dev question: Node.js, Spring (Java), Dja
 The test had MCQs, a Verilog coding question and a Python coding question.
 
 <sub>Topics: OA Format, Digital Electronics · Source: [chat, 27 Oct](../archive/ibm-oa/2026-10.jsonl#L42)</sub>
+
+## 2026-10-27 · IIT Hyderabad · FTE · Software Engineering · Interview
+
+### Q1. IBM diversity hiring interviews
+
+The college had diversity hiring. There was a technical interview with one simple DSA question (not specified), followed by a relaxed HR interview where personal questions were asked.
+
+<sub>Topics: Arrays, HR & Behavioral · Source: [chat, 27 Oct](../archive/intern-2027/2026-10.jsonl#L41)</sub>
 
 ## 2026-10-24 · IIT Kharagpur/Kanpur · FTE · Software Engineer / Software Developer
 

@@ -1,16 +1,25 @@
 # Houlihan Lokey
 
-**2 questions** from 1 OA drive · seen at IIT Guwahati · latest 2026-10-19
+**3 questions** from 2 OA drives · seen at IIT Guwahati · latest 2026-10-25
 
-**Topics:** [OA Format](../topics/oa-format.md) (2)
+**Topics:** [OA Format](../topics/oa-format.md) (3)
 
 **Drives:**
 
+- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte) · 1 question
 - [2026-10-19 · IIT Guwahati · FTE](#2026-10-19--iit-guwahati--fte) · 2 questions
 
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-25 · IIT Guwahati · FTE
+
+### Q1. Houlihan Lokey OA format
+
+20 aptitude, 20 English, 45 MCQs on coding.
+
+<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L130)</sub>
 
 ## 2026-10-19 · IIT Guwahati · FTE
 

@@ -1,20 +1,24 @@
 # Eternal (Zomato)
 
-**175 questions** from 65 OA drives · seen at Delhi Technological University, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Madras, IIT Mandi, IIT Roorkee, NIT Karnataka Surathkal, NIT Kurukshetra, Unknown · latest 2026-10-28
+**238 questions** from 87 OA drives · seen at Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Madras, IIT Mandi, IIT Roorkee, NIT Karnataka Surathkal, NIT Kurukshetra, Unknown · latest 2026-10-29
 
-**Topics:** [OA Format](../topics/oa-format.md) (50) · [SQL](../topics/sql.md) (26) · [Aptitude](../topics/aptitude.md) (23) · [DP](../topics/dp.md) (20) · [Arrays](../topics/arrays.md) (19) · [Math](../topics/math.md) (19) · [Hashing](../topics/hashing.md) (15) · [Graphs](../topics/graphs.md) (15) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (10) · [Trees](../topics/trees.md) (10) · [Python & Pandas](../topics/python-pandas.md) (9) · [Greedy](../topics/greedy.md) (6) · [Software Engineering](../topics/software-engineering.md) (6) · [Sorting](../topics/sorting.md) (6) · [Strings](../topics/strings.md) (5) · [Stack/Queue](../topics/stack-queue.md) (3) · [ML/AI](../topics/ml-ai.md) (3) · [Web Dev](../topics/web-dev.md) (3) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (3) · [Linked List](../topics/linked-list.md) (2) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (2) · [Other](../topics/other.md) (2) · [Puzzles](../topics/puzzles.md) (2) · [Binary Search](../topics/binary-search.md) (2) · [Guesstimates & Cases](../topics/guesstimates-cases.md) (2) · [Sliding Window](../topics/sliding-window.md) (1) · [OOP](../topics/oop.md) (1) · [Heaps](../topics/heaps.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1)
+**Topics:** [OA Format](../topics/oa-format.md) (71) · [SQL](../topics/sql.md) (33) · [Arrays](../topics/arrays.md) (31) · [DP](../topics/dp.md) (31) · [Aptitude](../topics/aptitude.md) (28) · [Graphs](../topics/graphs.md) (23) · [Math](../topics/math.md) (23) · [Hashing](../topics/hashing.md) (21) · [Trees](../topics/trees.md) (15) · [Python & Pandas](../topics/python-pandas.md) (10) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (10) · [Greedy](../topics/greedy.md) (9) · [Sorting](../topics/sorting.md) (9) · [Stack/Queue](../topics/stack-queue.md) (8) · [Software Engineering](../topics/software-engineering.md) (6) · [Strings](../topics/strings.md) (5) · [ML/AI](../topics/ml-ai.md) (3) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (3) · [Web Dev](../topics/web-dev.md) (3) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (3) · [Binary Search](../topics/binary-search.md) (3) · [Guesstimates & Cases](../topics/guesstimates-cases.md) (3) · [Linked List](../topics/linked-list.md) (2) · [Other](../topics/other.md) (2) · [Puzzles](../topics/puzzles.md) (2) · [Sliding Window](../topics/sliding-window.md) (1) · [OOP](../topics/oop.md) (1) · [Heaps](../topics/heaps.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1)
 
-**LeetCode matches:** 10 (see the [practice list](../practice.md))
+**LeetCode matches:** 13 (see the [practice list](../practice.md))
 
 **Drives:**
 
+- [2026-10-29 · IIT Indore · FTE · Associate Program Manager](#2026-10-29--iit-indore--fte--associate-program-manager) · 1 question
 - [2026-10-28 · IIT Roorkee · FTE · Product Analyst](#2026-10-28--iit-roorkee--fte--product-analyst) · 2 questions
 - [2026-10-28 · IIT Indore · FTE · Associate Program Manager](#2026-10-28--iit-indore--fte--associate-program-manager) · 1 question
 - [2026-10-28 · IIT Indore · FTE · Product Analyst](#2026-10-28--iit-indore--fte--product-analyst) · 3 questions
 - [2026-10-28 · IIT Delhi · FTE · SDE](#2026-10-28--iit-delhi--fte--sde) · 2 questions
 - [2026-10-28 · IIT BHU · FTE · SDE](#2026-10-28--iit-bhu--fte--sde) · 1 question
-- [2026-10-28 · IIT BHU · FTE · Product Analyst](#2026-10-28--iit-bhu--fte--product-analyst) · 3 questions
+- [2026-10-28 · IIT BHU · FTE · Product Analyst](#2026-10-28--iit-bhu--fte--product-analyst) · 4 questions
 - [2026-10-28 · IIT BHU · FTE · SDE · Interview](#2026-10-28--iit-bhu--fte--sde--interview) · 1 question
+- [2026-10-27 · IIT Hyderabad · FTE · Product Analyst](#2026-10-27--iit-hyderabad--fte--product-analyst) · 1 question
+- [2026-10-27 · IIT Guwahati · FTE · Product Analyst](#2026-10-27--iit-guwahati--fte--product-analyst) · 6 questions
+- [2026-10-27 · IIT Guwahati · FTE · SDE](#2026-10-27--iit-guwahati--fte--sde) · 3 questions
 - [2026-10-27 · IIT Dhanbad · FTE · Product Analyst](#2026-10-27--iit-dhanbad--fte--product-analyst) · 8 questions
 - [2026-10-27 · IIT Dhanbad · FTE · SDE](#2026-10-27--iit-dhanbad--fte--sde) · 3 questions
 - [2026-10-27 · IIT Dhanbad · FTE · SDE · Interview](#2026-10-27--iit-dhanbad--fte--sde--interview) · 2 questions
@@ -27,32 +31,48 @@
 - [2026-10-26 · IIT Delhi · FTE · Data Science](#2026-10-26--iit-delhi--fte--data-science) · 4 questions
 - [2026-10-26 · IIT BHU · FTE · Product Analyst](#2026-10-26--iit-bhu--fte--product-analyst) · 1 question
 - [2026-10-25 · IIT Roorkee · FTE · SDE](#2026-10-25--iit-roorkee--fte--sde) · 1 question
+- [2026-10-25 · IIT Guwahati · FTE · Product Analyst](#2026-10-25--iit-guwahati--fte--product-analyst) · 1 question
 - [2026-10-24 · IIT BHU · FTE · SDE](#2026-10-24--iit-bhu--fte--sde) · 1 question
 - [2026-10-23 · IIT Roorkee · FTE · SDE](#2026-10-23--iit-roorkee--fte--sde) · 1 question
 - [2026-10-23 · IIT Hyderabad · FTE · Product Analyst](#2026-10-23--iit-hyderabad--fte--product-analyst) · 1 question
 - [2026-10-23 · IIT Guwahati · FTE · Product Analyst](#2026-10-23--iit-guwahati--fte--product-analyst) · 1 question
-- [2026-10-23 · IIT Guwahati · FTE · SDE](#2026-10-23--iit-guwahati--fte--sde) · 1 question
+- [2026-10-23 · IIT Guwahati · FTE · SDE](#2026-10-23--iit-guwahati--fte--sde) · 4 questions
 - [2026-10-23 · IIT Dhanbad · FTE · Product Analyst](#2026-10-23--iit-dhanbad--fte--product-analyst) · 1 question
 - [2026-10-21 · IIT Roorkee · FTE · SDE](#2026-10-21--iit-roorkee--fte--sde) · 2 questions
 - [2026-10-21 · IIT Roorkee · FTE · Product Analyst](#2026-10-21--iit-roorkee--fte--product-analyst) · 3 questions
+- [2026-10-21 · IIT Hyderabad · FTE · SDE](#2026-10-21--iit-hyderabad--fte--sde) · 4 questions
+- [2026-10-21 · IIT Hyderabad · FTE · PA](#2026-10-21--iit-hyderabad--fte--pa) · 1 question
+- [2026-10-21 · IIT Dhanbad · FTE · SDE](#2026-10-21--iit-dhanbad--fte--sde) · 3 questions
 - [2026-10-20 · IIT Hyderabad · FTE · SDE](#2026-10-20--iit-hyderabad--fte--sde) · 6 questions
 - [2026-10-20 · IIT Hyderabad · FTE · Product Analyst](#2026-10-20--iit-hyderabad--fte--product-analyst) · 1 question
-- [2026-10-20 · IIT Guwahati · FTE](#2026-10-20--iit-guwahati--fte) · 2 questions
-- [2026-10-18 · IIT Guwahati · FTE · Data Science](#2026-10-18--iit-guwahati--fte--data-science) · 2 questions
+- [2026-10-20 · IIT Guwahati · FTE](#2026-10-20--iit-guwahati--fte) · 3 questions
+- [2026-10-20 · IIT Guwahati · FTE · Product Analyst](#2026-10-20--iit-guwahati--fte--product-analyst) · 1 question
+- [2026-10-20 · IIT Bombay · FTE · Product Analyst · Interview](#2026-10-20--iit-bombay--fte--product-analyst--interview) · 1 question
+- [2026-10-19 · IIT Bombay · FTE · Product Analyst](#2026-10-19--iit-bombay--fte--product-analyst) · 1 question
+- [2026-10-18 · IIT Guwahati · FTE · Data Science](#2026-10-18--iit-guwahati--fte--data-science) · 3 questions
+- [2026-10-17 · IIT BHU · FTE · PA](#2026-10-17--iit-bhu--fte--pa) · 6 questions
+- [2026-10-16 · IIT Hyderabad · FTE · SDE](#2026-10-16--iit-hyderabad--fte--sde) · 1 question
+- [2026-10-15 · IIT Guwahati · FTE · SDE](#2026-10-15--iit-guwahati--fte--sde) · 1 question
 - [2026-10-13 · IIT Guwahati · FTE · SDE](#2026-10-13--iit-guwahati--fte--sde) · 2 questions
 - [2026-10-13 · IIT Guwahati · FTE · Product Analyst](#2026-10-13--iit-guwahati--fte--product-analyst) · 1 question
-- [2026-10-13 · IIT Guwahati · FTE](#2026-10-13--iit-guwahati--fte) · 3 questions
+- [2026-10-13 · IIT Guwahati · FTE](#2026-10-13--iit-guwahati--fte) · 5 questions
 - [2026-10-13 · IIT Dhanbad · FTE](#2026-10-13--iit-dhanbad--fte) · 7 questions
+- [2026-10-13 · IIT Delhi · FTE · SDE](#2026-10-13--iit-delhi--fte--sde) · 3 questions
+- [2026-10-13 · IIIT Hyderabad · FTE · SDE](#2026-10-13--iiit-hyderabad--fte--sde) · 5 questions
+- [2026-10-12 · IIT Guwahati · FTE · PA](#2026-10-12--iit-guwahati--fte--pa) · 3 questions
+- [2026-10-10 · Unknown · FTE · SDE](#2026-10-10--unknown--fte--sde) · 1 question
 - [2026-10-09 · IIT Guwahati · FTE · SDE](#2026-10-09--iit-guwahati--fte--sde) · 1 question
 - [2026-10-08 · NIT Karnataka Surathkal · FTE · SDE](#2026-10-08--nit-karnataka-surathkal--fte--sde) · 1 question
 - [2026-10-07 · IIT Madras · FTE](#2026-10-07--iit-madras--fte) · 12 questions
 - [2026-10-07 · IIT Guwahati · FTE · SDE](#2026-10-07--iit-guwahati--fte--sde) · 3 questions
 - [2026-10-07 · IIT Guwahati · FTE · Product Analyst](#2026-10-07--iit-guwahati--fte--product-analyst) · 4 questions
 - [2026-10-06 · NIT Kurukshetra · FTE](#2026-10-06--nit-kurukshetra--fte) · 2 questions
-- [2026-10-06 · IIT Guwahati · FTE](#2026-10-06--iit-guwahati--fte) · 3 questions
+- [2026-10-06 · NIT Kurukshetra · FTE · SDE](#2026-10-06--nit-kurukshetra--fte--sde) · 3 questions
+- [2026-10-06 · IIT Guwahati · FTE](#2026-10-06--iit-guwahati--fte) · 4 questions
 - [2026-10-06 · IIT BHU · FTE · Product Analyst](#2026-10-06--iit-bhu--fte--product-analyst) · 1 question
 - [2026-10-02 · IIT Dhanbad · FTE](#2026-10-02--iit-dhanbad--fte) · 1 question
-- [2026-10-02 · IIT Dhanbad · FTE · SDE](#2026-10-02--iit-dhanbad--fte--sde) · 3 questions
+- [2026-10-02 · IIT Dhanbad · FTE · SDE](#2026-10-02--iit-dhanbad--fte--sde) · 6 questions
+- [2026-09-30 · IIT BHU · FTE](#2026-09-30--iit-bhu--fte) · 3 questions
 - [2026-09-29 · IIT Guwahati · FTE](#2026-09-29--iit-guwahati--fte) · 6 questions
 - [2026-09-29 · IIT Guwahati · FTE · Product Analyst](#2026-09-29--iit-guwahati--fte--product-analyst) · 1 question
 - [2026-09-29 · IIT Dhanbad · FTE](#2026-09-29--iit-dhanbad--fte) · 7 questions
@@ -61,10 +81,12 @@
 - [2026-09-29 · IIT BHU · FTE · Product Analyst](#2026-09-29--iit-bhu--fte--product-analyst) · 2 questions
 - [2026-09-28 · IIT Bombay · FTE · SDE](#2026-09-28--iit-bombay--fte--sde) · 1 question
 - [2026-09-28 · IIT BHU · FTE](#2026-09-28--iit-bhu--fte) · 3 questions
+- [2026-09-27 · IIT Roorkee · FTE · SDE](#2026-09-27--iit-roorkee--fte--sde) · 1 question
 - [2026-09-26 · IIT BHU · FTE · Product Analyst](#2026-09-26--iit-bhu--fte--product-analyst) · 1 question
 - [2026-09-25 · IIT BHU · FTE · Product Analyst](#2026-09-25--iit-bhu--fte--product-analyst) · 1 question
 - [2026-09-25 · IIT BHU · FTE · SDE](#2026-09-25--iit-bhu--fte--sde) · 1 question
 - [2026-09-24 · IIT Roorkee · FTE · Product Analyst](#2026-09-24--iit-roorkee--fte--product-analyst) · 6 questions
+- [2026-09-22 · IIT Roorkee · FTE · SDE](#2026-09-22--iit-roorkee--fte--sde) · 1 question
 - [2026-09-21 · Unknown · FTE](#2026-09-21--unknown--fte) · 2 questions
 - [2026-09-21 · Unknown · FTE · Interview](#2026-09-21--unknown--fte--interview) · 4 questions
 - [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview) · 6 questions
@@ -77,6 +99,14 @@
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-29 · IIT Indore · FTE · Associate Program Manager
+
+### Q1. Associate Program Manager OA format
+
+MCQs based on data in an Excel sheet. (No further detail given.)
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/zomato-sde-1/2026-10.jsonl#L87)</sub>
 
 ## 2026-10-28 · IIT Roorkee · FTE · Product Analyst
 
@@ -237,6 +267,12 @@ Coding: practical tabular-data manipulation such as loading data, cleaning/filte
 
 <sub>Topics: OA Format, Python & Pandas, SQL · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L349), [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L350), [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L351), [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L353)</sub>
 
+### Q4. Eternal Product Analyst OA pattern
+
+A total of 27 questions in a single assessment across sections. Section 1: 20 MCQs on Aptitude, Probability, Statistics, Quantitative Aptitude and Electrical Core concepts. SQL section: 2 SQL coding/query-writing questions. Python/Pandas section: 5 questions, 3 MCQs and 2 coding problems.
+
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L556)</sub>
+
 ## 2026-10-28 · IIT BHU · FTE · SDE · Interview
 
 ### Q1. SDE interview rounds
@@ -248,6 +284,80 @@ Coding: practical tabular-data manipulation such as loading data, cleaning/filte
 - HR: typical questions around deadlines and similar.
 
 <sub>Topics: OA Format, HR & Behavioral · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L346)</sub>
+
+## 2026-10-27 · IIT Hyderabad · FTE · Product Analyst
+
+### Q1. Eternal Product Analyst OA pattern
+
+OA pattern:
+- 20 general knowledge MCQs
+- 2 Python MCQs
+- 2 Python coding questions
+- 2 SQL coding questions
+
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/zomato-sde-1/2026-10.jsonl#L48)</sub>
+
+## 2026-10-27 · IIT Guwahati · FTE · Product Analyst
+
+### Q1. Eternal Product Analyst OA pattern
+
+The OA had 3 SQL coding questions and MCQs on aptitude.
+
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L16), [chat, 27 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L19)</sub>
+
+### Q2. Eternal PA OA format
+
+The Eternal (Product Analyst) OA had 3 SQL coding questions and MCQs on aptitude.
+
+<sub>Topics: OA Format, SQL · Source: [chat, 27 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L94)</sub>
+
+### Q3. Product Analyst OA format
+
+Three sections:
+
+1. 20 MCQs
+2. 3 SQL questions
+3. 4 Python MCQs
+
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-gandhinagar-placements/2026-10.jsonl#L32)</sub>
+
+### Q4. Cities with more customers than average
+
+SQL: find the cities having more customers than the average. (Table schema not given.)
+
+<sub>Topics: SQL · Source: [chat, 27 Oct](../archive/campus-iit-gandhinagar-placements/2026-10.jsonl#L32)</sub>
+
+### Q5. Duplicate bid detection
+
+SQL: detect duplicate bids. (Table schema not given.)
+
+<sub>Topics: SQL · Source: [chat, 27 Oct](../archive/campus-iit-gandhinagar-placements/2026-10.jsonl#L32)</sub>
+
+### Q6. Anonymous vs subscribed viewers stats
+
+SQL: Two tables were given, one for anonymous viewers and one for subscribed viewers, with their login and exit timestamps. Output two rows: one for anonymous and one for subscribed, each with the count of viewers and the average total seconds spent online.
+
+<sub>Topics: SQL · Source: [chat, 27 Oct](../archive/campus-iit-gandhinagar-placements/2026-10.jsonl#L32)</sub>
+
+## 2026-10-27 · IIT Guwahati · FTE · SDE
+
+### Q1. Codeforces 1324F
+
+Codeforces problem 1324F (the statement was not given, only the problem ID).
+
+<sub>Topics: Trees, DP · Source: [chat, 27 Oct](../archive/campus-iit-gandhinagar-placements/2026-10.jsonl#L32)</sub>
+
+### Q2. LeetCode 924
+
+LeetCode problem 924 (the statement was not given, only the problem number).
+
+<sub>Topics: Graphs · Similar: [LeetCode 924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) (Hard) · Source: [chat, 27 Oct](../archive/campus-iit-gandhinagar-placements/2026-10.jsonl#L32)</sub>
+
+### Q3. Next greater index in another array
+
+Given two arrays `a` and `b`. For each element `a[i]`, find the index (1-based) of an element `b[j]` such that `b[j] > a[i]`. If there are multiple such elements, return the minimum index. Return the vector of indices.
+
+<sub>Topics: Arrays, Binary Search · Source: [chat, 27 Oct](../archive/campus-iit-gandhinagar-placements/2026-10.jsonl#L32)</sub>
 
 ## 2026-10-27 · IIT Dhanbad · FTE · Product Analyst
 
@@ -606,6 +716,14 @@ The MCQs in the SDE OA were on CS fundamentals. No specific questions were given
 
 <sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/eternal-oa/2026-10.jsonl#L75)</sub>
 
+## 2026-10-25 · IIT Guwahati · FTE · Product Analyst
+
+### Q1. Eternal Product Analyst OA pattern
+
+20 aptitude MCQs, 5 Python MCQs (poster is not fully sure), and 3 SQL questions. The SQL questions were of hard level.
+
+<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-dharwad-placements/2026-10.jsonl#L19)</sub>
+
 ## 2026-10-24 · IIT BHU · FTE · SDE
 
 ### Q1. Eternal SDE OA format
@@ -640,7 +758,65 @@ The SDE OA had both MCQs and DSA questions. It did not have SQL questions, only 
 
 ## 2026-10-23 · IIT Guwahati · FTE · SDE
 
-### Q1. OA pattern: MCQs and DSA
+### Q1. First greater element in the entire array
+
+Given an array a of size n, for every index i, find the smallest index j such that a[j] > a[i]. The index j can be anywhere in the array, either before or after i. If no such index exists, return -1.
+
+Example:
+```
+Input: a = [5, 8, 6]
+Output: [1, -1, 1]
+```
+
+<sub>Topics: Arrays, Stack/Queue · Source: [chat, 23 Oct](../archive/zomato-sde-1/2026-10.jsonl#L39)</sub>
+
+### Q2. Maximum connected value for every node in a tree
+
+You are given a tree with n nodes. Each node has a value of either +1 or -1.
+
+For every node u, define its connected value as the maximum possible sum of node values of any connected set of nodes that contains node u. Find the connected value for every node.
+
+Example:
+```
+        1(+1)
+       /     \
+    2(-1)    3(+1)
+            /     \
+         4(+1)   5(-1)
+
+Output: [3, 2, 3, 3, 2]
+```
+
+<sub>Topics: Trees, DP, Graphs · Source: [chat, 23 Oct](../archive/zomato-sde-1/2026-10.jsonl#L39)</sub>
+
+### Q3. Remove at most one node to maximize uninfected nodes
+
+You are given an undirected graph with n nodes and m edges. Some nodes are initially infected. An infected node spreads the infection to all of its neighboring nodes. Newly infected nodes continue spreading the infection to their neighbors. The infection continues until every node reachable from any infected node becomes infected.
+
+Before the infection starts, you may remove at most one node from the graph. You are allowed to remove any node, including an initially infected node. When a node is removed:
+- The node itself is deleted from the graph.
+- All edges connected to that node are removed.
+- If the removed node was initially infected, it can no longer spread infection.
+- The removed node is not counted as an uninfected node.
+
+Find the maximum possible number of nodes that remain uninfected after the infection has completely spread.
+
+Constraints:
+- n <= 1000
+- m <= 1000
+- The graph may contain multiple connected components.
+
+Detailed test case:
+```
+n = 9, m = 7
+Nodes: 0 1 2 3 4 5 6 7 8
+Edges: 0-1, 1-2, 2-3, 1-4, 5-6, 6-7, 7-8
+Initially infected nodes: [0, 5] (2 nodes)
+```
+
+<sub>Topics: Graphs, Recursion/Backtracking · Source: [chat, 23 Oct](../archive/zomato-sde-1/2026-10.jsonl#L39)</sub>
+
+### Q4. OA pattern: MCQs and DSA
 
 10-12 MCQs followed by 3 DSA questions.
 
@@ -691,6 +867,103 @@ You are given two tables. The first contains device information with `id`, `mac`
 Join the tables using the device ID and write an SQL query to output, for each MAC address, the total traffic during May as `traffic` and the corresponding `cost`, calculated using the applicable tariff and traffic amount. Round the cost to 2 decimal places. The output should contain one row per MAC address.
 
 <sub>Topics: SQL · Source: [chat, 21 Oct](../archive/eternal-oa/2026-10.jsonl#L188), [chat, 22 Oct](../archive/eternal-oa/2026-10.jsonl#L112)</sub>
+
+## 2026-10-21 · IIT Hyderabad · FTE · SDE
+
+### Q1. Second most frequent element
+
+Find the second most frequent element. (Only the title was shared, full statement not given.)
+
+<sub>Topics: Hashing, Arrays · Source: [chat, 21 Oct](../archive/campus-bits-pilani-placements/2026-10.jsonl#L20), [chat, 21 Oct](../archive/campus-bits-pilani-placements/2026-10.jsonl#L22)</sub>
+
+### Q2. Asteroid collision
+
+Asteroid Collision. (Only the title was shared, full statement not given.)
+
+<sub>Topics: Stack/Queue, Arrays · Similar: [LeetCode 735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) (Medium) · Source: [chat, 21 Oct](../archive/campus-bits-pilani-placements/2026-10.jsonl#L20), [chat, 21 Oct](../archive/campus-bits-pilani-placements/2026-10.jsonl#L22)</sub>
+
+### Q3. 3D DP with coupons halving a price
+
+3D DP problem: given prices of items and a number of coupons that halve a price. (Only a short description was shared; exact statement missing.)
+
+<sub>Topics: DP · Source: [chat, 21 Oct](../archive/campus-bits-pilani-placements/2026-10.jsonl#L20), [chat, 21 Oct](../archive/campus-bits-pilani-placements/2026-10.jsonl#L22)</sub>
+
+### Q4. Maximum nutritious value within a budget
+
+Maximize the nutritious value obtainable within a budget. (Only a short description was shared; exact statement missing.)
+
+<sub>Topics: DP · Source: [chat, 21 Oct](../archive/campus-bits-pilani-placements/2026-10.jsonl#L20), [chat, 21 Oct](../archive/campus-bits-pilani-placements/2026-10.jsonl#L22)</sub>
+
+## 2026-10-21 · IIT Hyderabad · FTE · PA
+
+### Q1. PA OA structure
+
+20 MCQs consisting of aptitude, probability and statistics; then 2 SQL query-writing questions; then 3 MCQs + 2 coding questions on Python/pandas. Exact questions not remembered.
+
+<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-bits-pilani-placements/2026-10.jsonl#L22)</sub>
+
+## 2026-10-21 · IIT Dhanbad · FTE · SDE
+
+### Q1. Second most frequent element
+
+You are given an integer array A of size N.
+Your task is to find the second most frequent distinct element in the array.
+The frequency of an element is the number of times it appears in the array.
+
+Tie-Breaking Rule:
+If multiple elements have the same frequency, the greater element should be considered more frequent for ranking purposes.
+
+In other words, when comparing two elements:
+- The element with the higher frequency ranks higher.
+- If their frequencies are equal, the greater element ranks higher.
+
+Return the element that ranks second according to these rules.
+
+(Poster's note: simple hash map.)
+
+<sub>Topics: Hashing, Arrays, Sorting · Source: [chat, 21 Oct](../archive/zomato-sde-1/2026-10.jsonl#L31)</sub>
+
+### Q2. Fruit selection with discount coupons
+
+You are given N different fruits. Each fruit has:
+- price[i] — the cost of the i-th fruit.
+- nutrition[i] — the nutritional value you gain by eating the i-th fruit.
+
+You have:
+- M units of money.
+- K discount coupons.
+
+You want to maximize the total nutritional value of the fruits you purchase.
+
+Coupon Rule:
+- Each fruit can be purchased at most once.
+- If you purchase a fruit without using a coupon, you pay its full price price[i].
+- If you purchase a fruit using one coupon, you pay half its price, i.e. floor(price[i] / 2).
+- Each coupon can be used on at most one fruit.
+- You can choose not to use all your coupons.
+- The total amount spent must not exceed M.
+
+Return the maximum total nutrition you can obtain.
+
+(Poster's note: 3D DP, easy question.)
+
+<sub>Topics: DP · Source: [chat, 21 Oct](../archive/zomato-sde-1/2026-10.jsonl#L31)</sub>
+
+### Q3. Minimum sum assignment on a tree
+
+You are given a tree with N nodes. Each node must be assigned a non-negative integer value.
+
+Some nodes already have fixed values, while the values of the remaining nodes are unknown.
+
+For every edge (u, v) in the tree, the absolute difference between the values at adjacent nodes must not be less than exactly 1.
+
+Your task is to assign values to all unassigned nodes such that:
+- All pre-assigned values remain unchanged.
+- For every edge (u, v), the absolute difference between their values is exactly 1.
+
+(The poster's statement is cut off and garbled; the objective implied by the title is the minimum total sum, but the original does not state it.)
+
+<sub>Topics: Trees, Graphs, Greedy · Source: [chat, 21 Oct](../archive/zomato-sde-1/2026-10.jsonl#L31)</sub>
 
 ## 2026-10-20 · IIT Hyderabad · FTE · SDE
 
@@ -755,17 +1028,47 @@ Eternal Product Analyst OA pattern:
 
 ## 2026-10-20 · IIT Guwahati · FTE
 
-### Q1. Customer Country City (SQL)
+### Q1. Eternal OA at IIT Guwahati
+
+The OA had 3 DSA questions and a few MCQs. The questions themselves were not given.
+
+<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L299)</sub>
+
+### Q2. Customer Country City (SQL)
 
 Zomato Product Analyst OA, SQL question (from OAHelper): 'Customer Country City'. The poster gave only the title. It involves querying customer data by country and city.
 
 <sub>Topics: SQL · Source: [chat, 20 Oct](../archive/inter-nit/2026-10.jsonl#L1766)</sub>
 
-### Q2. Log Bids (SQL)
+### Q3. Log Bids (SQL)
 
 Zomato Product Analyst OA, SQL question (from OAHelper): 'Log Bids'. The poster gave only the title. It involves querying a bids log table.
 
 <sub>Topics: SQL · Source: [chat, 20 Oct](../archive/inter-nit/2026-10.jsonl#L1766)</sub>
+
+## 2026-10-20 · IIT Guwahati · FTE · Product Analyst
+
+### Q1. Eternal Product Analyst OA pattern
+
+Total time was 60 minutes at IIT Guwahati. 3 SQL questions of medium-hard difficulty, 20 aptitude questions of easy to medium difficulty, and 4 Python questions of easy level. At least 2 SQL questions were needed for the shortlist.
+
+<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L202), [chat, 20 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L203)</sub>
+
+## 2026-10-20 · IIT Bombay · FTE · Product Analyst · Interview
+
+### Q1. Eternal Product Analyst interview topics
+
+Interview asked SQL questions and estimation (guesstimate) questions. Specific questions not given.
+
+<sub>Topics: SQL, Guesstimates & Cases · Source: [chat, 20 Oct](../archive/campus-iit-bhubaneswar-placements/2026-10.jsonl#L13)</sub>
+
+## 2026-10-19 · IIT Bombay · FTE · Product Analyst
+
+### Q1. Eternal Product Analyst OA pattern
+
+20 aptitude questions, 2 SQL coding questions and 4 Python coding questions.
+
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/campus-iit-bhubaneswar-placements/2026-10.jsonl#L11)</sub>
 
 ## 2026-10-18 · IIT Guwahati · FTE · Data Science
 
@@ -777,11 +1080,90 @@ Missing: the actual questions.
 
 <sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/eternal-oa/2026-10.jsonl#L237)</sub>
 
-### Q2. Python, SQL and pandas coding questions (PYQ repeats)
+### Q2. Eternal Data Science OA pattern
+
+Data Science role OA covered Python, SQL and pandas. Two important questions were repeated as-is from previous year questions (PYQs). The questions themselves were not given.
+
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L270)</sub>
+
+### Q3. Python, SQL and pandas coding questions (PYQ repeats)
 
 The OA had Python, SQL and pandas questions that were asked as-is from previous year questions (PYQs). They were coding questions, not objective: you had to write the code, and some were long. The poster said few people write them from scratch because they are PYQs. The actual questions were not shared.
 
 <sub>Topics: OA Format, Python & Pandas, SQL · Source: [chat, 18 Oct](../archive/eternal-oa/2026-10.jsonl#L240)</sub>
+
+## 2026-10-17 · IIT BHU · FTE · PA
+
+### Q1. OA format and sections
+
+Time limit: 90 minutes for the complete OA.
+
+Sections combined: SQL coding / query writing; 3 MCQs + 2 coding questions.
+
+Section 1 — Aptitude / Probability / Statistics / Quant / Electrical Core: 20 MCQs covering probability (basic, conditional, Bayes, binomial), statistics (mean, variance, SD, normal distribution/z-scores, hypothesis testing, null/alternative hypotheses, Type I/II errors, p-values), quantitative aptitude (boats and streams, time-speed-distance, percentages, ratios/averages, divisibility, factorials) and logical/visual reasoning (message was cut off).
+
+<sub>Topics: OA Format · Source: [chat, 17 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L395)</sub>
+
+### Q2. Mean and variance of archer's successful attempts
+
+If the probability that an archer will strike the target is 30%, and the archer makes 10 attempts, what are the mean and variance of the number of successful attempts?
+
+A. 3, 2.1
+B. 3, 2.4
+C. 7, 2.1
+D. 7, 2.4
+
+<sub>Topics: Math, Aptitude · Source: [chat, 17 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L395)</sub>
+
+### Q3. Highest power of 24 dividing 150!
+
+What is the highest power of 24 that divides 150! exactly?
+
+A. 42
+B. 44
+C. 46
+D. 48
+
+<sub>Topics: Math, Aptitude · Source: [chat, 17 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L395)</sub>
+
+### Q4. Probability of sample mean greater than 55
+
+Given a dataset distributed normally with a mean (m) of 50 and a standard deviation (s) of 5, what is the probability of selecting a sample with a mean greater than 55?
+
+A. Approximately 2.28%
+B. 15.87%
+C. 50%
+D. 97.72%
+
+<sub>Topics: Math, Aptitude · Source: [chat, 17 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L395)</sub>
+
+### Q5. Painted cube with red and blue faces
+
+A cube of side 18 cm has two opposite faces coloured red and the other four faces coloured blue. The cube is then broken into 729 equal-sized smaller cubes. How many of the smaller cubes have at least one red face and at least one blue face?
+
+<sub>Topics: Aptitude · Source: [chat, 17 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L395)</sub>
+
+### Q6. Probability it snowed given father's claim
+
+A girl knows that the probability that it snows on any given night is 1/8. Her father tells her that it snowed last night. Her second daughter says that the father lies with probability 5/6. Based on this information, what is the probability that it actually snowed last night?
+
+<sub>Topics: Math, Aptitude · Source: [chat, 17 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L395)</sub>
+
+## 2026-10-16 · IIT Hyderabad · FTE · SDE
+
+### Q1. OA format: 3 DSA and 25 MCQs
+
+3 DSA questions and 25 MCQs for SDE role.
+
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/zomato-sde-1/2026-10.jsonl#L24)</sub>
+
+## 2026-10-15 · IIT Guwahati · FTE · SDE
+
+### Q1. OA format: 3 DSA (DSU, prefix sum, hard graph)
+
+No MCQs. 3 DSA questions: one simple DSU, one prefix sum array, and one hard graph question.
+
+<sub>Topics: OA Format · Source: [chat, 13 Oct](../archive/zomato-sde-1/2026-10.jsonl#L20), [chat, 15 Oct](../archive/zomato-sde-1/2026-10.jsonl#L23)</sub>
 
 ## 2026-10-13 · IIT Guwahati · FTE · SDE
 
@@ -811,7 +1193,19 @@ Topics reported for the Product Analyst OA:
 
 ## 2026-10-13 · IIT Guwahati · FTE
 
-### Q1. DSU simple question
+### Q1. Eternal OA: DSU and prefix sum
+
+Poster reported the OA had one simple DSU (disjoint set union) question and one array prefix-sum question. Exact statements not given.
+
+<sub>Topics: Graphs, Arrays · Source: [chat, 13 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L422)</sub>
+
+### Q2. Rerooting tree question
+
+At IIT Guwahati the OA had a question on rerooting (tree rerooting technique). The poster gave no full problem statement.
+
+<sub>Topics: Trees, DP · Source: [chat, 13 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L163)</sub>
+
+### Q3. DSU simple question
 
 A simple question based on Disjoint Set Union (DSU). The poster did not remember the exact statement.
 
@@ -819,7 +1213,7 @@ Missing: the full problem statement, constraints and examples. The poster said t
 
 <sub>Topics: Graphs · Source: [chat, 13 Oct](../archive/eternal-oa/2026-10.jsonl#L296), [chat, 13 Oct](../archive/eternal-oa/2026-10.jsonl#L207)</sub>
 
-### Q2. Array prefix sum question
+### Q4. Array prefix sum question
 
 An array question of the prefix sum type. The poster did not remember the exact statement.
 
@@ -827,7 +1221,7 @@ Missing: the full problem statement, constraints and examples.
 
 <sub>Topics: Arrays · Source: [chat, 13 Oct](../archive/eternal-oa/2026-10.jsonl#L296), [chat, 13 Oct](../archive/eternal-oa/2026-10.jsonl#L207)</sub>
 
-### Q3. Third coding question (not remembered)
+### Q5. Third coding question (not remembered)
 
 The poster said there was one more question but did not remember it.
 
@@ -878,6 +1272,88 @@ Tables: campaigns(id, campaign_name) and email_campaigns(campaign_id, emails_sen
 3 MCQs, mostly short Python/Pandas code-output or concept questions, covering DataFrame creation/selection, loc/iloc, Boolean filtering, column operations, missing values, groupby/aggregation, transform/filter, data-type conversion, dates, categorical data and pd.cut(). Then 2 relatively easy coding questions on practical tabular-data manipulation: loading data, cleaning/filtering, creating or transforming columns, grouping/aggregation and basic feature engineering. Exact questions were not recalled.
 
 <sub>Topics: Python & Pandas, OA Format · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330)</sub>
+
+## 2026-10-13 · IIT Delhi · FTE · SDE
+
+### Q1. Second most frequent element
+
+Find the second most occurring (2nd most frequent) element.
+
+<sub>Topics: Hashing, Arrays · Source: [chat, 13 Oct](../archive/zomato-sde-1/2026-10.jsonl#L22)</sub>
+
+### Q2. Max nutritious value under budget
+
+Given m amount, n items with prices and nutritious values. Find max nutritious value choosing items under m total price.
+
+(Another variant mentioned: asteroid-collision type question, and a 3D DP with price, items, and number of coupons that halve the price.)
+
+<sub>Topics: DP · Source: [chat, 13 Oct](../archive/zomato-sde-1/2026-10.jsonl#L22)</sub>
+
+### Q3. Servers with lost config values, minimal sum
+
+There are n servers from 1 to n. Each server has a config value. Some were lost. Given k config values, find the remaining such that total sum of config values is minimum. One rule: adjacent nodes should differ by exactly 1 in config values. (Reported as asked at a different college.)
+
+<sub>Topics: Greedy, Arrays · Source: [chat, 13 Oct](../archive/zomato-sde-1/2026-10.jsonl#L22)</sub>
+
+## 2026-10-13 · IIIT Hyderabad · FTE · SDE
+
+### Q1. Second most frequent element
+
+Find the second most occurring element in the array (with a simple rule, details not remembered).
+
+<sub>Topics: Arrays, Hashing · Source: [chat, 13 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L17)</sub>
+
+### Q2. Asteroid collision type
+
+An asteroid-collision type problem. The poster only gave this description; the exact statement is missing.
+
+<sub>Topics: Stack/Queue, Arrays · Similar: [LeetCode 735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) (Medium) · Source: [chat, 13 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L17)</sub>
+
+### Q3. Items with coupons that halve the price
+
+3D DP problem: given prices of items, an amount, and a number of coupons, each coupon has the power to halve an item's price. The exact statement is missing.
+
+<sub>Topics: DP · Source: [chat, 13 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L17)</sub>
+
+### Q4. Max nutritious value under budget
+
+Given amount m and n items with prices and nutritious values, find the maximum nutritious value by choosing items with total price at most m.
+
+<sub>Topics: DP · Source: [chat, 13 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L17)</sub>
+
+### Q5. Servers with config values, minimum sum
+
+There are n servers numbered 1 to n. Each server has a config value, but some were lost. Given k config values, find the remaining values such that the total sum of config values is minimum. One rule: adjacent nodes must differ by exactly 1 in config value.
+
+<sub>Topics: Graphs · Source: [chat, 13 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L17)</sub>
+
+## 2026-10-12 · IIT Guwahati · FTE · PA
+
+### Q1. SQL: country, city, customer and logs & bids
+
+Two of the 4 SQL questions were repeated from OAHelper: the country/city/customer one and the logs & bids one. (Full statements not given.)
+
+<sub>Topics: SQL · Source: [chat, 12 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L370)</sub>
+
+### Q2. SQL: basic join and datetime aggregate
+
+One basic join question and one datetime aggregation question in SQL. (Full statements not given.)
+
+<sub>Topics: SQL · Source: [chat, 12 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L370)</sub>
+
+### Q3. OA structure
+
+4 SQL questions, 4 Python MCQs, and the rest were aptitude.
+
+<sub>Topics: OA Format, Python & Pandas · Source: [chat, 12 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L370)</sub>
+
+## 2026-10-10 · Unknown · FTE · SDE
+
+### Q1. OA format: 3 DSA (DSU, array, rerooting) and MCQs
+
+3 coding questions: one on DSU, one simple array question, and one on rerooting; plus MCQs on OS, Networks, system design.
+
+<sub>Topics: OA Format · Source: [chat, 10 Oct](../archive/zomato-sde-1/2026-10.jsonl#L9)</sub>
 
 ## 2026-10-09 · IIT Guwahati · FTE · SDE
 
@@ -1080,6 +1556,39 @@ total = 12+12+4+1 = 29
 
 <sub>Topics: Greedy, Arrays · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L321), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L322)</sub>
 
+## 2026-10-06 · NIT Kurukshetra · FTE · SDE
+
+### Q1. Count node pairs with path length k equal to shortest path (0/1 weights)
+
+Given a graph with weight either 0,1, find total combinations of nodes {Na, Nb} such that cost is atleast 1 from Na, Nb and length of path is k. Path must be equal to shortest path possible b/w these same nodes.
+
+(Poster's recollection; exact constraints and input format missing.)
+
+<sub>Topics: Graphs · Source: [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L76), [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L79), [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L80), [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L81)</sub>
+
+### Q2. Max profit picking categories with unique-category multiplier
+
+Given two arrays, category and price with equal size n, calculate the max profit where profit is calculated by picking a category and adding price of that category * total unique categories selected till now.
+
+For eg: category = [2,1,3,2] and price = [1,2,4,4]
+
+```
+choose category 2 at i=0: profit = 1*1 = 1
+choose category 1 at i=1: profit = 2*2 = 4
+choose category 3 at i=2: profit = 4*3 = 12
+choose category 2 at i=3: profit = 4*3 = 12
+
+total = 12+12+4+1 = 29
+```
+
+<sub>Topics: Greedy, Sorting · Source: [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L76), [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L79), [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L80), [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L81)</sub>
+
+### Q3. OA pattern: 3 DSA and 13 MCQs
+
+OA pattern for SDE role: 3 DSA questions and 13 MCQs.
+
+<sub>Topics: OA Format · Source: [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L76), [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L79), [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L80), [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L81)</sub>
+
 ## 2026-10-06 · IIT Guwahati · FTE
 
 ### Q1. First greater element anywhere in the array
@@ -1179,6 +1688,12 @@ Number of initially infected nodes: 2
 
 <sub>Topics: Graphs · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328)</sub>
 
+### Q4. OA format: aptitude, SQL and Python MCQs
+
+20 MCQs on aptitude, probability, stats; SQL section with 4 questions (3 to write queries, 1 MCQ; not from LeetCode SQL 50); 4 Python MCQs. Duration 60 min. No pandas coding questions.
+
+<sub>Topics: OA Format · Source: [chat, 6 Oct](../archive/zomato-sde-1/2026-10.jsonl#L84), [chat, 7 Oct](../archive/zomato-sde-1/2026-10.jsonl#L86), [chat, 9 Oct](../archive/zomato-sde-1/2026-10.jsonl#L5), [chat, 9 Oct](../archive/zomato-sde-1/2026-10.jsonl#L7), [chat, 11 Oct](../archive/zomato-sde-1/2026-10.jsonl#L13)</sub>
+
 ## 2026-10-06 · IIT BHU · FTE · Product Analyst
 
 ### Q1. Product Analyst OA: pandas coding and MCQs
@@ -1211,6 +1726,69 @@ You are given an integer array A of size N.
 Your task is to find the second most frequent distinct element in the array.
 The frequency of an element is the number of times it appears in the array.
 
+Tie-Breaking Rule:
+If multiple elements have the same frequency, the greater element should be considered more frequent for ranking purposes.
+
+In other words, when comparing two elements:
+- The element with the higher frequency ranks higher.
+- If their frequencies are equal, the greater element ranks higher.
+
+Return the element that ranks second according to these rules.
+
+(Poster's note: simple hash map.)
+
+<sub>Topics: Hashing, Sorting · Source: [chat, 2 Oct](../archive/zomato-sde-1/2026-10.jsonl#L54), [chat, 2 Oct](../archive/zomato-sde-1/2026-10.jsonl#L58)</sub>
+
+### Q2. Fruit selection with discount coupons
+
+You are given N different fruits. Each fruit has:
+- price[i] — the cost of the i-th fruit.
+- nutrition[i] — the nutritional value you gain by eating the i-th fruit.
+
+You have:
+- M units of money.
+- K discount coupons.
+
+You want to maximize the total nutritional value of the fruits you purchase.
+
+Coupon Rule:
+- Each fruit can be purchased at most once.
+- If you purchase a fruit without using a coupon, you pay its full price price[i].
+- If you purchase a fruit using one coupon, you pay half its price, i.e. floor(price[i] / 2).
+- Each coupon can be used on at most one fruit.
+- You can choose not to use all your coupons.
+- The total amount spent must not exceed M.
+
+Return the maximum total nutrition you can obtain.
+
+(Poster's note: 3D DP, easy question.)
+
+<sub>Topics: DP · Source: [chat, 2 Oct](../archive/zomato-sde-1/2026-10.jsonl#L54), [chat, 2 Oct](../archive/zomato-sde-1/2026-10.jsonl#L58)</sub>
+
+### Q3. Minimum sum assignment on a tree
+
+You are given a tree with N nodes. Each node must be assigned a non-negative integer value.
+
+Some nodes already have fixed values, while the values of the remaining nodes are unknown.
+
+For every edge (u, v) in the tree, the absolute difference between the values at adjacent nodes must be exactly 1.
+
+Your task is to assign values to all unassigned nodes such that:
+- All pre-assigned values remain unchanged.
+- For every edge (u, v), the absolute difference between their values is exactly 1.
+
+Constraints (from poster's reply): a valid assignment always exists, N <= 1e5, value <= 1e6, 1 <= k <= n.
+
+The title suggests minimizing the sum of the assigned values, but the original statement as posted was garbled and the exact objective and input format (including what k is) are missing.
+
+<sub>Topics: Trees, Graphs · Source: [chat, 2 Oct](../archive/zomato-sde-1/2026-10.jsonl#L54), [chat, 2 Oct](../archive/zomato-sde-1/2026-10.jsonl#L58)</sub>
+
+### Q4. Second most frequent element
+
+You are given an integer array A of size N.
+Your task is to find the second most frequent distinct element in the array.
+The frequency of an element is the number of times it appears in the array.
+
 **Tie-Breaking Rule:** If multiple elements have the same frequency, the greater element should be considered more frequent for ranking purposes.
 
 When comparing two elements:
@@ -1223,7 +1801,7 @@ Return the element that ranks second according to these rules.
 
 <sub>Topics: Hashing, Sorting · Source: [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L304), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L305), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L306)</sub>
 
-### Q2. Fruit selection with discount coupons
+### Q5. Fruit selection with discount coupons
 
 You are given N different fruits. Each fruit has:
 - price[i] — the cost of the i-th fruit.
@@ -1249,7 +1827,7 @@ Return the maximum total nutrition you can obtain.
 
 <sub>Topics: DP · Source: [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L304), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L305), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L306)</sub>
 
-### Q3. Minimum sum assignment on a tree
+### Q6. Minimum sum assignment on a tree
 
 You are given a tree with N nodes. Each node must be assigned a non-negative integer value.
 
@@ -1264,6 +1842,26 @@ Your task is to assign values to all unassigned nodes such that:
 (Poster's text is garbled and the objective is not stated; the title suggests minimizing the sum of all values.)
 
 <sub>Topics: Trees, Graphs · Source: [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L304), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L305), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L306)</sub>
+
+## 2026-09-30 · IIT BHU · FTE
+
+### Q1. Second most occurring element
+
+Find the second most occurring element. (Details not recalled by the poster.)
+
+<sub>Topics: Arrays, Hashing · Source: [chat, 30 Sep](../archive/inmobi-oa/2026-09.jsonl#L7)</sub>
+
+### Q2. Asteroid collision type
+
+A question of the Asteroid Collision type. (Exact statement not recalled by the poster.)
+
+<sub>Topics: Stack/Queue, Arrays · Source: [chat, 30 Sep](../archive/inmobi-oa/2026-09.jsonl#L7)</sub>
+
+### Q3. 3D DP with prices, items and halving coupons
+
+3D DP problem involving prices, items, and a number of coupons that have the power to halve the price. (Exact statement not recalled by the poster.)
+
+<sub>Topics: DP · Source: [chat, 30 Sep](../archive/inmobi-oa/2026-09.jsonl#L7)</sub>
 
 ## 2026-09-29 · IIT Guwahati · FTE
 
@@ -1675,6 +2273,14 @@ Eternal Product Analyst OA: a Python pandas data-manipulation question.
 
 <sub>Topics: Python & Pandas · Source: [chat, 28 Sep](../archive/inter-nit/2026-09.jsonl#L157)</sub>
 
+## 2026-09-27 · IIT Roorkee · FTE · SDE
+
+### Q1. SDE OA description: easy, Striver-sheet style
+
+A friend reported the Zomato SDE paper was easy, with basic questions similar to the Striver sheet. One question was similar to Asteroid Collisions. Specific statements were not shared.
+
+<sub>Topics: OA Format, Stack/Queue · Source: [chat, 27 Sep](../archive/zomato-sde-1/2026-09.jsonl#L2), [chat, 27 Sep](../archive/zomato-sde-1/2026-09.jsonl#L3)</sub>
+
 ## 2026-09-26 · IIT BHU · FTE · Product Analyst
 
 ### Q1. Eternal Product Analyst OA format
@@ -1765,6 +2371,14 @@ A weird-syntax Python question on the `yield` function. (Exact statement not rem
 2 pure SQL questions, LeetCode medium type. (Statements not remembered.)
 
 <sub>Topics: SQL · Source: [chat, 24 Sep](../archive/eternal-oa/2026-09.jsonl#L129), [chat, 24 Sep](../archive/eternal-oa/2026-09.jsonl#L63)</sub>
+
+## 2026-09-22 · IIT Roorkee · FTE · SDE
+
+### Q1. SDE OA format
+
+OA on HackerRank: 20 MCQs + 3 coding questions, 90 minutes. Coding topics: graph, DP, string.
+
+<sub>Topics: OA Format · Source: [chat, 22 Sep](../archive/zomato-sde-1/2026-09.jsonl#L21), [chat, 22 Sep](../archive/zomato-sde-1/2026-09.jsonl#L22)</sub>
 
 ## 2026-09-21 · Unknown · FTE
 

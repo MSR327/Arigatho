@@ -1,13 +1,14 @@
 # Alight Solutions
 
-**6 questions** from 3 OA drives · seen at IIT Roorkee · latest 2026-10-21
+**12 questions** from 4 OA drives · seen at IIT Roorkee · latest 2026-10-22
 
-**Topics:** [DP](../topics/dp.md) (3) · [Arrays](../topics/arrays.md) (2) · [Other](../topics/other.md) (1) · [OA Format](../topics/oa-format.md) (1) · [Graphs](../topics/graphs.md) (1) · [Strings](../topics/strings.md) (1)
+**Topics:** [Arrays](../topics/arrays.md) (3) · [DP](../topics/dp.md) (3) · [OA Format](../topics/oa-format.md) (2) · [Aptitude](../topics/aptitude.md) (2) · [Puzzles](../topics/puzzles.md) (2) · [Other](../topics/other.md) (1) · [Graphs](../topics/graphs.md) (1) · [Strings](../topics/strings.md) (1) · [Hashing](../topics/hashing.md) (1) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (1) · [Trees](../topics/trees.md) (1) · [ML/AI](../topics/ml-ai.md) (1) · [Heaps](../topics/heaps.md) (1)
 
 **LeetCode matches:** 2 (see the [practice list](../practice.md))
 
 **Drives:**
 
+- [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte) · 6 questions
 - [2026-10-21 · IIT Roorkee · FTE](#2026-10-21--iit-roorkee--fte) · 2 questions
 - [2026-10-09 · IIT Roorkee · FTE](#2026-10-09--iit-roorkee--fte) · 2 questions
 - [2026-10-04 · IIT Roorkee · FTE](#2026-10-04--iit-roorkee--fte) · 2 questions
@@ -15,6 +16,51 @@
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-22 · IIT Roorkee · FTE
+
+### Q1. Alight OA structure
+
+Five sections of 5 minutes each, with 5 MCQs each: CN, aptitude, ML, DSA. Then 2 case-study sections (DSA and ML), each with 2 questions and 10 minutes, and a 30-minute coding question. The MCQs were reported as very hard. Some people got the rubber band problem as the coding question.
+
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L220)</sub>
+
+### Q2. Error log time-window queries
+
+Fix the errors in the given code. You are given N lines, each in the format `a:23`, then next line `e:34`, and so on. The letter is the error id and the number is the timestamp. After the N lines you are given a start time, an end time and a time-range window. Three functions were based on this:
+
+1. Count the number of errors with timestamps between start and end time.
+2. and 3. were forgotten by the poster.
+
+<sub>Topics: Arrays, Hashing · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L220)</sub>
+
+### Q3. Height of binary tree: find the error
+
+Given C++ code for the height of a binary tree, find the error. The error was that the base condition returned -1 instead of 0.
+
+<sub>Topics: Code Output (C/C++/Java/Python), Trees · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L220)</sub>
+
+### Q4. Die with flowers: incorrect opposite pairs
+
+A die has a flower on each face. Statements such as: lotus is adjacent to lily and petunia, mogra is opposite to lily, etc. Select all the incorrect opposite face pairs.
+
+The full statements were not remembered.
+
+<sub>Topics: Aptitude, Puzzles · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L220)</sub>
+
+### Q5. Four people ordering statements
+
+There are 4 people with statements such as: a is smaller than b, c is between a and d, etc. Select the correct option on the basis of the statements.
+
+The full statements were not remembered.
+
+<sub>Topics: Aptitude, Puzzles · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L220)</sub>
+
+### Q6. KNN use and priority queue internals
+
+MCQs: KNN is used for? (answer: both classification and regression). Another asked about the internal data structure of a min heap / priority queue.
+
+<sub>Topics: ML/AI, Heaps · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L220)</sub>
 
 ## 2026-10-21 · IIT Roorkee · FTE
 

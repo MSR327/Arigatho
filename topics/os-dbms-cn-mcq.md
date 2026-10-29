@@ -1,9 +1,12 @@
 # OS/DBMS/CN MCQ
 
-172 questions from 19 companys, newest first. [← all topics](../README.md#topics)
+189 questions from 23 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Cortex-A72 performance: data structure, matrix order, list cycle](../companies/texas-instruments.md#q3-cortex-a72-performance-data-structure-matrix-order-list-cycle) | |
+| 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Slowest and fastest implementation by memory section](../companies/texas-instruments.md#q1-slowest-and-fastest-implementation-by-memory-section) | |
+| 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Role of a hypervisor](../companies/deloitte.md#q11-role-of-a-hypervisor) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Advantages of data virtualization](../companies/deloitte.md#q10-advantages-of-data-virtualization) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Network layer for sequencing, addressing and congestion control](../companies/deloitte.md#q7-network-layer-for-sequencing-addressing-and-congestion-control) | |
@@ -45,6 +48,7 @@
 | 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Hybrid cloud secure connectivity](../companies/accenture.md#q3-hybrid-cloud-secure-connectivity) | |
 | 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Moving data from accumulator to memory](../companies/accenture.md#q2-moving-data-from-accumulator-to-memory) | |
 | 2026-10-27 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Scalable cloud storage](../companies/accenture.md#q1-scalable-cloud-storage) | |
+| 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Round 2: experience and OS for autonomous vehicles](../companies/nvidia.md#q1-round-2-experience-and-os-for-autonomous-vehicles) | |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [OS for Autonomous Vehicles](../companies/nvidia.md#q1-os-for-autonomous-vehicles) | |
 | 2026-10-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [IT governance in cloud migration](../companies/accenture.md#q6-it-governance-in-cloud-migration) | |
 | 2026-10-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Protocol to encrypt data in transit](../companies/accenture.md#q5-protocol-to-encrypt-data-in-transit) | |
@@ -127,20 +131,32 @@
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [VPN type for employee working from home](../companies/accenture.md#q4-vpn-type-for-employee-working-from-home) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Connecting on-premise and public cloud in hybrid model](../companies/accenture.md#q3-connecting-on-premise-and-public-cloud-in-hybrid-model) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Moving data from accumulator to memory](../companies/accenture.md#q2-moving-data-from-accumulator-to-memory-1) | |
+| 2026-10-16 | [ICICI](../companies/icici.md) | NIT Silchar | [ICICI Tech OA topics](../companies/icici.md#q1-icici-tech-oa-topics) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Subnetting Same Subnet Host (MCQ)](../companies/harness.md#q6-subnetting-same-subnet-host-mcq) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Race Condition Final Values (MCQ)](../companies/harness.md#q2-race-condition-final-values-mcq) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Deadlock Detection (MCQ)](../companies/harness.md#q1-deadlock-detection-mcq) | |
+| 2026-10-15 | [Harness](../companies/harness.md) | IIT Delhi | [OA pattern and MCQs (10 MCQs + 2 coding)](../companies/harness.md#q2-oa-pattern-and-mcqs-10-mcqs--2-coding) | |
 | 2026-10-15 | [Cashfree](../companies/cashfree.md) | Unknown | [OA pattern: CS fundamentals MCQs + one Python and one Java question](../companies/cashfree.md#q1-oa-pattern-cs-fundamentals-mcqs--one-python-and-one-java-question) | |
 | 2026-10-15 | [Accenture](../companies/accenture.md) | IIT Guwahati | [IT quiz MCQs: AI regulation, subnet masking, code output](../companies/accenture.md#q4-it-quiz-mcqs-ai-regulation-subnet-masking-code-output) | |
 | 2026-10-15 | [Media.net](../companies/media-net.md) | IIT Bombay | [MCQs on CN, DBMS, OS and Linux](../companies/media-net.md#q4-mcqs-on-cn-dbms-os-and-linux) | |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [SQL MCQ: indexing strategy for energy records](../companies/rystad-energy.md#q10-sql-mcq-indexing-strategy-for-energy-records) | |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Hive ORDER BY vs SORT BY](../companies/accenture.md#q4-hive-order-by-vs-sort-by) | |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Purpose of Apache Hive](../companies/accenture.md#q3-purpose-of-apache-hive) | |
+| 2026-10-13 | [ICICI](../companies/icici.md) | MNIT Jaipur | [ICICI DP OA overall pattern](../companies/icici.md#q1-icici-dp-oa-overall-pattern) | |
+| 2026-10-13 | [Media.net](../companies/media-net.md) | Unknown | [Media.net SRE hiring process description](../companies/media-net.md#q1-medianet-sre-hiring-process-description) | |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [I/O controller OS function](../companies/qualcomm.md#q8-io-controller-os-function) | |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Smallest-hole allocation technique](../companies/qualcomm.md#q7-smallest-hole-allocation-technique) | |
 | 2026-10-13 | [Qualcomm](../companies/qualcomm.md) | IIT Delhi | [Priority scheduling statements](../companies/qualcomm.md#q6-priority-scheduling-statements) | |
+| 2026-10-12 | [NatWest](../companies/natwest.md) | IIT Guwahati | [CS fundamentals MCQs and paper overview](../companies/natwest.md#q14-cs-fundamentals-mcqs-and-paper-overview) | |
 | 2026-10-11 | [NatWest](../companies/natwest.md) | Delhi Technological University | [CS Fundamentals + SQL Sections](../companies/natwest.md#q2-cs-fundamentals--sql-sections) | |
 | 2026-10-09 | [Warner Music Group](../companies/warner-music-group.md) | IIT Dhanbad | [Core Fundamentals MCQ section](../companies/warner-music-group.md#q1-core-fundamentals-mcq-section) | |
+| 2026-10-09 | [ION](../companies/ion.md) | VNIT Nagpur | [OS and Computer Networks basics](../companies/ion.md#q4-os-and-computer-networks-basics) | |
+| 2026-10-09 | [ION](../companies/ion.md) | VNIT Nagpur | [DBMS and SQL](../companies/ion.md#q3-dbms-and-sql) | |
+| 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Counting semaphores vs mutexes](../companies/squarepoint.md#q8-counting-semaphores-vs-mutexes) | |
+| 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Process in D state ignores kill -9](../companies/squarepoint.md#q7-process-in-d-state-ignores-kill--9) | |
+| 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Highest normal form of R(A,B,C,D)](../companies/squarepoint.md#q5-highest-normal-form-of-rabcd) | |
+| 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Containers vs VMs](../companies/squarepoint.md#q3-containers-vs-vms) | |
+| 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [TLB properties](../companies/squarepoint.md#q1-tlb-properties) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Subnet membership for address with /27](../companies/eternal-zomato.md#q11-subnet-membership-for-address-with-27) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Linux for-loop code and output questions](../companies/eternal-zomato.md#q10-linux-for-loop-code-and-output-questions) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [GROUP BY multiple-correct question](../companies/eternal-zomato.md#q9-group-by-multiple-correct-question) | |
@@ -149,6 +165,7 @@
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [HTTP method for partial update](../companies/eternal-zomato.md#q6-http-method-for-partial-update) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Protocol used in VoIP](../companies/eternal-zomato.md#q2-protocol-used-in-voip) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [OA pattern: 15 MCQs on OS, DBMS, SQL, CN, Docker](../companies/eternal-zomato.md#q1-oa-pattern-15-mcqs-on-os-dbms-sql-cn-docker) | |
+| 2026-09-26 | [Squarepoint](../companies/squarepoint.md) | IIT Kanpur | [OA format: Infra role](../companies/squarepoint.md#q1-oa-format-infra-role) | |
 | 2026-09-21 | [Zscaler](../companies/zscaler.md) | Unknown | [Associate Software Engineer interview topics](../companies/zscaler.md#q2-associate-software-engineer-interview-topics) | |
 | 2026-09-21 | [Zscaler](../companies/zscaler.md) | Unknown | [Associate Software Engineer OA format](../companies/zscaler.md#q1-associate-software-engineer-oa-format) | |
 | 2026-09-21 | [Zscaler](../companies/zscaler.md) | Unknown | [C developer intern interview topics](../companies/zscaler.md#q4-c-developer-intern-interview-topics) | |

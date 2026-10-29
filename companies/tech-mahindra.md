@@ -1,18 +1,32 @@
 # Tech Mahindra
 
-**3 questions** from 1 OA drive · seen at IIT Delhi · latest 2026-10-14
+**8 questions** from 4 OA drives · seen at IIT Delhi, NIT Silchar, VNIT Nagpur · latest 2026-10-22
 
-**Topics:** [DP](../topics/dp.md) (2) · [Sorting](../topics/sorting.md) (1) · [Math](../topics/math.md) (1) · [Arrays](../topics/arrays.md) (1) · [Python & Pandas](../topics/python-pandas.md) (1) · [ML/AI](../topics/ml-ai.md) (1)
+**Topics:** [DP](../topics/dp.md) (4) · [Python & Pandas](../topics/python-pandas.md) (2) · [OA Format](../topics/oa-format.md) (2) · [Sorting](../topics/sorting.md) (1) · [Math](../topics/math.md) (1) · [Arrays](../topics/arrays.md) (1) · [ML/AI](../topics/ml-ai.md) (1)
 
-**LeetCode matches:** 2 (see the [practice list](../practice.md))
+**LeetCode matches:** 4 (see the [practice list](../practice.md))
 
 **Drives:**
 
+- [2026-10-22 · NIT Silchar · FTE · Other round](#2026-10-22--nit-silchar--fte--other-round) · 1 question
 - [2026-10-14 · IIT Delhi · FTE](#2026-10-14--iit-delhi--fte) · 3 questions
+- [2026-10-14 · IIT Delhi · Intern](#2026-10-14--iit-delhi--intern) · 3 questions
+- [2026-10-08 · VNIT Nagpur · Intern · SDE Intern (Technorise)](#2026-10-08--vnit-nagpur--intern--sde-intern-technorise) · 1 question
 
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-22 · NIT Silchar · FTE · Other round
+
+### Q1. Tech Mahindra round structure
+
+Round 2: Cognitive Ability & Aptitude
+Round 3: Speech & Writing Assessment
+
+(Round 1 is the DSA round.)
+
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/intern-2028/2026-10.jsonl#L134)</sub>
 
 ## 2026-10-14 · IIT Delhi · FTE
 
@@ -39,3 +53,31 @@ Constraints: 1 &lt;= n &lt;= 50; grid[i][j] is -1, 0 or 1; grid[0][0] != -1; gri
 A data-science question to be solved in Python (exact statement not shared).
 
 <sub>Topics: Python & Pandas, ML/AI · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L55)</sub>
+
+## 2026-10-14 · IIT Delhi · Intern
+
+### Q1. Allocate Mailboxes
+
+LeetCode 1478 was asked (problem statement not given in the message).
+
+<sub>Topics: DP · Similar: [LeetCode 1478. Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes/) (Hard) · Source: [chat, 14 Oct](../archive/intern-2028/2026-10.jsonl#L247)</sub>
+
+### Q2. Cherry Pickup
+
+LeetCode 741 was asked (problem statement not given in the message).
+
+<sub>Topics: DP · Similar: [LeetCode 741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) (Hard) · Source: [chat, 14 Oct](../archive/intern-2028/2026-10.jsonl#L247)</sub>
+
+### Q3. Data science Python question
+
+The other question was a data science Python question. No details given.
+
+<sub>Topics: Python & Pandas · Source: [chat, 14 Oct](../archive/intern-2028/2026-10.jsonl#L247)</sub>
+
+## 2026-10-08 · VNIT Nagpur · Intern · SDE Intern (Technorise)
+
+### Q1. Tech Mahindra OA format
+
+Tech Mahindra Technorise hiring program (about 60k stipend, high PPO chances). The poster says the OA is highly focused on DSA. No specific questions were given.
+
+<sub>Topics: OA Format · Source: [chat, 8 Oct](../archive/intern-2028/2026-10.jsonl#L300), [chat, 8 Oct](../archive/intern-2028/2026-10.jsonl#L202)</sub>

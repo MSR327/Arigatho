@@ -1,24 +1,46 @@
 # Harness
 
-**27 questions** from 7 OA drives · seen at IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Rourkela, NIT Surathkal · latest 2026-10-16
+**39 questions** from 13 OA drives · seen at IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Roorkee, MNNIT Allahabad, NIT Rourkela, NIT Surathkal · latest 2026-10-23
 
-**Topics:** [Hashing](../topics/hashing.md) (6) · [Arrays](../topics/arrays.md) (6) · [Graphs](../topics/graphs.md) (4) · [DP](../topics/dp.md) (4) · [Sorting](../topics/sorting.md) (3) · [Trees](../topics/trees.md) (3) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (3) · [Sliding Window](../topics/sliding-window.md) (2) · [Strings](../topics/strings.md) (2) · [Greedy](../topics/greedy.md) (2) · [Two Pointers](../topics/two-pointers.md) (1) · [Linked List](../topics/linked-list.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [Web Dev](../topics/web-dev.md) (1) · [SQL](../topics/sql.md) (1) · [OA Format](../topics/oa-format.md) (1) · [ML/AI](../topics/ml-ai.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Heaps](../topics/heaps.md) (1) · [OOP](../topics/oop.md) (1) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (1)
+**Topics:** [DP](../topics/dp.md) (10) · [Arrays](../topics/arrays.md) (8) · [Graphs](../topics/graphs.md) (7) · [Hashing](../topics/hashing.md) (6) · [Trees](../topics/trees.md) (6) · [OA Format](../topics/oa-format.md) (5) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (4) · [Sorting](../topics/sorting.md) (3) · [Sliding Window](../topics/sliding-window.md) (2) · [Strings](../topics/strings.md) (2) · [Greedy](../topics/greedy.md) (2) · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) (2) · [Two Pointers](../topics/two-pointers.md) (1) · [Linked List](../topics/linked-list.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [Web Dev](../topics/web-dev.md) (1) · [SQL](../topics/sql.md) (1) · [ML/AI](../topics/ml-ai.md) (1) · [Binary Search](../topics/binary-search.md) (1) · [Heaps](../topics/heaps.md) (1) · [OOP](../topics/oop.md) (1) · [Math](../topics/math.md) (1)
 
-**LeetCode matches:** 11 (see the [practice list](../practice.md))
+**LeetCode matches:** 14 (see the [practice list](../practice.md))
 
 **Drives:**
 
+- [2026-10-23 · IIT Kharagpur · FTE](#2026-10-23--iit-kharagpur--fte) · 1 question
+- [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte) · 1 question
 - [2026-10-16 · MNNIT Allahabad · FTE](#2026-10-16--mnnit-allahabad--fte) · 8 questions
+- [2026-10-16 · IIT Delhi · FTE](#2026-10-16--iit-delhi--fte) · 2 questions
 - [2026-10-15 · NIT Rourkela · FTE](#2026-10-15--nit-rourkela--fte) · 1 question
 - [2026-10-15 · IIT Roorkee · FTE](#2026-10-15--iit-roorkee--fte) · 1 question
+- [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 2 questions
 - [2026-10-14 · IIT Guwahati · FTE](#2026-10-14--iit-guwahati--fte) · 1 question
 - [2026-10-13 · IIT Guwahati · FTE](#2026-10-13--iit-guwahati--fte) · 3 questions
+- [2026-10-13 · IIT Guwahati · FTE · SDE-1](#2026-10-13--iit-guwahati--fte--sde-1) · 4 questions
+- [2026-10-11 · NIT Surathkal · FTE · SDE](#2026-10-11--nit-surathkal--fte--sde) · 2 questions
 - [2026-10-10 · NIT Surathkal · FTE](#2026-10-10--nit-surathkal--fte) · 2 questions
 - [2026-10-07 · MNNIT Allahabad · FTE](#2026-10-07--mnnit-allahabad--fte) · 11 questions
 
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-23 · IIT Kharagpur · FTE
+
+### Q1. Harness OA format
+
+Probably 10 MCQs on core CS and 2 DSA questions, one medium-hard and the other hard-extreme. Actual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L67)</sub>
+
+## 2026-10-23 · IIT BHU · FTE
+
+### Q1. Harness OA pattern
+
+Two coding questions, medium to hard difficulty.
+
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L170), [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L172)</sub>
 
 ## 2026-10-16 · MNNIT Allahabad · FTE
 
@@ -75,6 +97,20 @@ A code snippet converts decimal 100 to binary. What does it print? (The exact co
 
 <sub>Topics: Code Output (C/C++/Java/Python) · Source: [chat, 16 Oct](../archive/inter-nit/2026-10.jsonl#L1320)</sub>
 
+## 2026-10-16 · IIT Delhi · FTE
+
+### Q1. Codeforces 592D
+
+Codeforces problem 592D (asked in the previous OA as well). Statement not given in the message.
+
+<sub>Topics: Graphs, Trees · Source: [chat, 16 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L197)</sub>
+
+### Q2. Max points collecting coins in 2×n grid
+
+There is a 2×n grid with different coin values. You start at (0,0) and must collect all the coins; at each instant you can move to a neighbouring cell. You get k × coins[i][j] points when collecting at instant k. Find the maximum points you can score.
+
+<sub>Topics: DP · Source: [chat, 16 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L197)</sub>
+
 ## 2026-10-15 · NIT Rourkela · FTE
 
 ### Q1. OA pattern: Python, SQL, DSA, ML fundamentals, AI/LLM concepts
@@ -97,6 +133,68 @@ Example: n = 3, m = 2, trainingTime = [1, 1, 4], executionDays = [[3, 9], [4, 7]
 Schedule: Days 1-4 train algorithm 2 (needs 4 days). Day 5 execute algorithm 2 (5 is in executionDays[2]). Day 6 train algorithm 1. Day 7 execute algorithm 1. Day 8 train algorithm 0. Day 9 execute algorithm 0. Output: 9.
 
 <sub>Topics: Binary Search, Greedy · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1263)</sub>
+
+## 2026-10-15 · IIT Delhi · FTE
+
+### Q1. Count Valid Binary Strings
+
+You are given four integers: minLength, maxLength, oneGroup, and zeroGroup.
+You need to construct binary strings (strings with only '0' and '1') starting from an empty string. At each step, you can perform either of the following operations:
+- Append exactly zeroGroup consecutive '0's to the end.
+- Append exactly oneGroup consecutive '1's to the end.
+
+A constructed string is valid if its total length falls within the inclusive range [minLength, maxLength]. Calculate the total number of different valid binary strings that can be constructed, modulo 10^9 + 7.
+
+Input Format: Four space-separated integers: minLength, maxLength, oneGroup, and zeroGroup.
+
+Constraints:
+- 1 ≤ minLength ≤ maxLength ≤ 10^5
+- 1 ≤ oneGroup, zeroGroup ≤ 2000
+
+Example 1:
+```
+Input: minLength = 3, maxLength = 3, oneGroup = 1, zeroGroup = 1
+Output: 8
+```
+The 8 valid strings of length 3 are: "000", "001", "010", "011", "100", "101", "110", "111".
+
+Example 2:
+```
+Input: minLength = 2, maxLength = 3, oneGroup = 2, zeroGroup = 1
+Output: 5
+```
+We can append "11" or "0" at each step. Length 2: "00", "11"; Length 3: "000", "110", "011". Total = 5.
+
+<sub>Topics: DP · Similar: [LeetCode 2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) (Medium) · Source: [chat, 15 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L186)</sub>
+
+### Q2. OA pattern and MCQs (10 MCQs + 2 coding)
+
+OA pattern: 10 MCQs + 2 coding questions (based on a candidate's memory).
+
+1. Deadlock: Three processes P1, P2, P3 use two resources: R1 has 1 unit and R2 has 2 units. P1 requests 1 unit of R1 and 1 unit of R2. P2 holds 1 unit of R2 and requests 1 unit of R1. P3 holds 1 unit of R2. Will the system enter a deadlock? Reported answer: No deadlock, safe sequence P2 → P3 → P1.
+
+2. Race Condition: Two threads operate on a shared variable without synchronization. Initially value = 100. Thread 1: value = value + 30. Thread 2: value = value - 50. Which final values are possible? Reported answer: 50, 80 and 130.
+
+3. Min Heap: A sequence of insert and extract operations on a min heap; find the resulting heap or retrieved elements. Exact elements and options not remembered.
+
+4. OOP Concept: Which OOP concept bundles data and methods together while restricting outside access? Reported answer: Encapsulation.
+
+5. Tree Traversals (MSQ): Multiple-select question about binary-tree traversal orders. Exact tree and options not remembered.
+
+6. Subnetting: Given IP address 10.20.37.200/22, identify which of four IP addresses belongs to the same subnet and can be assigned to another host. Reconstructed options:
+A. 10.20.35.201
+B. 10.20.38.15
+C. 10.20.40.200
+D. 10.20.39.255
+Reported answer: B.
+
+7. Count Inversions: Count pairs (i,j) with i<j and a[i]>a[j] in array [7, 9, 4, 5, 6, 3, 10, 7, 100]. Reported answer: 13.
+
+8. Decimal to Binary: A code snippet converts decimal 100 to binary; what does it print? Exact code and options not remembered.
+
+(The message is truncated after question 8; the remaining questions are missing.)
+
+<sub>Topics: OS/DBMS/CN MCQ, OA Format, Code Output (C/C++/Java/Python) · Source: [chat, 15 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L190)</sub>
 
 ## 2026-10-14 · IIT Guwahati · FTE
 
@@ -153,6 +251,232 @@ Constraints: not recorded (likely bounds on n, and possibly a modulo such as 10^
 About 10 multiple-choice questions on backend development (REST APIs), software testing and SQL. The exact questions were not shared.
 
 <sub>Topics: Software Engineering, Web Dev, SQL · Source: [Harness_IITG_OA_Questions.pdf](../archive/files/6318-Harness_IITG_OA_Questions.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L222), [Harness_IITG_OA_Questions.pdf](../archive/files/6332-Harness_IITG_OA_Questions.pdf)</sub>
+
+## 2026-10-13 · IIT Guwahati · FTE · SDE-1
+
+### Q1. Minimum Jumps in a Grid
+
+You are given an n × m grid where each cell is either 0 (empty) or 1 (obstacle), and an integer k.
+
+You start at cell (0, 0) and want to reach cell (n − 1, m − 1).
+
+In one move, you can jump x cells in any of the 4 directions, where 1 ≤ x ≤ k. From cell (i, j):
+- Right: move to (i, j + x)
+- Left: move to (i, j − x)
+- Down: move to (i + x, j)
+- Up: move to (i − x, j)
+
+A jump is valid only if:
+- the destination stays inside the grid, and
+- every cell along the jump, including the destination, is empty (you cannot jump over or land on an obstacle).
+
+Each jump costs 1, regardless of its length.
+
+Return the minimum number of jumps to reach (n − 1, m − 1). If it is impossible, return −1.
+
+**Example 1**
+```
+grid = [[0,0,0],
+        [1,1,0],
+        [0,0,0]]
+k = 2
+Output: 2
+```
+Jump right by 2 to (0,2), then down by 2 to (2,2).
+
+**Example 2**
+```
+Same grid as Example 1, k = 1
+Output: 4
+```
+(0,0) → (0,1) → (0,2) → (1,2) → (2,2), one cell at a time.
+
+**Example 3**
+```
+grid = [[0,1],
+        [1,0]]
+k = 1
+Output: -1
+```
+Both moves out of (0,0) are blocked.
+
+**Constraints**
+- 1 ≤ n, m ≤ 100
+- 1 ≤ k ≤ 100
+- grid[i][j] is 0 or 1
+
+<sub>Topics: Graphs, Arrays · Source: [Harness_IITG_OA_Questions.pdf](../archive/files/6328-Harness_IITG_OA_Questions.pdf), [chat, 13 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L392), [chat, 14 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L400), [Harness_IITG_OA_Questions.pdf](../archive/files/7141-Harness_IITG_OA_Questions.pdf), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L315), [Harness_IITG_OA_Questions.pdf](../archive/files/7604-Harness_IITG_OA_Questions.pdf)</sub>
+
+### Q2. Tower Placement on a Tree
+
+You are given a tree with n nodes numbered 0 to n − 1, described by two arrays treeNode_from and treeNode_to of length n − 1, where each pair forms an undirected edge.
+
+You may place a tower on any subset of nodes (including none or all), so there are 2^n possible placements.
+
+A node is active if:
+- it has a tower on it, or
+- it is directly connected to a node that has a tower.
+
+For every c from 0 to n, count the number of placements that make exactly c nodes active.
+
+Return an array of length n + 1, where index c holds that count.
+
+**Example 1**
+```
+n = 3
+treeNode_from = [0, 0]
+treeNode_to   = [1, 2]
+Output: [1, 0, 2, 5]
+```
+No towers gives 0 active nodes; {0} activates {0,1,2}; {1} activates {0,1}; {2} activates {0,2}; {0,1}, {0,2}, {1,2}, {0,1,2} each activate all 3.
+
+**Example 2**
+```
+n = 2
+treeNode_from = [0]
+treeNode_to   = [1]
+Output: [1, 0, 3]
+```
+
+**Example 3**
+```
+n = 4
+treeNode_from = [0, 1, 2]
+treeNode_to   = [1, 2, 3]
+Output: [1, 0, 2, 4, 9]
+```
+
+Constraints were not recorded in the source (likely bounds on n and possibly a modulo such as 10^9 + 7).
+
+<sub>Topics: Trees, DP · Source: [Harness_IITG_OA_Questions.pdf](../archive/files/6328-Harness_IITG_OA_Questions.pdf), [chat, 13 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L392), [chat, 14 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L400), [Harness_IITG_OA_Questions.pdf](../archive/files/7141-Harness_IITG_OA_Questions.pdf), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L315), [Harness_IITG_OA_Questions.pdf](../archive/files/7604-Harness_IITG_OA_Questions.pdf)</sub>
+
+### Q3. Count Valid Binary Strings
+
+You are given four integers: minLength, maxLength, oneGroup, and zeroGroup.
+
+You need to construct binary strings (strings with only '0' and '1') starting from an empty string. At each step, you can perform either of the following operations:
+- Append exactly zeroGroup consecutive '0's to the end.
+- Append exactly oneGroup consecutive '1's to the end.
+
+A constructed string is valid if its total length falls within the inclusive range [minLength, maxLength].
+
+Calculate the total number of different valid binary strings that can be constructed. Since the answer can be extremely large, return it modulo 10^9 + 7.
+
+**Input Format:** Four space-separated integers: minLength, maxLength, oneGroup, and zeroGroup.
+
+**Constraints**
+- 1 ≤ minLength ≤ maxLength ≤ 10^5
+- 1 ≤ oneGroup, zeroGroup ≤ 2000
+
+**Example 1**
+```
+Input: minLength = 3, maxLength = 3, oneGroup = 1, zeroGroup = 1
+Output: 8
+```
+The 8 valid strings of length 3 are 000, 001, 010, 011, 100, 101, 110, 111.
+
+**Example 2**
+```
+Input: minLength = 2, maxLength = 3, oneGroup = 2, zeroGroup = 1
+Output: 5
+```
+Append "11" or "0" at each step. Length 2: "00", "11". Length 3: "000", "110", "011". Total 5.
+
+<sub>Topics: DP, Math · Similar: [LeetCode 2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) (Medium) · Source: [Harness_IITG_OA_Questions.pdf](../archive/files/6328-Harness_IITG_OA_Questions.pdf), [chat, 13 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L392), [chat, 14 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L400), [Harness_IITG_OA_Questions.pdf](../archive/files/7141-Harness_IITG_OA_Questions.pdf), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L315), [Harness_IITG_OA_Questions.pdf](../archive/files/7604-Harness_IITG_OA_Questions.pdf)</sub>
+
+### Q4. MCQ section topics
+
+The OA also had an MCQ section covering MySQL, system design, software engineering and Java. Individual questions were not shared.
+
+<sub>Topics: OA Format · Source: [Harness_IITG_OA_Questions.pdf](../archive/files/6328-Harness_IITG_OA_Questions.pdf), [chat, 13 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L392), [chat, 14 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L400), [Harness_IITG_OA_Questions.pdf](../archive/files/7141-Harness_IITG_OA_Questions.pdf), [chat, 15 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L315), [Harness_IITG_OA_Questions.pdf](../archive/files/7604-Harness_IITG_OA_Questions.pdf)</sub>
+
+## 2026-10-11 · NIT Surathkal · FTE · SDE
+
+### Q1. Maximum memory collection with row limit
+
+You are given an n × m integer matrix `memory`, where `memory[i][j]` is the amount of memory that can be collected from cell (i, j).
+
+You start at the top-left cell (0, 0) and want to reach the bottom-right cell (n-1, m-1). At every cell you may either **Read** it (collect its value) or **Skip** it (collect nothing). After that you must move one cell right or one cell down, staying inside the matrix.
+
+Constraint: for every row, you may read at most `k` cells from that row.
+
+Return the maximum total memory that can be collected.
+
+Example 1:
+```
+memory = [[4,5,9],[1,2,4],[6,5,2]]
+k = 2
+Output: 21
+```
+
+Example 2:
+```
+memory = [[5,1],[3,7]]
+k = 1
+Output: 12
+```
+(read 5 from the first row and 7 from the second row)
+
+Signature: `long long maximumMemory(vector<vector<int>>& memory, int k);`
+
+Constraints:
+```
+1 <= n, m <= 200
+1 <= memory[i][j] <= 10^9
+1 <= k <= m
+```
+The intended solution is a DP dp(i, j, cnt) where cnt is the number of cells already read in the current row (resets when moving down). Note: the source is a reconstruction of the OA problem, and its Example 1 explanation is inconsistent.
+
+<sub>Topics: DP, Arrays · Source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/5397-Harness_SDE_NIT_Karanataka.pdf)</sub>
+
+### Q2. Maximum weight of tree after degree constraint
+
+You are given an undirected weighted tree of n servers numbered 0 to n-1, given by arrays `g_from`, `g_to` (edge endpoints) and `g_weight` (edge weights), and an integer k.
+
+You may remove any number of edges. After removal, every server must have at most k incident edges. Return the maximum possible sum of the weights of the remaining edges.
+
+Example 1:
+```
+n = 5
+g_from = [0,0,0,2]
+g_to = [1,2,3,4]
+g_weight = [10,20,5,15]
+k = 2
+Output: 45
+```
+(remove edge (0,3) of weight 5)
+
+Example 2:
+```
+n = 4
+g_from = [0,1,2]
+g_to = [1,2,3]
+g_weight = [4,7,5]
+k = 2
+Output: 16
+```
+
+Example 3:
+```
+n = 6
+g_from = [0,0,0,1,2]
+g_to = [1,2,3,4,5]
+g_weight = [8,6,10,5,9]
+k = 1
+Output: 19
+```
+
+Signature: `long long maximumWeight(int n, vector<int>& g_from, vector<int>& g_to, vector<int>& g_weight, int k);`
+
+Constraints:
+```
+2 <= n <= 2 * 10^5
+1 <= g_weight[i] <= 10^9
+1 <= k <= n - 1
+```
+The edges form a valid tree. Intended approach is a tree DP with two states per node.
+
+<sub>Topics: Trees, DP, Graphs · Similar: [LeetCode 3367. Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) (Hard) · Source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/5397-Harness_SDE_NIT_Karanataka.pdf)</sub>
 
 ## 2026-10-10 · NIT Surathkal · FTE
 

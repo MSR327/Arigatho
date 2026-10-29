@@ -1,14 +1,15 @@
 # Reliance
 
-**106 questions** from 5 OA drives · seen at MNNIT Allahabad, Unknown · latest 2026-10-17
+**107 questions** from 6 OA drives · seen at IIT Guwahati, MNNIT Allahabad, Unknown · latest 2026-10-17
 
-**Topics:** [Mechanical](../topics/mechanical.md) (39) · [Aptitude](../topics/aptitude.md) (38) · [Verbal](../topics/verbal.md) (10) · [ML/AI](../topics/ml-ai.md) (5) · [Arrays](../topics/arrays.md) (5) · [Other](../topics/other.md) (3) · [Math](../topics/math.md) (3) · [Sorting](../topics/sorting.md) (2) · [Software Engineering](../topics/software-engineering.md) (2) · [Web Dev](../topics/web-dev.md) (2) · [OA Format](../topics/oa-format.md) (1) · [Greedy](../topics/greedy.md) (1) · [Hashing](../topics/hashing.md) (1) · [OOP](../topics/oop.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [Linked List](../topics/linked-list.md) (1) · [Trees](../topics/trees.md) (1)
+**Topics:** [Mechanical](../topics/mechanical.md) (39) · [Aptitude](../topics/aptitude.md) (38) · [Verbal](../topics/verbal.md) (10) · [ML/AI](../topics/ml-ai.md) (5) · [Arrays](../topics/arrays.md) (5) · [Other](../topics/other.md) (3) · [Math](../topics/math.md) (3) · [OA Format](../topics/oa-format.md) (2) · [Sorting](../topics/sorting.md) (2) · [Software Engineering](../topics/software-engineering.md) (2) · [Web Dev](../topics/web-dev.md) (2) · [Greedy](../topics/greedy.md) (1) · [Hashing](../topics/hashing.md) (1) · [OOP](../topics/oop.md) (1) · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) (1) · [Linked List](../topics/linked-list.md) (1) · [Trees](../topics/trees.md) (1)
 
 **LeetCode matches:** 3 (see the [practice list](../practice.md))
 
 **Drives:**
 
 - [2026-10-17 · MNNIT Allahabad · FTE](#2026-10-17--mnnit-allahabad--fte) · 94 questions
+- [2026-10-07 · IIT Guwahati · FTE · GET](#2026-10-07--iit-guwahati--fte--get) · 1 question
 - [2026-09-21 · Unknown · FTE · Graduate Engineer Trainee](#2026-09-21--unknown--fte--graduate-engineer-trainee) · 1 question
 - [2026-09-21 · Unknown · FTE](#2026-09-21--unknown--fte) · 3 questions
 - [2026-09-21 · Unknown · FTE · SDE-II · Interview](#2026-09-21--unknown--fte--sde-ii--interview) · 4 questions
@@ -1053,6 +1054,14 @@ Following are the types of supervised learning?
 - **D.** All of above
 
 <sub>Topics: ML/AI · Source: [ril 2026.pdf](../archive/files/7904-ril_2026.pdf)</sub>
+
+## 2026-10-07 · IIT Guwahati · FTE · GET
+
+### Q1. Reliance GET OA pattern
+
+Reliance OA (on Unstop, GET role): Aptitude matters a lot and speed is very important. There is a time limit for each question (about 45 secs / 75 secs). Core engineering questions are also asked, formula based.
+
+<sub>Topics: OA Format · Source: [chat, 7 Oct](../archive/reliance-oa/2026-10.jsonl#L8), [chat, 7 Oct](../archive/reliance-oa/2026-10.jsonl#L9)</sub>
 
 ## 2026-09-21 · Unknown · FTE · Graduate Engineer Trainee
 

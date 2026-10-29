@@ -1,16 +1,25 @@
 # Amazon
 
-**2 questions** from 1 OA drive · seen at IIT BHU · latest 2026-10-03
+**3 questions** from 2 OA drives · seen at BITS, IIT BHU · latest 2026-10-29
 
-**Topics:** [Hashing](../topics/hashing.md) (1) · [Trees](../topics/trees.md) (1) · [ML/AI](../topics/ml-ai.md) (1)
+**Topics:** [Hashing](../topics/hashing.md) (1) · [Trees](../topics/trees.md) (1) · [ML/AI](../topics/ml-ai.md) (1) · [OA Format](../topics/oa-format.md) (1)
 
 **Drives:**
 
+- [2026-10-29 · BITS · FTE · SDE](#2026-10-29--bits--fte--sde) · 1 question
 - [2026-10-03 · IIT BHU · FTE · Applied Scientist · Interview](#2026-10-03--iit-bhu--fte--applied-scientist--interview) · 2 questions
 
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-29 · BITS · FTE · SDE
+
+### Q1. Amazon SDE OA pattern change
+
+The only change in the Amazon OA pattern is one "Find the bug" question, where you are given a codebase with a basic AI assistant.
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/amazon-oa/2026-10.jsonl#L27)</sub>
 
 ## 2026-10-03 · IIT BHU · FTE · Applied Scientist · Interview
 

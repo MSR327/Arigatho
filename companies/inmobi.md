@@ -1,24 +1,126 @@
 # InMobi
 
-**14 questions** from 7 OA drives · seen at IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Roorkee · latest 2026-10-23
+**47 questions** from 22 OA drives · seen at IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNNIT Allahabad, Unknown · latest 2026-10-28
 
-**Topics:** [Arrays](../topics/arrays.md) (8) · [Graphs](../topics/graphs.md) (3) · [Binary Search](../topics/binary-search.md) (2) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (2) · [DP](../topics/dp.md) (2) · [Hashing](../topics/hashing.md) (2) · [Heaps](../topics/heaps.md) (1) · [Bit Manipulation](../topics/bit-manipulation.md) (1) · [Greedy](../topics/greedy.md) (1) · [Sliding Window](../topics/sliding-window.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [OA Format](../topics/oa-format.md) (1) · [Strings](../topics/strings.md) (1)
+**Topics:** [Arrays](../topics/arrays.md) (20) · [DP](../topics/dp.md) (12) · [Graphs](../topics/graphs.md) (11) · [OA Format](../topics/oa-format.md) (7) · [Strings](../topics/strings.md) (6) · [Binary Search](../topics/binary-search.md) (5) · [Recursion/Backtracking](../topics/recursion-backtracking.md) (4) · [Greedy](../topics/greedy.md) (4) · [Sliding Window](../topics/sliding-window.md) (4) · [Hashing](../topics/hashing.md) (4) · [Heaps](../topics/heaps.md) (2) · [Bit Manipulation](../topics/bit-manipulation.md) (2) · [Stack/Queue](../topics/stack-queue.md) (2) · [Trees](../topics/trees.md) (2) · [Software Engineering](../topics/software-engineering.md) (1) · [OOP](../topics/oop.md) (1)
 
-**LeetCode matches:** 8 (see the [practice list](../practice.md))
+**LeetCode matches:** 17 (see the [practice list](../practice.md))
 
 **Drives:**
 
+- [2026-10-28 · Unknown · FTE · Applied Scientist](#2026-10-28--unknown--fte--applied-scientist) · 1 question
+- [2026-10-24 · IIT Kharagpur/Kanpur · FTE](#2026-10-24--iit-kharagpurkanpur--fte) · 3 questions
 - [2026-10-22 · IIT Delhi · FTE](#2026-10-22--iit-delhi--fte) · 2 questions
+- [2026-10-22 · IIT Bombay · FTE](#2026-10-22--iit-bombay--fte) · 1 question
+- [2026-10-21 · IIT Guwahati · FTE · Interview](#2026-10-21--iit-guwahati--fte--interview) · 1 question
+- [2026-10-21 · IIT Delhi · FTE](#2026-10-21--iit-delhi--fte) · 3 questions
+- [2026-10-21 · IIT Delhi · FTE · SDE](#2026-10-21--iit-delhi--fte--sde) · 4 questions
 - [2026-10-14 · IIT BHU · FTE](#2026-10-14--iit-bhu--fte) · 3 questions
+- [2026-10-13 · Unknown · FTE](#2026-10-13--unknown--fte) · 1 question
+- [2026-10-13 · IIT BHU · FTE](#2026-10-13--iit-bhu--fte) · 3 questions
+- [2026-10-12 · IIT Indore · FTE](#2026-10-12--iit-indore--fte) · 1 question
+- [2026-10-11 · IIT Kanpur · FTE](#2026-10-11--iit-kanpur--fte) · 4 questions
+- [2026-10-09 · IIT BHU · FTE](#2026-10-09--iit-bhu--fte) · 1 question
 - [2026-10-08 · IIT BHU · FTE](#2026-10-08--iit-bhu--fte) · 1 question
 - [2026-10-07 · IIT Roorkee · FTE](#2026-10-07--iit-roorkee--fte) · 1 question
 - [2026-10-05 · IIT BHU · FTE](#2026-10-05--iit-bhu--fte) · 3 questions
+- [2026-10-05 · IIT BHU · FTE · SDE](#2026-10-05--iit-bhu--fte--sde) · 4 questions
 - [2026-10-04 · IIT Bombay · Intern](#2026-10-04--iit-bombay--intern) · 1 question
+- [2026-10-03 · MNNIT Allahabad · FTE · SDE](#2026-10-03--mnnit-allahabad--fte--sde) · 1 question
+- [2026-09-29 · MNNIT Allahabad · FTE · SDE](#2026-09-29--mnnit-allahabad--fte--sde) · 3 questions
 - [2026-09-26 · IIT Guwahati · FTE](#2026-09-26--iit-guwahati--fte) · 3 questions
+- [2026-09-24 · IIT Kanpur · FTE](#2026-09-24--iit-kanpur--fte) · 2 questions
 
 [← all companies](../README.md#companies)
 
 ---
+
+## 2026-10-28 · Unknown · FTE · Applied Scientist
+
+### Q1. Applied Scientist OA format
+
+The InMobi OA for Applied Scientist differs from the SDE one: it had 25 MCQs and 1 DSA question.
+
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/inmobi-oa/2026-10.jsonl#L50)</sub>
+
+## 2026-10-24 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Minimum Discarded Spans
+
+You are given an event array of even length. Every distinct span ID occurs **exactly twice**: the first appearance starts that span, and the second closes it. A valid log behaves like a stack: spans may be disjoint or completely nested, but two spans cannot cross.
+
+You may discard a span only by deleting **both** occurrences of its ID. Find the **minimum number of spans** to discard to make the remaining event sequence valid.
+
+**Input:** event count n, followed by n IDs (spaces or newlines). **Output:** one integer. **Limits:** 2 <= n <= 2000; n even; IDs up to 10^9.
+
+Example:
+```
+Input:
+6
+1 2 1 3 2 3
+Output:
+1
+```
+Spans 1 and 2 cross, and spans 2 and 3 cross. Discarding span 2 leaves [1,1,3,3], which is valid. One discard is optimal.
+
+<sub>Topics: DP, Arrays · Source: [Inmodi_iitk.pdf](../archive/files/12280-Inmodi_iitk.pdf)</sub>
+
+### Q2. Secure Network Resilience
+
+There are N data clusters and one virtual central hub (node 0). You may connect cluster i directly to the hub for `hub_costs[i]`, or use any of M bidirectional fiber links (u, v, cost). Build the **unique minimum-cost connected network**; it is a tree.
+
+The hub fails at time 0; infection then spreads one edge per second. Before each spread, you may quarantine one currently healthy cluster. Quarantining removes that cluster from the network, so its descendants can be protected. A node counts as **saved** only if it is neither infected nor quarantined. Find the maximum number saved.
+
+**Guarantee:** The hub has at most two neighbors in the optimal tree; every other node has at most three neighbors (so each rooted node has at most two children). **Limits:** N up to 10^6, M up to 10^7; costs up to 10^9.
+
+Input format includes T (number of test cases), then per test: N M, the hub_costs line, then M lines of u v cost.
+
+Example:
+```
+Input:
+1
+5 8
+60 78 63 6 107
+2 3 57
+1 3 30
+2 4 64
+3 4 4
+5 1 56
+2 5 71
+1 4 45
+3 5 50
+Output:
+4
+```
+The cheapest tree has edges 0-4, 4-3, 3-1, 3-2, 3-5. At time 1, quarantine node 4: only that node is lost; nodes 1, 2, 3, and 5 are saved.
+
+<sub>Topics: Graphs, Trees, DP · Source: [Inmodi_iitk.pdf](../archive/files/12280-Inmodi_iitk.pdf)</sub>
+
+### Q3. Advertiser-Publisher Ad Campaign
+
+You have an **undirected, weighted graph** with N nodes and M edges. An edge weight is its transfer capacity. For any path from source S to destination D, its impact is the **minimum edge capacity** on that path.
+
+Find a path using at most K edges that maximizes this minimum capacity. If no valid path exists, print **0**.
+
+**Input:** N M K, then S D, followed by M lines u v w. **Output:** one integer. **Limits:** N, M, K up to 10^5; positive integer edge capacities.
+
+Example:
+```
+Input:
+5 6 3
+1 5
+1 2 10
+1 3 50
+2 4 40
+3 4 20
+4 5 30
+2 3 60
+Output:
+20
+```
+Path 1-3-4-5 uses 3 edges and has bottleneck min(50,20,30)=20. Path 1-2-4-5 has bottleneck 10. Higher-bottleneck routes require more than 3 edges.
+
+<sub>Topics: Binary Search, Graphs · Source: [Inmodi_iitk.pdf](../archive/files/12280-Inmodi_iitk.pdf)</sub>
 
 ## 2026-10-22 · IIT Delhi · FTE
 
@@ -33,6 +135,163 @@ Very long problem statement. Similar to the Word Ladder II problem (find transfo
 Second question was a long, somewhat confusing problem about dependencies modeled as a graph (dependency resolution / ordering).
 
 <sub>Topics: Graphs · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2027), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2028), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2029) · Also asked at: IIT Delhi (2026-10-23)</sub>
+
+## 2026-10-22 · IIT Bombay · FTE
+
+### Q1. InMobi OA language restriction
+
+The OA had coding questions; the 2nd question only allowed C++ and Java (Python was not allowed). Question statements were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L76), [chat, 23 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L82)</sub>
+
+## 2026-10-21 · IIT Guwahati · FTE · Interview
+
+### Q1. LLD for a search feature
+
+Design (low-level design) a search feature. Only the design had to be explained, no coding was required.
+
+The interview also covered DSA, HLD and projects.
+
+<sub>Topics: Software Engineering, OOP · Source: [chat, 21 Oct](../archive/campus-iit-gandhinagar-placements/2026-10.jsonl#L16), [chat, 21 Oct](../archive/campus-iit-gandhinagar-placements/2026-10.jsonl#L17), [chat, 21 Oct](../archive/campus-iit-gandhinagar-placements/2026-10.jsonl#L18)</sub>
+
+## 2026-10-21 · IIT Delhi · FTE
+
+### Q1. Word Ladder II
+
+A Word Ladder II style problem was asked (find all shortest transformation sequences between two words). Full statement not given.
+
+<sub>Topics: Graphs, Strings · Similar: [LeetCode 126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) (Hard) · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L79), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L84), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L86), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L87), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L89)</sub>
+
+### Q2. Topological sort problem (CSES)
+
+A simple topological sort question, said to be from CSES. Full statement not given.
+
+<sub>Topics: Graphs · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L79), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L84), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L86), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L87), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L89)</sub>
+
+### Q3. Subsequence DP question
+
+A DP question on subsequences. Full statement not given.
+
+<sub>Topics: DP · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L79), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L84), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L86), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L87), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L89)</sub>
+
+## 2026-10-21 · IIT Delhi · FTE · SDE
+
+### Q1. Word Ladder with per-index change cost
+
+You are given a word catalogue `wordList`, a cost list `cost`, a `startWord` and an `endWord`. All words have the same length L, and `cost` has length L.
+
+- In one step you change exactly one character of the current word; changing the character at index i costs `cost[i]`.
+- Every word reached after a step must be in `wordList` (`startWord` need not be).
+- The cost of a transformation sequence is the sum of the costs of its steps.
+
+Return all transformation sequences from `startWord` to `endWord` with the minimum total cost, each as the list of words `[startWord, ..., endWord]`; an empty list if `endWord` cannot be reached.
+
+Examples:
+```
+startWord = "hit", endWord = "cog", cost = [1, 1, 1]
+wordList = ["hot","dot","dog","lot","log","cog"]
+Output: [["hit","hot","dot","dog","cog"], ["hit","hot","lot","log","cog"]]  (total cost 4)
+
+startWord = "aa", endWord = "bb", cost = [1, 10]
+wordList = ["ac","bc","ca","cb","bb"]
+Both 3-step sequences reach "bb", but they cost differently:
+  aa -> ac -> bc -> bb  cost 10 + 1 + 10 = 21
+  aa -> ca -> cb -> bb  cost 1 + 10 + 1 = 12
+Output: [["aa","ca","cb","bb"]]
+
+startWord = "hit", endWord = "cog", cost = [1, 1, 1]
+wordList = ["hot","dot","dog","lot","log"]
+Output: []  ("cog" is not in the catalogue)
+```
+
+Constraints:
+- 1 <= L <= 5; endWord, every word in wordList and cost have length L
+- 1 <= wordList.length <= 500; all words in wordList are unique
+- startWord != endWord; all words consist of lowercase English letters
+- The total size of all answer sequences does not exceed 10^5
+
+(Constraints recalled as matching LeetCode 126; bounds on cost[i] not recorded.)
+
+<sub>Topics: Graphs, Heaps, Recursion/Backtracking · Similar: [LeetCode 126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) (Hard) · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L93), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L96), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L99), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L1), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L3), [InMobi - OA_iitd.pdf](../archive/files/10309-InMobi_-_OA_iitd.pdf)</sub>
+
+### Q2. Count ways to select at least k non-overlapping pattern occurrences
+
+You are given two strings, `log` of length n and `pattern` of length m, and an integer k.
+
+- An occurrence of `pattern` is a subsequence of `log` equal to `pattern`: indices i1 < i2 < ... < im with log[ij] = pattern[j]. It spans the interval [i1, im].
+- Selected occurrences must not overlap: no two may share an index, and none may start inside another; each selected occurrence starts after the previous one has finished (their intervals [i1, im] are disjoint).
+- A selection is a set of such occurrences; selections with more than k occurrences also count.
+
+Return the number of selections containing at least k non-overlapping occurrences.
+
+```
+int countWays(string log, string pattern, int k);
+```
+
+Examples:
+```
+log = "abab", pattern = "ab", k = 1
+occurrences: [0,1], [0,3], [2,3]
+valid selections: {[0,1]}, {[0,3]}, {[2,3]}, {[0,1],[2,3]}  ([0,3] overlaps both others)
+Output: 4
+
+log = "abab", pattern = "ab", k = 2
+Output: 1   (only {[0,1],[2,3]})
+
+log = "aabb", pattern = "ab", k = 1
+occurrences: [0,2], [0,3], [1,2], [1,3] - every pair overlaps
+Output: 4
+
+log = "abab", pattern = "ab", k = 3
+Output: 0
+```
+
+Constraints:
+- 1 <= |log| <= 200
+- 1 <= |pattern| < 20, |pattern| <= |log|
+- 1 <= k <= |log|
+- log, pattern: strings (character set not recorded)
+
+<sub>Topics: DP, Strings · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L93), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L96), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L99), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L1), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L3), [InMobi - OA_iitd.pdf](../archive/files/10309-InMobi_-_OA_iitd.pdf)</sub>
+
+### Q3. Company audit order with lowest-numbered cycle detection
+
+You must audit N companies, numbered 0 to N-1. You are given M dependency pairs [u, v]: company u depends on company v, so v must be audited before u.
+
+- No cycle: return an order in which every company is audited after all the companies it depends on (any valid order).
+- Cycle exists: return the cycle that contains the lowest-numbered company lying on any cycle, written along the dependency edges (u -> v), starting from that company and repeating it at the end. The cycle must follow the actual edges, not sorted order.
+
+Return the audit order, or the cycle as described.
+
+```
+vector<int> auditOrder(vector<vector<int>>& dependencies, int N);
+```
+
+Examples:
+```
+N = 4, dependencies = [[0,1], [1,2], [0,3]]
+Output: [2, 1, 3, 0]  (any valid order)
+
+N = 4, dependencies = [[0,1], [1,2], [2,0], [3,2]]
+0 -> 1 -> 2 -> 0 is a cycle; 3 depends on 2 but is not on it
+Output: [0, 1, 2, 0]
+
+N = 5, dependencies = [[1,2], [2,1], [3,4], [4,0], [0,3]]
+cycles: 1 -> 2 -> 1 and 0 -> 3 -> 4 -> 0; the lowest company on a cycle is 0
+Output: [0, 3, 4, 0]
+```
+
+Constraints:
+- 1 <= N < 5000, 0 <= M < 5000
+- 0 <= u, v < N; the graph may contain zero, one or several cycles
+
+<sub>Topics: Graphs · Similar: [LeetCode 210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (Medium) · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L93), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L96), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L99), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L1), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L3), [InMobi - OA_iitd.pdf](../archive/files/10309-InMobi_-_OA_iitd.pdf)</sub>
+
+### Q4. InMobi OA format and platform notes
+
+3 coding questions (IIT Delhi, 21 Oct 2026, SDE). Question statements were very long, so the poster had to infer them from the examples. Copy-paste inside the IDE was disabled, and errors showed only as a generic compile error / runtime error. Test cases took a while to run, and `#include <bits/stdc++.h>` was allowed. Shortlisting at IIT Indore was reportedly only for those who solved 3/3.
+
+<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L93), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L96), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L99), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L1), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L3), [InMobi - OA_iitd.pdf](../archive/files/10309-InMobi_-_OA_iitd.pdf)</sub>
 
 ## 2026-10-14 · IIT BHU · FTE
 
@@ -58,6 +317,90 @@ One of the 3 DSA problems was a recursion + backtracking problem (exact statemen
 One very easy problem (statement not shared). The catch was the input: the array size n was not given, so the array elements had to be read until end of input.
 
 <sub>Topics: Arrays, OA Format · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L125)</sub>
+
+## 2026-10-13 · Unknown · FTE
+
+### Q1. InMobi OA format
+
+The OA was on DoSelect. It had 3 DSA questions only, with no MCQs. C++ was allowed. Candidates had to read input and print output themselves, as the question stated. Each question had about 12-15 test cases, and hidden test cases were also there. Questions could be viewed without submitting the previous ones.
+
+<sub>Topics: OA Format · Source: [chat, 9 Oct](../archive/inmobi-oa/2026-10.jsonl#L105), [chat, 9 Oct](../archive/inmobi-oa/2026-10.jsonl#L108), [chat, 10 Oct](../archive/inmobi-oa/2026-10.jsonl#L123), [chat, 11 Oct](../archive/inmobi-oa/2026-10.jsonl#L126), [chat, 13 Oct](../archive/inmobi-oa/2026-10.jsonl#L141), [chat, 13 Oct](../archive/inmobi-oa/2026-10.jsonl#L142)</sub>
+
+## 2026-10-13 · IIT BHU · FTE
+
+### Q1. Subarrays with exactly k odd numbers
+
+Count the number of subarrays with exactly k odd numbers.
+
+<sub>Topics: Arrays, Sliding Window, Hashing · Similar: [LeetCode 1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) (Medium) · Source: [chat, 13 Oct](../archive/inmobi-oa/2026-10.jsonl#L143), [chat, 13 Oct](../archive/inmobi-oa/2026-10.jsonl#L144)</sub>
+
+### Q2. Max subarray sum with increasing-decreasing-increasing shape
+
+Find the maximum subarray sum given that the subarray must be first increasing, then decreasing, then increasing.
+
+<sub>Topics: Arrays, DP · Source: [chat, 13 Oct](../archive/inmobi-oa/2026-10.jsonl#L143), [chat, 13 Oct](../archive/inmobi-oa/2026-10.jsonl#L144)</sub>
+
+### Q3. Minimum towers to cover circular towers
+
+Towers are arranged in a circle, each with a given range of coverage. Find the minimum number of towers required to cover all towers.
+
+Note: the exact constraints and format were not given. The poster noted the OA used the DoSelect platform, where you must write your own cin/cout.
+
+<sub>Topics: Greedy, Arrays · Source: [chat, 13 Oct](../archive/inmobi-oa/2026-10.jsonl#L143), [chat, 13 Oct](../archive/inmobi-oa/2026-10.jsonl#L144)</sub>
+
+## 2026-10-12 · IIT Indore · FTE
+
+### Q1. Question similar to Codeforces 1167C (News Distribution)
+
+One question was similar to Codeforces 1167C (News Distribution), with different wording. Link: https://codeforces.com/problemset/problem/1167/C
+
+The poster also mentioned another question called "jojo-the-perfectionist". The full statements were not given.
+
+<sub>Topics: Graphs · Source: [chat, 12 Oct](../archive/inmobi-oa/2026-10.jsonl#L133), [chat, 12 Oct](../archive/inmobi-oa/2026-10.jsonl#L134)</sub>
+
+## 2026-10-11 · IIT Kanpur · FTE
+
+### Q1. Max profit streak within a window
+
+Given an array of daily profits/losses and m queries, where each query gives an opening day and a closing day, find the maximum profit obtainable from any consecutive streak of days within that given window, where the profit is the sum of the elements in that streak.
+
+(Constraints and examples not provided.)
+
+<sub>Topics: Arrays, DP · Source: [chat, 11 Oct](../archive/inmobi-oa/2026-10.jsonl#L130)</sub>
+
+### Q2. Max profit streak with start and end ranges
+
+Extension of Q1. Given an array of daily profits/losses and m queries, where each query gives an opening date range [x1, y1] and a closing date range [x2, y2], find the maximum profit obtainable from any consecutive streak of days, with the starting day chosen from the opening range and the ending day chosen from the closing range.
+
+(Constraints and examples not provided.)
+
+<sub>Topics: Arrays, DP · Source: [chat, 11 Oct](../archive/inmobi-oa/2026-10.jsonl#L130)</sub>
+
+### Q3. Count good blocks
+
+Given two strings n and t, divide n into consecutive blocks of length |t|. A block is good if it is equal to t or can be made equal to t by swapping one adjacent pair of characters. Count the number of good blocks in n.
+
+(Constraints and examples not provided.)
+
+<sub>Topics: Strings · Source: [chat, 11 Oct](../archive/inmobi-oa/2026-10.jsonl#L130)</sub>
+
+### Q4. Minimum computers to restart with dependencies
+
+Given n computers and m dependency relationships, where computer A depends on computer B, meaning A can start running only after B has started running. If a computer is restarted, all computers that directly or indirectly depend on it are also restarted. Find the minimum number of computers that need to be restarted to get all n computers running.
+
+(Constraints and examples not provided.)
+
+<sub>Topics: Graphs · Source: [chat, 11 Oct](../archive/inmobi-oa/2026-10.jsonl#L130)</sub>
+
+## 2026-10-09 · IIT BHU · FTE
+
+### Q1. Trionic Array II
+
+One question in the InMobi OA was LeetCode "Trionic Array II": https://leetcode.com/problems/trionic-array-ii/description/
+
+(Full statement not given in the message.)
+
+<sub>Topics: Arrays, DP · Similar: [LeetCode 3640. Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) (Hard) · Source: [chat, 9 Oct](../archive/inmobi-oa/2026-10.jsonl#L115)</sub>
 
 ## 2026-10-08 · IIT BHU · FTE
 
@@ -162,6 +505,100 @@ Output: 2
 
 <sub>Topics: Sliding Window, Hashing, Arrays · Similar: [LeetCode 1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) (Medium) · Source: [image.png](../archive/files/3191-image.png), [image.png](../archive/files/3192-image.png), [image.png](../archive/files/3193-image.png), [image.png](../archive/files/3194-image.png), [image.png](../archive/files/3195-image.png)</sub>
 
+## 2026-10-05 · IIT BHU · FTE · SDE
+
+### Q1. Count nice subarrays
+
+Given an array of integers `nums` and an integer `k`. A continuous subarray is called **nice** if there are `k` odd numbers on it.
+
+Return the number of **nice** subarrays.
+
+Input Format: Two lines:
+1. An integer `k` representing the required number of odd numbers
+2. A line of space-separated integers representing the array `nums`
+
+Output Format: A single integer representing the number of nice subarrays.
+
+Constraints:
+- 1 <= nums.length <= 50000
+- 1 <= nums[i] <= 10^5
+- 1 <= k <= nums.length
+
+TestCase 1:
+```
+Input:
+3
+1 1 2 1 1
+Output:
+2
+```
+
+<sub>Topics: Arrays, Hashing, Sliding Window · Similar: [LeetCode 1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) (Medium) · Source: [image.png](../archive/files/3198-image.png), [image.png](../archive/files/3199-image.png), [image.png](../archive/files/3200-image.png), [image.png](../archive/files/3201-image.png), [chat, 6 Oct](../archive/inmobi-oa/2026-10.jsonl#L172), [chat, 6 Oct](../archive/inmobi-oa/2026-10.jsonl#L174), [chat, 7 Oct](../archive/inmobi-oa/2026-10.jsonl#L184), [chat, 8 Oct](../archive/inmobi-oa/2026-10.jsonl#L188)</sub>
+
+### Q2. Campaign Wave Analyzer
+
+IX Analytics, a leading digital ad effectiveness platform, helps digital marketers visualize campaign effectiveness over time through quantitative engagement scores.
+
+Campaigns follow a wave pattern: initial curiosity (engagement rises), fatigue (engagement drops), reinvigoration (engagement rises again).
+
+A campaign wave is a continuous series of days, from Day l to Day r, that fits this structure:
+- Between Day l and Day p, engagement climbs.
+- Between Day p and Day q, engagement declines.
+- Between Day q and Day r, engagement recovers.
+
+Given an integer array engagementScores of length n, where each element represents the net user engagement (positive or negative) for a campaign on a given day, find the maximum sum over all possible campaign waves within the campaign.
+
+Sample case:
+```
+Input: Engagement Score by Day = [0,-2,-1,-3,0,2,-1]
+Output: -4
+```
+(Explanation and constraints not visible in the screenshot. This is a variant of the maximum-sum trionic subarray problem.)
+
+<sub>Topics: Arrays, DP · Similar: [LeetCode 3640. Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) (Hard) · Source: [image.png](../archive/files/3198-image.png), [image.png](../archive/files/3199-image.png), [image.png](../archive/files/3200-image.png), [image.png](../archive/files/3201-image.png), [chat, 6 Oct](../archive/inmobi-oa/2026-10.jsonl#L172), [chat, 6 Oct](../archive/inmobi-oa/2026-10.jsonl#L174), [chat, 7 Oct](../archive/inmobi-oa/2026-10.jsonl#L184), [chat, 8 Oct](../archive/inmobi-oa/2026-10.jsonl#L188)</sub>
+
+### Q3. Circular Defense
+
+There are N defense towers arranged in a circle. Each tower i has a power P[i] and a range R[i].
+
+A tower can neutralize any tower that lies within its range (in both directions on the circle). The distance between adjacent towers is 1 unit.
+
+Find the minimum number of towers required to keep active so that all towers are neutralized (either the tower itself is active, or it is within range of an active tower).
+
+Key points:
+- Towers are arranged in a circle (tower 0 and tower N-1 are adjacent)
+- Tower i with range R[i] can cover towers at distance <= R[i] in both clockwise and counter-clockwise directions
+- An active tower neutralizes itself
+
+Input Format:
+```
+N
+P1 R1
+P2 R2
+...
+PN RN
+```
+- First line: N (number of towers)
+- Next N lines: Pi Ri (power and range of tower i)
+- Pi = power of tower i (1 <= Pi <= 1000)
+- Ri = range of tower i (0 <= Ri <= N)
+
+Output Format: Print a single integer: the minimum number of towers needed to neutralize all towers.
+
+Constraints:
+- 1 <= N <= 20
+- 1 <= Pi <= 1000 (rest not visible)
+
+Example: 6 towers each with range 1; activating towers 0 and 3 covers all, so the answer is 2.
+
+<sub>Topics: Recursion/Backtracking, Bit Manipulation, Greedy · Source: [image.png](../archive/files/3198-image.png), [image.png](../archive/files/3199-image.png), [image.png](../archive/files/3200-image.png), [image.png](../archive/files/3201-image.png), [chat, 6 Oct](../archive/inmobi-oa/2026-10.jsonl#L172), [chat, 6 Oct](../archive/inmobi-oa/2026-10.jsonl#L174), [chat, 7 Oct](../archive/inmobi-oa/2026-10.jsonl#L184), [chat, 8 Oct](../archive/inmobi-oa/2026-10.jsonl#L188)</sub>
+
+### Q4. InMobi OA format and tips
+
+OA was held on DoSelect with 3 coding questions, the same for everyone at IIT BHU (SDE role only). All languages are allowed. DSU is asked in almost all InMobi OAs (concept only, not repeated questions). Tips: when the array size is not given, read input until EOF (`while (cin >> x) a.push_back(x);`), used in the nice subarray question; know how to round to a certain number of decimals using fixed and setprecision. Questions have not been repeating.
+
+<sub>Topics: OA Format · Source: [image.png](../archive/files/3198-image.png), [image.png](../archive/files/3199-image.png), [image.png](../archive/files/3200-image.png), [image.png](../archive/files/3201-image.png), [chat, 6 Oct](../archive/inmobi-oa/2026-10.jsonl#L172), [chat, 6 Oct](../archive/inmobi-oa/2026-10.jsonl#L174), [chat, 7 Oct](../archive/inmobi-oa/2026-10.jsonl#L184), [chat, 8 Oct](../archive/inmobi-oa/2026-10.jsonl#L188)</sub>
+
 ## 2026-10-04 · IIT Bombay · Intern
 
 ### Q1. Teemo Attacking (LeetCode 495)
@@ -176,6 +613,34 @@ Example: timeSeries = [1,4], duration = 2 -> 4; timeSeries = [1,2], duration = 2
 Constraints: 1 &lt;= timeSeries.length &lt;= 10^4; 0 &lt;= timeSeries[i], duration &lt;= 10^7; timeSeries is sorted in non-decreasing order.
 
 <sub>Topics: Arrays · Similar: [LeetCode 495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) (Easy) · Source: [chat, 4 Oct](../archive/inter-iit/2026-10.jsonl#L353)</sub>
+
+## 2026-10-03 · MNNIT Allahabad · FTE · SDE
+
+### Q1. InMobi SDE OA pattern
+
+The OA had 3 medium-level LeetCode-style coding questions. Specific questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 3 Oct](../archive/intern-2027/2026-10.jsonl#L213)</sub>
+
+## 2026-09-29 · MNNIT Allahabad · FTE · SDE
+
+### Q1. Longest valid parentheses
+
+Longest Valid Parentheses (LeetCode problem linked by the poster): given a string containing just '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
+
+<sub>Topics: Strings, DP, Stack/Queue · Similar: [LeetCode 32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) (Hard) · Source: [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L34), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L1), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L2), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L3), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L6)</sub>
+
+### Q2. Minimize the maximum difference of pairs
+
+Minimize the Maximum Difference of Pairs (LeetCode problem linked by the poster): given an integer array and p, form p disjoint pairs of indices so that the maximum absolute difference among the pairs is minimized.
+
+<sub>Topics: Binary Search, Greedy, Arrays · Similar: [LeetCode 2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) (Medium) · Source: [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L34), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L1), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L2), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L3), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L6)</sub>
+
+### Q3. Difference between first and last level sum of binary tree
+
+A binary tree is given in the form of an array. Find the difference between the sum of the first level and the sum of the last level. (Easy question; exact constraints and examples not remembered.)
+
+<sub>Topics: Trees, Arrays · Source: [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L34), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L1), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L2), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L3), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L6)</sub>
 
 ## 2026-09-26 · IIT Guwahati · FTE
 
@@ -196,3 +661,95 @@ Given three sorted arrays, find the median of all their elements combined.
 You are given two arrays X and Y. They define a matrix where A[i][j] = X[i] + Y[j]. Find the k-th smallest element in this matrix.
 
 <sub>Topics: Heaps, Binary Search · Similar: [LeetCode 373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (Medium) · Source: [chat, 26 Sep](../archive/inter-nit/2026-09.jsonl#L183)</sub>
+
+## 2026-09-24 · IIT Kanpur · FTE
+
+### Q1. Swapped Neighbour Scans
+
+Priya runs the returns counter at a courier office. The tracking-code scanner is broken, so the clerks type each parcel's tracking code by hand, and the keypad records one long line of characters, with no spaces and no line breaks. Priya takes one tracking code and counts the places where it appears exactly, or where it appears with one pair of adjacent neighbours swapped.
+
+You are given:
+- The day's log `s`, a string of `n` characters.
+- The tracking code `t`, a string of `m` characters, where `m ≤ n`.
+
+For each starting position `i` from 1 to `n-m+1`, the window at position `i` is:
+
+```
+s[i], s[i+1], ..., s[i+m-1]
+```
+
+There are exactly `n-m+1` windows, and they overlap.
+
+A window at position `i` is **good** if at least one of the following holds:
+1. It is equal to `t`.
+2. It becomes equal to `t` after swapping one pair of adjacent characters inside the window.
+
+Print the number of good windows.
+
+Rules:
+- Windows are counted by position. Two windows starting at different positions are counted separately, even if they contain exactly the same characters.
+- The swap is made on a copy. The original window is never modified, so each window is judged independently.
+- At most one swap per window, and the swap is optional. A window already equal to `t` is good without any swap.
+- The two swapped characters must be adjacent and both inside that window. Characters outside the window are never used, and `t` is never modified.
+- A good window is counted once, however many different swaps would make it equal to `t`.
+- If `m = 1`, a window has no pair of adjacent characters, so only windows equal to `t` are good.
+- Characters are compared exactly. The input contains only lowercase English letters and digits.
+
+(Input format, constraints and examples were not visible in the screenshot.)
+
+<sub>Topics: Strings, Sliding Window · Source: [image.png](../archive/files/2409-image.png), [image.png](../archive/files/2412-image.png)</sub>
+
+### Q2. Peak Profit Window
+
+A proprietary trading desk logs its net profit or loss for each trading day over `N` days. Day `i`'s result is `A[i]`. A positive number means the desk made money that day, while a negative number means it lost money.
+
+The head of risk asks queries based on two windows:
+- An entry window `[x1, y1]`
+- An exit window `[x2, y2]`
+
+For each query, choose an opening day `i` from the entry window and a closing day `j` from the exit window, with `i ≤ j`.
+
+The desk earns the total P&L:
+
+```
+A[i] + A[i+1] + ... + A[j]
+```
+
+Find the maximum possible total P&L satisfying:
+
+```
+x1 ≤ i ≤ y1
+x2 ≤ j ≤ y2
+i ≤ j
+```
+
+**Input Format**
+- Line 1: An integer `N`, the number of trading days.
+- Line 2: `N` space-separated integers, the daily P&L values `A[1..N]`.
+- Line 3: An integer `M`, the number of audit queries.
+- Next `M` lines: four integers `x1 y1 x2 y2`, where `[x1, y1]` is the entry window and `[x2, y2]` is the exit window.
+
+**Output Format**
+For each audit request, output one line containing the maximum total P&L achievable by any position satisfying the mandate, i.e. the maximum of `A[i] + ... + A[j]` where `x1 ≤ i ≤ y1`, `x2 ≤ j ≤ y2`, `i ≤ j`.
+
+**Constraints**
+```
+1 ≤ N ≤ 50000
+|A[i]| ≤ 15007
+1 ≤ x1 ≤ x2 ≤ y1 ≤ y2 ≤ N
+1 ≤ M ≤ 50000
+```
+
+**Example**
+
+Input:
+```
+5
+10 -40 -40 30 40
+2
+1 3 3 5
+2 4 3 5
+```
+(The expected output was cut off in the screenshot.)
+
+<sub>Topics: Arrays, Binary Search · Source: [image.png](../archive/files/2409-image.png), [image.png](../archive/files/2412-image.png)</sub>

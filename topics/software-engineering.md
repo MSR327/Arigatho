@@ -1,6 +1,6 @@
 # Software Engineering
 
-45 questions from 12 companys, newest first. [← all topics](../README.md#topics)
+52 questions from 17 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -20,6 +20,8 @@
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Hybrid cloud connectivity](../companies/accenture.md#q3-hybrid-cloud-connectivity) |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Cloud storage with dynamic scaling](../companies/accenture.md#q1-cloud-storage-with-dynamic-scaling) |
 | 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kharagpur/Kanpur | [Fix API route validation logic (backend task)](../companies/ibm.md#q2-fix-api-route-validation-logic-backend-task) |
+| 2026-10-23 | [Kickdrum](../companies/kickdrum.md) | NIT Rourkela | [Project folder walkthrough and feature implementation](../companies/kickdrum.md#q1-project-folder-walkthrough-and-feature-implementation) |
+| 2026-10-21 | [InMobi](../companies/inmobi.md) | IIT Guwahati | [LLD for a search feature](../companies/inmobi.md#q1-lld-for-a-search-feature) |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Most secure cloud deployment model for sensitive data](../companies/accenture.md#q25-most-secure-cloud-deployment-model-for-sensitive-data) |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Shared responsibility model in cloud security](../companies/accenture.md#q16-shared-responsibility-model-in-cloud-security) |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Patna | [Cloud features for flash-sale traffic spikes](../companies/accenture.md#q15-cloud-features-for-flash-sale-traffic-spikes-2) |
@@ -31,7 +33,12 @@
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [Python MCQ: retry decorator with exponential backoff](../companies/rystad-energy.md#q27-python-mcq-retry-decorator-with-exponential-backoff) |
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [MCQ: daily import shows exactly 50% fewer records](../companies/rystad-energy.md#q18-mcq-daily-import-shows-exactly-50-fewer-records) |
 | 2026-10-13 | [Harness](../companies/harness.md) | IIT Guwahati | [10 MCQs on Backend, Testing and SQL](../companies/harness.md#q3-10-mcqs-on-backend-testing-and-sql) |
+| 2026-10-09 | [ION](../companies/ion.md) | VNIT Nagpur | [Project deep-dive](../companies/ion.md#q5-project-deep-dive) |
+| 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Docker initialization task](../companies/squarepoint.md#q10-docker-initialization-task) |
+| 2026-09-29 | [Squarepoint](../companies/squarepoint.md) | IIT BHU | [Debugging: order book matching market participants](../companies/squarepoint.md#q3-debugging-order-book-matching-market-participants) |
+| 2026-09-24 | [Juspay](../companies/juspay.md) | VIT Vellore | [Hackathon LLD problem](../companies/juspay.md#q2-hackathon-lld-problem) |
 | 2026-09-22 | [Blinkit](../companies/blinkit.md) | NIT Trichy | [Delivery tracking system design](../companies/blinkit.md#q1-delivery-tracking-system-design) |
+| 2026-09-22 | [Squarepoint](../companies/squarepoint.md) | IIT Roorkee | [Squarepoint interview focus areas](../companies/squarepoint.md#q1-squarepoint-interview-focus-areas) |
 | 2026-09-21 | [Teradata](../companies/teradata.md) | Unknown | [Parking lot / payment interface design](../companies/teradata.md#q7-parking-lot--payment-interface-design) |
 | 2026-09-21 | [Reliance](../companies/reliance.md) | Unknown | [Distributed caches, SQL vs NoSQL, CAP and indexing](../companies/reliance.md#q4-distributed-caches-sql-vs-nosql-cap-and-indexing) |
 | 2026-09-21 | [Reliance](../companies/reliance.md) | Unknown | [Design patterns and OTP login system design](../companies/reliance.md#q3-design-patterns-and-otp-login-system-design) |

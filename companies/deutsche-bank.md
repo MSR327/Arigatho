@@ -1,15 +1,17 @@
 # Deutsche Bank
 
-**7 questions** from 3 OA drives · seen at IIT Delhi, IIT Kanpur, IIT Kharagpur · latest 2026-10-16
+**9 questions** from 5 OA drives · seen at IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur · latest 2026-10-16
 
-**Topics:** [Recursion/Backtracking](../topics/recursion-backtracking.md) (2) · [Arrays](../topics/arrays.md) (2) · [Strings](../topics/strings.md) (1) · [Two Pointers](../topics/two-pointers.md) (1) · [Graphs](../topics/graphs.md) (1) · [Trees](../topics/trees.md) (1) · [Sorting](../topics/sorting.md) (1) · [OA Format](../topics/oa-format.md) (1)
+**Topics:** [Recursion/Backtracking](../topics/recursion-backtracking.md) (3) · [Arrays](../topics/arrays.md) (2) · [OA Format](../topics/oa-format.md) (2) · [Strings](../topics/strings.md) (1) · [Two Pointers](../topics/two-pointers.md) (1) · [Graphs](../topics/graphs.md) (1) · [Trees](../topics/trees.md) (1) · [Sorting](../topics/sorting.md) (1) · [HR & Behavioral](../topics/hr-behavioral.md) (1)
 
 **LeetCode matches:** 1 (see the [practice list](../practice.md))
 
 **Drives:**
 
 - [2026-10-16 · IIT Kharagpur · FTE](#2026-10-16--iit-kharagpur--fte) · 1 question
+- [2026-10-15 · IIT Kharagpur · FTE](#2026-10-15--iit-kharagpur--fte) · 1 question
 - [2026-10-15 · IIT Kanpur · FTE](#2026-10-15--iit-kanpur--fte) · 3 questions
+- [2026-10-15 · IIT Guwahati · FTE · Graduate Analyst](#2026-10-15--iit-guwahati--fte--graduate-analyst) · 1 question
 - [2026-10-15 · IIT Delhi · FTE](#2026-10-15--iit-delhi--fte) · 3 questions
 
 [← all companies](../README.md#companies)
@@ -23,6 +25,14 @@
 Deutsche Bank OA (IIT Kharagpur) had 3 DSA questions: 1 tough and 2 easy-to-medium.
 
 <sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508)</sub>
+
+## 2026-10-15 · IIT Kharagpur · FTE
+
+### Q1. Deutsche Bank OA format
+
+The OA contained only behavioral questions. The test link was emailed and could be taken from the student's room any time before the 14 Oct 6pm deadline.
+
+<sub>Topics: OA Format, HR & Behavioral · Source: [chat, 15 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L126)</sub>
 
 ## 2026-10-15 · IIT Kanpur · FTE
 
@@ -43,6 +53,16 @@ A city has N districts connected by M undirected streets. Arrays A and B describ
 Given a non-empty binary tree, find the size of the largest perfect subtree you can get by removing nodes. In a perfect binary tree every internal node has exactly two children and all leaves are at the same depth. Return the maximum number of nodes in such a subtree.
 
 <sub>Topics: Trees, Recursion/Backtracking · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1247)</sub>
+
+## 2026-10-15 · IIT Guwahati · FTE · Graduate Analyst
+
+### Q1. N queens in a row (DSA question)
+
+A DSA question about placing N queens in a row was reportedly asked in the Deutsche Bank Graduate Analyst OA (said to be from the Striver sheet, from last year's test).
+
+The full problem statement was not given.
+
+<sub>Topics: Recursion/Backtracking · Source: [chat, 15 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L118)</sub>
 
 ## 2026-10-15 · IIT Delhi · FTE
 

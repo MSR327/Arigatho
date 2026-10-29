@@ -1,14 +1,15 @@
 # Teradata
 
-**10 questions** from 3 OA drives · seen at IIT BHU, Unknown · latest 2026-09-28
+**14 questions** from 4 OA drives · seen at IIT BHU, NIT Warangal, Unknown · latest 2026-09-28
 
-**Topics:** [Graphs](../topics/graphs.md) (3) · [Strings](../topics/strings.md) (2) · [OOP](../topics/oop.md) (2) · [Math](../topics/math.md) (1) · [Heaps](../topics/heaps.md) (1) · [Greedy](../topics/greedy.md) (1) · [Sorting](../topics/sorting.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [DP](../topics/dp.md) (1) · [Arrays](../topics/arrays.md) (1) · [Hashing](../topics/hashing.md) (1) · [Trees](../topics/trees.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [OA Format](../topics/oa-format.md) (1) · [Two Pointers](../topics/two-pointers.md) (1)
+**Topics:** [Graphs](../topics/graphs.md) (4) · [DP](../topics/dp.md) (3) · [Math](../topics/math.md) (2) · [Heaps](../topics/heaps.md) (2) · [Sorting](../topics/sorting.md) (2) · [Strings](../topics/strings.md) (2) · [Arrays](../topics/arrays.md) (2) · [OOP](../topics/oop.md) (2) · [Greedy](../topics/greedy.md) (1) · [Stack/Queue](../topics/stack-queue.md) (1) · [Hashing](../topics/hashing.md) (1) · [Trees](../topics/trees.md) (1) · [Software Engineering](../topics/software-engineering.md) (1) · [OA Format](../topics/oa-format.md) (1) · [Two Pointers](../topics/two-pointers.md) (1)
 
-**LeetCode matches:** 5 (see the [practice list](../practice.md))
+**LeetCode matches:** 9 (see the [practice list](../practice.md))
 
 **Drives:**
 
-- [2026-09-28 · IIT BHU · FTE](#2026-09-28--iit-bhu--fte) · 2 questions
+- [2026-09-28 · IIT BHU · FTE](#2026-09-28--iit-bhu--fte) · 5 questions
+- [2026-09-23 · NIT Warangal · Intern · SDE · Interview](#2026-09-23--nit-warangal--intern--sde--interview) · 1 question
 - [2026-09-21 · Unknown · Intern · SDE Intern · Interview](#2026-09-21--unknown--intern--sde-intern--interview) · 7 questions
 - [2026-09-21 · Unknown · Intern · AI/ML Intern · Other round](#2026-09-21--unknown--intern--aiml-intern--other-round) · 1 question
 
@@ -18,7 +19,31 @@
 
 ## 2026-09-28 · IIT BHU · FTE
 
-### Q1. Minimum Jumps to Reach End via Prime Teleportation
+### Q1. Standard knapsack DP (sum of power of subsequences)
+
+Standard knapsack DP question. The poster later identified it as LeetCode 3082, Find the Sum of the Power of All Subsequences.
+
+The full statement was not shared.
+
+<sub>Topics: DP · Similar: [LeetCode 3082. Find the Sum of the Power of All Subsequences](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/) (Hard) · Source: [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L29), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L30), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L31), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L32), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L33)</sub>
+
+### Q2. Subsequences satisfying a sum condition / hire K workers
+
+Described as basically a replica of "Number of Subsequences That Satisfy the Given Sum Condition". The poster later cited LC 857 (Minimum Cost to Hire K Workers) for this question.
+
+The full statement was not shared.
+
+<sub>Topics: Sorting, Heaps · Similar: [LeetCode 857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) (Hard) · Source: [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L29), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L30), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L31), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L32), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L33)</sub>
+
+### Q3. Minimum jumps via prime teleportation
+
+A stone-game-like variation. At each step there are 2 choices: jump to the next element, or, if currently on a prime number, jump to an index whose value is a multiple of (divisible by) that prime. The poster identified it as LC 3629, Minimum Jumps to Reach End via Prime Teleportation.
+
+The exact statement was not shared.
+
+<sub>Topics: Graphs, Math · Similar: [LeetCode 3629. Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) (Medium) · Source: [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L29), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L30), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L31), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L32), [chat, 28 Sep](../archive/teradata-oa/2026-09.jsonl#L33)</sub>
+
+### Q4. Minimum Jumps to Reach End via Prime Teleportation
 
 (LeetCode 3629) You are given an integer array nums of length n. You start at index 0 and your goal is to reach index n - 1. From any index i you may do one of these operations:  
 - Adjacent step: jump to index i + 1 or i - 1, if that index is within bounds.  
@@ -34,7 +59,7 @@ Link: https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-telepor
 
 <sub>Topics: Graphs, Math · Similar: [LeetCode 3629. Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) (Medium) · Source: [chat, 28 Sep](../archive/inter-iit/2026-09.jsonl#L9), [chat, 28 Sep](../archive/inter-nit/2026-09.jsonl#L177), [chat, 28 Sep](../archive/inter-nit/2026-09.jsonl#L80)</sub>
 
-### Q2. Minimum Cost to Hire K Workers
+### Q5. Minimum Cost to Hire K Workers
 
 (LeetCode 857) There are n workers. You are given two integer arrays quality and wage, where quality[i] is the quality of the i-th worker and wage[i] is that worker's minimum wage expectation. You want to hire exactly k workers to form a paid group. When you hire a group of k workers, you must pay them by these rules:  
 1. Each worker in the group is paid in proportion to their quality compared with the other workers in the group.  
@@ -48,6 +73,14 @@ Constraints: n == quality.length == wage.length, 1 &lt;= k &lt;= n &lt;= 10^4, 1
 Link: https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 
 <sub>Topics: Heaps, Greedy, Sorting · Similar: [LeetCode 857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) (Hard) · Source: [chat, 28 Sep](../archive/inter-iit/2026-09.jsonl#L9), [chat, 28 Sep](../archive/inter-nit/2026-09.jsonl#L177), [chat, 28 Sep](../archive/inter-nit/2026-09.jsonl#L80)</sub>
+
+## 2026-09-23 · NIT Warangal · Intern · SDE · Interview
+
+### Q1. Stock buy and sell with 2 transactions
+
+Stock buy and sell problem allowing at most 2 transactions (asked in the interview). The poster gave no further details.
+
+<sub>Topics: DP, Arrays · Similar: [LeetCode 123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) (Hard) · Source: [chat, 23 Sep](../archive/intern-2027/2026-09.jsonl#L10)</sub>
 
 ## 2026-09-21 · Unknown · Intern · SDE Intern · Interview
 
