@@ -145,3 +145,23 @@ def test_internship_drives_are_left_out(tmp_path):
     assert "HW intern" not in nvidia and "IIT Delhi" not in nvidia  # its repost goes too
     assert "**4 questions from 2 companies**" in (tmp_path / "README.md").read_text()
     assert not (tmp_path / "topics" / "circuits.md").exists()
+
+
+def test_site_data(tmp_path):
+    import json
+    vec = dict(q("9-1", "Amazon", "IIT Kharagpur", "2026-10-14", "Vector sum", ["Arrays"], src=[8],
+                 text="Given vector<int> v, use `vector<int>` and\n```\nvector<int> w;\n```"), md=True)
+    intern = dict(q("10-1", "Nvidia", "IIT Bombay", "2026-10-14", "Intern only", ["Circuits"]), role="intern")
+    build_site(ROWS + [vec, intern], MSGS, tmp_path, NOW, LOCS)
+    data = json.loads((tmp_path / "site" / "data.json").read_text())
+    assert data["updated"] == "15 Oct 2026"
+    qs = data["questions"]
+    assert [x["id"] for x in qs] == ["8-1", "9-1", "1-1", "1-2", "3-1"]  # newest drive first, Q1 first
+    assert "Intern only" not in json.dumps(data) and "Two sum again" not in json.dumps(data)
+    two = next(x for x in qs if x["id"] == "1-1")
+    assert two["also"] == "IIT Bombay (2026-10-13)" and two["role"] == "FTE" and two["r"] == "oa"
+    lc = next(x for x in qs if x["id"] == "8-1")["lc"]
+    assert lc["n"] == "3. Longest Substring Without Repeating Characters" and lc["d"] == "Medium"
+    v = next(x for x in qs if x["id"] == "9-1")["x"]  # < outside code is text; code is untouched
+    assert v == "Given vector&lt;int> v, use `vector<int>` and\n```\nvector<int> w;\n```"
+    assert "msr327.github.io/Arigatho" in (tmp_path / "README.md").read_text()

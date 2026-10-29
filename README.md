@@ -1,6 +1,8 @@
 # OA Questions Tracker
 
-**1459 questions from 99 companies** · shared by students of 43 colleges · updated 29 Oct 2026, 19:39
+**1459 questions from 99 companies** · shared by students of 43 colleges · updated 29 Oct 2026, 22:13
+
+**Website: [msr327.github.io/Arigatho](https://msr327.github.io/Arigatho/)**, to search every company and question at once.
 
 **Find a company** in the list below, or press Ctrl+F (⌘F on a Mac) and type its name. Its page has every question asked there, newest first.
 

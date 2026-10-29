@@ -30,7 +30,7 @@ done
 /usr/bin/caffeinate -i $PY -m oa.sort
 $PY -m oa.build
 
-git add -A archive data companies topics README.md practice.md state.json
+git add -A archive data companies topics site README.md practice.md state.json
 if ! git diff --cached --quiet; then
   git commit -q -m "Update $(date +%F)"
 fi

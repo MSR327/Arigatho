@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Arigatho · OA questions by company</title>
+<meta name="description" content="Online-assessment and interview questions from campus placement drives, by company.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><circle cx='8' cy='8' r='6' fill='%23d97757'/></svg>">
+<style>
+  :root {
+    --bg: #faf9f5; --surface: #ffffff; --text: #141413; --muted: #6b6a64;
+    --border: #e8e6dc; --soft: #f0eee6; --accent: #d97757; --accent-dark: #b4532f;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    --serif: ui-serif, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    --mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.6 var(--sans); }
+  .wrap { max-width: 780px; margin: 0 auto; padding: 0 16px; }
+  a { color: inherit; }
+
+  header { position: sticky; top: 0; z-index: 1; background: var(--bg); border-bottom: 1px solid var(--border); }
+  header .wrap { display: flex; align-items: center; gap: 16px; padding-top: 12px; padding-bottom: 12px; }
+  .brand { font: 600 21px/1 var(--serif); text-decoration: none; white-space: nowrap; }
+  .brand::before { content: ""; display: inline-block; width: 9px; height: 9px; margin: 0 7px 2px 0;
+                   border-radius: 50%; background: var(--accent); }
+  #q { flex: 1; min-width: 0; font: inherit; padding: 8px 14px; color: var(--text); background: var(--surface);
+       border: 1px solid var(--border); border-radius: 10px; outline: none; }
+  #q::-webkit-search-cancel-button { filter: grayscale(1); }
+  #q:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgb(217 119 87 / .15); }
+
+  h1 { font: 600 30px/1.2 var(--serif); margin: 26px 0 6px; }
+  h2 { font: 600 12px/1 var(--sans); letter-spacing: .07em; text-transform: uppercase; color: var(--muted);
+       margin: 28px 0 10px; }
+  .meta { color: var(--muted); font-size: 14px; }
+  .crumb { margin: 22px 0 0; font-size: 14px; }
+  .crumb a { color: var(--muted); text-decoration: none; }
+  .crumb a:hover { color: var(--accent-dark); }
+
+  /* home: A-Z companies */
+  .az { columns: 3 210px; column-gap: 28px; margin-top: 18px; }
+  .az section { break-inside: avoid; margin-bottom: 16px; }
+  .az b { display: block; font: 600 15px var(--serif); color: var(--accent); margin-bottom: 2px; }
+  .az a { display: flex; justify-content: space-between; gap: 8px; padding: 2px 0; text-decoration: none; }
+  .az a:hover span:first-child { color: var(--accent-dark); text-decoration: underline; }
+  .n { color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; }
+
+  /* search results */
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip { padding: 4px 12px; background: var(--surface); border: 1px solid var(--border); border-radius: 999px;
+          text-decoration: none; }
+  .chip:hover { border-color: var(--accent); }
+  .row { display: block; padding: 10px 0; border-bottom: 1px solid var(--border); text-decoration: none; }
+  .row span { display: block; }
+  .row:hover span:first-child { color: var(--accent-dark); }
+
+  /* company: questions */
+  .tools { margin: 14px 0 0; }
+  button { font: inherit; font-size: 14px; color: var(--text); background: var(--surface); cursor: pointer;
+           border: 1px solid var(--border); border-radius: 8px; padding: 4px 12px; }
+  button:hover { border-color: var(--accent); }
+  .drive { margin: 28px 0 2px; font-size: 13px; font-weight: 600; color: var(--muted); }
+  .q { border-bottom: 1px solid var(--border); scroll-margin-top: 76px; }
+  .q summary { display: flex; align-items: baseline; gap: 10px; padding: 9px 0; cursor: pointer; list-style: none; }
+  .q summary::-webkit-details-marker { display: none; }
+  .q summary::before { content: "›"; flex: none; width: 10px; color: var(--accent); font-weight: 700;
+                       transition: transform .15s; }
+  .q[open] summary::before { transform: rotate(90deg); }
+  .q summary span:first-of-type { flex: 1; }
+  .q summary:hover span:first-of-type { color: var(--accent-dark); }
+  .tags { flex: none; max-width: 40%; text-align: right; color: var(--muted); font-size: 13px; }
+  .body { padding: 0 0 16px 20px; overflow-wrap: anywhere; }
+  .body > :first-child { margin-top: 0; }
+  .body pre { padding: 12px 14px; overflow-x: auto; background: var(--soft); border-radius: 8px;
+              font: 13.5px/1.5 var(--mono); }
+  .body code { font-family: var(--mono); font-size: .9em; background: var(--soft); padding: .1em .35em;
+               border-radius: 4px; }
+  .body pre code { padding: 0; background: none; font-size: inherit; }
+  .body table { display: block; overflow-x: auto; border-collapse: collapse; }
+  .body th, .body td { padding: 4px 10px; border: 1px solid var(--border); }
+  .body img { max-width: 100%; }
+  .plain { white-space: pre-wrap; }
+
+  footer { margin-top: 56px; padding-bottom: 36px; }
+  @media (max-width: 560px) { .tags { display: none; } h1 { font-size: 26px; } .brand { font-size: 19px; } }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="brand" href="#/">Arigatho</a>
+  <input id="q" type="search" placeholder="Company or question" aria-label="Search" autocomplete="off">
+</div></header>
+<main class="wrap"><p class="meta" style="margin-top:26px">Loading…</p></main>
+<footer class="wrap"><p class="meta">Questions shared by students in OAHelper placement groups, sorted daily.
+  Internship drives are left out. <a href="https://github.com/MSR327/Arigatho">Source on GitHub</a></p></footer>
+
+<script src="vendor/marked.min.js"></script>
+<script src="vendor/purify.min.js"></script>
+<script>
+const main = document.querySelector("main"), q = document.getElementById("q");
+const companies = new Map(), byId = new Map();
+let questions = [], updated = "";
+
+const esc = s => String(s).replace(/[&<>"']/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"})[c]);
+const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || "unknown";
+const day = iso => new Date(iso + "T00:00:00").toLocaleDateString("en-GB", {day: "numeric", month: "short", year: "numeric"});
+const known = v => v && v !== "Unknown";
+const plural = (n, w) => `${n.toLocaleString("en-IN")} ${w}${n === 1 ? "" : "s"}`;
+
+fetch("data.json").then(r => r.json()).then(d => {
+  questions = d.questions; updated = d.updated;
+  for (const x of questions) {
+    x.s = slug(x.c);
+    x.hay = [x.c, x.t, x.x, x.col, x.pos, x.tp.join(" ")].join(" ").toLowerCase();
+    if (!companies.has(x.s)) companies.set(x.s, {name: x.c, slug: x.s, qs: []});
+    companies.get(x.s).qs.push(x);
+    byId.set(x.id, x);
+  }
+  render();
+}).catch(() => { main.innerHTML = '<p class="meta" style="margin-top:26px">Could not load the questions. Refresh to try again.</p>'; });
+
+function render() {
+  const term = q.value.trim().toLowerCase();
+  if (term) return results(term.split(/\s+/));
+  const [, view, s, id] = location.hash.split("/");  // #/c/<company>/<question>
+  if (view === "c" && companies.has(s)) return company(companies.get(s), id);
+  home();
+}
+
+function home() {
+  document.title = "Arigatho · OA questions by company";
+  const letters = new Map();
+  for (const c of [...companies.values()].sort((a, b) => a.name.localeCompare(b.name, "en", {sensitivity: "base"}))) {
+    const L = /[a-z]/i.test(c.name[0]) ? c.name[0].toUpperCase() : "0–9";
+    if (!letters.has(L)) letters.set(L, []);
+    letters.get(L).push(c);
+  }
+  main.innerHTML = `<h1>OA questions, by company</h1>
+    <p class="meta">${plural(questions.length, "question")} from ${companies.size} companies · updated ${esc(updated)}</p>
+    <div class="az">${[...letters].map(([L, cs]) => `<section><b>${L}</b>${cs.map(c =>
+      `<a href="#/c/${c.slug}"><span>${esc(c.name)}</span><span class="n">${c.qs.length}</span></a>`).join("")}</section>`).join("")}</div>`;
+}
+
+function results(words) {
+  const cs = [...companies.values()].filter(c => words.every(w => c.name.toLowerCase().includes(w)));
+  const hits = questions.filter(x => words.every(w => x.hay.includes(w)));
+  main.innerHTML = (cs.length ? `<h2>Companies</h2><div class="chips">${cs.map(c =>
+      `<a class="chip" href="#/c/${c.slug}">${esc(c.name)} <span class="n">${c.qs.length}</span></a>`).join("")}</div>` : "")
+    + `<h2>${hits.length ? plural(hits.length, "question") : "No questions match"}</h2>`
+    + hits.slice(0, 200).map(x => `<a class="row" href="#/c/${x.s}/${x.id}"><span>${esc(x.t)}</span>
+        <span class="meta">${[x.c, x.col].filter(known).map(esc).join(" · ")} · ${day(x.d)}</span></a>`).join("")
+    + (hits.length > 200 ? '<p class="meta">Showing the newest 200. Add a word to narrow it down.</p>' : "");
+}
+
+function company(c, open) {
+  document.title = `${c.name} · Arigatho`;
+  const drives = new Map(), topics = new Map();
+  for (const x of c.qs) {
+    const k = [x.d, x.col, x.role, x.pos, x.r].join("|");
+    if (!drives.has(k)) drives.set(k, []);
+    drives.get(k).push(x);
+    for (const t of x.tp) topics.set(t, (topics.get(t) || 0) + 1);
+  }
+  const top = [...topics].sort((a, b) => b[1] - a[1]).slice(0, 5).map(([t]) => esc(t));
+  main.innerHTML = `<p class="crumb"><a href="#/">← All companies</a></p>
+    <h1>${esc(c.name)}</h1>
+    <p class="meta">${plural(c.qs.length, "question")} · ${plural(drives.size, "drive")} · latest ${day(c.qs[0].d)}${top.length ? " · mostly " + top.join(", ") : ""}</p>
+    <p class="tools"><button type="button" id="all">Open all</button></p>`
+    + [...drives.values()].map(xs => {
+      const x = xs[0], rnd = {interview: "Interview", other: "Other round"}[x.r];
+      return `<div class="drive">${[day(x.d), x.col, x.role, x.pos, rnd].filter(known).map(esc).join(" · ")}</div>`
+        + xs.map(y => `<details class="q" id="q-${esc(y.id)}"><summary><span>${esc(y.t)}</span>
+            <span class="tags">${y.tp.map(esc).join(" · ")}</span></summary><div class="body"></div></details>`).join("");
+    }).join("");
+
+  const all = [...main.querySelectorAll("details.q")];
+  for (const d of all) d.addEventListener("toggle", () => {
+    if (!d.open) return;
+    fill(d);
+    if (all.length < 2 || !all.every(e => e.open)) history.replaceState(null, "", `#/c/${c.slug}/${d.id.slice(2)}`);
+  });
+  const btn = document.getElementById("all");
+  btn.onclick = () => {
+    const opening = btn.textContent === "Open all";
+    all.forEach(d => { d.open = opening; });
+    btn.textContent = opening ? "Close all" : "Open all";
+  };
+  const target = open && document.getElementById("q-" + open);
+  if (target) { target.open = true; target.scrollIntoView({block: "start"}); } else window.scrollTo(0, 0);
+}
+
+function fill(d) {
+  const body = d.querySelector(".body");
+  if (body.dataset.done) return;
+  body.dataset.done = "1";
+  const x = byId.get(d.id.slice(2));
+  const extra = [
+    x.lc && `Similar: <a href="${esc(x.lc.u)}" target="_blank" rel="noopener">LeetCode ${esc(x.lc.n)}</a> (${esc(x.lc.d)})`,
+    x.also && `Also asked at ${esc(x.also)}`,
+  ].filter(Boolean);
+  const text = window.marked && window.DOMPurify
+    ? DOMPurify.sanitize(marked.parse(x.x))
+    : `<div class="plain">${esc(x.x)}</div>`;  // the libraries failed to load: plain text still reads fine
+  body.innerHTML = text + (extra.length ? `<p class="meta">${extra.join(" · ")}</p>` : "");
+}
+
+window.addEventListener("hashchange", () => { q.value = ""; render(); });
+q.addEventListener("input", render);
+main.addEventListener("click", e => {  // a result for the page already in the address bar: no hashchange fires
+  const a = e.target.closest('a[href^="#/"]');
+  if (a && a.getAttribute("href") === location.hash) { q.value = ""; render(); }
+});
+document.addEventListener("keydown", e => {
+  if (e.key === "/" && document.activeElement !== q) { e.preventDefault(); q.focus(); }
+  if (e.key === "Escape" && document.activeElement === q) { q.value = ""; render(); }
+});
+</script>
+</body>
+</html>

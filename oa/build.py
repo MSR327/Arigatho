@@ -239,6 +239,37 @@ def _practice_page(originals, dups, q_link):
     return "\n".join(out) + "\n"
 
 
+INLINE_CODE = re.compile(r"(`+[^`]*?`+)")
+SITE_URL = "https://msr327.github.io/Arigatho/"
+
+
+def _site_text(row):
+    """Question Markdown for the website: as on GitHub, except that a bare < outside code is
+    text (the site would otherwise take `vector<int>` for an HTML tag and drop it)."""
+    parts = FENCE.split(format_text(row))
+    for i in range(0, len(parts), 2):
+        bits = INLINE_CODE.split(parts[i])
+        bits[::2] = [b.replace("<", "&lt;") for b in bits[::2]]
+        parts[i] = "".join(bits)
+    return "".join(parts)
+
+
+def _site_data(originals, dups, now):
+    """site/data.json: one entry per question, newest drive first, Q1, Q2... within a drive.
+    Short keys: the browser downloads the whole file once and searches it."""
+    rows = sorted(sorted(originals, key=lambda r: r["qid"]), key=lambda r: r["date"], reverse=True)
+    qs = []
+    for r in rows:
+        lc = r.get("leetcode")
+        qs.append({"id": r["qid"], "c": r["company"], "t": r["title"], "x": _site_text(r),
+                   "d": r["date"], "col": r["college"], "role": _role(r["role"]),
+                   "pos": r.get("position") or "", "r": r.get("round") or "oa", "tp": r["topics"],
+                   "lc": {"n": f"{lc['id']}. {lc['title']}", "u": leetcode.url(lc),
+                          "d": lc["difficulty"]} if lc else None,
+                   "also": _also(dups[r["qid"]]) if dups.get(r["qid"]) else ""})
+    return {"updated": f"{now:%-d %b %Y}", "questions": qs}
+
+
 def build_site(rows, messages, out, now, locs=None, groups=None):
     locs = locs or {}
     # placements only: internship drives stay in the data but are left off the pages
@@ -274,6 +305,9 @@ def build_site(rows, messages, out, now, locs=None, groups=None):
     for topic, rs in by_topic.items():
         (out / "topics" / f"{slug(topic)}.md").write_text(_topic_page(topic, rs, q_link))
     (out / "practice.md").write_text(_practice_page(originals, dups, q_link))
+    (out / "site").mkdir(exist_ok=True)  # the website; site/index.html is written by hand
+    (out / "site" / "data.json").write_text(
+        json.dumps(_site_data(originals, dups, now), ensure_ascii=False, separators=(",", ":")))
 
     # README: the company list comes first; everything else is below it
     week_ago = (now - timedelta(days=7)).date().isoformat()
@@ -288,6 +322,8 @@ def build_site(rows, messages, out, now, locs=None, groups=None):
     md = ["# OA Questions Tracker", "",
           f"**{len(originals)} questions from {len(by_company)} companies** · shared by students of "
           f"{len(colleges)} colleges · updated {now:%-d %b %Y, %H:%M}", "",
+          f"**Website: [{SITE_URL.split('//')[1].rstrip('/')}]({SITE_URL})**, to search every "
+          "company and question at once.", "",
           "**Find a company** in the list below, or press Ctrl+F (⌘F on a Mac) and type its name. "
           "Its page has every question asked there, newest first.", "",
           "[Companies](#companies) · [New this week](#new-this-week) · [Topics](#topics) · "
