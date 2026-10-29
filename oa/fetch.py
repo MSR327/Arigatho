@@ -192,6 +192,17 @@ def login(page, interactive):
         page.remove_listener("request", grab)
 
 
+def read_group(read, relogin):
+    """read() one group. The site's login only lasts so long and can run out mid-run (29 Oct:
+    every group after the 140th got HTTP 401): log in again and retry, once."""
+    try:
+        return read()
+    except LoggedOut:
+        log("logged out mid-run; logging in again")
+        relogin()
+        return read()
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--setup", action="store_true", help="log in by hand once and save to Keychain")
@@ -235,8 +246,10 @@ def main(argv=None):
                 if slug not in ids:
                     raise RuntimeError(f"not a member of group {slug!r}; join it on oahelper.in")
                 try:
-                    new = fetch_group(client, archive, state, slug, ids[slug], BACKFILL_FROM,
-                                      save=lambda: save_state(STATE, state), max_pages=args.max_pages)
+                    new = read_group(
+                        lambda: fetch_group(client, archive, state, slug, ids[slug], BACKFILL_FROM,
+                                            save=lambda: save_state(STATE, state), max_pages=args.max_pages),
+                        lambda: login(page, interactive=not args.headless))
                 except LoggedOut:
                     raise
                 except Exception as e:  # one group's trouble must not stop the others

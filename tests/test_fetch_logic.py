@@ -1,5 +1,27 @@
-from oa.fetch import download_attachments, fetch_group
+import pytest
+
+from oa.fetch import LoggedOut, download_attachments, fetch_group, read_group
 from oa.store import Archive
+
+
+def test_read_group_logs_in_again_once_when_the_login_runs_out():
+    logins, answers = [], iter([LoggedOut("HTTP 401"), ["m1"]])
+
+    def read():
+        a = next(answers)
+        if isinstance(a, Exception):
+            raise a
+        return a
+
+    assert read_group(read, lambda: logins.append(1)) == ["m1"]
+    assert logins == [1]
+
+    def always_out():
+        raise LoggedOut("HTTP 401")
+
+    with pytest.raises(LoggedOut):  # still out after logging in: give up, don't loop
+        read_group(always_out, lambda: logins.append(1))
+    assert logins == [1, 1]
 
 
 def raw(i, day):

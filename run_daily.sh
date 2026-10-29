@@ -25,7 +25,8 @@ for i in {1..80}; do
   echo "$(date +%T) no network yet"; sleep 15
 done
 
-/usr/bin/caffeinate -i $PY -m oa.fetch --headless || exit 1
+# A failed fetch still leaves what it read, and any backlog, to sort
+/usr/bin/caffeinate -i $PY -m oa.fetch --headless || echo "fetch failed; sorting what is already saved"
 /usr/bin/caffeinate -i $PY -m oa.sort
 $PY -m oa.build
 
