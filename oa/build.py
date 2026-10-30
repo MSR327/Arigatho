@@ -97,8 +97,22 @@ def format_text(row):
     return "".join(parts)
 
 
-def _lc_link(lc):
-    return f"[LeetCode {lc['id']}. {lc['title']}]({leetcode.url(lc)}) ({lc['difficulty']})"
+HOW = {"similar": "Similar", "same": "Same problem", "variant": "Close variant", "idea": "Same idea"}
+
+
+def practice(r):
+    """The question's practice problem: its LeetCode match from sorting (the same problem or a
+    close variant), else the nearest problem found later on any practice site; None if neither."""
+    lc = r.get("leetcode")
+    if lc:
+        return {"name": f"LeetCode {lc['id']}. {lc['title']}", "short": f"LC {lc['id']}",
+                "url": leetcode.url(lc), "level": lc["difficulty"], "how": "similar", "why": ""}
+    return r.get("nearest")
+
+
+def _practice_text(p):
+    out = f"{HOW[p['how']]}: [{label(p['name'])}]({p['url']})" + (f" ({p['level']})" if p["level"] else "")
+    return out + (f", {label(p['why']).replace('<', '&lt;')}" if p["why"] else "")
 
 
 def _sources(row, messages, locs, prefix):
@@ -160,7 +174,7 @@ def _company_page(company, rows, sightings, dups, messages, locs):
     order = sorted(drives, key=lambda k: (k[0], k[1]), reverse=True)
     colleges = sorted({r["college"] for r in sightings} - {"Unknown"})
     topics = Counter(t for r in rows for t in r["topics"]).most_common()
-    lc = sum(1 for r in rows if r.get("leetcode"))
+    lc = sum(1 for r in rows if practice(r))
 
     seen = Counter()
     gh_anchor(company, seen)  # the page title takes the first anchor of its own text
@@ -173,8 +187,8 @@ def _company_page(company, rows, sightings, dups, messages, locs):
             heading = f"Q{i}. {r['title']}"
             q_anchor[r["qid"]] = gh_anchor(heading, seen)
             meta = [f"Topics: {', '.join(r['topics'])}"]
-            if r.get("leetcode"):
-                meta.append(f"Similar: {_lc_link(r['leetcode'])}")
+            if practice(r):
+                meta.append(_practice_text(practice(r)))
             meta.append(f"Source: {_sources(r, messages, locs, '../')}")
             if dups.get(r["qid"]):
                 meta.append(f"Also asked at: {_also(dups[r['qid']])}")
@@ -184,7 +198,7 @@ def _company_page(company, rows, sightings, dups, messages, locs):
     stats = (f"**{_plural(len(rows), 'question')}** · {_plural(len(drives), 'drive')} · "
              f"latest {_day(max(r['date'] for r in sightings))}")
     if lc:
-        stats += f" · [{lc} LeetCode match{'' if lc == 1 else 'es'}](../practice.md)"
+        stats += f" · [{_plural(lc, 'practice problem')}](../practice.md)"
     asks = " · ".join(f"[{t}](../topics/{slug(t)}.md) {n}" for t, n in topics[:8])
     head = [f"# {company}", "", stats + " · [← all companies](../README.md#companies)", "",
             f"**Asks about:** {asks}" + (f" · +{len(topics) - 8} more" if len(topics) > 8 else "") + "  "]
@@ -202,41 +216,51 @@ def _company_page(company, rows, sightings, dups, messages, locs):
 
 def _topic_page(topic, rows, q_link):
     companies = {r["company"] for r in rows}
-    has_lc = any(r.get("leetcode") for r in rows)
+    has_lc = any(practice(r) for r in rows)
+    idea = any((practice(r) or {}).get("how") == "idea" for r in rows)
     out = [f"# {topic}", "",
            f"{_plural(len(rows), 'question')} from {_plural(len(companies), 'company')}, newest first. "
-           f"[← all topics](../README.md#topics)", "",
-           "| Date | Company | College | Question |" + (" LeetCode |" if has_lc else ""),
+           + ("≈ marks a practice problem with the same idea rather than the same problem. " if idea else "")
+           + "[← all topics](../README.md#topics)", "",
+           "| Date | Company | College | Question |" + (" Practise |" if has_lc else ""),
            "|---|---|---|---|" + ("---|" if has_lc else "")]
     for r in sorted(rows, key=lambda r: (r["date"], r["qid"]), reverse=True):
         line = (f"| {r['date']} | [{cell(r['company'])}](../companies/{slug(r['company'])}.md) "
                 f"| {cell(r['college'])} | [{cell(r['title'])}](../{q_link[r['qid']]}) |")
         if has_lc:
-            lc = r.get("leetcode")
-            line += f" [{lc['id']}]({leetcode.url(lc)}) {lc['difficulty']} |" if lc else " |"
+            p = practice(r)
+            mark = "≈ " if p and p["how"] == "idea" else ""
+            line += f" {mark}[{cell(p['short'])}]({p['url']}) {p['level']}".rstrip() + " |" if p else " |"
         out.append(line)
     return "\n".join(out) + "\n"
 
 
 def _practice_page(originals, dups, q_link):
-    by_problem = defaultdict(list)
+    close, idea = defaultdict(list), defaultdict(list)
     for r in originals:
-        if r.get("leetcode"):
-            by_problem[r["leetcode"]["id"]].append(r)
-    out = ["# LeetCode practice list", "",
-           "OA questions that are the same as (or a close variant of) a LeetCode problem. Each "
-           "match was checked against LeetCode's own problem list. Most-asked first.", "",
+        p = practice(r)
+        if p:
+            (idea if p["how"] == "idea" else close)[p["url"]].append((r, p))
+    out = ["# Practice list", "",
+           "For each OA coding question, the nearest problem on a practice site (LeetCode, "
+           "GeeksforGeeks, Codeforces, CSES, AtCoder, HackerRank or CodeChef). Every one was "
+           "checked against the site's own problem list or page. Most-asked first.", "",
            "[← back](README.md)", ""]
-    if not by_problem:
+    if not close and not idea:
         return "\n".join(out + ["No matches yet."]) + "\n"
-    times = lambda rs: sum(1 + len(dups.get(r["qid"], [])) for r in rs)
-    out += ["| LeetCode | Difficulty | Asked by | Times seen |", "|---|---|---|---|"]
-    for pid, rs in sorted(by_problem.items(), key=lambda kv: (-times(kv[1]), kv[0])):
-        lc = rs[0]["leetcode"]
-        asked = ", ".join(f"[{cell(r['company'])}]({q_link[r['qid']]}) ({cell(r['college'])})" for r in rs)
-        out.append(f"| [{lc['id']}. {cell(lc['title'])}]({leetcode.url(lc)}) | {lc['difficulty']} "
-                   f"| {asked} | {times(rs)} |")
-    return "\n".join(out) + "\n"
+    times = lambda items: sum(1 + len(dups.get(r["qid"], [])) for r, _ in items)
+    for title, problems in (("Same problem or a close variant", close),
+                            ("Same idea, different problem", idea)):
+        if not problems:
+            continue
+        out += [f"## {title}", "", "| Problem | Level | Asked by | Times seen |", "|---|---|---|---|"]
+        for url, items in sorted(problems.items(), key=lambda kv: (-times(kv[1]), kv[1][0][1]["name"])):
+            p = items[0][1]
+            asked = ", ".join(f"[{cell(r['company'])}]({q_link[r['qid']]}) ({cell(r['college'])})"
+                              for r, _ in items)
+            out.append(f"| [{cell(p['name'])}]({url}) | {p['level'] or '-'} | {asked} | {times(items)} |")
+        out.append("")
+    return "\n".join(out)
 
 
 INLINE_CODE = re.compile(r"(`+[^`]*?`+)")
@@ -260,12 +284,12 @@ def _site_data(originals, dups, now):
     rows = sorted(sorted(originals, key=lambda r: r["qid"]), key=lambda r: r["date"], reverse=True)
     qs = []
     for r in rows:
-        lc = r.get("leetcode")
+        p = practice(r)
         qs.append({"id": r["qid"], "c": r["company"], "t": r["title"], "x": _site_text(r),
                    "d": r["date"], "col": r["college"], "role": _role(r["role"]),
                    "pos": r.get("position") or "", "r": r.get("round") or "oa", "tp": r["topics"],
-                   "lc": {"n": f"{lc['id']}. {lc['title']}", "u": leetcode.url(lc),
-                          "d": lc["difficulty"]} if lc else None,
+                   "lc": {"k": HOW[p["how"]], "n": p["name"], "u": p["url"], "d": p["level"],
+                          "w": p["why"]} if p else None,
                    "also": _also(dups[r["qid"]]) if dups.get(r["qid"]) else ""})
     return {"updated": f"{now:%-d %b %Y}", "questions": qs}
 
@@ -327,7 +351,7 @@ def build_site(rows, messages, out, now, locs=None, groups=None):
           "**Find a company** in the list below, or press Ctrl+F (⌘F on a Mac) and type its name. "
           "Its page has every question asked there, newest first.", "",
           "[Companies](#companies) · [New this week](#new-this-week) · [Topics](#topics) · "
-          "[LeetCode practice list](practice.md) · [Colleges](#colleges) · [About](#about)", "",
+          "[Practice list](practice.md) · [Colleges](#colleges) · [About](#about)", "",
           "## Companies", "", "| A–Z | Company (questions) |", "|---|---|"]
     for letter in sorted(letters, key=lambda l: (l == "0–9", l)):
         md.append(f"| **{letter}** | " + " · ".join(

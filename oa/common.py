@@ -16,6 +16,7 @@ LOGS = ROOT / "logs"
 PROFILE = ROOT / "chrome_profile"
 PROMPTS = ROOT / "prompts"
 LEETCODE = DATA / "leetcode.jsonl"
+CACHE = ROOT / "cache"  # other practice sites' problem lists, downloaded again when old
 GITHUB_REPO = "MSR327/Arigatho"
 
 BASE_URL = "https://www.oahelper.in"
@@ -28,8 +29,9 @@ BACKFILL_FROM = "2026-07-20"
 REQUEST_GAP = 1.0  # seconds between requests to oahelper.in
 BATCH_SIZE = 40  # messages per claude -p call
 # Cheapest model that does each job well, to spare the Claude plan: sorting reads screenshots and
-# whole conversations; matching reposts and re-tagging are simple text comparisons.
-MODELS = {"sort": "sonnet", "dedupe": "haiku", "enrich": "haiku"}
+# whole conversations; matching reposts and re-tagging are simple text comparisons; naming the
+# nearest practice problem needs a wide memory of problem sets.
+MODELS = {"sort": "sonnet", "dedupe": "haiku", "enrich": "haiku", "nearest": "sonnet"}
 # Stop starting claude calls once this share of the plan's 5-hour window is used, so the user
 # keeps the rest for themselves; the run stops cleanly and the next one continues.
 RESERVE_FROM = 0.90

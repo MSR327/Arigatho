@@ -196,7 +196,8 @@ function fill(d) {
   body.dataset.done = "1";
   const x = byId.get(d.id.slice(2));
   const extra = [
-    x.lc && `Similar: <a href="${esc(x.lc.u)}" target="_blank" rel="noopener">LeetCode ${esc(x.lc.n)}</a> (${esc(x.lc.d)})`,
+    x.lc && `${esc(x.lc.k)}: <a href="${esc(x.lc.u)}" target="_blank" rel="noopener">${esc(x.lc.n)}</a>`
+      + (x.lc.d ? ` (${esc(x.lc.d)})` : "") + (x.lc.w ? `, ${esc(x.lc.w)}` : ""),
     x.also && `Also asked at ${esc(x.also)}`,
   ].filter(Boolean);
   const text = window.marked && window.DOMPurify

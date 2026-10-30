@@ -8,10 +8,10 @@ import sys
 from collections import Counter
 from datetime import date, datetime
 
-from oa import leetcode
+from oa import leetcode, sites as practice_sites
 from oa.common import (ARCHIVE, BATCH_SIZE, COLLEGE_ALIASES, COMPANY_ALIASES, LOGS, MODELS, PROMPTS,
-                       QUESTIONS, RESERVE_FROM, ROOT, STATE, TOPICS, append_jsonl, canonical, load_groups, log,
-                       notify, read_jsonl, short_error, skip_group)
+                       QUESTIONS, RESERVE_FROM, ROOT, STATE, TOPIC_GROUPS, TOPICS, append_jsonl, canonical,
+                       load_groups, log, notify, read_jsonl, short_error, skip_group)
 from oa.store import Archive, attachment_relpath, load_state, save_state
 
 REV = 2  # rows sorted or enriched with the v2 topic list and LeetCode matching
@@ -398,6 +398,70 @@ def enrich(path=QUESTIONS, runner=None, problems=None, batch_size=ENRICH_BATCH, 
     return done
 
 
+NEAREST_BATCH = 25  # questions per claude -p call when finding practice problems
+CODING = set(TOPIC_GROUPS["DSA"]) | {"SQL"}  # topics whose questions get a practice problem
+
+NEAREST_SCHEMA = {
+    "type": "object",
+    "properties": {"items": {"type": "array", "items": {
+        "type": "object",
+        "properties": {
+            "qid": {"type": "string"},
+            "problem": {"anyOf": [{"type": "null"}, {
+                "type": "object",
+                "properties": {"site": {"enum": practice_sites.SITES}, "id": {"type": "string"},
+                               "title": {"type": "string"}, "how": {"enum": ["same", "variant", "idea"]},
+                               "why": {"type": "string"}},
+                "required": ["site", "id", "title", "how", "why"], "additionalProperties": False}]}},
+        "required": ["qid", "problem"], "additionalProperties": False}}},
+    "required": ["items"], "additionalProperties": False,
+}
+
+
+def build_nearest_prompt(rows):
+    qs = "\n\n".join(f"[{r['qid']}] {r['company']}: {r['title']}\n{r['text'][:1500]}" for r in rows)
+    return (PROMPTS / "nearest.md").read_text().format(sites=", ".join(practice_sites.SITES), questions=qs)
+
+
+def nearest_pending(path=QUESTIONS, runner=None, sites=None, batch_size=NEAREST_BATCH, limit=None):
+    """Give each coding question without a LeetCode match the nearest problem on a practice site.
+    A row gets "nearest": the problem (checked on the site), or None when there is none, so each
+    question is asked about once. Saves after every batch, so a usage-limit stop resumes here."""
+    runner = runner or (lambda prompt, schema: run_claude(prompt, schema, model=MODELS["nearest"]))
+    rows = read_jsonl(path)
+    todo = [r for r in rows if "nearest" not in r and not r["duplicate_of"] and r["role"] != "intern"
+            and not r.get("leetcode") and set(r["topics"]) & CODING]
+    if limit is not None:
+        todo = todo[:limit]
+    if not todo:
+        return 0
+    sites = sites or practice_sites.load()
+    found = 0
+    for i in range(0, len(todo), batch_size):
+        batch = todo[i:i + batch_size]
+        try:
+            items = runner(build_nearest_prompt(batch), NEAREST_SCHEMA)["items"]
+        except UsageLimit:
+            raise
+        except (ClaudeError, KeyError, TypeError) as e:
+            log(f"nearest batch {i // batch_size + 1} failed: {short_error(e)}")
+            continue
+        picks = {it.get("qid"): it.get("problem") for it in items}
+        for r in batch:
+            pick = picks.get(r["qid"])
+            try:
+                p = sites.check(pick) if pick else None
+            except practice_sites.Unreachable as e:  # asked again next run
+                log(f"nearest {r['qid']}: {short_error(e)}")
+                continue
+            r["nearest"] = dict(p, how=pick["how"], why=pick["why"].strip()[:100]) if p else None
+            found += bool(p)
+        write_rows(path, rows)
+        log(f"nearest batch {i // batch_size + 1}: {min(i + batch_size, len(todo))}/{len(todo)} "
+            f"questions checked, {found} with a practice problem")
+    return found
+
+
 def schedule_resume(stopped):
     """After a usage-limit stop, ask resume.sh to rerun just after the window resets."""
     marker = LOGS / "resume_at"
@@ -417,7 +481,16 @@ def main(argv=None):
                     help="one-off: normalise names and re-check every question for reposts")
     ap.add_argument("--enrich", action="store_true",
                     help="re-tag existing questions with the current topics and LeetCode matches")
+    ap.add_argument("--nearest", action="store_true",
+                    help="only find practice problems for questions that have none yet")
     args = ap.parse_args(argv)
+    if args.nearest:
+        try:
+            n = nearest_pending(limit=args.limit)
+            log(f"nearest: {n} questions got a practice problem")
+        except UsageLimit as e:
+            log(f"nearest stopped early (usage limit); run it again later: {e}")
+        return 0
     if args.enrich:
         try:
             n = enrich(problems=leetcode.load(), limit=args.limit)
@@ -442,6 +515,7 @@ def main(argv=None):
         sort_pending(archive, state, limit=args.limit,
                      save=lambda: save_state(STATE, state), problems=leetcode.load())
         dedupe_pending()  # this run's new rows
+        nearest_pending()  # and their practice problems
     except UsageLimit as e:  # every later call would hit it too
         stopped = str(e)[:80]
         log(f"stopped early: {e}")

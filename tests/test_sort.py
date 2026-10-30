@@ -408,3 +408,44 @@ def test_sort_pending_leaves_internship_groups_unsorted(tmp_path, monkeypatch):
                  batch_size=10, questions_path=tmp_path / "q.jsonl")
     assert len(prompts) == 1 and "[2] " in prompts[0] and "[1] " not in prompts[0]
     assert sorted(state["sorted_ids"]) == [2, 4]  # not marked done, so this can be undone
+
+
+def test_nearest_pending(tmp_path):
+    from oa import sites
+    from oa.sort import nearest_pending, write_rows
+    path = tmp_path / "q.jsonl"
+    base = {"company": "Amazon", "college": "IIT BHU", "date": "2026-10-25", "role": "fte", "text": "t",
+            "source_ids": [1], "duplicate_of": None, "leetcode": None, "topics": ["Arrays"]}
+    write_rows(path, [dict(base, qid="1-1", title="Kth missing"),
+                      dict(base, qid="1-2", title="Invented"),
+                      dict(base, qid="1-3", title="Skipped by Claude"),
+                      dict(base, qid="1-4", title="GfG down"),
+                      dict(base, qid="2-1", title="Next batch"),
+                      dict(base, qid="3-1", title="MCQ", topics=["Aptitude"]),
+                      dict(base, qid="3-2", title="Has LeetCode", leetcode={"id": 1}),
+                      dict(base, qid="3-3", title="Repost", duplicate_of="1-1"),
+                      dict(base, qid="3-4", title="Intern", role="intern"),
+                      dict(base, qid="3-5", title="Done", nearest=None)])
+
+    def fetch(url):
+        raise sites.Unreachable(url)
+    cf = [{"id": "1352C", "title": "K-th Not Divisible by n", "url": "u", "name": "n", "short": "s", "level": ""}]
+    seen = []
+
+    def runner(prompt, schema):
+        seen.append(prompt)
+        if len(seen) == 1:
+            pick = lambda site, pid, title: {"site": site, "id": pid, "title": title, "how": "idea", "why": " bs "}
+            return {"items": [{"qid": "1-1", "problem": pick("Codeforces", "1352C", "K-th Not Divisible by n")},
+                              {"qid": "1-2", "problem": pick("Codeforces", "1C", "Made up")},
+                              {"qid": "1-4", "problem": pick("GeeksforGeeks", "x", "X")}]}
+        raise UsageLimit("You've hit your session limit")
+
+    with pytest.raises(UsageLimit):
+        nearest_pending(path, runner=runner, sites=sites.Sites({"Codeforces": cf}, fetch, gap=0), batch_size=4)
+    rows = {r["qid"]: r for r in read_jsonl(path)}
+    assert rows["1-1"]["nearest"] == dict(cf[0], site="Codeforces", how="idea", why="bs")
+    assert rows["1-2"]["nearest"] is None and rows["1-3"]["nearest"] is None  # checked: none
+    assert "nearest" not in rows["1-4"] and "nearest" not in rows["2-1"]  # asked again next run
+    assert "Kth missing" in seen[0] and "Next batch" in seen[1]
+    assert "[3-" not in "".join(seen)  # not coding, LeetCode match, repost, internship, already done

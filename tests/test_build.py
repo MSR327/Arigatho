@@ -84,12 +84,12 @@ def test_build_site(tmp_path):
     assert "- **Mon 12 Oct:** [Amazon](companies/amazon.md#2026-10-12--iit-kharagpur--fte) (2)" in new
     assert "Nvidia" not in new  # not this week
     assert "**DSA:** [Arrays](topics/arrays.md) 1 · [Strings](topics/strings.md) 1" in readme
-    assert "[LeetCode practice list](practice.md)" in readme
+    assert "[Practice list](practice.md)" in readme
     assert not (tmp_path / "companies" / "stale.md").exists()
 
     amazon = (tmp_path / "companies" / "amazon.md").read_text()
     assert amazon.startswith("# Amazon\n\n**3 questions** · 2 drives · latest 14 Oct 2026 · "
-                             "[1 LeetCode match](../practice.md)")
+                             "[1 practice problem](../practice.md)")
     assert "[Arrays](../topics/arrays.md) 1" in amazon and "**Seen at:** IIT Bombay, IIT Kharagpur" in amazon
     assert ("- [2026-10-12 · IIT Kharagpur · FTE](#2026-10-12--iit-kharagpur--fte)\n"
             "  - [Two sum](#q1-two-sum)\n  - [LRU](#q2-lru)") in amazon  # folded contents
@@ -108,10 +108,12 @@ def test_build_site(tmp_path):
     assert "[Amazon](../companies/amazon.md)" in topic
     assert "[Two sum](../companies/amazon.md#q1-two-sum)" in topic
     strings = (tmp_path / "topics" / "strings.md").read_text()
-    assert "[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium" in strings
+    assert "| [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |" in strings
+    assert "≈" not in strings  # no same-idea problems on this page, so no legend
 
     practice = (tmp_path / "practice.md").read_text()
-    assert ("| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/"
+    assert ("## Same problem or a close variant" in practice and "Same idea" not in practice)
+    assert ("| [LeetCode 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/"
             "longest-substring-without-repeating-characters/) | Medium | "
             "[Amazon](companies/amazon.md#q1-longest-unique-substring) (IIT Kharagpur) | 1 |") in practice
 
@@ -161,7 +163,43 @@ def test_site_data(tmp_path):
     two = next(x for x in qs if x["id"] == "1-1")
     assert two["also"] == "IIT Bombay (2026-10-13)" and two["role"] == "FTE" and two["r"] == "oa"
     lc = next(x for x in qs if x["id"] == "8-1")["lc"]
-    assert lc["n"] == "3. Longest Substring Without Repeating Characters" and lc["d"] == "Medium"
+    assert lc == {"k": "Similar", "n": "LeetCode 3. Longest Substring Without Repeating Characters",
+                  "u": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+                  "d": "Medium", "w": ""}
     v = next(x for x in qs if x["id"] == "9-1")["x"]  # < outside code is text; code is untouched
     assert v == "Given vector&lt;int> v, use `vector<int>` and\n```\nvector<int> w;\n```"
     assert "msr327.github.io/Arigatho" in (tmp_path / "README.md").read_text()
+
+
+CF = {"site": "Codeforces", "id": "1352C", "title": "K-th Not Divisible by n",
+      "url": "https://codeforces.com/problemset/problem/1352/C", "name": "Codeforces 1352C. K-th Not Divisible by n",
+      "short": "CF 1352C", "level": "rated 1200", "how": "idea", "why": "binary search on the answer"}
+
+
+def test_nearest_practice_problems(tmp_path):
+    import json
+    near = dict(q("9-1", "Amazon", "IIT Kharagpur", "2026-10-14", "Kth missing", ["Binary Search"], src=[8]),
+                nearest=CF)
+    same = dict(q("9-2", "Nvidia", "IIT Bombay", "2026-10-14", "Grid paths", ["DP"], src=[8]),
+                nearest=dict(CF, how="same", why="", level="", name="CSES: Grid Paths", short="CSES 1638",
+                             url="https://cses.fi/problemset/task/1638"))
+    none = dict(q("9-3", "Nvidia", "IIT Bombay", "2026-10-14", "Vague DP", ["DP"], src=[8]), nearest=None)
+    build_site(ROWS + [near, same, none], MSGS, tmp_path, NOW, LOCS)
+    amazon = (tmp_path / "companies" / "amazon.md").read_text()
+    assert "[2 practice problems](../practice.md)" in amazon
+    assert ("Same idea: [Codeforces 1352C. K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C)"
+            " (rated 1200), binary search on the answer") in amazon
+    assert "Same problem: [CSES: Grid Paths](https://cses.fi/problemset/task/1638) ·" in (
+        tmp_path / "companies" / "nvidia.md").read_text()  # no level, no reason: nothing dangling
+    topic = (tmp_path / "topics" / "binary-search.md").read_text()
+    assert "≈ marks a practice problem with the same idea" in topic
+    assert "| ≈ [CF 1352C](https://codeforces.com/problemset/problem/1352/C) rated 1200 |" in topic
+    assert "| [CSES 1638](https://cses.fi/problemset/task/1638) |" in (tmp_path / "topics" / "dp.md").read_text()
+    practice = (tmp_path / "practice.md").read_text()
+    close, idea = practice.split("## Same idea, different problem")
+    assert "[CSES: Grid Paths](https://cses.fi/problemset/task/1638) | - | [Nvidia]" in close
+    assert (f"| [Codeforces 1352C. K-th Not Divisible by n]({CF['url']}) | rated 1200 | [Amazon]") in idea
+    qs = {x["id"]: x for x in json.loads((tmp_path / "site" / "data.json").read_text())["questions"]}
+    assert qs["9-1"]["lc"] == {"k": "Same idea", "n": "Codeforces 1352C. K-th Not Divisible by n",
+                               "u": CF["url"], "d": "rated 1200", "w": "binary search on the answer"}
+    assert qs["9-3"]["lc"] is None
