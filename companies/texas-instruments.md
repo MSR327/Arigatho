@@ -1,13 +1,28 @@
 # Texas Instruments
 
-**68 questions** · 5 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
+**80 questions** · 8 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 20 · [Digital Electronics](../topics/digital-electronics.md) 14 · [Analog Electronics](../topics/analog-electronics.md) 12 · [Circuits](../topics/circuits.md) 12 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Signals & Systems](../topics/signals-systems.md) 4 · [OA Format](../topics/oa-format.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +2 more  
-**Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Hyderabad
+**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 22 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Signals & Systems](../topics/signals-systems.md) 4 · [OA Format](../topics/oa-format.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +3 more  
+**Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · Unknown · FTE](#2026-10-30--unknown--fte)
+  - [Digital Electronics topics](#q1-digital-electronics-topics)
+  - [CMOS & VLSI topics](#q2-cmos--vlsi-topics)
+  - [Verilog HDL topics](#q3-verilog-hdl-topics)
+  - [VLSI & EDA topics](#q4-vlsi--eda-topics)
+  - [Analog Electronics topics](#q5-analog-electronics-topics)
+- [2026-10-29 · IIT BHU · Unknown · Analog · Other round](#2026-10-29--iit-bhu--unknown--analog--other-round)
+  - [Op amp with DC and AC source output](#q1-op-amp-with-dc-and-ac-source-output)
+  - [Power factor with parallel capacitor](#q2-power-factor-with-parallel-capacitor)
+  - [Diode clipper with 1V and 2V sources, output waveform](#q3-diode-clipper-with-1v-and-2v-sources-output-waveform)
+- [2026-10-29 · IIT BHU · Unknown · Digital · Other round](#2026-10-29--iit-bhu--unknown--digital--other-round)
+  - [Number of cells in 16GB NAND flash](#q1-number-of-cells-in-16gb-nand-flash)
+  - [Clock cycles for memory access](#q2-clock-cycles-for-memory-access)
+  - [Critical path delay of a register circuit](#q3-critical-path-delay-of-a-register-circuit)
+  - [Implement a 4-bit BCD adder](#q4-implement-a-4-bit-bcd-adder)
 - [2026-10-28 · IIT BHU · Unknown · Embedded SW · Other round](#2026-10-28--iit-bhu--unknown--embedded-sw--other-round)
   - [Slowest and fastest implementation by memory section](#q1-slowest-and-fastest-implementation-by-memory-section)
   - [Identify the error in digit-reversal function](#q2-identify-the-error-in-digit-reversal-function)
@@ -85,6 +100,117 @@
 </details>
 
 ---
+
+## 2026-10-30 · Unknown · FTE
+
+### Q1. Digital Electronics topics
+
+Number Systems, Boolean Algebra, Logic Gates, K-Maps, Combinational Circuits, MUX/DEMUX, Encoders, Decoders, Adders, Subtractors, Flip-Flops, Latches, Counters, Registers, FSM, Setup Time, Hold Time, Metastability.
+
+(Only topics listed, no actual questions.)
+
+<sub>Topics: Digital Electronics · Source: [chat, 30 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L619)</sub>
+
+### Q2. CMOS & VLSI topics
+
+MOSFET, NMOS/PMOS, CMOS Inverter, CMOS Logic Gates, MOSFET Operating Regions, Threshold Voltage, Body Effect, Channel Length Modulation, Propagation Delay, Noise Margin, Power Dissipation, CMOS Layout.
+
+(Only topics listed, no actual questions.)
+
+<sub>Topics: Analog Electronics, Digital Electronics · Source: [chat, 30 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L619)</sub>
+
+### Q3. Verilog HDL topics
+
+Modules, Data Types, Operators, Continuous Assignment, Procedural Blocks, Blocking/Non-blocking Assignments, Testbenches, FSM Coding, Combinational and Sequential Design, Simulation, Synthesis.
+
+(Only topics listed, no actual questions.)
+
+<sub>Topics: Digital Electronics · Source: [chat, 30 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L619)</sub>
+
+### Q4. VLSI & EDA topics
+
+RTL Design, Logic Synthesis, Technology Mapping, Floorplanning, Placement, Clock Tree Synthesis, Routing, Static Timing Analysis (STA), Timing Constraints, Setup/Hold Violations, Clock Skew, DFT, RTL-to-GDSII Flow.
+
+(Only topics listed, no actual questions.)
+
+<sub>Topics: Digital Electronics, Other · Source: [chat, 30 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L619)</sub>
+
+### Q5. Analog Electronics topics
+
+Diodes, BJT, MOSFET, Amplifiers, Op-Amps, Current Mirrors, Differential Amplifiers, Feedback, Oscillators, Frequency Response.
+
+(Only topics listed, no actual questions.)
+
+<sub>Topics: Analog Electronics · Source: [chat, 30 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L619)</sub>
+
+## 2026-10-29 · IIT BHU · Unknown · Analog · Other round
+
+### Q1. Op amp with DC and AC source output
+
+You have designed the following op amp circuit such that it can take a 1V DC source and a 500-Hz sinusoidal source of amplitude 1V as input. What will be the output of the given op amp circuit?
+
+Circuit: inverting amplifier, input (1V DC in series with 1V sinusoidal) through 1kΩ to the inverting terminal, 5kΩ feedback resistor from output to the inverting terminal, non-inverting terminal grounded, supplies ±15V.
+
+A. 5 + 5 sin (2π.5000t)
+B. 5 - 5 sin (2π.5000t)
+C. -5 + 5 sin (2π.5000t)
+D. -5 - 5 sin (2π.5000t)
+
+<sub>Topics: Analog Electronics, Circuits · Source: [Prep for TI - Analog (with sample questions).pdf](../archive/files/16083-Prep_for_TI_-_Analog_with_sample_questions_.pdf)</sub>
+
+### Q2. Power factor with parallel capacitor
+
+You have connected a 200V, 50-Hz input voltage source to a load whose impedance is (2 + 2j) Ω. What will be the resultant power factor if you connect -4j Ω in parallel to the load?
+
+A. 0.707 leading
+B. 0.707 lagging
+C. 0.5 leading
+D. None of these
+
+<sub>Topics: Circuits · Source: [Prep for TI - Analog (with sample questions).pdf](../archive/files/16083-Prep_for_TI_-_Analog_with_sample_questions_.pdf)</sub>
+
+### Q3. Diode clipper with 1V and 2V sources, output waveform
+
+You are working on a circuit wherein the cut-in voltage of both diodes D1 and D2 is 1V. Circuit: 10V sinusoidal source in series with 1kΩ; at the output node, D1 in series with a 1V source and D2 in series with a 2V source go to ground (Vγ = 1V each); a 1kΩ load resistor is at the output. You apply a sinusoidal input of frequency 1 kHz and amplitude 10V. What will happen to the output voltage?
+
+A. It will be a sinusoid with amplitude of 5V
+B. It will be a half-wave rectified sinusoid of amplitude 5V (only positive cycles)
+C. It will be a half-wave rectified sinusoid of amplitude 5V (only negative cycles)
+D. It will be a full-wave rectified sinusoid of amplitude 5V
+
+<sub>Topics: Circuits, Analog Electronics · Source: [Prep for TI - Analog (with sample questions).pdf](../archive/files/16083-Prep_for_TI_-_Analog_with_sample_questions_.pdf)</sub>
+
+## 2026-10-29 · IIT BHU · Unknown · Digital · Other round
+
+### Q1. Number of cells in 16GB NAND flash
+
+If a NAND Flash Memory has 16GB storage capacity and each memory cell can store 4KB, how many memory cells are there in the chip?
+
+<sub>Topics: Digital Electronics · Source: [Prep for TI - Digital (with Sample Questions).pdf](../archive/files/16084-Prep_for_TI_-_Digital_with_Sample_Questions_.pdf)</sub>
+
+### Q2. Clock cycles for memory access
+
+Given a memory with access time of 10ns and a clock frequency of 200MHz, calculate the number of clock cycles required to access the data.
+
+<sub>Topics: Digital Electronics · Source: [Prep for TI - Digital (with Sample Questions).pdf](../archive/files/16084-Prep_for_TI_-_Digital_with_Sample_Questions_.pdf)</sub>
+
+### Q3. Critical path delay of a register circuit
+
+Find the critical path delay of a circuit with three flip-flops FF1, FF2, FF3 and combinational blocks C1 (7ns), C2 (10ns), C3 (5ns), C4 (6ns), C6 (8ns), C7 (7ns), with inputs X, Y, Z. Flip-flop delays: Tsetup = 4ns, Thold = 3ns, Tclk-q = 5ns.
+
+Follow-ups: maximum safe frequency of operation; effect of clock skew; clock frequency above the maximum; mix of positive and negative edge triggered flops; how to identify false paths.
+
+(The circuit diagram is only in the original PDF.)
+
+<sub>Topics: Digital Electronics · Source: [Prep for TI - Digital (with Sample Questions).pdf](../archive/files/16084-Prep_for_TI_-_Digital_with_Sample_Questions_.pdf)</sub>
+
+### Q4. Implement a 4-bit BCD adder
+
+How to implement a circuit that does 4-bit BCD arithmetic?
+
+Follow-ups: why cases (b) and (c) (sum greater than 9, and sum with carry) are treated differently; how adding 6 helps; how to do BCD subtraction; the BCD equivalent of 2's complement addition; implementing the circuit; merging add and subtract with a select line using minimal logic elements.
+
+<sub>Topics: Digital Electronics · Source: [Prep for TI - Digital (with Sample Questions).pdf](../archive/files/16084-Prep_for_TI_-_Digital_with_Sample_Questions_.pdf)</sub>
 
 ## 2026-10-28 · IIT BHU · Unknown · Embedded SW · Other round
 
@@ -194,7 +320,7 @@ Texas Instruments OA for the digital/analog role: MCQs on op-amps, aptitude ques
 
 Simple OA. CS MCQs on C programming, microprocessors and COA. One very easy coding question, only in C language.
 
-<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L25)</sub>
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L25) · Also asked at: IIIT Hyderabad (2026-10-29)</sub>
 
 ## 2026-10-08 · IIT Hyderabad · FTE
 
@@ -207,7 +333,7 @@ There are four pens: a red pen, a black pen, a green pen and a blue pen. The pen
 - **C.** Blue  
 - **D.** Cannot be determined
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q2. Wall construction with pairs of men
 
@@ -218,7 +344,7 @@ Three men P, Q and R working individually take 12 days, 15 days and 20 days resp
 - **C.** 7.5 days  
 - **D.** 8 days
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q3. Scheduling club activities in slots
 
@@ -318,7 +444,7 @@ Pointing to a photograph Rita said, "he is the son-in-law of the grand mother of
 - **C.** Nephew  
 - **D.** Brother
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q13. Seating in a row
 
@@ -424,7 +550,7 @@ Four runners (R1, R2, R3 and R4) completed a marathon. R1 finished before R4 but
 - **C.** R3  
 - **D.** R4
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q24. Resistance seen at MOS source
 
@@ -545,7 +671,7 @@ Five teachers I, J, K, L and M teach in four different schools. M and K do not t
 - **C.** Model School  
 - **D.** Cannot be determined
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q35. Ripple factor of inductor filter
 
@@ -656,7 +782,7 @@ How many such pairs of letters are there in the word 'PRECISE' which has as many
 - **C.** 2  
 - **D.** 3
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q46. Fixing WNS after place-and-route
 
@@ -777,7 +903,7 @@ Five friends - Rohan, Sia, Tanu, Varun and Zoya - save money in their piggy bank
 - **C.** Rs 300  
 - **D.** Rs 320
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q57. Ripple counter settling time
 
@@ -789,13 +915,13 @@ A 4-bit ripple counter using JK flip-flops has a propagation delay of 12 ns per 
 
 If today is Wednesday, ________ will be the day of the week after 15 days. (fill in the blank)
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q59. Number arrangement machine
 
 A number arrangement machine, when given an input line of numbers, rearranges them following a particular rule in each step. Illustration: Input: 531842, 764125, 902317, 648531, 287964, 413256. Step I: 8, 12, 3, 15, 21, 9. Step II: 15, 13, 19, 12, 15, 12. Step III: 289, 313, 370, 369, 666, 225. Step IV: 64, 353, 1. Step V: 10, 11, 1. Step V is the last step. As per the rules followed in the above steps, find the output for the input: 825431, 370962, 641528, 954210, 718346, 260871. Step V of the above input is ________.
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q60. Streaming plan subscribers
 
@@ -806,7 +932,7 @@ A U.S. streaming service offers three plans: Basic at $15, Standard at $25 and P
 - **C.** 320  
 - **D.** 300
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ## 2026-10-08 · IIT Bombay · FTE
 
@@ -814,4 +940,4 @@ A U.S. streaming service offers three plans: Basic at $15, Standard at $25 and P
 
 The shared PDF contains 60 questions in total (aptitude and technical); only the first 20 are transcribed here.
 
-<sub>Topics: OA Format · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/8232-Texas_Instruments_All_60_Questions.pdf)</sub>
+<sub>Topics: OA Format · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/8232-Texas_Instruments_All_60_Questions.pdf) · Also asked at: IIT Roorkee (2026-10-08)</sub>

@@ -1,9 +1,10 @@
 # Sliding Window
 
-18 questions from 10 companys, newest first. [← all topics](../README.md#topics)
+19 questions from 11 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Smallest subarray containing min and max](../companies/paytm.md#q4-smallest-subarray-containing-min-and-max) | |
 | 2026-10-26 | [Capital One](../companies/capital-one.md) | IIT Bombay | [Longest subarray with absolute difference within limit](../companies/capital-one.md#q2-longest-subarray-with-absolute-difference-within-limit) | [1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) Medium |
 | 2026-10-25 | [NatWest](../companies/natwest.md) | IIT BHU | [Longest subarray of ones after flips (variation)](../companies/natwest.md#q1-longest-subarray-of-ones-after-flips-variation) | [1004](https://leetcode.com/problems/max-consecutive-ones-iii/) Medium |
 | 2026-10-24 | [American Express](../companies/american-express.md) | IIT BHU | [Fruit into baskets](../companies/american-express.md#q2-fruit-into-baskets) | [904](https://leetcode.com/problems/fruit-into-baskets/) Medium |

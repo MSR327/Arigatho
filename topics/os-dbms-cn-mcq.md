@@ -1,9 +1,10 @@
 # OS/DBMS/CN MCQ
 
-114 questions from 21 companys, newest first. [← all topics](../README.md#topics)
+115 questions from 21 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Fork and copy-on-write](../companies/nvidia.md#q8-fork-and-copy-on-write) | |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Cortex-A72 performance: data structure, matrix order, list cycle](../companies/texas-instruments.md#q3-cortex-a72-performance-data-structure-matrix-order-list-cycle) | |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Slowest and fastest implementation by memory section](../companies/texas-instruments.md#q1-slowest-and-fastest-implementation-by-memory-section) | |
 | 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-1) | |

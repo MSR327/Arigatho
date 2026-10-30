@@ -1,13 +1,26 @@
 # Nvidia
 
-**21 questions** · 11 drives · latest 28 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**31 questions** · 14 drives · latest 30 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Stack/Queue](../topics/stack-queue.md) 5 · [Trees](../topics/trees.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 3 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Math](../topics/math.md) 2 · [Graphs](../topics/graphs.md) 2 · +7 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Stack/Queue](../topics/stack-queue.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Trees](../topics/trees.md) 4 · [Bit Manipulation](../topics/bit-manipulation.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Math](../topics/math.md) 2 · +9 more  
 **Seen at:** IIT Delhi, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, NIT Rourkela, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · Unknown · FTE · System Software](#2026-10-30--unknown--fte--system-software)
+  - [System Software OA format](#q1-system-software-oa-format)
+- [2026-10-30 · MNNIT Allahabad · FTE · SSE](#2026-10-30--mnnit-allahabad--fte--sse)
+  - [NVIDIA OA pattern](#q1-nvidia-oa-pattern)
+  - [Function pointer returning pointer to integer array](#q2-function-pointer-returning-pointer-to-integer-array)
+  - [Pointer arithmetic on char array](#q3-pointer-arithmetic-on-char-array)
+  - [Bitwise operator side effects](#q4-bitwise-operator-side-effects)
+  - [Macros vs inline functions](#q5-macros-vs-inline-functions)
+  - [extern keyword and memcpy with packed memory](#q6-extern-keyword-and-memcpy-with-packed-memory)
+  - [Linked list MCQs and double pointers](#q7-linked-list-mcqs-and-double-pointers)
+  - [Fork and copy-on-write](#q8-fork-and-copy-on-write)
+- [2026-10-29 · Unknown · FTE · SSE](#2026-10-29--unknown--fte--sse)
+  - [Nvidia SSE OA test format](#q1-nvidia-sse-oa-test-format)
 - [2026-10-28 · NIT Rourkela · FTE · System Software Engineer](#2026-10-28--nit-rourkela--fte--system-software-engineer)
   - [Maximum Latency Path in a Tree](#q1-maximum-latency-path-in-a-tree)
 - [2026-10-28 · MNNIT Allahabad · FTE · System Software Engineer](#2026-10-28--mnnit-allahabad--fte--system-software-engineer)
@@ -37,13 +50,97 @@
 - [2026-10-21 · MNNIT Allahabad · FTE · Compiler](#2026-10-21--mnnit-allahabad--fte--compiler)
   - [Message Delivery System (duplicate message filter)](#q1-message-delivery-system-duplicate-message-filter)
 - [2026-10-18 · Unknown · FTE · System Software](#2026-10-18--unknown--fte--system-software)
-  - [System Software OA format](#q1-system-software-oa-format)
+  - [System Software OA format](#q1-system-software-oa-format-1)
 - [2026-10-17 · MNNIT Allahabad · FTE · Software Compiler](#2026-10-17--mnnit-allahabad--fte--software-compiler)
   - [Nvidia OA format: 1 coding question and 20-25 MCQs](#q1-nvidia-oa-format-1-coding-question-and-20-25-mcqs)
 
 </details>
 
 ---
+
+## 2026-10-30 · Unknown · FTE · System Software
+
+### Q1. System Software OA format
+
+The System Software OA had no code typing. It had only output-based MCQs.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/nvidia-oa/2026-10.jsonl#L161), [chat, 30 Oct](../archive/nvidia-oa/2026-10.jsonl#L162)</sub>
+
+## 2026-10-30 · MNNIT Allahabad · FTE · SSE
+
+### Q1. NVIDIA OA pattern
+
+34 MCQs, no separate coding round. Sections covered programming, CS fundamentals and systems concepts. Python had significant weightage (code-output and concurrency scenarios). C questions were more frequent than C++. OS, OOP and low-level systems concepts were covered; no Computer Networks.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L2933)</sub>
+
+### Q2. Function pointer returning pointer to integer array
+
+Declare a function pointer that takes no arguments and returns a pointer to an integer array. Understanding declarations involving `(*fptr)`.
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L2933)</sub>
+
+### Q3. Pointer arithmetic on char array
+
+Predict the output for a character array:
+
+```c
+char s[] = "man";
+```
+
+Expressions involving `s[i]`, `*(s + i)`, `*(i + s)`.
+(Exact expressions/options not given.)
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L2933)</sub>
+
+### Q4. Bitwise operator side effects
+
+```c
+unsigned int y = 0;
+y & (y = 1U);
+```
+
+Question on bitwise operations, side effects and expression evaluation order.
+
+<sub>Topics: Code Output (C/C++/Java/Python), Bit Manipulation · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L2933)</sub>
+
+### Q5. Macros vs inline functions
+
+```c
+#define MULT(x, y) x * y
+```
+
+Questions involving macro expansion, operator precedence and comparison with inline functions.
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L2933)</sub>
+
+### Q6. extern keyword and memcpy with packed memory
+
+Questions on the `extern` keyword and its usage, and a question involving `memcpy()` and packed memory access.
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L2933)</sub>
+
+### Q7. Linked list MCQs and double pointers
+
+Three linked list questions across Python and C++: cycle detection with slow and fast pointers, code-output prediction, and a conceptual MCQ. Also a question involving double pointers and their use with arrays.
+
+<sub>Topics: Linked List, Code Output (C/C++/Java/Python) · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L2933)</sub>
+
+### Q8. Fork and copy-on-write
+
+A process with approximately 100 MB of memory creates a child process us... (message truncated; rest of the question missing).
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L2933)</sub>
+
+## 2026-10-29 · Unknown · FTE · SSE
+
+### Q1. Nvidia SSE OA test format
+
+Test format listed (29 sections): C Programming 1-6 (1 question each), C++ Programming 1-5 (1 each), Data Structures 1-5 (1 each), Python Programming 1-5 (1 each), OS/CS 1-5 (1 each), Analytical (6 questions), Puzzle 1 and Puzzle 2 (1 each).
+
+A senior reportedly said the previous year's OA had 28 MCQs + 2 DSA questions, 60 minutes (unconfirmed; the listed pattern has no explicit coding section).
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/nvidia-oa/2026-10.jsonl#L140), [chat, 29 Oct](../archive/nvidia-oa/2026-10.jsonl#L142), [chat, 29 Oct](../archive/nvidia-oa/2026-10.jsonl#L150)</sub>
 
 ## 2026-10-28 · NIT Rourkela · FTE · System Software Engineer
 

@@ -1,9 +1,10 @@
 # Trees
 
-50 questions from 24 companys, newest first. [← all topics](../README.md#topics)
+51 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-28 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [Kth ancestor of a tree node](../companies/cognizant.md#q1-kth-ancestor-of-a-tree-node) | [1483](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) Hard |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Count paths that can form a palindrome in a tree](../companies/qicap.md#q3-count-paths-that-can-form-a-palindrome-in-a-tree) | [2791](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) Hard |
 | 2026-10-28 | [Plutus Research](../companies/plutus-research.md) | IIT Guwahati | [Minimum splits of tree so no component product divisible by 6](../companies/plutus-research.md#q2-minimum-splits-of-tree-so-no-component-product-divisible-by-6) | |
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Count non-path triplets in a tree](../companies/eternal-zomato.md#q2-count-non-path-triplets-in-a-tree) | |

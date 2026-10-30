@@ -1,8 +1,8 @@
 # Unknown
 
-**13 questions** · 9 drives · latest 29 Oct 2026 · [← all companies](../README.md#companies)
+**14 questions** · 10 drives · latest 29 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Math](../topics/math.md) 2 · [Arrays](../topics/arrays.md) 2 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1 · +7 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Math](../topics/math.md) 2 · [Arrays](../topics/arrays.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Graphs](../topics/graphs.md) 1 · +7 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee, NIT Trichy
 
 <details>
@@ -10,6 +10,8 @@
 
 - [2026-10-29 · Unknown · FTE · SDE](#2026-10-29--unknown--fte--sde)
   - [Paytm SDE OA format](#q1-paytm-sde-oa-format)
+- [2026-10-29 · IIT Guwahati · FTE · AI Engineering](#2026-10-29--iit-guwahati--fte--ai-engineering)
+  - [AI Engineering profile OA contents](#q1-ai-engineering-profile-oa-contents)
 - [2026-10-28 · IIT Roorkee · FTE](#2026-10-28--iit-roorkee--fte)
   - [Data preprocessing and ML model with F1 score](#q1-data-preprocessing-and-ml-model-with-f1-score)
 - [2026-10-27 · IIT Hyderabad · FTE](#2026-10-27--iit-hyderabad--fte)
@@ -42,6 +44,14 @@
 3 coding questions (Easy–Medium) on arrays, strings, graphs, DP and greedy, sometimes with SQL/CS MCQs.
 
 <sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L399)</sub>
+
+## 2026-10-29 · IIT Guwahati · FTE · AI Engineering
+
+### Q1. AI Engineering profile OA contents
+
+All coding: an ELT pipeline implementation, a CNN implementation question, and a GenAI type question. Details not shared.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L491)</sub>
 
 ## 2026-10-28 · IIT Roorkee · FTE
 

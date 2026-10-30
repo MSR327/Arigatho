@@ -1,9 +1,14 @@
 # DP
 
-88 questions from 29 companys, newest first. [← all topics](../README.md#topics)
+93 questions from 32 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Maximum even subsequence in an array](../companies/paytm.md#q1-maximum-even-subsequence-in-an-array) | |
+| 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Count anagrams without identical adjacent characters](../companies/deutsche-bank.md#q3-count-anagrams-without-identical-adjacent-characters) | |
+| 2026-10-30 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Guwahati | [Coupled recurrence relations F, G, H](../companies/thoughtspot.md#q1-coupled-recurrence-relations-f-g-h) | |
+| 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Longest valid palindromic subsequence](../companies/blackrock.md#q3-longest-valid-palindromic-subsequence) | [516](https://leetcode.com/problems/longest-palindromic-subsequence/) Medium |
+| 2026-10-29 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Frog Jump 2 type problem](../companies/deutsche-bank.md#q2-frog-jump-2-type-problem) | |
 | 2026-10-29 | [PeopleStrong](../companies/peoplestrong.md) | IIT Guwahati | [Remove Boxes](../companies/peoplestrong.md#q2-remove-boxes) | [546](https://leetcode.com/problems/remove-boxes/) Hard |
 | 2026-10-29 | [PeopleStrong](../companies/peoplestrong.md) | IIT Guwahati | [Two-sum / subset-sum style easy question](../companies/peoplestrong.md#q1-two-sum--subset-sum-style-easy-question) | |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Count beautiful substrings after filling blanks](../companies/qicap.md#q2-count-beautiful-substrings-after-filling-blanks) | |

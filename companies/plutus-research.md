@@ -1,13 +1,17 @@
 # Plutus Research
 
-**7 questions** · 2 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
+**9 questions** · 4 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Greedy](../topics/greedy.md) 2 · [Graphs](../topics/graphs.md) 1 · [Trees](../topics/trees.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Puzzles](../topics/puzzles.md) 1 · [Math](../topics/math.md) 1 · +2 more  
-**Seen at:** IIT Guwahati, IIT Kharagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Greedy](../topics/greedy.md) 2 · [Graphs](../topics/graphs.md) 1 · [Trees](../topics/trees.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Puzzles](../topics/puzzles.md) 1 · +2 more  
+**Seen at:** IIT BHU, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · IIT Kharagpur/Kanpur · FTE](#2026-10-30--iit-kharagpurkanpur--fte)
+  - [Plutus OA language allowed](#q1-plutus-oa-language-allowed)
+- [2026-10-30 · IIT BHU · FTE](#2026-10-30--iit-bhu--fte)
+  - [Plutus OA language restriction](#q1-plutus-oa-language-restriction)
 - [2026-10-28 · IIT Kharagpur · FTE](#2026-10-28--iit-kharagpur--fte)
   - [Plutus Research OA pattern](#q1-plutus-research-oa-pattern)
 - [2026-10-28 · IIT Guwahati · FTE · Quant](#2026-10-28--iit-guwahati--fte--quant)
@@ -21,6 +25,24 @@
 </details>
 
 ---
+
+## 2026-10-30 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Plutus OA language allowed
+
+Only C++ was allowed in the Plutus OA (Python was not).
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L2925)</sub>
+
+## 2026-10-30 · IIT BHU · FTE
+
+### Q1. Plutus OA language restriction
+
+In the Plutus Research OA, only C++ is allowed for coding (Python is not allowed).
+
+No question statements were shared.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/inter-iit/2026-10.jsonl#L1230)</sub>
 
 ## 2026-10-28 · IIT Kharagpur · FTE
 

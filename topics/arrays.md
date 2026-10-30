@@ -1,9 +1,17 @@
 # Arrays
 
-151 questions from 45 companys, newest first. [← all topics](../README.md#topics)
+159 questions from 46 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Smallest subarray containing min and max](../companies/paytm.md#q4-smallest-subarray-containing-min-and-max) | |
+| 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Merge overlapping intervals](../companies/paytm.md#q3-merge-overlapping-intervals) | [56](https://leetcode.com/problems/merge-intervals/) Medium |
+| 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Minimum cars to remove for bridge crossing](../companies/deutsche-bank.md#q2-minimum-cars-to-remove-for-bridge-crossing) | |
+| 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Maximise sum of unique building heights](../companies/deutsche-bank.md#q1-maximise-sum-of-unique-building-heights) | |
+| 2026-10-29 | [QiCap](../companies/qicap.md) | IIT Kharagpur | [Infection spread with interactions and vaccination](../companies/qicap.md#q1-infection-spread-with-interactions-and-vaccination) | |
+| 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Delhi | [Connect houses to electricity with minimum cable](../companies/natwest.md#q2-connect-houses-to-electricity-with-minimum-cable) | |
+| 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [AI-assisted paginated API fetch then sort](../companies/blackrock.md#q1-ai-assisted-paginated-api-fetch-then-sort) | |
+| 2026-10-29 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Frog Jump 2 type problem](../companies/deutsche-bank.md#q2-frog-jump-2-type-problem) | |
 | 2026-10-29 | [PeopleStrong](../companies/peoplestrong.md) | IIT Guwahati | [Two-sum / subset-sum style easy question](../companies/peoplestrong.md#q1-two-sum--subset-sum-style-easy-question) | |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Minimum adjacent swaps with equal set bits to sort](../companies/qicap.md#q1-minimum-adjacent-swaps-with-equal-set-bits-to-sort) | |
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Minimum increase in experience multiplier](../companies/accenture.md#q1-minimum-increase-in-experience-multiplier) | |

@@ -1,9 +1,13 @@
 # Analog Electronics
 
-16 questions from 2 companys, newest first. [← all topics](../README.md#topics)
+20 questions from 2 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-30 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Analog Electronics topics](../companies/texas-instruments.md#q5-analog-electronics-topics) |
+| 2026-10-30 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [CMOS & VLSI topics](../companies/texas-instruments.md#q2-cmos--vlsi-topics) |
+| 2026-10-29 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Diode clipper with 1V and 2V sources, output waveform](../companies/texas-instruments.md#q3-diode-clipper-with-1v-and-2v-sources-output-waveform) |
+| 2026-10-29 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Op amp with DC and AC source output](../companies/texas-instruments.md#q1-op-amp-with-dc-and-ac-source-output) |
 | 2026-10-25 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [OA pattern (Digital/Analog role): op-amp MCQs + aptitude](../companies/texas-instruments.md#q1-oa-pattern-digitalanalog-role-op-amp-mcqs--aptitude) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Heat dissipation in resistor with anti-parallel diodes](../companies/sedemac.md#q15-heat-dissipation-in-resistor-with-anti-parallel-diodes) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Thermistor in place of Ro: change in resolution](../companies/sedemac.md#q13-thermistor-in-place-of-ro-change-in-resolution) |

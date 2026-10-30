@@ -1,9 +1,21 @@
 # Math
 
-124 questions from 37 companys, newest first. [← all topics](../README.md#topics)
+136 questions from 38 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Count anagrams without identical adjacent characters](../companies/deutsche-bank.md#q3-count-anagrams-without-identical-adjacent-characters) | |
+| 2026-10-30 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Guwahati | [Coupled recurrence relations F, G, H](../companies/thoughtspot.md#q1-coupled-recurrence-relations-f-g-h) | |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Chess game series: probability Alice wins](../companies/tredence.md#q19-chess-game-series-probability-alice-wins) | |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Boat speed in still water](../companies/tredence.md#q16-boat-speed-in-still-water) | |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Umesh and Reena ratio problem](../companies/tredence.md#q15-umesh-and-reena-ratio-problem) | |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Chess/scheme game probabilities (partial)](../companies/tredence.md#q14-chessscheme-game-probabilities-partial) | |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Two boxes of shirts: probability](../companies/tredence.md#q12-two-boxes-of-shirts-probability) | |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Accuracy from a 3x3 confusion matrix](../companies/tredence.md#q9-accuracy-from-a-3x3-confusion-matrix) | |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Babe Ruth expected hits (binomial)](../companies/tredence.md#q6-babe-ruth-expected-hits-binomial) | |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Difference between population parameter and sample statistic](../companies/tredence.md#q5-difference-between-population-parameter-and-sample-statistic) | |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Process with discrete events in a continuous finite interval](../companies/tredence.md#q4-process-with-discrete-events-in-a-continuous-finite-interval) | |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Type I error in a criminal trial](../companies/tredence.md#q3-type-i-error-in-a-criminal-trial) | |
 | 2026-10-28 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Longest prefix split into two parts with sum difference at most K](../companies/tredence.md#q1-longest-prefix-split-into-two-parts-with-sum-difference-at-most-k) | |
 | 2026-10-28 | [Plutus Research](../companies/plutus-research.md) | IIT Guwahati | [Card game with spades and hearts: should you play?](../companies/plutus-research.md#q5-card-game-with-spades-and-hearts-should-you-play) | |
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Indore | [Count numbers whose first and last digits sum to 9](../companies/accenture.md#q1-count-numbers-whose-first-and-last-digits-sum-to-9) | |

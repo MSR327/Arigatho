@@ -1,9 +1,12 @@
 # Strings
 
-71 questions from 35 companys, newest first. [← all topics](../README.md#topics)
+74 questions from 36 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Minimum cost to make two strings equal](../companies/paytm.md#q2-minimum-cost-to-make-two-strings-equal) | |
+| 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Longest valid palindromic subsequence](../companies/blackrock.md#q3-longest-valid-palindromic-subsequence) | [516](https://leetcode.com/problems/longest-palindromic-subsequence/) Medium |
+| 2026-10-29 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Count anagrams](../companies/deutsche-bank.md#q1-count-anagrams) | |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Count beautiful substrings after filling blanks](../companies/qicap.md#q2-count-beautiful-substrings-after-filling-blanks) | |
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Group products by category and total amount](../companies/eternal-zomato.md#q1-group-products-by-category-and-total-amount) | |
 | 2026-10-28 | [Plutus Research](../companies/plutus-research.md) | IIT Guwahati | [Longest common substring across k strings](../companies/plutus-research.md#q3-longest-common-substring-across-k-strings) | |

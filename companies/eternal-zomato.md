@@ -1,13 +1,15 @@
 # Eternal (Zomato)
 
-**159 questions** · 72 drives · latest 29 Oct 2026 · [12 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**160 questions** · 73 drives · latest 30 Oct 2026 · [12 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 50 · [SQL](../topics/sql.md) 22 · [DP](../topics/dp.md) 20 · [Arrays](../topics/arrays.md) 18 · [Graphs](../topics/graphs.md) 14 · [Aptitude](../topics/aptitude.md) 12 · [Math](../topics/math.md) 12 · [Trees](../topics/trees.md) 11 · +22 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 51 · [SQL](../topics/sql.md) 22 · [DP](../topics/dp.md) 20 · [Arrays](../topics/arrays.md) 18 · [Graphs](../topics/graphs.md) 14 · [Aptitude](../topics/aptitude.md) 12 · [Math](../topics/math.md) 12 · [Trees](../topics/trees.md) 11 · +22 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +9 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · Unknown · FTE · Associate Program Manager](#2026-10-30--unknown--fte--associate-program-manager)
+  - [Eternal APM OA pattern](#q1-eternal-apm-oa-pattern)
 - [2026-10-28 · IIT Roorkee · FTE · Product Analyst](#2026-10-28--iit-roorkee--fte--product-analyst)
   - [Optimal building placement minimizing max distance](#q1-optimal-building-placement-minimizing-max-distance)
   - [Count non-path triplets in a tree](#q2-count-non-path-triplets-in-a-tree)
@@ -243,6 +245,14 @@
 </details>
 
 ---
+
+## 2026-10-30 · Unknown · FTE · Associate Program Manager
+
+### Q1. Eternal APM OA pattern
+
+2–3 DSA coding questions + 12–20 technical MCQs.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L63)</sub>
 
 ## 2026-10-28 · IIT Roorkee · FTE · Product Analyst
 

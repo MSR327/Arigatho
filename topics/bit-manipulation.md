@@ -1,9 +1,10 @@
 # Bit Manipulation
 
-28 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+29 questions from 22 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Bitwise operator side effects](../companies/nvidia.md#q4-bitwise-operator-side-effects) | |
 | 2026-10-29 | [PeopleStrong](../companies/peoplestrong.md) | IIT Guwahati | [Hard recursion/bitmask question](../companies/peoplestrong.md#q3-hard-recursionbitmask-question) | |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Count paths that can form a palindrome in a tree](../companies/qicap.md#q3-count-paths-that-can-form-a-palindrome-in-a-tree) | [2791](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) Hard |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Minimum adjacent swaps with equal set bits to sort](../companies/qicap.md#q1-minimum-adjacent-swaps-with-equal-set-bits-to-sort) | |

@@ -1,9 +1,10 @@
 # Two Pointers
 
-10 questions from 9 companys, newest first. [← all topics](../README.md#topics)
+11 questions from 9 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Minimum cars to remove for bridge crossing](../companies/deutsche-bank.md#q2-minimum-cars-to-remove-for-bridge-crossing) | |
 | 2026-10-19 | [Media.net](../companies/media-net.md) | Netaji Subhas University of Technology | [Trapping Rain Water](../companies/media-net.md#q1-trapping-rain-water) | [42](https://leetcode.com/problems/trapping-rain-water/) Hard |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | [Palindrome with Question Marks](../companies/deutsche-bank.md#q1-palindrome-with-question-marks) | |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Jodhpur | [Maximum-length equal arrays by merging subarrays](../companies/eternal-zomato.md#q2-maximum-length-equal-arrays-by-merging-subarrays) | |

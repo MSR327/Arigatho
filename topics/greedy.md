@@ -1,11 +1,18 @@
 # Greedy
 
-53 questions from 26 companys, newest first. [← all topics](../README.md#topics)
+60 questions from 29 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Minimum cost to make two strings equal](../companies/paytm.md#q2-minimum-cost-to-make-two-strings-equal) | |
+| 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Maximum even subsequence in an array](../companies/paytm.md#q1-maximum-even-subsequence-in-an-array) | |
+| 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Minimum cars to remove for bridge crossing](../companies/deutsche-bank.md#q2-minimum-cars-to-remove-for-bridge-crossing) | |
+| 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Maximise sum of unique building heights](../companies/deutsche-bank.md#q1-maximise-sum-of-unique-building-heights) | |
+| 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Delhi | [Connect houses to electricity with minimum cable](../companies/natwest.md#q2-connect-houses-to-electricity-with-minimum-cable) | |
+| 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Delhi | [LC 871 (Minimum number of refueling stops)](../companies/natwest.md#q1-lc-871-minimum-number-of-refueling-stops) | [871](https://leetcode.com/problems/minimum-number-of-refueling-stops/) Hard |
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Guwahati | [Medium greedy manipulation problem](../companies/natwest.md#q4-medium-greedy-manipulation-problem) | |
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Guwahati | [Greedy problem](../companies/natwest.md#q2-greedy-problem) | |
+| 2026-10-28 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [Put marbles in bags](../companies/cognizant.md#q2-put-marbles-in-bags) | [2551](https://leetcode.com/problems/put-marbles-in-bags/) Hard |
 | 2026-10-28 | [McKinsey](../companies/mckinsey.md) | IIT Roorkee | [Reorder songs so same artist is not consecutive](../companies/mckinsey.md#q2-reorder-songs-so-same-artist-is-not-consecutive) | |
 | 2026-10-28 | [Plutus Research](../companies/plutus-research.md) | IIT Guwahati | [ATM withdraw and deposit simulation](../companies/plutus-research.md#q6-atm-withdraw-and-deposit-simulation) | |
 | 2026-10-28 | [Plutus Research](../companies/plutus-research.md) | IIT Guwahati | [High-constraint greedy problem](../companies/plutus-research.md#q4-high-constraint-greedy-problem) | |

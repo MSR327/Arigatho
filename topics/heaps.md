@@ -1,9 +1,11 @@
 # Heaps
 
-19 questions from 17 companys, newest first. [← all topics](../README.md#topics)
+21 questions from 17 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Delhi | [LC 871 (Minimum number of refueling stops)](../companies/natwest.md#q1-lc-871-minimum-number-of-refueling-stops) | [871](https://leetcode.com/problems/minimum-number-of-refueling-stops/) Hard |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Output of priority-queue subarray-sum pseudocode](../companies/tredence.md#q2-output-of-priority-queue-subarray-sum-pseudocode) | |
 | 2026-10-28 | [McKinsey](../companies/mckinsey.md) | IIT Roorkee | [Reorder songs so same artist is not consecutive](../companies/mckinsey.md#q2-reorder-songs-so-same-artist-is-not-consecutive) | |
 | 2026-10-28 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Kth largest element in an array](../companies/tredence.md#q3-kth-largest-element-in-an-array) | [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) Medium |
 | 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Interview follow-ups on Second Most Frequent Element](../companies/eternal-zomato.md#q1-interview-follow-ups-on-second-most-frequent-element) | |

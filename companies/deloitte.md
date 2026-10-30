@@ -1,13 +1,15 @@
 # Deloitte
 
-**58 questions** · 9 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
+**59 questions** · 10 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 16 · [Verbal](../topics/verbal.md) 9 · [OA Format](../topics/oa-format.md) 8 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Math](../topics/math.md) 5 · [Puzzles](../topics/puzzles.md) 4 · +10 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 16 · [OA Format](../topics/oa-format.md) 9 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Math](../topics/math.md) 5 · [Puzzles](../topics/puzzles.md) 4 · +10 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Indore, IIT Kanpur, MNNIT Allahabad, NIT Raipur, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · IIT Indore · FTE · Other round](#2026-10-30--iit-indore--fte--other-round)
+  - [Vibe coding round: write a prompt](#q1-vibe-coding-round-write-a-prompt)
 - [2026-10-28 · IIT Dhanbad · FTE · Analyst](#2026-10-28--iit-dhanbad--fte--analyst)
   - [OA format: Deloitte Analyst round 1 (60 MCQs) and vibe coding round](#q1-oa-format-deloitte-analyst-round-1-60-mcqs-and-vibe-coding-round)
   - [Pseudocode: average marks after adding 5 to those below 40](#q2-pseudocode-average-marks-after-adding-5-to-those-below-40)
@@ -79,6 +81,14 @@
 </details>
 
 ---
+
+## 2026-10-30 · IIT Indore · FTE · Other round
+
+### Q1. Vibe coding round: write a prompt
+
+In the vibe coding round you are given a problem statement and must write a prompt that will work, based on that question. It is held at the same time as round 1.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L90), [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L94)</sub>
 
 ## 2026-10-28 · IIT Dhanbad · FTE · Analyst
 

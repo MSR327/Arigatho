@@ -1,13 +1,15 @@
 # QiCap
 
-**7 questions** · 2 drives · latest 28 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 3 drives · latest 29 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Bit Manipulation](../topics/bit-manipulation.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 2 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Hashing](../topics/hashing.md) 1 · +2 more  
-**Seen at:** IIT BHU, IIT Delhi
+**Asks about:** [Bit Manipulation](../topics/bit-manipulation.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 1 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Hashing](../topics/hashing.md) 1 · +2 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Kharagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-29 · IIT Kharagpur · FTE](#2026-10-29--iit-kharagpur--fte)
+  - [Infection spread with interactions and vaccination](#q1-infection-spread-with-interactions-and-vaccination)
 - [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte)
   - [Minimum adjacent swaps with equal set bits to sort](#q1-minimum-adjacent-swaps-with-equal-set-bits-to-sort)
   - [Count beautiful substrings after filling blanks](#q2-count-beautiful-substrings-after-filling-blanks)
@@ -21,6 +23,25 @@
 </details>
 
 ---
+
+## 2026-10-29 · IIT Kharagpur · FTE
+
+### Q1. Infection spread with interactions and vaccination
+
+There are n people numbered 0 to n-1. You are given an array of m infected people and a `vector<vector<int>> interactions`.
+
+There are two types of interaction:
+
+- Type 0 `a b`: a and b interact. If either is infected, the other becomes infected too, as well as the other persons that either one previously interacted with.
+- Type 1 `a -1`: a is vaccinated.
+
+Vaccination/infection has no effect on a person who was already infected / vaccinated.
+
+Find the time each person takes to get infected; if someone is never infected write -1. Return a vector `ans` where `ans[i]` = time taken by the i-th person to get infected.
+
+(Constraints and examples were not given.)
+
+<sub>Topics: Graphs, Arrays · Source: [chat, 29 Oct](../archive/qicap-oa/2026-10.jsonl#L4)</sub>
 
 ## 2026-10-28 · IIT BHU · FTE
 

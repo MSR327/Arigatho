@@ -1,9 +1,12 @@
 # Circuits
 
-26 questions from 2 companys, newest first. [← all topics](../README.md#topics)
+29 questions from 2 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-29 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Diode clipper with 1V and 2V sources, output waveform](../companies/texas-instruments.md#q3-diode-clipper-with-1v-and-2v-sources-output-waveform) |
+| 2026-10-29 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Power factor with parallel capacitor](../companies/texas-instruments.md#q2-power-factor-with-parallel-capacitor) |
+| 2026-10-29 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Op amp with DC and AC source output](../companies/texas-instruments.md#q1-op-amp-with-dc-and-ac-source-output) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Qualitative capacitor waveform under P control](../companies/sedemac.md#q33-qualitative-capacitor-waveform-under-p-control) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Steady-state voltage with proportional regulator on RC](../companies/sedemac.md#q23-steady-state-voltage-with-proportional-regulator-on-rc) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Waveform with highest RMS value](../companies/sedemac.md#q22-waveform-with-highest-rms-value) |

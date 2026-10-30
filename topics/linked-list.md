@@ -1,9 +1,10 @@
 # Linked List
 
-13 questions from 10 companys, newest first. [← all topics](../README.md#topics)
+14 questions from 11 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Linked list MCQs and double pointers](../companies/nvidia.md#q7-linked-list-mcqs-and-double-pointers) | |
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Guwahati | [LRU Cache](../companies/natwest.md#q5-lru-cache) | [146](https://leetcode.com/problems/lru-cache/) Medium |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Cortex-A72 performance: data structure, matrix order, list cycle](../companies/texas-instruments.md#q3-cortex-a72-performance-data-structure-matrix-order-list-cycle) | |
 | 2026-10-17 | [Zscaler](../companies/zscaler.md) | SVNIT Surat | [Zscaler on-campus interview round 1](../companies/zscaler.md#q1-zscaler-on-campus-interview-round-1) | |

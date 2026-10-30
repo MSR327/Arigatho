@@ -1,9 +1,17 @@
 # Aptitude
 
-154 questions from 19 companys, newest first. [← all topics](../README.md#topics)
+162 questions from 20 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Consulting role OA pattern](../companies/accenture.md#q2-consulting-role-oa-pattern) |
+| 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture consulting OA format](../companies/accenture.md#q1-accenture-consulting-oa-format) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Chess game series: probability Alice wins](../companies/tredence.md#q19-chess-game-series-probability-alice-wins) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Boat speed in still water](../companies/tredence.md#q16-boat-speed-in-still-water) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Umesh and Reena ratio problem](../companies/tredence.md#q15-umesh-and-reena-ratio-problem) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Chess/scheme game probabilities (partial)](../companies/tredence.md#q14-chessscheme-game-probabilities-partial) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Two boxes of shirts: probability](../companies/tredence.md#q12-two-boxes-of-shirts-probability) |
+| 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture Management Consulting OA pattern](../companies/accenture.md#q1-accenture-management-consulting-oa-pattern) |
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Boat and stream round trip distance](../companies/eternal-zomato.md#q2-boat-and-stream-round-trip-distance) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [Data Science track MCQ pattern](../companies/american-express.md#q4-data-science-track-mcq-pattern) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - LR/DI section](../companies/american-express.md#q2-amex-ds--analytics---lrdi-section) |

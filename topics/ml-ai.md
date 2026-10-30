@@ -1,10 +1,24 @@
 # ML/AI
 
-53 questions from 14 companys, newest first. [← all topics](../README.md#topics)
+67 questions from 17 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [MCP / AI / LLM / prompt engineering MCQs](../companies/blackrock.md#q5-mcp--ai--llm--prompt-engineering-mcqs) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Simple MLP with linear activation](../companies/tredence.md#q17-simple-mlp-with-linear-activation) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Output layer config for 3-class classification](../companies/tredence.md#q13-output-layer-config-for-3-class-classification) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Techniques to minimize a cost function over parameters](../companies/tredence.md#q11-techniques-to-minimize-a-cost-function-over-parameters) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Activation function causing vanishing gradients](../companies/tredence.md#q10-activation-function-causing-vanishing-gradients) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Accuracy from a 3x3 confusion matrix](../companies/tredence.md#q9-accuracy-from-a-3x3-confusion-matrix) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [True statements about PCA](../companies/tredence.md#q8-true-statements-about-pca) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Model-based learning iterative process](../companies/tredence.md#q7-model-based-learning-iterative-process) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Babe Ruth expected hits (binomial)](../companies/tredence.md#q6-babe-ruth-expected-hits-binomial) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Difference between population parameter and sample statistic](../companies/tredence.md#q5-difference-between-population-parameter-and-sample-statistic) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Process with discrete events in a continuous finite interval](../companies/tredence.md#q4-process-with-discrete-events-in-a-continuous-finite-interval) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Type I error in a criminal trial](../companies/tredence.md#q3-type-i-error-in-a-criminal-trial) |
+| 2026-10-29 | [Unknown](../companies/unknown.md) | IIT Guwahati | [AI Engineering profile OA contents](../companies/unknown.md#q1-ai-engineering-profile-oa-contents) |
 | 2026-10-29 | [American Express](../companies/american-express.md) | IIT Roorkee | [Amex AI Engineering OA tasks](../companies/american-express.md#q2-amex-ai-engineering-oa-tasks) |
+| 2026-10-28 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [MCQ section on prompting and RAG](../companies/cognizant.md#q4-mcq-section-on-prompting-and-rag) |
 | 2026-10-28 | [Unknown](../companies/unknown.md) | IIT Roorkee | [Data preprocessing and ML model with F1 score](../companies/unknown.md#q1-data-preprocessing-and-ml-model-with-f1-score) |
 | 2026-10-28 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex AI Engineering OA format](../companies/american-express.md#q3-amex-ai-engineering-oa-format) |
 | 2026-10-28 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex AI Engineering OA contents](../companies/american-express.md#q2-amex-ai-engineering-oa-contents) |

@@ -1,9 +1,33 @@
 # OA Format
 
-365 questions from 87 companys, newest first. [← all topics](../README.md#topics)
+390 questions from 89 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-30 | [Nvidia](../companies/nvidia.md) | Unknown | [System Software OA format](../companies/nvidia.md#q1-system-software-oa-format) |
+| 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [NVIDIA OA pattern](../companies/nvidia.md#q1-nvidia-oa-pattern) |
+| 2026-10-30 | [Deloitte](../companies/deloitte.md) | IIT Indore | [Vibe coding round: write a prompt](../companies/deloitte.md#q1-vibe-coding-round-write-a-prompt) |
+| 2026-10-30 | [MathWorks](../companies/mathworks.md) | VNIT Nagpur | [MathWorks OA pattern](../companies/mathworks.md#q1-mathworks-oa-pattern) |
+| 2026-10-30 | [LeadSquared](../companies/leadsquared.md) | IIIT Delhi | [LeadSquared OA pattern](../companies/leadsquared.md#q1-leadsquared-oa-pattern) |
+| 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) |
+| 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT BHU | [Plutus OA language restriction](../companies/plutus-research.md#q1-plutus-oa-language-restriction) |
+| 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT Kharagpur/Kanpur | [Plutus OA language allowed](../companies/plutus-research.md#q1-plutus-oa-language-allowed) |
+| 2026-10-30 | [Tredence](../companies/tredence.md) | IIT Dhanbad | [Tredence AI-based communication round](../companies/tredence.md#q1-tredence-ai-based-communication-round) |
+| 2026-10-29 | [Futures First](../companies/futures-first.md) | IIT BHU | [Futures First OA experience](../companies/futures-first.md#q1-futures-first-oa-experience) |
+| 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [MCP / AI / LLM / prompt engineering MCQs](../companies/blackrock.md#q5-mcp--ai--llm--prompt-engineering-mcqs) |
+| 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Cloud MCQ sections (glitched)](../companies/blackrock.md#q4-cloud-mcq-sections-glitched) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence communication round contents](../companies/tredence.md#q1-tredence-communication-round-contents) |
+| 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Consulting role OA pattern](../companies/accenture.md#q2-consulting-role-oa-pattern) |
+| 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture consulting OA format](../companies/accenture.md#q1-accenture-consulting-oa-format) |
+| 2026-10-29 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Mastercard Associate Consultant OA pattern](../companies/mastercard.md#q1-mastercard-associate-consultant-oa-pattern) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [OA format and sections](../companies/tredence.md#q1-oa-format-and-sections) |
+| 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture Management Consulting OA pattern](../companies/accenture.md#q1-accenture-management-consulting-oa-pattern) |
+| 2026-10-29 | [Mastercard](../companies/mastercard.md) | IIT Guwahati | [Mastercard product role OA pattern](../companies/mastercard.md#q1-mastercard-product-role-oa-pattern) |
+| 2026-10-29 | [Arihant Capital](../companies/arihant-capital.md) | IIT Guwahati | [Arihant Capital OA pattern](../companies/arihant-capital.md#q1-arihant-capital-oa-pattern) |
+| 2026-10-29 | [Nvidia](../companies/nvidia.md) | Unknown | [Nvidia SSE OA test format](../companies/nvidia.md#q1-nvidia-sse-oa-test-format) |
+| 2026-10-29 | [Unknown](../companies/unknown.md) | IIT Guwahati | [AI Engineering profile OA contents](../companies/unknown.md#q1-ai-engineering-profile-oa-contents) |
+| 2026-10-29 | [NatWest](../companies/natwest.md) | IIT BHU | [NatWest SWE OA pattern](../companies/natwest.md#q1-natwest-swe-oa-pattern) |
+| 2026-10-29 | [Accenture](../companies/accenture.md) | IIT BHU | [Elite role OA pattern](../companies/accenture.md#q1-elite-role-oa-pattern) |
 | 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Email writing round](../companies/accenture.md#q1-email-writing-round) |
 | 2026-10-29 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Hyderabad | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern) |
 | 2026-10-29 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [HiLabs product role process](../companies/hilabs.md#q1-hilabs-product-role-process) |
@@ -17,6 +41,7 @@
 | 2026-10-29 | [Amazon](../companies/amazon.md) | BITS | [Amazon SDE OA pattern change](../companies/amazon.md#q1-amazon-sde-oa-pattern-change) |
 | 2026-10-29 | [American Express](../companies/american-express.md) | MNNIT Allahabad | [Amex analyst and AI engineer OA format](../companies/american-express.md#q1-amex-analyst-and-ai-engineer-oa-format) |
 | 2026-10-29 | [Unknown](../companies/unknown.md) | Unknown | [Paytm SDE OA format](../companies/unknown.md#q1-paytm-sde-oa-format) |
+| 2026-10-28 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [MCQ section on prompting and RAG](../companies/cognizant.md#q4-mcq-section-on-prompting-and-rag) |
 | 2026-10-28 | [Plutus Research](../companies/plutus-research.md) | IIT Kharagpur | [Plutus Research OA pattern](../companies/plutus-research.md#q1-plutus-research-oa-pattern) |
 | 2026-10-28 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [Tiger Analytics OA pattern](../companies/tiger-analytics.md#q1-tiger-analytics-oa-pattern) |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Deloitte vibe coding and debugging rounds](../companies/deloitte.md#q1-deloitte-vibe-coding-and-debugging-rounds) |
@@ -204,7 +229,7 @@
 | 2026-10-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Data Science OA: Python, SQL and Pandas](../companies/eternal-zomato.md#q1-data-science-oa-python-sql-and-pandas) |
 | 2026-10-18 | [Juspay](../companies/juspay.md) | IIT BHU | [Smart city traffic, Network Technician's Mission, Cloud Network Bandwidth Pricing](../companies/juspay.md#q1-smart-city-traffic-network-technicians-mission-cloud-network-bandwidth-pricing) |
 | 2026-10-18 | [Unknown](../companies/unknown.md) | IIT Bombay | [Sony Japan OA format](../companies/unknown.md#q1-sony-japan-oa-format) |
-| 2026-10-18 | [Nvidia](../companies/nvidia.md) | Unknown | [System Software OA format](../companies/nvidia.md#q1-system-software-oa-format) |
+| 2026-10-18 | [Nvidia](../companies/nvidia.md) | Unknown | [System Software OA format](../companies/nvidia.md#q1-system-software-oa-format-1) |
 | 2026-10-18 | [Sony](../companies/sony.md) | IIT Bombay | [Sony Japan OA format](../companies/sony.md#q1-sony-japan-oa-format) |
 | 2026-10-18 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [Alight OA overview](../companies/alight-solutions.md#q1-alight-oa-overview) |
 | 2026-10-18 | [Flipkart](../companies/flipkart.md) | IIT BHU | [OA format](../companies/flipkart.md#q1-oa-format) |

@@ -1,9 +1,10 @@
 # Web Dev
 
-49 questions from 14 companys, newest first. [← all topics](../README.md#topics)
+50 questions from 14 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Indore | [Accenture ETE frontend: input max-length, letter-spacing, trim spaces](../companies/accenture.md#q1-accenture-ete-frontend-input-max-length-letter-spacing-trim-spaces) |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Backend question (not remembered)](../companies/qicap.md#q4-backend-question-not-remembered) |
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Indore | [Live search input display with HTML, CSS and JavaScript](../companies/accenture.md#q2-live-search-input-display-with-html-css-and-javascript) |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [HTML: replace text with <del>/<ins> and add a link](../companies/deloitte.md#q4-html-replace-text-with-delins-and-add-a-link) |

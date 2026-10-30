@@ -1,9 +1,10 @@
 # Graphs
 
-86 questions from 27 companys, newest first. [← all topics](../README.md#topics)
+87 questions from 27 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-29 | [QiCap](../companies/qicap.md) | IIT Kharagpur | [Infection spread with interactions and vaccination](../companies/qicap.md#q1-infection-spread-with-interactions-and-vaccination) | |
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Guwahati | [DFS / Dijkstra question](../companies/natwest.md#q3-dfs--dijkstra-question) | |
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Guwahati | [Multisource BFS problem](../companies/natwest.md#q1-multisource-bfs-problem) | |
 | 2026-10-28 | [Plutus Research](../companies/plutus-research.md) | IIT Guwahati | [Sum of connected components after removing each node](../companies/plutus-research.md#q1-sum-of-connected-components-after-removing-each-node) | |

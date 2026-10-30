@@ -1,9 +1,10 @@
 # Hashing
 
-81 questions from 36 companys, newest first. [← all topics](../README.md#topics)
+82 questions from 37 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-29 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Count anagrams](../companies/deutsche-bank.md#q1-count-anagrams) | |
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Guwahati | [LRU Cache](../companies/natwest.md#q5-lru-cache) | [146](https://leetcode.com/problems/lru-cache/) Medium |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Count paths that can form a palindrome in a tree](../companies/qicap.md#q3-count-paths-that-can-form-a-palindrome-in-a-tree) | [2791](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) Hard |
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Group products by category and total amount](../companies/eternal-zomato.md#q1-group-products-by-category-and-total-amount) | |

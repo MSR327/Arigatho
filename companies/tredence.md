@@ -1,13 +1,39 @@
 # Tredence
 
-**21 questions** · 10 drives · latest 29 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**44 questions** · 13 drives · latest 30 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 5 · [SQL](../topics/sql.md) 5 · [Arrays](../topics/arrays.md) 5 · [Hashing](../topics/hashing.md) 3 · [Graphs](../topics/graphs.md) 3 · [DP](../topics/dp.md) 3 · [Python & Pandas](../topics/python-pandas.md) 2 · [Heaps](../topics/heaps.md) 2 · +8 more  
-**Seen at:** IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad, VIT Vellore, VNIT Nagpur
+**Asks about:** [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [OA Format](../topics/oa-format.md) 8 · [Aptitude](../topics/aptitude.md) 6 · [SQL](../topics/sql.md) 5 · [Arrays](../topics/arrays.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +10 more  
+**Seen at:** IIIT Hyderabad, IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad, VIT Vellore, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · IIT Dhanbad · FTE](#2026-10-30--iit-dhanbad--fte)
+  - [Tredence AI-based communication round](#q1-tredence-ai-based-communication-round)
+- [2026-10-29 · IIT Hyderabad · FTE · Other round](#2026-10-29--iit-hyderabad--fte--other-round)
+  - [Tredence communication round contents](#q1-tredence-communication-round-contents)
+- [2026-10-29 · IIIT Hyderabad · FTE](#2026-10-29--iiit-hyderabad--fte)
+  - [OA format and sections](#q1-oa-format-and-sections)
+  - [Output of priority-queue subarray-sum pseudocode](#q2-output-of-priority-queue-subarray-sum-pseudocode)
+  - [Type I error in a criminal trial](#q3-type-i-error-in-a-criminal-trial)
+  - [Process with discrete events in a continuous finite interval](#q4-process-with-discrete-events-in-a-continuous-finite-interval)
+  - [Difference between population parameter and sample statistic](#q5-difference-between-population-parameter-and-sample-statistic)
+  - [Babe Ruth expected hits (binomial)](#q6-babe-ruth-expected-hits-binomial)
+  - [Model-based learning iterative process](#q7-model-based-learning-iterative-process)
+  - [True statements about PCA](#q8-true-statements-about-pca)
+  - [Accuracy from a 3x3 confusion matrix](#q9-accuracy-from-a-3x3-confusion-matrix)
+  - [Activation function causing vanishing gradients](#q10-activation-function-causing-vanishing-gradients)
+  - [Techniques to minimize a cost function over parameters](#q11-techniques-to-minimize-a-cost-function-over-parameters)
+  - [Two boxes of shirts: probability](#q12-two-boxes-of-shirts-probability)
+  - [Output layer config for 3-class classification](#q13-output-layer-config-for-3-class-classification)
+  - [Chess/scheme game probabilities (partial)](#q14-chessscheme-game-probabilities-partial)
+  - [Umesh and Reena ratio problem](#q15-umesh-and-reena-ratio-problem)
+  - [Boat speed in still water](#q16-boat-speed-in-still-water)
+  - [Simple MLP with linear activation](#q17-simple-mlp-with-linear-activation)
+  - [Pick the synonym of 'detestable'](#q18-pick-the-synonym-of-detestable)
+  - [Chess game series: probability Alice wins](#q19-chess-game-series-probability-alice-wins)
+  - [Fill the pandas blanks and explain](#q20-fill-the-pandas-blanks-and-explain)
+  - [Write reusable quick_eda(df) function](#q21-write-reusable-quick_edadf-function)
 - [2026-10-28 · IIT Hyderabad · FTE](#2026-10-28--iit-hyderabad--fte)
   - [Longest prefix split into two parts with sum difference at most K](#q1-longest-prefix-split-into-two-parts-with-sum-difference-at-most-k)
   - [SQL: all reportees of Candice with level](#q2-sql-all-reportees-of-candice-with-level)
@@ -43,6 +69,300 @@
 </details>
 
 ---
+
+## 2026-10-30 · IIT Dhanbad · FTE
+
+### Q1. Tredence AI-based communication round
+
+The communication round is an AI-based (SpeechX) test. The AI speaks a paragraph and you have to answer based on it.
+
+The exact questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1227), [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1228)</sub>
+
+## 2026-10-29 · IIT Hyderabad · FTE · Other round
+
+### Q1. Tredence communication round contents
+
+The communication round had several sections:
+- A sentence is shown and you have to speak it.
+- Hear a sentence and speak it back.
+- Speak on a topic they give.
+- Several grammar questions.
+
+<sub>Topics: Verbal, OA Format · Source: [chat, 29 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L267)</sub>
+
+## 2026-10-29 · IIIT Hyderabad · FTE
+
+### Q1. OA format and sections
+
+Sections: General Aptitude (Data Interpretation & Logical Reasoning, Quant, Verbal Ability & Reading Comprehension), Programming (DSA, Python, SQL), Data Science (Stats, ML, DL).
+
+Total 38 questions: 34 MCQ, 2 subjective, 1 programming, 1 SQL question. Total sections: 20. Total score: 125.
+
+<sub>Topics: OA Format · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q2. Output of priority-queue subarray-sum pseudocode
+
+```
+int func(int arr[], int n, int k)
+{
+    int res[] = new int[n+1];
+    res[0] = 0;
+    res[1] = arr[0];
+    for (int i = 2; i <= n; i++)
+        res[i] = res[i-1] + arr[i-1];
+    PriorityQueue<Integer> p = new PriorityQueue<Integer>();
+    for (int i = 1; i <= n; i++)
+    {
+        for (int j = i; j <= n; j++)
+        {
+            int res2 = res[j] - res[i-1];
+            if (p.size() < k)
+                p.add(res1);
+            else
+                if (p.peek() < res1)
+                {
+                    p.poll(); p.add(res1);
+                }
+        }
+    }
+    return p.poll();
+}
+```
+
+For `arr[] = {2, -5, -7, 6, 4, 3, -10}`, `k = 3`, `n = 7`, what is the output of the program?
+
+(Transcribed as written: the variable is res2 on one line and res1 in later lines; the inner loop start (j = i or j = 1) was hard to read.)
+
+<sub>Topics: Code Output (C/C++/Java/Python), Heaps · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q3. Type I error in a criminal trial
+
+Consider a trial of a criminal. If Type I error has occurred in judgement then which of the following statements is true?
+
+A. A guilty person is set free
+B. An innocent person is convicted
+C. A guilty person is convicted
+D. An innocent person is set free
+
+<sub>Topics: ML/AI, Math · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q4. Process with discrete events in a continuous finite interval
+
+In which process do discrete events occur in a continuous but finite interval of time/space in Data Science?
+
+A. Poisson distribution
+B. Binomial distribution
+C. Linear regression
+D. Lambda expression
+
+<sub>Topics: ML/AI, Math · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q5. Difference between population parameter and sample statistic
+
+What is the difference between a population parameter and a sample statistic?
+
+(Options were not captured.)
+
+<sub>Topics: ML/AI, Math · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q6. Babe Ruth expected hits (binomial)
+
+In 1929, Babe Ruth had 522 bats with 205 hits. Assuming that binomial distribution can be appropriately applied, find the expected number of hits in 529 at bats.
+
+A. 321
+B. 186
+C. 230
+D. 208
+
+<sub>Topics: Math, ML/AI · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q7. Model-based learning iterative process
+
+In model based learning methods, an iterative process takes place on ML models that are built based on various model ____?
+
+A. mini-batches
+B. optimized param
+C. hyper param
+D. super param
+
+<sub>Topics: ML/AI · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q8. True statements about PCA
+
+Which are true for PCA?
+
+1. It performs mean normalization.
+2. It creates an embedding of the dataset and attempts to preserve relationships in the dataset.
+3. It uses covariance matrix and eigenvectors for its implementation.
+4. Data scaling is not required before implementation.
+5. Every principal component is always orthogonal.
+
+<sub>Topics: ML/AI · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q9. Accuracy from a 3x3 confusion matrix
+
+What is accuracy based on the following confusion matrix?
+
+```
+C = [[14, 0, 0],
+     [ 1, 15, 0],
+     [ 0, 0, 6]]
+```
+
+A. 0.75
+B. 0.97
+C. 0.95
+D. 0.85
+
+<sub>Topics: ML/AI, Math · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q10. Activation function causing vanishing gradients
+
+Which activation function can lead to vanishing gradients?
+
+A. ReLU
+B. Tanh
+C. Leaky ReLU
+D. None of the above
+
+<sub>Topics: ML/AI · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q11. Techniques to minimize a cost function over parameters
+
+Suppose we have to minimize a cost function by changing the parameters. Which of the following techniques could be used for this?
+
+A. Exhaustive search
+B. Random search
+C. Bayesian optimization
+D. All of the above
+
+<sub>Topics: ML/AI · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q12. Two boxes of shirts: probability
+
+Box 1 has 5 Black and 3 Green shirts. Box 2 has 3 Black and 5 Green shirts. One shirt is picked randomly from Box 1 and put in the other box (P(shirt is black) = 5/8, P(shirt is green) = 3/8). Then a shirt is picked from the 2nd box.
+
+(The exact final question was not fully legible in the photo.)
+
+<sub>Topics: Math, Aptitude · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q13. Output layer config for 3-class classification
+
+You need to classify into 3 classes from a dataset. Which config would you use in the output layer?
+
+```
+Activation fn   Loss fn
+Softmax         Cross entropy
+Sigmoid         Cross entropy
+Softmax         Mean square error
+Sigmoid         Mean squared error
+```
+
+<sub>Topics: ML/AI · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q14. Chess/scheme game probabilities (partial)
+
+A game where Pr(Alice wins) and Pr(Bob wins) must be found, with some numbers (200, 450, ...) in the notes.
+
+(Only partial handwritten notes were visible; the full question is missing.)
+
+<sub>Topics: Math, Aptitude · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q15. Umesh and Reena ratio problem
+
+Umesh = 4 × Reena (in some quantity), and after adding 6 to each the relation is written as 4(x + 6) = 7x (with u = 7x, m = 6x in the notes).
+
+(The full question text was not legible; only the handwritten working was visible.)
+
+<sub>Topics: Aptitude, Math · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q16. Boat speed in still water
+
+Upstream speed = 22 km/hr, downstream speed = 34 km/hr. What is the speed of the boat in still water?
+
+<sub>Topics: Aptitude, Math · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q17. Simple MLP with linear activation
+
+Assume a simple MLP model with 3 neurons and inputs 1, 2, 3. The weights of the neurons are 4, 5, 6. Assume the activation function is linear with a constant value of 3. What will be the output?
+
+A. 32
+B. 64
+C. 96
+D. 128
+
+<sub>Topics: ML/AI · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q18. Pick the synonym of 'detestable'
+
+Detestable synonym:
+
+A. Horrible
+B. Palatable
+C. Disagreeable
+D. Tasteless
+
+<sub>Topics: Verbal · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q19. Chess game series: probability Alice wins
+
+Alice and Bob play a series of 5 chess games. The probability that Alice wins a game is 2/5 and that Bob wins a game is 3/5. There is no probability of a draw. The series is won by the person who wins 3 matches, and the series ends the moment either one wins 3 matches. Determine the probability of Alice winning the series.
+
+A. 992/3125
+B. 273/625
+C. 1021/3125
+D. 1081/3125
+
+<sub>Topics: Math, Aptitude · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q20. Fill the pandas blanks and explain
+
+```python
+import pandas as pd
+df = pd.read_csv("sales.csv")
+
+# 1. Drop columns where all values are missing
+df = df.____(axis=1, how='all')
+# 2. Remove duplicate rows, keeping the first occurrence
+df = df.____(keep='____')
+# 3. Fill missing values in 'revenue' with column median
+df['revenue'] = df['revenue'].____(df['revenue'].median())
+# 4. Normalise col. names: lowercase + replace spaces with underscores
+df.columns = df.columns.____.____('_', '_')   # step A, step B
+```
+
+Tasks:
+1. Fill all 4 blanks with correct pandas methods/arguments.
+2. For blank 2, why is keep='first' the safe default? Name one situation where you would use keep=False instead.
+3. For blank 4, why clean column names that way before modelling?
+
+<sub>Topics: Python & Pandas · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
+
+### Q21. Write reusable quick_eda(df) function
+
+Write a reusable function `quick_eda(df)` that prints a structured summary automatically. Sample dataset it will be tested on:
+
+```
+customer_id  age  city     purchase_amount  subscribed
+1001         34   Mumbai   2500.0           Yes
+1002         NaN  Delhi    1800.0           No
+1003         29   Mumbai   NaN              Yes
+1004         45   Chennai  3200.0           Yes
+1005         NaN  Delhi    1800.0           No
+```
+
+Your function must print:
+1. Shape of dataframe - rows & columns
+2. Data type of each column
+3. Count & percentage of missing values per column (only show columns that have at least one missing value)
+4. Number of duplicate rows
+5. For numeric columns only - mean, median, min, max, ...
+
+(The list was cut off after item 5 in the photo.)
+
+<sub>Topics: Python & Pandas · Source: [Tredence IIITH Oct 29, 2026.pdf](../archive/files/16135-Tredence_IIITH_Oct_29_2026.pdf)</sub>
 
 ## 2026-10-28 · IIT Hyderabad · FTE
 

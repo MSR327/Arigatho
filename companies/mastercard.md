@@ -1,15 +1,19 @@
 # Mastercard
 
-**6 questions** · 4 drives · latest 29 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 6 drives · latest 30 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 4 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1  
-**Seen at:** IIIT Sri City, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [SQL](../topics/sql.md) 1 · [Python & Pandas](../topics/python-pandas.md) 1  
+**Seen at:** IIIT Sri City, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-29 · IIT Roorkee · FTE · Associate Consultant](#2026-10-29--iit-roorkee--fte--associate-consultant)
+  - [Mastercard Associate Consultant OA pattern](#q1-mastercard-associate-consultant-oa-pattern)
 - [2026-10-29 · IIT Guwahati · FTE · Product Specialist](#2026-10-29--iit-guwahati--fte--product-specialist)
   - [Mastercard Product Specialist OA pattern](#q1-mastercard-product-specialist-oa-pattern)
+- [2026-10-29 · IIT Guwahati · FTE · Product](#2026-10-29--iit-guwahati--fte--product)
+  - [Mastercard product role OA pattern](#q1-mastercard-product-role-oa-pattern)
 - [2026-10-28 · IIT Guwahati · FTE · Data Science](#2026-10-28--iit-guwahati--fte--data-science)
   - [Mastercard Data Science OA topics](#q1-mastercard-data-science-oa-topics)
   - [Mastercard DS OA contents](#q2-mastercard-ds-oa-contents)
@@ -23,6 +27,16 @@
 
 ---
 
+## 2026-10-29 · IIT Roorkee · FTE · Associate Consultant
+
+### Q1. Mastercard Associate Consultant OA pattern
+
+The OA has logical reasoning, verbal and quantitative aptitude questions.
+
+No individual questions were shared.
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2905)</sub>
+
 ## 2026-10-29 · IIT Guwahati · FTE · Product Specialist
 
 ### Q1. Mastercard Product Specialist OA pattern
@@ -32,6 +46,14 @@
 - Math: 20 questions, 20 mins
 
 <sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L466)</sub>
+
+## 2026-10-29 · IIT Guwahati · FTE · Product
+
+### Q1. Mastercard product role OA pattern
+
+9 SQL MCQs and 1 SQL coding question, 10 Excel MCQs, Python MCQs and 1 Python DSA question. Specific questions not shared.
+
+<sub>Topics: OA Format, SQL, Python & Pandas · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L497) · Also asked at: IIT Guwahati (2026-10-30)</sub>
 
 ## 2026-10-28 · IIT Guwahati · FTE · Data Science
 

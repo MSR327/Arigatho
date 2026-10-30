@@ -1,9 +1,13 @@
 # Sorting
 
-40 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+44 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Merge overlapping intervals](../companies/paytm.md#q3-merge-overlapping-intervals) | [56](https://leetcode.com/problems/merge-intervals/) Medium |
+| 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Maximise sum of unique building heights](../companies/deutsche-bank.md#q1-maximise-sum-of-unique-building-heights) | |
+| 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [AI-assisted paginated API fetch then sort](../companies/blackrock.md#q1-ai-assisted-paginated-api-fetch-then-sort) | |
+| 2026-10-28 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [Put marbles in bags](../companies/cognizant.md#q2-put-marbles-in-bags) | [2551](https://leetcode.com/problems/put-marbles-in-bags/) Hard |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Minimum adjacent swaps with equal set bits to sort](../companies/qicap.md#q1-minimum-adjacent-swaps-with-equal-set-bits-to-sort) | |
 | 2026-10-28 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Kth largest element in an array](../companies/tredence.md#q3-kth-largest-element-in-an-array) | [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) Medium |
 | 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Delhi | [Maximise score by rearranging b](../companies/eternal-zomato.md#q1-maximise-score-by-rearranging-b) | |

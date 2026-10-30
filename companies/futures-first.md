@@ -1,13 +1,15 @@
 # Futures First
 
-**36 questions** · 7 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
+**37 questions** · 8 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 35 · [Math](../topics/math.md) 7 · [Puzzles](../topics/puzzles.md) 4 · [OA Format](../topics/oa-format.md) 2  
+**Asks about:** [Aptitude](../topics/aptitude.md) 35 · [Math](../topics/math.md) 7 · [Puzzles](../topics/puzzles.md) 4 · [OA Format](../topics/oa-format.md) 3  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Madras, IIT Mandi, IIT Roorkee, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-29 · IIT BHU · FTE · International Markets Trainee](#2026-10-29--iit-bhu--fte--international-markets-trainee)
+  - [Futures First OA experience](#q1-futures-first-oa-experience)
 - [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte)
   - [Speed Math: 88888 + 8888 + 888 + 88 + 8](#q1-speed-math-88888--8888--888--88--8)
   - [Speed Math: 8750 ÷ 3.5 + 6250 ÷ 2.5](#q2-speed-math-8750--35--6250--25)
@@ -55,6 +57,14 @@
 </details>
 
 ---
+
+## 2026-10-29 · IIT BHU · FTE · International Markets Trainee
+
+### Q1. Futures First OA experience
+
+Too many lengthy questions, time was not enough, and there was negative marking. No question details were given.
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L612)</sub>
 
 ## 2026-10-19 · MNNIT Allahabad · FTE
 
@@ -154,7 +164,7 @@ Compute (45.6)^2 − (44.4)^2 = ? (Answer given: 108)
 
 Futures First OA had 2 sections: (1) Aptitude: 51 questions in 35 minutes; (2) Speed math: 15 questions in 5 minutes. No question details were shared.
 
-<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1601) · Also asked at: IIT BHU ×2 (last 2026-10-19), IIT Roorkee (2026-10-21), Unknown (2026-10-27), IIT Guwahati (2026-10-28)</sub>
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1601) · Also asked at: Unknown (2026-10-27), IIT Guwahati (2026-10-28), IIT BHU ×3 (last 2026-10-30), IIT Roorkee ×4 (last 2026-10-30)</sub>
 
 ## 2026-10-14 · IIT Madras · FTE
 

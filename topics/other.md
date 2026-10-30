@@ -1,9 +1,11 @@
 # Other
 
-27 questions from 11 companys, newest first. [← all topics](../README.md#topics)
+29 questions from 13 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-30 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [VLSI & EDA topics](../companies/texas-instruments.md#q4-vlsi--eda-topics) |
+| 2026-10-28 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [Third hard DSA question](../companies/cognizant.md#q3-third-hard-dsa-question) |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [PivotTable custom calculations](../companies/accenture.md#q29-pivottable-custom-calculations) |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [PowerPoint dynamic progression feature](../companies/accenture.md#q23-powerpoint-dynamic-progression-feature) |
 | 2026-10-25 | [Accenture](../companies/accenture.md) | BITS Pilani | [Word document template format](../companies/accenture.md#q19-word-document-template-format) |

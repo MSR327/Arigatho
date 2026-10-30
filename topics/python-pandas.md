@@ -1,9 +1,12 @@
 # Python & Pandas
 
-40 questions from 11 companys, newest first. [← all topics](../README.md#topics)
+43 questions from 12 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Write reusable quick_eda(df) function](../companies/tredence.md#q21-write-reusable-quick_edadf-function) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Fill the pandas blanks and explain](../companies/tredence.md#q20-fill-the-pandas-blanks-and-explain) |
+| 2026-10-29 | [Mastercard](../companies/mastercard.md) | IIT Guwahati | [Mastercard product role OA pattern](../companies/mastercard.md#q1-mastercard-product-role-oa-pattern) |
 | 2026-10-28 | [Unknown](../companies/unknown.md) | IIT Roorkee | [Data preprocessing and ML model with F1 score](../companies/unknown.md#q1-data-preprocessing-and-ml-model-with-f1-score) |
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Group products by category and total amount](../companies/eternal-zomato.md#q1-group-products-by-category-and-total-amount) |
 | 2026-10-28 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Python data cleaning and dataset summary function](../companies/tredence.md#q6-python-data-cleaning-and-dataset-summary-function) |

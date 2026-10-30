@@ -1,9 +1,17 @@
 # Digital Electronics
 
-17 questions from 4 companys, newest first. [← all topics](../README.md#topics)
+25 questions from 4 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-30 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [VLSI & EDA topics](../companies/texas-instruments.md#q4-vlsi--eda-topics) |
+| 2026-10-30 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Verilog HDL topics](../companies/texas-instruments.md#q3-verilog-hdl-topics) |
+| 2026-10-30 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [CMOS & VLSI topics](../companies/texas-instruments.md#q2-cmos--vlsi-topics) |
+| 2026-10-30 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Digital Electronics topics](../companies/texas-instruments.md#q1-digital-electronics-topics) |
+| 2026-10-29 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Implement a 4-bit BCD adder](../companies/texas-instruments.md#q4-implement-a-4-bit-bcd-adder) |
+| 2026-10-29 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Critical path delay of a register circuit](../companies/texas-instruments.md#q3-critical-path-delay-of-a-register-circuit) |
+| 2026-10-29 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Clock cycles for memory access](../companies/texas-instruments.md#q2-clock-cycles-for-memory-access) |
+| 2026-10-29 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Number of cells in 16GB NAND flash](../companies/texas-instruments.md#q1-number-of-cells-in-16gb-nand-flash) |
 | 2026-10-27 | [IBM](../companies/ibm.md) | IIT Kanpur | [IBM hardware role test pattern](../companies/ibm.md#q1-ibm-hardware-role-test-pattern) |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [32-bit multiplication on a 16-bit multiplier ALU](../companies/nvidia.md#q7-32-bit-multiplication-on-a-16-bit-multiplier-alu) |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Ripple counter settling time](../companies/texas-instruments.md#q57-ripple-counter-settling-time) |

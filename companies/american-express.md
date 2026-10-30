@@ -1,6 +1,6 @@
 # American Express
 
-**54 questions** · 32 drives · latest 29 Oct 2026 · [15 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**54 questions** · 32 drives · latest 30 Oct 2026 · [15 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 31 · [ML/AI](../topics/ml-ai.md) 8 · [Hashing](../topics/hashing.md) 6 · [Strings](../topics/strings.md) 5 · [Sliding Window](../topics/sliding-window.md) 5 · [Trees](../topics/trees.md) 5 · [Graphs](../topics/graphs.md) 5 · [Aptitude](../topics/aptitude.md) 3 · +9 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Mandi, IIT Roorkee +1 more
@@ -217,7 +217,7 @@ All MCQs: easy SQL, Python, aptitude and prompt engineering.
 
 The poster noted many questions in sections 1 and 2 were wrong, with options not matching.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/american-express-oa/2026-10.jsonl#L3), [chat, 27 Oct](../archive/american-express-oa/2026-10.jsonl#L4) · Also asked at: IIT Delhi (2026-10-29), IIT Guwahati ×3 (last 2026-10-29)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/american-express-oa/2026-10.jsonl#L3), [chat, 27 Oct](../archive/american-express-oa/2026-10.jsonl#L4) · Also asked at: IIT Delhi (2026-10-29), IIT Guwahati ×3 (last 2026-10-29), IIT Roorkee (2026-10-30)</sub>
 
 ## 2026-10-27 · IIT Guwahati · FTE
 
@@ -467,7 +467,7 @@ LeetCode 2477: Minimum Fuel Cost to Report to the Capital.
 
 45 MCQs, no DSA coding. Described as a formality; shortlisting will be based on CPI.
 
-<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L174) · Also asked at: IIT Guwahati (2026-10-29)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L174) · Also asked at: IIT Guwahati (2026-10-29), IIT Delhi (2026-10-29)</sub>
 
 ## 2026-10-23 · IIT Guwahati · FTE · Data Engineer / Data Science / AI
 

@@ -1,13 +1,18 @@
 # Paytm
 
-**17 questions** · 6 drives · latest 29 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**21 questions** · 7 drives · latest 30 Oct 2026 · [5 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Strings](../topics/strings.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · [Other](../topics/other.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · +6 more  
-**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University
+**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · [Greedy](../topics/greedy.md) 2 · +10 more  
+**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · Delhi Technological University · FTE · SDE](#2026-10-30--delhi-technological-university--fte--sde)
+  - [Maximum even subsequence in an array](#q1-maximum-even-subsequence-in-an-array)
+  - [Minimum cost to make two strings equal](#q2-minimum-cost-to-make-two-strings-equal)
+  - [Merge overlapping intervals](#q3-merge-overlapping-intervals)
+  - [Smallest subarray containing min and max](#q4-smallest-subarray-containing-min-and-max)
 - [2026-10-29 · Unknown · FTE · SDE](#2026-10-29--unknown--fte--sde)
   - [Paytm SQL question on multiple joins](#q1-paytm-sql-question-on-multiple-joins)
 - [2026-10-29 · BIT Mesra · FTE](#2026-10-29--bit-mesra--fte)
@@ -35,6 +40,32 @@
 </details>
 
 ---
+
+## 2026-10-30 · Delhi Technological University · FTE · SDE
+
+### Q1. Maximum even subsequence in an array
+
+Maximum Even Subsequence in an Array (Greedy / DP). Only the title was shared.
+
+<sub>Topics: Greedy, DP · Source: [chat, 30 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L62)</sub>
+
+### Q2. Minimum cost to make two strings equal
+
+Minimum Cost to Make Two Strings Equal (Strings / Greedy). Only the title was shared.
+
+<sub>Topics: Strings, Greedy · Source: [chat, 30 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L62)</sub>
+
+### Q3. Merge overlapping intervals
+
+Merge Overlapping Intervals (Sorting). Only the title was shared.
+
+<sub>Topics: Sorting, Arrays · Similar: [LeetCode 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Medium) · Source: [chat, 30 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L62)</sub>
+
+### Q4. Smallest subarray containing min and max
+
+Smallest Subarray Containing Min and Max (Sliding Window). Only the title was shared.
+
+<sub>Topics: Sliding Window, Arrays · Source: [chat, 30 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L62)</sub>
 
 ## 2026-10-29 · Unknown · FTE · SDE
 
@@ -86,7 +117,7 @@ Paytm OA for the software role consisted of:
 
 The actual questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L113)</sub>
+<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L113) · Also asked at: IIT BHU (2026-10-29), Unknown (2026-10-30)</sub>
 
 ## 2026-09-21 · Unknown · Unknown · Other round
 

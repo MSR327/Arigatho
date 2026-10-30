@@ -1,15 +1,24 @@
 # Accenture
 
-**271 questions** · 89 drives · latest 29 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**276 questions** · 93 drives · latest 29 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 70 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 27 · [Web Dev](../topics/web-dev.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +15 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 74 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +16 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-29 · IIT Indore · FTE](#2026-10-29--iit-indore--fte)
+  - [Accenture ETE frontend: input max-length, letter-spacing, trim spaces](#q1-accenture-ete-frontend-input-max-length-letter-spacing-trim-spaces)
 - [2026-10-29 · IIT Hyderabad · FTE · ETE](#2026-10-29--iit-hyderabad--fte--ete)
   - [Email writing round](#q1-email-writing-round)
+- [2026-10-29 · IIT Hyderabad · FTE · Consulting](#2026-10-29--iit-hyderabad--fte--consulting)
+  - [Accenture consulting OA format](#q1-accenture-consulting-oa-format)
+  - [Consulting role OA pattern](#q2-consulting-role-oa-pattern)
+- [2026-10-29 · IIT Hyderabad · FTE · Management Consulting Associate](#2026-10-29--iit-hyderabad--fte--management-consulting-associate)
+  - [Accenture Management Consulting OA pattern](#q1-accenture-management-consulting-oa-pattern)
+- [2026-10-29 · IIT BHU · FTE · Elite](#2026-10-29--iit-bhu--fte--elite)
+  - [Elite role OA pattern](#q1-elite-role-oa-pattern)
 - [2026-10-28 · IIT Roorkee · FTE · Elite](#2026-10-28--iit-roorkee--fte--elite)
   - [Minimum increase in experience multiplier](#q1-minimum-increase-in-experience-multiplier)
 - [2026-10-28 · IIT Indore · FTE · Elite](#2026-10-28--iit-indore--fte--elite)
@@ -373,6 +382,19 @@
 
 ---
 
+## 2026-10-29 · IIT Indore · FTE
+
+### Q1. Accenture ETE frontend: input max-length, letter-spacing, trim spaces
+
+Frontend part of the Accenture ETE OA:
+- HTML: add a max-length attribute to the `<input class="context">` element.
+- CSS: apply `letter-spacing: 1px` (given in the question).
+- JS: remove leading and trailing spaces from the input and show the result in the output div (e.g. via innerHTML). DOM manipulation was the key.
+
+Full statement not shared.
+
+<sub>Topics: Web Dev · Source: [chat, 29 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L93), [chat, 29 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L94)</sub>
+
 ## 2026-10-29 · IIT Hyderabad · FTE · ETE
 
 ### Q1. Email writing round
@@ -380,6 +402,36 @@
 A 30-minute email writing round. The full context and details are provided, and you write a professional email based on them. The format is a TO section, then the subject, then the body.
 
 <sub>Topics: Verbal, OA Format · Source: [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1302), [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1309)</sub>
+
+## 2026-10-29 · IIT Hyderabad · FTE · Consulting
+
+### Q1. Accenture consulting OA format
+
+OA held on 2026-10-29 at IIT Hyderabad for the Accenture consulting role: aptitude only (MCQs), no SQL and no coding questions. Some questions were repeated from previous years' papers.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 29 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L423), [chat, 29 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L424)</sub>
+
+### Q2. Consulting role OA pattern
+
+The OA consisted only of aptitude MCQs.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1339) · Also asked at: IIT Hyderabad (2026-10-29)</sub>
+
+## 2026-10-29 · IIT Hyderabad · FTE · Management Consulting Associate
+
+### Q1. Accenture Management Consulting OA pattern
+
+55 minutes, 48 Mental Ability questions. Covered basic aptitude, patterns, verbal and understanding scenarios.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 29 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L263), [chat, 30 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L270)</sub>
+
+## 2026-10-29 · IIT BHU · FTE · Elite
+
+### Q1. Elite role OA pattern
+
+3 sections: 1 SQL, 1 DSA and 1 frontend; difficulty mostly easy. The frontend section has HTML, CSS and JS DOM manipulation questions where you complete the given code/functions, with comments in the code saying what to do. DSA languages allowed: Python, C# and one more (poster forgot), but no C++.
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1316), [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1319)</sub>
 
 ## 2026-10-28 · IIT Roorkee · FTE · Elite
 
@@ -1273,7 +1325,7 @@ When the user clicks the Convert button:
 Example: Input Amount: 100, From: EUR, To: INR. Calculation: rateFrom = 0.92; rateTo = 83; result = (100 / 0.92) * 83. Output: Display the converted amount with exactly 2 decimal places.  
 Additional Conditions: If the amount field is empty, display: "Enter amount". If the am... (message truncated)
 
-<sub>Topics: Web Dev · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1801) · Also asked at: IIT Roorkee ×3 (last 2026-10-24)</sub>
+<sub>Topics: Web Dev · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1801) · Also asked at: IIT Roorkee ×4 (last 2026-10-29)</sub>
 
 ## 2026-10-21 · IIT Hyderabad · FTE
 

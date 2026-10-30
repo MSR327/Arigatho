@@ -1,9 +1,11 @@
 # SQL
 
-85 questions from 17 companys, newest first. [← all topics](../README.md#topics)
+87 questions from 19 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Long SQL problem statement](../companies/blackrock.md#q2-long-sql-problem-statement) | |
+| 2026-10-29 | [Mastercard](../companies/mastercard.md) | IIT Guwahati | [Mastercard product role OA pattern](../companies/mastercard.md#q1-mastercard-product-role-oa-pattern) | |
 | 2026-10-29 | [Paytm](../companies/paytm.md) | Unknown | [Paytm SQL question on multiple joins](../companies/paytm.md#q1-paytm-sql-question-on-multiple-joins) | |
 | 2026-10-28 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [SQL: all reportees of Candice with level](../companies/tredence.md#q2-sql-all-reportees-of-candice-with-level) | |
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Indore | [SQL: Passenger details and travel lead days](../companies/accenture.md#q3-sql-passenger-details-and-travel-lead-days) | |

@@ -1,8 +1,8 @@
 # NatWest
 
-**40 questions** · 17 drives · latest 29 Oct 2026 · [7 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**43 questions** · 19 drives · latest 29 Oct 2026 · [8 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 9 · [Graphs](../topics/graphs.md) 7 · [OA Format](../topics/oa-format.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · [DP](../topics/dp.md) 5 · +8 more  
+**Asks about:** [Arrays](../topics/arrays.md) 10 · [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 7 · [Greedy](../topics/greedy.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · +8 more  
 **Seen at:** Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +2 more
 
 <details>
@@ -14,6 +14,11 @@
   - [DFS / Dijkstra question](#q3-dfs--dijkstra-question)
   - [Medium greedy manipulation problem](#q4-medium-greedy-manipulation-problem)
   - [LRU Cache](#q5-lru-cache)
+- [2026-10-29 · IIT Delhi · FTE](#2026-10-29--iit-delhi--fte)
+  - [LC 871 (Minimum number of refueling stops)](#q1-lc-871-minimum-number-of-refueling-stops)
+  - [Connect houses to electricity with minimum cable](#q2-connect-houses-to-electricity-with-minimum-cable)
+- [2026-10-29 · IIT BHU · FTE · SWE](#2026-10-29--iit-bhu--fte--swe)
+  - [NatWest SWE OA pattern](#q1-natwest-swe-oa-pattern)
 - [2026-10-27 · IIT BHU · FTE](#2026-10-27--iit-bhu--fte)
   - [Maximum Employees to Be Invited to a Meeting](#q1-maximum-employees-to-be-invited-to-a-meeting)
   - [Basic array traversal](#q2-basic-array-traversal)
@@ -101,6 +106,43 @@ The other DSA question was a medium-level greedy manipulation problem. Statement
 LeetCode 146 was asked. Another question was a search pattern problem (from GFG); details not given.
 
 <sub>Topics: Hashing, Linked List · Similar: [LeetCode 146. LRU Cache](https://leetcode.com/problems/lru-cache/) (Medium) · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L470)</sub>
+
+## 2026-10-29 · IIT Delhi · FTE
+
+### Q1. LC 871 (Minimum number of refueling stops)
+
+First DSA question was LeetCode 871 (Minimum Number of Refueling Stops).
+
+<sub>Topics: Heaps, Greedy · Similar: [LeetCode 871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) (Hard) · Source: [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L281), [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L282), [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L283)</sub>
+
+### Q2. Connect houses to electricity with minimum cable
+
+There are N houses in a single straight line along a street. You are given an array of their positions/coordinates (e.g., House A at mile 1, House B at mile 5, House C at mile 6). Some houses already have electricity ON (1), others are OFF (0). At least one house already has power.
+
+You need to run cables along the street so every dark house gets electricity.
+- You can connect any house to its immediate neighbour.
+- The cost of a cable is the distance between the two houses connected (e.g., connecting mile 1 to mile 5 costs 5 - 1 = 4).
+- Once a dark house is connected to a powered house, it lights up and can pass power on to the next house.
+
+What is the shortest total length of cable needed so that every house has electricity?
+
+Example:
+```
+House locations: 1, 5, 6
+Power status: [OFF, ON, ON]
+Output: 5
+```
+Connect house at 1 to house at 5 (cost 4). The houses at 5 and 6 are both ON but still need to be part of the connected network, so connect them (cost 1). Total = 4 + 1 = 5.
+
+<sub>Topics: Greedy, Arrays · Source: [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L281), [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L282), [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L283)</sub>
+
+## 2026-10-29 · IIT BHU · FTE · SWE
+
+### Q1. NatWest SWE OA pattern
+
+Sections: MCQs on CS fundamentals, aptitude, and case-study based questions (MCQ, multiple correct type) on DSA, ML and CS fundamentals; then 2 DSA questions (medium to hard depending on set); then 100 behavioral questions.
+
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L582), [chat, 29 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L584)</sub>
 
 ## 2026-10-27 · IIT BHU · FTE
 
@@ -310,7 +352,7 @@ SQL questions, all easy. (Details not given.)
 - 2 easy-medium DSA questions (poster's was a sorting one; take / not take DP also mentioned)
 - Behavioural: 100 questions (choose which describes you best, 2 out of 3)
 
-<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L138) · Also asked at: IIT BHU ×5 (last 2026-10-27), IIT Roorkee ×6 (last 2026-10-29), IIT Guwahati ×3 (last 2026-10-29), IIT Kharagpur/Kanpur (2026-10-29), NIT Patna (2026-10-29), Unknown (2026-10-29), IIT Hyderabad (2026-10-29)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L138) · Also asked at: IIT BHU ×5 (last 2026-10-27), IIT Roorkee ×6 (last 2026-10-29), IIT Guwahati ×5 (last 2026-10-29), IIT Kharagpur/Kanpur ×2 (last 2026-10-29), NIT Patna (2026-10-29), Unknown (2026-10-29), IIT Hyderabad (2026-10-29), IIT Delhi ×2 (last 2026-10-29)</sub>
 
 ## 2026-10-11 · Delhi Technological University · FTE
 

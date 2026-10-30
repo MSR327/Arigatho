@@ -36,7 +36,7 @@ Last year's pattern for the graduate engineer role:
 - 2 SQL coding questions
 - 2 coding questions in a language of choice (C++ is allowed)
 
-<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2822), [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2825)</sub>
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2822), [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2825) · Also asked at: IIT Roorkee (2026-10-29)</sub>
 
 ## 2026-10-28 · IIT Guwahati · FTE · Graduate Engineering / Technology Graduate - Data Science
 

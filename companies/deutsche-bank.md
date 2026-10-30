@@ -1,13 +1,20 @@
 # Deutsche Bank
 
-**12 questions** · 6 drives · latest 29 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**17 questions** · 8 drives · latest 30 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Strings](../topics/strings.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · [Arrays](../topics/arrays.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Two Pointers](../topics/two-pointers.md) 1 · [Sorting](../topics/sorting.md) 1 · +1 more  
+**Asks about:** [Arrays](../topics/arrays.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Strings](../topics/strings.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · [Sorting](../topics/sorting.md) 2 · [OA Format](../topics/oa-format.md) 2 · +5 more  
 **Seen at:** IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
+  - [Maximise sum of unique building heights](#q1-maximise-sum-of-unique-building-heights)
+  - [Minimum cars to remove for bridge crossing](#q2-minimum-cars-to-remove-for-bridge-crossing)
+  - [Count anagrams without identical adjacent characters](#q3-count-anagrams-without-identical-adjacent-characters)
+- [2026-10-29 · IIT Guwahati · FTE](#2026-10-29--iit-guwahati--fte)
+  - [Count anagrams](#q1-count-anagrams)
+  - [Frog Jump 2 type problem](#q2-frog-jump-2-type-problem)
 - [2026-10-16 · IIT Kharagpur · FTE](#2026-10-16--iit-kharagpur--fte)
   - [OA pattern: 3 DSA questions](#q1-oa-pattern-3-dsa-questions)
 - [2026-10-16 · IIT Kanpur · FTE](#2026-10-16--iit-kanpur--fte)
@@ -31,13 +38,111 @@
 
 ---
 
+## 2026-10-30 · IIT Guwahati · FTE
+
+### Q1. Maximise sum of unique building heights
+
+Given an array where each element describes the maximum height a building is allowed to have. Construct all buildings such that their heights are unique and the total sum is maximised. Return the total sum.
+
+```
+Input: [2,5,9,9,12,12,12,15]
+Output: (15+12+11+10+9+8+5+2)
+```
+
+<sub>Topics: Greedy, Sorting, Arrays · Source: [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L505) · Also asked at: IIT Guwahati (2026-10-30)</sub>
+
+### Q2. Minimum cars to remove for bridge crossing
+
+You are given an integer array `weights` of size N, where `weights[i]` represents the weight of the i-th car, and an integer `maxWeight`, representing the maximum total weight the bridge can support.
+
+At most two cars can be on the bridge at any given time. Whenever two cars are on the bridge together, the sum of their weights must not exceed `maxWeight`. Determine the minimum number of cars that must be removed so that all remaining cars can cross the bridge safely, while preserving their original order.
+
+Example 1:
+```
+Input: weights = [1, 2, 5, 2, 1], maxWeight = 6
+Output: 1
+```
+Remove the car with weight 5. The remaining cars can cross without violating the bridge's weight limit.
+
+Example 2:
+```
+Input: weights = [3, 7, 2, 4, 5], maxWeight = 8
+Output: 2
+```
+Remove the cars with weights 7 and 5.
+
+Example 3:
+```
+Input: weights = [4, 4, 4, 4], maxWeight = 7
+Output: 4
+```
+Any two cars together weigh 8, which exceeds the capacity. Therefore every car must be removed if the requirement is that two cars must always be allowed on the bridge simultaneously.
+
+Constraints:
+- 1 ≤ N ≤ 10^5
+- 1 ≤ weights[i] ≤ 10^9
+- 1 ≤ maxWeight ≤ 10^9
+
+<sub>Topics: Arrays, Greedy, Two Pointers · Source: [Deutsche_Bank_IIT_Guwahati_Problems.pdf](../archive/files/16267-Deutsche_Bank_IIT_Guwahati_Problems.pdf)</sub>
+
+### Q3. Count anagrams without identical adjacent characters
+
+You are given a string `s` consisting of lowercase English letters (a–z). Count the number of distinct anagrams of `s` in which no two consecutive characters are the same. Two anagrams are considered distinct if their resulting strings are different.
+
+Example 1:
+```
+Input: s = "aab"
+Output: 1
+```
+The distinct anagrams are "aab", "aba", and "baa". Only "aba" satisfies the condition.
+
+Example 2:
+```
+Input: s = "aabc"
+Output: 6
+```
+There are 12 distinct anagrams of "aabc". Exactly 6 have no two identical consecutive characters.
+
+Example 3:
+```
+Input: s = "aaa"
+Output: 0
+```
+
+Example 4:
+```
+Input: s = "abc"
+Output: 6
+```
+
+Constraints:
+- 1 ≤ |s| ≤ 50
+- s contains only lowercase English letters (a–z).
+- The answer is guaranteed to be at most 2000.
+
+<sub>Topics: DP, Recursion/Backtracking, Math · Source: [Deutsche_Bank_IIT_Guwahati_Problems.pdf](../archive/files/16267-Deutsche_Bank_IIT_Guwahati_Problems.pdf)</sub>
+
+## 2026-10-29 · IIT Guwahati · FTE
+
+### Q1. Count anagrams
+
+Finding the number of anagrams (poster says it can be found on LeetCode). Exact statement not given.
+
+<sub>Topics: Strings, Hashing · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L490)</sub>
+
+### Q2. Frog Jump 2 type problem
+
+A "frog jump 2" type question. Exact statement not given.
+
+<sub>Topics: Arrays, DP · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L490)</sub>
+
 ## 2026-10-16 · IIT Kharagpur · FTE
 
 ### Q1. OA pattern: 3 DSA questions
 
 Deutsche Bank OA (IIT Kharagpur) had 3 DSA questions: 1 tough and 2 easy-to-medium.
 
-<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508) · Also asked at: IIT Guwahati ×2 (last 2026-10-29)</sub>
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508) · Also asked at: IIT Guwahati ×2 (last 2026-10-29), Unknown (2026-10-29)</sub>
 
 ## 2026-10-16 · IIT Kanpur · FTE
 

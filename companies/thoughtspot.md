@@ -1,13 +1,15 @@
 # ThoughtSpot
 
-**4 questions** · 3 drives · latest 27 Oct 2026 · [← all companies](../README.md#companies)
+**5 questions** · 4 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 2 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [OA Format](../topics/oa-format.md) 1 · [DP](../topics/dp.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1  
+**Asks about:** [Math](../topics/math.md) 3 · [DP](../topics/dp.md) 2 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1  
 **Seen at:** IIT BHU, IIT Guwahati
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
+  - [Coupled recurrence relations F, G, H](#q1-coupled-recurrence-relations-f-g-h)
 - [2026-10-27 · IIT Guwahati · FTE](#2026-10-27--iit-guwahati--fte)
   - [Nth number with digit sum x](#q1-nth-number-with-digit-sum-x)
   - [Count permutations where Alice wins chocolate trays game](#q2-count-permutations-where-alice-wins-chocolate-trays-game)
@@ -19,6 +21,28 @@
 </details>
 
 ---
+
+## 2026-10-30 · IIT Guwahati · FTE
+
+### Q1. Coupled recurrence relations F, G, H
+
+You are given integers a, b, c, d, e, f, and n. Three sequences F, G, and H are defined by:
+
+```
+F(n) = a × F(n − 1) + b × G(n − 2)
+G(n) = c × G(n − 1) + d × H(n − 2)
+H(n) = e × H(n − 1) + f × F(n − 2)
+```
+
+The initial values required to calculate the three sequences are also given. Find F(n) modulo 10^9 + 7.
+
+Input: seven integers a, b, c, d, e, f, n, followed by the initial values required.
+
+Output: print F(n) modulo 1,000,000,007.
+
+Constraints: 0 ≤ n ≤ 10^9. The constraints on the coefficients and initial values are as specified in the original problem (not given).
+
+<sub>Topics: Math, DP · Source: [Thoughtspot_IIT_Guwahati_Problem_Statements.pdf](../archive/files/16264-Thoughtspot_IIT_Guwahati_Problem_Statements.pdf)</sub>
 
 ## 2026-10-27 · IIT Guwahati · FTE
 
@@ -41,7 +65,7 @@ Output: 2
 ```
 Permutations: (2,1,1) Alice wins (picks 2, Bob picks 1 from next tray, Alice picks 1 and wins); (1,1,2) Alice wins; (1,2,1) Alice loses if both play optimally.
 
-<sub>Topics: Math, Recursion/Backtracking · Source: [chat, 27 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L23), [chat, 27 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L28), [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L37)</sub>
+<sub>Topics: Math, Recursion/Backtracking · Source: [chat, 27 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L23), [chat, 27 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L28), [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L37) · Also asked at: IIT Guwahati (2026-10-30)</sub>
 
 ## 2026-10-26 · IIT BHU · FTE
 

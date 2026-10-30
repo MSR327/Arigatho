@@ -1,9 +1,16 @@
 # Code Output (C/C++/Java/Python)
 
-50 questions from 13 companys, newest first. [← all topics](../README.md#topics)
+57 questions from 15 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Linked list MCQs and double pointers](../companies/nvidia.md#q7-linked-list-mcqs-and-double-pointers) |
+| 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [extern keyword and memcpy with packed memory](../companies/nvidia.md#q6-extern-keyword-and-memcpy-with-packed-memory) |
+| 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Macros vs inline functions](../companies/nvidia.md#q5-macros-vs-inline-functions) |
+| 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Bitwise operator side effects](../companies/nvidia.md#q4-bitwise-operator-side-effects) |
+| 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Pointer arithmetic on char array](../companies/nvidia.md#q3-pointer-arithmetic-on-char-array) |
+| 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Function pointer returning pointer to integer array](../companies/nvidia.md#q2-function-pointer-returning-pointer-to-integer-array) |
+| 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Output of priority-queue subarray-sum pseudocode](../companies/tredence.md#q2-output-of-priority-queue-subarray-sum-pseudocode) |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Identify the error in digit-reversal function](../companies/texas-instruments.md#q2-identify-the-error-in-digit-reversal-function) |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Slowest and fastest implementation by memory section](../companies/texas-instruments.md#q1-slowest-and-fastest-implementation-by-memory-section) |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Java output: inner class this.m1() and Sample.this.m1()](../companies/deloitte.md#q13-java-output-inner-class-thism1-and-samplethism1) |

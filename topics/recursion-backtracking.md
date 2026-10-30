@@ -1,9 +1,10 @@
 # Recursion/Backtracking
 
-19 questions from 11 companys, newest first. [← all topics](../README.md#topics)
+20 questions from 11 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | LeetCode |
 |---|---|---|---|---|
+| 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Count anagrams without identical adjacent characters](../companies/deutsche-bank.md#q3-count-anagrams-without-identical-adjacent-characters) | |
 | 2026-10-29 | [PeopleStrong](../companies/peoplestrong.md) | IIT Guwahati | [Hard recursion/bitmask question](../companies/peoplestrong.md#q3-hard-recursionbitmask-question) | |
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Optimal building placement minimizing max distance](../companies/eternal-zomato.md#q1-optimal-building-placement-minimizing-max-distance) | |
 | 2026-10-27 | [QiCap](../companies/qicap.md) | IIT Delhi | [Minimum cost to remove special nodes in 2^N segment](../companies/qicap.md#q1-minimum-cost-to-remove-special-nodes-in-2n-segment) | |
