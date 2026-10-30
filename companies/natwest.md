@@ -1,6 +1,6 @@
 # NatWest
 
-**43 questions** · 19 drives · latest 29 Oct 2026 · [8 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**43 questions** · 19 drives · latest 29 Oct 2026 · [19 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 10 · [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 7 · [Greedy](../topics/greedy.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · +8 more  
 **Seen at:** Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +2 more
@@ -81,7 +81,7 @@
 
 A multi-source BFS question (statement not given). Poster said the test had 2 DSA questions: one multi-source BFS and one normal greedy question. Full statement is missing.
 
-<sub>Topics: Graphs · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2808), [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1197) · Also asked at: IIT Guwahati (2026-10-29)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 542. 01 Matrix](https://leetcode.com/problems/01-matrix/) (Medium), multi-source BFS from all sources · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2808), [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1197) · Also asked at: IIT Guwahati (2026-10-29)</sub>
 
 ### Q2. Greedy problem
 
@@ -134,7 +134,7 @@ Output: 5
 ```
 Connect house at 1 to house at 5 (cost 4). The houses at 5 and 6 are both ON but still need to be part of the connected network, so connect them (cost 1). Total = 4 + 1 = 5.
 
-<sub>Topics: Greedy, Arrays · Source: [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L281), [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L282), [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L283)</sub>
+<sub>Topics: Greedy, Arrays · Same idea: [LeetCode 1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) (Medium), minimum spanning tree connecting points by distance · Source: [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L281), [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L282), [chat, 29 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L283)</sub>
 
 ## 2026-10-29 · IIT BHU · FTE · SWE
 
@@ -209,7 +209,7 @@ Input:
 Output: 9  
 If no valid square larger than 1x1 exists, return 1.
 
-<sub>Topics: Arrays · Source: [chat, 25 Oct](../archive/inter-nit/2026-10.jsonl#L2365)</sub>
+<sub>Topics: Arrays · Same idea: [LeetCode 221. Maximal Square](https://leetcode.com/problems/maximal-square/) (Medium), largest square submatrix with a property · Source: [chat, 25 Oct](../archive/inter-nit/2026-10.jsonl#L2365)</sub>
 
 ## 2026-10-25 · IIT BHU · FTE
 
@@ -223,13 +223,13 @@ A variation of LeetCode Max Consecutive Ones III (easy version). Exact statement
 
 Given an n-sized binary array, exactly K operations are performed. In each operation, every element is changed as a[i] = xor of (a[i-1], a[i+1]), where the left and right of the boundary elements are assumed to be 0. Return the array after K such operations. Constraints were not given.
 
-<sub>Topics: Arrays, Bit Manipulation · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L138), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L144)</sub>
+<sub>Topics: Arrays, Bit Manipulation · Same idea: [LeetCode 957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) (Medium), neighbour-based cell update repeated K times, cycle detection · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L138), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L144)</sub>
 
 ### Q3. DSA questions: sorting + pick/not-pick DP
 
 The poster's 2 easy-to-medium DSA questions were a sorting problem and a pick / not-pick (take / not take) DP problem. No full problem statements were shared.
 
-<sub>Topics: Sorting, DP · Source: [chat, 25 Oct](../archive/inter-iit/2026-10.jsonl#L989)</sub>
+<sub>Topics: Sorting, DP · Same idea: [LeetCode 198. House Robber](https://leetcode.com/problems/house-robber/) (Medium), pick or skip element DP · Source: [chat, 25 Oct](../archive/inter-iit/2026-10.jsonl#L989)</sub>
 
 ## 2026-10-23 · IIT Guwahati · FTE
 
@@ -237,7 +237,7 @@ The poster's 2 easy-to-medium DSA questions were a sorting problem and a pick / 
 
 One DSA question was a multi-source Dijkstra problem. The exact statement was not shared.
 
-<sub>Topics: Graphs, Heaps · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L154), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L156), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L157)</sub>
+<sub>Topics: Graphs, Heaps · Same idea: [LeetCode 743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) (Medium), Dijkstra from source nodes on weighted graph · Source: [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L154), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L156), [chat, 23 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L157)</sub>
 
 ## 2026-10-22 · IIT Roorkee · FTE
 
@@ -253,7 +253,7 @@ Remove all vowels from a given string. (Reported as asked in some sets; full sta
 
 Find the intervals left after overlapping intervals are removed. (Exact statement not given by the poster.)
 
-<sub>Topics: Arrays, Sorting · Source: [chat, 18 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L156) · Also asked at: IIT Roorkee (2026-10-21)</sub>
+<sub>Topics: Arrays, Sorting · Same idea: [LeetCode 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Medium), sort intervals and sweep to resolve overlaps · Source: [chat, 18 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L156) · Also asked at: IIT Roorkee (2026-10-21)</sub>
 
 ### Q2. Area of largest palindromic submatrix
 
@@ -273,7 +273,7 @@ Given a digit and a number, count how many times that digit appears in the numbe
 
 Given a directed graph, find the node to start from such that the maximum number of nodes can be covered (reached). Number of nodes = 1000, number of edges = 10000.
 
-<sub>Topics: Graphs · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L183) · Also asked at: IIT BHU ×3 (last 2026-10-22), IIT Roorkee ×2 (last 2026-10-26)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/) (Medium), graph reachability via DFS/BFS · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L183) · Also asked at: IIT BHU ×3 (last 2026-10-22), IIT Roorkee ×2 (last 2026-10-26)</sub>
 
 ### Q3. Other Sections (Behavioural, Reasoning, SQL MCQ)
 
@@ -323,7 +323,7 @@ A simple string problem of roughly Codeforces 900 rating. The poster did not giv
 
 A dynamic programming problem of the jump type (like Jump Game or Frog Jump). The poster did not give the exact statement.
 
-<sub>Topics: DP · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356) · Also asked at: IIT Guwahati (2026-10-12)</sub>
+<sub>Topics: DP · Same idea: [AtCoder DP A. Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a), jump DP over previous positions · Source: [chat, 12 Oct](../archive/inter-nit/2026-10.jsonl#L356) · Also asked at: IIT Guwahati (2026-10-12)</sub>
 
 ### Q4. SQL query on IPL teams data
 
@@ -373,7 +373,7 @@ Section 2: 40 CS fundamentals MCQs covering Computer Networks, Operating Systems
 Given a string S and a substring P, find the maximum number of non-overlapping occurrences of P in S. An occurrence of P counts only if it does not overlap any previously counted occurrence.  
 Example: S = "abababa", P = "aba". P occurs at indices 0, 2 and 4, but these overlap each other. The maximum number of non-overlapping occurrences is 2 (e.g., indices 0 and 4). Return the maximum number of times P can occur in S without overlapping.
 
-<sub>Topics: Strings, Greedy · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: Delhi Technological University ×3 (last 2026-10-12)</sub>
+<sub>Topics: Strings, Greedy · Same idea: [LeetCode 28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) (Easy), substring search with greedy non-overlap counting · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: Delhi Technological University ×3 (last 2026-10-12)</sub>
 
 ### Q4. Grid Path with Obstacles
 
@@ -384,7 +384,7 @@ Example grid:
 0 0 0  
 A valid path exists: (0,0) -> (0,1) -> (0,2) -> (1,2) -> (2,2), so the answer is YES.
 
-<sub>Topics: Graphs, Arrays · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: Delhi Technological University ×3 (last 2026-10-12)</sub>
+<sub>Topics: Graphs, Arrays · Same idea: [LeetCode 1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Medium), grid BFS reachability avoiding obstacles · Source: [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L169), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L171), [chat, 11 Oct](../archive/inter-iit/2026-10.jsonl#L172) · Also asked at: Delhi Technological University ×3 (last 2026-10-12)</sub>
 
 ### Q5. Count Pairs with Difference K
 

@@ -1,6 +1,6 @@
 # Reliance
 
-**107 questions** · 6 drives · latest 17 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**107 questions** · 6 drives · latest 17 Oct 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Mechanical](../topics/mechanical.md) 39 · [Aptitude](../topics/aptitude.md) 38 · [Verbal](../topics/verbal.md) 10 · [ML/AI](../topics/ml-ai.md) 5 · [Arrays](../topics/arrays.md) 5 · [Other](../topics/other.md) 3 · [Math](../topics/math.md) 3 · [OA Format](../topics/oa-format.md) 2 · +9 more  
 **Seen at:** IIT Guwahati, MNNIT Allahabad
@@ -1190,7 +1190,7 @@ One-hour InterviewBit test (Reliance Jio) with two problems. One of them: minimu
 
 (Full statement was not given.)
 
-<sub>Topics: Arrays, Sorting · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Arrays, Sorting · Same idea: [LeetCode 2471. Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) (Medium), minimum swaps to sort via cycle counting · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
 
 ### Q2. Move balls into consecutive positions
 
@@ -1198,7 +1198,7 @@ Second problem of the one-hour InterviewBit test (Reliance Jio): moving balls in
 
 (Full statement was not given.)
 
-<sub>Topics: Arrays, Greedy · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Arrays, Greedy · Same idea: [LeetCode 462. Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) (Medium), median minimizes total movement distance · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
 
 ### Q3. Minimum removals in an array (sum condition)
 
@@ -1206,7 +1206,7 @@ A later round included a minimum-removal array-sum problem.
 
 (The exact sum condition was not given.)
 
-<sub>Topics: Arrays · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Arrays · Same idea: [LeetCode 1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) (Medium), minimum removals for sum condition via window · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
 
 ## 2026-09-21 · Unknown · FTE · SDE-II · Interview
 
@@ -1254,7 +1254,7 @@ Tree traversals were asked.
 
 (Which traversals and the exact statement were not given.)
 
-<sub>Topics: Trees · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Trees · Same problem: [LeetCode 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy), tree traversal · Source: [chat, 21 Sep](../archive/reliance-oa/2026-09.jsonl#L1)</sub>
 
 ### Q3. React Native / mobile discussion
 

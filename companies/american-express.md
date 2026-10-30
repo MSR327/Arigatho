@@ -1,6 +1,6 @@
 # American Express
 
-**54 questions** · 32 drives · latest 30 Oct 2026 · [15 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**54 questions** · 32 drives · latest 30 Oct 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 31 · [ML/AI](../topics/ml-ai.md) 8 · [Hashing](../topics/hashing.md) 6 · [Strings](../topics/strings.md) 5 · [Sliding Window](../topics/sliding-window.md) 5 · [Trees](../topics/trees.md) 5 · [Graphs](../topics/graphs.md) 5 · [Aptitude](../topics/aptitude.md) 3 · +9 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Mandi, IIT Roorkee +1 more

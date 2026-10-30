@@ -1,6 +1,6 @@
 # Sony
 
-**3 questions** · 1 drive · latest 18 Oct 2026 · [← all companies](../README.md#companies)
+**3 questions** · 1 drive · latest 18 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 1 · [OOP](../topics/oop.md) 1 · [Math](../topics/math.md) 1 · [DP](../topics/dp.md) 1  
 **Seen at:** IIT Bombay
@@ -29,7 +29,7 @@ About 30 MCQs plus 1 coding question. All the MCQs were from OOP topics. The cod
 
 Find the gcd of two numbers (poster only remembered it as 'something like finding gcd of two numbers in a nutshell'). Full statement not remembered.
 
-<sub>Topics: Math · Source: [chat, 18 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L69), [chat, 18 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L72), [chat, 18 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L74)</sub>
+<sub>Topics: Math · Close variant: [LeetCode 1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) (Easy), computing gcd with Euclid's algorithm · Source: [chat, 18 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L69), [chat, 18 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L72), [chat, 18 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L74)</sub>
 
 ### Q3. Take/not-take DP to count maximum
 

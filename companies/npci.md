@@ -1,6 +1,6 @@
 # NPCI
 
-**2 questions** · 2 drives · latest 23 Oct 2026 · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 23 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Graphs](../topics/graphs.md) 1 · [Greedy](../topics/greedy.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Aptitude](../topics/aptitude.md) 1  
 **Seen at:** IIT BHU, IIT Jodhpur
@@ -48,4 +48,4 @@ Constraints:
 
 Hint from poster: functional graph; every cycle needs a filter, so the answer is the sum of the minimum c[i] over all cycles, in O(N).
 
-<sub>Topics: Graphs, Greedy · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L315), [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L317)</sub>
+<sub>Topics: Graphs, Greedy · Same idea: [LeetCode 2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) (Hard), find cycles in functional graph · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L315), [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L317)</sub>

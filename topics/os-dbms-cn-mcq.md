@@ -2,7 +2,7 @@
 
 115 questions from 21 companys, newest first. [← all topics](../README.md#topics)
 
-| Date | Company | College | Question | LeetCode |
+| Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Fork and copy-on-write](../companies/nvidia.md#q8-fork-and-copy-on-write) | |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Cortex-A72 performance: data structure, matrix order, list cycle](../companies/texas-instruments.md#q3-cortex-a72-performance-data-structure-matrix-order-list-cycle) | |
@@ -101,7 +101,7 @@
 | 2026-09-21 | [Blinkit](../companies/blinkit.md) | Unknown | [OOP, OS, DBMS, SQL and backend questions](../companies/blinkit.md#q3-oop-os-dbms-sql-and-backend-questions) | |
 | 2026-09-21 | [Adobe](../companies/adobe.md) | Unknown | [Process crashes](../companies/adobe.md#q2-process-crashes) | |
 | 2026-09-21 | [Adobe](../companies/adobe.md) | Unknown | [Producer/consumer concurrency](../companies/adobe.md#q1-producerconsumer-concurrency) | |
-| 2026-09-21 | [Chargebee](../companies/chargebee.md) | Unknown | [Table keys and second-highest salary (SQL)](../companies/chargebee.md#q5-table-keys-and-second-highest-salary-sql) | [176](https://leetcode.com/problems/second-highest-salary/) Medium |
+| 2026-09-21 | [Chargebee](../companies/chargebee.md) | Unknown | [Table keys and second-highest salary (SQL)](../companies/chargebee.md#q5-table-keys-and-second-highest-salary-sql) | [LC 176](https://leetcode.com/problems/second-highest-salary/) Medium |
 | 2026-09-21 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Systems and backend topics](../companies/eternal-zomato.md#q5-systems-and-backend-topics) | |
 | 2026-09-21 | [Paytm](../companies/paytm.md) | Unknown | [Java threading, OS synchronization and project scalability](../companies/paytm.md#q3-java-threading-os-synchronization-and-project-scalability) | |
 | 2026-09-21 | [Squarepoint](../companies/squarepoint.md) | Unknown | [C++ and systems interview topics](../companies/squarepoint.md#q1-c-and-systems-interview-topics) | |

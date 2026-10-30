@@ -1,6 +1,6 @@
 # BlackRock
 
-**10 questions** · 5 drives · latest 29 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**10 questions** · 5 drives · latest 29 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 7 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [SQL](../topics/sql.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
 **Seen at:** IIT Indore, NIT Raipur, SVNIT Surat

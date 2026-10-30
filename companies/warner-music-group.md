@@ -1,6 +1,6 @@
 # Warner Music Group
 
-**3 questions** · 1 drive · latest 16 Oct 2026 · [← all companies](../README.md#companies)
+**3 questions** · 1 drive · latest 16 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [SQL](../topics/sql.md) 2 · [OA Format](../topics/oa-format.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [Strings](../topics/strings.md) 1 · [Hashing](../topics/hashing.md) 1  
 **Seen at:** IIT Dhanbad
@@ -29,10 +29,10 @@ Section 1: Core Fundamentals — 30 multiple-choice questions with negative mark
 
 Write a SQL query over two tables: Tracks (Artists, Song IDs) and Metrics (Artists, various scores). Requirements: join the two tables on the artist; aggregate to compute scores for each artist; use CASE WHEN statements to classify artists into distinct categories based on specific score ranges. (Tagged: SQL Query, Joins, Aggregations, Window Functions.)
 
-<sub>Topics: SQL · Source: [WMG_Assessment_IIT_Dhanbad.pdf](../archive/files/4496-WMG_Assessment_IIT_Dhanbad.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-16)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) (Medium), CASE WHEN bucketing of aggregated values · Source: [WMG_Assessment_IIT_Dhanbad.pdf](../archive/files/4496-WMG_Assessment_IIT_Dhanbad.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-16)</sub>
 
 ### Q3. Top track from score logs
 
 You are given an array of string logs of the form "TrackName@score". Parse each log, extract the score, and accumulate the total score for each track name (scores can be negative). Ignore invalid logs: a log is invalid if it has no '@' symbol, if the score is non-numeric (e.g. "TrackName@abc"), or if the score is missing. A track is eligible only if it appears in at least 3 valid logs. Return the highest-scoring eligible track. If several tracks tie for the highest score, return the lexicographically smallest track name.
 
-<sub>Topics: Strings, Hashing · Source: [WMG_Assessment_IIT_Dhanbad.pdf](../archive/files/4496-WMG_Assessment_IIT_Dhanbad.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-16)</sub>
+<sub>Topics: Strings, Hashing · Same idea: [LeetCode 2284. Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) (Medium), hash map aggregation, lexicographic tie-break · Source: [WMG_Assessment_IIT_Dhanbad.pdf](../archive/files/4496-WMG_Assessment_IIT_Dhanbad.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-16)</sub>

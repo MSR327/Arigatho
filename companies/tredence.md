@@ -1,6 +1,6 @@
 # Tredence
 
-**44 questions** · 13 drives · latest 30 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**44 questions** · 13 drives · latest 30 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [OA Format](../topics/oa-format.md) 8 · [Aptitude](../topics/aptitude.md) 6 · [SQL](../topics/sql.md) 5 · [Arrays](../topics/arrays.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +10 more  
 **Seen at:** IIIT Hyderabad, IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad, VIT Vellore, VNIT Nagpur
@@ -519,7 +519,7 @@ DSA question: implement autocorrect using Levenshtein (edit) distance.
 
 The poster only gave this one-line description; full statement and constraints are missing.
 
-<sub>Topics: DP, Strings · Source: [chat, 2 Oct](../archive/tredence-oa/2026-10.jsonl#L5), [chat, 2 Oct](../archive/tredence-oa/2026-10.jsonl#L6)</sub>
+<sub>Topics: DP, Strings · Close variant: [LeetCode 72. Edit Distance](https://leetcode.com/problems/edit-distance/) (Medium), Levenshtein distance DP · Source: [chat, 2 Oct](../archive/tredence-oa/2026-10.jsonl#L5), [chat, 2 Oct](../archive/tredence-oa/2026-10.jsonl#L6)</sub>
 
 ### Q2. SQL mid-level using sort operations
 
@@ -579,4 +579,4 @@ Interview question (Data Analyst account): what are the limits of Dijkstra's alg
 
 The account also mentions a small conditional-free numeric transformation, but gives no details.
 
-<sub>Topics: Graphs · Source: [chat, 21 Sep](../archive/tredence-oa/2026-09.jsonl#L8)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) (Medium), Dijkstra shortest paths with weighted edges · Source: [chat, 21 Sep](../archive/tredence-oa/2026-09.jsonl#L8)</sub>

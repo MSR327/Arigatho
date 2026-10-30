@@ -1,6 +1,6 @@
 # Adobe
 
-**6 questions** · 1 drive · latest 21 Sep 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 1 drive · latest 21 Sep 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Hashing](../topics/hashing.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Arrays](../topics/arrays.md) 1 · [Trees](../topics/trees.md) 1 · [Software Engineering](../topics/software-engineering.md) 1  
 

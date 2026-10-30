@@ -1,6 +1,6 @@
 # Accelequant
 
-**8 questions** · 2 drives · latest 21 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 2 drives · latest 21 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Math](../topics/math.md) 3 · [Aptitude](../topics/aptitude.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [OA Format](../topics/oa-format.md) 2 · [DP](../topics/dp.md) 1 · [Arrays](../topics/arrays.md) 1 · [Greedy](../topics/greedy.md) 1 · [Heaps](../topics/heaps.md) 1 · +2 more  
 **Seen at:** BITS Pilani, IIT Indore, MNNIT Allahabad

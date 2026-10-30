@@ -1,6 +1,6 @@
 # Tech Mahindra
 
-**4 questions** · 2 drives · latest 22 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**4 questions** · 2 drives · latest 22 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [DP](../topics/dp.md) 2 · [Sorting](../topics/sorting.md) 1 · [Math](../topics/math.md) 1 · [Arrays](../topics/arrays.md) 1 · [Python & Pandas](../topics/python-pandas.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [OA Format](../topics/oa-format.md) 1  
 **Seen at:** IIT Delhi, NIT Silchar

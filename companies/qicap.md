@@ -1,6 +1,6 @@
 # QiCap
 
-**8 questions** · 3 drives · latest 29 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 3 drives · latest 29 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Bit Manipulation](../topics/bit-manipulation.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 1 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Hashing](../topics/hashing.md) 1 · +2 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Kharagpur
@@ -51,7 +51,7 @@ Given an array, in one move you can swap 2 adjacent elements if they have the sa
 
 Constraints: N <= 1e5, ai <= 1e9
 
-<sub>Topics: Arrays, Bit Manipulation, Sorting · Source: [chat, 28 Oct](../archive/qicap-oa/2026-10.jsonl#L2), [chat, 28 Oct](../archive/qicap-oa/2026-10.jsonl#L3)</sub>
+<sub>Topics: Arrays, Bit Manipulation, Sorting · Close variant: [LeetCode 3011. Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) (Medium), swap adjacent elements with equal set bits · Source: [chat, 28 Oct](../archive/qicap-oa/2026-10.jsonl#L2), [chat, 28 Oct](../archive/qicap-oa/2026-10.jsonl#L3)</sub>
 
 ### Q2. Count beautiful substrings after filling blanks
 
@@ -91,7 +91,7 @@ Task: Find the minimum possible cost to remove all special nodes.
 
 Bob navigates a maze and collects coins (bitmasking). Poster noted it is a LeetCode-style problem; full statement not given.
 
-<sub>Topics: Graphs, Bit Manipulation · Source: [chat, 27 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L40)</sub>
+<sub>Topics: Graphs, Bit Manipulation · Same idea: [LeetCode 864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) (Hard), BFS over grid with bitmask of collected items · Source: [chat, 27 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L40)</sub>
 
 ### Q3. Directed weighted graph queries with stop constraints
 
@@ -104,4 +104,4 @@ Constraints:
 
 Task: Efficiently process all queries and return the minimum travel cost for each query, respecting the maximum number of allowed stops.
 
-<sub>Topics: Graphs, DP · Source: [chat, 27 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L40)</sub>
+<sub>Topics: Graphs, DP · Same idea: [LeetCode 787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Medium), shortest path with limited number of stops · Source: [chat, 27 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L40)</sub>

@@ -1,6 +1,6 @@
 # McKinsey
 
-**2 questions** · 1 drive · latest 28 Oct 2026 · [← all companies](../README.md#companies)
+**2 questions** · 1 drive · latest 28 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Heaps](../topics/heaps.md) 1 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1 · [OA Format](../topics/oa-format.md) 1  
 **Seen at:** IIT Roorkee
@@ -71,4 +71,4 @@ One possible output:
 
 The rule for choosing a song among multiple songs by the same artist was not specified; assume original relative order is preserved. Suggested approach: max heap on remaining counts, excluding the previously chosen artist and breaking ties by original total count.
 
-<sub>Topics: Heaps, Greedy, Hashing · Source: [chat, 28 Oct](../archive/inter-iit/2026-10.jsonl#L1169)</sub>
+<sub>Topics: Heaps, Greedy, Hashing · Close variant: [LeetCode 767. Reorganize String](https://leetcode.com/problems/reorganize-string/) (Medium), max heap, no adjacent same item · Source: [chat, 28 Oct](../archive/inter-iit/2026-10.jsonl#L1169)</sub>

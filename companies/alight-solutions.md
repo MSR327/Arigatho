@@ -1,6 +1,6 @@
 # Alight Solutions
 
-**17 questions** · 8 drives · latest 22 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**17 questions** · 8 drives · latest 22 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 6 · [Arrays](../topics/arrays.md) 4 · [DP](../topics/dp.md) 4 · [Aptitude](../topics/aptitude.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Other](../topics/other.md) 1 · [Graphs](../topics/graphs.md) 1 · +5 more  
 **Seen at:** IIT Delhi, IIT Hyderabad, IIT Roorkee
@@ -59,7 +59,7 @@ Fix the errors in the given code. You are given N lines, each in the format `a:2
 
 Given C++ code for the height of a binary tree, find the error. The error was that the base condition returned -1 instead of 0.
 
-<sub>Topics: Code Output (C/C++/Java/Python), Trees · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L220)</sub>
+<sub>Topics: Code Output (C/C++/Java/Python), Trees · Close variant: [LeetCode 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (Easy), recursive binary tree height with base case · Source: [chat, 22 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L220)</sub>
 
 ### Q4. Die with flowers: incorrect opposite pairs
 
@@ -149,7 +149,7 @@ Find the maximum subarray sum and also return the start and end indices of that 
 
 Divide the array into k contiguous segments. The cost of a segment is the number of pairs (i, j) in it with i &lt; j and a[i] - a[j] >= D. Find the best total cost over all ways to split (from memory; the objective is presumably the minimum total cost).
 
-<sub>Topics: DP, Arrays · Source: [chat, 9 Oct](../archive/inter-nit/2026-10.jsonl#L696), [chat, 9 Oct](../archive/inter-nit/2026-10.jsonl#L700), [chat, 9 Oct](../archive/inter-nit/2026-10.jsonl#L601)</sub>
+<sub>Topics: DP, Arrays · Same idea: [Codeforces 868F. Yet Another Minimization Problem](https://codeforces.com/problemset/problem/868/F) (rated 2500), split into k segments, pair-count cost, divide-and-conquer DP · Source: [chat, 9 Oct](../archive/inter-nit/2026-10.jsonl#L696), [chat, 9 Oct](../archive/inter-nit/2026-10.jsonl#L700), [chat, 9 Oct](../archive/inter-nit/2026-10.jsonl#L601)</sub>
 
 ## 2026-10-04 · IIT Roorkee · FTE
 

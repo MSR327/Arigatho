@@ -1,6 +1,6 @@
 # Rystad Energy
 
-**33 questions** · 3 drives · latest 17 Oct 2026 · [← all companies](../README.md#companies)
+**33 questions** · 3 drives · latest 17 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Python & Pandas](../topics/python-pandas.md) 17 · [SQL](../topics/sql.md) 6 · [Aptitude](../topics/aptitude.md) 5 · [Software Engineering](../topics/software-engineering.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Arrays](../topics/arrays.md) 1 · [Math](../topics/math.md) 1 · +5 more  
 **Seen at:** IIT Delhi, MNNIT Allahabad
@@ -141,31 +141,31 @@ Section 3 SQL, Q2. Which data type should you use to store offshore wind project
 
 Section 5 Coding, Q2. You are given two integers a and b in a list [a, b]. In one move you can add or subtract any integer from 1 to 10 to a. Write a function to determine the minimum number of moves required to make a equal to b. Example: input1 = [5, 27] -> 3. Signature: MinMoves(cls, input1: List[Integer]) -> int.
 
-<sub>Topics: Math, Greedy · Source: [rystad (1).pdf](../archive/files/6819-rystad_1_.pdf), [rystad (1).pdf](../archive/files/6827-rystad_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L84), [chat, 15 Oct](../archive/inter-iit/2026-10.jsonl#L33) · Also asked at: IIT Delhi (2026-10-15)</sub>
+<sub>Topics: Math, Greedy · Same idea: [Codeforces 1355A. Sequence with Digits](https://codeforces.com/problemset/problem/1355/A) (rated 1200), ceil division greedy on difference · Source: [rystad (1).pdf](../archive/files/6819-rystad_1_.pdf), [rystad (1).pdf](../archive/files/6827-rystad_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L84), [chat, 15 Oct](../archive/inter-iit/2026-10.jsonl#L33) · Also asked at: IIT Delhi (2026-10-15)</sub>
 
 ### Q13. SQL MCQ: rank within department handling ties
 
 Section 3 SQL, Q3. You need to find the rank of employees within each department based on their salary, but you want to account for ties (i.e. employees with the same salary should have the same rank). Which SQL query will achieve this? Options: SELECT EmployeeID, Department, Salary, RANK() OVER (PARTITION BY Department ORDER BY Salary DESC) AS Rank FROM Employees / ... DENSE_RANK() OVER (PARTITION BY Department ORDER BY Salary DESC) AS Rank ... / ... ROW_NUMBER() OVER (PARTITION BY Department ORDER BY Salary DESC) AS Rank ... / ... RANK() OVER (ORDER BY Salary DESC) AS Rank ...
 
-<sub>Topics: SQL · Source: [rystad (1).pdf](../archive/files/6819-rystad_1_.pdf), [rystad (1).pdf](../archive/files/6827-rystad_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L84), [chat, 15 Oct](../archive/inter-iit/2026-10.jsonl#L33) · Also asked at: IIT Delhi (2026-10-15)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 178. Rank Scores](https://leetcode.com/problems/rank-scores/) (Medium), RANK window functions with ties · Source: [rystad (1).pdf](../archive/files/6819-rystad_1_.pdf), [rystad (1).pdf](../archive/files/6827-rystad_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L84), [chat, 15 Oct](../archive/inter-iit/2026-10.jsonl#L33) · Also asked at: IIT Delhi (2026-10-15)</sub>
 
 ### Q14. SQL MCQ: cumulative sales per region by date
 
 Section 3 SQL, Q4. You have an SQL table called Sales with columns Date, Region, SalesAmount. Which query returns the sum of SalesAmount for each Region along with the cumulative sum over all the rows for each region, ordered by Date? Options: SELECT Region, SalesAmount, SUM(SalesAmount) OVER (PARTITION BY Region ORDER BY Date) AS CumulativeSales FROM Sales / ... OVER (ORDER BY Region, Date) ... / ... OVER (PARTITION BY Region) ... / ... OVER (ORDER BY Date) ...
 
-<sub>Topics: SQL · Source: [rystad (1).pdf](../archive/files/6819-rystad_1_.pdf), [rystad (1).pdf](../archive/files/6827-rystad_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L84), [chat, 15 Oct](../archive/inter-iit/2026-10.jsonl#L33)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1204. Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) (Medium), running cumulative SUM() OVER ordered window · Source: [rystad (1).pdf](../archive/files/6819-rystad_1_.pdf), [rystad (1).pdf](../archive/files/6827-rystad_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L84), [chat, 15 Oct](../archive/inter-iit/2026-10.jsonl#L33)</sub>
 
 ### Q15. SQL MCQ: how RANK() handles ties
 
 Section 3 SQL, Q5. Given a dataset where RANK() is applied over the Score column in descending order, how does RANK() handle tied scores? Options: It assigns the same rank to all tied values but does not skip subsequent ranks / It assigns a unique rank to each row regardless of ties / It assigns the same rank to all tied values and skips subsequent ranks / It randomly assigns ranks to tied values.
 
-<sub>Topics: SQL · Source: [rystad (1).pdf](../archive/files/6819-rystad_1_.pdf), [rystad (1).pdf](../archive/files/6827-rystad_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L84), [chat, 15 Oct](../archive/inter-iit/2026-10.jsonl#L33)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 178. Rank Scores](https://leetcode.com/problems/rank-scores/) (Medium), ranking window functions handling tied scores · Source: [rystad (1).pdf](../archive/files/6819-rystad_1_.pdf), [rystad (1).pdf](../archive/files/6827-rystad_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L84), [chat, 15 Oct](../archive/inter-iit/2026-10.jsonl#L33)</sub>
 
 ### Q16. SQL MCQ: employee with manager name (self join)
 
 Section 3 SQL, Q6. Suppose you have an employees table with columns employee_id, name, and manager_id. Which SQL query will list the name of each employee along with their manager's name? Options: SELECT e.name AS employee, m.name AS manager FROM employees e LEFT JOIN employees m ON e.manager_id = m.employee_id; / SELECT name, manager_id FROM employees; / SELECT e.name, e.manager_id FROM employees e JOIN employees m ON e.employee_id = m.manager_id; / SELECT name AS employee, name AS manager FROM employees;
 
-<sub>Topics: SQL · Source: [rystad (1).pdf](../archive/files/6819-rystad_1_.pdf), [rystad (1).pdf](../archive/files/6827-rystad_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L84), [chat, 15 Oct](../archive/inter-iit/2026-10.jsonl#L33)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) (Easy), employee-manager self join · Source: [rystad (1).pdf](../archive/files/6819-rystad_1_.pdf), [rystad (1).pdf](../archive/files/6827-rystad_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L84), [chat, 15 Oct](../archive/inter-iit/2026-10.jsonl#L33)</sub>
 
 ### Q17. MCQ: purpose of softmax
 

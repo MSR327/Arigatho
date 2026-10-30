@@ -1,6 +1,6 @@
 # Paytm
 
-**21 questions** · 7 drives · latest 30 Oct 2026 · [5 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**21 questions** · 7 drives · latest 30 Oct 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 5 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · [Greedy](../topics/greedy.md) 2 · +10 more  
 **Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU
@@ -53,7 +53,7 @@ Maximum Even Subsequence in an Array (Greedy / DP). Only the title was shared.
 
 Minimum Cost to Make Two Strings Equal (Strings / Greedy). Only the title was shared.
 
-<sub>Topics: Strings, Greedy · Source: [chat, 30 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L62)</sub>
+<sub>Topics: Strings, Greedy · Same idea: [LeetCode 712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) (Medium), string-equalizing cost minimized via LCS-style DP · Source: [chat, 30 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L62)</sub>
 
 ### Q3. Merge overlapping intervals
 
@@ -65,7 +65,7 @@ Merge Overlapping Intervals (Sorting). Only the title was shared.
 
 Smallest Subarray Containing Min and Max (Sliding Window). Only the title was shared.
 
-<sub>Topics: Sliding Window, Arrays · Source: [chat, 30 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L62)</sub>
+<sub>Topics: Sliding Window, Arrays · Same idea: [LeetCode 2444. Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) (Hard), track last positions of min and max in window · Source: [chat, 30 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L62)</sub>
 
 ## 2026-10-29 · Unknown · FTE · SDE
 
@@ -97,7 +97,7 @@ Paytm SDE OA is usually 3 LeetCode hards; one of them was LeetCode 1404. Given t
 
 Paytm OA at BIT Mesra, Ranchi. The pattern was 1 DSA + 1 SQL + MCQs. This is the SQL question: list the customers and products that have no sale. The poster shared only a link: https://www.codinzhub.com/question/sql-list-customer-and-product-without-sale-paytm-online-assessment. The full schema and problem statement are not in the chat.
 
-<sub>Topics: SQL · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2010)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) (Easy), LEFT JOIN, filter rows with no match · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2010)</sub>
 
 ### Q2. Bank Transactions
 
@@ -161,7 +161,7 @@ Individual questions were not given.
 
 Interview example: next-greater-element problem. Exact statement not given.
 
-<sub>Topics: Stack/Queue, Arrays · Source: [chat, 21 Sep](../archive/paytm-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Stack/Queue, Arrays · Same problem: [LeetCode 496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) (Easy), monotonic stack next greater element · Source: [chat, 21 Sep](../archive/paytm-oa/2026-09.jsonl#L1)</sub>
 
 ### Q7. Linked list cycle detection
 
@@ -185,10 +185,10 @@ Interview task: build a binary search tree from sorted data. Exact statement not
 
 Interview task: a variant of deleting nodes from a linked list. Exact statement not given.
 
-<sub>Topics: Linked List · Source: [chat, 21 Sep](../archive/paytm-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Linked List · Close variant: [LeetCode 203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) (Easy), deleting nodes from linked list · Source: [chat, 21 Sep](../archive/paytm-oa/2026-09.jsonl#L1)</sub>
 
 ### Q11. Palindrome check
 
 Interview task: check whether something is a palindrome. Exact statement not given.
 
-<sub>Topics: Strings, Two Pointers · Source: [chat, 21 Sep](../archive/paytm-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Strings, Two Pointers · Same problem: [LeetCode 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Easy), two-pointer palindrome check · Source: [chat, 21 Sep](../archive/paytm-oa/2026-09.jsonl#L1)</sub>

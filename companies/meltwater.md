@@ -1,6 +1,6 @@
 # Meltwater
 
-**6 questions** · 2 drives · latest 16 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 2 drives · latest 16 Oct 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [Math](../topics/math.md) 2 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1 · [Sorting](../topics/sorting.md) 1 · [Arrays](../topics/arrays.md) 1  
 **Seen at:** IIT Hyderabad, VIT Vellore
@@ -27,19 +27,19 @@
 
 Given n, return the sum of the first n triangular numbers. (One of 2 easy questions. Different candidates got different questions, but the pattern was the same for both roles.)
 
-<sub>Topics: Math · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492) · Also asked at: IIT Hyderabad ×2 (last 2026-10-16)</sub>
+<sub>Topics: Math · Same idea: [LeetCode 441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) (Easy), triangular number sums and formulas · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492) · Also asked at: IIT Hyderabad ×2 (last 2026-10-16)</sub>
 
 ### Q2. Kth Character of Concatenated Sorted Unique Substrings
 
 Given a string s_input and an integer k, take all unique substrings of s_input, sort them in lexicographical order and concatenate them. Return the k-th character of the resulting string.
 
-<sub>Topics: Strings, Sorting · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492) · Also asked at: IIT Hyderabad ×2 (last 2026-10-16)</sub>
+<sub>Topics: Strings, Sorting · Same idea: [LeetCode 1698. Number of Distinct Substrings in a String](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/) (Medium), enumerating unique substrings with suffix structures · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492) · Also asked at: IIT Hyderabad ×2 (last 2026-10-16)</sub>
 
 ### Q3. Subarrays with GCD Equal to G
 
 Hard question. You are given two arrays c and v and an integer g. Over all subarrays where the GCD of the c values equals g, compute: (1) the maximum sum of the v values of such a subarray, (2) how many such subarrays there are, and (3) the minimum length among all such subarrays.
 
-<sub>Topics: Math, Arrays · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492) · Also asked at: IIT Hyderabad ×2 (last 2026-10-16)</sub>
+<sub>Topics: Math, Arrays · Close variant: [LeetCode 2447. Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) (Medium), subarrays whose GCD equals a target · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L491), [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L492) · Also asked at: IIT Hyderabad ×2 (last 2026-10-16)</sub>
 
 ## 2026-10-13 · VIT Vellore · FTE
 
@@ -59,4 +59,4 @@ Shared under the heading 'Meltwater and InMobi OA questions'; the post doesn't s
 
 Shared under the heading 'Meltwater and InMobi OA questions'; the post doesn't say which company asked which question. Difficulty: Hard; time limit 2.0 s; memory limit 256 MB. You are given an infinitely large 1-D grid in which every position starts empty. You receive N commands; each gives a very large index and a character ('*' or a lowercase letter a-z) to place there. Whenever placing a character completes a bounded alphabet substring, print that alphabet substring immediately on a new line. A bounded alphabet substring matches the pattern *(alphabets)*, where (alphabets) is entirely contiguous lowercase letters with no empty spaces, immediately bounded by '*' on the left and on the right. Indices can be up to 10^18, so plain arrays cannot be used. Input: the first line is N; each of the next N lines is 'index character' (index is a 64-bit integer). Output: each time a fully bounded alphabet substring is formed, print its letters without the asterisks. Constraints: 1 &lt;= N &lt;= 10^5; 1 &lt;= index &lt;= 10^18; character in {*, a..z}; commands arrive in any order (indices are not sorted or contiguous); an index is never overwritten with a different character. Example input: 7 / 629464829 * / 629464831 * / 629464830 a / 1 * / 3 c / 2 b / 4 *. Output: a / bc. (The message's explanation is cut off.)
 
-<sub>Topics: Hashing, Strings · Source: [chat, 13 Oct](../archive/inter-iit/2026-10.jsonl#L136)</sub>
+<sub>Topics: Hashing, Strings · Same idea: [LeetCode 352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) (Hard), merge sparse positions into contiguous segments · Source: [chat, 13 Oct](../archive/inter-iit/2026-10.jsonl#L136)</sub>

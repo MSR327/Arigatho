@@ -1,6 +1,6 @@
 # Slice
 
-**3 questions** · 2 drives · latest 23 Oct 2026 · [← all companies](../README.md#companies)
+**3 questions** · 2 drives · latest 23 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Finance](../topics/finance.md) 1 · [Math](../topics/math.md) 1  
 **Seen at:** IIT Bombay, IIT Kharagpur, MNNIT Allahabad
@@ -32,7 +32,7 @@ The poster does not remember the exact question.
 
 Among the numbers 0000 to 9999, how many have exactly 2 digits equal, with the other 2 digits not equal to each other and not equal to the two equal digits?
 
-<sub>Topics: Math · Source: [chat, 23 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L92)</sub>
+<sub>Topics: Math · Same idea: [LeetCode 2376. Count Special Integers](https://leetcode.com/problems/count-special-integers/) (Hard), counting digit patterns with distinctness constraints · Source: [chat, 23 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L92)</sub>
 
 ## 2026-10-22 · MNNIT Allahabad · FTE
 

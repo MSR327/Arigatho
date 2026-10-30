@@ -1,6 +1,6 @@
 # Apple
 
-**1 question** · 1 drive · latest 1 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**1 question** · 1 drive · latest 1 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Greedy](../topics/greedy.md) 1 · [Arrays](../topics/arrays.md) 1  
 **Seen at:** MNNIT Allahabad

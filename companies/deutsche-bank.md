@@ -1,6 +1,6 @@
 # Deutsche Bank
 
-**17 questions** · 8 drives · latest 30 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**17 questions** · 8 drives · latest 30 Oct 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Strings](../topics/strings.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · [Sorting](../topics/sorting.md) 2 · [OA Format](../topics/oa-format.md) 2 · +5 more  
 **Seen at:** IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur
@@ -49,7 +49,7 @@ Input: [2,5,9,9,12,12,12,15]
 Output: (15+12+11+10+9+8+5+2)
 ```
 
-<sub>Topics: Greedy, Sorting, Arrays · Source: [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L505) · Also asked at: IIT Guwahati (2026-10-30)</sub>
+<sub>Topics: Greedy, Sorting, Arrays · Same problem: [LeetCode 3301. Maximize the Total Height of Unique Towers](https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/) (Medium), sort descending, greedily assign unique max heights · Source: [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L505) · Also asked at: IIT Guwahati (2026-10-30)</sub>
 
 ### Q2. Minimum cars to remove for bridge crossing
 
@@ -83,7 +83,7 @@ Constraints:
 - 1 ≤ weights[i] ≤ 10^9
 - 1 ≤ maxWeight ≤ 10^9
 
-<sub>Topics: Arrays, Greedy, Two Pointers · Source: [Deutsche_Bank_IIT_Guwahati_Problems.pdf](../archive/files/16267-Deutsche_Bank_IIT_Guwahati_Problems.pdf)</sub>
+<sub>Topics: Arrays, Greedy, Two Pointers · Same idea: [LeetCode 881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) (Medium), two pointers pairing weights under a limit · Source: [Deutsche_Bank_IIT_Guwahati_Problems.pdf](../archive/files/16267-Deutsche_Bank_IIT_Guwahati_Problems.pdf)</sub>
 
 ### Q3. Count anagrams without identical adjacent characters
 
@@ -120,7 +120,7 @@ Constraints:
 - s contains only lowercase English letters (a–z).
 - The answer is guaranteed to be at most 2000.
 
-<sub>Topics: DP, Recursion/Backtracking, Math · Source: [Deutsche_Bank_IIT_Guwahati_Problems.pdf](../archive/files/16267-Deutsche_Bank_IIT_Guwahati_Problems.pdf)</sub>
+<sub>Topics: DP, Recursion/Backtracking, Math · Same idea: [LeetCode 47. Permutations II](https://leetcode.com/problems/permutations-ii/) (Medium), enumerate distinct permutations of repeated characters · Source: [Deutsche_Bank_IIT_Guwahati_Problems.pdf](../archive/files/16267-Deutsche_Bank_IIT_Guwahati_Problems.pdf)</sub>
 
 ## 2026-10-29 · IIT Guwahati · FTE
 
@@ -128,13 +128,13 @@ Constraints:
 
 Finding the number of anagrams (poster says it can be found on LeetCode). Exact statement not given.
 
-<sub>Topics: Strings, Hashing · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L490)</sub>
+<sub>Topics: Strings, Hashing · Same idea: [LeetCode 2514. Count Anagrams](https://leetcode.com/problems/count-anagrams/) (Hard), counting distinct anagram permutations · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L490)</sub>
 
 ### Q2. Frog Jump 2 type problem
 
 A "frog jump 2" type question. Exact statement not given.
 
-<sub>Topics: Arrays, DP · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L490)</sub>
+<sub>Topics: Arrays, DP · Same problem: [AtCoder DP B. Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b), frog jump DP with up to K steps · Source: [chat, 29 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L490)</sub>
 
 ## 2026-10-16 · IIT Kharagpur · FTE
 
@@ -178,19 +178,19 @@ The OA contained only behavioral questions. The test link was emailed and could 
 
 Given a string S containing lowercase English letters and '?', replace every '?' with a lowercase letter so that the resulting string is a palindrome. Return any valid palindrome, or "NO" if it is impossible.
 
-<sub>Topics: Strings, Two Pointers · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1247)</sub>
+<sub>Topics: Strings, Two Pointers · Same idea: [LeetCode 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (Easy), two pointers matching mirrored characters · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1247)</sub>
 
 ### Q2. Ambulance Arrival Time
 
 A city has N districts connected by M undirected streets. Arrays A and B describe the streets (street i connects A[i] and B[i]), and array H lists the districts that contain hospitals. Each street takes one minute to travel. Find the maximum, over all districts, of the shortest travel time to the nearest hospital. Return -1 if any district cannot be reached from a hospital.
 
-<sub>Topics: Graphs · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1247)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 542. 01 Matrix](https://leetcode.com/problems/01-matrix/) (Medium), multi-source BFS for nearest source distance · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1247)</sub>
 
 ### Q3. Largest Perfect Subtree
 
 Given a non-empty binary tree, find the size of the largest perfect subtree you can get by removing nodes. In a perfect binary tree every internal node has exactly two children and all leaves are at the same depth. Return the maximum number of nodes in such a subtree.
 
-<sub>Topics: Trees, Recursion/Backtracking · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1247)</sub>
+<sub>Topics: Trees, Recursion/Backtracking · Same idea: [LeetCode 333. Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) (Medium), postorder tree DP for largest valid subtree · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1247)</sub>
 
 ## 2026-10-15 · IIT Guwahati · FTE · Graduate Analyst
 
@@ -200,7 +200,7 @@ A DSA question about placing N queens in a row was reportedly asked in the Deuts
 
 The full problem statement was not given.
 
-<sub>Topics: Recursion/Backtracking · Source: [chat, 15 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L118)</sub>
+<sub>Topics: Recursion/Backtracking · Same problem: [LeetCode 51. N-Queens](https://leetcode.com/problems/n-queens/) (Hard), backtracking queen placement · Source: [chat, 15 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L118)</sub>
 
 ## 2026-10-15 · IIT Delhi · FTE
 
@@ -220,4 +220,4 @@ You are given 6 dominoes. Each domino is a rectangle made of two square halves, 
 
 Given an m x n matrix of integers, pick two numbers that are not in the same row and not in the same column. Return the largest possible sum of the two numbers.
 
-<sub>Topics: Arrays, Sorting · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1300)</sub>
+<sub>Topics: Arrays, Sorting · Same idea: [LeetCode 3256. Maximum Value Sum by Placing Three Rooks I](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/) (Hard), best cells with distinct rows and columns · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1300)</sub>

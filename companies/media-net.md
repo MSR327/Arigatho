@@ -1,6 +1,6 @@
 # Media.net
 
-**6 questions** · 4 drives · latest 19 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 4 drives · latest 19 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 4 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Math](../topics/math.md) 1 · [Trees](../topics/trees.md) 1  
 **Seen at:** Delhi Technological University, MNNIT Allahabad, Netaji Subhas University of Technology, VNIT Nagpur

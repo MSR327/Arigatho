@@ -1,6 +1,6 @@
 # InMobi
 
-**39 questions** · 21 drives · latest 28 Oct 2026 · [11 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**39 questions** · 21 drives · latest 28 Oct 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 13 · [Graphs](../topics/graphs.md) 11 · [DP](../topics/dp.md) 10 · [OA Format](../topics/oa-format.md) 7 · [Binary Search](../topics/binary-search.md) 6 · [Strings](../topics/strings.md) 6 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Greedy](../topics/greedy.md) 2 · +8 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Mandi +2 more
@@ -101,7 +101,7 @@ Output:
 ```
 Spans 1 and 2 cross, and spans 2 and 3 cross. Discarding span 2 leaves [1,1,3,3], which is valid. One discard is optimal.
 
-<sub>Topics: DP, Arrays · Source: [Inmodi_iitk.pdf](../archive/files/12280-Inmodi_iitk.pdf)</sub>
+<sub>Topics: DP, Arrays · Same idea: [LeetCode 516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) (Medium), interval DP over matched pairs · Source: [Inmodi_iitk.pdf](../archive/files/12280-Inmodi_iitk.pdf)</sub>
 
 ### Q2. Secure Network Resilience
 
@@ -158,7 +158,7 @@ Output:
 ```
 Path 1-3-4-5 uses 3 edges and has bottleneck min(50,20,30)=20. Path 1-2-4-5 has bottleneck 10. Higher-bottleneck routes require more than 3 edges.
 
-<sub>Topics: Binary Search, Graphs · Source: [Inmodi_iitk.pdf](../archive/files/12280-Inmodi_iitk.pdf)</sub>
+<sub>Topics: Binary Search, Graphs · Same idea: [LeetCode 1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) (Medium), binary search on bottleneck with BFS feasibility · Source: [Inmodi_iitk.pdf](../archive/files/12280-Inmodi_iitk.pdf)</sub>
 
 ## 2026-10-22 · IIT Delhi · FTE
 
@@ -166,13 +166,13 @@ Path 1-3-4-5 uses 3 edges and has bottleneck min(50,20,30)=20. Path 1-2-4-5 has 
 
 Very long problem statement. Similar to the Word Ladder II problem (find transformation sequences from a begin word to an end word changing one letter at a time using a dictionary), but with a cost attached to transformations.
 
-<sub>Topics: Graphs, Strings · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2027), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2028), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2029) · Also asked at: IIT Delhi ×2 (last 2026-10-23)</sub>
+<sub>Topics: Graphs, Strings · Close variant: [LeetCode 126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) (Hard), BFS shortest transformation sequences through dictionary · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2027), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2028), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2029) · Also asked at: IIT Delhi ×2 (last 2026-10-23)</sub>
 
 ### Q2. Graph dependencies problem
 
 Second question was a long, somewhat confusing problem about dependencies modeled as a graph (dependency resolution / ordering).
 
-<sub>Topics: Graphs · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2027), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2028), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2029) · Also asked at: IIT Delhi (2026-10-23)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (Medium), dependency ordering via topological sort · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2027), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2028), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L2029) · Also asked at: IIT Delhi (2026-10-23)</sub>
 
 ## 2026-10-22 · IIT Bombay · FTE
 
@@ -204,13 +204,13 @@ A Word Ladder II style problem was asked (find all shortest transformation seque
 
 A simple topological sort question, said to be from CSES. Full statement not given.
 
-<sub>Topics: Graphs · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L79), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L84), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L86), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L87), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L89)</sub>
+<sub>Topics: Graphs · Same problem: [CSES: Course Schedule](https://cses.fi/problemset/task/1679), topological sort of dependency graph · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L79), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L84), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L86), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L87), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L89)</sub>
 
 ### Q3. Subsequence DP question
 
 A DP question on subsequences. Full statement not given.
 
-<sub>Topics: DP · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L79), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L84), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L86), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L87), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L89)</sub>
+<sub>Topics: DP · Same idea: [LeetCode 1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) (Medium), classic subsequence DP · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L79), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L84), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L86), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L87), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L89)</sub>
 
 ## 2026-10-21 · IIT Delhi · FTE · SDE
 
@@ -252,7 +252,7 @@ Constraints:
 - 1 <= k <= |log|
 - log, pattern: strings (character set not recorded)
 
-<sub>Topics: DP, Strings · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L93), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L96), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L99), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L1), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L3), [InMobi - OA_iitd.pdf](../archive/files/10309-InMobi_-_OA_iitd.pdf)</sub>
+<sub>Topics: DP, Strings · Same idea: [LeetCode 115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) (Hard), DP counting subsequence matches of pattern in string · Source: [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L93), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L96), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L99), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L1), [chat, 21 Oct](../archive/inmobi-oa/2026-10.jsonl#L3), [InMobi - OA_iitd.pdf](../archive/files/10309-InMobi_-_OA_iitd.pdf)</sub>
 
 ### Q2. Company audit order with lowest-numbered cycle detection
 
@@ -328,7 +328,7 @@ Constraints: 1 &lt;= pieces.length &lt;= arr.length &lt;= 100; sum(pieces[i].len
 
 One of the 3 DSA problems was a recursion + backtracking problem (exact statement not shared). Platform: DoSelect; difficulty LeetCode medium-hard; 1 hr 30 min total.
 
-<sub>Topics: Recursion/Backtracking · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L125) · Also asked at: IIT BHU (2026-10-20)</sub>
+<sub>Topics: Recursion/Backtracking · Same idea: [LeetCode 51. N-Queens](https://leetcode.com/problems/n-queens/) (Hard), recursion with backtracking · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L125) · Also asked at: IIT BHU (2026-10-20)</sub>
 
 ### Q3. Very easy problem with unusual input format
 
@@ -359,7 +359,7 @@ Selecting the elements 4, 6, 7, 8 gives 4+6+7+8 = 25, the maximum sum.
 
 (The poster's example explanation lists the selected elements inconsistently.)
 
-<sub>Topics: DP, Arrays · Source: [chat, 13 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L61)</sub>
+<sub>Topics: DP, Arrays · Same idea: [LeetCode 198. House Robber](https://leetcode.com/problems/house-robber/) (Medium), subsequence sum DP with adjacency constraint · Source: [chat, 13 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L61)</sub>
 
 ## 2026-10-12 · IIT Indore · FTE
 
@@ -369,7 +369,7 @@ One question was similar to Codeforces 1167C (News Distribution), with different
 
 The poster also mentioned another question called "jojo-the-perfectionist". The full statements were not given.
 
-<sub>Topics: Graphs · Source: [chat, 12 Oct](../archive/inmobi-oa/2026-10.jsonl#L133), [chat, 12 Oct](../archive/inmobi-oa/2026-10.jsonl#L134) · Also asked at: IIT Indore (2026-10-13)</sub>
+<sub>Topics: Graphs · Same problem: [Codeforces 1167C. News Distribution](https://codeforces.com/problemset/problem/1167/C) (rated 1400), DSU component sizes · Source: [chat, 12 Oct](../archive/inmobi-oa/2026-10.jsonl#L133), [chat, 12 Oct](../archive/inmobi-oa/2026-10.jsonl#L134) · Also asked at: IIT Indore (2026-10-13)</sub>
 
 ## 2026-10-11 · IIT Kanpur · FTE
 
@@ -379,7 +379,7 @@ Given an array of daily profits/losses and m queries, where each query gives an 
 
 (Constraints and examples not provided.)
 
-<sub>Topics: Arrays, DP · Source: [chat, 11 Oct](../archive/inmobi-oa/2026-10.jsonl#L130)</sub>
+<sub>Topics: Arrays, DP · Same idea: [CSES: Subarray Sum Queries](https://cses.fi/problemset/task/1190), segment tree max subarray sum on ranges · Source: [chat, 11 Oct](../archive/inmobi-oa/2026-10.jsonl#L130)</sub>
 
 ### Q2. Count good blocks
 
@@ -387,7 +387,7 @@ Given two strings n and t, divide n into consecutive blocks of length |t|. A blo
 
 (Constraints and examples not provided.)
 
-<sub>Topics: Strings · Source: [chat, 11 Oct](../archive/inmobi-oa/2026-10.jsonl#L130)</sub>
+<sub>Topics: Strings · Same idea: [LeetCode 859. Buddy Strings](https://leetcode.com/problems/buddy-strings/) (Easy), equal after one adjacent/pair swap check · Source: [chat, 11 Oct](../archive/inmobi-oa/2026-10.jsonl#L130)</sub>
 
 ### Q3. Minimum computers to restart with dependencies
 
@@ -395,7 +395,7 @@ Given n computers and m dependency relationships, where computer A depends on co
 
 (Constraints and examples not provided.)
 
-<sub>Topics: Graphs · Source: [chat, 11 Oct](../archive/inmobi-oa/2026-10.jsonl#L130)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) (Medium), dependency graph reachability · Source: [chat, 11 Oct](../archive/inmobi-oa/2026-10.jsonl#L130)</sub>
 
 ## 2026-10-08 · IIT BHU · FTE
 
@@ -451,7 +451,7 @@ Constraints:
 
 Example: N = 6, every tower has range 1. Tower 0 covers [5,0,1], tower 1 covers [0,1,2], tower 2 covers [1,2,3], tower 3 covers [2,3,4], tower 4 covers [3,4,5], tower 5 covers [4,5,0]. Activating towers 0 and 3 (or 1 and 4, or 2 and 5) covers all positions {0..5}. No single tower with range 1 can cover all 6 positions. Output: 2
 
-<sub>Topics: Bit Manipulation, Recursion/Backtracking, Greedy · Source: [image.png](../archive/files/3191-image.png), [image.png](../archive/files/3192-image.png), [image.png](../archive/files/3193-image.png), [image.png](../archive/files/3194-image.png), [image.png](../archive/files/3195-image.png) · Also asked at: IIT BHU ×2 (last 2026-10-13)</sub>
+<sub>Topics: Bit Manipulation, Recursion/Backtracking, Greedy · Same idea: [LeetCode 1326. Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) (Hard), minimum ranges needed to cover all positions · Source: [image.png](../archive/files/3191-image.png), [image.png](../archive/files/3192-image.png), [image.png](../archive/files/3193-image.png), [image.png](../archive/files/3194-image.png), [image.png](../archive/files/3195-image.png) · Also asked at: IIT BHU ×2 (last 2026-10-13)</sub>
 
 ### Q2. Campaign Wave Analyzer
 
@@ -534,7 +534,7 @@ Minimize the Maximum Difference of Pairs (LeetCode problem linked by the poster)
 
 A binary tree is given in the form of an array. Find the difference between the sum of the first level and the sum of the last level. (Easy question; exact constraints and examples not remembered.)
 
-<sub>Topics: Trees, Arrays · Source: [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L34), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L1), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L2), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L3), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L6)</sub>
+<sub>Topics: Trees, Arrays · Same idea: [LeetCode 1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (Medium), level-order traversal computing per-level sums · Source: [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L34), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L1), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L2), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L3), [chat, 29 Sep](../archive/inmobi-oa/2026-09.jsonl#L6)</sub>
 
 ## 2026-09-26 · IIT Guwahati · FTE
 
@@ -591,7 +591,7 @@ Rules:
 
 (Input format, constraints and examples were not visible in the screenshot.)
 
-<sub>Topics: Strings, Sliding Window · Source: [image.png](../archive/files/2409-image.png), [image.png](../archive/files/2412-image.png)</sub>
+<sub>Topics: Strings, Sliding Window · Same idea: [LeetCode 859. Buddy Strings](https://leetcode.com/problems/buddy-strings/) (Easy), equal after one adjacent/pair swap check · Source: [image.png](../archive/files/2409-image.png), [image.png](../archive/files/2412-image.png)</sub>
 
 ### Q2. Peak Profit Window
 
@@ -646,4 +646,4 @@ Input:
 ```
 (The expected output was cut off in the screenshot.)
 
-<sub>Topics: Arrays, Binary Search · Source: [image.png](../archive/files/2409-image.png), [image.png](../archive/files/2412-image.png) · Also asked at: IIT Kanpur (2026-10-11)</sub>
+<sub>Topics: Arrays, Binary Search · Same idea: [LeetCode 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Medium), max subarray sum; segment tree for range queries · Source: [image.png](../archive/files/2409-image.png), [image.png](../archive/files/2412-image.png) · Also asked at: IIT Kanpur (2026-10-11)</sub>

@@ -1,6 +1,6 @@
 # PeopleStrong
 
-**3 questions** · 1 drive · latest 29 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**3 questions** · 1 drive · latest 29 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [DP](../topics/dp.md) 2 · [Arrays](../topics/arrays.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1  
 **Seen at:** IIT Guwahati

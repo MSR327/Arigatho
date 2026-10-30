@@ -1,6 +1,6 @@
 # Nielsen
 
-**5 questions** · 1 drive · latest 13 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 1 drive · latest 13 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Strings](../topics/strings.md) 2 · [Graphs](../topics/graphs.md) 2 · [Stack/Queue](../topics/stack-queue.md) 1 · [Arrays](../topics/arrays.md) 1 · [DP](../topics/dp.md) 1 · [Hashing](../topics/hashing.md) 1  
 **Seen at:** VIT Vellore
@@ -37,16 +37,16 @@ Edit Distance (LeetCode 72): given two strings word1 and word2, return the minim
 
 A Caesar-cipher based string problem (shared only as 'caesar cipher smth'; exact statement not given).
 
-<sub>Topics: Strings · Source: [chat, 13 Oct](../archive/inter-iit/2026-10.jsonl#L134)</sub>
+<sub>Topics: Strings · Close variant: [HackerRank: Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) (Easy), shift letters by key preserving case · Source: [chat, 13 Oct](../archive/inter-iit/2026-10.jsonl#L134)</sub>
 
 ### Q4. Friend recommendation (friends of friends)
 
 Social media recommendation: if I know person A and A knows person B, but I don't know B, then B should be recommended to me. Compute the friend recommendations from the given connections.
 
-<sub>Topics: Graphs, Hashing · Source: [chat, 13 Oct](../archive/inter-iit/2026-10.jsonl#L134)</sub>
+<sub>Topics: Graphs, Hashing · Same idea: [LeetCode 1311. Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) (Medium), BFS over friend graph by level · Source: [chat, 13 Oct](../archive/inter-iit/2026-10.jsonl#L134)</sub>
 
 ### Q5. DSU problem
 
 One problem solved with Disjoint Set Union (Union-Find); exact statement not given.
 
-<sub>Topics: Graphs · Source: [chat, 13 Oct](../archive/inter-iit/2026-10.jsonl#L134)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) (Medium), union-find connected components · Source: [chat, 13 Oct](../archive/inter-iit/2026-10.jsonl#L134)</sub>

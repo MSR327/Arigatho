@@ -1,6 +1,6 @@
 # LG Ads (Alphonso)
 
-**7 questions** · 2 drives · latest 22 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**7 questions** · 2 drives · latest 22 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 4 · [Math](../topics/math.md) 3 · [Sliding Window](../topics/sliding-window.md) 2 · [Hashing](../topics/hashing.md) 2 · [Heaps](../topics/heaps.md) 1 · [OA Format](../topics/oa-format.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1  
 **Seen at:** IIT BHU, IIT Madras
@@ -46,7 +46,7 @@ Constraints:
 
 Given a starting point and an ending point in 3D, and a string of moves consisting of L, R, U, D, F, B (movement in all 3 directions), find the minimum time to get from the start to the destination, or -1 if not possible. The movement specified by the string is periodic and each movement takes 1 time unit. During each time unit, you can also move in any one of the 6 directions as well.
 
-<sub>Topics: Math, Strings · Source: [chat, 22 Oct](../archive/campus-iit-ropar-placements/2026-10.jsonl#L30)</sub>
+<sub>Topics: Math, Strings · Same idea: [LeetCode 2850. Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) (Medium), grid movement minimum steps reachability · Source: [chat, 22 Oct](../archive/campus-iit-ropar-placements/2026-10.jsonl#L30)</sub>
 
 ### Q4. Arrow through minimum number of boxes across layers
 
@@ -70,13 +70,13 @@ Constraint: n up to 1e4.
 
 An array is given. Find the maximum sum of a valid subarray, where a valid subarray is one having exactly one element occurring twice and all other elements occurring once.
 
-<sub>Topics: Arrays, Sliding Window, Hashing · Source: [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L203), [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L212)</sub>
+<sub>Topics: Arrays, Sliding Window, Hashing · Same idea: [LeetCode 1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) (Medium), sliding window with duplicates, maximum subarray sum · Source: [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L203), [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L212)</sub>
 
 ### Q2. Longest subarray with max-min <= D and sum <= B
 
 Find the maximum length of a subarray where the difference between the maximum and the minimum of that subarray is <= a given value D, and the sum of that subarray is <= a given value B.
 
-<sub>Topics: Sliding Window, Arrays, Heaps · Source: [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L203), [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L212)</sub>
+<sub>Topics: Sliding Window, Arrays, Heaps · Same idea: [LeetCode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) (Medium), monotonic deques tracking window max and min · Source: [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L203), [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L212)</sub>
 
 ### Q3. Towers receiving a field in D-dimensional space
 

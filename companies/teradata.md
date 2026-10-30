@@ -1,6 +1,6 @@
 # Teradata
 
-**3 questions** · 1 drive · latest 28 Sep 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**3 questions** · 1 drive · latest 28 Sep 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Graphs](../topics/graphs.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1  
 **Seen at:** IIT BHU

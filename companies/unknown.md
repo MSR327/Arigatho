@@ -1,6 +1,6 @@
 # Unknown
 
-**14 questions** · 10 drives · latest 29 Oct 2026 · [← all companies](../README.md#companies)
+**14 questions** · 10 drives · latest 29 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 7 · [Math](../topics/math.md) 2 · [Arrays](../topics/arrays.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Graphs](../topics/graphs.md) 1 · +7 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee, NIT Trichy
@@ -93,7 +93,7 @@ PharmaAce OA (company name taken from the replied-to message): mostly aptitude, 
 
 Given a single string (may contain lowercase, uppercase, special characters and spaces), convert every character to its ASCII value and pass each value to a function that computes the sum of its digits. Process every character, including spaces (so the whole line must be read, e.g. with `getline()` in C++, not `cin >> string`). No C++ boilerplate was provided for this problem. Exact output format and examples were not given.
 
-<sub>Topics: Strings, Math · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L112), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L113), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L114), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L115), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L116)</sub>
+<sub>Topics: Strings, Math · Same idea: [LeetCode 1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) (Easy), digit sums of character-derived values · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L112), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L113), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L114), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L115), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L116)</sub>
 
 ### Q2. Binary tree alternating subtree sums
 
@@ -111,7 +111,7 @@ For every node with exactly two children (special node): compute the sum of valu
 
 The exact output and constraints were not given.
 
-<sub>Topics: Trees, Recursion/Backtracking · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L112), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L113), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L114), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L115), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L116)</sub>
+<sub>Topics: Trees, Recursion/Backtracking · Same idea: [LeetCode 563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) (Easy), recursive subtree sums combined at each node · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L112), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L113), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L114), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L115), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L116)</sub>
 
 ### Q3. Grid travel with work and 8-hour days (Olly)
 
@@ -127,7 +127,7 @@ Suggested approach: bitmask DP dp[mask][i], then simulate the days. A poster say
 
 The statement is truncated: the exact output and constraints were not given.
 
-<sub>Topics: Graphs, DP, Bit Manipulation · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L112), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L113), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L114), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L115), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L116)</sub>
+<sub>Topics: Graphs, DP, Bit Manipulation · Same idea: [LeetCode 847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) (Hard), bitmask DP shortest path visiting all points · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L112), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L113), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L114), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L115), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L116)</sub>
 
 ## 2026-10-23 · IIT Kanpur · FTE
 
@@ -137,7 +137,7 @@ Given an array `arr` of size n, return an array `ans` where `ans[i]` is the sum 
 
 Note: coding question was different for everyone.
 
-<sub>Topics: Arrays, Math · Source: [chat, 23 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L56), [chat, 23 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L61)</sub>
+<sub>Topics: Arrays, Math · Same idea: [LeetCode 1390. Four Divisors](https://leetcode.com/problems/four-divisors/) (Medium), computing sum of divisors for each array element · Source: [chat, 23 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L56), [chat, 23 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L61)</sub>
 
 ### Q2. Event booking promo code validation
 
@@ -159,7 +159,7 @@ The Sony Japan OA had 1 DSA question and 30 MCQs. The DSA question was fairly ea
 
 Count the number of unique elements encountered till the kth element of an array. (The poster solved it in Python using a set. Exact constraints and examples were not given.)
 
-<sub>Topics: Arrays, Hashing · Source: [chat, 18 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L139), [chat, 18 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L140), [chat, 18 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L142), [chat, 19 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L144)</sub>
+<sub>Topics: Arrays, Hashing · Same idea: [LeetCode 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Easy), hash set tracking distinct elements while scanning · Source: [chat, 18 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L139), [chat, 18 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L140), [chat, 18 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L142), [chat, 19 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L144)</sub>
 
 ## 2026-10-14 · NIT Trichy · FTE
 

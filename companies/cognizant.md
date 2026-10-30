@@ -1,6 +1,6 @@
 # Cognizant
 
-**6 questions** · 3 drives · latest 29 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 3 drives · latest 29 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 3 · [Trees](../topics/trees.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [Other](../topics/other.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
 **Seen at:** IIIT, IIT BHU, IIT Bombay

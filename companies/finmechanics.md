@@ -1,6 +1,6 @@
 # Finmechanics
 
-**10 questions** · 3 drives · latest 23 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**10 questions** · 3 drives · latest 23 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 3 · [Math](../topics/math.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [DP](../topics/dp.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Graphs](../topics/graphs.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Strings](../topics/strings.md) 1 · +3 more  
 **Seen at:** IIT Kanpur, IIT Kharagpur/Kanpur

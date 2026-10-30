@@ -1,6 +1,6 @@
 # Harness
 
-**36 questions** · 12 drives · latest 23 Oct 2026 · [11 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**36 questions** · 12 drives · latest 23 Oct 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Hashing](../topics/hashing.md) 7 · [Arrays](../topics/arrays.md) 7 · [DP](../topics/dp.md) 7 · [Graphs](../topics/graphs.md) 6 · [Trees](../topics/trees.md) 5 · [OA Format](../topics/oa-format.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Sorting](../topics/sorting.md) 3 · +14 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Roorkee, MNNIT Allahabad, NIT Rourkela +1 more
@@ -124,7 +124,7 @@ Given the IP address 10.20.37.200/22, which of these addresses is in the same su
 
 Count the pairs (i, j) with i &lt; j and a[i] > a[j] in the array [7, 9, 4, 5, 6, 3, 10, 7, 100]. Reported answer: 13 inversions.
 
-<sub>Topics: Arrays, Sorting · Source: [chat, 16 Oct](../archive/inter-nit/2026-10.jsonl#L1320)</sub>
+<sub>Topics: Arrays, Sorting · Same idea: [LeetCode 315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) (Hard), counting inversions via merge sort or BIT · Source: [chat, 16 Oct](../archive/inter-nit/2026-10.jsonl#L1320)</sub>
 
 ### Q8. Decimal to Binary Code Output (MCQ)
 
@@ -138,7 +138,7 @@ A code snippet converts decimal 100 to binary. What does it print? (The exact co
 
 Codeforces problem 592D (asked in the previous OA as well). Statement not given in the message.
 
-<sub>Topics: Graphs, Trees · Source: [chat, 16 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L197)</sub>
+<sub>Topics: Graphs, Trees · Same problem: [Codeforces 592D. Super M](https://codeforces.com/problemset/problem/592/D) (rated 2200), same problem · Source: [chat, 16 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L197)</sub>
 
 ### Q2. Max points collecting coins in 2×n grid
 
@@ -167,7 +167,7 @@ Constraints: n, m &lt;= 10^5; trainingTime[i] &lt;= 10^9; executionDays[i][j] &l
 Example: n = 3, m = 2, trainingTime = [1, 1, 4], executionDays = [[3, 9], [4, 7], [1, 5]].  
 Schedule: Days 1-4 train algorithm 2 (needs 4 days). Day 5 execute algorithm 2 (5 is in executionDays[2]). Day 6 train algorithm 1. Day 7 execute algorithm 1. Day 8 train algorithm 0. Day 9 execute algorithm 0. Output: 9.
 
-<sub>Topics: Binary Search, Greedy · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1263)</sub>
+<sub>Topics: Binary Search, Greedy · Same idea: [LeetCode 630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) (Hard), greedy scheduling of durations against deadlines · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1263)</sub>
 
 ### Q2. Power Array and Target Queries
 
@@ -204,7 +204,7 @@ Since the answer can be very large, return it modulo `10^9 + 7`.
 
 For each query, print the number of distinct ways to obtain the target value `X`, modulo `10^9 + 7`.
 
-<sub>Topics: DP, Math, Hashing · Source: [chat, 15 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L117)</sub>
+<sub>Topics: DP, Math, Hashing · Same idea: [LeetCode 1755. Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) (Hard), meet in the middle over small N · Source: [chat, 15 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L117)</sub>
 
 ## 2026-10-15 · IIT Delhi · FTE
 
@@ -255,7 +255,7 @@ Path: 1 → 3 → 2 → 4
 Score: 1×0 + 3×1 + 2×2 + 4×3 = 19
 ```
 
-<sub>Topics: DP, Arrays · Source: [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L128), [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L129)</sub>
+<sub>Topics: DP, Arrays · Same idea: [LeetCode 64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (Medium), grid path optimisation with DP · Source: [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L128), [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L129)</sub>
 
 ### Q3. Minimum moves to visit required nodes in a tree
 
@@ -272,7 +272,7 @@ Example 1: Node 1 connects to nodes 2 and 3. Both are required, destination is n
 
 Example 2: A tree has 7 nodes, with edges 1–2, 1–5, 2–3, 2–4, 5–6, 5–7. All leaves are required, destination is node 7. Output: 10.
 
-<sub>Topics: Trees, Graphs · Source: [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L128), [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L129)</sub>
+<sub>Topics: Trees, Graphs · Close variant: [Codeforces 1675F. Vlad and Unfinished Business](https://codeforces.com/problemset/problem/1675/F) (rated 1800), tree walk visiting required nodes, fixed start and end · Source: [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L128), [chat, 15 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L129)</sub>
 
 ## 2026-10-14 · IIT Guwahati · FTE
 
@@ -310,7 +310,7 @@ Example 3: grid = [[0,1],[1,0]], k = 1 → Output: -1 (both moves out of (0,0) a
 
 Constraints: 1 ≤ n, m ≤ 100; 1 ≤ k ≤ 100; grid[i][j] is 0 or 1.
 
-<sub>Topics: Graphs, Arrays · Source: [Harness_IITG_OA_Questions.pdf](../archive/files/6318-Harness_IITG_OA_Questions.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L222), [Harness_IITG_OA_Questions.pdf](../archive/files/6332-Harness_IITG_OA_Questions.pdf) · Also asked at: IIT Guwahati ×4 (last 2026-10-15)</sub>
+<sub>Topics: Graphs, Arrays · Same idea: [LeetCode 2617. Minimum Number of Visited Cells in a Grid](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) (Hard), BFS on grid with multi-step jumps · Source: [Harness_IITG_OA_Questions.pdf](../archive/files/6318-Harness_IITG_OA_Questions.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L222), [Harness_IITG_OA_Questions.pdf](../archive/files/6332-Harness_IITG_OA_Questions.pdf) · Also asked at: IIT Guwahati ×4 (last 2026-10-15)</sub>
 
 ### Q2. Tower Placement on a Tree
 
@@ -322,7 +322,7 @@ Example 3: n = 4, treeNode_from = [0, 1, 2], treeNode_to = [1, 2, 3] (path 0–1
 
 Constraints: not recorded (likely bounds on n, and possibly a modulo such as 10^9 + 7).
 
-<sub>Topics: Trees, DP · Source: [Harness_IITG_OA_Questions.pdf](../archive/files/6318-Harness_IITG_OA_Questions.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L222), [Harness_IITG_OA_Questions.pdf](../archive/files/6332-Harness_IITG_OA_Questions.pdf) · Also asked at: IIT Guwahati ×4 (last 2026-10-15)</sub>
+<sub>Topics: Trees, DP · Same idea: [LeetCode 968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) (Hard), tree DP over covered/placed states · Source: [Harness_IITG_OA_Questions.pdf](../archive/files/6318-Harness_IITG_OA_Questions.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L222), [Harness_IITG_OA_Questions.pdf](../archive/files/6332-Harness_IITG_OA_Questions.pdf) · Also asked at: IIT Guwahati ×4 (last 2026-10-15)</sub>
 
 ### Q3. 10 MCQs on Backend, Testing and SQL
 
@@ -349,7 +349,7 @@ Signature: long long maximumMemory(vector&lt;vector&lt;int>>& memory, int k).
 Constraints: 1 &lt;= n, m &lt;= 200; 1 &lt;= memory[i][j] &lt;= 10^9; 1 &lt;= k &lt;= m.  
 Expected approach: dp(i, j, cnt), where cnt = cells read so far in the current row (resets when moving down); O(n*m*k).
 
-<sub>Topics: DP, Arrays · Source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/4815-Harness_SDE_NIT_Karanataka.pdf) · Also asked at: NIT Surathkal ×6 (last 2026-10-14)</sub>
+<sub>Topics: DP, Arrays · Same idea: [LeetCode 64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (Medium), grid path DP right/down · Source: [Harness_SDE_NIT_Karanataka.pdf](../archive/files/4815-Harness_SDE_NIT_Karanataka.pdf) · Also asked at: NIT Surathkal ×6 (last 2026-10-14)</sub>
 
 ### Q2. Maximum Weight Tree After Degree Constraints
 

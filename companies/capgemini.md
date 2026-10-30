@@ -1,6 +1,6 @@
 # Capgemini
 
-**8 questions** · 2 drives · latest 20 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 2 drives · latest 20 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1  
 **Seen at:** IIT Delhi, NIT Trichy
@@ -49,7 +49,7 @@ Input:  aabbbbeeeeffggg
 Output: a2b4e4f2g3
 ```
 
-<sub>Topics: Strings · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11)</sub>
+<sub>Topics: Strings · Close variant: [LeetCode 443. String Compression](https://leetcode.com/problems/string-compression/) (Medium), run-length encoding of consecutive characters · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11)</sub>
 
 ### Q3. Spiral matrix traversal
 
@@ -61,7 +61,7 @@ Traverse a matrix in spiral order and print the elements.
 
 Given an array of integers, print how many times each integer occurs.
 
-<sub>Topics: Arrays, Hashing · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11)</sub>
+<sub>Topics: Arrays, Hashing · Same idea: [LeetCode 1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) (Easy), hash map counting frequency of integers · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11)</sub>
 
 ## 2026-09-24 · NIT Trichy · FTE
 
@@ -69,7 +69,7 @@ Given an array of integers, print how many times each integer occurs.
 
 A basic LeetCode-style problem: find the cost of moving all 1s to the end (of a binary string/array).
 
-<sub>Topics: Strings, Greedy · Source: [chat, 24 Sep](../archive/inter-nit/2026-09.jsonl#L299)</sub>
+<sub>Topics: Strings, Greedy · Close variant: [LeetCode 2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) (Medium), cost of moving all 1s to one end · Source: [chat, 24 Sep](../archive/inter-nit/2026-09.jsonl#L299)</sub>
 
 ### Q2. Debugging: React search bar
 

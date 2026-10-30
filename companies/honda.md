@@ -1,6 +1,6 @@
 # Honda
 
-**8 questions** · 3 drives · latest 17 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 3 drives · latest 17 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 4 · [Math](../topics/math.md) 2 · [DP](../topics/dp.md) 2 · [Hashing](../topics/hashing.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Graphs](../topics/graphs.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · [Sorting](../topics/sorting.md) 1 · +1 more  
 **Seen at:** IIT Delhi, IIT Hyderabad, IIT Madras, VIT Vellore
@@ -44,7 +44,7 @@ Problem from fastprep.io: https://www.fastprep.io/problems/factset-photo-album (
 
 A sequence is defined by three starting values F0 = a, F1 = b, F2 = c. Each later term is F_i = (F_{i-1} | F_{i-2}) ^ F_{i-3}, using bitwise OR and XOR. Given a, b, c and n, return F_n. Function signature (C): long bitwiseRecurrence(long a, long b, long c, long n). Examples: a=4, b=1, c=10, n=4 -> 14; a=3, b=2, c=5, n=3 -> 2. (The poster notes the second example looks inconsistent with the recurrence as read from the screenshot.) This was the OA at IIT Delhi last year.
 
-<sub>Topics: Bit Manipulation, Math · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1304) · Also asked at: IIT Delhi (2026-10-15)</sub>
+<sub>Topics: Bit Manipulation, Math · Same idea: [LeetCode 509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) (Easy), linear recurrence, large n via cycle detection · Source: [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L1304) · Also asked at: IIT Delhi (2026-10-15)</sub>
 
 ### Q2. Maximum Gross Value of Any Valid Triple
 
@@ -63,7 +63,7 @@ Input: n = 5
 Pairs: (1,2), (1,3), (1,4), (1,5), (2,3), (2,4), (2,5), (3,4), (3,5), (4,5)  
 Output: 2, from the pair (2, 4)
 
-<sub>Topics: Math · Source: [chat, 9 Oct](../archive/inter-iit/2026-10.jsonl#L292) · Also asked at: IIT Hyderabad (2026-10-09)</sub>
+<sub>Topics: Math · Same problem: [Codeforces 1370A. Maximum GCD](https://codeforces.com/problemset/problem/1370/A) (rated 800), max gcd over pairs up to n is n/2 · Source: [chat, 9 Oct](../archive/inter-iit/2026-10.jsonl#L292) · Also asked at: IIT Hyderabad (2026-10-09)</sub>
 
 ### Q2. Unique Pairs with Target Sum
 
@@ -76,7 +76,7 @@ Example
 Input: nums = [1, 5, 7, -1, 5], target = 6  
 Output: [(1, 5), (7, -1)], where (1, 5) appears only once even though 5 occurs twice
 
-<sub>Topics: Arrays, Hashing, Two Pointers · Source: [chat, 9 Oct](../archive/inter-iit/2026-10.jsonl#L292) · Also asked at: IIT Hyderabad (2026-10-09)</sub>
+<sub>Topics: Arrays, Hashing, Two Pointers · Close variant: [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum/) (Easy), hash set lookup of complement for target sum · Source: [chat, 9 Oct](../archive/inter-iit/2026-10.jsonl#L292) · Also asked at: IIT Hyderabad (2026-10-09)</sub>
 
 ### Q3. Maximum Jumps to Reach the Last Index
 

@@ -1,6 +1,6 @@
 # Pace Stock
 
-**8 questions** · 2 drives · latest 8 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 2 drives · latest 8 Oct 2026 · [8 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 3 · [Math](../topics/math.md) 3 · [Graphs](../topics/graphs.md) 3 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Trees](../topics/trees.md) 1 · +3 more  
 **Seen at:** IIT Delhi, IIT Kharagpur
@@ -36,7 +36,7 @@ Return the minimum number of edges walked.
 
 Practice (same problem, any start/end): Codeforces 1675F - Vlad and Unfinished Business.
 
-<sub>Topics: Trees, Graphs · Source: [Pace Stock - OA.pdf](../archive/files/4151-Pace_Stock_-_OA.pdf), [chat, 8 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L156)</sub>
+<sub>Topics: Trees, Graphs · Same problem: [Codeforces 1675F. Vlad and Unfinished Business](https://codeforces.com/problemset/problem/1675/F) (rated 1800), tree walk visiting required nodes, start 1 end n · Source: [Pace Stock - OA.pdf](../archive/files/4151-Pace_Stock_-_OA.pdf), [chat, 8 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L156)</sub>
 
 ### Q2. Nearest city on the same line
 
@@ -48,7 +48,7 @@ There are n cities: city[i] is at (x_i, y_i), given by city (vector<string>), x,
 
 Return a vector<string> with the answer for every query, in order.
 
-<sub>Topics: Hashing, Sorting, Arrays · Source: [Pace Stock - OA.pdf](../archive/files/4151-Pace_Stock_-_OA.pdf), [chat, 8 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L156)</sub>
+<sub>Topics: Hashing, Sorting, Arrays · Close variant: [LeetCode 1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) (Easy), nearest point sharing x or y coordinate · Source: [Pace Stock - OA.pdf](../archive/files/4151-Pace_Stock_-_OA.pdf), [chat, 8 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L156)</sub>
 
 ### Q3. Count exactly overlapping regions in two grids
 
@@ -60,7 +60,7 @@ Return the number of such regions of grid2.
 
 Practice (closest, weaker "inside" condition): LeetCode 1905 - Count Sub Islands.
 
-<sub>Topics: Graphs, Arrays · Source: [Pace Stock - OA.pdf](../archive/files/4151-Pace_Stock_-_OA.pdf), [chat, 8 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L156)</sub>
+<sub>Topics: Graphs, Arrays · Close variant: [LeetCode 1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) (Medium), grid2 islands compared against grid1 islands via DFS · Source: [Pace Stock - OA.pdf](../archive/files/4151-Pace_Stock_-_OA.pdf), [chat, 8 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L156)</sub>
 
 ### Q4. Suffix-to-front string transformations
 
@@ -82,13 +82,13 @@ Practice (same problem): LeetCode 2851 - String Transformation.
 
 Given an array a of size n, find the number of subarrays for which the bitwise OR of that subarray is present in that subarray. E.g. for [1, 6, 7] the bitwise OR is 7, which is present in this array. Constraints: N &lt; 1e5, A[i] &lt; 1e6.
 
-<sub>Topics: Bit Manipulation, Arrays · Source: [chat, 6 Oct](../archive/inter-iit/2026-10.jsonl#L393) · Also asked at: IIT Kharagpur (2026-10-07)</sub>
+<sub>Topics: Bit Manipulation, Arrays · Same idea: [LeetCode 898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/) (Medium), subarray ORs take few distinct values per endpoint · Source: [chat, 6 Oct](../archive/inter-iit/2026-10.jsonl#L393) · Also asked at: IIT Kharagpur (2026-10-07)</sub>
 
 ### Q2. Maximum pairs with non-perfect-square product after K changes
 
 There are N students. The i-th student is assigned number A[i]. We can pair up any two students if the product of their assigned numbers is NOT a perfect square. One student can belong to at most 1 pair. We are given an integer K. We can change at most K elements of this array to any other positive number of our choice. Find the maximum number of pairs we can achieve by doing at most K operations. Constraints: N &lt; 1e5, A[i] &lt; 1e6.
 
-<sub>Topics: Math, Greedy, Hashing · Source: [chat, 6 Oct](../archive/inter-iit/2026-10.jsonl#L393) · Also asked at: IIT Kharagpur (2026-10-07)</sub>
+<sub>Topics: Math, Greedy, Hashing · Same idea: [Codeforces 1497E1. Square-Free Division (easy version)](https://codeforces.com/problemset/problem/1497/E1) (rated 1700), square-free part reduction for perfect-square products · Source: [chat, 6 Oct](../archive/inter-iit/2026-10.jsonl#L393) · Also asked at: IIT Kharagpur (2026-10-07)</sub>
 
 ### Q3. Minimum days to train and execute all ML algorithms
 

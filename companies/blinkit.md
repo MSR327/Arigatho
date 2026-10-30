@@ -1,6 +1,6 @@
 # Blinkit
 
-**4 questions** · 2 drives · latest 25 Sep 2026 · [← all companies](../README.md#companies)
+**4 questions** · 2 drives · latest 25 Sep 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Web Dev](../topics/web-dev.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [OOP](../topics/oop.md) 1 · [SQL](../topics/sql.md) 1 · +2 more  
 **Seen at:** NIT Trichy
@@ -44,7 +44,7 @@ The discussion covered DFS/backtracking and a prefix-sum approach.
 
 (Exact statements, constraints and examples were not given in the source.)
 
-<sub>Topics: Trees, Recursion/Backtracking, Hashing · Source: [chat, 21 Sep](../archive/blinkit-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Trees, Recursion/Backtracking, Hashing · Close variant: [LeetCode 437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) (Medium), prefix-sum DFS on tree paths · Source: [chat, 21 Sep](../archive/blinkit-oa/2026-09.jsonl#L1)</sub>
 
 ### Q2. Design live delivery tracking
 

@@ -1,6 +1,6 @@
 # Cisco
 
-**3 questions** · 2 drives · latest 21 Sep 2026 · [← all companies](../README.md#companies)
+**3 questions** · 2 drives · latest 21 Sep 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 2 · [Trees](../topics/trees.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1  
 
@@ -31,7 +31,7 @@ An SDE account reports an OA with two DSA tasks and 40 MCQs, followed by technic
 
 An SDE account reports being asked about BST validation and traversals, then opening their project code and implementing a small feature. Exact problem statements are not given.
 
-<sub>Topics: Trees, Software Engineering · Source: [chat, 21 Sep](../archive/cisco-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Trees, Software Engineering · Same idea: [LeetCode 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (Medium), BST validation with range bounds, inorder traversal · Source: [chat, 21 Sep](../archive/cisco-oa/2026-09.jsonl#L1)</sub>
 
 ### Q2. Network SWE intern technical round: DSA, OOP, OS and projects
 

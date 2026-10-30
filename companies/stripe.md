@@ -1,6 +1,6 @@
 # Stripe
 
-**3 questions** · 3 drives · latest 26 Oct 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 26 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 2 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1  
 **Seen at:** BITS Pilani, IIT BHU, IIT Hyderabad
@@ -47,4 +47,4 @@ The first round was DSA, and the second round was a deep system design round. No
 
 A friend of the poster was asked a CSES problem from the Sorting and Searching section in the Stripe interview. The exact problem was not specified.
 
-<sub>Topics: Sorting, Binary Search · Source: [chat, 13 Oct](../archive/intern-2028/2026-10.jsonl#L235)</sub>
+<sub>Topics: Sorting, Binary Search · Same idea: [CSES: Sum of Two Values](https://cses.fi/problemset/task/1640), sorting and searching section problem · Source: [chat, 13 Oct](../archive/intern-2028/2026-10.jsonl#L235)</sub>

@@ -1,6 +1,6 @@
 # Nvidia
 
-**31 questions** · 14 drives · latest 30 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**31 questions** · 14 drives · latest 30 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 11 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Stack/Queue](../topics/stack-queue.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Trees](../topics/trees.md) 4 · [Bit Manipulation](../topics/bit-manipulation.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Math](../topics/math.md) 2 · +9 more  
 **Seen at:** IIT Delhi, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, NIT Rourkela, VNIT Nagpur
@@ -163,7 +163,7 @@ Print a single integer: the maximum possible path latency among all pairs of dis
 
 (The message was cut off here, so the constraints and examples are missing.)
 
-<sub>Topics: Trees, Graphs · Source: [chat, 28 Oct](../archive/intern-2027/2026-10.jsonl#L49)</sub>
+<sub>Topics: Trees, Graphs · Same idea: [LeetCode 1245. Tree Diameter](https://leetcode.com/problems/tree-diameter/) (Medium), longest path in tree via DFS DP · Source: [chat, 28 Oct](../archive/intern-2027/2026-10.jsonl#L49)</sub>
 
 ## 2026-10-28 · MNNIT Allahabad · FTE · System Software Engineer
 
@@ -347,7 +347,7 @@ Constraints
 - 1 <= timestamps[i] <= 10^6
 - All messages contain lowercase English letters only.
 
-<sub>Topics: Hashing, Strings, Arrays · Source: [chat, 21 Oct](../archive/nvidia-oa/2026-10.jsonl#L87)</sub>
+<sub>Topics: Hashing, Strings, Arrays · Close variant: [LeetCode 359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) (Easy), hash map of last delivered time per message · Source: [chat, 21 Oct](../archive/nvidia-oa/2026-10.jsonl#L87)</sub>
 
 ## 2026-10-18 · Unknown · FTE · System Software
 

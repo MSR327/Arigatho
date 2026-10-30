@@ -1,6 +1,6 @@
 # Capital One
 
-**4 questions** · 2 drives · latest 26 Oct 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**4 questions** · 2 drives · latest 26 Oct 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Math](../topics/math.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Graphs](../topics/graphs.md) 1 · [Sliding Window](../topics/sliding-window.md) 1 · [Heaps](../topics/heaps.md) 1 · [Arrays](../topics/arrays.md) 1  
 **Seen at:** IIT BHU, IIT Bombay

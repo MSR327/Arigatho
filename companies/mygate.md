@@ -1,6 +1,6 @@
 # MyGate
 
-**5 questions** · 4 drives · latest 15 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 4 drives · latest 15 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Math](../topics/math.md) 2 · [Arrays](../topics/arrays.md) 2 · [Sliding Window](../topics/sliding-window.md) 2 · [Greedy](../topics/greedy.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · [Strings](../topics/strings.md) 1 · [Hashing](../topics/hashing.md) 1 · [OA Format](../topics/oa-format.md) 1 · +3 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati

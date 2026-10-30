@@ -1,6 +1,6 @@
 # Kickdrum
 
-**8 questions** · 5 drives · latest 23 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 5 drives · latest 23 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 4 · [Hashing](../topics/hashing.md) 2 · [Two Pointers](../topics/two-pointers.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Linked List](../topics/linked-list.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Web Dev](../topics/web-dev.md) 1 · +1 more  
 **Seen at:** IIT Dhanbad, IIT Patna, NIT Rourkela, NIT Silchar, VNIT Nagpur
@@ -78,7 +78,7 @@ Explanation: Here no word has odd length, so the computer gives "Better luck nex
 
 Note: the first line is the number of strings.
 
-<sub>Topics: Strings, Arrays · Source: [chat, 21 Oct](../archive/intern-2027/2026-10.jsonl#L89)</sub>
+<sub>Topics: Strings, Arrays · Same idea: [LeetCode 1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) (Easy), simple string scan · Source: [chat, 21 Oct](../archive/intern-2027/2026-10.jsonl#L89)</sub>
 
 ## 2026-10-05 · IIT Dhanbad · FTE
 
@@ -109,7 +109,7 @@ public:
 
 The original problem statement is missing.
 
-<sub>Topics: Arrays, Hashing · Source: [chat, 5 Oct](../archive/kickdrum-oa/2026-10.jsonl#L3)</sub>
+<sub>Topics: Arrays, Hashing · Same idea: [LeetCode 853. Car Fleet](https://leetcode.com/problems/car-fleet/) (Medium), two orderings, count overtakes via scan tracking extreme · Source: [chat, 5 Oct](../archive/kickdrum-oa/2026-10.jsonl#L3)</sub>
 
 ## 2026-09-30 · IIT Patna · FTE
 
@@ -137,7 +137,7 @@ Two coding questions in 90 minutes and 20 MCQs in 30 minutes. MCQ topics: LLM to
 
 Hossam and Friends (Codeforces 1771B): there are n people and m pairs who are not friends; count the subsegments [a, b] of people in which every pair of people are friends.
 
-<sub>Topics: Two Pointers, Arrays · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L127) · Also asked at: IIT Dhanbad (2026-10-12)</sub>
+<sub>Topics: Two Pointers, Arrays · Same problem: [Codeforces 1771B. Hossam and Friends](https://codeforces.com/problemset/problem/1771/B) (rated 1400), count subsegments avoiding forbidden pairs · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L127) · Also asked at: IIT Dhanbad (2026-10-12)</sub>
 
 ### Q2. Variation of Browser History
 

@@ -1,6 +1,6 @@
 # IBM
 
-**22 questions** · 13 drives · latest 29 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 13 drives · latest 29 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 8 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 3 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · +2 more  
 **Seen at:** IIIT Kottayam, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad
@@ -198,7 +198,7 @@ The in-person coding round for ASE 2027 had 2 DSA questions, easy to medium, Lee
 
 One medium-difficulty DSA question based on the sliding window technique. The exact problem statement was not shared.
 
-<sub>Topics: Sliding Window · Source: [chat, 6 Oct](../archive/ibm-oa/2026-10.jsonl#L59)</sub>
+<sub>Topics: Sliding Window · Same idea: [LeetCode 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium), classic variable-size sliding window · Source: [chat, 6 Oct](../archive/ibm-oa/2026-10.jsonl#L59)</sub>
 
 ### Q2. Web debugging question (Node.js / Django)
 

@@ -1,6 +1,6 @@
 # Spotnana
 
-**8 questions** · 4 drives · latest 12 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 4 drives · latest 12 Oct 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Binary Search](../topics/binary-search.md) 4 · [Trees](../topics/trees.md) 3 · [Greedy](../topics/greedy.md) 3 · [Graphs](../topics/graphs.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · [Heaps](../topics/heaps.md) 1 · [Strings](../topics/strings.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · +1 more  
 **Seen at:** IIT Delhi, IIT Kanpur
@@ -39,13 +39,13 @@ The OA is 1.5 hours long with 3 questions.
 
 You are given a tree with n vertices rooted at vertex 1, and an integer max_operations. One operation: choose an edge (v, u), where v is the parent of u, remove it, and connect u (with its whole subtree) directly to the root. You may perform at most max_operations operations. The height of the tree is the maximum depth of any vertex (depth = number of edges from the root). Return the minimum possible height of the tree. (Same as Codeforces 1739D - Reset K Edges.)
 
-<sub>Topics: Trees, Binary Search, Greedy · Source: [Spotnana - OA_iitd_SDE.pdf](../archive/files/4841-Spotnana_-_OA_iitd_SDE.pdf), [chat, 10 Oct](../archive/inter-nit/2026-10.jsonl#L588) · Also asked at: IIT Delhi (2026-10-10)</sub>
+<sub>Topics: Trees, Binary Search, Greedy · Same problem: [Codeforces 1739D. Reset K Edges](https://codeforces.com/problemset/problem/1739/D) (rated 1900), binary search height, greedy edge cuts · Source: [Spotnana - OA_iitd_SDE.pdf](../archive/files/4841-Spotnana_-_OA_iitd_SDE.pdf), [chat, 10 Oct](../archive/inter-nit/2026-10.jsonl#L588) · Also asked at: IIT Delhi (2026-10-10)</sub>
 
 ### Q2. Maximum Profit with Bitwise OR at Most K
 
 You are given two arrays a and profits of length n, and an integer k. Item i has number a[i] and profit profits[i]. Choose any subset of items such that the bitwise OR of their a values is at most k. The profit of a subset is the sum of profits[i] over the chosen items. Return the maximum total profit. (Same as AtCoder Tenka1 2017 D - IntegerotS.)
 
-<sub>Topics: Bit Manipulation, Greedy · Source: [Spotnana - OA_iitd_SDE.pdf](../archive/files/4841-Spotnana_-_OA_iitd_SDE.pdf), [chat, 10 Oct](../archive/inter-nit/2026-10.jsonl#L588) · Also asked at: IIT Delhi (2026-10-10)</sub>
+<sub>Topics: Bit Manipulation, Greedy · Same problem: [AtCoder TENKA1-2017 D. IntegerotS](https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_d), bitwise OR at most K via prefix-bit candidates · Source: [Spotnana - OA_iitd_SDE.pdf](../archive/files/4841-Spotnana_-_OA_iitd_SDE.pdf), [chat, 10 Oct](../archive/inter-nit/2026-10.jsonl#L588) · Also asked at: IIT Delhi (2026-10-10)</sub>
 
 ### Q3. Subsequence With the Minimum Score
 
@@ -59,7 +59,7 @@ You are given two strings one and two. You may remove any number of characters f
 
 Given an undirected, unweighted, unrooted tree of 10^5 nodes. Given a list `required` of size m. You have to travel from node 1 to node n while also visiting every node in the `required` list at least once. Any node or edge can be used multiple times. Find the minimum distance for this.
 
-<sub>Topics: Trees, Graphs · Source: [chat, 9 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L224), [chat, 9 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L225), [Spotnana - OA_iitd_SDE.pdf](../archive/files/4936-Spotnana_-_OA_iitd_SDE.pdf) · Also asked at: IIT Kanpur (2026-10-09)</sub>
+<sub>Topics: Trees, Graphs · Close variant: [Codeforces 592D. Super M](https://codeforces.com/problemset/problem/592/D) (rated 2200), min walk visiting required tree nodes via diameter · Source: [chat, 9 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L224), [chat, 9 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L225), [Spotnana - OA_iitd_SDE.pdf](../archive/files/4936-Spotnana_-_OA_iitd_SDE.pdf) · Also asked at: IIT Kanpur (2026-10-09)</sub>
 
 ## 2026-10-09 · IIT Kanpur · FTE
 
@@ -67,7 +67,7 @@ Given an undirected, unweighted, unrooted tree of 10^5 nodes. Given a list `requ
 
 You are given an unweighted tree and a set of required vertices. Find the length of the shortest path that visits every required vertex. This is not a plain BFS/DFS: when the path backtracks, the backtracked steps also count. Example: the path 1-2-3-2-4 covers the required vertices, so the answer is 5. (Similar to Codeforces 592D Super M.)
 
-<sub>Topics: Trees, Graphs · Source: [membased spotnana.pdf](../archive/files/4530-membased_spotnana.pdf), [chat, 9 Oct](../archive/inter-nit/2026-10.jsonl#L616), [membased spotnana.pdf](../archive/files/4597-membased_spotnana.pdf)</sub>
+<sub>Topics: Trees, Graphs · Same problem: [Codeforces 592D. Super M](https://codeforces.com/problemset/problem/592/D) (rated 2200), shortest walk covering required tree vertices via diameter · Source: [membased spotnana.pdf](../archive/files/4530-membased_spotnana.pdf), [chat, 9 Oct](../archive/inter-nit/2026-10.jsonl#L616), [membased spotnana.pdf](../archive/files/4597-membased_spotnana.pdf)</sub>
 
 ### Q2. Train then execute: minimum days (or -1)
 
@@ -79,4 +79,4 @@ There are N ML algorithms. Each has a training time and must be fully trained be
 
 You are given an array. Take the bitwise OR of every contiguous subarray and return the k-th largest of these OR values. Generating every subarray's OR by brute force ran out of time or memory on 5 hidden test cases.
 
-<sub>Topics: Bit Manipulation, Binary Search, Heaps · Source: [membased spotnana.pdf](../archive/files/4530-membased_spotnana.pdf), [chat, 9 Oct](../archive/inter-nit/2026-10.jsonl#L616), [membased spotnana.pdf](../archive/files/4597-membased_spotnana.pdf) · Also asked at: IIT Kanpur (2026-10-09), IIT Delhi (2026-10-10)</sub>
+<sub>Topics: Bit Manipulation, Binary Search, Heaps · Same idea: [LeetCode 898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/) (Medium), distinct subarray ORs per endpoint set · Source: [membased spotnana.pdf](../archive/files/4530-membased_spotnana.pdf), [chat, 9 Oct](../archive/inter-nit/2026-10.jsonl#L616), [membased spotnana.pdf](../archive/files/4597-membased_spotnana.pdf) · Also asked at: IIT Kanpur (2026-10-09), IIT Delhi (2026-10-10)</sub>

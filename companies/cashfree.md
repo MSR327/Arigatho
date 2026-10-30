@@ -1,6 +1,6 @@
 # Cashfree
 
-**4 questions** · 4 drives · latest 26 Oct 2026 · [← all companies](../README.md#companies)
+**4 questions** · 4 drives · latest 26 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 3 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [OOP](../topics/oop.md) 1 · [DP](../topics/dp.md) 1 · [Greedy](../topics/greedy.md) 1  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati, MNNIT Allahabad
@@ -27,7 +27,7 @@
 
 Knapsack problem where the weight of the i-th item is 2^i (a similar question was asked). The OA had 3 DSA questions in total. Exact constraints and examples were not given.
 
-<sub>Topics: DP, Greedy · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L61)</sub>
+<sub>Topics: DP, Greedy · Close variant: [GeeksforGeeks: 0 - 1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1), 0/1 knapsack with special weight structure · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L61)</sub>
 
 ## 2026-10-17 · IIT BHU · FTE
 

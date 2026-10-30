@@ -1,6 +1,6 @@
 # Plutus Research
 
-**9 questions** · 4 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
+**9 questions** · 4 drives · latest 30 Oct 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 3 · [Greedy](../topics/greedy.md) 2 · [Graphs](../topics/graphs.md) 1 · [Trees](../topics/trees.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Puzzles](../topics/puzzles.md) 1 · +2 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur
@@ -60,7 +60,7 @@ Given an undirected graph, compute the sum over all nodes v of f(v), where f(v) 
 
 Constraints: around 10^5 to 10^6 (exact constraints not remembered).
 
-<sub>Topics: Graphs · Source: [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L10), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L11), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L12), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L13), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L14), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L15) · Also asked at: IIT Kharagpur (2026-10-28)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 1192. Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) (Hard), articulation points via DFS low-link · Source: [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L10), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L11), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L12), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L13), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L14), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L15) · Also asked at: IIT Kharagpur (2026-10-28)</sub>
 
 ### Q2. Minimum splits of tree so no component product divisible by 6
 
@@ -72,7 +72,7 @@ Given an undirected tree where each node has value 1, 2 or 3. Find the minimum n
 
 Given k strings (2 <= k <= 6), each of length up to 10^7 (poster not sure of this). Find the length of the longest common substring (not subsequence) across all the strings. Return only the length, not the string.
 
-<sub>Topics: Strings, Binary Search · Source: [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L10), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L11), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L12), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L13), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L14), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L15) · Also asked at: IIT Kharagpur (2026-10-28)</sub>
+<sub>Topics: Strings, Binary Search · Same idea: [LeetCode 1923. Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/) (Hard), binary search length with hashing across many sequences · Source: [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L10), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L11), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L12), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L13), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L14), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L15) · Also asked at: IIT Kharagpur (2026-10-28)</sub>
 
 ### Q4. High-constraint greedy problem
 
@@ -104,4 +104,4 @@ Example: withdraw 600 when the ATM has `[20:0, 50:1, 100:0, 200:3, 500:1]`. Extr
 If the withdrawal can be fulfilled, return the count of each note extracted.
 The ATM balance changes only if the money can be, and is actually, extracted.
 
-<sub>Topics: Arrays, Greedy · Source: [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L10), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L11), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L12), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L13), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L14), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L15) · Also asked at: IIT Kharagpur (2026-10-28)</sub>
+<sub>Topics: Arrays, Greedy · Same problem: [LeetCode 2241. Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) (Medium), greedy withdrawal from highest denomination notes · Source: [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L10), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L11), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L12), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L13), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L14), [chat, 28 Oct](../archive/plutus-research-oa/2026-10.jsonl#L15) · Also asked at: IIT Kharagpur (2026-10-28)</sub>

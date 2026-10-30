@@ -1,6 +1,6 @@
 # Calix
 
-**4 questions** · 1 drive · latest 22 Sep 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**4 questions** · 1 drive · latest 22 Sep 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 1 · [DP](../topics/dp.md) 1 · [Math](../topics/math.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Arrays](../topics/arrays.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · [Hashing](../topics/hashing.md) 1  
 **Seen at:** IIT Dhanbad
@@ -63,7 +63,7 @@ Print the minimum cost to reach Tower N.
 1 ≤ a[i], X ≤ 10^9
 ```
 
-<sub>Topics: DP, Math · Source: [chat, 26 Sep](../archive/calix-oa/2026-09.jsonl#L7), [chat, 2 Oct](../archive/calix-oa/2026-10.jsonl#L2)</sub>
+<sub>Topics: DP, Math · Same idea: [AtCoder DP Z. Frog 3](https://atcoder.jp/contests/dp/tasks/dp_z), DP with squared cost, convex hull trick · Source: [chat, 26 Sep](../archive/calix-oa/2026-09.jsonl#L7), [chat, 2 Oct](../archive/calix-oa/2026-10.jsonl#L2)</sub>
 
 ### Q3. Airplane Collision
 
@@ -97,4 +97,4 @@ t <= 10
 
 The poster only half-remembered this one; the exact statement and examples are missing.
 
-<sub>Topics: Bit Manipulation, Hashing · Source: [chat, 26 Sep](../archive/calix-oa/2026-09.jsonl#L7), [chat, 2 Oct](../archive/calix-oa/2026-10.jsonl#L2)</sub>
+<sub>Topics: Bit Manipulation, Hashing · Same idea: [LeetCode 1554. Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/) (Medium), group strings differing by one character via hashing · Source: [chat, 26 Sep](../archive/calix-oa/2026-09.jsonl#L7), [chat, 2 Oct](../archive/calix-oa/2026-10.jsonl#L2)</sub>

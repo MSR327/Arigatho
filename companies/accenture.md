@@ -1,6 +1,6 @@
 # Accenture
 
-**276 questions** · 93 drives · latest 29 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**276 questions** · 93 drives · latest 29 Oct 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 74 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +16 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
@@ -458,7 +458,7 @@ You are allowed to increase the value of K.
 
 (Input format, constraints and examples were not shared.)
 
-<sub>Topics: Binary Search, Arrays · Source: [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L1277) · Also asked at: IIT Roorkee (2026-10-21)</sub>
+<sub>Topics: Binary Search, Arrays · Same idea: [LeetCode 875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) (Medium), binary search on answer with monotone check · Source: [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L1277) · Also asked at: IIT Roorkee (2026-10-21)</sub>
 
 ## 2026-10-28 · IIT Indore · FTE · Elite
 
@@ -507,7 +507,7 @@ Output:
 
 Therefore, the count is **4**.
 
-<sub>Topics: Math, Arrays · Source: [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L43), [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L44), [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L47)</sub>
+<sub>Topics: Math, Arrays · Same idea: [LeetCode 2748. Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/) (Easy), extract first and last digits · Source: [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L43), [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L44), [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L47)</sub>
 
 ### Q2. Live search input display with HTML, CSS and JavaScript
 
@@ -601,7 +601,7 @@ The query should return only these three columns:
 
 **Programming Language:** SQL (MySQL)
 
-<sub>Topics: SQL · Source: [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L43), [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L44), [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L47)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) (Easy), SQL date difference filter · Source: [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L43), [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L44), [chat, 28 Oct](../archive/accenture-oa/2026-10.jsonl#L47)</sub>
 
 ## 2026-10-28 · IIT Guwahati · FTE · Elite
 
@@ -673,7 +673,7 @@ n = 9: next number > 9 with persistence 1 is 10.
 
 Supported languages: Python, C#, Java. A function signature is given (LeetCode style). DSA difficulty varied across question sets (easy to medium).
 
-<sub>Topics: Math, Arrays · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process (1).pdf](../archive/files/13908-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process_1_.pdf)</sub>
+<sub>Topics: Math, Arrays · Same idea: [LeetCode 1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) (Easy), digit product extraction · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process (1).pdf](../archive/files/13908-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process_1_.pdf)</sub>
 
 ### Q2. Car rental: cars never rented
 
@@ -683,7 +683,7 @@ Task: find the cars that have never been rented and return the requested car det
 
 Could be solved with a JOIN plus NOT EXISTS, or a LEFT JOIN with IS NULL (anti-join). Exact column names were not recalled.
 
-<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process (1).pdf](../archive/files/13908-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process_1_.pdf)</sub>
+<sub>Topics: SQL · Close variant: [LeetCode 183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) (Easy), anti-join to find never-rented entities · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process (1).pdf](../archive/files/13908-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process_1_.pdf)</sub>
 
 ### Q3. HTML/CSS/JS edits to existing files
 
@@ -1135,7 +1135,7 @@ Given a 2D array, take the average of all the elements in each column and return
 
 The poster did not give constraints or examples.
 
-<sub>Topics: Arrays, Math · Source: [chat, 24 Oct](../archive/accenture-oa/2026-10.jsonl#L268)</sub>
+<sub>Topics: Arrays, Math · Same idea: [LeetCode 204. Count Primes](https://leetcode.com/problems/count-primes/) (Medium), sieve for prime checks over array · Source: [chat, 24 Oct](../archive/accenture-oa/2026-10.jsonl#L268)</sub>
 
 ### Q2. SQL: customers who never made a booking
 
@@ -1276,7 +1276,7 @@ The DSA questions are basic: arrays, hashmaps, strings, loops, conditional state
    - Frontend: basic HTML/CSS, plus JS DOM-manipulation questions (e.g. `addEventListener`).
 3. **Gaming round:** math questions.
 
-<sub>Topics: OA Format, SQL, Web Dev · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L469)</sub>
+<sub>Topics: OA Format, SQL, Web Dev · Same idea: [LeetCode 1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) (Easy), join, GROUP BY aggregation SQL · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L469)</sub>
 
 ## 2026-10-21 · IIT Roorkee · FTE
 
@@ -1288,7 +1288,7 @@ The schema had 7-8 tables, and you have to work out which ones are relevant your
 
 *The actual query asked for was not shared.*
 
-<sub>Topics: SQL, OA Format · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L462), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L464), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L465)</sub>
+<sub>Topics: SQL, OA Format · Same idea: [LeetCode 1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) (Easy), multi-table join query · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L462), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L464), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L465)</sub>
 
 ### Q2. Minimum Increase in Experience Multiplier
 
@@ -1306,7 +1306,7 @@ Write an SQL query to find the player name and age of players who satisfy all th
 2. Player's team is Indian.  
 3. Team name is Kolkata Knight Riders.
 
-<sub>Topics: SQL · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1801) · Also asked at: IIT Roorkee ×4 (last 2026-10-28)</sub>
+<sub>Topics: SQL · Same idea: [HackerRank: The PADS](https://www.hackerrank.com/challenges/the-pads/problem) (Medium), SQL filtering with conditions on table columns · Source: [chat, 21 Oct](../archive/inter-nit/2026-10.jsonl#L1801) · Also asked at: IIT Roorkee ×4 (last 2026-10-28)</sub>
 
 ### Q4. Currency Converter (Frontend HTML/CSS/JS)
 
@@ -1338,7 +1338,7 @@ Additional Conditions: If the amount field is empty, display: "Enter amount". If
 
 *The exact questions were not shared.*
 
-<sub>Topics: OA Format, Web Dev, SQL · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L466), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L467)</sub>
+<sub>Topics: OA Format, Web Dev, SQL · Same idea: [LeetCode 183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) (Easy), easy SQL join query · Source: [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L466), [chat, 21 Oct](../archive/accenture-oa/2026-10.jsonl#L467)</sub>
 
 ### Q2. Accenture ETE OA structure and communication round
 
@@ -1378,7 +1378,7 @@ The third line contains n space-separated integers representing seats.
 Output Format:
 Print a single integer representing the minimum number of cars required, or -1 if the trip is not possible.
 
-<sub>Topics: Greedy, Sorting, Arrays · Source: [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L287)</sub>
+<sub>Topics: Greedy, Sorting, Arrays · Same idea: [LeetCode 2279. Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) (Medium), greedy over sorted capacities to cover total demand · Source: [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L287)</sub>
 
 ## 2026-10-20 · NIT Patna · FTE
 
@@ -1422,7 +1422,7 @@ Join 3 tables, then use `GROUP BY` and `HAVING` to get the result.
 
 The table schemas and the exact requirement were not shared.
 
-<sub>Topics: SQL · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L503)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) (Easy), join with GROUP BY aggregation · Source: [chat, 20 Oct](../archive/accenture-oa/2026-10.jsonl#L503)</sub>
 
 ### Q4. Frontend: DOM event listeners for hover/mouseout/click
 
@@ -1515,7 +1515,7 @@ Print `YES` if every 2 × 2 block contains at most K buildings; otherwise, print
 
 (Constraints, examples and whether coordinates are 0- or 1-based were not given.)
 
-<sub>Topics: Arrays, Hashing · Source: [accenture_japan_grid_buildings_problem.pdf](../archive/files/8500-accenture_japan_grid_buildings_problem.pdf) · Also asked at: IIT Guwahati (2026-10-14), IIT Hyderabad (2026-10-15)</sub>
+<sub>Topics: Arrays, Hashing · Same idea: [LeetCode 2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) (Medium), grid cell counting with coordinates · Source: [accenture_japan_grid_buildings_problem.pdf](../archive/files/8500-accenture_japan_grid_buildings_problem.pdf) · Also asked at: IIT Guwahati (2026-10-14), IIT Hyderabad (2026-10-15)</sub>
 
 ### Q2. Accenture Elite Technology Engineer OA pattern
 
@@ -1926,7 +1926,7 @@ Output:
 ```
 Explanation: The array can be divided into three contiguous groups: [1, 2], [-3, -4], and [5].
 
-<sub>Topics: Arrays · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L717)</sub>
+<sub>Topics: Arrays · Same idea: [LeetCode 1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) (Medium), count runs of equal consecutive elements · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L717)</sub>
 
 ### Q2. SQL join across three tables
 
@@ -1934,7 +1934,7 @@ SQL question requiring a JOIN between 3 tables.
 
 The schema and the exact task were not given.
 
-<sub>Topics: SQL · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L717)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) (Easy), multi-table join query · Source: [chat, 17 Oct](../archive/accenture-oa/2026-10.jsonl#L717)</sub>
 
 ### Q3. JavaScript frontend task following instructions
 
@@ -1983,7 +1983,7 @@ Explanation: The array can be divided into three contiguous groups: [1, 2], [-3,
 
 (Constraints were not shared.)
 
-<sub>Topics: Arrays · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L764), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L771)</sub>
+<sub>Topics: Arrays · Same idea: [LeetCode 1759. Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) (Medium), count runs of equal consecutive elements · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L764), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L771)</sub>
 
 ### Q2. SQL query joining three tables
 
@@ -1991,7 +1991,7 @@ A SQL question that required a JOIN between 3 tables.
 
 (The schema and the exact query asked were not shared.)
 
-<sub>Topics: SQL · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L764), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L771) · Also asked at: IIT Hyderabad ×3 (last 2026-10-10)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) (Easy), multi-table join query · Source: [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L764), [chat, 16 Oct](../archive/accenture-oa/2026-10.jsonl#L771) · Also asked at: IIT Hyderabad ×3 (last 2026-10-10)</sub>
 
 ### Q3. JavaScript DOM frontend task
 
@@ -2030,7 +2030,7 @@ A multiplicative-persistence question was also present in another question set. 
 
 Constraints and the exact input/output format were not given.
 
-<sub>Topics: Math · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/7853-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad (2026-10-20)</sub>
+<sub>Topics: Math · Same idea: [LeetCode 258. Add Digits](https://leetcode.com/problems/add-digits/) (Easy), repeated digit operation until single digit · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/7853-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad (2026-10-20)</sub>
 
 ### Q2. Car rental: cars that were never rented
 
@@ -2042,7 +2042,7 @@ It can be solved with a JOIN with NOT EXISTS, or an anti-join such as LEFT JOIN 
 
 The exact table names, columns and output columns were not given.
 
-<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/7853-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad (2026-10-20)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) (Easy), anti-join to find never-referenced rows · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/7853-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad (2026-10-20)</sub>
 
 ### Q3. Edit given HTML/CSS/JS files to meet requirements
 
@@ -2092,7 +2092,7 @@ Input: A Morse-code string is provided as input, along with the Morse-code mappi
 
 Output: Print any valid word from dictionary.txt whose Morse-code representation matches the given input.
 
-<sub>Topics: Strings, Hashing · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L825), [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L826)</sub>
+<sub>Topics: Strings, Hashing · Same idea: [LeetCode 804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) (Easy), letter to Morse mapping and matching · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L825), [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L826)</sub>
 
 ### Q2. Composite number greater than n with odd digit sum
 
@@ -2141,7 +2141,7 @@ Output: Return the remaining amount of water:
 max(0, K - totalWaterRequired)
 ```
 
-<sub>Topics: Arrays, Math · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L812)</sub>
+<sub>Topics: Arrays, Math · Same idea: [LeetCode 1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) (Easy), sum per-element totals, subtract from budget · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L812)</sub>
 
 ### Q2. SQL: join 3 tables with GROUP BY and IS NULL
 
@@ -2149,7 +2149,7 @@ One SQL query: join 3 tables, using GROUP BY, IS NULL and multiple join conditio
 
 The schema and the exact task were not shared.
 
-<sub>Topics: SQL · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L812) · Also asked at: IIT Hyderabad ×3 (last 2026-10-10)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) (Easy), join with IS NULL and GROUP BY · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L812) · Also asked at: IIT Hyderabad ×3 (last 2026-10-10)</sub>
 
 ### Q3. Web dev: HTML/CSS/JS edits guided by comments
 
@@ -2169,7 +2169,7 @@ Accenture Japan OA DSA question, repeated from the IIT Dhanbad and IIT Roorkee O
 
 The poster did not say what the modification was or give the full statement.
 
-<sub>Topics: DP, Arrays · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L803) · Also asked at: MNNIT Allahabad (2026-10-15)</sub>
+<sub>Topics: DP, Arrays · Same problem: [LeetCode 45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) (Medium), minimum jumps to reach end · Source: [chat, 15 Oct](../archive/accenture-oa/2026-10.jsonl#L803) · Also asked at: MNNIT Allahabad (2026-10-15)</sub>
 
 ### Q2. Accenture Japan OA format at IIT Guwahati
 
@@ -2551,7 +2551,7 @@ Given N cities and M bidirectional roads with costs, a starting city S, and an o
 
 *Input format, constraints and examples were not shared.*
 
-<sub>Topics: Graphs · Source: [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L924), [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L937)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) (Medium), Dijkstra shortest paths on weighted graph · Source: [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L924), [chat, 13 Oct](../archive/accenture-oa/2026-10.jsonl#L937)</sub>
 
 ## 2026-10-12 · MNNIT Allahabad · FTE
 
@@ -2577,7 +2577,7 @@ Input: a Morse-code string, along with the Morse-code mapping table for the alph
 Output: any valid word from dictionary.txt whose Morse-code representation matches the input.  
 (1 coding question, 60 minutes, all languages allowed.)
 
-<sub>Topics: Strings, Recursion/Backtracking, Hashing · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Delhi (2026-10-12), IIT Dhanbad ×9 (last 2026-10-18), IIT BHU (2026-10-18)</sub>
+<sub>Topics: Strings, Recursion/Backtracking, Hashing · Close variant: [LeetCode 804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) (Easy), map words to Morse code strings · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Delhi (2026-10-12), IIT Dhanbad ×9 (last 2026-10-18), IIT BHU (2026-10-18)</sub>
 
 ### Q3. Minimum Dice Rolls to Reach the End (Set 2)
 
@@ -2588,7 +2588,7 @@ Find the minimum number of dice rolls needed to reach an index >= N.
 Example: N = 10, A = [0, 0, 0, 0, 0, 1, 1, 1, 1] -> Output: 1.  
 The PDF notes that the jump structure is similar to LeetCode 45 (Jump Game II), with an extra die operation and free jumps based on the array value.
 
-<sub>Topics: DP, Graphs, Arrays · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Delhi (2026-10-12), IIT Guwahati (2026-10-14), MNNIT Allahabad (2026-10-15), IIT Roorkee (2026-10-15), IIT Dhanbad ×9 (last 2026-10-18), IIT BHU (2026-10-18)</sub>
+<sub>Topics: DP, Graphs, Arrays · Close variant: [LeetCode 45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) (Medium), greedy/BFS minimum jumps to reach end · Source: [Accenture_Japan_OA_IIT_Dhanbad.pdf](../archive/files/5238-Accenture_Japan_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Delhi (2026-10-12), IIT Guwahati (2026-10-14), MNNIT Allahabad (2026-10-15), IIT Roorkee (2026-10-15), IIT Dhanbad ×9 (last 2026-10-18), IIT BHU (2026-10-18)</sub>
 
 ## 2026-10-11 · IIT Delhi · FTE
 
@@ -2637,7 +2637,7 @@ Write an SQL query to retrieve the total booking revenue generated by each desti
 
 (Note from poster: reconstructed exam-style question based on notes; exact original wording and requirements may differ.)
 
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L229)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) (Easy), join then group by and sum · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L229)</sub>
 
 ## 2026-10-10 · IIT Hyderabad · FTE
 
@@ -2684,7 +2684,7 @@ Display:
 
 Write the SQL query using `JOIN`, `GROUP BY`, `HAVING`, `COUNT()` and `AVG()`.
 
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1029), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1030), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1031) · Also asked at: IIT Hyderabad ×7 (last 2026-10-20)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) (Medium), GROUP BY with HAVING count threshold · Source: [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1029), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1030), [chat, 10 Oct](../archive/accenture-oa/2026-10.jsonl#L1031) · Also asked at: IIT Hyderabad ×7 (last 2026-10-20)</sub>
 
 ### Q2. Remaining water after watering trees
 
@@ -2692,13 +2692,13 @@ You are given N trees and K units of total water. Each tree initially requires M
 Input: integer N (number of trees), integer K (total available water), integer M (initial requirement per tree), array array1 of size N, array array2 of size N.  
 Output: max(0, K - totalWaterRequired).
 
-<sub>Topics: Math, Arrays · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×7 (last 2026-10-13)</sub>
+<sub>Topics: Math, Arrays · Same idea: [LeetCode 1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) (Easy), simple array arithmetic accumulation · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×7 (last 2026-10-13)</sub>
 
 ### Q3. SQL three-table join
 
 SQL query joining 3 tables using GROUP BY, IS NULL and multiple join conditions (complex schema; exact question not shared).
 
-<sub>Topics: SQL · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×5 (last 2026-10-13)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) (Easy), join with IS NULL and GROUP BY · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L246) · Also asked at: IIT Hyderabad ×5 (last 2026-10-13)</sub>
 
 ### Q4. Web dev HTML/CSS/JS task
 
@@ -2711,7 +2711,7 @@ Web development task (HTML, CSS, JS): follow the hints in the code comments (e.g
 Given an array of integers containing positive and negative elements, find the number of contiguous groups in which all elements have the same sign. A new group starts whenever the sign changes between two consecutive elements.  
 Example: arr = [1, 2, -3, -4, 5] -> Output: 3 (groups [1, 2], [-3, -4], [5]).
 
-<sub>Topics: Arrays · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L247) · Also asked at: IIT Hyderabad ×8 (last 2026-10-20)</sub>
+<sub>Topics: Arrays · Same idea: [LeetCode 1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) (Easy), scan array identifying runs of equal elements · Source: [chat, 10 Oct](../archive/inter-iit/2026-10.jsonl#L247) · Also asked at: IIT Hyderabad ×8 (last 2026-10-20)</sub>
 
 ## 2026-10-10 · IIT Hyderabad · Unknown
 
@@ -2772,7 +2772,7 @@ Return a number greater than `n` that is composite and whose sum of digits is od
 
 *Constraints, examples and whether the smallest such number is required were not shared.*
 
-<sub>Topics: Math · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1060)</sub>
+<sub>Topics: Math · Same idea: [LeetCode 204. Count Primes](https://leetcode.com/problems/count-primes/) (Medium), primality/composite testing of integers · Source: [chat, 9 Oct](../archive/accenture-oa/2026-10.jsonl#L1060)</sub>
 
 ## 2026-10-08 · NIT Silchar · FTE
 
@@ -2878,7 +2878,7 @@ Return a number greater than `n` such that it is **composite** and the **sum of 
 
 (The poster did not say whether the smallest such number is required, and gave no constraints or examples.)
 
-<sub>Topics: Math · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250) · Also asked at: IIT BHU (2026-09-27)</sub>
+<sub>Topics: Math · Same idea: [LeetCode 204. Count Primes](https://leetcode.com/problems/count-primes/) (Medium), primality/composite testing of integers · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250) · Also asked at: IIT BHU (2026-09-27)</sub>
 
 ### Q2. Join two tables and return rows with NULL in a column
 
@@ -2886,7 +2886,7 @@ Several tables are given. Join two of them and return the rows where a given col
 
 (The poster did not give the table schemas or column names.)
 
-<sub>Topics: SQL · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250) · Also asked at: IIT BHU ×2 (last 2026-10-09)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) (Easy), LEFT JOIN with IS NULL filter · Source: [chat, 5 Oct](../archive/accenture-oa/2026-10.jsonl#L1250) · Also asked at: IIT BHU ×2 (last 2026-10-09)</sub>
 
 ### Q3. Change background color by clicking color-named divs (HTML/CSS/JS)
 
@@ -2960,7 +2960,7 @@ n = 9:  the next number greater than 9 with persistence 1 is 10.
 
 A multiplicative-persistence question was also present in another question set within the same assessment.
 
-<sub>Topics: Math · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-10)</sub>
+<sub>Topics: Math · Same idea: [LeetCode 258. Add Digits](https://leetcode.com/problems/add-digits/) (Easy), repeated digit operation until single digit · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-10)</sub>
 
 ### Q3. Car rental: cars that were never rented
 
@@ -2972,7 +2972,7 @@ This can be done with a JOIN plus NOT EXISTS, or an equivalent anti-join such as
 
 *Exact table and column names were not shared.*
 
-<sub>Topics: SQL · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-10)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) (Easy), anti-join to find never-referenced rows · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-10)</sub>
 
 ### Q4. Edit given HTML/CSS/JS files (tag change, font-size, if/else innerText)
 
@@ -3010,7 +3010,7 @@ SQL: given a Rentals table and a Payment table, find the total spend, sorted in 
 
 Only this summary was shared. The table schemas and exact output columns are missing.
 
-<sub>Topics: SQL · Source: [chat, 25 Sep](../archive/accenture-oa/2026-09.jsonl#L6), [chat, 26 Sep](../archive/accenture-oa/2026-09.jsonl#L10), [chat, 26 Sep](../archive/accenture-oa/2026-09.jsonl#L12)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) (Easy), join and sum per customer · Source: [chat, 25 Sep](../archive/accenture-oa/2026-09.jsonl#L6), [chat, 26 Sep](../archive/accenture-oa/2026-09.jsonl#L10), [chat, 26 Sep](../archive/accenture-oa/2026-09.jsonl#L12)</sub>
 
 ### Q3. Web Dev: checkbox to copy your address into the shipping address
 
@@ -3123,7 +3123,7 @@ SQL was on joins, including one nested-join question.
 
 A very basic SQL query question based on GROUP BY, ORDER BY, etc. (exact schema not recalled).
 
-<sub>Topics: SQL · Source: [chat, 23 Sep](../archive/inter-iit/2026-09.jsonl#L112) · Also asked at: IIT Dhanbad (2026-09-24), VIT Vellore (2026-09-24), IIT Guwahati (2026-10-24)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) (Easy), GROUP BY with HAVING count filter · Source: [chat, 23 Sep](../archive/inter-iit/2026-09.jsonl#L112) · Also asked at: IIT Dhanbad (2026-09-24), VIT Vellore (2026-09-24), IIT Guwahati (2026-10-24)</sub>
 
 ### Q2. Reduce number to single digit by summing digits
 
@@ -3149,7 +3149,7 @@ Example 1: 3 5 / 10 100 50 -> 5 (product 50000 = 5^5 * 16).
 Example 2: 5 10 / 100000 x 5 -> 25.  
 The page warns: 'Please be mindful of overflow.'
 
-<sub>Topics: Math · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
+<sub>Topics: Math · Same idea: [LeetCode 1808. Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) (Hard), prime factorization exponent counting · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2025-10-03), Unknown (2025-10-03)</sub>
 
 ### Q2. Nested if: which character is never printed
 
@@ -3187,7 +3187,7 @@ B. Repeatedly watch the movie with the earliest ending time among the movies you
 C. Repeatedly watch the movie with the shortest running time among the movies you can watch.  
 D. Repeatedly: for each movie you can watch, count how many movies it would make impossible to watch; watch the one with the lowest count.
 
-<sub>Topics: Greedy, Sorting · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
+<sub>Topics: Greedy, Sorting · Close variant: [LeetCode 435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) (Medium), greedy by earliest end time · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: Unknown (2025-10-03), IIT Delhi ×2 (last 2026-10-14)</sub>
 
 ### Q5. C++ while loop reading 'yes'
 
@@ -3435,7 +3435,7 @@ B. At n = 1000 an integer overflow causes an infinite loop; use a real data type
 C. rec(i) always returns the same value, but every call recomputes it three more times; store the value of rec(i) the first time and return the stored value afterwards.
 D. None of the above.
 
-<sub>Topics: DP, Recursion/Backtracking · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+<sub>Topics: DP, Recursion/Backtracking · Close variant: [LeetCode 1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) (Easy), memoize f(i)=f(i-1)+f(i-2)+f(i-3) · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
 
 ### Q5. JavaScript find() returning i + 1
 
@@ -3523,7 +3523,7 @@ C. [1] arr.length , [2] arr[i] == arr[i-1]
 D. [1] arr.length , [2] arr[i] == arr[i+1]
 E. All the above are incorrect
 
-<sub>Topics: Code Output (C/C++/Java/Python), Arrays · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
+<sub>Topics: Code Output (C/C++/Java/Python), Arrays · Same idea: [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum/) (Easy), compare array elements in a loop · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6745-Accenture_Japan_IT_Quiz_Prep.pdf), [Accenture_Japan_IT_Quiz_Prep (1).pdf](../archive/files/6891-Accenture_Japan_IT_Quiz_Prep_1_.pdf)</sub>
 
 ## 2024-10-09 · IIT Delhi · FTE
 
@@ -3630,7 +3630,7 @@ B. At n = 1000 an integer overflow causes an infinite loop; use a real data type
 C. rec(i) always returns the same value, but every call recomputes it three more times; store the value of rec(i) the first time and return the stored value afterwards.  
 D. None of the above.
 
-<sub>Topics: DP, Recursion/Backtracking · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2024-10-09)</sub>
+<sub>Topics: DP, Recursion/Backtracking · Same problem: [LeetCode 1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) (Easy), 1,2,3 step recurrence with memoization · Source: [Accenture_Japan_IT_Quiz_Prep.pdf](../archive/files/6739-Accenture_Japan_IT_Quiz_Prep.pdf) · Also asked at: IIT Delhi (2024-10-09)</sub>
 
 ### Q11. Beginners' sum functions (select all that work)
 

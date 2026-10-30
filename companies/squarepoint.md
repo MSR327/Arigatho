@@ -1,6 +1,6 @@
 # Squarepoint
 
-**54 questions** · 25 drives · latest 21 Oct 2026 · [4 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**54 questions** · 25 drives · latest 21 Oct 2026 · [25 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 11 · [Hashing](../topics/hashing.md) 10 · [OA Format](../topics/oa-format.md) 8 · [Strings](../topics/strings.md) 7 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 7 · [Greedy](../topics/greedy.md) 7 · [Graphs](../topics/graphs.md) 6 · [Sorting](../topics/sorting.md) 5 · +15 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee
@@ -108,7 +108,7 @@ The poster says one question was LeetCode 2463 (Minimum Total Distance Traveled)
 
 Full statement not given.
 
-<sub>Topics: Binary Search, Greedy, Sorting · Source: [chat, 15 Oct](../archive/squarepoint-oa/2026-10.jsonl#L64)</sub>
+<sub>Topics: Binary Search, Greedy, Sorting · Close variant: [LeetCode 2463. Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) (Hard), robots to factories, minimize max via binary search · Source: [chat, 15 Oct](../archive/squarepoint-oa/2026-10.jsonl#L64)</sub>
 
 ### Q2. LeetCode 3035 question
 
@@ -126,13 +126,13 @@ Constraints: n ≤ 10^6.
 
 Hint from the sharer: C is symmetric, so f(n) = 2 × Σ (i mod j) over all pairs up to n; for a fixed j the sum can be computed with harmonic grouping or direct summation in O(n log n), instead of checking all pairs in O(n²).
 
-<sub>Topics: Math · Source: [SquarePoint_SDE_IITKGP (1).pdf](../archive/files/6947-SquarePoint_SDE_IITKGP_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L5) · Also asked at: IIT Kharagpur (2026-10-07)</sub>
+<sub>Topics: Math · Same idea: [Codeforces 616E. Sum of Remainders](https://codeforces.com/problemset/problem/616/E) (rated 2200), sum of mods via harmonic grouping · Source: [SquarePoint_SDE_IITKGP (1).pdf](../archive/files/6947-SquarePoint_SDE_IITKGP_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L5) · Also asked at: IIT Kharagpur (2026-10-07)</sub>
 
 ### Q2. Tree Traversal Integrity (Valid BFS)
 
 Given a tree and a sequence of vertices, determine whether the sequence is a valid Breadth-First Search (BFS) traversal of the tree. Tests graph representation and BFS queue management. Same as Codeforces 1037D - Valid BFS?
 
-<sub>Topics: Graphs, Trees · Source: [SquarePoint_SDE_IITKGP (1).pdf](../archive/files/6947-SquarePoint_SDE_IITKGP_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L5)</sub>
+<sub>Topics: Graphs, Trees · Same problem: [Codeforces 1037D. Valid BFS?](https://codeforces.com/problemset/problem/1037/D) (rated 1700), validate BFS order of a tree · Source: [SquarePoint_SDE_IITKGP (1).pdf](../archive/files/6947-SquarePoint_SDE_IITKGP_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L5)</sub>
 
 ### Q3. Two Cores and a Latch (Optimal Operation Split)
 
@@ -143,7 +143,7 @@ Example 2: Input [10, 21, 10, 21, 10] -> Output [41, 31].
 
 Similar problems: Codeforces 859C - Pie Rules (exact logic match), LeetCode 877 Stone Game, LeetCode 1140 Stone Game II.
 
-<sub>Topics: DP, Arrays · Source: [SquarePoint_SDE_IITKGP (1).pdf](../archive/files/6947-SquarePoint_SDE_IITKGP_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L5)</sub>
+<sub>Topics: DP, Arrays · Close variant: [Codeforces 859C. Pie Rules](https://codeforces.com/problemset/problem/859/C) (rated 1500), suffix DP for optimal two-player split · Source: [SquarePoint_SDE_IITKGP (1).pdf](../archive/files/6947-SquarePoint_SDE_IITKGP_1_.pdf), [chat, 15 Oct](../archive/inter-nit/2026-10.jsonl#L5)</sub>
 
 ## 2026-10-09 · IIT Madras · FTE · SDE (Python)
 
@@ -164,7 +164,7 @@ Return the recorded strings from Print commands.
 
 Constraints and examples were not given.
 
-<sub>Topics: Strings, Stack/Queue · Source: [chat, 15 Oct](../archive/squarepoint-oa/2026-10.jsonl#L65)</sub>
+<sub>Topics: Strings, Stack/Queue · Close variant: [LeetCode 2296. Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/) (Hard), cursor-based insert, delete, move operations · Source: [chat, 15 Oct](../archive/squarepoint-oa/2026-10.jsonl#L65)</sub>
 
 ## 2026-10-08 · IIT BHU · FTE
 
@@ -192,13 +192,13 @@ Listed as "Trading Problem" in the C++ set; no statement was given.
 
 Listed as "0/1 Knapsack" in the C++ set; no statement details were given.
 
-<sub>Topics: DP · Source: [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L106)</sub>
+<sub>Topics: DP · Same problem: [GeeksforGeeks: 0 - 1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1), classic 0/1 knapsack DP · Source: [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L106)</sub>
 
 ### Q4. Rotten Oranges
 
 Listed as "Rotten Oranges" in the C++ set; no statement details were given.
 
-<sub>Topics: Graphs · Source: [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L106)</sub>
+<sub>Topics: Graphs · Same problem: [LeetCode 994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) (Medium), multi-source BFS on grid · Source: [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L106)</sub>
 
 ### Q5. Malware Speed
 
@@ -220,7 +220,7 @@ Constraints: N, M < 1e5; House[i] < 1e9.
 
 Approach hint from poster: binary search on the answer. The exact statement was not fully given.
 
-<sub>Topics: Binary Search, Greedy · Source: [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L106)</sub>
+<sub>Topics: Binary Search, Greedy · Close variant: [LeetCode 475. Heaters](https://leetcode.com/problems/heaters/) (Medium), minimize max distance to nearest facility, binary search · Source: [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L106)</sub>
 
 ## 2026-10-05 · IIT Roorkee · FTE · Infrastructure
 
@@ -254,7 +254,7 @@ Answer: 6
 
 The poster's solution idea: answer = 2E - D, where E is the number of edges in the minimal subtree containing 1, n and all required nodes, and D is the distance from 1 to n. (The code in the message was cut off.)
 
-<sub>Topics: Trees, Graphs · Source: [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L111)</sub>
+<sub>Topics: Trees, Graphs · Same idea: [LeetCode 1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) (Medium), minimal subtree edges doubled for required nodes · Source: [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L111)</sub>
 
 ## 2026-10-05 · IIT Delhi · FTE · Software Developer (SDE)
 
@@ -272,7 +272,7 @@ Return the minimum time required to complete all the instructions.
 
 (Poster's note: solved with binary search on the answer x; hidden tests were not shown. Closest practice: Codeforces 1701C Schedule Management.)
 
-<sub>Topics: Binary Search, Greedy, Arrays · Source: [SquarePoint - SDE Recalled.pdf](../archive/files/3158-SquarePoint_-_SDE_Recalled.pdf), [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L117)</sub>
+<sub>Topics: Binary Search, Greedy, Arrays · Close variant: [Codeforces 1701C. Schedule Management](https://codeforces.com/problemset/problem/1701/C) (rated 1400), binary search on time with assigned/other worker costs · Source: [SquarePoint - SDE Recalled.pdf](../archive/files/3158-SquarePoint_-_SDE_Recalled.pdf), [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L117)</sub>
 
 ### Q2. Design a text editor with cursor
 
@@ -312,7 +312,7 @@ vector<string> topThreeHashtags(vector<string> tweet_messages, vector<int> times
                                 int current_time, int window_size)
 ```
 
-<sub>Topics: Hashing, Strings, Sorting · Source: [SquarePoint - DQA Recalled.pdf](../archive/files/3159-SquarePoint_-_DQA_Recalled.pdf), [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L117)</sub>
+<sub>Topics: Hashing, Strings, Sorting · Same idea: [LeetCode 692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) (Medium), frequency count with tie-break ordering · Source: [SquarePoint - DQA Recalled.pdf](../archive/files/3159-SquarePoint_-_DQA_Recalled.pdf), [chat, 5 Oct](../archive/squarepoint-oa/2026-10.jsonl#L117)</sub>
 
 ### Q2. Red or Blue bus minimum time
 
@@ -546,13 +546,13 @@ Think of a search engine that has the vector `words` as its database. The string
 
 SDE C++ OA, total 2 questions in 1 hour (4 problems listed by the poster across the set). Problem: https://codeforces.com/problemset/problem/895/C. Statement not transcribed.
 
-<sub>Topics: Math, Bit Manipulation, DP · Source: [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L44), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L45), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L46), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L47)</sub>
+<sub>Topics: Math, Bit Manipulation, DP · Same problem: [Codeforces 895C. Square Subsets](https://codeforces.com/problemset/problem/895/C) (rated 2000), prime parity masks, linear basis counting · Source: [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L44), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L45), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L46), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L47)</sub>
 
 ### Q2. Minimum cost to make array elements distinct
 
 Given an array `nums` with n up to 1e5, and each nums[i] up to 1e9, and a `cost` array where cost[i] is the cost of adding +1 to the i-th element. At any step you can choose an index and add 1 to that element, which costs cost[i]. Return the minimum total cost to make all the elements in the array distinct.
 
-<sub>Topics: Greedy, Heaps, Sorting · Source: [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L44), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L45), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L46), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L47)</sub>
+<sub>Topics: Greedy, Heaps, Sorting · Close variant: [LeetCode 945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) (Medium), increment elements to make distinct, minimize cost · Source: [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L44), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L45), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L46), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L47)</sub>
 
 ### Q3. Process queues with add, update, remove and print queries
 
@@ -567,7 +567,7 @@ Output is of the form of an `(id@sz)` string.
 
 Total queries could be up to 1e5; all queries are guaranteed valid; total print output across all print queries sums to at most 1e5.
 
-<sub>Topics: Hashing, Linked List, Stack/Queue · Source: [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L44), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L45), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L46), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L47)</sub>
+<sub>Topics: Hashing, Linked List, Stack/Queue · Same idea: [LeetCode 146. LRU Cache](https://leetcode.com/problems/lru-cache/) (Medium), hashmap plus linked list for move-to-end · Source: [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L44), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L45), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L46), [chat, 30 Sep](../archive/squarepoint-oa/2026-09.jsonl#L47)</sub>
 
 ## 2026-09-29 · IIT BHU · FTE · SDE
 
@@ -613,7 +613,7 @@ Notes: focus on delivering a working solution; to achieve a perfect score the so
 
 Sample Case 0 input is shown only as a low-resolution screenshot (not fully legible).
 
-<sub>Topics: Arrays, Binary Search · Source: [Squarepoint_260929_172234.pdf](../archive/files/1830-Squarepoint_260929_172234.pdf), [Squarepoint-2_260929_172211.pdf](../archive/files/1831-Squarepoint-2_260929_172211.pdf)</sub>
+<sub>Topics: Arrays, Binary Search · Same idea: [LeetCode 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Medium), merging adjacent intervals with equal values into lower bounds · Source: [Squarepoint_260929_172234.pdf](../archive/files/1830-Squarepoint_260929_172234.pdf), [Squarepoint-2_260929_172211.pdf](../archive/files/1831-Squarepoint-2_260929_172211.pdf)</sub>
 
 ### Q2. Debugging: order book matching market participants
 
@@ -652,7 +652,7 @@ Answer: "psps".
 
 Function: `getHashedURL(string url, string hash_string, int k)` returns a string. Constraints were not captured in the screenshot.
 
-<sub>Topics: Strings, Hashing · Source: [Squarepoint_260929_172234.pdf](../archive/files/1830-Squarepoint_260929_172234.pdf), [Squarepoint-2_260929_172211.pdf](../archive/files/1831-Squarepoint-2_260929_172211.pdf)</sub>
+<sub>Topics: Strings, Hashing · Same idea: [LeetCode 2138. Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) (Easy), split string into blocks of size k · Source: [Squarepoint_260929_172234.pdf](../archive/files/1830-Squarepoint_260929_172234.pdf), [Squarepoint-2_260929_172211.pdf](../archive/files/1831-Squarepoint-2_260929_172211.pdf)</sub>
 
 ### Q4. Company Usernames
 
@@ -678,7 +678,7 @@ Function: `generate_usernames(vector<string> names)`, names are given as individ
 
 Assumptions: names may contain alphabetical characters, hyphens and apostrophes ([A-z], -, '); a single digit (0-9) will always be enough to generate a unique username.
 
-<sub>Topics: Strings, Hashing · Source: [Squarepoint_260929_172234.pdf](../archive/files/1830-Squarepoint_260929_172234.pdf), [Squarepoint-2_260929_172211.pdf](../archive/files/1831-Squarepoint-2_260929_172211.pdf)</sub>
+<sub>Topics: Strings, Hashing · Same idea: [LeetCode 1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) (Medium), deduplicate names with hashmap and suffix counters · Source: [Squarepoint_260929_172234.pdf](../archive/files/1830-Squarepoint_260929_172234.pdf), [Squarepoint-2_260929_172211.pdf](../archive/files/1831-Squarepoint-2_260929_172211.pdf)</sub>
 
 ### Q5. Count special subarrays (product has odd number of divisors)
 
@@ -686,13 +686,13 @@ You are given an array of size n, and you have to return the number of special s
 
 A special subarray is a subarray whose product has an odd number of divisors.
 
-<sub>Topics: Arrays, Math · Source: [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L33), [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L38)</sub>
+<sub>Topics: Arrays, Math · Same idea: [LeetCode 1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) (Medium), prefix parity bitmask counting of subarrays · Source: [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L33), [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L38)</sub>
 
 ### Q6. Minimum Increase to Maximize Special Indices
 
 The first question (as identified by a poster) was the LeetCode problem "Minimum Increase to Maximize Special Indices" (https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/). The statement itself was not transcribed.
 
-<sub>Topics: Arrays, Greedy · Source: [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L33), [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L38)</sub>
+<sub>Topics: Arrays, Greedy · Same idea: [LeetCode 198. House Robber](https://leetcode.com/problems/house-robber/) (Medium), non-adjacent index selection DP · Source: [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L33), [chat, 29 Sep](../archive/squarepoint-oa/2026-09.jsonl#L38)</sub>
 
 ## 2026-09-29 · IIT BHU · FTE · Infrastructure
 
@@ -720,7 +720,7 @@ In one operation, you can choose two different values x and y present in the arr
 
 Your task is to find the minimum number of operations required to make the array a palindrome.
 
-<sub>Topics: Arrays, Graphs, Greedy · Source: [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L9), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L13), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L14) · Also asked at: IIT BHU (2026-09-30)</sub>
+<sub>Topics: Arrays, Graphs, Greedy · Same idea: [LeetCode 1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) (Medium), union-find grouping of values · Source: [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L9), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L13), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L14) · Also asked at: IIT BHU (2026-09-30)</sub>
 
 ### Q2. Page reading with I and S commands
 
@@ -762,7 +762,7 @@ If the minimum value of `a + b` is greater than `k`, return `-1` for that query.
 
 The poster said brute force works within 1 second.
 
-<sub>Topics: Arrays, Math, Hashing · Source: [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L10), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L11), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L12)</sub>
+<sub>Topics: Arrays, Math, Hashing · Same idea: [LeetCode 322. Coin Change](https://leetcode.com/problems/coin-change/) (Medium), minimum count of values summing to target · Source: [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L10), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L11), [chat, 28 Sep](../archive/squarepoint-oa/2026-09.jsonl#L12)</sub>
 
 ### Q2. Tag counting over strings with threshold
 

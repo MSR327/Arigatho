@@ -1,6 +1,6 @@
 # Mastercard
 
-**8 questions** · 6 drives · latest 30 Oct 2026 · [1 LeetCode match](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 6 drives · latest 30 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 6 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [SQL](../topics/sql.md) 1 · [Python & Pandas](../topics/python-pandas.md) 1  
 **Seen at:** IIIT Sri City, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee

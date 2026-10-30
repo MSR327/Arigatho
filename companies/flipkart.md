@@ -1,6 +1,6 @@
 # Flipkart
 
-**22 questions** · 10 drives · latest 29 Oct 2026 · [2 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 10 drives · latest 29 Oct 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Strings](../topics/strings.md) 3 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 2 · [SQL](../topics/sql.md) 2 · +4 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Kanpur, MNNIT Allahabad
@@ -115,7 +115,7 @@ Input: root = 5, n = 2; L 8, LL 1; value = [5, 1, 2] -> Output: 0 (no node has t
 
 Constraints: n &lt;= 1000 (recalled as 100 or 1000).
 
-<sub>Topics: Trees · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi ×2 (last 2026-10-29)</sub>
+<sub>Topics: Trees · Same idea: [LeetCode 563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) (Easy), postorder subtree sums compared across children · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi ×2 (last 2026-10-29)</sub>
 
 ### Q3. Service Engineer (minimum days to finish all servicing)
 
@@ -132,7 +132,7 @@ Input: 2 3 / 0 0 0 / 0 0 0 -> Output: 0 (no servicing required)
 Constraints: 1 &lt;= R &lt;= 30, 1 &lt;= C &lt;= 30, 0 &lt;= matrix[i][j] &lt;= 1000; number of non-zero cells &lt;= 15. Time limit 1 s, memory 256 MB.  
 Note: same as Goldman Sachs Coding Test II 'Service Engineer', except the start is fixed at (0, 0) (there, Mona can start and finish in any cell).
 
-<sub>Topics: DP, Bit Manipulation, Graphs · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi (2026-10-29)</sub>
+<sub>Topics: DP, Bit Manipulation, Graphs · Same idea: [LeetCode 847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) (Hard), bitmask DP over visited targets · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi (2026-10-29)</sub>
 
 ## 2026-10-24 · IIT Delhi · FTE · AI Engineer
 
@@ -142,7 +142,7 @@ The hardest question: bitmask DP on a 2D grid. One had to travel a path while mi
 
 Full statement and constraints were not shared.
 
-<sub>Topics: DP, Bit Manipulation, Graphs · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L74), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L76), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L77), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L84), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L90), [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L1)</sub>
+<sub>Topics: DP, Bit Manipulation, Graphs · Same idea: [LeetCode 847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) (Hard), bitmask DP shortest path visiting all required points · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L74), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L76), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L77), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L84), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L90), [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L1)</sub>
 
 ### Q2. Test format: 3 basic DSA questions
 
@@ -182,7 +182,7 @@ Described as the tough question. You are given three numbers n, k and m. Print (
 
 A SQL question based on a LEFT JOIN. The poster did not share the exact schema or problem statement.
 
-<sub>Topics: SQL · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L1989), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L1990)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) (Easy), LEFT JOIN to keep unmatched rows · Source: [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L1989), [chat, 22 Oct](../archive/inter-nit/2026-10.jsonl#L1990)</sub>
 
 ## 2026-10-18 · IIT BHU · FTE · Data Engineer
 
@@ -196,7 +196,7 @@ A SQL question based on a LEFT JOIN. The poster did not share the exact schema o
 
 Distributing n distinct objects to k identical bags (described as the reverse of the 'beggar coin' problem). Full statement not given.
 
-<sub>Topics: DP, Math · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
+<sub>Topics: DP, Math · Same problem: [LeetCode 1692. Count Ways to Distribute Candies](https://leetcode.com/problems/count-ways-to-distribute-candies/) (Hard), Stirling numbers: distinct items into identical nonempty groups · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
 
 ### Q3. Subgraphs
 
@@ -208,7 +208,7 @@ A question on subgraphs. Full statement not given.
 
 CodeChef problem KCONNECT: https://www.codechef.com/problems/KCONNECT. Statement not given in the message.
 
-<sub>Topics: Graphs · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
+<sub>Topics: Graphs · Same problem: [CodeChef KCONNECT: Chef And A Complete Graph](https://www.codechef.com/problems/KCONNECT) (rated 2843), the question names this CodeChef problem · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
 
 ### Q5. Sorted word position differences and letter (string simulation)
 
@@ -228,7 +228,7 @@ Output: 81 I
 
 Constraints: 1 <= word.length <= 10^5; lowercase English letters. (This is an unverified AI reproduction of the question.)
 
-<sub>Topics: Strings, Sorting · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
+<sub>Topics: Strings, Sorting · Same idea: [LeetCode 1051. Height Checker](https://leetcode.com/problems/height-checker/) (Easy), compare original with sorted order positions · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
 
 ### Q6. SQL: average salary for Finance in Acme Corp with two JOINs
 
@@ -236,7 +236,7 @@ Write a SQL query using two JOINs. Filter by the company named 'Acme Corp' and t
 
 The result has the columns company_name, department_name, average_salary (empty if the company has no Finance department with employees). Rows may be in any order. (Unverified AI reproduction.)
 
-<sub>Topics: SQL · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1075. Project Employees I](https://leetcode.com/problems/project-employees-i/) (Easy), join tables, group by, average · Source: [chat, 18 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L303), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L324), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L330), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L332), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L334), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L336), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L337), [chat, 19 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L338)</sub>
 
 ## 2026-10-15 · MNNIT Allahabad · FTE
 

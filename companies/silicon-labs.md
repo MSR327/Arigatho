@@ -1,6 +1,6 @@
 # Silicon Labs
 
-**4 questions** · 2 drives · latest 21 Sep 2026 · [← all companies](../README.md#companies)
+**4 questions** · 2 drives · latest 21 Sep 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Sorting](../topics/sorting.md) 2 · [Arrays](../topics/arrays.md) 2 · [Heaps](../topics/heaps.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Digital Electronics](../topics/digital-electronics.md) 1 · [OA Format](../topics/oa-format.md) 1  
 
@@ -24,13 +24,13 @@
 
 Kth-largest selection problem was asked in the SDE-1 coding interviews. Only the topic is named; the full statement is not given.
 
-<sub>Topics: Heaps, Sorting · Source: [chat, 21 Sep](../archive/silicon-labs-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Heaps, Sorting · Same problem: [LeetCode 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (Medium), heap or quickselect for kth largest · Source: [chat, 21 Sep](../archive/silicon-labs-oa/2026-09.jsonl#L1)</sub>
 
 ### Q2. Next greater element
 
 Next-greater-element problem was asked in the SDE-1 coding interviews. Only the topic is named; the full statement is not given.
 
-<sub>Topics: Stack/Queue, Arrays · Source: [chat, 21 Sep](../archive/silicon-labs-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Stack/Queue, Arrays · Same problem: [LeetCode 496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) (Easy), monotonic stack next greater element · Source: [chat, 21 Sep](../archive/silicon-labs-oa/2026-09.jsonl#L1)</sub>
 
 ### Q3. Count inversions
 

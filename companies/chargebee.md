@@ -1,6 +1,6 @@
 # Chargebee
 
-**9 questions** · 4 drives · latest 22 Sep 2026 · [3 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 4 drives · latest 22 Sep 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Software Engineering](../topics/software-engineering.md) 3 · [OA Format](../topics/oa-format.md) 2 · [SQL](../topics/sql.md) 2 · [Hashing](../topics/hashing.md) 2 · [Math](../topics/math.md) 2 · [Web Dev](../topics/web-dev.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Strings](../topics/strings.md) 1 · +6 more  
 **Seen at:** VIT Vellore
@@ -68,7 +68,7 @@ Minimum-window-substring problem, named in a referral-based SDE-1 account. The f
 
 A sieve / bit-manipulation task. The statement is not given.
 
-<sub>Topics: Bit Manipulation, Math · Source: [chat, 21 Sep](../archive/chargebee-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Bit Manipulation, Math · Same idea: [LeetCode 204. Count Primes](https://leetcode.com/problems/count-primes/) (Medium), sieve of Eratosthenes · Source: [chat, 21 Sep](../archive/chargebee-oa/2026-09.jsonl#L1)</sub>
 
 ### Q3. Missing number
 
@@ -80,7 +80,7 @@ A missing-number task. The statement is not given.
 
 A binary-search task. The statement is not given.
 
-<sub>Topics: Binary Search · Source: [chat, 21 Sep](../archive/chargebee-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Binary Search · Same problem: [LeetCode 704. Binary Search](https://leetcode.com/problems/binary-search/) (Easy), basic binary search · Source: [chat, 21 Sep](../archive/chargebee-oa/2026-09.jsonl#L1)</sub>
 
 ### Q5. Table keys and second-highest salary (SQL)
 
@@ -92,4 +92,4 @@ Questions on table keys and a second-highest-salary SQL query. The exact stateme
 
 A later exercise asked for a cache supporting GET, SET and DELETE operations and expiration. The detailed constraints are not given.
 
-<sub>Topics: Hashing, OOP, Software Engineering · Source: [chat, 21 Sep](../archive/chargebee-oa/2026-09.jsonl#L1)</sub>
+<sub>Topics: Hashing, OOP, Software Engineering · Same idea: [LeetCode 146. LRU Cache](https://leetcode.com/problems/lru-cache/) (Medium), cache with get/put operations · Source: [chat, 21 Sep](../archive/chargebee-oa/2026-09.jsonl#L1)</sub>

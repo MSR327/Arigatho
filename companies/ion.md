@@ -1,6 +1,6 @@
 # ION
 
-**8 questions** · 3 drives · latest 22 Oct 2026 · [← all companies](../README.md#companies)
+**8 questions** · 3 drives · latest 22 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [HR & Behavioral](../topics/hr-behavioral.md) 3 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Arrays](../topics/arrays.md) 1 · [Strings](../topics/strings.md) 1 · [Hashing](../topics/hashing.md) 1 · [OOP](../topics/oop.md) 1 · [SQL](../topics/sql.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +3 more  
 **Seen at:** IIT BHU, IIT Roorkee, MNNIT Allahabad, VNIT Nagpur
@@ -42,7 +42,7 @@ The technical round started with basic DSA questions on arrays, strings, hashing
 
 The specific problems were not shared.
 
-<sub>Topics: Arrays, Strings, Hashing · Source: [chat, 9 Oct](../archive/intern-2027/2026-10.jsonl#L184)</sub>
+<sub>Topics: Arrays, Strings, Hashing · Same idea: [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum/) (Easy), basic array hashing with complexity analysis · Source: [chat, 9 Oct](../archive/intern-2027/2026-10.jsonl#L184)</sub>
 
 ### Q2. OOPs concepts
 

@@ -1,6 +1,6 @@
 # Eternal (Zomato)
 
-**160 questions** · 73 drives · latest 30 Oct 2026 · [12 LeetCode matches](../practice.md) · [← all companies](../README.md#companies)
+**160 questions** · 73 drives · latest 30 Oct 2026 · [53 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 51 · [SQL](../topics/sql.md) 22 · [DP](../topics/dp.md) 20 · [Arrays](../topics/arrays.md) 18 · [Graphs](../topics/graphs.md) 14 · [Aptitude](../topics/aptitude.md) 12 · [Math](../topics/math.md) 12 · [Trees](../topics/trees.md) 11 · +22 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +9 more
@@ -286,7 +286,7 @@ Grid:
 Output: 1
 ```
 
-<sub>Topics: Recursion/Backtracking, Graphs, Bit Manipulation · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L50), [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L343)</sub>
+<sub>Topics: Recursion/Backtracking, Graphs, Bit Manipulation · Same idea: [LeetCode 1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) (Medium), grid multi-source BFS Manhattan distance to nearest building · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L50), [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L343)</sub>
 
 ### Q2. Count non-path triplets in a tree
 
@@ -341,7 +341,7 @@ Return a list of strings, each of the form `Category|Subcategories|TotalAmount`,
 - 1 ≤ N ≤ 10^5
 - (the rest of the constraints was cut off in the message)
 
-<sub>Topics: Python & Pandas, Hashing, Strings · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L356), [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L357), [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L358)</sub>
+<sub>Topics: Python & Pandas, Hashing, Strings · Same idea: [LeetCode 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) (Medium), group records by key using hash map · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L356), [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L357), [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L358)</sub>
 
 ### Q2. Boat and stream round trip distance
 
@@ -366,13 +366,13 @@ Eternal came to the college for the PA role on 2026-10-28. All the questions wer
 
 We are given two arrays, prices and cost, of length n. In one operation we can increase prices[i] by 1 with the cost of cost[i]. Find the minimum cost so that no two adjacent elements in the prices array are the same. n is up to 1e5.
 
-<sub>Topics: DP, Greedy, Arrays · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L47)</sub>
+<sub>Topics: DP, Greedy, Arrays · Same idea: [LeetCode 1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) (Medium), adjacent equal fix with per-element costs, greedy · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L47)</sub>
 
 ### Q2. Index of the kth largest element to the right
 
 We are given an array of size n, where n can be up to 1e5. For every index, find the index of the kth largest element to its right. For example, in 1, 2, 5, the 5 will be considered the second largest element to 1's right. (Poster notes: Fenwick tree.)
 
-<sub>Topics: Arrays, Trees · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L47)</sub>
+<sub>Topics: Arrays, Trees · Same idea: [LeetCode 315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) (Hard), Fenwick tree over values scanning from right · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L47)</sub>
 
 ## 2026-10-28 · IIT BHU · FTE · Product Analyst
 
@@ -454,7 +454,7 @@ Interview discussion of the OA problem "Second Most Frequent Element" (hash maps
 - Top K: how would you modify the code for the K-th most frequent element with the same tie-breaking rules?
 - In-place: can you solve it in O(1) extra space if elements are in the range [0, N-1]? (Expected: index manipulation, arr[i] += N.)
 
-<sub>Topics: Hashing, Heaps, Arrays · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L44)</sub>
+<sub>Topics: Hashing, Heaps, Arrays · Same idea: [LeetCode 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (Medium), frequency map with heap for top-k · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L44)</sub>
 
 ### Q2. Interview follow-ups on Fruit Selection with Discount Coupons
 
@@ -466,7 +466,7 @@ Interview discussion of the OA problem "Fruit Selection with Discount Coupons" (
 - Space optimisation: the 3D DP table takes O(N x M x K) space; can it be reduced to O(M x K)? (Expected: yes, keep only the previous row.)
 - Large constraints: what if M is massive (e.g. 10^9) but the maximum possible nutrition is very small? (The poster's message was cut off here; the rest of the follow-ups are missing.)
 
-<sub>Topics: DP, Greedy · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L44)</sub>
+<sub>Topics: DP, Greedy · Same idea: [LeetCode 474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) (Medium), multi-dimensional 0/1 knapsack · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L44)</sub>
 
 ## 2026-10-27 · Delhi Technological University · FTE · Associate Program Manager · Interview
 
@@ -525,13 +525,13 @@ Your task is to assign values to all unassigned nodes such that:
 
 Given two arrays a and b, the score is defined as the sum of elements b[i] such that a[i] < b[i]. Keeping the array a fixed, arrange b in such a way that the score is maximised and report the sum.
 
-<sub>Topics: Greedy, Sorting, Arrays · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L24), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L29), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L30)</sub>
+<sub>Topics: Greedy, Sorting, Arrays · Close variant: [LeetCode 870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) (Medium), rearrange b to beat a greedily · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L24), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L29), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L30)</sub>
 
 ### Q2. Count subsequences of a length-3 string
 
 Given two strings s1 and s2, where s1 is of fixed length 3, find the total number of subsequences of s1 in s2.
 
-<sub>Topics: DP, Strings · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L24), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L29), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L30)</sub>
+<sub>Topics: DP, Strings · Close variant: [LeetCode 115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) (Hard), count occurrences of a string as subsequence · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L24), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L29), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L30)</sub>
 
 ### Q3. Paint houses with symmetric constraint
 
@@ -542,7 +542,7 @@ ii) Houses at symmetric distance from the ends don't have the same color (e.g. f
 
 Find the number of ways of coloring these houses, modulo 1e9+7.
 
-<sub>Topics: DP, Math · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L24), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L29), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L30)</sub>
+<sub>Topics: DP, Math · Same idea: [LeetCode 1411. Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) (Hard), count colorings with adjacency constraints via DP · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L24), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L29), [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L30)</sub>
 
 ### Q4. OA structure and MCQ topics
 
@@ -658,7 +658,7 @@ The PA role OA is held on the HackerRank app. MySQL is allowed (alongside SQLite
 
 A knapsack-like problem (poster only remembered the rough type; full statement not given).
 
-<sub>Topics: DP · Source: [chat, 21 Oct](../archive/eternal-oa/2026-10.jsonl#L187)</sub>
+<sub>Topics: DP · Same idea: [GeeksforGeeks: 0 - 1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1), classic knapsack DP · Source: [chat, 21 Oct](../archive/eternal-oa/2026-10.jsonl#L187)</sub>
 
 ## 2026-10-21 · IIT Roorkee · FTE · Product Analyst
 
@@ -684,7 +684,7 @@ Only the problem type was named; no statement, constraints or examples were give
 
 Only a half-remembered description was given; the full statement, constraints and examples are missing.
 
-<sub>Topics: DP · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: IIT BHU (2026-09-30), IIIT Hyderabad (2026-10-13), IIT Dhanbad ×3 (last 2026-10-13), IIT Delhi (2026-10-13), IIT Hyderabad (2026-10-21)</sub>
+<sub>Topics: DP · Same idea: [LeetCode 474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) (Medium), knapsack with extra resource dimension · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: IIT BHU (2026-09-30), IIIT Hyderabad (2026-10-13), IIT Dhanbad ×3 (last 2026-10-13), IIT Delhi (2026-10-13), IIT Hyderabad (2026-10-21)</sub>
 
 ### Q3. Max nutritious value within budget M
 
@@ -692,7 +692,7 @@ Given an amount m and n items, each with a price and a nutritious value, find th
 
 The poster said this may have been the actual case-2 question; constraints and examples are missing.
 
-<sub>Topics: DP · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: IIT Delhi ×2 (last 2026-10-13), IIIT Hyderabad (2026-10-13), IIT Hyderabad (2026-10-21)</sub>
+<sub>Topics: DP · Same problem: [GeeksforGeeks: 0 - 1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1), max value within weight budget · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: IIT Delhi ×2 (last 2026-10-13), IIIT Hyderabad (2026-10-13), IIT Hyderabad (2026-10-21)</sub>
 
 ### Q4. Servers with lost config values, minimum total sum
 
@@ -788,7 +788,7 @@ Output: 3   (both become [3, 3, 4])
 ```
 Return the maximum possible length of the identical resulting arrays. (Message was cut off; the rest of the return spec, e.g. the case when impossible, is missing.)
 
-<sub>Topics: Arrays, Two Pointers, Greedy · Source: [chat, 13 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L198), [chat, 13 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L199) · Also asked at: IIT Jodhpur (2026-10-13), VIT Vellore (2026-10-16)</sub>
+<sub>Topics: Arrays, Two Pointers, Greedy · Same idea: [LeetCode 1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) (Easy), two pointers matching prefix sums for equal segments · Source: [chat, 13 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L198), [chat, 13 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L199) · Also asked at: IIT Jodhpur (2026-10-13), VIT Vellore (2026-10-16)</sub>
 
 ### Q3. Algorithm training and execution scheduling
 
@@ -830,7 +830,7 @@ Topics reported for the Product Analyst OA:
 
 At IIT Guwahati the OA had a question on rerooting (tree rerooting technique). The poster gave no full problem statement.
 
-<sub>Topics: Trees, DP · Source: [chat, 13 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L163) · Also asked at: IIT Guwahati (2026-10-25)</sub>
+<sub>Topics: Trees, DP · Same idea: [LeetCode 834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) (Hard), tree rerooting DP · Source: [chat, 13 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L163) · Also asked at: IIT Guwahati (2026-10-25)</sub>
 
 ### Q2. DSU simple question
 
@@ -892,7 +892,7 @@ A girl knows the probability that it snows on any given night is 1/8. Her father
 
 Tables: campaigns(id, campaign_name) and email_campaigns(campaign_id, emails_sent, emails_opened). For each campaign, output campaign_name, total_emails_sent, total_emails_opened and total_emails_not_opened, one row per campaign. Sample campaigns: (1, Summer Sale), (2, Diwali Offer), (3, New User Promo). Sample email_campaigns: (1, 1000, 700), (1, 500, 300), (2, 2000, 1200), (2, 1000, 600), (3, 800, 500). Expected output: Summer Sale 1500 1000 500; Diwali Offer 3000 1800 1200; New User Promo 800 500 300.
 
-<sub>Topics: SQL · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT Roorkee (2026-10-21), IIT Dhanbad ×3 (last 2026-10-27)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) (Easy), GROUP BY with SUM aggregates per group · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT Roorkee (2026-10-21), IIT Dhanbad ×3 (last 2026-10-27)</sub>
 
 ### Q7. Python / Pandas section (3 MCQs + 2 coding)
 
@@ -1056,7 +1056,7 @@ Choose the correct goodness of fit test with corresponding distributions. (Optio
 
 Codeforces problem 1324F. Only the problem reference was given, not the statement.
 
-<sub>Topics: Trees, DP · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati (2026-10-27)</sub>
+<sub>Topics: Trees, DP · Same problem: [Codeforces 1324F. Maximum White Subtree](https://codeforces.com/problemset/problem/1324/F) (rated 1800), the named Codeforces problem · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati (2026-10-27)</sub>
 
 ### Q2. LeetCode 924 (infection spread problem)
 
@@ -1070,7 +1070,7 @@ Given two arrays a and b. For each element in a (a[i]), you have to find the ind
 
 You have to return the vector of indices.
 
-<sub>Topics: Arrays, Binary Search · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati (2026-10-27)</sub>
+<sub>Topics: Arrays, Binary Search · Same idea: [LeetCode 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) (Easy), binary search first greater element · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati (2026-10-27)</sub>
 
 ## 2026-10-07 · IIT Guwahati · FTE · Product Analyst
 
@@ -1096,7 +1096,7 @@ SQL question: find the cities having more customers than the average. (Only the 
 
 SQL question: duplicate bid detection. (Only the title was recalled; the table schema and exact requirement are not given.)
 
-<sub>Topics: SQL · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L330), [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L333), [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati (2026-10-27)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) (Easy), GROUP BY HAVING count>1 duplicate detection · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L330), [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L333), [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati (2026-10-27)</sub>
 
 ### Q4. Anonymous vs subscribed viewers watch time
 
@@ -1112,7 +1112,7 @@ Given a graph with edge weights either 0 or 1, find the total number of combinat
 
 (Poster's recollection; constraints and input format are not given.)
 
-<sub>Topics: Graphs · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L321), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L322) · Also asked at: NIT Kurukshetra (2026-10-06)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) (Medium), count node pairs across connected components · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L321), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L322) · Also asked at: NIT Kurukshetra (2026-10-06)</sub>
 
 ### Q2. Maximum profit from category and price arrays
 
@@ -1158,7 +1158,7 @@ Output:
 [1, -1, 1]
 ```
 
-<sub>Topics: Arrays, Stack/Queue, Binary Search · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati (2026-10-23)</sub>
+<sub>Topics: Arrays, Stack/Queue, Binary Search · Same idea: [LeetCode 496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) (Easy), first greater element per index · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati (2026-10-23)</sub>
 
 ### Q2. Maximum connected value for every node in a tree
 
@@ -1183,7 +1183,7 @@ Output:
 [3, 2, 3, 3, 2]
 ```
 
-<sub>Topics: Trees, DP · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati (2026-10-23)</sub>
+<sub>Topics: Trees, DP · Close variant: [Codeforces 1324F. Maximum White Subtree](https://codeforces.com/problemset/problem/1324/F) (rated 1800), rerooting DP for max connected sum per node · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati (2026-10-23)</sub>
 
 ### Q3. Remove at most one node to maximize uninfected nodes
 
@@ -1233,7 +1233,7 @@ Initially infected nodes: [0, 5]
 Number of initially infected nodes: 2
 ```
 
-<sub>Topics: Graphs · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati (2026-10-23)</sub>
+<sub>Topics: Graphs · Close variant: [LeetCode 928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) (Hard), remove one node to minimize infection spread · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati (2026-10-23)</sub>
 
 ## 2026-10-06 · IIT BHU · FTE · Product Analyst
 
@@ -1257,7 +1257,7 @@ Your task is to assign values to all unassigned nodes such that:
 
 (The message is cut off here. Going by the title, the goal is to minimise the sum of all assigned values.)
 
-<sub>Topics: Trees, Graphs, Greedy · Source: [chat, 2 Oct](../archive/inter-nit/2026-10.jsonl#L1193) · Also asked at: IIT Dhanbad ×3 (last 2026-10-21)</sub>
+<sub>Topics: Trees, Graphs, Greedy · Same idea: [LeetCode 785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) (Medium), parity coloring across tree edges · Source: [chat, 2 Oct](../archive/inter-nit/2026-10.jsonl#L1193) · Also asked at: IIT Dhanbad ×3 (last 2026-10-21)</sub>
 
 ## 2026-10-02 · IIT Dhanbad · FTE · SDE
 
@@ -1277,7 +1277,7 @@ Return the element that ranks second according to these rules.
 
 (Poster's note: simple hash map.)
 
-<sub>Topics: Hashing, Sorting · Source: [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L304), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L305), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L306)</sub>
+<sub>Topics: Hashing, Sorting · Same idea: [LeetCode 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (Medium), frequency map then rank by frequency · Source: [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L304), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L305), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L306)</sub>
 
 ### Q2. Fruit selection with discount coupons
 
@@ -1303,7 +1303,7 @@ Return the maximum total nutrition you can obtain.
 
 (Poster's note: 3D DP, easy question.)
 
-<sub>Topics: DP · Source: [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L304), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L305), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L306)</sub>
+<sub>Topics: DP · Same problem: [LeetCode 2431. Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/) (Medium), knapsack DP with money and half-price coupons · Source: [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L304), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L305), [chat, 2 Oct](../archive/eternal-oa/2026-10.jsonl#L306)</sub>
 
 ## 2026-09-29 · IIT Guwahati · FTE
 
@@ -1317,19 +1317,19 @@ Eternal (Zomato) OA for SDE & PA roles. Duration: 90 min. 15 MCQs covering OS, D
 
 Given an array, find the element with the second highest frequency.
 
-<sub>Topics: Hashing, Arrays · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L112), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L113) · Also asked at: IIT Dhanbad ×4 (last 2026-10-13)</sub>
+<sub>Topics: Hashing, Arrays · Same idea: [LeetCode 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (Medium), frequency counting then rank by frequency · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L112), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L113) · Also asked at: IIT Dhanbad ×4 (last 2026-10-13)</sub>
 
 ### Q3. Collision problem
 
 Collision problem (no further details shared; likely an asteroid-collision style problem).
 
-<sub>Topics: Stack/Queue · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L112), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L113)</sub>
+<sub>Topics: Stack/Queue · Close variant: [LeetCode 735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) (Medium), stack simulation of collisions · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L112), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L113)</sub>
 
 ### Q4. Maximize nutrition within a fixed budget
 
 Given a price array and a nutrition array for items, and a fixed amount of money, choose items to earn the maximum total nutrition without exceeding the money (knapsack).
 
-<sub>Topics: DP · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L112), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L113)</sub>
+<sub>Topics: DP · Same problem: [CSES: Book Shop](https://cses.fi/problemset/task/1158), 0/1 knapsack maximizing value within budget · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L112), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L113)</sub>
 
 ### Q5. Total energy of all subsequences (subset sum K)
 
@@ -1402,19 +1402,19 @@ Python coding: process n operations of the form set(key, value) and get(key). Va
 
 Python coding: you are given the clothes sizes received (stock). For the sizes to be sold on the next date, say whether it is possible to sell them from the stock received. Only this partial description was given.
 
-<sub>Topics: Hashing · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L44), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L45), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L47) · Also asked at: IIT Dhanbad (2026-09-29)</sub>
+<sub>Topics: Hashing · Same idea: [LeetCode 383. Ransom Note](https://leetcode.com/problems/ransom-note/) (Easy), check needed counts fit within available stock · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L44), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L45), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L47) · Also asked at: IIT Dhanbad (2026-09-29)</sub>
 
 ### Q6. SQL: basic join
 
 An SQL query that needs a normal join between tables. No more details were given.
 
-<sub>Topics: SQL · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L44), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L45), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L47) · Also asked at: Unknown (2026-09-21)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) (Easy), basic join between tables · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L44), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L45), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L47) · Also asked at: Unknown (2026-09-21)</sub>
 
 ### Q7. SQL: join with date extraction for May totals
 
 An SQL query using a join and date extraction: for the month of May, compute the total cost (number of requests * cost) and the total traffic (SUM(traffic)), and similar aggregates.
 
-<sub>Topics: SQL · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L44), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L45), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L47) · Also asked at: IIT Dhanbad (2026-10-13)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) (Medium), join-free monthly date extraction with SUM aggregates · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L44), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L45), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L47) · Also asked at: IIT Dhanbad (2026-10-13)</sub>
 
 ## 2026-09-29 · IIT Dhanbad · FTE · Product Analyst
 
@@ -1457,7 +1457,7 @@ AA:BB:CC:DD:EE:02 | 320     | 192.00
 AA:BB:CC:DD:EE:03 | 150     | 60.00
 ```
 
-<sub>Topics: SQL · Source: [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L35), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L39), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1944-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1988-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Roorkee (2026-10-21), IIT Dhanbad ×2 (last 2026-10-27)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) (Easy), join tables, group by key, sum aggregates · Source: [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L35), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L39), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1944-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1988-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Roorkee (2026-10-21), IIT Dhanbad ×2 (last 2026-10-27)</sub>
 
 ## 2026-09-29 · IIT Dhanbad · FTE · SDE
 
@@ -1473,7 +1473,7 @@ In other words, when comparing two elements:
 
 Return the element that ranks second according to these rules. (Simple hash map.)
 
-<sub>Topics: Hashing, Arrays, Sorting · Source: [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L37), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L38), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L41), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L44), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L49), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L50), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L52) · Also asked at: IIT BHU (2026-09-30), IIT Delhi ×2 (last 2026-10-13), IIIT Hyderabad (2026-10-13), IIT Hyderabad ×2 (last 2026-10-21), IIT Roorkee (2026-10-21), IIT Dhanbad ×5 (last 2026-10-27)</sub>
+<sub>Topics: Hashing, Arrays, Sorting · Same idea: [LeetCode 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (Medium), frequency map then rank by frequency · Source: [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L37), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L38), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L41), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L44), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L49), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L50), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L52) · Also asked at: IIT BHU (2026-09-30), IIT Delhi ×2 (last 2026-10-13), IIIT Hyderabad (2026-10-13), IIT Hyderabad ×2 (last 2026-10-21), IIT Roorkee (2026-10-21), IIT Dhanbad ×5 (last 2026-10-27)</sub>
 
 ### Q2. Protocol used in VoIP
 
@@ -1621,7 +1621,7 @@ Eternal Product Analyst OA: a Python pandas data-manipulation question.
 
 A friend reported the Zomato SDE paper was easy, with basic questions similar to the Striver sheet. One question was similar to Asteroid Collisions. Specific statements were not shared.
 
-<sub>Topics: OA Format, Stack/Queue · Source: [chat, 27 Sep](../archive/zomato-sde-1/2026-09.jsonl#L2), [chat, 27 Sep](../archive/zomato-sde-1/2026-09.jsonl#L3)</sub>
+<sub>Topics: OA Format, Stack/Queue · Same problem: [LeetCode 735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) (Medium), stack simulation of asteroid collisions · Source: [chat, 27 Sep](../archive/zomato-sde-1/2026-09.jsonl#L2), [chat, 27 Sep](../archive/zomato-sde-1/2026-09.jsonl#L3)</sub>
 
 ## 2026-09-26 · IIT BHU · FTE · Product Analyst
 
@@ -1667,7 +1667,7 @@ Process a given sentence and output the words which occur more than a given k ti
 
 (Python coding question; exact input/output format not remembered.)
 
-<sub>Topics: Hashing, Strings · Source: [chat, 24 Sep](../archive/eternal-oa/2026-09.jsonl#L129), [chat, 24 Sep](../archive/eternal-oa/2026-09.jsonl#L63)</sub>
+<sub>Topics: Hashing, Strings · Same idea: [LeetCode 692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) (Medium), count word frequencies with hash map · Source: [chat, 24 Sep](../archive/eternal-oa/2026-09.jsonl#L129), [chat, 24 Sep](../archive/eternal-oa/2026-09.jsonl#L63)</sub>
 
 ### Q2. OOPS + DSA merge-intervals type question
 
@@ -1675,7 +1675,7 @@ One question combining OOPS and DSA, of the merge intervals type.
 
 (Exact statement not remembered.)
 
-<sub>Topics: Arrays, Sorting, OOP · Source: [chat, 24 Sep](../archive/eternal-oa/2026-09.jsonl#L129), [chat, 24 Sep](../archive/eternal-oa/2026-09.jsonl#L63)</sub>
+<sub>Topics: Arrays, Sorting, OOP · Close variant: [LeetCode 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Medium), sort intervals and merge overlapping ones · Source: [chat, 24 Sep](../archive/eternal-oa/2026-09.jsonl#L129), [chat, 24 Sep](../archive/eternal-oa/2026-09.jsonl#L63)</sub>
 
 ### Q3. Python dict with duplicate keys
 
@@ -1726,13 +1726,13 @@ Only the topics were reported; the full problem statements are missing.
 
 Interview question: convert a binary tree to a doubly linked list. Full statement not given.
 
-<sub>Topics: Trees, Linked List · Source: [chat, 21 Sep](../archive/eternal-oa/2026-09.jsonl#L109)</sub>
+<sub>Topics: Trees, Linked List · Close variant: [LeetCode 426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) (Medium), inorder tree to doubly linked list · Source: [chat, 21 Sep](../archive/eternal-oa/2026-09.jsonl#L109)</sub>
 
 ### Q2. Anagram substring search
 
 Interview question: anagram substring search. Full statement not given.
 
-<sub>Topics: Strings, Sliding Window · Source: [chat, 21 Sep](../archive/eternal-oa/2026-09.jsonl#L109)</sub>
+<sub>Topics: Strings, Sliding Window · Same problem: [LeetCode 438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (Medium), sliding window frequency count anagram search · Source: [chat, 21 Sep](../archive/eternal-oa/2026-09.jsonl#L109)</sub>
 
 ### Q3. Maximum product subarray
 
@@ -1744,7 +1744,7 @@ Interview question: maximum-product subarray. Full statement not given.
 
 Interviews included grid connectivity, playlist shuffling, cryptography-related discussion and project scalability. Specific statements not given.
 
-<sub>Topics: Graphs, Software Engineering · Source: [chat, 21 Sep](../archive/zomato-sde-1/2026-09.jsonl#L15)</sub>
+<sub>Topics: Graphs, Software Engineering · Same idea: [LeetCode 200. Number of Islands](https://leetcode.com/problems/number-of-islands/) (Medium), grid connectivity via DFS/BFS or union-find · Source: [chat, 21 Sep](../archive/zomato-sde-1/2026-09.jsonl#L15)</sub>
 
 ## 2026-09-21 · Unknown · FTE · SDE-1 · Interview
 
@@ -1758,7 +1758,7 @@ Resume-led Kafka discussion covering failures and load balancing. Specific quest
 
 A DSA problem combining constrained selection and combination generation. Full statement not given.
 
-<sub>Topics: Recursion/Backtracking · Source: [chat, 21 Sep](../archive/eternal-oa/2026-09.jsonl#L109)</sub>
+<sub>Topics: Recursion/Backtracking · Same idea: [LeetCode 77. Combinations](https://leetcode.com/problems/combinations/) (Medium), backtracking to generate combinations · Source: [chat, 21 Sep](../archive/eternal-oa/2026-09.jsonl#L109)</sub>
 
 ### Q3. Financial-data processing/analytics design
 
@@ -1808,7 +1808,7 @@ Individual question statements are not given.
 
 An SDE record names weighted shortest paths in the OA. Full statement not given.
 
-<sub>Topics: Graphs, OA Format · Source: [chat, 21 Sep](../archive/zomato-sde-1/2026-09.jsonl#L15)</sub>
+<sub>Topics: Graphs, OA Format · Same idea: [LeetCode 743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) (Medium), Dijkstra weighted shortest paths · Source: [chat, 21 Sep](../archive/zomato-sde-1/2026-09.jsonl#L15)</sub>
 
 ## 2026-09-21 · Unknown · FTE · SDE · Interview
 

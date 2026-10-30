@@ -1,6 +1,6 @@
 # Stenoa Capital
 
-**2 questions** · 1 drive · latest 26 Oct 2026 · [← all companies](../README.md#companies)
+**2 questions** · 1 drive · latest 26 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Binary Search](../topics/binary-search.md) 1 · [Greedy](../topics/greedy.md) 1 · [Arrays](../topics/arrays.md) 1 · [Strings](../topics/strings.md) 1 · [Hashing](../topics/hashing.md) 1  
 **Seen at:** IIT Kanpur
@@ -35,10 +35,10 @@ Constraints
 - \(1 \le n,m \le 10^5\)
 - Player and point positions are integers.
 
-<sub>Topics: Binary Search, Greedy, Arrays · Source: [chat, 26 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L8)</sub>
+<sub>Topics: Binary Search, Greedy, Arrays · Same idea: [LeetCode 475. Heaters](https://leetcode.com/problems/heaters/) (Medium), minimum radius covering all points on a line · Source: [chat, 26 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L8)</sub>
 
 ### Q2. Count distinct substrings
 
 Given a string of length n<=10^5, output number of distinct substrings of that string.
 
-<sub>Topics: Strings, Hashing · Source: [chat, 26 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L8)</sub>
+<sub>Topics: Strings, Hashing · Same problem: [CSES: Distinct Substrings](https://cses.fi/problemset/task/2105), count distinct substrings via suffix structures · Source: [chat, 26 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L8)</sub>

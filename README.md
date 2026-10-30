@@ -1,12 +1,12 @@
 # OA Questions Tracker
 
-**1543 questions from 101 companies** · shared by students of 44 colleges · updated 30 Oct 2026, 14:11
+**1543 questions from 101 companies** · shared by students of 44 colleges · updated 30 Oct 2026, 18:34
 
 **Website: [msr327.github.io/Arigatho](https://msr327.github.io/Arigatho/)**, to search every company and question at once.
 
 **Find a company** in the list below, or press Ctrl+F (⌘F on a Mac) and type its name. Its page has every question asked there, newest first.
 
-[Companies](#companies) · [New this week](#new-this-week) · [Topics](#topics) · [LeetCode practice list](practice.md) · [Colleges](#colleges) · [About](#about)
+[Companies](#companies) · [New this week](#new-this-week) · [Topics](#topics) · [Practice list](practice.md) · [Colleges](#colleges) · [About](#about)
 
 ## Companies
 
