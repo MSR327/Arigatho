@@ -7,7 +7,7 @@
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Fork and copy-on-write](../companies/nvidia.md#q8-fork-and-copy-on-write) | |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Cortex-A72 performance: data structure, matrix order, list cycle](../companies/texas-instruments.md#q3-cortex-a72-performance-data-structure-matrix-order-list-cycle) | |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Slowest and fastest implementation by memory section](../companies/texas-instruments.md#q1-slowest-and-fastest-implementation-by-memory-section) | |
-| 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-1) | |
+| 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-2) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Role of a hypervisor](../companies/deloitte.md#q11-role-of-a-hypervisor) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Advantages of data virtualization](../companies/deloitte.md#q10-advantages-of-data-virtualization) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Network layer for sequencing, addressing and congestion control](../companies/deloitte.md#q7-network-layer-for-sequencing-addressing-and-congestion-control) | |

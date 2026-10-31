@@ -1,6 +1,6 @@
 # Puzzles
 
-15 questions from 6 companys, newest first. [← all topics](../README.md#topics)
+21 questions from 7 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
@@ -19,3 +19,9 @@
 | 2026-10-13 | [Edelweiss](../companies/edelweiss.md) | IIT Hyderabad | [Expected stopping index when a_k < a_{k+1}](../companies/edelweiss.md#q5-expected-stopping-index-when-a_k--a_k1) |
 | 2026-10-13 | [Edelweiss](../companies/edelweiss.md) | IIT Hyderabad | [Expected arc length containing a 4th random point](../companies/edelweiss.md#q4-expected-arc-length-containing-a-4th-random-point) |
 | 2026-10-13 | [Edelweiss](../companies/edelweiss.md) | IIT Hyderabad | [Probability: selecting a number from [1,120) as a sum of factors of 120](../companies/edelweiss.md#q3-probability-selecting-a-number-from-1120-as-a-sum-of-factors-of-120) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Complete the letter-number sequence](../companies/commonwealth-bank-of-australia.md#q28-complete-the-letter-number-sequence) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Coding of number 18582674963](../companies/commonwealth-bank-of-australia.md#q27-coding-of-number-18582674963) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Position of F in decreasing order of height](../companies/commonwealth-bank-of-australia.md#q23-position-of-f-in-decreasing-order-of-height) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Pair of friends living in Delhi](../companies/commonwealth-bank-of-australia.md#q21-pair-of-friends-living-in-delhi) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Tallest and shortest among eight friends](../companies/commonwealth-bank-of-australia.md#q11-tallest-and-shortest-among-eight-friends) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Letter pairs in PENURIOUS](../companies/commonwealth-bank-of-australia.md#q3-letter-pairs-in-penurious) |

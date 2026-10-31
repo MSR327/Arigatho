@@ -1,8 +1,8 @@
 # Eternal (Zomato)
 
-**160 questions** · 73 drives · latest 30 Oct 2026 · [53 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**165 questions** · 75 drives · latest 31 Oct 2026 · [54 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 51 · [SQL](../topics/sql.md) 22 · [DP](../topics/dp.md) 20 · [Arrays](../topics/arrays.md) 18 · [Graphs](../topics/graphs.md) 14 · [Aptitude](../topics/aptitude.md) 12 · [Math](../topics/math.md) 12 · [Trees](../topics/trees.md) 11 · +22 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 52 · [SQL](../topics/sql.md) 22 · [DP](../topics/dp.md) 22 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 16 · [Aptitude](../topics/aptitude.md) 12 · [Math](../topics/math.md) 12 · [Trees](../topics/trees.md) 12 · +22 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +9 more
 
 <details>
@@ -10,6 +10,13 @@
 
 - [2026-10-30 · Unknown · FTE · Associate Program Manager](#2026-10-30--unknown--fte--associate-program-manager)
   - [Eternal APM OA pattern](#q1-eternal-apm-oa-pattern)
+- [2026-10-30 · IIT Indore · FTE · SDE](#2026-10-30--iit-indore--fte--sde)
+  - [Most negative balance from transactions](#q1-most-negative-balance-from-transactions)
+  - [Hash map DSA question (easy)](#q2-hash-map-dsa-question-easy)
+  - [Simple DFS question (easy)](#q3-simple-dfs-question-easy)
+  - [DP on trees question](#q4-dp-on-trees-question)
+- [2026-10-30 · IIT Dhanbad · FTE · SDE](#2026-10-30--iit-dhanbad--fte--sde)
+  - [Eternal SDE OA: topics of 3 coding questions](#q1-eternal-sde-oa-topics-of-3-coding-questions)
 - [2026-10-28 · IIT Roorkee · FTE · Product Analyst](#2026-10-28--iit-roorkee--fte--product-analyst)
   - [Optimal building placement minimizing max distance](#q1-optimal-building-placement-minimizing-max-distance)
   - [Count non-path triplets in a tree](#q2-count-non-path-triplets-in-a-tree)
@@ -253,6 +260,44 @@
 2–3 DSA coding questions + 12–20 technical MCQs.
 
 <sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-dtu-placements/2026-10.jsonl#L63)</sub>
+
+## 2026-10-30 · IIT Indore · FTE · SDE
+
+### Q1. Most negative balance from transactions
+
+You are given a vector of strings where every element is itself a vector with three strings: sender, receiver and amount (the amount is also a string). For the sender you subtract this amount and for the receiver you add this amount. Tell which person has the most negative amount. There can be multiple people with the same resulting amount, so return a vector of strings with all the names.
+
+<sub>Topics: Hashing, Arrays · Same idea: [LeetCode 2307. Check for Contradictions in Equations](https://leetcode.com/problems/check-for-contradictions-in-equations/) (Hard), placeholder · Source: [chat, 30 Oct](../archive/zomato-sde-1/2026-10.jsonl#L90)</sub>
+
+### Q2. Hash map DSA question (easy)
+
+An easy DSA question based on a simple hash map. The poster did not give the statement.
+
+<sub>Topics: Hashing · Source: [chat, 30 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L107), [chat, 30 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L108)</sub>
+
+### Q3. Simple DFS question (easy)
+
+An easy DSA question solved with a simple DFS. The poster did not give the statement.
+
+<sub>Topics: Graphs · Source: [chat, 30 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L107), [chat, 30 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L108)</sub>
+
+### Q4. DP on trees question
+
+A somewhat harder third DSA question, solved with a DP-on-trees kind of solution. The poster did not give the statement.
+
+<sub>Topics: DP, Trees · Source: [chat, 30 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L107), [chat, 30 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L108)</sub>
+
+## 2026-10-30 · IIT Dhanbad · FTE · SDE
+
+### Q1. Eternal SDE OA: topics of 3 coding questions
+
+1 hashing question
+1 medium DP (3D DP, knapsack)
+1 medium to hard graphs question (DFS)
+
+Full statements not given.
+
+<sub>Topics: OA Format, DP, Graphs · Source: [chat, 30 Oct](../archive/eternal-oa/2026-10.jsonl#L367)</sub>
 
 ## 2026-10-28 · IIT Roorkee · FTE · Product Analyst
 
@@ -706,7 +751,7 @@ The poster noted this question was asked at a different college. Constraints and
 
 SDE OA pattern: 3 DSA questions and 13 MCQs. The MCQs covered OS, networks and system design. The poster did not remember the exact questions.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: NIT Kurukshetra (2026-10-06), IIT Hyderabad (2026-10-16)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: NIT Kurukshetra (2026-10-06), IIT Hyderabad (2026-10-16), IIT Indore (2026-10-30)</sub>
 
 ## 2026-10-20 · IIT Guwahati · FTE
 
@@ -1158,7 +1203,7 @@ Output:
 [1, -1, 1]
 ```
 
-<sub>Topics: Arrays, Stack/Queue, Binary Search · Same idea: [LeetCode 496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) (Easy), first greater element per index · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati (2026-10-23)</sub>
+<sub>Topics: Arrays, Stack/Queue, Binary Search · Same idea: [LeetCode 496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) (Easy), first greater element per index · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati ×2 (last 2026-10-30)</sub>
 
 ### Q2. Maximum connected value for every node in a tree
 
@@ -1183,7 +1228,7 @@ Output:
 [3, 2, 3, 3, 2]
 ```
 
-<sub>Topics: Trees, DP · Close variant: [Codeforces 1324F. Maximum White Subtree](https://codeforces.com/problemset/problem/1324/F) (rated 1800), rerooting DP for max connected sum per node · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati (2026-10-23)</sub>
+<sub>Topics: Trees, DP · Close variant: [Codeforces 1324F. Maximum White Subtree](https://codeforces.com/problemset/problem/1324/F) (rated 1800), rerooting DP for max connected sum per node · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati ×2 (last 2026-10-30)</sub>
 
 ### Q3. Remove at most one node to maximize uninfected nodes
 
@@ -1233,7 +1278,7 @@ Initially infected nodes: [0, 5]
 Number of initially infected nodes: 2
 ```
 
-<sub>Topics: Graphs · Close variant: [LeetCode 928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) (Hard), remove one node to minimize infection spread · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati (2026-10-23)</sub>
+<sub>Topics: Graphs · Close variant: [LeetCode 928. Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/) (Hard), remove one node to minimize infection spread · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L323), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L324), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L326), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L327), [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L328) · Also asked at: IIT Guwahati ×2 (last 2026-10-30)</sub>
 
 ## 2026-10-06 · IIT BHU · FTE · Product Analyst
 
@@ -1636,7 +1681,7 @@ The OA contained:
 
 The actual questions and topics were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 26 Sep](../archive/eternal-oa/2026-09.jsonl#L89) · Also asked at: IIT Jodhpur (2026-10-20), IIT Hyderabad ×3 (last 2026-10-27)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Sep](../archive/eternal-oa/2026-09.jsonl#L89) · Also asked at: IIT Jodhpur (2026-10-20), IIT Hyderabad ×4 (last 2026-10-31)</sub>
 
 ## 2026-09-25 · IIT BHU · FTE · Product Analyst
 
@@ -1647,7 +1692,7 @@ Pattern of the Product Analyst OA:
 - Python (may come)
 - a few aptitude questions
 
-<sub>Topics: OA Format · Source: [chat, 25 Sep](../archive/eternal-oa/2026-09.jsonl#L71), [chat, 25 Sep](../archive/eternal-oa/2026-09.jsonl#L73) · Also asked at: IIT Dhanbad (2026-10-28)</sub>
+<sub>Topics: OA Format · Source: [chat, 25 Sep](../archive/eternal-oa/2026-09.jsonl#L71), [chat, 25 Sep](../archive/eternal-oa/2026-09.jsonl#L73) · Also asked at: IIT Dhanbad ×2 (last 2026-10-30)</sub>
 
 ## 2026-09-25 · IIT BHU · FTE · SDE
 

@@ -1,11 +1,15 @@
 # Math
 
-136 questions from 38 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+150 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Smallest multiple of Y with prefix X](../companies/mastercard.md#q3-smallest-multiple-of-y-with-prefix-x) | |
+| 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Make graph complete by node operations](../companies/mastercard.md#q2-make-graph-complete-by-node-operations) | |
+| 2026-10-30 | [Capital One](../companies/capital-one.md) | IIT Bombay | [Prime Path (SPOJ PPATH)](../companies/capital-one.md#q1-prime-path-spoj-ppath) | ≈ [LC 127](https://leetcode.com/problems/word-ladder/) Hard |
 | 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Count anagrams without identical adjacent characters](../companies/deutsche-bank.md#q3-count-anagrams-without-identical-adjacent-characters) | ≈ [LC 47](https://leetcode.com/problems/permutations-ii/) Medium |
 | 2026-10-30 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Guwahati | [Coupled recurrence relations F, G, H](../companies/thoughtspot.md#q1-coupled-recurrence-relations-f-g-h) | ≈ [LC 1137](https://leetcode.com/problems/n-th-tribonacci-number/) Easy |
+| 2026-10-29 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Five distinct awards to eight students with A and B condition](../companies/deloitte.md#q4-five-distinct-awards-to-eight-students-with-a-and-b-condition) | |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Chess game series: probability Alice wins](../companies/tredence.md#q19-chess-game-series-probability-alice-wins) | |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Boat speed in still water](../companies/tredence.md#q16-boat-speed-in-still-water) | |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Umesh and Reena ratio problem](../companies/tredence.md#q15-umesh-and-reena-ratio-problem) | |
@@ -140,3 +144,13 @@
 | 2026-09-21 | [Paytm](../companies/paytm.md) | Unknown | [Convert numbers to words](../companies/paytm.md#q2-convert-numbers-to-words) | [LC 273](https://leetcode.com/problems/integer-to-english-words/) Hard |
 | 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [Recursive function f(10, 2) (type the number)](../companies/accenture.md#q9-recursive-function-f10-2-type-the-number) | |
 | 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [Integer Battle (coding, Medium)](../companies/accenture.md#q1-integer-battle-coding-medium) | ≈ [LC 1808](https://leetcode.com/problems/maximize-number-of-nice-divisors/) Hard |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [List price after successive discounts](../companies/commonwealth-bank-of-australia.md#q26-list-price-after-successive-discounts) | |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Conditional probability of a biased die (magician)](../companies/commonwealth-bank-of-australia.md#q18-conditional-probability-of-a-biased-die-magician) | |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Method not used to measure trend in time series](../companies/commonwealth-bank-of-australia.md#q17-method-not-used-to-measure-trend-in-time-series) | |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Probability of a hit (cricket player)](../companies/commonwealth-bank-of-australia.md#q16-probability-of-a-hit-cricket-player) | |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Critical region for hypothesis test on normal sample](../companies/commonwealth-bank-of-australia.md#q12-critical-region-for-hypothesis-test-on-normal-sample) | |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Difference of population variance estimates (Mold Bread experiment)](../companies/commonwealth-bank-of-australia.md#q8-difference-of-population-variance-estimates-mold-bread-experiment) | |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Boat downstream speed](../companies/commonwealth-bank-of-australia.md#q6-boat-downstream-speed) | |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Pens, notebooks and markers expenditure](../companies/commonwealth-bank-of-australia.md#q5-pens-notebooks-and-markers-expenditure) | |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Subsets of A forming quadratic with real roots](../companies/commonwealth-bank-of-australia.md#q4-subsets-of-a-forming-quadratic-with-real-roots) | |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Men and women work problem](../companies/commonwealth-bank-of-australia.md#q2-men-and-women-work-problem) | |

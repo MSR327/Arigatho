@@ -1,9 +1,10 @@
 # Sorting
 
-44 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+45 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-31 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [People who can win after the final race](../companies/commonwealth-bank-of-australia.md#q2-people-who-can-win-after-the-final-race) | |
 | 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Merge overlapping intervals](../companies/paytm.md#q3-merge-overlapping-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
 | 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Maximise sum of unique building heights](../companies/deutsche-bank.md#q1-maximise-sum-of-unique-building-heights) | [LC 3301](https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/) Medium |
 | 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [AI-assisted paginated API fetch then sort](../companies/blackrock.md#q1-ai-assisted-paginated-api-fetch-then-sort) | |

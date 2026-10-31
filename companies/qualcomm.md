@@ -1,9 +1,9 @@
 # Qualcomm
 
-**1 question** · 1 drive · latest 29 Oct 2026 · [← all companies](../README.md#companies)
+**1 question** · 1 drive · latest 31 Oct 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 1  
-**Seen at:** IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, NIT Karnataka Surathkal
+**Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, MNNIT Allahabad, NIT Karnataka Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -26,4 +26,4 @@ The OA is all MCQs:
 
 Another poster notes that the hardware OA also has a basic programming section.
 
-<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L348), [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L350) · Also asked at: NIT Karnataka Surathkal (2026-10-13), IIT Guwahati ×2 (last 2026-10-29), IIT Hyderabad (2026-10-29), MNNIT Allahabad ×2 (last 2026-10-29)</sub>
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L348), [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L350) · Also asked at: NIT Karnataka Surathkal (2026-10-13), IIT Hyderabad (2026-10-29), IIT Guwahati ×3 (last 2026-10-30), IIIT Hyderabad (2026-10-30), IIT Kharagpur (2026-10-30), MNNIT Allahabad ×3 (last 2026-10-31)</sub>

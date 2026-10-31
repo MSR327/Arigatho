@@ -1,9 +1,12 @@
 # Strings
 
-74 questions from 36 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+77 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Smallest multiple of Y with prefix X](../companies/mastercard.md#q3-smallest-multiple-of-y-with-prefix-x) | |
+| 2026-10-30 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [Partition string minimum cost (alphabet variant)](../companies/cognizant.md#q1-partition-string-minimum-cost-alphabet-variant) | ≈ [LC 2767](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/) Medium |
+| 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT Delhi | [Remaining OA questions](../companies/plutus-research.md#q3-remaining-oa-questions) | |
 | 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Minimum cost to make two strings equal](../companies/paytm.md#q2-minimum-cost-to-make-two-strings-equal) | ≈ [LC 712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) Medium |
 | 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Longest valid palindromic subsequence](../companies/blackrock.md#q3-longest-valid-palindromic-subsequence) | [LC 516](https://leetcode.com/problems/longest-palindromic-subsequence/) Medium |
 | 2026-10-29 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Count anagrams](../companies/deutsche-bank.md#q1-count-anagrams) | ≈ [LC 2514](https://leetcode.com/problems/count-anagrams/) Hard |

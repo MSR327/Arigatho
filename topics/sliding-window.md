@@ -1,9 +1,10 @@
 # Sliding Window
 
-19 questions from 11 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+20 questions from 11 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-30 | [Capital One](../companies/capital-one.md) | IIT Bombay | [Longest continuous subarray with absolute diff within limit (output max subarray sum)](../companies/capital-one.md#q2-longest-continuous-subarray-with-absolute-diff-within-limit-output-max-subarray-sum) | [LC 1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) Medium |
 | 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Smallest subarray containing min and max](../companies/paytm.md#q4-smallest-subarray-containing-min-and-max) | ≈ [LC 2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) Hard |
 | 2026-10-26 | [Capital One](../companies/capital-one.md) | IIT Bombay | [Longest subarray with absolute difference within limit](../companies/capital-one.md#q2-longest-subarray-with-absolute-difference-within-limit) | [LC 1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) Medium |
 | 2026-10-25 | [NatWest](../companies/natwest.md) | IIT BHU | [Longest subarray of ones after flips (variation)](../companies/natwest.md#q1-longest-subarray-of-ones-after-flips-variation) | [LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/) Medium |

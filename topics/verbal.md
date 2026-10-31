@@ -7,7 +7,7 @@
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence communication round contents](../companies/tredence.md#q1-tredence-communication-round-contents) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Pick the synonym of 'detestable'](../companies/tredence.md#q18-pick-the-synonym-of-detestable) |
 | 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Email writing round](../companies/accenture.md#q1-email-writing-round) |
-| 2026-10-28 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence communication round format](../companies/tredence.md#q1-tredence-communication-round-format) |
+| 2026-10-28 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence communication round format](../companies/tredence.md#q1-tredence-communication-round-format-2) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Error detection: start to panic](../companies/deloitte.md#q36-error-detection-start-to-panic) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Fill in the blank: poured tea the cup](../companies/deloitte.md#q35-fill-in-the-blank-poured-tea-the-cup) |
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Sentence arrangement: army surgeon at Bombay](../companies/deloitte.md#q34-sentence-arrangement-army-surgeon-at-bombay) |

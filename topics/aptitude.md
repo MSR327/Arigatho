@@ -1,9 +1,15 @@
 # Aptitude
 
-162 questions from 20 companys, newest first. [← all topics](../README.md#topics)
+184 questions from 22 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-30 | [Mastercard](../companies/mastercard.md) | IIT Guwahati | [Poverty line village from graph](../companies/mastercard.md#q2-poverty-line-village-from-graph) |
+| 2026-10-29 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Milkman water-milk ratio for 27% profit](../companies/deloitte.md#q5-milkman-water-milk-ratio-for-27-profit) |
+| 2026-10-29 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Five distinct awards to eight students with A and B condition](../companies/deloitte.md#q4-five-distinct-awards-to-eight-students-with-a-and-b-condition) |
+| 2026-10-29 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Warehouse original stock](../companies/deloitte.md#q3-warehouse-original-stock) |
+| 2026-10-29 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Share of Rs. 4848 in ratio](../companies/deloitte.md#q2-share-of-rs-4848-in-ratio) |
+| 2026-10-29 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Two tasks, A and B swap after some days](../companies/deloitte.md#q1-two-tasks-a-and-b-swap-after-some-days) |
 | 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Consulting role OA pattern](../companies/accenture.md#q2-consulting-role-oa-pattern) |
 | 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture consulting OA format](../companies/accenture.md#q1-accenture-consulting-oa-format) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Chess game series: probability Alice wins](../companies/tredence.md#q19-chess-game-series-probability-alice-wins) |
@@ -166,3 +172,19 @@
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Petrol replaced by kerosene (mixtures)](../companies/infoedge.md#q2-petrol-replaced-by-kerosene-mixtures) |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Aptitude: linear equations and zeros in 100!](../companies/eternal-zomato.md#q2-aptitude-linear-equations-and-zeros-in-100) |
 | 2026-09-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Aptitude section (Product Analyst)](../companies/eternal-zomato.md#q1-aptitude-section-product-analyst) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Complete the letter-number sequence](../companies/commonwealth-bank-of-australia.md#q28-complete-the-letter-number-sequence) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Coding of number 18582674963](../companies/commonwealth-bank-of-australia.md#q27-coding-of-number-18582674963) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [List price after successive discounts](../companies/commonwealth-bank-of-australia.md#q26-list-price-after-successive-discounts) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Percentage increase in Los Angeles sales Feb to April](../companies/commonwealth-bank-of-australia.md#q25-percentage-increase-in-los-angeles-sales-feb-to-april) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Average properties sold in New York (bar graph)](../companies/commonwealth-bank-of-australia.md#q24-average-properties-sold-in-new-york-bar-graph) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Position of F in decreasing order of height](../companies/commonwealth-bank-of-australia.md#q23-position-of-f-in-decreasing-order-of-height) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Pair of friends living in Delhi](../companies/commonwealth-bank-of-australia.md#q21-pair-of-friends-living-in-delhi) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Probability of a hit (cricket player)](../companies/commonwealth-bank-of-australia.md#q16-probability-of-a-hit-cricket-player) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Tallest and shortest among eight friends](../companies/commonwealth-bank-of-australia.md#q11-tallest-and-shortest-among-eight-friends) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Value of expression with coded operators](../companies/commonwealth-bank-of-australia.md#q7-value-of-expression-with-coded-operators) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Boat downstream speed](../companies/commonwealth-bank-of-australia.md#q6-boat-downstream-speed) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Pens, notebooks and markers expenditure](../companies/commonwealth-bank-of-australia.md#q5-pens-notebooks-and-markers-expenditure) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Subsets of A forming quadratic with real roots](../companies/commonwealth-bank-of-australia.md#q4-subsets-of-a-forming-quadratic-with-real-roots) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Letter pairs in PENURIOUS](../companies/commonwealth-bank-of-australia.md#q3-letter-pairs-in-penurious) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Men and women work problem](../companies/commonwealth-bank-of-australia.md#q2-men-and-women-work-problem) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Data sufficiency: how much older is Mahesh than Aman](../companies/commonwealth-bank-of-australia.md#q1-data-sufficiency-how-much-older-is-mahesh-than-aman) |

@@ -1,8 +1,8 @@
 # Deloitte
 
-**59 questions** · 10 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
+**64 questions** · 11 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 16 · [OA Format](../topics/oa-format.md) 9 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Math](../topics/math.md) 5 · [Puzzles](../topics/puzzles.md) 4 · +10 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 9 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +10 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Indore, IIT Kanpur, MNNIT Allahabad, NIT Raipur, VNIT Nagpur
 
 <details>
@@ -10,6 +10,12 @@
 
 - [2026-10-30 · IIT Indore · FTE · Other round](#2026-10-30--iit-indore--fte--other-round)
   - [Vibe coding round: write a prompt](#q1-vibe-coding-round-write-a-prompt)
+- [2026-10-29 · IIT BHU · FTE](#2026-10-29--iit-bhu--fte)
+  - [Two tasks, A and B swap after some days](#q1-two-tasks-a-and-b-swap-after-some-days)
+  - [Share of Rs. 4848 in ratio](#q2-share-of-rs-4848-in-ratio)
+  - [Warehouse original stock](#q3-warehouse-original-stock)
+  - [Five distinct awards to eight students with A and B condition](#q4-five-distinct-awards-to-eight-students-with-a-and-b-condition)
+  - [Milkman water-milk ratio for 27% profit](#q5-milkman-water-milk-ratio-for-27-profit)
 - [2026-10-28 · IIT Dhanbad · FTE · Analyst](#2026-10-28--iit-dhanbad--fte--analyst)
   - [OA format: Deloitte Analyst round 1 (60 MCQs) and vibe coding round](#q1-oa-format-deloitte-analyst-round-1-60-mcqs-and-vibe-coding-round)
   - [Pseudocode: average marks after adding 5 to those below 40](#q2-pseudocode-average-marks-after-adding-5-to-those-below-40)
@@ -89,6 +95,73 @@
 In the vibe coding round you are given a problem statement and must write a prompt that will work, based on that question. It is held at the same time as round 1.
 
 <sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L90), [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L94)</sub>
+
+## 2026-10-29 · IIT BHU · FTE
+
+### Q1. Two tasks, A and B swap after some days
+
+Two independent tasks (Task X and Task Y) must both be completed.
+- A can complete Task X in 6 days and Task Y in 12 days.
+- B can complete Task X in 12 days and Task Y in 8 days.
+
+They start on Day 1 with A working only on Task X and B working only on Task Y. After some days (number not legible in the photo), they swap tasks: A works only on Task Y and B works only on Task X. They do not switch again, and neither can help the other task at any time (if someone finishes their assigned task earlier, they remain idle). In how many days will both tasks be completed?
+
+A. 10 days
+B. 11 days
+C. 13 days
+D. 12 days
+
+<sub>Topics: Aptitude · Source: [Deloitte.pdf](../archive/files/16535-Deloitte.pdf), [deloitte iitk.pdf](../archive/files/16536-deloitte_iitk.pdf), [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L102)</sub>
+
+### Q2. Share of Rs. 4848 in ratio
+
+An amount of Rs. 4848 is shared among Amit, Bhavesh, and Chetan in the ratio 8 : 5 : 3. What is Amit's share?
+
+A. Rs 2626
+B. Rs 2424
+C. Rs 3232
+D. Rs 2222
+
+(The ratio is hard to read in the photo.)
+
+<sub>Topics: Aptitude · Source: [Deloitte.pdf](../archive/files/16535-Deloitte.pdf), [deloitte iitk.pdf](../archive/files/16536-deloitte_iitk.pdf), [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L102)</sub>
+
+### Q3. Warehouse original stock
+
+A warehouse begins with a certain number of units. During inspection, 12% of the original stock is rejected. The warehouse then receives new units equal to 25% of the original stock. After this, 30% of the stock currently available is dispatched. If 3,955 units remain, what was the original stock?
+
+A. 4,830 units
+B. 4,600 units
+C. 4,400 units
+D. 5,000 units
+
+(The remaining-units figure is hard to read in the photo.)
+
+<sub>Topics: Aptitude · Source: [Deloitte.pdf](../archive/files/16535-Deloitte.pdf), [deloitte iitk.pdf](../archive/files/16536-deloitte_iitk.pdf), [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L102)</sub>
+
+### Q4. Five distinct awards to eight students with A and B condition
+
+Five distinct awards are assigned to five different students chosen from eight students. Students A and B must either both receive an award or neither receive an award. How many assignments are possible?
+
+A. 3360
+B. 3120
+C. 2880
+D. 3000
+
+<sub>Topics: Aptitude, Math · Source: [Deloitte.pdf](../archive/files/16535-Deloitte.pdf), [deloitte iitk.pdf](../archive/files/16536-deloitte_iitk.pdf), [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L102)</sub>
+
+### Q5. Milkman water-milk ratio for 27% profit
+
+Aman is a milkman who mixes water into the milk with the intention of selling the mixture for a profit. What should be the ratio of water and milk in order to sell the mixture at cost price and make a 27% profit?
+
+A. 9:11
+B. 17:50
+C. 27:100
+D. 73:100
+
+(The question wording is partly cut off in the photo.)
+
+<sub>Topics: Aptitude · Source: [Deloitte.pdf](../archive/files/16535-Deloitte.pdf), [deloitte iitk.pdf](../archive/files/16536-deloitte_iitk.pdf), [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L102)</sub>
 
 ## 2026-10-28 · IIT Dhanbad · FTE · Analyst
 
@@ -361,7 +434,7 @@ Only those who cleared round 1 were allowed to give the vibe coding round; there
 
 Deloitte Analyst OA on HirePro: 60 MCQs in 60 minutes. Sections seen in the screenshots: Verbal Ability (Q1-10), Reasoning Ability (Q11-20), Quantitative Ability (Q21-30), Technical (Q31 onwards: C++/programming, networking and cyber security, AI fluency, cloud computing basics, SQL). Poster says the questions do not repeat but the MCQ pattern is the same as earlier drives.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: IIT BHU (2026-10-29)</sub>
 
 ### Q2. Sentence correction: looking up them who have spoken
 
@@ -491,7 +564,7 @@ B. 3√13 km, south-east
 C. √145 km, north west
 D. 3√13 km, north-east
 
-<sub>Topics: Puzzles, Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14)</sub>
+<sub>Topics: Puzzles, Aptitude · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), IIT BHU (2026-10-29)</sub>
 
 ### Q11. Ice cream market research inference
 
@@ -516,7 +589,7 @@ People forever wrote letters to each other, (A) asking where (B) they could find
 
 Options: B, C, D, A
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU ×2 (last 2026-10-29)</sub>
 
 ### Q13. Distributing 22 coupons among 6 students
 
@@ -677,7 +750,7 @@ B. AECBD
 C. BDEAC
 D. BEACD
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU ×2 (last 2026-10-29)</sub>
 
 ### Q24. What happens to weights during neural network training
 
@@ -801,7 +874,7 @@ B. The oak tree grew weaker and withered as the seasons changed but the bamboo r
 C. The oak plant grew taller and stronger while the bamboo plant remained delicate and thin.
 D. The oak tree became more beautiful while the bamboo plant grew long and ugly.
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU ×2 (last 2026-10-29)</sub>
 
 ### Q32. Reading comprehension: what Koji and Haruki learnt
 
@@ -814,7 +887,7 @@ B. be proud of their trees and boast about them.
 C. nurture a specific tree in the garden and make it grow stronger.
 D. change their responsibilities as the seasons change.
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU ×2 (last 2026-10-29)</sub>
 
 ### Q33. Fill in the blank: The Roys and their wealth
 
@@ -824,7 +897,7 @@ The Roys have always been ones to ______ off their wealth.
 
 Options not captured in the screenshot.
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU ×2 (last 2026-10-29)</sub>
 
 ### Q34. Sentence arrangement: army surgeon at Bombay
 
@@ -840,7 +913,7 @@ B. DCBA
 C. CABD
 D. BCDA
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU ×2 (last 2026-10-29)</sub>
 
 ### Q35. Fill in the blank: poured tea the cup
 
@@ -850,7 +923,7 @@ As he poured tea ______ the cup, he smiled at us.
 
 Options not captured in the screenshot.
 
-<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU (2026-10-28)</sub>
+<sub>Topics: Verbal · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: Unknown (2026-10-14), NIT Raipur (2026-10-14), IIT Dhanbad (2026-10-26), IIT BHU ×2 (last 2026-10-29)</sub>
 
 ### Q36. Error detection: start to panic
 

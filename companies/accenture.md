@@ -1,6 +1,6 @@
 # Accenture
 
-**276 questions** · 93 drives · latest 29 Oct 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**276 questions** · 93 drives · latest 31 Oct 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 74 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +16 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
@@ -626,7 +626,7 @@ About 7-8 sections:
 
 The poster's message is cut off after section 6.
 
-<sub>Topics: OA Format, Verbal · Source: [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L54) · Also asked at: IIT Delhi (2026-10-24), MNNIT Allahabad (2026-10-27), IIT Guwahati (2026-10-29)</sub>
+<sub>Topics: OA Format, Verbal · Source: [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L54) · Also asked at: IIT Delhi (2026-10-24), MNNIT Allahabad (2026-10-27), IIT Guwahati (2026-10-29), IIT Roorkee (2026-10-30), IIT Indore (2026-10-30)</sub>
 
 ## 2026-10-27 · MNNIT Allahabad · FTE · Advanced Technology Engineer
 
@@ -716,7 +716,7 @@ Held the day after the technical OA for shortlisted candidates.
 
 The communication round has 2 sections, verbal and written. In the verbal section you read some sentences carefully from the screen, listen to some sentences and repeat them aloud properly, and speak on a given topic for 1-2 minutes.
 
-<sub>Topics: Verbal, OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L77)</sub>
+<sub>Topics: Verbal, OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L77) · Also asked at: IIT BHU (2026-10-31)</sub>
 
 ## 2026-10-26 · IIT BHU · FTE · Elite Technology Engineer · Other round
 
@@ -2614,7 +2614,7 @@ Accenture Elite Technology role OA:
 
 Shortlisting is usually given for solving 2 out of 3.
 
-<sub>Topics: OA Format · Source: [chat, 11 Oct](../archive/accenture-oa/2026-10.jsonl#L980)</sub>
+<sub>Topics: OA Format · Source: [chat, 11 Oct](../archive/accenture-oa/2026-10.jsonl#L980) · Also asked at: IIT BHU (2026-10-30)</sub>
 
 ## 2026-10-10 · VIT Vellore · FTE
 

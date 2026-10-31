@@ -1,9 +1,11 @@
 # Trees
 
-51 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+53 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [DP on trees question](../companies/eternal-zomato.md#q4-dp-on-trees-question) | |
+| 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT Delhi | [Number of unique subtrees](../companies/plutus-research.md#q1-number-of-unique-subtrees) | ≈ [LC 652](https://leetcode.com/problems/find-duplicate-subtrees/) Medium |
 | 2026-10-28 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [Kth ancestor of a tree node](../companies/cognizant.md#q1-kth-ancestor-of-a-tree-node) | [LC 1483](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) Hard |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Count paths that can form a palindrome in a tree](../companies/qicap.md#q3-count-paths-that-can-form-a-palindrome-in-a-tree) | [LC 2791](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) Hard |
 | 2026-10-28 | [Plutus Research](../companies/plutus-research.md) | IIT Guwahati | [Minimum splits of tree so no component product divisible by 6](../companies/plutus-research.md#q2-minimum-splits-of-tree-so-no-component-product-divisible-by-6) | |

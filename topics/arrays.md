@@ -1,9 +1,16 @@
 # Arrays
 
-159 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+166 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [2048 Grid Simulation and Score Tracker](../companies/mastercard.md#q4-2048-grid-simulation-and-score-tracker) | ≈ [LC 2048](https://leetcode.com/problems/next-greater-numerically-balanced-number/) Medium |
+| 2026-10-31 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [People who can win after the final race](../companies/commonwealth-bank-of-australia.md#q2-people-who-can-win-after-the-final-race) | |
+| 2026-10-30 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [Path sum in grid preferring downward moves](../companies/commonwealth-bank-of-australia.md#q4-path-sum-in-grid-preferring-downward-moves) | ≈ [LC 64](https://leetcode.com/problems/minimum-path-sum/) Medium |
+| 2026-10-30 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Maximum product subarray](../companies/commonwealth-bank-of-australia.md#q1-maximum-product-subarray) | [LC 152](https://leetcode.com/problems/maximum-product-subarray/) Medium |
+| 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Most negative balance from transactions](../companies/eternal-zomato.md#q1-most-negative-balance-from-transactions) | ≈ [LC 2307](https://leetcode.com/problems/check-for-contradictions-in-equations/) Hard |
+| 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT Delhi | [Max reward by equalizing ranges](../companies/plutus-research.md#q2-max-reward-by-equalizing-ranges) | ≈ [LC 1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) Medium |
+| 2026-10-30 | [Capital One](../companies/capital-one.md) | IIT Bombay | [Longest continuous subarray with absolute diff within limit (output max subarray sum)](../companies/capital-one.md#q2-longest-continuous-subarray-with-absolute-diff-within-limit-output-max-subarray-sum) | [LC 1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) Medium |
 | 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Smallest subarray containing min and max](../companies/paytm.md#q4-smallest-subarray-containing-min-and-max) | ≈ [LC 2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) Hard |
 | 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Merge overlapping intervals](../companies/paytm.md#q3-merge-overlapping-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
 | 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Minimum cars to remove for bridge crossing](../companies/deutsche-bank.md#q2-minimum-cars-to-remove-for-bridge-crossing) | ≈ [LC 881](https://leetcode.com/problems/boats-to-save-people/) Medium |

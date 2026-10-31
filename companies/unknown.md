@@ -1,13 +1,15 @@
 # Unknown
 
-**14 questions** · 10 drives · latest 29 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 11 drives · latest 30 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Math](../topics/math.md) 2 · [Arrays](../topics/arrays.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Graphs](../topics/graphs.md) 1 · +7 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Math](../topics/math.md) 2 · [Arrays](../topics/arrays.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Graphs](../topics/graphs.md) 1 · +7 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee, NIT Trichy
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
+  - [OA pattern: aptitude, SQL, then coding](#q1-oa-pattern-aptitude-sql-then-coding)
 - [2026-10-29 · Unknown · FTE · SDE](#2026-10-29--unknown--fte--sde)
   - [Paytm SDE OA format](#q1-paytm-sde-oa-format)
 - [2026-10-29 · IIT Guwahati · FTE · AI Engineering](#2026-10-29--iit-guwahati--fte--ai-engineering)
@@ -36,6 +38,16 @@
 </details>
 
 ---
+
+## 2026-10-30 · IIT Guwahati · FTE
+
+### Q1. OA pattern: aptitude, SQL, then coding
+
+Easy aptitude section (LR, DI), some SQL questions, and then in the next round some coding questions.
+
+(Company name and the actual questions were not given.)
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L271)</sub>
 
 ## 2026-10-29 · Unknown · FTE · SDE
 

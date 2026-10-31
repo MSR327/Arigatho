@@ -251,3 +251,4 @@
 {"id": 15962, "group": "inmobi-oa", "sent_at": "2026-10-29T15:28:37.117256+00:00", "text": "no", "author_tag": "IITG", "reply_to": {"id": 15716, "text": "was shortlist released in IITG?", "author_tag": "IITR"}, "attachment": null, "deleted": false}
 {"id": 16336, "group": "inmobi-oa", "sent_at": "2026-10-30T06:37:53.587054+00:00", "text": "how many rounds of interviews ?", "author_tag": "IITK", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 16385, "group": "inmobi-oa", "sent_at": "2026-10-30T08:24:59.701908+00:00", "text": "applied scientist questions ?", "author_tag": "IITM", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 16520, "group": "inmobi-oa", "sent_at": "2026-10-30T11:23:42.292511+00:00", "text": "25 mcq and one 1dsa question", "author_tag": "IIIT", "reply_to": {"id": 16385, "text": "applied scientist questions ?", "author_tag": "IITM"}, "attachment": null, "deleted": false}

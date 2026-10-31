@@ -1,15 +1,19 @@
 # Tredence
 
-**44 questions** · 13 drives · latest 30 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**46 questions** · 15 drives · latest 30 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [OA Format](../topics/oa-format.md) 8 · [Aptitude](../topics/aptitude.md) 6 · [SQL](../topics/sql.md) 5 · [Arrays](../topics/arrays.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +10 more  
-**Seen at:** IIIT Hyderabad, IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad, VIT Vellore, VNIT Nagpur
+**Asks about:** [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [OA Format](../topics/oa-format.md) 10 · [Aptitude](../topics/aptitude.md) 6 · [SQL](../topics/sql.md) 5 · [Arrays](../topics/arrays.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +10 more  
+**Seen at:** IIIT Hyderabad, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, VIT Vellore, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
+  - [Tredence communication round format](#q1-tredence-communication-round-format)
 - [2026-10-30 · IIT Dhanbad · FTE](#2026-10-30--iit-dhanbad--fte)
   - [Tredence AI-based communication round](#q1-tredence-ai-based-communication-round)
+- [2026-10-30 · IIIT Hyderabad · FTE](#2026-10-30--iiit-hyderabad--fte)
+  - [Tredence communication round format](#q1-tredence-communication-round-format-1)
 - [2026-10-29 · IIT Hyderabad · FTE · Other round](#2026-10-29--iit-hyderabad--fte--other-round)
   - [Tredence communication round contents](#q1-tredence-communication-round-contents)
 - [2026-10-29 · IIIT Hyderabad · FTE](#2026-10-29--iiit-hyderabad--fte)
@@ -42,7 +46,7 @@
   - [Tredence OA pattern: DSA, SQL, MCQ](#q5-tredence-oa-pattern-dsa-sql-mcq)
   - [Python data cleaning and dataset summary function](#q6-python-data-cleaning-and-dataset-summary-function)
 - [2026-10-28 · IIT Hyderabad · FTE · Other round](#2026-10-28--iit-hyderabad--fte--other-round)
-  - [Tredence communication round format](#q1-tredence-communication-round-format)
+  - [Tredence communication round format](#q1-tredence-communication-round-format-2)
 - [2026-10-23 · IIT Dhanbad · FTE · Associate Data Scientist](#2026-10-23--iit-dhanbad--fte--associate-data-scientist)
   - [BFS minimum distance from start to destination node](#q1-bfs-minimum-distance-from-start-to-destination-node)
   - [SQL: high speed trains](#q2-sql-high-speed-trains)
@@ -70,6 +74,14 @@
 
 ---
 
+## 2026-10-30 · IIT Guwahati · FTE
+
+### Q1. Tredence communication round format
+
+Communication round: a SVAR test, followed by some behavioural MCQs and 1 minute of speaking. The poster described it as "pretty chill". Specific questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L2941)</sub>
+
 ## 2026-10-30 · IIT Dhanbad · FTE
 
 ### Q1. Tredence AI-based communication round
@@ -79,6 +91,16 @@ The communication round is an AI-based (SpeechX) test. The AI speaks a paragraph
 The exact questions were not shared.
 
 <sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1227), [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1228)</sub>
+
+## 2026-10-30 · IIIT Hyderabad · FTE
+
+### Q1. Tredence communication round format
+
+The communication round contains 4 sections. There is no camera. ChatGPT can be used for sections 3 and 4. For sections 1 and 2 you need to listen to the questions carefully.
+
+The poster did not say what the individual sections contained.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-nit-raipur-placements/2026-10.jsonl#L52)</sub>
 
 ## 2026-10-29 · IIT Hyderabad · FTE · Other round
 

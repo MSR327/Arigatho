@@ -1,6 +1,6 @@
 # InfoEdge
 
-**26 questions** · 7 drives · latest 29 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**26 questions** · 7 drives · latest 30 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · [OOP](../topics/oop.md) 2 · [Binary Search](../topics/binary-search.md) 1 · +4 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Patna
@@ -82,7 +82,7 @@ MCQs based on ML, DL, aptitude, data interpretation, and coding.
 
 Total time 1 hour. 40 MCQs divided into 4 sections of 10 questions each; candidates got different sets. Topics: Linear Algebra, ML, DL and Programming. Easy to medium difficulty, some theoretical and conceptual.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L141), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L142) · Also asked at: IIT Hyderabad (2026-10-25), IIT Guwahati ×2 (last 2026-10-26)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L141), [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L142) · Also asked at: IIT Guwahati ×2 (last 2026-10-26), IIT Hyderabad ×2 (last 2026-10-30)</sub>
 
 ## 2026-10-22 · IIT Roorkee · FTE
 

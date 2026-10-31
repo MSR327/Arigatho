@@ -1,8 +1,8 @@
 # ThoughtSpot
 
-**5 questions** · 4 drives · latest 30 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 5 drives · latest 30 Oct 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 3 · [DP](../topics/dp.md) 2 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1  
+**Asks about:** [Math](../topics/math.md) 3 · [DP](../topics/dp.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [OA Format](../topics/oa-format.md) 1  
 **Seen at:** IIT BHU, IIT Guwahati
 
 <details>
@@ -10,6 +10,8 @@
 
 - [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
   - [Coupled recurrence relations F, G, H](#q1-coupled-recurrence-relations-f-g-h)
+- [2026-10-30 · IIT BHU · FTE](#2026-10-30--iit-bhu--fte)
+  - [N-Queens](#q1-n-queens)
 - [2026-10-27 · IIT Guwahati · FTE](#2026-10-27--iit-guwahati--fte)
   - [Nth number with digit sum x](#q1-nth-number-with-digit-sum-x)
   - [Count permutations where Alice wins chocolate trays game](#q2-count-permutations-where-alice-wins-chocolate-trays-game)
@@ -43,6 +45,14 @@ Output: print F(n) modulo 1,000,000,007.
 Constraints: 0 ≤ n ≤ 10^9. The constraints on the coefficients and initial values are as specified in the original problem (not given).
 
 <sub>Topics: Math, DP · Same idea: [LeetCode 1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) (Easy), linear recurrence, solvable by matrix exponentiation · Source: [Thoughtspot_IIT_Guwahati_Problem_Statements.pdf](../archive/files/16264-Thoughtspot_IIT_Guwahati_Problem_Statements.pdf)</sub>
+
+## 2026-10-30 · IIT BHU · FTE
+
+### Q1. N-Queens
+
+The poster only said the ThoughtSpot OA at IIT BHU had the N-Queens question. Full statement not given.
+
+<sub>Topics: Recursion/Backtracking · Similar: [LeetCode 51. N-Queens](https://leetcode.com/problems/n-queens/) (Hard) · Source: [chat, 30 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L666)</sub>
 
 ## 2026-10-27 · IIT Guwahati · FTE
 

@@ -320,7 +320,7 @@ Texas Instruments OA for the digital/analog role: MCQs on op-amps, aptitude ques
 
 Simple OA. CS MCQs on C programming, microprocessors and COA. One very easy coding question, only in C language.
 
-<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L25) · Also asked at: IIIT Hyderabad (2026-10-29)</sub>
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L25) · Also asked at: IIIT Hyderabad (2026-10-29), IIT BHU (2026-10-30)</sub>
 
 ## 2026-10-08 · IIT Hyderabad · FTE
 

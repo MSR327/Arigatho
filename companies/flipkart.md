@@ -1,13 +1,15 @@
 # Flipkart
 
-**22 questions** · 10 drives · latest 29 Oct 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**23 questions** · 11 drives · latest 30 Oct 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Strings](../topics/strings.md) 3 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 2 · [SQL](../topics/sql.md) 2 · +4 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Kanpur, MNNIT Allahabad
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Strings](../topics/strings.md) 3 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 2 · [SQL](../topics/sql.md) 2 · +4 more  
+**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · IIT Kharagpur/Kanpur · FTE · Data Scientist](#2026-10-30--iit-kharagpurkanpur--fte--data-scientist)
+  - [Flipkart Data Scientist OA format](#q1-flipkart-data-scientist-oa-format)
 - [2026-10-28 · IIT Kanpur · FTE · AI Engineer](#2026-10-28--iit-kanpur--fte--ai-engineer)
   - [Flipkart AI engineer OA pattern](#q1-flipkart-ai-engineer-oa-pattern)
 - [2026-10-28 · IIT BHU · FTE · AI Engineer](#2026-10-28--iit-bhu--fte--ai-engineer)
@@ -44,6 +46,14 @@
 </details>
 
 ---
+
+## 2026-10-30 · IIT Kharagpur/Kanpur · FTE · Data Scientist
+
+### Q1. Flipkart Data Scientist OA format
+
+Format: 3 coding questions, 90 minutes. Allowed languages: Java, C, C++, GoLang.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/flipkart-oa/2026-10.jsonl#L6), [chat, 30 Oct](../archive/flipkart-oa/2026-10.jsonl#L7)</sub>
 
 ## 2026-10-28 · IIT Kanpur · FTE · AI Engineer
 

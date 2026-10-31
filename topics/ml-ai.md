@@ -1,9 +1,15 @@
 # ML/AI
 
-67 questions from 17 companys, newest first. [← all topics](../README.md#topics)
+84 questions from 17 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [Train a CNN on given data](../companies/american-express.md#q9-train-a-cnn-on-given-data) |
+| 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [LangGraph severity-classification agent class](../companies/american-express.md#q8-langgraph-severity-classification-agent-class) |
+| 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [Train CNN layers on given data](../companies/american-express.md#q5-train-cnn-layers-on-given-data) |
+| 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [Complete LangGraph severity-triage agent class](../companies/american-express.md#q4-complete-langgraph-severity-triage-agent-class) |
+| 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [State graph of an LLM with LangGraph](../companies/american-express.md#q3-state-graph-of-an-llm-with-langgraph) |
+| 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [Implement a CNN](../companies/american-express.md#q1-implement-a-cnn) |
 | 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [MCP / AI / LLM / prompt engineering MCQs](../companies/blackrock.md#q5-mcp--ai--llm--prompt-engineering-mcqs) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Simple MLP with linear activation](../companies/tredence.md#q17-simple-mlp-with-linear-activation) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Output layer config for 3-class classification](../companies/tredence.md#q13-output-layer-config-for-3-class-classification) |
@@ -71,3 +77,14 @@
 | 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [Inappropriate statement about generative AI](../companies/accenture.md#q18-inappropriate-statement-about-generative-ai) |
 | 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [AI alignment](../companies/accenture.md#q17-ai-alignment) |
 | 2025-10-03 | [Accenture](../companies/accenture.md) | IIT Delhi | [Prompt injection](../companies/accenture.md#q10-prompt-injection) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Loss functions used for classification](../companies/commonwealth-bank-of-australia.md#q22-loss-functions-used-for-classification) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [True statements about neural networks](../companies/commonwealth-bank-of-australia.md#q20-true-statements-about-neural-networks) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Unbiased prediction model definition](../companies/commonwealth-bank-of-australia.md#q19-unbiased-prediction-model-definition) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Method not used to measure trend in time series](../companies/commonwealth-bank-of-australia.md#q17-method-not-used-to-measure-trend-in-time-series) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Uses of decision trees](../companies/commonwealth-bank-of-australia.md#q15-uses-of-decision-trees) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Role of the discriminator in a GAN](../companies/commonwealth-bank-of-australia.md#q14-role-of-the-discriminator-in-a-gan) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Generative model with generator and discriminator](../companies/commonwealth-bank-of-australia.md#q13-generative-model-with-generator-and-discriminator) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Critical region for hypothesis test on normal sample](../companies/commonwealth-bank-of-australia.md#q12-critical-region-for-hypothesis-test-on-normal-sample) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Method to train generative models by maximizing probability of data](../companies/commonwealth-bank-of-australia.md#q10-method-to-train-generative-models-by-maximizing-probability-of-data) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Disadvantage of coordinate descent](../companies/commonwealth-bank-of-australia.md#q9-disadvantage-of-coordinate-descent) |
+| 2024-10-26 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Difference of population variance estimates (Mold Bread experiment)](../companies/commonwealth-bank-of-australia.md#q8-difference-of-population-variance-estimates-mold-bread-experiment) |

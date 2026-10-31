@@ -1,6 +1,6 @@
 # InMobi
 
-**39 questions** · 21 drives · latest 28 Oct 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**39 questions** · 21 drives · latest 30 Oct 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 13 · [Graphs](../topics/graphs.md) 11 · [DP](../topics/dp.md) 10 · [OA Format](../topics/oa-format.md) 7 · [Binary Search](../topics/binary-search.md) 6 · [Strings](../topics/strings.md) 6 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Greedy](../topics/greedy.md) 2 · +8 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Mandi +2 more
@@ -79,7 +79,7 @@
 
 The InMobi OA for Applied Scientist differs from the SDE one: it had 25 MCQs and 1 DSA question.
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/inmobi-oa/2026-10.jsonl#L50)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/inmobi-oa/2026-10.jsonl#L50) · Also asked at: Unknown (2026-10-30)</sub>
 
 ## 2026-10-24 · IIT Kharagpur/Kanpur · FTE
 

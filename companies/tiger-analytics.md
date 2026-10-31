@@ -1,21 +1,36 @@
 # Tiger Analytics
 
-**2 questions** · 2 drives · latest 28 Oct 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2  
+**Asks about:** [OA Format](../topics/oa-format.md) 3  
 **Seen at:** IIT BHU
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte)
+- [2026-10-31 · IIT BHU · FTE](#2026-10-31--iit-bhu--fte)
   - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern)
-- [2026-10-27 · Unknown · FTE · Trainee Analyst](#2026-10-27--unknown--fte--trainee-analyst)
+- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte)
   - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern-1)
+- [2026-10-27 · Unknown · FTE · Trainee Analyst](#2026-10-27--unknown--fte--trainee-analyst)
+  - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern-2)
 
 </details>
 
 ---
+
+## 2026-10-31 · IIT BHU · FTE
+
+### Q1. Tiger Analytics OA pattern
+
+Pattern:
+- 5 aptitude sections (easy)
+- 4 coding sections: 2 DSA, 1 SQL, 1 NumPy/Pandas
+- Except one DSA question (easy-medium), all were easy.
+
+Individual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3048)</sub>
 
 ## 2026-10-28 · IIT BHU · FTE
 

@@ -3,7 +3,7 @@
 **21 questions** · 7 drives · latest 30 Oct 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 5 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · [Greedy](../topics/greedy.md) 2 · +10 more  
-**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU
+**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -117,7 +117,7 @@ Paytm OA for the software role consisted of:
 
 The actual questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L113) · Also asked at: IIT BHU (2026-10-29), Unknown (2026-10-30)</sub>
+<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L113) · Also asked at: IIT BHU (2026-10-29), Unknown (2026-10-30), MNNIT Allahabad (2026-10-30)</sub>
 
 ## 2026-09-21 · Unknown · Unknown · Other round
 

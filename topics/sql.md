@@ -1,15 +1,17 @@
 # SQL
 
-87 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+89 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Medicines expiring after 18 May 2018 from large hospitals](../companies/mastercard.md#q2-medicines-expiring-after-18-may-2018-from-large-hospitals) | ≈ [LC 1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) Easy |
+| 2026-10-30 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Easy SQL query using AVG](../companies/commonwealth-bank-of-australia.md#q2-easy-sql-query-using-avg) | ≈ [HackerRank](https://www.hackerrank.com/challenges/average-population/problem) Easy |
 | 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Long SQL problem statement](../companies/blackrock.md#q2-long-sql-problem-statement) | |
 | 2026-10-29 | [Mastercard](../companies/mastercard.md) | IIT Guwahati | [Mastercard product role OA pattern](../companies/mastercard.md#q1-mastercard-product-role-oa-pattern) | |
 | 2026-10-29 | [Paytm](../companies/paytm.md) | Unknown | [Paytm SQL question on multiple joins](../companies/paytm.md#q1-paytm-sql-question-on-multiple-joins) | |
 | 2026-10-28 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [SQL: all reportees of Candice with level](../companies/tredence.md#q2-sql-all-reportees-of-candice-with-level) | |
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Indore | [SQL: Passenger details and travel lead days](../companies/accenture.md#q3-sql-passenger-details-and-travel-lead-days) | ≈ [LC 197](https://leetcode.com/problems/rising-temperature/) Easy |
-| 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-1) | |
+| 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-2) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [SQL: employee with third least salary](../companies/deloitte.md#q9-sql-employee-with-third-least-salary) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [SQL: add NOT NULL constraint to hsize column](../companies/deloitte.md#q5-sql-add-not-null-constraint-to-hsize-column) | |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [SQL query using date functions (Data Engineer)](../companies/american-express.md#q1-sql-query-using-date-functions-data-engineer) | |

@@ -1,9 +1,15 @@
 # DP
 
-93 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+99 questions from 34 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [DP on trees question](../companies/eternal-zomato.md#q4-dp-on-trees-question) | |
+| 2026-10-30 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Maximum product subarray](../companies/commonwealth-bank-of-australia.md#q1-maximum-product-subarray) | [LC 152](https://leetcode.com/problems/maximum-product-subarray/) Medium |
+| 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Eternal SDE OA: topics of 3 coding questions](../companies/eternal-zomato.md#q1-eternal-sde-oa-topics-of-3-coding-questions) | |
+| 2026-10-30 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [Partition string minimum cost (alphabet variant)](../companies/cognizant.md#q1-partition-string-minimum-cost-alphabet-variant) | ≈ [LC 2767](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/) Medium |
+| 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT Delhi | [Remaining OA questions](../companies/plutus-research.md#q3-remaining-oa-questions) | |
+| 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT Delhi | [Max reward by equalizing ranges](../companies/plutus-research.md#q2-max-reward-by-equalizing-ranges) | ≈ [LC 1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) Medium |
 | 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Maximum even subsequence in an array](../companies/paytm.md#q1-maximum-even-subsequence-in-an-array) | |
 | 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Count anagrams without identical adjacent characters](../companies/deutsche-bank.md#q3-count-anagrams-without-identical-adjacent-characters) | ≈ [LC 47](https://leetcode.com/problems/permutations-ii/) Medium |
 | 2026-10-30 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Guwahati | [Coupled recurrence relations F, G, H](../companies/thoughtspot.md#q1-coupled-recurrence-relations-f-g-h) | ≈ [LC 1137](https://leetcode.com/problems/n-th-tribonacci-number/) Easy |

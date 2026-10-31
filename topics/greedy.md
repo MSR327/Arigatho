@@ -1,9 +1,10 @@
 # Greedy
 
-60 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+61 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-31 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [People who can win after the final race](../companies/commonwealth-bank-of-australia.md#q2-people-who-can-win-after-the-final-race) | |
 | 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Minimum cost to make two strings equal](../companies/paytm.md#q2-minimum-cost-to-make-two-strings-equal) | ≈ [LC 712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) Medium |
 | 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Maximum even subsequence in an array](../companies/paytm.md#q1-maximum-even-subsequence-in-an-array) | |
 | 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Minimum cars to remove for bridge crossing](../companies/deutsche-bank.md#q2-minimum-cars-to-remove-for-bridge-crossing) | ≈ [LC 881](https://leetcode.com/problems/boats-to-save-people/) Medium |

@@ -1,9 +1,9 @@
 # Deutsche Bank
 
-**17 questions** · 8 drives · latest 30 Oct 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**17 questions** · 8 drives · latest 31 Oct 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Strings](../topics/strings.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · [Sorting](../topics/sorting.md) 2 · [OA Format](../topics/oa-format.md) 2 · +5 more  
-**Seen at:** IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -49,7 +49,7 @@ Input: [2,5,9,9,12,12,12,15]
 Output: (15+12+11+10+9+8+5+2)
 ```
 
-<sub>Topics: Greedy, Sorting, Arrays · Same problem: [LeetCode 3301. Maximize the Total Height of Unique Towers](https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/) (Medium), sort descending, greedily assign unique max heights · Source: [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L505) · Also asked at: IIT Guwahati (2026-10-30)</sub>
+<sub>Topics: Greedy, Sorting, Arrays · Same problem: [LeetCode 3301. Maximize the Total Height of Unique Towers](https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/) (Medium), sort descending, greedily assign unique max heights · Source: [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L505) · Also asked at: IIT Guwahati ×2 (last 2026-10-31)</sub>
 
 ### Q2. Minimum cars to remove for bridge crossing
 
@@ -142,7 +142,7 @@ A "frog jump 2" type question. Exact statement not given.
 
 Deutsche Bank OA (IIT Kharagpur) had 3 DSA questions: 1 tough and 2 easy-to-medium.
 
-<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508) · Also asked at: IIT Guwahati ×2 (last 2026-10-29), Unknown (2026-10-29)</sub>
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508) · Also asked at: IIT Guwahati ×2 (last 2026-10-29), IIT BHU (2026-10-30), Unknown ×2 (last 2026-10-31)</sub>
 
 ## 2026-10-16 · IIT Kanpur · FTE
 

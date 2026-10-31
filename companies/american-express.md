@@ -1,13 +1,35 @@
 # American Express
 
-**54 questions** · 32 drives · latest 30 Oct 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**70 questions** · 38 drives · latest 31 Oct 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 31 · [ML/AI](../topics/ml-ai.md) 8 · [Hashing](../topics/hashing.md) 6 · [Strings](../topics/strings.md) 5 · [Sliding Window](../topics/sliding-window.md) 5 · [Trees](../topics/trees.md) 5 · [Graphs](../topics/graphs.md) 5 · [Aptitude](../topics/aptitude.md) 3 · +9 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 38 · [ML/AI](../topics/ml-ai.md) 14 · [Hashing](../topics/hashing.md) 6 · [Strings](../topics/strings.md) 5 · [Sliding Window](../topics/sliding-window.md) 5 · [Trees](../topics/trees.md) 5 · [Graphs](../topics/graphs.md) 5 · [Other](../topics/other.md) 4 · +9 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Mandi, IIT Roorkee +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-31 · IIT Guwahati · FTE · AI Engineer / Data Science](#2026-10-31--iit-guwahati--fte--ai-engineer--data-science)
+  - [Amex AI Engineer and DS OA pattern](#q1-amex-ai-engineer-and-ds-oa-pattern)
+- [2026-10-30 · IIT Roorkee · FTE · Data Science and Analytics](#2026-10-30--iit-roorkee--fte--data-science-and-analytics)
+  - [Amex Data Science & Analytics OA pattern](#q1-amex-data-science--analytics-oa-pattern)
+- [2026-10-30 · IIT Roorkee · FTE · Data Science & Analytics](#2026-10-30--iit-roorkee--fte--data-science--analytics)
+  - [Amex Data Science & Analytics OA pattern](#q1-amex-data-science--analytics-oa-pattern-1)
+- [2026-10-30 · IIT Guwahati · FTE · AI Engineer](#2026-10-30--iit-guwahati--fte--ai-engineer)
+  - [Implement a CNN](#q1-implement-a-cnn)
+  - [Question using Clojure](#q2-question-using-clojure)
+  - [State graph of an LLM with LangGraph](#q3-state-graph-of-an-llm-with-langgraph)
+  - [Complete LangGraph severity-triage agent class](#q4-complete-langgraph-severity-triage-agent-class)
+  - [Train CNN layers on given data](#q5-train-cnn-layers-on-given-data)
+  - [Implement something in Clojure (Java 21)](#q6-implement-something-in-clojure-java-21)
+  - [OA format: AI Engineer](#q7-oa-format-ai-engineer)
+  - [LangGraph severity-classification agent class](#q8-langgraph-severity-classification-agent-class)
+  - [Train a CNN on given data](#q9-train-a-cnn-on-given-data)
+  - [Implement something in Clojure](#q10-implement-something-in-clojure)
+  - [Amex AI Engineer OA format](#q11-amex-ai-engineer-oa-format)
+- [2026-10-30 · IIT Guwahati · FTE · Data Science and Analytics](#2026-10-30--iit-guwahati--fte--data-science-and-analytics)
+  - [Amex DS role OA structure](#q1-amex-ds-role-oa-structure)
+- [2026-10-30 · IIT Delhi · FTE · AI Engineer](#2026-10-30--iit-delhi--fte--ai-engineer)
+  - [Amex AI Engineer OA contents](#q1-amex-ai-engineer-oa-contents)
 - [2026-10-29 · MNNIT Allahabad · FTE · Analyst / AI Engineer](#2026-10-29--mnnit-allahabad--fte--analyst--ai-engineer)
   - [Amex analyst and AI engineer OA format](#q1-amex-analyst-and-ai-engineer-oa-format)
 - [2026-10-29 · IIT Roorkee · FTE · AI Engineering](#2026-10-29--iit-roorkee--fte--ai-engineering)
@@ -98,6 +120,131 @@
 </details>
 
 ---
+
+## 2026-10-31 · IIT Guwahati · FTE · AI Engineer / Data Science
+
+### Q1. Amex AI Engineer and DS OA pattern
+
+AI Engineering role: 3 questions in 90 min.
+Data Science role: aptitude, SQL, Python; 45 MCQs in 60 min.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1285)</sub>
+
+## 2026-10-30 · IIT Roorkee · FTE · Data Science and Analytics
+
+### Q1. Amex Data Science & Analytics OA pattern
+
+LR/DI/Abstract Reasoning + Numerical Ability and Stats + Coding (ML/Python/SQL), asked in 2 sections. Camera proctoring was on. No AI Research role was mentioned.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/inter-iit/2026-10.jsonl#L1275), [chat, 30 Oct](../archive/inter-iit/2026-10.jsonl#L1276), [chat, 30 Oct](../archive/inter-iit/2026-10.jsonl#L1283)</sub>
+
+## 2026-10-30 · IIT Roorkee · FTE · Data Science & Analytics
+
+### Q1. Amex Data Science & Analytics OA pattern
+
+OA pattern:
+- 17 questions of logical reasoning
+- 17 questions of numerical ability
+- 12 questions of data science
+
+Individual questions were not shared in this message.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L3026)</sub>
+
+## 2026-10-30 · IIT Guwahati · FTE · AI Engineer
+
+### Q1. Implement a CNN
+
+Implement a CNN (one of the 3 coding questions in the AI Engineering OA; no MCQs, an AI assistant was given for syntax). Exact statement was not shared.
+
+<sub>Topics: ML/AI · Source: [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L514), [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L516)</sub>
+
+### Q2. Question using Clojure
+
+One question had to be solved using Clojure. Exact statement was not shared.
+
+<sub>Topics: Other · Source: [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L514), [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L516)</sub>
+
+### Q3. State graph of an LLM with LangGraph
+
+Make a state graph of an LLM using LangGraph and Python. Exact statement was not shared.
+
+<sub>Topics: ML/AI · Source: [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L514), [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L516)</sub>
+
+### Q4. Complete LangGraph severity-triage agent class
+
+Complete a Python + LangGraph built class that defines the behaviour of an agent:
+
+- Take input and ask an LLM for its severity.
+- Based on the LLM output, classify as severe or not severe.
+- If severe, leave it free and report a summary.
+- If not severe, do more steps: call tools, which are determined using another LLM call.
+- Log all agent actions.
+
+Requires knowledge of LangChain, LangGraph and basic OOP in Python. Only a chatbot (with guardrails, gives guidance but not solutions) was allowed for this question.
+
+<sub>Topics: ML/AI, OOP · Source: [chat, 30 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L293)</sub>
+
+### Q5. Train CNN layers on given data
+
+Train a model using the given data with some layers of a CNN. No AI or chatbot help allowed. Exact details were not shared.
+
+<sub>Topics: ML/AI · Source: [chat, 30 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L293)</sub>
+
+### Q6. Implement something in Clojure (Java 21)
+
+Implement something in Clojure (Java 21). The poster could not read the question due to shortage of time, so the statement is missing.
+
+<sub>Topics: Other · Source: [chat, 30 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L293)</sub>
+
+### Q7. OA format: AI Engineer
+
+3 development questions, 90 minutes. Languages allowed: Python (LangGraph), Clojure (Java 21) and some CNN-related tech stack. Chatbot available only for Q1; no AI help for Q2 and Q3.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L293)</sub>
+
+### Q8. LangGraph severity-classification agent class
+
+Complete a class built with LangGraph + Python that performs some actions: take inputs, give them to an LLM to ask for severity, and classify as severe or not severe based on the LLM output. If severe, leave free and report a summary. If not, do more steps, calling tools which must be determined by another LLM call. Also log all agent actions. Requires good knowledge of LangChain and LangGraph along with basic OOP in Python. Only a chatbot (with many guardrails, giving guidance but not solutions) was available for this question.
+
+<sub>Topics: ML/AI, OOP · Source: [chat, 30 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L239)</sub>
+
+### Q9. Train a CNN on given data
+
+Train a model using some data with some layers of CNN. No AI or bot help was allowed.
+
+<sub>Topics: ML/AI · Source: [chat, 30 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L239)</sub>
+
+### Q10. Implement something in Clojure
+
+Implement something in Clojure (Java 21). The poster could not read the question due to shortage of time, so the statement is missing.
+
+<sub>Topics: Other · Source: [chat, 30 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L239)</sub>
+
+### Q11. Amex AI Engineer OA format
+
+3 development questions, 90 minutes. Languages allowed: Python (LangGraph), Clojure (Java 21) and some CNN related tech stack.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L239)</sub>
+
+## 2026-10-30 · IIT Guwahati · FTE · Data Science and Analytics
+
+### Q1. Amex DS role OA structure
+
+No coding questions, only MCQs. 3 sections:
+1. Aptitude
+2. Numerical calculations
+3. Prompt-related and Python-based MCQs (around 2 Python-based MCQs in the last section)
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L521)</sub>
+
+## 2026-10-30 · IIT Delhi · FTE · AI Engineer
+
+### Q1. Amex AI Engineer OA contents
+
+Prompt engineering questions, and MCQs with mean, mode, median asked.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L244)</sub>
 
 ## 2026-10-29 · MNNIT Allahabad · FTE · Analyst / AI Engineer
 

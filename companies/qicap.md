@@ -1,13 +1,15 @@
 # QiCap
 
-**8 questions** · 3 drives · latest 29 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 4 drives · latest 30 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Bit Manipulation](../topics/bit-manipulation.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 1 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Hashing](../topics/hashing.md) 1 · +2 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Kharagpur
+**Asks about:** [Bit Manipulation](../topics/bit-manipulation.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 1 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Hashing](../topics/hashing.md) 1 · +3 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Kharagpur, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-30 · MNNIT Allahabad · FTE](#2026-10-30--mnnit-allahabad--fte)
+  - [QiCap OA pattern](#q1-qicap-oa-pattern)
 - [2026-10-29 · IIT Kharagpur · FTE](#2026-10-29--iit-kharagpur--fte)
   - [Infection spread with interactions and vaccination](#q1-infection-spread-with-interactions-and-vaccination)
 - [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte)
@@ -23,6 +25,14 @@
 </details>
 
 ---
+
+## 2026-10-30 · MNNIT Allahabad · FTE
+
+### Q1. QiCap OA pattern
+
+3 hard DSA questions and MCQs on behavioural, probability and statistics.
+
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L434)</sub>
 
 ## 2026-10-29 · IIT Kharagpur · FTE
 

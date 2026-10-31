@@ -1,15 +1,19 @@
 # Plutus Research
 
-**9 questions** · 4 drives · latest 30 Oct 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**12 questions** · 5 drives · latest 30 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Greedy](../topics/greedy.md) 2 · [Graphs](../topics/graphs.md) 1 · [Trees](../topics/trees.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Puzzles](../topics/puzzles.md) 1 · +2 more  
-**Seen at:** IIT BHU, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur
+**Asks about:** [OA Format](../topics/oa-format.md) 4 · [DP](../topics/dp.md) 3 · [Trees](../topics/trees.md) 2 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Arrays](../topics/arrays.md) 2 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +3 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-10-30 · IIT Kharagpur/Kanpur · FTE](#2026-10-30--iit-kharagpurkanpur--fte)
   - [Plutus OA language allowed](#q1-plutus-oa-language-allowed)
+- [2026-10-30 · IIT Delhi · FTE](#2026-10-30--iit-delhi--fte)
+  - [Number of unique subtrees](#q1-number-of-unique-subtrees)
+  - [Max reward by equalizing ranges](#q2-max-reward-by-equalizing-ranges)
+  - [Remaining OA questions](#q3-remaining-oa-questions)
 - [2026-10-30 · IIT BHU · FTE](#2026-10-30--iit-bhu--fte)
   - [Plutus OA language restriction](#q1-plutus-oa-language-restriction)
 - [2026-10-28 · IIT Kharagpur · FTE](#2026-10-28--iit-kharagpur--fte)
@@ -33,6 +37,28 @@
 Only C++ was allowed in the Plutus OA (Python was not).
 
 <sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L2925)</sub>
+
+## 2026-10-30 · IIT Delhi · FTE
+
+### Q1. Number of unique subtrees
+
+A tree is given, and nodes have values (root is node number 1). Find the number of unique subtrees.
+
+<sub>Topics: Trees, Hashing · Same idea: [LeetCode 652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) (Medium), serialize subtrees to identify unique ones · Source: [chat, 30 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L296)</sub>
+
+### Q2. Max reward by equalizing ranges
+
+Given an array of numbers. You can make the numbers from index i to j all equal if (max - min) in that range is <= some given k. The reward is the sum of elements in that range. Elements can be negative. Find the maximum reward you can get.
+
+Exact constraints and examples were not shared.
+
+<sub>Topics: Arrays, DP · Same idea: [LeetCode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) (Medium), window with max-min bounded by k · Source: [chat, 30 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L296)</sub>
+
+### Q3. Remaining OA questions
+
+3 more questions: 2 fairly simple string manipulation questions and 1 simple knapsack LeetCode-style question. No details given.
+
+<sub>Topics: OA Format, Strings, DP · Source: [chat, 30 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L296)</sub>
 
 ## 2026-10-30 · IIT BHU · FTE
 

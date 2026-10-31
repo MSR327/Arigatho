@@ -1,9 +1,14 @@
 # Graphs
 
-87 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+92 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Make graph complete by node operations](../companies/mastercard.md#q2-make-graph-complete-by-node-operations) | |
+| 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Simple DFS question (easy)](../companies/eternal-zomato.md#q3-simple-dfs-question-easy) | |
+| 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Eternal SDE OA: topics of 3 coding questions](../companies/eternal-zomato.md#q1-eternal-sde-oa-topics-of-3-coding-questions) | |
+| 2026-10-30 | [Capital One](../companies/capital-one.md) | IIT Bombay | [Prime Path (SPOJ PPATH)](../companies/capital-one.md#q1-prime-path-spoj-ppath) | ≈ [LC 127](https://leetcode.com/problems/word-ladder/) Hard |
+| 2026-10-30 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [Grid path sum avoiding zeros, prefer right](../companies/commonwealth-bank-of-australia.md#q2-grid-path-sum-avoiding-zeros-prefer-right) | ≈ [LC 63](https://leetcode.com/problems/unique-paths-ii/) Medium |
 | 2026-10-29 | [QiCap](../companies/qicap.md) | IIT Kharagpur | [Infection spread with interactions and vaccination](../companies/qicap.md#q1-infection-spread-with-interactions-and-vaccination) | |
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Guwahati | [DFS / Dijkstra question](../companies/natwest.md#q3-dfs--dijkstra-question) | |
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Guwahati | [Multisource BFS problem](../companies/natwest.md#q1-multisource-bfs-problem) | ≈ [LC 542](https://leetcode.com/problems/01-matrix/) Medium |
