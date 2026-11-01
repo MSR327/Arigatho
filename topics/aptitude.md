@@ -1,9 +1,11 @@
 # Aptitude
 
-184 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+186 questions from 23 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Logical reasoning topics](../companies/whiteoak-capital.md#q2-logical-reasoning-topics) |
+| 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Quantitative aptitude practice questions](../companies/whiteoak-capital.md#q1-quantitative-aptitude-practice-questions) |
 | 2026-10-30 | [Mastercard](../companies/mastercard.md) | IIT Guwahati | [Poverty line village from graph](../companies/mastercard.md#q2-poverty-line-village-from-graph) |
 | 2026-10-29 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Milkman water-milk ratio for 27% profit](../companies/deloitte.md#q5-milkman-water-milk-ratio-for-27-profit) |
 | 2026-10-29 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Five distinct awards to eight students with A and B condition](../companies/deloitte.md#q4-five-distinct-awards-to-eight-students-with-a-and-b-condition) |

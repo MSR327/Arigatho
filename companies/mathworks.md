@@ -1,6 +1,6 @@
 # MathWorks
 
-**2 questions** · 2 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 1 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 2  
 **Seen at:** VNIT Nagpur
@@ -23,7 +23,7 @@
 
 2-3 DSA questions and some core subject MCQs were asked.
 
-<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-iit-patna-placements/2026-10.jsonl#L70)</sub>
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-iit-patna-placements/2026-10.jsonl#L70) · Also asked at: VNIT Nagpur (2026-11-01)</sub>
 
 ## 2026-10-29 · VNIT Nagpur · FTE
 

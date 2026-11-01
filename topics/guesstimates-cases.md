@@ -1,9 +1,10 @@
 # Guesstimates & Cases
 
-3 questions from 2 companys, newest first. [← all topics](../README.md#topics)
+4 questions from 2 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-31 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Associate Program Manager interview: case studies](../companies/eternal-zomato.md#q1-associate-program-manager-interview-case-studies) |
 | 2026-10-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Delhi Technological University | [APM interview structure](../companies/eternal-zomato.md#q1-apm-interview-structure) |
 | 2026-10-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Bombay | [Eternal Product Analyst interview topics](../companies/eternal-zomato.md#q1-eternal-product-analyst-interview-topics) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Estimate total functional two-wheelers in India](../companies/sedemac.md#q24-estimate-total-functional-two-wheelers-in-india) |

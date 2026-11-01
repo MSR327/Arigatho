@@ -1,13 +1,15 @@
 # Visa
 
-**3 questions** · 3 drives · latest 26 Oct 2026 · [← all companies](../README.md#companies)
+**4 questions** · 4 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3  
+**Asks about:** [OA Format](../topics/oa-format.md) 4  
 **Seen at:** MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-31 · MNNIT Allahabad · FTE](#2026-10-31--mnnit-allahabad--fte)
+  - [Visa OA problems](#q1-visa-oa-problems)
 - [2026-10-26 · Unknown · FTE](#2026-10-26--unknown--fte)
   - [Visa OA topics for the tough 3rd and 4th questions](#q1-visa-oa-topics-for-the-tough-3rd-and-4th-questions)
 - [2026-10-26 · Unknown · FTE · Interview](#2026-10-26--unknown--fte--interview)
@@ -18,6 +20,14 @@
 </details>
 
 ---
+
+## 2026-10-31 · MNNIT Allahabad · FTE
+
+### Q1. Visa OA problems
+
+The OA had three problems: Friend recommendation, Warehouse problem, Power of two. (Statements not given.)
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/visa-oa/2026-10.jsonl#L84), [chat, 31 Oct](../archive/visa-oa/2026-10.jsonl#L85)</sub>
 
 ## 2026-10-26 · Unknown · FTE
 

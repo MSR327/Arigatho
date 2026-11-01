@@ -1,15 +1,23 @@
 # American Express
 
-**70 questions** · 38 drives · latest 31 Oct 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**75 questions** · 41 drives · latest 31 Oct 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 38 · [ML/AI](../topics/ml-ai.md) 14 · [Hashing](../topics/hashing.md) 6 · [Strings](../topics/strings.md) 5 · [Sliding Window](../topics/sliding-window.md) 5 · [Trees](../topics/trees.md) 5 · [Graphs](../topics/graphs.md) 5 · [Other](../topics/other.md) 4 · +9 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Mandi, IIT Roorkee +1 more
+**Asks about:** [OA Format](../topics/oa-format.md) 40 · [ML/AI](../topics/ml-ai.md) 16 · [Hashing](../topics/hashing.md) 6 · [Strings](../topics/strings.md) 5 · [Sliding Window](../topics/sliding-window.md) 5 · [Trees](../topics/trees.md) 5 · [Graphs](../topics/graphs.md) 5 · [Other](../topics/other.md) 4 · +10 more  
+**Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Mandi +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-31 · IIT Roorkee · FTE](#2026-10-31--iit-roorkee--fte)
+  - [Amex OA proctoring format](#q1-amex-oa-proctoring-format)
 - [2026-10-31 · IIT Guwahati · FTE · AI Engineer / Data Science](#2026-10-31--iit-guwahati--fte--ai-engineer--data-science)
   - [Amex AI Engineer and DS OA pattern](#q1-amex-ai-engineer-and-ds-oa-pattern)
+- [2026-10-31 · IIT Delhi · FTE · Data Science](#2026-10-31--iit-delhi--fte--data-science)
+  - [Amex data science OA contents](#q1-amex-data-science-oa-contents)
+- [2026-10-31 · IIT Bombay · FTE · AI Engineer](#2026-10-31--iit-bombay--fte--ai-engineer)
+  - [Clean data and train TF model](#q1-clean-data-and-train-tf-model)
+  - [Complete Java RAG project](#q2-complete-java-rag-project)
+  - [Medium DSA two-pointer problem](#q3-medium-dsa-two-pointer-problem)
 - [2026-10-30 · IIT Roorkee · FTE · Data Science and Analytics](#2026-10-30--iit-roorkee--fte--data-science-and-analytics)
   - [Amex Data Science & Analytics OA pattern](#q1-amex-data-science--analytics-oa-pattern)
 - [2026-10-30 · IIT Roorkee · FTE · Data Science & Analytics](#2026-10-30--iit-roorkee--fte--data-science--analytics)
@@ -121,6 +129,14 @@
 
 ---
 
+## 2026-10-31 · IIT Roorkee · FTE
+
+### Q1. Amex OA proctoring format
+
+The test ran in the browser only, with no SEB/app to install. The camera was not on and tab switching was allowed.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3105)</sub>
+
 ## 2026-10-31 · IIT Guwahati · FTE · AI Engineer / Data Science
 
 ### Q1. Amex AI Engineer and DS OA pattern
@@ -129,6 +145,36 @@ AI Engineering role: 3 questions in 90 min.
 Data Science role: aptitude, SQL, Python; 45 MCQs in 60 min.
 
 <sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1285)</sub>
+
+## 2026-10-31 · IIT Delhi · FTE · Data Science
+
+### Q1. Amex data science OA contents
+
+The OA had SQL-related questions, aptitude, and basic probability and math.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3092)</sub>
+
+## 2026-10-31 · IIT Bombay · FTE · AI Engineer
+
+### Q1. Clean data and train TF model
+
+Given a function with train and test dataframes as input: clean the data, perform one-hot encoding, train a TensorFlow model and report metrics.
+
+<sub>Topics: ML/AI, Python & Pandas · Source: [chat, 31 Oct](../archive/american-express-oa/2026-10.jsonl#L41), [chat, 31 Oct](../archive/american-express-oa/2026-10.jsonl#L43) · Also asked at: IIT Bombay (2026-10-31)</sub>
+
+### Q2. Complete Java RAG project
+
+In a sandbox environment, given an entire RAG project folder in Java, complete it.
+
+<sub>Topics: ML/AI, Software Engineering · Source: [chat, 31 Oct](../archive/american-express-oa/2026-10.jsonl#L41), [chat, 31 Oct](../archive/american-express-oa/2026-10.jsonl#L43) · Also asked at: IIT Bombay (2026-10-31)</sub>
+
+### Q3. Medium DSA two-pointer problem
+
+A medium-difficulty DSA question using two pointers. The OA was on the Codility website.
+
+The exact statement was not shared.
+
+<sub>Topics: Two Pointers · Source: [chat, 31 Oct](../archive/american-express-oa/2026-10.jsonl#L41), [chat, 31 Oct](../archive/american-express-oa/2026-10.jsonl#L43) · Also asked at: IIT Bombay (2026-10-31)</sub>
 
 ## 2026-10-30 · IIT Roorkee · FTE · Data Science and Analytics
 

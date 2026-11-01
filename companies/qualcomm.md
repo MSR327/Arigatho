@@ -1,19 +1,39 @@
 # Qualcomm
 
-**1 question** · 1 drive · latest 31 Oct 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 1  
-**Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, MNNIT Allahabad, NIT Karnataka Surathkal
+**Asks about:** [OA Format](../topics/oa-format.md) 3  
+**Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-31 · IIT Roorkee · FTE · Software](#2026-10-31--iit-roorkee--fte--software)
+  - [Qualcomm software OA topics](#q1-qualcomm-software-oa-topics)
+- [2026-10-31 · IIT Guwahati · FTE](#2026-10-31--iit-guwahati--fte)
+  - [Qualcomm OA structure and timing](#q1-qualcomm-oa-structure-and-timing)
 - [2026-10-18 · IIT Guwahati · FTE](#2026-10-18--iit-guwahati--fte)
   - [Qualcomm OA format](#q1-qualcomm-oa-format)
 
 </details>
 
 ---
+
+## 2026-10-31 · IIT Roorkee · FTE · Software
+
+### Q1. Qualcomm software OA topics
+
+Basic OOPs, C programming output questions, pipeline questions (COA), some sorting questions. Very few questions from OS.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/qualcomm-oa/2026-10.jsonl#L19), [chat, 31 Oct](../archive/qualcomm-oa/2026-10.jsonl#L21)</sub>
+
+## 2026-10-31 · IIT Guwahati · FTE
+
+### Q1. Qualcomm OA structure and timing
+
+Qualcomm OA timing, as recalled by the poster: 20 + 20 + 50 minutes (three sections). Section contents were not given.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L583)</sub>
 
 ## 2026-10-18 · IIT Guwahati · FTE
 

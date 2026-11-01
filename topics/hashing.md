@@ -1,9 +1,11 @@
 # Hashing
 
-85 questions from 38 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+87 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Most popular nodes with popular neighbours](../companies/navi.md#q3-most-popular-nodes-with-popular-neighbours) | |
+| 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Technical coding practice list](../companies/whiteoak-capital.md#q4-technical-coding-practice-list) | |
 | 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Hash map DSA question (easy)](../companies/eternal-zomato.md#q2-hash-map-dsa-question-easy) | |
 | 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Most negative balance from transactions](../companies/eternal-zomato.md#q1-most-negative-balance-from-transactions) | ≈ [LC 2307](https://leetcode.com/problems/check-for-contradictions-in-equations/) Hard |
 | 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT Delhi | [Number of unique subtrees](../companies/plutus-research.md#q1-number-of-unique-subtrees) | ≈ [LC 652](https://leetcode.com/problems/find-duplicate-subtrees/) Medium |

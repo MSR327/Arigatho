@@ -1,13 +1,17 @@
 # HiLabs
 
-**3 questions** · 3 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
+**5 questions** · 5 drives · latest 1 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3  
-**Seen at:** IIT BHU, IIT Guwahati
+**Asks about:** [OA Format](../topics/oa-format.md) 5  
+**Seen at:** IIT BHU, IIT Guwahati, IIT Madras
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-01 · Unknown · FTE · AI role · Other round](#2026-11-01--unknown--fte--ai-role--other-round)
+  - [HiLabs AI role topics](#q1-hilabs-ai-role-topics)
+- [2026-11-01 · IIT Madras · FTE](#2026-11-01--iit-madras--fte)
+  - [HiLabs OA pattern](#q1-hilabs-oa-pattern)
 - [2026-10-31 · IIT Guwahati · FTE · AI Engineer](#2026-10-31--iit-guwahati--fte--ai-engineer)
   - [HiLabs AI Engineer OA pattern](#q1-hilabs-ai-engineer-oa-pattern)
 - [2026-10-31 · IIT BHU · FTE · AI Engineer](#2026-10-31--iit-bhu--fte--ai-engineer)
@@ -19,13 +23,42 @@
 
 ---
 
+## 2026-11-01 · Unknown · FTE · AI role · Other round
+
+### Q1. HiLabs AI role topics
+
+Topics covered:
+- Machine Learning: Regression, Classification, Random Forest, XGBoost, Overfitting, Model Evaluation
+- Deep Learning: CNN, RNN, Transformers, Attention, Backpropagation
+- Generative AI: LLMs, RAG, Embeddings, LoRA, Quantization
+- Statistics: Probability, Bayes Theorem, Hypothesis Testing, A/B Testing
+- DSA: Arrays, Strings, Sliding Window, Greedy, DP, Graphs
+- SQL & DBMS: Joins, Group By, Window Functions, Normalization
+- Healthcare AI: Data Quality, Entity Matching, Duplicate Detection
+- Projects: ML pipeline, Feature Engineering, Model Deployment, Resume Projects
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/inter-nit/2026-11.jsonl#L3)</sub>
+
+## 2026-11-01 · IIT Madras · FTE
+
+### Q1. HiLabs OA pattern
+
+Held on the Unstop platform, 3 sections:
+- Section 1: 35 questions on AI/ML and data science
+- Section 2: 5 subjective SDE questions, SQL-based and mostly code snippets where you must say what is wrong with the code and debug it for a given task
+- Section 3: 2 coding questions
+
+The coding questions themselves were not described.
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L2), [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L4)</sub>
+
 ## 2026-10-31 · IIT Guwahati · FTE · AI Engineer
 
 ### Q1. HiLabs AI Engineer OA pattern
 
 2 DSA questions (all languages allowed) and MCQs on LLMs, agents and RAG, as mentioned in the company PPT.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1296) · Also asked at: IIT Guwahati ×2 (last 2026-10-31)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1296) · Also asked at: IIT Guwahati ×3 (last 2026-10-31)</sub>
 
 ## 2026-10-31 · IIT BHU · FTE · AI Engineer
 

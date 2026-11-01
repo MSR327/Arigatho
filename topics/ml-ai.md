@@ -1,9 +1,11 @@
 # ML/AI
 
-84 questions from 17 companys, newest first. [← all topics](../README.md#topics)
+86 questions from 17 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-10-31 | [American Express](../companies/american-express.md) | IIT Bombay | [Complete Java RAG project](../companies/american-express.md#q2-complete-java-rag-project) |
+| 2026-10-31 | [American Express](../companies/american-express.md) | IIT Bombay | [Clean data and train TF model](../companies/american-express.md#q1-clean-data-and-train-tf-model) |
 | 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [Train a CNN on given data](../companies/american-express.md#q9-train-a-cnn-on-given-data) |
 | 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [LangGraph severity-classification agent class](../companies/american-express.md#q8-langgraph-severity-classification-agent-class) |
 | 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [Train CNN layers on given data](../companies/american-express.md#q5-train-cnn-layers-on-given-data) |

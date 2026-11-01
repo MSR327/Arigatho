@@ -1,9 +1,14 @@
 # Arrays
 
-166 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+171 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | IIT Guwahati | [Dungeon Game](../companies/jpmorgan-chase.md#q1-dungeon-game) | [LC 174](https://leetcode.com/problems/dungeon-game/) Hard |
+| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a grid](../companies/navi.md#q2-count-word-occurrences-in-a-grid) | |
+| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Minimum jumps to reach the end](../companies/navi.md#q1-minimum-jumps-to-reach-the-end) | [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
+| 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Technical coding practice list](../companies/whiteoak-capital.md#q4-technical-coding-practice-list) | |
+| 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Make two arrays equal by merging subarrays](../companies/cognizant.md#q3-make-two-arrays-equal-by-merging-subarrays) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [2048 Grid Simulation and Score Tracker](../companies/mastercard.md#q4-2048-grid-simulation-and-score-tracker) | ≈ [LC 2048](https://leetcode.com/problems/next-greater-numerically-balanced-number/) Medium |
 | 2026-10-31 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [People who can win after the final race](../companies/commonwealth-bank-of-australia.md#q2-people-who-can-win-after-the-final-race) | |
 | 2026-10-30 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [Path sum in grid preferring downward moves](../companies/commonwealth-bank-of-australia.md#q4-path-sum-in-grid-preferring-downward-moves) | ≈ [LC 64](https://leetcode.com/problems/minimum-path-sum/) Medium |

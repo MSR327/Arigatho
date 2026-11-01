@@ -1,13 +1,17 @@
 # NatWest
 
-**43 questions** · 19 drives · latest 29 Oct 2026 · [19 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**45 questions** · 21 drives · latest 31 Oct 2026 · [19 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 10 · [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 7 · [Greedy](../topics/greedy.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · +8 more  
+**Asks about:** [Arrays](../topics/arrays.md) 10 · [OA Format](../topics/oa-format.md) 9 · [Graphs](../topics/graphs.md) 7 · [Greedy](../topics/greedy.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · +8 more  
 **Seen at:** Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-31 · IIT Roorkee · FTE](#2026-10-31--iit-roorkee--fte)
+  - [NatWest DSA section duration](#q1-natwest-dsa-section-duration)
+- [2026-10-31 · IIT Delhi · FTE](#2026-10-31--iit-delhi--fte)
+  - [DSA section format](#q1-dsa-section-format)
 - [2026-10-29 · IIT Guwahati · FTE](#2026-10-29--iit-guwahati--fte)
   - [Multisource BFS problem](#q1-multisource-bfs-problem)
   - [Greedy problem](#q2-greedy-problem)
@@ -74,6 +78,24 @@
 </details>
 
 ---
+
+## 2026-10-31 · IIT Roorkee · FTE
+
+### Q1. NatWest DSA section duration
+
+The DSA section was given 1 hour.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L710) · Also asked at: IIT BHU (2026-10-31)</sub>
+
+## 2026-10-31 · IIT Delhi · FTE
+
+### Q1. DSA section format
+
+DSA section is 1 hour with 2 coding questions. The 1st was very easy for everyone. The 2nd was hard for most sets but medium for some sets.
+
+The actual problem statements were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/natwest-oa/2026-10.jsonl#L225), [chat, 31 Oct](../archive/natwest-oa/2026-10.jsonl#L230), [chat, 31 Oct](../archive/natwest-oa/2026-10.jsonl#L232)</sub>
 
 ## 2026-10-29 · IIT Guwahati · FTE
 
@@ -279,7 +301,7 @@ Given a directed graph, find the node to start from such that the maximum number
 
 The test also had a behavioural section (100 questions, no time limit), a reasoning section (8 questions, 12 minutes), and an SQL MCQ section (12 questions, 15 minutes).
 
-<sub>Topics: OA Format, SQL, Aptitude · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L183) · Also asked at: IIT BHU ×5 (last 2026-10-25), IIT Roorkee ×3 (last 2026-10-26)</sub>
+<sub>Topics: OA Format, SQL, Aptitude · Source: [chat, 14 Oct](../archive/inter-nit/2026-10.jsonl#L183) · Also asked at: IIT BHU ×5 (last 2026-10-25), IIT Roorkee ×3 (last 2026-10-26), IIT Delhi (2026-10-31)</sub>
 
 ## 2026-10-13 · IIT Guwahati · FTE
 
@@ -352,7 +374,7 @@ SQL questions, all easy. (Details not given.)
 - 2 easy-medium DSA questions (poster's was a sorting one; take / not take DP also mentioned)
 - Behavioural: 100 questions (choose which describes you best, 2 out of 3)
 
-<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L138) · Also asked at: IIT BHU ×5 (last 2026-10-27), IIT Roorkee ×6 (last 2026-10-29), IIT Guwahati ×5 (last 2026-10-29), IIT Kharagpur/Kanpur ×2 (last 2026-10-29), NIT Patna (2026-10-29), Unknown (2026-10-29), IIT Hyderabad (2026-10-29), IIT Delhi ×2 (last 2026-10-29)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L138) · Also asked at: IIT BHU ×5 (last 2026-10-27), IIT Guwahati ×5 (last 2026-10-29), IIT Kharagpur/Kanpur ×2 (last 2026-10-29), NIT Patna (2026-10-29), Unknown (2026-10-29), IIT Hyderabad (2026-10-29), IIT Delhi ×2 (last 2026-10-29), IIT Roorkee ×8 (last 2026-10-31)</sub>
 
 ## 2026-10-11 · Delhi Technological University · FTE
 

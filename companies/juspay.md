@@ -1,9 +1,9 @@
 # Juspay
 
-**16 questions** · 11 drives · latest 27 Oct 2026 · [← all companies](../README.md#companies)
+**16 questions** · 11 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 9 · [Other](../topics/other.md) 3 · [Strings](../topics/strings.md) 2 · [Trees](../topics/trees.md) 1 · [Hashing](../topics/hashing.md) 1 · [Greedy](../topics/greedy.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Hyderabad, MNNIT Allahabad, VIT Vellore
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Hyderabad, MNNIT Allahabad, NIT Delhi, VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -105,7 +105,7 @@ Round 1 - Pre-assessment, DSA coding, 1 hour, 3 questions.
 Round 2 - MCQ on Physics, Maths, CS, Systems, 1 hour, 16 questions.
 Round 3 - Hackathon, DSA-based coding, 2.5 hours, 1 question.
 
-<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L247)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L247) · Also asked at: NIT Delhi (2026-10-31)</sub>
 
 ### Q2. Juspay 3-round OA format
 

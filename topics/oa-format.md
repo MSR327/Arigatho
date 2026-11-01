@@ -1,9 +1,31 @@
 # OA Format
 
-422 questions from 91 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+444 questions from 92 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Madras | [HiLabs OA pattern](../companies/hilabs.md#q1-hilabs-oa-pattern) | |
+| 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [CBA OA language options by role](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-language-options-by-role) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | Unknown | [Navi OA pattern](../companies/navi.md#q1-navi-oa-pattern) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | Unknown | [Navi OA format](../companies/navi.md#q1-navi-oa-format) | |
+| 2026-11-01 | [HiLabs](../companies/hilabs.md) | Unknown | [HiLabs AI role topics](../companies/hilabs.md#q1-hilabs-ai-role-topics) | |
+| 2026-10-31 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [TI embedded SW OA MCQ topics](../companies/texas-instruments.md#q1-ti-embedded-sw-oa-mcq-topics) | |
+| 2026-10-31 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Associate Program Manager interview: case studies](../companies/eternal-zomato.md#q1-associate-program-manager-interview-case-studies) | |
+| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Navi SDE OA format](../companies/navi.md#q4-navi-sde-oa-format) | |
+| 2026-10-31 | [Qualcomm](../companies/qualcomm.md) | IIT Roorkee | [Qualcomm software OA topics](../companies/qualcomm.md#q1-qualcomm-software-oa-topics) | |
+| 2026-10-31 | [NatWest](../companies/natwest.md) | IIT Roorkee | [NatWest DSA section duration](../companies/natwest.md#q1-natwest-dsa-section-duration) | |
+| 2026-10-31 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Accenture GN Consultant test pattern](../companies/accenture.md#q1-accenture-gn-consultant-test-pattern) | |
+| 2026-10-31 | [Tredence](../companies/tredence.md) | IIT Bhubaneswar | [Tredence Data Scientist OA pattern](../companies/tredence.md#q1-tredence-data-scientist-oa-pattern) | |
+| 2026-10-31 | [Qualcomm](../companies/qualcomm.md) | IIT Guwahati | [Qualcomm OA structure and timing](../companies/qualcomm.md#q1-qualcomm-oa-structure-and-timing) | |
+| 2026-10-31 | [NatWest](../companies/natwest.md) | IIT Delhi | [DSA section format](../companies/natwest.md#q1-dsa-section-format) | |
+| 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Hyderabad | [Cognizant ACE Frontier Engineer OA sections](../companies/cognizant.md#q1-cognizant-ace-frontier-engineer-oa-sections) | |
+| 2026-10-31 | [American Express](../companies/american-express.md) | IIT Roorkee | [Amex OA proctoring format](../companies/american-express.md#q1-amex-oa-proctoring-format) | |
+| 2026-10-31 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern) | |
+| 2026-10-31 | [Visa](../companies/visa.md) | MNNIT Allahabad | [Visa OA problems](../companies/visa.md#q1-visa-oa-problems) | |
+| 2026-10-31 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kharagpur/Kanpur | [Deutsche Bank first-stage form and shortlisting](../companies/deutsche-bank.md#q1-deutsche-bank-first-stage-form-and-shortlisting) | |
+| 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [OA pattern](../companies/cognizant.md#q1-oa-pattern) | |
+| 2026-10-31 | [American Express](../companies/american-express.md) | IIT Delhi | [Amex data science OA contents](../companies/american-express.md#q1-amex-data-science-oa-contents) | |
+| 2026-10-31 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Deloitte test format](../companies/deloitte.md#q1-deloitte-test-format) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Mastercard IITR OA structure](../companies/mastercard.md#q1-mastercard-iitr-oa-structure) | |
 | 2026-10-31 | [HiLabs](../companies/hilabs.md) | IIT BHU | [HiLabs AI Engineer OA pattern](../companies/hilabs.md#q1-hilabs-ai-engineer-oa-pattern-1) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Mastercard DS OA pattern](../companies/mastercard.md#q1-mastercard-ds-oa-pattern) | |
@@ -11,7 +33,7 @@
 | 2026-10-31 | [Cognizant](../companies/cognizant.md) | Unknown | [Cognizant process: OA and interview](../companies/cognizant.md#q1-cognizant-process-oa-and-interview) | |
 | 2026-10-31 | [Playpower](../companies/playpower.md) | Unknown | [Playpower interview topics](../companies/playpower.md#q1-playpower-interview-topics) | |
 | 2026-10-31 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [Tiger Analytics OA pattern](../companies/tiger-analytics.md#q1-tiger-analytics-oa-pattern) | |
-| 2026-10-31 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern) | |
+| 2026-10-31 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-1) | |
 | 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Cognizant ACE Frontier Engineer coding](../companies/cognizant.md#q1-cognizant-ace-frontier-engineer-coding) | |
 | 2026-10-31 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex AI Engineer and DS OA pattern](../companies/american-express.md#q1-amex-ai-engineer-and-ds-oa-pattern) | |
 | 2026-10-30 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [CBA OA format (Hirepro)](../companies/commonwealth-bank-of-australia.md#q3-cba-oa-format-hirepro) | |
@@ -61,7 +83,7 @@
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT BHU | [NatWest SWE OA pattern](../companies/natwest.md#q1-natwest-swe-oa-pattern) | |
 | 2026-10-29 | [Accenture](../companies/accenture.md) | IIT BHU | [Elite role OA pattern](../companies/accenture.md#q1-elite-role-oa-pattern) | |
 | 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Email writing round](../companies/accenture.md#q1-email-writing-round) | |
-| 2026-10-29 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Hyderabad | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-1) | |
+| 2026-10-29 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Hyderabad | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-2) | |
 | 2026-10-29 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [HiLabs product role process](../companies/hilabs.md#q1-hilabs-product-role-process) | |
 | 2026-10-29 | [Mastercard](../companies/mastercard.md) | IIT Guwahati | [Mastercard Product Specialist OA pattern](../companies/mastercard.md#q1-mastercard-product-specialist-oa-pattern) | |
 | 2026-10-29 | [IBM](../companies/ibm.md) | IIT Guwahati | [Basic easy DSA question](../companies/ibm.md#q1-basic-easy-dsa-question) | |
@@ -102,7 +124,7 @@
 | 2026-10-28 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Cognizant OA pattern (two sections)](../companies/cognizant.md#q1-cognizant-oa-pattern-two-sections) | |
 | 2026-10-28 | [Flipkart](../companies/flipkart.md) | IIT BHU | [Flipkart AI Engineer OA pattern](../companies/flipkart.md#q1-flipkart-ai-engineer-oa-pattern-1) | |
 | 2026-10-28 | [Flipkart](../companies/flipkart.md) | BITS Pilani | [Flipkart AI Engineer OA pattern](../companies/flipkart.md#q2-flipkart-ai-engineer-oa-pattern) | |
-| 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-2) | |
+| 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-3) | |
 | 2026-10-28 | [McKinsey](../companies/mckinsey.md) | IIT Roorkee | [McKinsey data science OA format](../companies/mckinsey.md#q1-mckinsey-data-science-oa-format) | |
 | 2026-10-28 | [Flipkart](../companies/flipkart.md) | BITS Pilani | [Flipkart AI Engineer OA pattern](../companies/flipkart.md#q1-flipkart-ai-engineer-oa-pattern-2) | |
 | 2026-10-28 | [Mastercard](../companies/mastercard.md) | IIT Guwahati | [Mastercard DS OA contents](../companies/mastercard.md#q2-mastercard-ds-oa-contents) | |
@@ -115,7 +137,7 @@
 | 2026-10-28 | [IBM](../companies/ibm.md) | MNNIT Allahabad | [Easy-medium DSA question](../companies/ibm.md#q1-easy-medium-dsa-question) | |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [Data Science track MCQ pattern](../companies/american-express.md#q4-data-science-track-mcq-pattern) | |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Hyderabad | [Amex DS & Analytics OA format](../companies/american-express.md#q1-amex-ds--analytics-oa-format-1) | |
-| 2026-10-27 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | Unknown | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-3) | |
+| 2026-10-27 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | Unknown | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-4) | |
 | 2026-10-27 | [IBM](../companies/ibm.md) | IIT Kanpur | [IBM hardware role test pattern](../companies/ibm.md#q1-ibm-hardware-role-test-pattern) | |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - Technical section](../companies/american-express.md#q3-amex-ds--analytics---technical-section) | |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - LR/DI section](../companies/american-express.md#q2-amex-ds--analytics---lrdi-section) | |

@@ -1,15 +1,19 @@
 # Commonwealth Bank of Australia
 
-**43 questions** · 10 drives · latest 31 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**45 questions** · 12 drives · latest 1 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 16 · [ML/AI](../topics/ml-ai.md) 12 · [OA Format](../topics/oa-format.md) 10 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · +5 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 16 · [OA Format](../topics/oa-format.md) 12 · [ML/AI](../topics/ml-ai.md) 12 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · +5 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-31 · IIT Kanpur · FTE](#2026-10-31--iit-kanpur--fte)
+- [2026-11-01 · IIT Roorkee · FTE](#2026-11-01--iit-roorkee--fte)
+  - [CBA OA language options by role](#q1-cba-oa-language-options-by-role)
+- [2026-10-31 · IIT Roorkee · FTE](#2026-10-31--iit-roorkee--fte)
   - [CBA OA pattern](#q1-cba-oa-pattern)
+- [2026-10-31 · IIT Kanpur · FTE](#2026-10-31--iit-kanpur--fte)
+  - [CBA OA pattern](#q1-cba-oa-pattern-1)
   - [People who can win after the final race](#q2-people-who-can-win-after-the-final-race)
 - [2026-10-30 · IIT Roorkee · FTE · Data Scientist](#2026-10-30--iit-roorkee--fte--data-scientist)
   - [Maximum product subarray](#q1-maximum-product-subarray)
@@ -21,11 +25,11 @@
   - [CBA OA format (Hirepro)](#q3-cba-oa-format-hirepro)
   - [Path sum in grid preferring downward moves](#q4-path-sum-in-grid-preferring-downward-moves)
 - [2026-10-29 · IIT Hyderabad · FTE · Graduate Engineer](#2026-10-29--iit-hyderabad--fte--graduate-engineer)
-  - [CBA OA pattern](#q1-cba-oa-pattern-1)
-- [2026-10-28 · IIT Guwahati · FTE · Graduate Engineering / Technology Graduate - Data Science](#2026-10-28--iit-guwahati--fte--graduate-engineering--technology-graduate---data-science)
   - [CBA OA pattern](#q1-cba-oa-pattern-2)
-- [2026-10-27 · Unknown · FTE · Graduate Engineering, Technology Graduate - Data Science](#2026-10-27--unknown--fte--graduate-engineering-technology-graduate---data-science)
+- [2026-10-28 · IIT Guwahati · FTE · Graduate Engineering / Technology Graduate - Data Science](#2026-10-28--iit-guwahati--fte--graduate-engineering--technology-graduate---data-science)
   - [CBA OA pattern](#q1-cba-oa-pattern-3)
+- [2026-10-27 · Unknown · FTE · Graduate Engineering, Technology Graduate - Data Science](#2026-10-27--unknown--fte--graduate-engineering-technology-graduate---data-science)
+  - [CBA OA pattern](#q1-cba-oa-pattern-4)
 - [2026-10-27 · IIT Hyderabad · FTE](#2026-10-27--iit-hyderabad--fte)
   - [Commonwealth Bank OA pattern](#q1-commonwealth-bank-oa-pattern)
 - [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte)
@@ -66,6 +70,22 @@
 
 ---
 
+## 2026-11-01 · IIT Roorkee · FTE
+
+### Q1. CBA OA language options by role
+
+For the Tech role, both C++ and Python are offered. For the Data Science role, only Python and R are offered.
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L2)</sub>
+
+## 2026-10-31 · IIT Roorkee · FTE
+
+### Q1. CBA OA pattern
+
+The OA had MCQs plus 1 coding question, roughly Codeforces 1200 difficulty.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3104) · Also asked at: IIT Roorkee (2026-10-31)</sub>
+
 ## 2026-10-31 · IIT Kanpur · FTE
 
 ### Q1. CBA OA pattern
@@ -74,13 +94,13 @@ Aptitude (15 questions): practice questions on arranging people, about 6-7 came 
 
 Technical section: MCQs on Networking (6-7), pseudocode running (2), OOPs (simple), RAG/LLM (2-3).
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×2 (last 2026-10-31)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×5 (last 2026-10-31)</sub>
 
 ### Q2. People who can win after the final race
 
 Given an array of size n (n up to 10^5) with the scores of n people before the final race. In the final race the person who comes first gets n points, second gets n-1, and so on, with the last place getting 1 point. Find the number of people who can win (have the max score) after the final race.
 
-<sub>Topics: Arrays, Greedy, Sorting · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×2 (last 2026-10-31)</sub>
+<sub>Topics: Arrays, Greedy, Sorting · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×4 (last 2026-10-31)</sub>
 
 ## 2026-10-30 · IIT Roorkee · FTE · Data Scientist
 
@@ -88,13 +108,13 @@ Given an array of size n (n up to 10^5) with the scores of n people before the f
 
 Maximum product subarray (exactly the same as the standard problem, same constraints; no DP needed, a simpler approach was enough). Coding in Python (or R); C++ was not allowed.
 
-<sub>Topics: Arrays, DP · Similar: [LeetCode 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) (Medium) · Source: [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L326), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L327), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L328), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L329), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L330), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L331), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L332), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L333), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L335), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L336), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L337), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L338), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L339)</sub>
+<sub>Topics: Arrays, DP · Similar: [LeetCode 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) (Medium) · Source: [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L326), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L327), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L328), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L329), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L330), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L331), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L332), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L333), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L335), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L336), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L337), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L338), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L339) · Also asked at: IIT Roorkee ×2 (last 2026-10-31)</sub>
 
 ### Q2. Easy SQL query using AVG
 
 One easy SQL query using avg. The exact statement was not given.
 
-<sub>Topics: SQL · Same idea: [HackerRank: Average Population](https://www.hackerrank.com/challenges/average-population/problem) (Easy), SQL AVG aggregate over a table column · Source: [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L326), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L327), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L328), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L329), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L330), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L331), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L332), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L333), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L335), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L336), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L337), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L338), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L339)</sub>
+<sub>Topics: SQL · Same idea: [HackerRank: Average Population](https://www.hackerrank.com/challenges/average-population/problem) (Easy), SQL AVG aggregate over a table column · Source: [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L326), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L327), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L328), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L329), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L330), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L331), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L332), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L333), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L335), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L336), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L337), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L338), [chat, 30 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L339) · Also asked at: IIT Roorkee (2026-10-31)</sub>
 
 ### Q3. Commonwealth Bank DS OA pattern
 
@@ -105,7 +125,7 @@ Data Science role OA pattern:
 
 Individual questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L3023), [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L3027) · Also asked at: IIT Roorkee ×3 (last 2026-10-30), IIT Hyderabad (2026-10-30)</sub>
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L3023), [chat, 30 Oct](../archive/inter-nit/2026-10.jsonl#L3027) · Also asked at: IIT Hyderabad (2026-10-30), IIT Roorkee ×4 (last 2026-10-31)</sub>
 
 ## 2026-10-30 · IIT Kanpur · FTE
 
@@ -136,7 +156,7 @@ Platform: Hirepro. 3 sections:
 - Section 2: 20 technical CS MCQs (20 mins)
 - Section 3: 1 coding question (25 mins)
 
-<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L204) · Also asked at: IIT Kanpur (2026-10-30)</sub>
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L204) · Also asked at: IIT Kanpur (2026-10-30), IIT BHU (2026-11-01)</sub>
 
 ### Q4. Path sum in grid preferring downward moves
 

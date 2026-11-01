@@ -1,13 +1,15 @@
 # Tredence
 
-**46 questions** · 15 drives · latest 30 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**47 questions** · 16 drives · latest 31 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [OA Format](../topics/oa-format.md) 10 · [Aptitude](../topics/aptitude.md) 6 · [SQL](../topics/sql.md) 5 · [Arrays](../topics/arrays.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +10 more  
-**Seen at:** IIIT Hyderabad, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, VIT Vellore, VNIT Nagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [Aptitude](../topics/aptitude.md) 6 · [SQL](../topics/sql.md) 5 · [Arrays](../topics/arrays.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +10 more  
+**Seen at:** IIIT Hyderabad, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, VIT Vellore, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-31 · IIT Bhubaneswar · FTE · Data Scientist](#2026-10-31--iit-bhubaneswar--fte--data-scientist)
+  - [Tredence Data Scientist OA pattern](#q1-tredence-data-scientist-oa-pattern)
 - [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
   - [Tredence communication round format](#q1-tredence-communication-round-format)
 - [2026-10-30 · IIT Dhanbad · FTE](#2026-10-30--iit-dhanbad--fte)
@@ -73,6 +75,14 @@
 </details>
 
 ---
+
+## 2026-10-31 · IIT Bhubaneswar · FTE · Data Scientist
+
+### Q1. Tredence Data Scientist OA pattern
+
+The test had aptitude, CS, SQL and pandas questions, and one coding question.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/campus-iit-bhubaneswar-placements/2026-10.jsonl#L39)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE
 
@@ -439,7 +449,7 @@ There were 34 MCQs, of which 2 were Python ML related questions:
 
 The actual DSA and SQL questions were not shared.
 
-<sub>Topics: OA Format, Python & Pandas · Source: [chat, 28 Oct](../archive/tredence-oa/2026-10.jsonl#L46) · Also asked at: Unknown ×2 (last 2026-10-27), IIT Hyderabad (2026-10-28)</sub>
+<sub>Topics: OA Format, Python & Pandas · Source: [chat, 28 Oct](../archive/tredence-oa/2026-10.jsonl#L46) · Also asked at: Unknown ×2 (last 2026-10-27), IIT Hyderabad ×2 (last 2026-10-31)</sub>
 
 ### Q6. Python data cleaning and dataset summary function
 

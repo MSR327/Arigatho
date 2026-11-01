@@ -112,13 +112,13 @@ Test for both Product and Consultant roles:
 - Python (5 questions): 4 MCQs + 1 coding
 - Excel and BI (10 questions): VLOOKUP appeared in one question; the poster does not remember the rest
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L22)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L22) · Also asked at: IIT Roorkee (2026-10-31)</sub>
 
 ### Q2. Medicines expiring after 18 May 2018 from large hospitals
 
 SQL coding question: given tables of medicines and hospitals, show the medicines which expire after 18th May 2018 and the hospital from which each came has more than 15 branches. It required a simple join and showing the columns after the join. (Exact schema not given.)
 
-<sub>Topics: SQL · Same idea: [LeetCode 1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) (Easy), simple join with filter conditions · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L22)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) (Easy), simple join with filter conditions · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L22) · Also asked at: IIT Roorkee (2026-10-31)</sub>
 
 ### Q3. Smallest multiple of Y with prefix X
 
@@ -130,7 +130,7 @@ Example 2: X = 2, Y = 200. The answer is 200.
 
 (Constraints not given.)
 
-<sub>Topics: Math, Strings · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L22)</sub>
+<sub>Topics: Math, Strings · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L22) · Also asked at: IIT Roorkee (2026-10-31)</sub>
 
 ## 2026-10-30 · IIT Roorkee · FTE · Associate Consultant
 

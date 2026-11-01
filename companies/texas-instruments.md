@@ -1,13 +1,15 @@
 # Texas Instruments
 
-**80 questions** · 8 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
+**81 questions** · 9 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 22 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Signals & Systems](../topics/signals-systems.md) 4 · [OA Format](../topics/oa-format.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +3 more  
+**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 22 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [OA Format](../topics/oa-format.md) 5 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +3 more  
 **Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-31 · IIT BHU · FTE · Embedded Software](#2026-10-31--iit-bhu--fte--embedded-software)
+  - [TI embedded SW OA MCQ topics](#q1-ti-embedded-sw-oa-mcq-topics)
 - [2026-10-30 · Unknown · FTE](#2026-10-30--unknown--fte)
   - [Digital Electronics topics](#q1-digital-electronics-topics)
   - [CMOS & VLSI topics](#q2-cmos--vlsi-topics)
@@ -100,6 +102,14 @@
 </details>
 
 ---
+
+## 2026-10-31 · IIT BHU · FTE · Embedded Software
+
+### Q1. TI embedded SW OA MCQ topics
+
+20 MCQs on C (majorly pointers), COA, DSA related MCQs, Memory management, Microprocessors and Microcontrollers. Also a DSA coding question.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/texas-instruments-oa/2026-10.jsonl#L42)</sub>
 
 ## 2026-10-30 · Unknown · FTE
 

@@ -1,9 +1,10 @@
 # Graphs
 
-92 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+93 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Most popular nodes with popular neighbours](../companies/navi.md#q3-most-popular-nodes-with-popular-neighbours) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Make graph complete by node operations](../companies/mastercard.md#q2-make-graph-complete-by-node-operations) | |
 | 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Simple DFS question (easy)](../companies/eternal-zomato.md#q3-simple-dfs-question-easy) | |
 | 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Eternal SDE OA: topics of 3 coding questions](../companies/eternal-zomato.md#q1-eternal-sde-oa-topics-of-3-coding-questions) | |

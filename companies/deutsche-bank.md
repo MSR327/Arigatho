@@ -1,13 +1,15 @@
 # Deutsche Bank
 
-**17 questions** · 8 drives · latest 31 Oct 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**18 questions** · 9 drives · latest 31 Oct 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Strings](../topics/strings.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · [Sorting](../topics/sorting.md) 2 · [OA Format](../topics/oa-format.md) 2 · +5 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur
+**Asks about:** [Arrays](../topics/arrays.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Strings](../topics/strings.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · [Sorting](../topics/sorting.md) 2 · +5 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-31 · IIT Kharagpur/Kanpur · FTE](#2026-10-31--iit-kharagpurkanpur--fte)
+  - [Deutsche Bank first-stage form and shortlisting](#q1-deutsche-bank-first-stage-form-and-shortlisting)
 - [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
   - [Maximise sum of unique building heights](#q1-maximise-sum-of-unique-building-heights)
   - [Minimum cars to remove for bridge crossing](#q2-minimum-cars-to-remove-for-bridge-crossing)
@@ -37,6 +39,14 @@
 </details>
 
 ---
+
+## 2026-10-31 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Deutsche Bank first-stage form and shortlisting
+
+On the poster's campus, a link was shared to be filled without any camera or time limit, like a survey form, from their rooms. Afterwards a shortlist was released for a workshop; it is mostly resume based, and most shortlisted people had cleared CFA/FRM.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1319)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE
 
@@ -142,7 +152,7 @@ A "frog jump 2" type question. Exact statement not given.
 
 Deutsche Bank OA (IIT Kharagpur) had 3 DSA questions: 1 tough and 2 easy-to-medium.
 
-<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508) · Also asked at: IIT Guwahati ×2 (last 2026-10-29), IIT BHU (2026-10-30), Unknown ×2 (last 2026-10-31)</sub>
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508) · Also asked at: IIT BHU (2026-10-30), IIT Guwahati ×3 (last 2026-10-31), Unknown ×2 (last 2026-10-31)</sub>
 
 ## 2026-10-16 · IIT Kanpur · FTE
 

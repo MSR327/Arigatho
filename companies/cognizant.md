@@ -1,17 +1,23 @@
 # Cognizant
 
-**11 questions** · 7 drives · latest 31 Oct 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 9 drives · latest 31 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Trees](../topics/trees.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [Other](../topics/other.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Strings](../topics/strings.md) 1 · +1 more  
-**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Guwahati
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Greedy](../topics/greedy.md) 3 · [Strings](../topics/strings.md) 2 · [Trees](../topics/trees.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Sorting](../topics/sorting.md) 1 · [Other](../topics/other.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · +3 more  
+**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-10-31 · Unknown · FTE · ACE Frontier Engineer · Other round](#2026-10-31--unknown--fte--ace-frontier-engineer--other-round)
   - [Cognizant process: OA and interview](#q1-cognizant-process-oa-and-interview)
+- [2026-10-31 · IIT Hyderabad · FTE · ACE Frontier Engineer](#2026-10-31--iit-hyderabad--fte--ace-frontier-engineer)
+  - [Cognizant ACE Frontier Engineer OA sections](#q1-cognizant-ace-frontier-engineer-oa-sections)
 - [2026-10-31 · IIT Guwahati · FTE · ACE Frontier Engineer](#2026-10-31--iit-guwahati--fte--ace-frontier-engineer)
   - [Cognizant ACE Frontier Engineer coding](#q1-cognizant-ace-frontier-engineer-coding)
+- [2026-10-31 · IIT Guwahati · FTE · Frontier Engineer](#2026-10-31--iit-guwahati--fte--frontier-engineer)
+  - [OA pattern](#q1-oa-pattern)
+  - [K-Complete Word (Codeforces 1332C)](#q2-k-complete-word-codeforces-1332c)
+  - [Make two arrays equal by merging subarrays](#q3-make-two-arrays-equal-by-merging-subarrays)
 - [2026-10-30 · IIT Guwahati · FTE · ACE Frontier Engineer](#2026-10-30--iit-guwahati--fte--ace-frontier-engineer)
   - [Cognizant OA structure](#q1-cognizant-oa-structure)
 - [2026-10-30 · IIT Bombay · FTE · Frontier Engineer](#2026-10-30--iit-bombay--fte--frontier-engineer)
@@ -39,6 +45,14 @@ Aptitude, communication and technical OA (coding, SQL, MCQs), followed by a tech
 
 <sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1295)</sub>
 
+## 2026-10-31 · IIT Hyderabad · FTE · ACE Frontier Engineer
+
+### Q1. Cognizant ACE Frontier Engineer OA sections
+
+The OA has four sections: DSA, prompt engineering, two debugging questions, and feature development in your preferred framework. The poster said it was very easy.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/campus-iit-hyderabad-placements/2026-10.jsonl#L297)</sub>
+
 ## 2026-10-31 · IIT Guwahati · FTE · ACE Frontier Engineer
 
 ### Q1. Cognizant ACE Frontier Engineer coding
@@ -46,6 +60,34 @@ Aptitude, communication and technical OA (coding, SQL, MCQs), followed by a tech
 3 easy-medium DSA questions from arrays and strings.
 
 <sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1286)</sub>
+
+## 2026-10-31 · IIT Guwahati · FTE · Frontier Engineer
+
+### Q1. OA pattern
+
+3 DSA questions + 20 MCQs on core CS (MCQs also cover easy topics like RAG, LLMs etc.).
+
+DSA questions as recalled: one prefix-sum type, one difficult string DP, and one knapsack-type with very high constraints (even DP gave MLE).
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L40), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L44), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L45), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L46), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L48)</sub>
+
+### Q2. K-Complete Word (Codeforces 1332C)
+
+Asked in the IITG OA: Codeforces problem 1332/C (https://codeforces.com/problemset/problem/1332/C). Full statement not transcribed by the poster.
+
+<sub>Topics: Strings, Greedy · Same problem: [Codeforces 1332C. K-Complete Word](https://codeforces.com/problemset/problem/1332/C) (rated 1500), same problem; DSU groups of positions, majority character · Source: [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L40), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L44), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L45), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L46), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L48)</sub>
+
+### Q3. Make two arrays equal by merging subarrays
+
+You are given two integer arrays, A of length N and B of length M. You can perform the following operation on either array any number of times (including zero):
+
+Select any contiguous subarray of length >= 2. Replace that subarray with a single new element whose value is the sum of the elements in the selected subarray. (This decreases the length of the array by the length of the subarray minus one.)
+
+Your objective is to make array A and array B exactly identical (same final length, and every element at every index must match exactly).
+
+Output: Find the maximum possible length of the resulting arrays after applying the operations optimally. If it is impossible to make the two arrays exactly equal, output -1.
+
+<sub>Topics: Arrays, Two Pointers, Greedy · Source: [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L40), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L44), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L45), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L46), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L48)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE · ACE Frontier Engineer
 

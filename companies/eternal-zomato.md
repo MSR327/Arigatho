@@ -1,13 +1,15 @@
 # Eternal (Zomato)
 
-**165 questions** · 75 drives · latest 31 Oct 2026 · [54 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**166 questions** · 76 drives · latest 31 Oct 2026 · [54 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 52 · [SQL](../topics/sql.md) 22 · [DP](../topics/dp.md) 22 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 16 · [Aptitude](../topics/aptitude.md) 12 · [Math](../topics/math.md) 12 · [Trees](../topics/trees.md) 12 · +22 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 53 · [SQL](../topics/sql.md) 22 · [DP](../topics/dp.md) 22 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 16 · [Aptitude](../topics/aptitude.md) 12 · [Math](../topics/math.md) 12 · [Trees](../topics/trees.md) 12 · +22 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +9 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-31 · Unknown · FTE · Associate Program Manager · Interview](#2026-10-31--unknown--fte--associate-program-manager--interview)
+  - [Associate Program Manager interview: case studies](#q1-associate-program-manager-interview-case-studies)
 - [2026-10-30 · Unknown · FTE · Associate Program Manager](#2026-10-30--unknown--fte--associate-program-manager)
   - [Eternal APM OA pattern](#q1-eternal-apm-oa-pattern)
 - [2026-10-30 · IIT Indore · FTE · SDE](#2026-10-30--iit-indore--fte--sde)
@@ -253,6 +255,16 @@
 
 ---
 
+## 2026-10-31 · Unknown · FTE · Associate Program Manager · Interview
+
+### Q1. Associate Program Manager interview: case studies
+
+The interview has 2 case studies. Pen and paper are provided. Take enough time, write everything down on paper, ask questions (be interactive) and give an end-to-end solution for the problem. The OA needs no preparation: read the questions and find the odd one out from the options.
+
+The actual case prompts were not shared.
+
+<sub>Topics: Guesstimates & Cases, OA Format · Source: [chat, 31 Oct](../archive/eternal-oa/2026-10.jsonl#L382)</sub>
+
 ## 2026-10-30 · Unknown · FTE · Associate Program Manager
 
 ### Q1. Eternal APM OA pattern
@@ -347,7 +359,7 @@ The problem statement itself was not given.
 
 The OA happened on 2026-10-28 and had MCQs related to Excel. The interview was the next day.
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L355) · Also asked at: IIT Indore (2026-10-29)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L355) · Also asked at: IIT Indore ×2 (last 2026-10-31)</sub>
 
 ## 2026-10-28 · IIT Indore · FTE · Product Analyst
 
@@ -1681,7 +1693,7 @@ The OA contained:
 
 The actual questions and topics were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 26 Sep](../archive/eternal-oa/2026-09.jsonl#L89) · Also asked at: IIT Jodhpur (2026-10-20), IIT Hyderabad ×4 (last 2026-10-31)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Sep](../archive/eternal-oa/2026-09.jsonl#L89) · Also asked at: IIT Jodhpur (2026-10-20), IIT Hyderabad ×5 (last 2026-10-31)</sub>
 
 ## 2026-09-25 · IIT BHU · FTE · Product Analyst
 

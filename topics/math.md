@@ -1,9 +1,10 @@
 # Math
 
-150 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+151 questions from 41 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Quantitative aptitude practice questions](../companies/whiteoak-capital.md#q1-quantitative-aptitude-practice-questions) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Smallest multiple of Y with prefix X](../companies/mastercard.md#q3-smallest-multiple-of-y-with-prefix-x) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Make graph complete by node operations](../companies/mastercard.md#q2-make-graph-complete-by-node-operations) | |
 | 2026-10-30 | [Capital One](../companies/capital-one.md) | IIT Bombay | [Prime Path (SPOJ PPATH)](../companies/capital-one.md#q1-prime-path-spoj-ppath) | ≈ [LC 127](https://leetcode.com/problems/word-ladder/) Hard |

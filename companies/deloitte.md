@@ -1,13 +1,15 @@
 # Deloitte
 
-**64 questions** · 11 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
+**65 questions** · 12 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 9 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +10 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 10 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +10 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Indore, IIT Kanpur, MNNIT Allahabad, NIT Raipur, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-31 · IIT BHU · FTE](#2026-10-31--iit-bhu--fte)
+  - [Deloitte test format](#q1-deloitte-test-format)
 - [2026-10-30 · IIT Indore · FTE · Other round](#2026-10-30--iit-indore--fte--other-round)
   - [Vibe coding round: write a prompt](#q1-vibe-coding-round-write-a-prompt)
 - [2026-10-29 · IIT BHU · FTE](#2026-10-29--iit-bhu--fte)
@@ -87,6 +89,14 @@
 </details>
 
 ---
+
+## 2026-10-31 · IIT BHU · FTE
+
+### Q1. Deloitte test format
+
+Very ambiguous test, all MCQs. Round 1: logical reasoning (arrangement questions, very little time), verbal ability, DI, and last 50 questions on AI fluency (RAG, chunking etc.), Java and C++ code debugging, Python code result dry run, very tough CS fundamentals. Round 2 (if qualified): vibe coding and debugging.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L693)</sub>
 
 ## 2026-10-30 · IIT Indore · FTE · Other round
 
@@ -434,7 +444,7 @@ Only those who cleared round 1 were allowed to give the vibe coding round; there
 
 Deloitte Analyst OA on HirePro: 60 MCQs in 60 minutes. Sections seen in the screenshots: Verbal Ability (Q1-10), Reasoning Ability (Q11-20), Quantitative Ability (Q21-30), Technical (Q31 onwards: C++/programming, networking and cyber security, AI fluency, cloud computing basics, SQL). Poster says the questions do not repeat but the MCQ pattern is the same as earlier drives.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: IIT BHU (2026-10-29)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: IIT BHU ×2 (last 2026-10-31)</sub>
 
 ### Q2. Sentence correction: looking up them who have spoken
 
@@ -945,7 +955,7 @@ Part 1 – MCQs (60 minutes): Verbal Ability, Logical Reasoning, Quantitative Ap
 
 Part 2 – Vibe Coding (30 minutes): only candidates who clear the Part 1 cutoff can attempt it.
 
-<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L54) · Also asked at: IIT Kanpur (2026-10-27)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L54) · Also asked at: IIT Kanpur (2026-10-27), IIT BHU (2026-10-31)</sub>
 
 ## 2026-10-23 · IIT Indore · FTE
 

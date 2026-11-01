@@ -1,9 +1,11 @@
 # Two Pointers
 
-11 questions from 9 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+13 questions from 11 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Make two arrays equal by merging subarrays](../companies/cognizant.md#q3-make-two-arrays-equal-by-merging-subarrays) | |
+| 2026-10-31 | [American Express](../companies/american-express.md) | IIT Bombay | [Medium DSA two-pointer problem](../companies/american-express.md#q3-medium-dsa-two-pointer-problem) | |
 | 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Minimum cars to remove for bridge crossing](../companies/deutsche-bank.md#q2-minimum-cars-to-remove-for-bridge-crossing) | ≈ [LC 881](https://leetcode.com/problems/boats-to-save-people/) Medium |
 | 2026-10-19 | [Media.net](../companies/media-net.md) | Netaji Subhas University of Technology | [Trapping Rain Water](../companies/media-net.md#q1-trapping-rain-water) | [LC 42](https://leetcode.com/problems/trapping-rain-water/) Hard |
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | [Palindrome with Question Marks](../companies/deutsche-bank.md#q1-palindrome-with-question-marks) | ≈ [LC 125](https://leetcode.com/problems/valid-palindrome/) Easy |

@@ -1,13 +1,15 @@
 # Accenture
 
-**276 questions** · 93 drives · latest 31 Oct 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**277 questions** · 94 drives · latest 31 Oct 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 74 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +16 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 75 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +16 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-31 · IIT Dhanbad · FTE · GN Consultant](#2026-10-31--iit-dhanbad--fte--gn-consultant)
+  - [Accenture GN Consultant test pattern](#q1-accenture-gn-consultant-test-pattern)
 - [2026-10-29 · IIT Indore · FTE](#2026-10-29--iit-indore--fte)
   - [Accenture ETE frontend: input max-length, letter-spacing, trim spaces](#q1-accenture-ete-frontend-input-max-length-letter-spacing-trim-spaces)
 - [2026-10-29 · IIT Hyderabad · FTE · ETE](#2026-10-29--iit-hyderabad--fte--ete)
@@ -382,6 +384,14 @@
 
 ---
 
+## 2026-10-31 · IIT Dhanbad · FTE · GN Consultant
+
+### Q1. Accenture GN Consultant test pattern
+
+Sections: quantitative, data interpretation, verbal, abstract reasoning. Each section had its own time limit, approximately 7 minutes.
+
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/accenture-oa/2026-10.jsonl#L1408)</sub>
+
 ## 2026-10-29 · IIT Indore · FTE
 
 ### Q1. Accenture ETE frontend: input max-length, letter-spacing, trim spaces
@@ -431,7 +441,7 @@ The OA consisted only of aptitude MCQs.
 
 3 sections: 1 SQL, 1 DSA and 1 frontend; difficulty mostly easy. The frontend section has HTML, CSS and JS DOM manipulation questions where you complete the given code/functions, with comments in the code saying what to do. DSA languages allowed: Python, C# and one more (poster forgot), but no C++.
 
-<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1316), [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1319)</sub>
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1316), [chat, 29 Oct](../archive/accenture-oa/2026-10.jsonl#L1319) · Also asked at: IIT Roorkee (2026-10-31)</sub>
 
 ## 2026-10-28 · IIT Roorkee · FTE · Elite
 
@@ -1198,7 +1208,7 @@ OA format for the Accenture Elite Tech (ETE) role:
 - Languages allowed for the DSA question: Python, C# and Java.
 - At the poster's college, solving the DSA and SQL questions was enough to be shortlisted.
 
-<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L376), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L388), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L396) · Also asked at: IIT Roorkee (2026-10-23), IIT Guwahati (2026-10-23)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L376), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L388), [chat, 23 Oct](../archive/accenture-oa/2026-10.jsonl#L396) · Also asked at: IIT Roorkee (2026-10-23), IIT Guwahati (2026-10-23), IIT Indore (2026-10-31)</sub>
 
 ## 2026-10-23 · IIT BHU · FTE
 
@@ -2812,7 +2822,7 @@ Accenture Advanced Technology Engineer (ATE) OA pattern:
 
 Accenture Elite Technology (dev) role OA covers: DSA + SQL + HTML/CSS development.
 
-<sub>Topics: OA Format · Source: [chat, 6 Oct](../archive/accenture-oa/2026-10.jsonl#L1177)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Oct](../archive/accenture-oa/2026-10.jsonl#L1177) · Also asked at: IIT BHU (2026-10-31)</sub>
 
 ## 2026-10-06 · IIT BHU · FTE
 
