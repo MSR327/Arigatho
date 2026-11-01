@@ -5,7 +5,7 @@
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-01 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | IIT Guwahati | [Dungeon Game](../companies/jpmorgan-chase.md#q1-dungeon-game) | [LC 174](https://leetcode.com/problems/dungeon-game/) Hard |
-| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a grid](../companies/navi.md#q2-count-word-occurrences-in-a-grid) | |
+| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a grid](../companies/navi.md#q2-count-word-occurrences-in-a-grid) | [GfG](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) |
 | 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Minimum jumps to reach the end](../companies/navi.md#q1-minimum-jumps-to-reach-the-end) | [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
 | 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Technical coding practice list](../companies/whiteoak-capital.md#q4-technical-coding-practice-list) | |
 | 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Make two arrays equal by merging subarrays](../companies/cognizant.md#q3-make-two-arrays-equal-by-merging-subarrays) | |

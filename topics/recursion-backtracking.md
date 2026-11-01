@@ -4,7 +4,7 @@
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
-| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a grid](../companies/navi.md#q2-count-word-occurrences-in-a-grid) | |
+| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a grid](../companies/navi.md#q2-count-word-occurrences-in-a-grid) | [GfG](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) |
 | 2026-10-30 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [N-Queens](../companies/thoughtspot.md#q1-n-queens) | [LC 51](https://leetcode.com/problems/n-queens/) Hard |
 | 2026-10-30 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [Grid path sum avoiding zeros, prefer right](../companies/commonwealth-bank-of-australia.md#q2-grid-path-sum-avoiding-zeros-prefer-right) | ≈ [LC 63](https://leetcode.com/problems/unique-paths-ii/) Medium |
 | 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Count anagrams without identical adjacent characters](../companies/deutsche-bank.md#q3-count-anagrams-without-identical-adjacent-characters) | ≈ [LC 47](https://leetcode.com/problems/permutations-ii/) Medium |

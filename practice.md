@@ -91,6 +91,7 @@ For each OA coding question, the nearest problem on a practice site (LeetCode, G
 | [Codeforces 1701C. Schedule Management](https://codeforces.com/problemset/problem/1701/C) | rated 1400 | [Squarepoint](companies/squarepoint.md#q1-minimum-time-to-finish-all-instructions) (IIT Delhi) | 1 |
 | [Codeforces 859C. Pie Rules](https://codeforces.com/problemset/problem/859/C) | rated 1500 | [Squarepoint](companies/squarepoint.md#q3-two-cores-and-a-latch-optimal-operation-split) (IIT Kharagpur) | 1 |
 | [Codeforces 895C. Square Subsets](https://codeforces.com/problemset/problem/895/C) | rated 2000 | [Squarepoint](companies/squarepoint.md#q1-codeforces-895c-square-subsets) (IIT BHU) | 1 |
+| [GeeksforGeeks: Word in Grid - All Occurrences](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) | - | [Navi](companies/navi.md#q2-count-word-occurrences-in-a-grid) (IIT Delhi) | 1 |
 | [HackerRank: Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem) | Easy | [Nielsen](companies/nielsen.md#q3-caesar-cipher-variant) (VIT Vellore) | 1 |
 | [LeetCode 1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Medium | [NatWest](companies/natwest.md#q1-longest-subarray-of-ones-after-flips-variation) (IIT BHU) | 1 |
 | [LeetCode 104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [Alight Solutions](companies/alight-solutions.md#q3-height-of-binary-tree-find-the-error) (IIT Roorkee) | 1 |

@@ -4,7 +4,7 @@
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
-| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a grid](../companies/navi.md#q2-count-word-occurrences-in-a-grid) | |
+| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a grid](../companies/navi.md#q2-count-word-occurrences-in-a-grid) | [GfG](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) |
 | 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [K-Complete Word (Codeforces 1332C)](../companies/cognizant.md#q2-k-complete-word-codeforces-1332c) | [CF 1332C](https://codeforces.com/problemset/problem/1332/C) rated 1500 |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Smallest multiple of Y with prefix X](../companies/mastercard.md#q3-smallest-multiple-of-y-with-prefix-x) | |
 | 2026-10-30 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [Partition string minimum cost (alphabet variant)](../companies/cognizant.md#q1-partition-string-minimum-cost-alphabet-variant) | ≈ [LC 2767](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/) Medium |

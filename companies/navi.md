@@ -1,6 +1,6 @@
 # Navi
 
-**6 questions** · 3 drives · latest 1 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 3 drives · latest 1 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 3 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Graphs](../topics/graphs.md) 1 · [Hashing](../topics/hashing.md) 1  
 **Seen at:** IIT Delhi
@@ -58,7 +58,7 @@ Find the total number of occurrences of word in the grid, subject to the followi
 - If the word is a palindrome, count occurrences in both directions separately.
 Return the total number of occurrences.
 
-<sub>Topics: Arrays, Strings, Recursion/Backtracking · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3130)</sub>
+<sub>Topics: Arrays, Strings, Recursion/Backtracking · Close variant: [GeeksforGeeks: Word in Grid - All Occurrences](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1), straight-line word search in 8 directions from every cell · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3130)</sub>
 
 ### Q3. Most popular nodes with popular neighbours
 
