@@ -1,13 +1,17 @@
 # Flipkart
 
-**23 questions** · 11 drives · latest 30 Oct 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**27 questions** · 12 drives · latest 2 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Strings](../topics/strings.md) 3 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 2 · [SQL](../topics/sql.md) 2 · +4 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Graphs](../topics/graphs.md) 6 · [Strings](../topics/strings.md) 5 · [DP](../topics/dp.md) 5 · [Math](../topics/math.md) 4 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 2 · [SQL](../topics/sql.md) 2 · +4 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · IIT Delhi · FTE · AI Engineer](#2026-11-02--iit-delhi--fte--ai-engineer)
+  - [ASCII code question](#q1-ascii-code-question)
+  - [Count nodes with even/odd subtree children from LR/LL path strings](#q2-count-nodes-with-evenodd-subtree-children-from-lrll-path-strings)
+  - [Grid DP (difficult)](#q3-grid-dp-difficult)
 - [2026-10-30 · IIT Kharagpur/Kanpur · FTE · Data Scientist](#2026-10-30--iit-kharagpurkanpur--fte--data-scientist)
   - [Flipkart Data Scientist OA format](#q1-flipkart-data-scientist-oa-format)
 - [2026-10-28 · IIT Kanpur · FTE · AI Engineer](#2026-10-28--iit-kanpur--fte--ai-engineer)
@@ -26,6 +30,7 @@
 - [2026-10-24 · IIT Delhi · FTE · AI Engineer](#2026-10-24--iit-delhi--fte--ai-engineer)
   - [Bitmask DP on a 2D grid visiting all checkpoints with minimum distance](#q1-bitmask-dp-on-a-2d-grid-visiting-all-checkpoints-with-minimum-distance)
   - [Test format: 3 basic DSA questions](#q2-test-format-3-basic-dsa-questions)
+  - [Flipkart AI Engineer OA format](#q3-flipkart-ai-engineer-oa-format)
 - [2026-10-23 · IIT BHU · FTE](#2026-10-23--iit-bhu--fte)
   - [Chef And A Complete Graph](#q1-chef-and-a-complete-graph)
 - [2026-10-22 · IIT BHU · FTE](#2026-10-22--iit-bhu--fte)
@@ -46,6 +51,26 @@
 </details>
 
 ---
+
+## 2026-11-02 · IIT Delhi · FTE · AI Engineer
+
+### Q1. ASCII code question
+
+One basic easy-level question based on ASCII codes. The poster did not give the full statement.
+
+<sub>Topics: Strings · Source: [chat, 2 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L54)</sub>
+
+### Q2. Count nodes with even/odd subtree children from LR/LL path strings
+
+A string-based question where a tree is given and nodes are represented as strings of L/R moves (e.g. LR, LL) relative to the node. Count how many nodes have an even-sized subtree and how many have an odd-sized subtree (poster: "basically opposite"). The exact statement was not given.
+
+<sub>Topics: Trees, Strings · Same idea: [LeetCode 1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) (Medium), compute subtree sizes/sums for every node · Source: [chat, 2 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L54)</sub>
+
+### Q3. Grid DP (difficult)
+
+A grid DP question, described as on the difficult side. The poster did not give the statement.
+
+<sub>Topics: DP · Same idea: [LeetCode 64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (Medium), grid DP · Source: [chat, 2 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L54)</sub>
 
 ## 2026-10-30 · IIT Kharagpur/Kanpur · FTE · Data Scientist
 
@@ -106,7 +131,7 @@ Input: msg = "A" -> Output: 11 ('A' = 65 -> 6+5 = 11)
 
 Constraints: not recorded.
 
-<sub>Topics: Strings, Math · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi ×2 (last 2026-10-29)</sub>
+<sub>Topics: Strings, Math · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi ×3 (last 2026-10-29)</sub>
 
 ### Q2. Balanced-Parity Category Nodes
 
@@ -125,7 +150,7 @@ Input: root = 5, n = 2; L 8, LL 1; value = [5, 1, 2] -> Output: 0 (no node has t
 
 Constraints: n &lt;= 1000 (recalled as 100 or 1000).
 
-<sub>Topics: Trees · Same idea: [LeetCode 563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) (Easy), postorder subtree sums compared across children · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi ×2 (last 2026-10-29)</sub>
+<sub>Topics: Trees · Same idea: [LeetCode 563. Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) (Easy), postorder subtree sums compared across children · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi ×3 (last 2026-10-29)</sub>
 
 ### Q3. Service Engineer (minimum days to finish all servicing)
 
@@ -142,7 +167,7 @@ Input: 2 3 / 0 0 0 / 0 0 0 -> Output: 0 (no servicing required)
 Constraints: 1 &lt;= R &lt;= 30, 1 &lt;= C &lt;= 30, 0 &lt;= matrix[i][j] &lt;= 1000; number of non-zero cells &lt;= 15. Time limit 1 s, memory 256 MB.  
 Note: same as Goldman Sachs Coding Test II 'Service Engineer', except the start is fixed at (0, 0) (there, Mona can start and finish in any cell).
 
-<sub>Topics: DP, Bit Manipulation, Graphs · Same idea: [LeetCode 847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) (Hard), bitmask DP over visited targets · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi (2026-10-29)</sub>
+<sub>Topics: DP, Bit Manipulation, Graphs · Same idea: [LeetCode 847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) (Hard), bitmask DP over visited targets · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi ×2 (last 2026-10-29)</sub>
 
 ## 2026-10-24 · IIT Delhi · FTE · AI Engineer
 
@@ -159,6 +184,12 @@ Full statement and constraints were not shared.
 3 DSA questions, basic level, worth 15, 20 and 20 marks.
 
 <sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L74), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L76), [chat, 24 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L77), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L84), [chat, 25 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L90), [chat, 26 Oct](../archive/campus-iit-delhi-placements/2026-10.jsonl#L1)</sub>
+
+### Q3. Flipkart AI Engineer OA format
+
+3 coding questions, 90 minutes (IIT Delhi, 24 Oct 2026).
+
+<sub>Topics: OA Format · Source: [Flipkart - OA.pdf](../archive/files/18585-Flipkart_-_OA.pdf)</sub>
 
 ## 2026-10-23 · IIT BHU · FTE
 

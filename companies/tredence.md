@@ -1,9 +1,9 @@
 # Tredence
 
-**47 questions** · 16 drives · latest 31 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**47 questions** · 16 drives · latest 2 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 11 · [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [Aptitude](../topics/aptitude.md) 6 · [SQL](../topics/sql.md) 5 · [Arrays](../topics/arrays.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +10 more  
-**Seen at:** IIIT Hyderabad, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, VIT Vellore, VNIT Nagpur
+**Seen at:** IIIT Hyderabad, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur/Kanpur, MNNIT Allahabad, VIT Vellore +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -449,7 +449,7 @@ There were 34 MCQs, of which 2 were Python ML related questions:
 
 The actual DSA and SQL questions were not shared.
 
-<sub>Topics: OA Format, Python & Pandas · Source: [chat, 28 Oct](../archive/tredence-oa/2026-10.jsonl#L46) · Also asked at: Unknown ×2 (last 2026-10-27), IIT Hyderabad ×2 (last 2026-10-31)</sub>
+<sub>Topics: OA Format, Python & Pandas · Source: [chat, 28 Oct](../archive/tredence-oa/2026-10.jsonl#L46) · Also asked at: Unknown ×2 (last 2026-10-27), IIT Hyderabad ×2 (last 2026-10-31), IIT Kharagpur/Kanpur (2026-11-02)</sub>
 
 ### Q6. Python data cleaning and dataset summary function
 

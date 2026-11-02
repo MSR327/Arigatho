@@ -1,6 +1,6 @@
 # Mastercard
 
-**19 questions** · 10 drives · latest 31 Oct 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**19 questions** · 10 drives · latest 2 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 9 · [Other](../topics/other.md) 4 · [Strings](../topics/strings.md) 2 · [Arrays](../topics/arrays.md) 2 · [SQL](../topics/sql.md) 2 · [Math](../topics/math.md) 2 · [DP](../topics/dp.md) 1 · [Sorting](../topics/sorting.md) 1 · +3 more  
 **Seen at:** IIIT Sri City, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee
@@ -142,7 +142,7 @@ Example 2: X = 2, Y = 200. The answer is 200.
 3. Python: 4 MCQs and 1 easy coding question.
 4. MCQs on Excel (basics, pivot table, VLOOKUP, XLOOKUP), Power BI basics and logical business questions.
 
-<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/inter-iit/2026-10.jsonl#L1272) · Also asked at: IIT Roorkee ×4 (last 2026-10-30)</sub>
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/inter-iit/2026-10.jsonl#L1272) · Also asked at: IIT Roorkee ×5 (last 2026-11-02)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE
 

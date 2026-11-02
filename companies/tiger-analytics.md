@@ -1,23 +1,71 @@
 # Tiger Analytics
 
-**3 questions** · 3 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
+**9 questions** · 5 drives · latest 2 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3  
-**Seen at:** IIT BHU
+**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Python & Pandas](../topics/python-pandas.md) 2 · [Binary Search](../topics/binary-search.md) 1 · [Sliding Window](../topics/sliding-window.md) 1 · [SQL](../topics/sql.md) 1 · [Aptitude](../topics/aptitude.md) 1  
+**Seen at:** IIIT Allahabad, IIT BHU
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-10-31 · IIT BHU · FTE](#2026-10-31--iit-bhu--fte)
+- [2026-11-02 · IIT BHU · FTE](#2026-11-02--iit-bhu--fte)
+  - [Binary search problem similar to Koko eating bananas](#q1-binary-search-problem-similar-to-koko-eating-bananas)
+  - [Sliding window problem](#q2-sliding-window-problem)
+  - [NumPy: find outliers](#q3-numpy-find-outliers)
+  - [SQL window function question](#q4-sql-window-function-question)
+  - [OA pattern](#q5-oa-pattern)
+- [2026-11-02 · IIIT Allahabad · FTE](#2026-11-02--iiit-allahabad--fte)
   - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern)
-- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte)
+- [2026-10-31 · IIT BHU · FTE](#2026-10-31--iit-bhu--fte)
   - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern-1)
-- [2026-10-27 · Unknown · FTE · Trainee Analyst](#2026-10-27--unknown--fte--trainee-analyst)
+- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte)
   - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern-2)
+- [2026-10-27 · Unknown · FTE · Trainee Analyst](#2026-10-27--unknown--fte--trainee-analyst)
+  - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern-3)
 
 </details>
 
 ---
+
+## 2026-11-02 · IIT BHU · FTE
+
+### Q1. Binary search problem similar to Koko eating bananas
+
+One DSA question was a binary search problem similar to Koko Eating Bananas. Exact statement not shared.
+
+<sub>Topics: Binary Search · Similar: [LeetCode 875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) (Medium) · Source: [chat, 2 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L40), [chat, 2 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L42)</sub>
+
+### Q2. Sliding window problem
+
+One DSA question was a sliding window problem. Exact statement not shared.
+
+<sub>Topics: Sliding Window · Same idea: [LeetCode 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium), sliding window · Source: [chat, 2 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L40), [chat, 2 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L42)</sub>
+
+### Q3. NumPy: find outliers
+
+Python NumPy question: find outliers. Exact details not shared.
+
+<sub>Topics: Python & Pandas · Source: [chat, 2 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L40), [chat, 2 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L42)</sub>
+
+### Q4. SQL window function question
+
+SQL question based on window functions. Exact statement not shared.
+
+<sub>Topics: SQL · Same idea: [LeetCode 185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) (Hard), SQL window function ranking · Source: [chat, 2 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L40), [chat, 2 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L42)</sub>
+
+### Q5. OA pattern
+
+One pandas coding question, which was the most difficult for most people, plus a lot of aptitude questions.
+
+<sub>Topics: OA Format, Python & Pandas, Aptitude · Source: [chat, 2 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L44)</sub>
+
+## 2026-11-02 · IIIT Allahabad · FTE
+
+### Q1. Tiger Analytics OA pattern
+
+The OA had 3 DSA questions and 2 SQL questions. (Specific questions not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iiit-allahabad-placements/2026-11.jsonl#L7)</sub>
 
 ## 2026-10-31 · IIT BHU · FTE
 
@@ -30,7 +78,7 @@ Pattern:
 
 Individual questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3048)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3048) · Also asked at: IIT BHU (2026-11-02)</sub>
 
 ## 2026-10-28 · IIT BHU · FTE
 

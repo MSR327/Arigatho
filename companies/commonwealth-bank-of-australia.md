@@ -1,13 +1,20 @@
 # Commonwealth Bank of Australia
 
-**50 questions** · 14 drives · latest 1 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**56 questions** · 19 drives · latest 2 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 16 · [OA Format](../topics/oa-format.md) 14 · [ML/AI](../topics/ml-ai.md) 12 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 4 · [SQL](../topics/sql.md) 2 · +5 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Aptitude](../topics/aptitude.md) 16 · [ML/AI](../topics/ml-ai.md) 12 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [SQL](../topics/sql.md) 2 · +6 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · IIT Guwahati · FTE · Graduate Engineering](#2026-11-02--iit-guwahati--fte--graduate-engineering)
+  - [OA structure](#q1-oa-structure)
+  - [Travelling salesman problem (bitmask DP)](#q2-travelling-salesman-problem-bitmask-dp)
+- [2026-11-02 · IIT Guwahati · FTE · Graduate Engineer](#2026-11-02--iit-guwahati--fte--graduate-engineer)
+  - [OA structure](#q1-oa-structure-1)
+- [2026-11-01 · Unknown · FTE · Graduate Engineer](#2026-11-01--unknown--fte--graduate-engineer)
+  - [OA pattern: aptitude plus DSA coding](#q1-oa-pattern-aptitude-plus-dsa-coding)
 - [2026-11-01 · IIT Roorkee · FTE](#2026-11-01--iit-roorkee--fte)
   - [CBA OA language options by role](#q1-cba-oa-language-options-by-role)
 - [2026-11-01 · IIT Kharagpur · FTE · Graduate Engineer](#2026-11-01--iit-kharagpur--fte--graduate-engineer)
@@ -17,10 +24,14 @@
   - [OA format](#q4-oa-format)
 - [2026-11-01 · IIT Guwahati · FTE](#2026-11-01--iit-guwahati--fte)
   - [Minimum time to complete tasks on a grid](#q1-minimum-time-to-complete-tasks-on-a-grid)
-- [2026-10-31 · IIT Roorkee · FTE](#2026-10-31--iit-roorkee--fte)
+- [2026-11-01 · IIT BHU · FTE](#2026-11-01--iit-bhu--fte)
   - [CBA OA pattern](#q1-cba-oa-pattern)
-- [2026-10-31 · IIT Kanpur · FTE](#2026-10-31--iit-kanpur--fte)
+- [2026-11-01 · IIT BHU · FTE · Graduate Engineer](#2026-11-01--iit-bhu--fte--graduate-engineer)
+  - [CBA OA content](#q1-cba-oa-content)
+- [2026-10-31 · IIT Roorkee · FTE](#2026-10-31--iit-roorkee--fte)
   - [CBA OA pattern](#q1-cba-oa-pattern-1)
+- [2026-10-31 · IIT Kanpur · FTE](#2026-10-31--iit-kanpur--fte)
+  - [CBA OA pattern](#q1-cba-oa-pattern-2)
   - [People who can win after the final race](#q2-people-who-can-win-after-the-final-race)
 - [2026-10-30 · IIT Roorkee · FTE · Data Scientist](#2026-10-30--iit-roorkee--fte--data-scientist)
   - [Maximum product subarray](#q1-maximum-product-subarray)
@@ -32,11 +43,11 @@
   - [CBA OA format (Hirepro)](#q3-cba-oa-format-hirepro)
   - [Path sum in grid preferring downward moves](#q4-path-sum-in-grid-preferring-downward-moves)
 - [2026-10-29 · IIT Hyderabad · FTE · Graduate Engineer](#2026-10-29--iit-hyderabad--fte--graduate-engineer)
-  - [CBA OA pattern](#q1-cba-oa-pattern-2)
-- [2026-10-28 · IIT Guwahati · FTE · Graduate Engineering / Technology Graduate - Data Science](#2026-10-28--iit-guwahati--fte--graduate-engineering--technology-graduate---data-science)
   - [CBA OA pattern](#q1-cba-oa-pattern-3)
-- [2026-10-27 · Unknown · FTE · Graduate Engineering, Technology Graduate - Data Science](#2026-10-27--unknown--fte--graduate-engineering-technology-graduate---data-science)
+- [2026-10-28 · IIT Guwahati · FTE · Graduate Engineering / Technology Graduate - Data Science](#2026-10-28--iit-guwahati--fte--graduate-engineering--technology-graduate---data-science)
   - [CBA OA pattern](#q1-cba-oa-pattern-4)
+- [2026-10-27 · Unknown · FTE · Graduate Engineering, Technology Graduate - Data Science](#2026-10-27--unknown--fte--graduate-engineering-technology-graduate---data-science)
+  - [CBA OA pattern](#q1-cba-oa-pattern-5)
 - [2026-10-27 · IIT Hyderabad · FTE](#2026-10-27--iit-hyderabad--fte)
   - [Commonwealth Bank OA pattern](#q1-commonwealth-bank-oa-pattern)
 - [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte)
@@ -77,6 +88,42 @@
 
 ---
 
+## 2026-11-02 · IIT Guwahati · FTE · Graduate Engineering
+
+### Q1. OA structure
+
+15 MCQs on aptitude (medium level), 20 MCQs on GenAI, ML and statistics (medium level), and 1 DSA question (hard).
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L38)</sub>
+
+### Q2. Travelling salesman problem (bitmask DP)
+
+1 hard DSA question: bitmask DP, the travelling salesman problem. The full statement was not given.
+
+<sub>Topics: DP, Bit Manipulation, Graphs · Same idea: [CSES: Hamiltonian Flights](https://cses.fi/problemset/task/1690), bitmask DP over visited subsets · Source: [chat, 2 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L38) · Also asked at: IIT Guwahati (2026-11-02)</sub>
+
+## 2026-11-02 · IIT Guwahati · FTE · Graduate Engineer
+
+### Q1. OA structure
+
+Sections:
+- 15 aptitude MCQs
+- 20 MCQs on ML, DL, GenAI and statistics
+- 1 DSA coding question (hard)
+- 1 SQL question (easy)
+
+DSA and SQL together were to be solved in 30 minutes.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L22), [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L23)</sub>
+
+## 2026-11-01 · Unknown · FTE · Graduate Engineer
+
+### Q1. OA pattern: aptitude plus DSA coding
+
+Aptitude/psychometric assessment + 1–2 DSA coding questions (arrays, strings, hashing, trees, DP), with possible CS fundamentals or SQL depending on the role.
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/inter-iit/2026-11.jsonl#L11)</sub>
+
 ## 2026-11-01 · IIT Roorkee · FTE
 
 ### Q1. CBA OA language options by role
@@ -101,7 +148,7 @@ A maze is given. Start from (0,0) and move to (n-1,n-1), where you can step into
 
 Exact grid format and constraints were not given.
 
-<sub>Topics: Graphs, Arrays · Close variant: [LeetCode 1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Medium), BFS shortest path through allowed cells, -1 otherwise · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L39) · Also asked at: IIT Kharagpur (2026-11-01)</sub>
+<sub>Topics: Graphs, Arrays · Close variant: [LeetCode 1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Medium), BFS shortest path through allowed cells, -1 otherwise · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L39) · Also asked at: IIT Kharagpur ×2 (last 2026-11-01)</sub>
 
 ### Q3. MCQ section
 
@@ -130,7 +177,23 @@ Find the minimum total time required to visit and complete the work across the r
 
 The message was cut off here; the remaining statement, input format and constraints are missing.
 
-<sub>Topics: Graphs, Arrays · Source: [chat, 1 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L24)</sub>
+<sub>Topics: Graphs, Arrays · Source: [chat, 1 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L24) · Also asked at: IIT Guwahati (2026-11-01)</sub>
+
+## 2026-11-01 · IIT BHU · FTE
+
+### Q1. CBA OA pattern
+
+Pattern is one DSA question, a few aptitude questions and CS fundamentals. Pandas/NumPy are not asked.
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L9), [chat, 1 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L10)</sub>
+
+## 2026-11-01 · IIT BHU · FTE · Graduate Engineer
+
+### Q1. CBA OA content
+
+The OA contained only SQL and Python questions. No pandas question was asked.
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L22), [chat, 1 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L23)</sub>
 
 ## 2026-10-31 · IIT Roorkee · FTE
 
@@ -148,13 +211,13 @@ Aptitude (15 questions): practice questions on arranging people, about 6-7 came 
 
 Technical section: MCQs on Networking (6-7), pseudocode running (2), OOPs (simple), RAG/LLM (2-3).
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×5 (last 2026-10-31), IIT Hyderabad (2026-11-01)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×6 (last 2026-11-01), IIT Hyderabad (2026-11-01), IIT Guwahati (2026-11-01), Unknown (2026-11-02)</sub>
 
 ### Q2. People who can win after the final race
 
 Given an array of size n (n up to 10^5) with the scores of n people before the final race. In the final race the person who comes first gets n points, second gets n-1, and so on, with the last place getting 1 point. Find the number of people who can win (have the max score) after the final race.
 
-<sub>Topics: Arrays, Greedy, Sorting · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×4 (last 2026-10-31), IIT Hyderabad (2026-11-01)</sub>
+<sub>Topics: Arrays, Greedy, Sorting · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×5 (last 2026-11-01), IIT Hyderabad (2026-11-01), IIT Guwahati (2026-11-01), Unknown (2026-11-02)</sub>
 
 ## 2026-10-30 · IIT Roorkee · FTE · Data Scientist
 
@@ -210,7 +273,7 @@ Platform: Hirepro. 3 sections:
 - Section 2: 20 technical CS MCQs (20 mins)
 - Section 3: 1 coding question (25 mins)
 
-<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L204) · Also asked at: IIT Kanpur (2026-10-30), IIT BHU (2026-11-01)</sub>
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L204) · Also asked at: IIT Kanpur (2026-10-30), IIT BHU ×2 (last 2026-11-01)</sub>
 
 ### Q4. Path sum in grid preferring downward moves
 
@@ -234,7 +297,7 @@ Output:
 
 The example path is not strictly always-down-first as stated (it moves right at some points); the exact rule for choosing the direction was not fully clear from the poster.
 
-<sub>Topics: Arrays · Same idea: [LeetCode 64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (Medium), grid path moving right or down summing values · Source: [chat, 30 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L204) · Also asked at: IIT Kanpur (2026-10-30)</sub>
+<sub>Topics: Arrays · Same idea: [LeetCode 64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (Medium), grid path moving right or down summing values · Source: [chat, 30 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L204) · Also asked at: IIT Kanpur (2026-10-30), IIT BHU (2026-11-01)</sub>
 
 ## 2026-10-29 · IIT Hyderabad · FTE · Graduate Engineer
 

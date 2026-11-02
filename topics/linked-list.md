@@ -1,9 +1,11 @@
 # Linked List
 
-14 questions from 11 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+16 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Reverse a linked list recursively](../companies/unknown.md#q1-reverse-a-linked-list-recursively) | [LC 206](https://leetcode.com/problems/reverse-linked-list/) Easy |
+| 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Multiply strings as linked lists](../companies/hilabs.md#q2-multiply-strings-as-linked-lists) | [LC 43](https://leetcode.com/problems/multiply-strings/) Medium |
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Linked list MCQs and double pointers](../companies/nvidia.md#q7-linked-list-mcqs-and-double-pointers) | |
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Guwahati | [LRU Cache](../companies/natwest.md#q5-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Cortex-A72 performance: data structure, matrix order, list cycle](../companies/texas-instruments.md#q3-cortex-a72-performance-data-structure-matrix-order-list-cycle) | |

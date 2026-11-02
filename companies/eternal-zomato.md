@@ -1,13 +1,17 @@
 # Eternal (Zomato)
 
-**169 questions** · 77 drives · latest 1 Nov 2026 · [55 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**172 questions** · 78 drives · latest 2 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 54 · [SQL](../topics/sql.md) 24 · [DP](../topics/dp.md) 22 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 16 · [Aptitude](../topics/aptitude.md) 12 · [Math](../topics/math.md) 12 · [Trees](../topics/trees.md) 12 · +22 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 55 · [SQL](../topics/sql.md) 24 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 12 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +22 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +9 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · IIT BHU · FTE · Product Analyst](#2026-11-02--iit-bhu--fte--product-analyst)
+  - [OA structure](#q1-oa-structure)
+  - [Morse code decode to dictionary word](#q2-morse-code-decode-to-dictionary-word)
+  - [Minimum dice rolls to reach the end](#q3-minimum-dice-rolls-to-reach-the-end)
 - [2026-11-01 · IIT Roorkee · FTE · Product Analyst](#2026-11-01--iit-roorkee--fte--product-analyst)
   - [Eternal Product Analyst OA overview](#q1-eternal-product-analyst-oa-overview)
   - [SQL: failed transactions](#q2-sql-failed-transactions)
@@ -258,6 +262,39 @@
 </details>
 
 ---
+
+## 2026-11-02 · IIT BHU · FTE · Product Analyst
+
+### Q1. OA structure
+
+20 MCQs (20 minutes) followed by 1 coding question (60 minutes). MCQ topics: LLM / Generative AI, aptitude, pseudocode / output-based questions, SQL, and CS fundamentals (mainly Operating Systems and Cloud Computing, reported to be relatively easy). All programming languages were allowed in the coding section.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L45)</sub>
+
+### Q2. Morse code decode to dictionary word
+
+A Morse-code mapping table is provided, where each English letter maps to a combination of `.` and `-`. Given a string in Morse code, decode it and output a corresponding English word.
+
+- The output word must be present in the provided `dictionary.txt`.
+- The word's Morse-code representation must match the given input.
+- If multiple valid dictionary words can be generated, any one valid word may be printed.
+
+Input: A Morse-code string, along with the Morse-code mapping table for the alphabet.
+
+Output: Print any valid word from `dictionary.txt` whose Morse-code representation matches the given input.
+
+<sub>Topics: Strings, Hashing · Same idea: [LeetCode 804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) (Easy), convert words to Morse and match · Source: [chat, 2 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L45)</sub>
+
+### Q3. Minimum dice rolls to reach the end
+
+You are given an array A of non-negative integers of size N. You start at index 0 and need to reach an index greater than or equal to N. A special die is available. You can choose any number from 1 to 6 whenever you roll the die. At any index, there are two possible actions:
+
+- Roll the die: choose any value from 1 to 6 and jump forward by that many positions. This counts as one dice roll.
+- Use the value at the current index: jump forward by exactly A[i] positions. This action does not require a dice roll.
+
+The message was cut off here, so the rest of the statement (output and constraints) is missing. Presumably the goal is the minimum number of dice rolls.
+
+<sub>Topics: DP, Graphs · Same idea: [LeetCode 45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) (Medium), minimum jumps to reach end · Source: [chat, 2 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L45)</sub>
 
 ## 2026-11-01 · IIT Roorkee · FTE · Product Analyst
 

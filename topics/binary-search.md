@@ -1,10 +1,13 @@
 # Binary Search
 
-31 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+34 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [Binary search problem similar to Koko eating bananas](../companies/tiger-analytics.md#q1-binary-search-problem-similar-to-koko-eating-bananas) | [LC 875](https://leetcode.com/problems/koko-eating-bananas/) Medium |
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Binary search variations](../companies/unknown.md#q4-binary-search-variations) | ≈ [LC 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) Medium |
 | 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Bombay | [Maximum number of toys from parts](../companies/hilabs.md#q1-maximum-number-of-toys-from-parts) | |
+| 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Binary search question](../companies/hilabs.md#q1-binary-search-question) | ≈ [LC 704](https://leetcode.com/problems/binary-search/) Easy |
 | 2026-10-28 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [Kth ancestor of a tree node](../companies/cognizant.md#q1-kth-ancestor-of-a-tree-node) | [LC 1483](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) Hard |
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Minimum increase in experience multiplier](../companies/accenture.md#q1-minimum-increase-in-experience-multiplier) | ≈ [LC 875](https://leetcode.com/problems/koko-eating-bananas/) Medium |
 | 2026-10-28 | [Plutus Research](../companies/plutus-research.md) | IIT Guwahati | [Longest common substring across k strings](../companies/plutus-research.md#q3-longest-common-substring-across-k-strings) | ≈ [LC 1923](https://leetcode.com/problems/longest-common-subpath/) Hard |

@@ -1,9 +1,11 @@
 # Hashing
 
-88 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+90 questions from 41 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Easy map-based problem](../companies/hilabs.md#q3-easy-map-based-problem) | ≈ [LC 1](https://leetcode.com/problems/two-sum/) Easy |
+| 2026-11-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Morse code decode to dictionary word](../companies/eternal-zomato.md#q2-morse-code-decode-to-dictionary-word) | ≈ [LC 804](https://leetcode.com/problems/unique-morse-code-words/) Easy |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Right half can form a palindrome](../companies/navi.md#q1-right-half-can-form-a-palindrome) | [LC 266](https://leetcode.com/problems/palindrome-permutation/) Easy |
 | 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Most popular nodes with popular neighbours](../companies/navi.md#q3-most-popular-nodes-with-popular-neighbours) | |
 | 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Technical coding practice list](../companies/whiteoak-capital.md#q4-technical-coding-practice-list) | |

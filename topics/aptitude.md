@@ -1,9 +1,11 @@
 # Aptitude
 
-195 questions from 24 companys, newest first. [← all topics](../README.md#topics)
+197 questions from 26 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [OA pattern](../companies/tiger-analytics.md#q5-oa-pattern) |
+| 2026-11-02 | [L.E.K. Consulting](../companies/l-e-k-consulting.md) | BITS Pilani | [L.E.K. OA pattern](../companies/l-e-k-consulting.md#q1-lek-oa-pattern) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Navi BA/APM OA format](../companies/navi.md#q1-navi-baapm-oa-format) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi OA format](../companies/navi.md#q1-navi-oa-format-1) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi OA pattern](../companies/navi.md#q1-navi-oa-pattern-1) |

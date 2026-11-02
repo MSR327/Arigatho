@@ -1,9 +1,10 @@
 # HR & Behavioral
 
-21 questions from 12 companys, newest first. [← all topics](../README.md#topics)
+22 questions from 13 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-02 | [L.E.K. Consulting](../companies/l-e-k-consulting.md) | BITS Pilani | [L.E.K. OA pattern](../companies/l-e-k-consulting.md#q1-lek-oa-pattern) |
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [SDE interview rounds](../companies/eternal-zomato.md#q1-sde-interview-rounds) |
 | 2026-10-28 | [IBM](../companies/ibm.md) | IIT Guwahati | [IBM recorded competency interview format](../companies/ibm.md#q1-ibm-recorded-competency-interview-format) |
 | 2026-10-28 | [IBM](../companies/ibm.md) | IIT Kanpur | [Reorganizing plans on short notice](../companies/ibm.md#q4-reorganizing-plans-on-short-notice) |

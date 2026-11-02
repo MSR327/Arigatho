@@ -1,10 +1,18 @@
 # Strings
 
-83 questions from 39 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+91 questions from 39 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Palindrome with equal characters at distance k](../companies/cognizant.md#q2-palindrome-with-equal-characters-at-distance-k) | ≈ [LC 2948](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) Medium |
+| 2026-11-02 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Count nodes with even/odd subtree children from LR/LL path strings](../companies/flipkart.md#q2-count-nodes-with-evenodd-subtree-children-from-lrll-path-strings) | ≈ [LC 1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) Medium |
+| 2026-11-02 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [ASCII code question](../companies/flipkart.md#q1-ascii-code-question) | |
+| 2026-11-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Morse code decode to dictionary word](../companies/eternal-zomato.md#q2-morse-code-decode-to-dictionary-word) | ≈ [LC 804](https://leetcode.com/problems/unique-morse-code-words/) Easy |
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [String manipulation](../companies/unknown.md#q3-string-manipulation) | |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [String problem using DP](../companies/hilabs.md#q5-string-problem-using-dp) | ≈ [LC 1143](https://leetcode.com/problems/longest-common-subsequence/) Medium |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Maximize the Number of Partitions After Operations](../companies/hilabs.md#q1-maximize-the-number-of-partitions-after-operations) | [LC 3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) Hard |
 | 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Bombay | [Product of two reversed numbers](../companies/hilabs.md#q2-product-of-two-reversed-numbers) | |
+| 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Multiply strings as linked lists](../companies/hilabs.md#q2-multiply-strings-as-linked-lists) | [LC 43](https://leetcode.com/problems/multiply-strings/) Medium |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Right half can form a palindrome](../companies/navi.md#q1-right-half-can-form-a-palindrome) | [LC 266](https://leetcode.com/problems/palindrome-permutation/) Easy |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a character grid](../companies/navi.md#q6-count-word-occurrences-in-a-character-grid) | |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in grid along straight lines](../companies/navi.md#q2-count-word-occurrences-in-grid-along-straight-lines) | |

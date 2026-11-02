@@ -1,6 +1,6 @@
 # IBM
 
-**22 questions** · 13 drives · latest 1 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 13 drives · latest 2 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 8 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 3 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · +2 more  
 **Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +1 more
@@ -54,7 +54,7 @@
 
 One basic, very easy DSA question. Statement not given.
 
-<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2809)</sub>
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2809) · Also asked at: IIT Guwahati (2026-11-02)</sub>
 
 ## 2026-10-28 · MNNIT Allahabad · FTE
 
@@ -152,7 +152,7 @@ Given an entire codebase, API documentation, architecture and a task description
 
 2 questions on HackerRank: one easy (LeetCode-easy level) DSA question and one codebase-understanding and feature/bug-fix implementation question for web development. Same common test for both software engineer and software developer roles. Everything had to be done manually, with no AI assistance.
 
-<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: IIT Guwahati ×3 (last 2026-10-31), IIT Bombay (2026-10-31), IIT Roorkee (2026-11-01)</sub>
+<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: IIT Bombay (2026-10-31), IIT Guwahati ×4 (last 2026-11-01), IIT Roorkee (2026-11-01), Unknown (2026-11-01)</sub>
 
 ## 2026-10-24 · IIT Kanpur · FTE · Software Engineer (SWE)
 
@@ -166,7 +166,7 @@ One easy DSA question on HackerRank. The exact problem statement was not shared.
 
 One question where you must understand a complete codebase and implement features, for web development. The question is given in the framework matching the language you choose; for Python it was given in Django.
 
-<sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L13)</sub>
+<sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L13) · Also asked at: IIT Guwahati (2026-11-02)</sub>
 
 ## 2026-10-22 · IIT BHU · FTE
 

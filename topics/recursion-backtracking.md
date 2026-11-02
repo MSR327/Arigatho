@@ -1,9 +1,10 @@
 # Recursion/Backtracking
 
-24 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+25 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Reverse a linked list recursively](../companies/unknown.md#q1-reverse-a-linked-list-recursively) | [LC 206](https://leetcode.com/problems/reverse-linked-list/) Easy |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Cyclically rotate a grid in layers](../companies/navi.md#q2-cyclically-rotate-a-grid-in-layers) | [LC 1914](https://leetcode.com/problems/cyclically-rotating-a-grid/) Medium |
 | 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a grid](../companies/navi.md#q2-count-word-occurrences-in-a-grid) | [GfG](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) |
 | 2026-10-30 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [N-Queens](../companies/thoughtspot.md#q1-n-queens) | [LC 51](https://leetcode.com/problems/n-queens/) Hard |

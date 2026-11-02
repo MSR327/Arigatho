@@ -1,12 +1,17 @@
 # Graphs
 
-98 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+103 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Even-sum paths in a directed weighted graph](../companies/hilabs.md#q2-even-sum-paths-in-a-directed-weighted-graph) | ≈ [LC 797](https://leetcode.com/problems/all-paths-from-source-to-target/) Medium |
+| 2026-11-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Minimum dice rolls to reach the end](../companies/eternal-zomato.md#q3-minimum-dice-rolls-to-reach-the-end) | ≈ [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
+| 2026-11-02 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [Travelling salesman problem (bitmask DP)](../companies/commonwealth-bank-of-australia.md#q2-travelling-salesman-problem-bitmask-dp) | ≈ [CSES 1690](https://cses.fi/problemset/task/1690) |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Pairs Separated by Exactly One Special Edge](../companies/hilabs.md#q3-pairs-separated-by-exactly-one-special-edge) | |
 | 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kharagpur | [Shortest path in maze through 'D' cells](../companies/commonwealth-bank-of-australia.md#q2-shortest-path-in-maze-through-d-cells) | [LC 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) Medium |
 | 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kharagpur | [Grid path from (0,0) to (n-1,n-1)](../companies/commonwealth-bank-of-australia.md#q1-grid-path-from-00-to-n-1n-1) | ≈ [LC 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) Medium |
 | 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [Minimum time to complete tasks on a grid](../companies/commonwealth-bank-of-australia.md#q1-minimum-time-to-complete-tasks-on-a-grid) | |
+| 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Roorkee | [HiLabs topics covered in tests and interviews](../companies/hilabs.md#q1-hilabs-topics-covered-in-tests-and-interviews) | |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Simple graph indegree question](../companies/navi.md#q5-simple-graph-indegree-question) | |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Max-degree nodes whose neighbours have the largest influence](../companies/navi.md#q3-max-degree-nodes-whose-neighbours-have-the-largest-influence) | |
 | 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Most popular nodes with popular neighbours](../companies/navi.md#q3-most-popular-nodes-with-popular-neighbours) | |

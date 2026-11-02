@@ -1,6 +1,6 @@
 # JPMorgan Chase
 
-**2 questions** · 1 drive · latest 1 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**2 questions** · 1 drive · latest 2 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [DP](../topics/dp.md) 1 · [Arrays](../topics/arrays.md) 1 · [OA Format](../topics/oa-format.md) 1  
 **Seen at:** IIT Guwahati
@@ -34,4 +34,4 @@ Paper 1: Cognitive - 30 Qns - 35 Mins - 30 Marks
 
 Paper 2: Coding - 2 Qns - 60 Mins - 8 Marks
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L13) · Also asked at: IIT Guwahati (2026-11-01)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L13) · Also asked at: IIT Guwahati ×2 (last 2026-11-02)</sub>

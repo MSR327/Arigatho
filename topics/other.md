@@ -1,9 +1,11 @@
 # Other
 
-36 questions from 14 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+38 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Production debugging scenarios](../companies/hilabs.md#q1-production-debugging-scenarios) | |
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Connect Four Bot](../companies/unknown.md#q5-connect-four-bot) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [2048 Grid Simulation and Score Tracker](../companies/mastercard.md#q4-2048-grid-simulation-and-score-tracker) | ≈ [LC 2048](https://leetcode.com/problems/next-greater-numerically-balanced-number/) Medium |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Mastercard DS problem 2 (link only)](../companies/mastercard.md#q3-mastercard-ds-problem-2-link-only) | |
 | 2026-10-30 | [Mastercard](../companies/mastercard.md) | IIT Guwahati | [Excel function counting empty cells](../companies/mastercard.md#q3-excel-function-counting-empty-cells) | |

@@ -1,12 +1,17 @@
 # Math
 
-154 questions from 43 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+159 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Average Waiting Time of Customers](../companies/hilabs.md#q8-average-waiting-time-of-customers) | [LC 1701](https://leetcode.com/problems/average-waiting-time/) Medium |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Most Balls After Changing One Mark](../companies/hilabs.md#q2-most-balls-after-changing-one-mark) | |
+| 2026-11-01 | [Texas Instruments](../companies/texas-instruments.md) | IIT Delhi | [Colorful Balls](../companies/texas-instruments.md#q1-colorful-balls) | |
 | 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Bombay | [Product of two reversed numbers](../companies/hilabs.md#q2-product-of-two-reversed-numbers) | |
+| 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Multiply strings as linked lists](../companies/hilabs.md#q2-multiply-strings-as-linked-lists) | [LC 43](https://leetcode.com/problems/multiply-strings/) Medium |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Arrangements of DETAILS with vowels at odd positions](../companies/navi.md#q3-arrangements-of-details-with-vowels-at-odd-positions) | |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Arrangements of 10 letters with gap between A and B and CD together](../companies/navi.md#q2-arrangements-of-10-letters-with-gap-between-a-and-b-and-cd-together) | |
+| 2026-11-01 | [Texas Instruments](../companies/texas-instruments.md) | IIT Delhi | [Maximum money from selling paints](../companies/texas-instruments.md#q1-maximum-money-from-selling-paints) | |
 | 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Quantitative aptitude practice questions](../companies/whiteoak-capital.md#q1-quantitative-aptitude-practice-questions) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Smallest multiple of Y with prefix X](../companies/mastercard.md#q3-smallest-multiple-of-y-with-prefix-x) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Make graph complete by node operations](../companies/mastercard.md#q2-make-graph-complete-by-node-operations) | |

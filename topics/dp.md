@@ -1,9 +1,17 @@
 # DP
 
-102 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+110 questions from 39 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Even-sum paths in a directed weighted graph](../companies/hilabs.md#q2-even-sum-paths-in-a-directed-weighted-graph) | ≈ [LC 797](https://leetcode.com/problems/all-paths-from-source-to-target/) Medium |
+| 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Minimum cost to reach minimum weight with power-of-2 weights](../companies/cognizant.md#q3-minimum-cost-to-reach-minimum-weight-with-power-of-2-weights) | ≈ [LC 322](https://leetcode.com/problems/coin-change/) Medium |
+| 2026-11-02 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Grid DP (difficult)](../companies/flipkart.md#q3-grid-dp-difficult) | ≈ [LC 64](https://leetcode.com/problems/minimum-path-sum/) Medium |
+| 2026-11-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Minimum dice rolls to reach the end](../companies/eternal-zomato.md#q3-minimum-dice-rolls-to-reach-the-end) | ≈ [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
+| 2026-11-02 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [Travelling salesman problem (bitmask DP)](../companies/commonwealth-bank-of-australia.md#q2-travelling-salesman-problem-bitmask-dp) | ≈ [CSES 1690](https://cses.fi/problemset/task/1690) |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [String problem using DP](../companies/hilabs.md#q5-string-problem-using-dp) | ≈ [LC 1143](https://leetcode.com/problems/longest-common-subsequence/) Medium |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Maximize the Number of Partitions After Operations](../companies/hilabs.md#q1-maximize-the-number-of-partitions-after-operations) | [LC 3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) Hard |
+| 2026-11-01 | [Texas Instruments](../companies/texas-instruments.md) | IIT Delhi | [Colorful Balls](../companies/texas-instruments.md#q1-colorful-balls) | |
 | 2026-11-01 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | IIT Guwahati | [Dungeon Game](../companies/jpmorgan-chase.md#q1-dungeon-game) | [LC 174](https://leetcode.com/problems/dungeon-game/) Hard |
 | 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Minimum jumps to reach the end](../companies/navi.md#q1-minimum-jumps-to-reach-the-end-1) | [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
 | 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Technical coding practice list](../companies/whiteoak-capital.md#q4-technical-coding-practice-list) | |

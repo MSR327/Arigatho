@@ -1,13 +1,15 @@
 # ZS
 
-**2 questions** · 2 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 2 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Verbal](../topics/verbal.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Verbal](../topics/verbal.md) 1 · [Arrays](../topics/arrays.md) 1 · [SQL](../topics/sql.md) 1  
 **Seen at:** IIT BHU
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · Unknown · FTE](#2026-11-02--unknown--fte)
+  - [ZS OA structure and maximum product subarray](#q1-zs-oa-structure-and-maximum-product-subarray)
 - [2026-10-30 · IIT BHU · FTE](#2026-10-30--iit-bhu--fte)
   - [ZS OA format](#q1-zs-oa-format)
 - [2026-10-17 · IIT BHU · FTE](#2026-10-17--iit-bhu--fte)
@@ -16,6 +18,17 @@
 </details>
 
 ---
+
+## 2026-11-02 · Unknown · FTE
+
+### Q1. ZS OA structure and maximum product subarray
+
+Format of the ZS (DAA) OA:
+- Section 1 (20 min): 15 MCQs on Aptitude
+- Section 2 (25 min): 20 MCQs on Machine Learning (gradient boosting & classification) & Statistics, Prompt Engineering, LLM-based, RAG
+- Section 3 (30 min, SQL and DSA together): 1 SQL question where multiple tables were given but only 1 table was needed, to find an average; 1 DSA question: Maximum product in subarray
+
+<sub>Topics: OA Format, Arrays, SQL · Same problem: [LeetCode 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) (Medium), maximum product subarray tracking max/min · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L18)</sub>
 
 ## 2026-10-30 · IIT BHU · FTE
 

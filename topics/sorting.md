@@ -1,9 +1,11 @@
 # Sorting
 
-46 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+48 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Sort red, blue and white balls in-place](../companies/hilabs.md#q7-sort-red-blue-and-white-balls-in-place) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Minimum Arrows to Burst Balloons](../companies/hilabs.md#q6-minimum-arrows-to-burst-balloons) | [LC 452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) Medium |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Debug digit-sum bucket sort](../companies/navi.md#q3-debug-digit-sum-bucket-sort) | ≈ [LC 258](https://leetcode.com/problems/add-digits/) Easy |
 | 2026-10-31 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [People who can win after the final race](../companies/commonwealth-bank-of-australia.md#q2-people-who-can-win-after-the-final-race) | |
 | 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Merge overlapping intervals](../companies/paytm.md#q3-merge-overlapping-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |

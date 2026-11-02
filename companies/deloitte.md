@@ -1,6 +1,6 @@
 # Deloitte
 
-**65 questions** · 12 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
+**65 questions** · 12 drives · latest 2 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 10 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +10 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Indore, IIT Kanpur, MNNIT Allahabad, NIT Raipur, VNIT Nagpur
@@ -436,7 +436,7 @@ D. Self-attention allows sequence positions to be processed with greater paralle
 
 Only those who cleared round 1 were allowed to give the vibe coding round; there were test cases that needed to be passed. Then a debugging round was also there.
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L80), [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L81)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L80), [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L81) · Also asked at: IIT BHU (2026-11-02)</sub>
 
 ## 2026-10-27 · IIT Kanpur · FTE · Analyst
 

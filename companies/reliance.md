@@ -1,9 +1,9 @@
 # Reliance
 
-**107 questions** · 6 drives · latest 17 Oct 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**107 questions** · 6 drives · latest 1 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Mechanical](../topics/mechanical.md) 39 · [Aptitude](../topics/aptitude.md) 38 · [Verbal](../topics/verbal.md) 10 · [ML/AI](../topics/ml-ai.md) 5 · [Arrays](../topics/arrays.md) 5 · [Other](../topics/other.md) 3 · [Math](../topics/math.md) 3 · [OA Format](../topics/oa-format.md) 2 · +9 more  
-**Seen at:** IIT Guwahati, MNNIT Allahabad
+**Seen at:** IIT Guwahati, IIT Roorkee, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -1168,7 +1168,7 @@ Following are the types of supervised learning?
 
 Reliance OA (on Unstop, GET role): Aptitude matters a lot and speed is very important. There is a time limit for each question (about 45 secs / 75 secs). Core engineering questions are also asked, formula based.
 
-<sub>Topics: OA Format · Source: [chat, 7 Oct](../archive/reliance-oa/2026-10.jsonl#L8), [chat, 7 Oct](../archive/reliance-oa/2026-10.jsonl#L9)</sub>
+<sub>Topics: OA Format · Source: [chat, 7 Oct](../archive/reliance-oa/2026-10.jsonl#L8), [chat, 7 Oct](../archive/reliance-oa/2026-10.jsonl#L9) · Also asked at: IIT Roorkee (2026-11-01)</sub>
 
 ## 2026-09-21 · Unknown · FTE · Graduate Engineer Trainee
 

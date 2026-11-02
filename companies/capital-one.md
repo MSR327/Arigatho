@@ -34,7 +34,7 @@ Poster shared only a link to the SPOJ problem PPATH (https://www.spoj.com/proble
 
 Poster linked the LeetCode problem "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit" (https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) and noted that here the output is the max subarray sum. The exact statement was not given.
 
-<sub>Topics: Sliding Window, Arrays · Close variant: [LeetCode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) (Medium), monotonic deques over sliding window with limit · Source: [chat, 30 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L191) · Also asked at: IIT Bombay ×3 (last 2026-11-02)</sub>
+<sub>Topics: Sliding Window, Arrays · Close variant: [LeetCode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) (Medium), monotonic deques over sliding window with limit · Source: [chat, 30 Oct](../archive/campus-iit-kharagpur-placements/2026-10.jsonl#L191) · Also asked at: IIT Bombay ×5 (last 2026-11-02)</sub>
 
 ## 2026-10-26 · IIT Bombay · FTE
 
@@ -42,7 +42,7 @@ Poster linked the LeetCode problem "Longest Continuous Subarray With Absolute Di
 
 The poster only named the LeetCode problem (LC 3377) as a question in the Capital One OA. The full statement was not given.
 
-<sub>Topics: Graphs, Math · Similar: [LeetCode 3377. Digit Operations to Make Two Integers Equal](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/) (Medium) · Source: [chat, 26 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L25)</sub>
+<sub>Topics: Graphs, Math · Similar: [LeetCode 3377. Digit Operations to Make Two Integers Equal](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/) (Medium) · Source: [chat, 26 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L25) · Also asked at: IIT Bombay ×2 (last 2026-11-02)</sub>
 
 ### Q2. Longest subarray with absolute difference within limit
 
@@ -54,7 +54,7 @@ The poster said a question was almost similar to LC 1438. The full statement was
 
 The poster only named the LeetCode problem (LC 587) as a question in the Capital One OA. The full statement was not given.
 
-<sub>Topics: Arrays, Math · Similar: [LeetCode 587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/) (Hard) · Source: [chat, 26 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L25) · Also asked at: IIT Bombay ×4 (last 2026-11-02)</sub>
+<sub>Topics: Arrays, Math · Similar: [LeetCode 587. Erect the Fence](https://leetcode.com/problems/erect-the-fence/) (Hard) · Source: [chat, 26 Oct](../archive/campus-iit-bombay-placements/2026-10.jsonl#L25) · Also asked at: IIT Bombay ×6 (last 2026-11-02)</sub>
 
 ## 2026-10-22 · IIT BHU · FTE
 

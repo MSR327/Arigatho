@@ -1,9 +1,11 @@
 # Python & Pandas
 
-44 questions from 12 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+46 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [OA pattern](../companies/tiger-analytics.md#q5-oa-pattern) | |
+| 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [NumPy: find outliers](../companies/tiger-analytics.md#q3-numpy-find-outliers) | |
 | 2026-10-31 | [American Express](../companies/american-express.md) | IIT Bombay | [Clean data and train TF model](../companies/american-express.md#q1-clean-data-and-train-tf-model) | |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Write reusable quick_eda(df) function](../companies/tredence.md#q21-write-reusable-quick_edadf-function) | |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Fill the pandas blanks and explain](../companies/tredence.md#q20-fill-the-pandas-blanks-and-explain) | |

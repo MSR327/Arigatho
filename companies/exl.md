@@ -1,19 +1,29 @@
 # EXL
 
-**1 question** · 1 drive · latest 28 Oct 2026 · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 1 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 2  
 **Seen at:** IIT BHU
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-01 · IIT BHU · FTE · Analytics](#2026-11-01--iit-bhu--fte--analytics)
+  - [EXL test pattern](#q1-exl-test-pattern)
 - [2026-10-28 · IIT BHU · FTE · Consultant I - Analytics (Band B1)](#2026-10-28--iit-bhu--fte--consultant-i---analytics-band-b1)
   - [EXL OA format](#q1-exl-oa-format)
 
 </details>
 
 ---
+
+## 2026-11-01 · IIT BHU · FTE · Analytics
+
+### Q1. EXL test pattern
+
+Test duration 60 mins. Divided into 3 parts: Cognitive Ability, Verbal Ability and Technical.
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/exl-oa/2026-11.jsonl#L7)</sub>
 
 ## 2026-10-28 · IIT BHU · FTE · Consultant I - Analytics (Band B1)
 

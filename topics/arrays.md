@@ -1,9 +1,15 @@
 # Arrays
 
-177 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+183 questions from 53 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [ZS](../companies/zs.md) | Unknown | [ZS OA structure and maximum product subarray](../companies/zs.md#q1-zs-oa-structure-and-maximum-product-subarray) | [LC 152](https://leetcode.com/problems/maximum-product-subarray/) Medium |
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Find maximum element in an array](../companies/unknown.md#q2-find-maximum-element-in-an-array) | |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Average Waiting Time of Customers](../companies/hilabs.md#q8-average-waiting-time-of-customers) | [LC 1701](https://leetcode.com/problems/average-waiting-time/) Medium |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Sort red, blue and white balls in-place](../companies/hilabs.md#q7-sort-red-blue-and-white-balls-in-place) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Minimum Arrows to Burst Balloons](../companies/hilabs.md#q6-minimum-arrows-to-burst-balloons) | [LC 452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) Medium |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Most Balls After Changing One Mark](../companies/hilabs.md#q2-most-balls-after-changing-one-mark) | |
 | 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kharagpur | [Shortest path in maze through 'D' cells](../companies/commonwealth-bank-of-australia.md#q2-shortest-path-in-maze-through-d-cells) | [LC 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) Medium |
 | 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [Minimum time to complete tasks on a grid](../companies/commonwealth-bank-of-australia.md#q1-minimum-time-to-complete-tasks-on-a-grid) | |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Cyclically rotate a grid in layers](../companies/navi.md#q2-cyclically-rotate-a-grid-in-layers) | [LC 1914](https://leetcode.com/problems/cyclically-rotating-a-grid/) Medium |

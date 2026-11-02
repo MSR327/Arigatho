@@ -1,9 +1,9 @@
 # Navi
 
-**26 questions** · 10 drives · latest 1 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**26 questions** · 10 drives · latest 2 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 9 · [OA Format](../topics/oa-format.md) 8 · [Arrays](../topics/arrays.md) 6 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 3 · [Greedy](../topics/greedy.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Hashing](../topics/hashing.md) 2 · +4 more  
-**Seen at:** IIT Delhi, IIT Roorkee
+**Seen at:** IIT Delhi, IIT Guwahati, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -71,7 +71,7 @@ Aptitude + CS MCQs (OOP, DBMS, OS) + 2–3 coding questions (Arrays, Strings, Gr
 
 The OA was 30 minutes long with 25 aptitude-based questions. It was held at IIT Roorkee.
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L31), [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L32)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L31), [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L32) · Also asked at: IIT Roorkee (2026-11-02)</sub>
 
 ## 2026-11-01 · IIT Roorkee · FTE · SDE
 
@@ -269,4 +269,4 @@ The influence of a node is its degree (number of directly connected nodes).
 
 Only DSA questions in the Navi SDE OA (3 DSA questions). Actual questions not shared.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3163)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3163) · Also asked at: IIT Guwahati (2026-11-02)</sub>

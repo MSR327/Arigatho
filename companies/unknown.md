@@ -1,13 +1,22 @@
 # Unknown
 
-**15 questions** · 11 drives · latest 30 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 13 drives · latest 2 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Math](../topics/math.md) 2 · [Arrays](../topics/arrays.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [Graphs](../topics/graphs.md) 1 · +7 more  
-**Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee, NIT Trichy
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Math](../topics/math.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Trees](../topics/trees.md) 1 · [Graphs](../topics/graphs.md) 1 · +10 more  
+**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · IIT BHU · FTE · AI Engineer](#2026-11-02--iit-bhu--fte--ai-engineer)
+  - [AI engineer OA problem topics (Capital One / Flipkart)](#q1-ai-engineer-oa-problem-topics-capital-one--flipkart)
+- [2026-11-02 · IIIT · FTE · SDE](#2026-11-02--iiit--fte--sde)
+  - [Reverse a linked list recursively](#q1-reverse-a-linked-list-recursively)
+  - [Find maximum element in an array](#q2-find-maximum-element-in-an-array)
+  - [String manipulation](#q3-string-manipulation)
+  - [Binary search variations](#q4-binary-search-variations)
+  - [Connect Four Bot](#q5-connect-four-bot)
+  - [DSA problem solving (LC Medium-Hard)](#q6-dsa-problem-solving-lc-medium-hard)
 - [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
   - [OA pattern: aptitude, SQL, then coding](#q1-oa-pattern-aptitude-sql-then-coding)
 - [2026-10-29 · Unknown · FTE · SDE](#2026-10-29--unknown--fte--sde)
@@ -38,6 +47,63 @@
 </details>
 
 ---
+
+## 2026-11-02 · IIT BHU · FTE · AI Engineer
+
+### Q1. AI engineer OA problem topics (Capital One / Flipkart)
+
+Topics of problems reported (in reply to a request for Capital One and Flipkart AI engineer OA questions; the company is not specified):
+
+- Graph traversal with constraints: BFS / DFS
+- Trie-based string search: Trie
+- Parse valid 32-bit integers from strings: Parsing
+- Range increment/decrement queries with sum calculations: Segment Tree
+- Top-K frequent elements: Heap / Hashing
+- Sliding window maximum: Monotonic Deque
+- Tree traversal and path queries: Trees
+- SQL query using joins and aggregation: SQL
+
+Full problem statements were not given.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L36)</sub>
+
+## 2026-11-02 · IIIT · FTE · SDE
+
+### Q1. Reverse a linked list recursively
+
+Reverse a Linked List recursively (Easy).
+
+<sub>Topics: Linked List, Recursion/Backtracking · Similar: [LeetCode 206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (Easy) · Source: [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L53), [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L54)</sub>
+
+### Q2. Find maximum element in an array
+
+Find Maximum Element in an Array (Easy).
+
+<sub>Topics: Arrays · Source: [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L53), [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L54)</sub>
+
+### Q3. String manipulation
+
+A String Manipulation problem (Easy-Medium). Statement not given.
+
+<sub>Topics: Strings · Source: [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L53), [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L54)</sub>
+
+### Q4. Binary search variations
+
+Binary Search variations (Easy-Medium). Statement not given.
+
+<sub>Topics: Binary Search · Same idea: [LeetCode 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (Medium), binary search variation with bounds · Source: [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L53), [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L54)</sub>
+
+### Q5. Connect Four Bot
+
+Hackathon-style problem: build a Connect Four Bot (game logic). Statement not given.
+
+<sub>Topics: Other · Source: [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L53), [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L54)</sub>
+
+### Q6. DSA problem solving (LC Medium-Hard)
+
+DSA problem-solving at LeetCode Medium-Hard level. Details not given.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L53), [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L54)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE
 

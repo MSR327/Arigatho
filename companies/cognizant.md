@@ -1,13 +1,19 @@
 # Cognizant
 
-**16 questions** · 10 drives · latest 1 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**20 questions** · 12 drives · latest 2 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Greedy](../topics/greedy.md) 3 · [Strings](../topics/strings.md) 2 · [Trees](../topics/trees.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Sorting](../topics/sorting.md) 1 · [Other](../topics/other.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · +3 more  
-**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, NIT Raipur
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Greedy](../topics/greedy.md) 5 · [Strings](../topics/strings.md) 3 · [DP](../topics/dp.md) 2 · [Trees](../topics/trees.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Sorting](../topics/sorting.md) 1 · [Other](../topics/other.md) 1 · +4 more  
+**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, NIT Raipur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · IIT Guwahati · FTE](#2026-11-02--iit-guwahati--fte)
+  - [Cognizant DSA difficulty](#q1-cognizant-dsa-difficulty)
+  - [Palindrome with equal characters at distance k](#q2-palindrome-with-equal-characters-at-distance-k)
+  - [Minimum cost to reach minimum weight with power-of-2 weights](#q3-minimum-cost-to-reach-minimum-weight-with-power-of-2-weights)
+- [2026-11-02 · IIIT Allahabad · FTE](#2026-11-02--iiit-allahabad--fte)
+  - [Cognizant OA pattern](#q1-cognizant-oa-pattern)
 - [2026-11-01 · NIT Raipur · FTE](#2026-11-01--nit-raipur--fte)
   - [OA format: DSA, prompt engineering, RAG, full stack debugging](#q1-oa-format-dsa-prompt-engineering-rag-full-stack-debugging)
 - [2026-10-31 · Unknown · FTE · ACE Frontier Engineer · Other round](#2026-10-31--unknown--fte--ace-frontier-engineer--other-round)
@@ -38,6 +44,34 @@
 </details>
 
 ---
+
+## 2026-11-02 · IIT Guwahati · FTE
+
+### Q1. Cognizant DSA difficulty
+
+3 DSA questions: 2 were easy to medium and 1 was medium to hard. (Earlier description: one prefix sum type, one difficult string DP, one knapsack type with very high constraints; MCQs easy, on RAG/LLMs.)
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/cognizant-oa/2026-11.jsonl#L9)</sub>
+
+### Q2. Palindrome with equal characters at distance k
+
+You are given a string s of lowercase letters. Make it a palindrome, and also each character at distance k should be the same (every character at distance k must match). The poster did not give the exact statement, constraints or the cost to minimise.
+
+<sub>Topics: Strings, Greedy · Same idea: [LeetCode 2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) (Medium), union-find grouping positions for equal characters · Source: [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L27), [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L28)</sub>
+
+### Q3. Minimum cost to reach minimum weight with power-of-2 weights
+
+Given n between 1 and 30, and an array of length n where element i has a picking cost, and the weight of element i is 2^i (element 0 has weight 1, and so on). Given minweight between 1 and 1e9, find the minimum cost to achieve a total weight of at least minweight. Each element can be used any number of times.
+
+<sub>Topics: DP, Greedy, Bit Manipulation · Same idea: [LeetCode 322. Coin Change](https://leetcode.com/problems/coin-change/) (Medium), min cost to reach target with unlimited items · Source: [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L27), [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L28)</sub>
+
+## 2026-11-02 · IIIT Allahabad · FTE
+
+### Q1. Cognizant OA pattern
+
+Pattern: 2 DSA questions and 1 SQL question. (Specific questions not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iiit-allahabad-placements/2026-11.jsonl#L9)</sub>
 
 ## 2026-11-01 · NIT Raipur · FTE
 

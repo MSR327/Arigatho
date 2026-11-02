@@ -1,9 +1,10 @@
 # Software Engineering
 
-47 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+48 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Production debugging scenarios](../companies/hilabs.md#q1-production-debugging-scenarios) | |
 | 2026-10-31 | [American Express](../companies/american-express.md) | IIT Bombay | [Complete Java RAG project](../companies/american-express.md#q2-complete-java-rag-project) | |
 | 2026-10-28 | [IBM](../companies/ibm.md) | MNNIT Allahabad | [Promo code validation backend fix](../companies/ibm.md#q2-promo-code-validation-backend-fix) | |
 | 2026-10-25 | [American Express](../companies/american-express.md) | IIT Guwahati | [ETL Pipeline in Clojure](../companies/american-express.md#q3-etl-pipeline-in-clojure) | |

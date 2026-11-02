@@ -1,9 +1,11 @@
 # SQL
 
-91 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+93 questions from 21 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [ZS](../companies/zs.md) | Unknown | [ZS OA structure and maximum product subarray](../companies/zs.md#q1-zs-oa-structure-and-maximum-product-subarray) | [LC 152](https://leetcode.com/problems/maximum-product-subarray/) Medium |
+| 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [SQL window function question](../companies/tiger-analytics.md#q4-sql-window-function-question) | ≈ [LC 185](https://leetcode.com/problems/department-top-three-salaries/) Hard |
 | 2026-11-01 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [SQL: price of products in stock by country and city](../companies/eternal-zomato.md#q3-sql-price-of-products-in-stock-by-country-and-city) | ≈ [LC 175](https://leetcode.com/problems/combine-two-tables/) Easy |
 | 2026-11-01 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [SQL: failed transactions](../companies/eternal-zomato.md#q2-sql-failed-transactions) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Medicines expiring after 18 May 2018 from large hospitals](../companies/mastercard.md#q2-medicines-expiring-after-18-may-2018-from-large-hospitals) | ≈ [LC 1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) Easy |
@@ -13,7 +15,7 @@
 | 2026-10-29 | [Paytm](../companies/paytm.md) | Unknown | [Paytm SQL question on multiple joins](../companies/paytm.md#q1-paytm-sql-question-on-multiple-joins) | |
 | 2026-10-28 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [SQL: all reportees of Candice with level](../companies/tredence.md#q2-sql-all-reportees-of-candice-with-level) | |
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Indore | [SQL: Passenger details and travel lead days](../companies/accenture.md#q3-sql-passenger-details-and-travel-lead-days) | ≈ [LC 197](https://leetcode.com/problems/rising-temperature/) Easy |
-| 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-3) | |
+| 2026-10-28 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA OA pattern](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-pattern-4) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [SQL: employee with third least salary](../companies/deloitte.md#q9-sql-employee-with-third-least-salary) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [SQL: add NOT NULL constraint to hsize column](../companies/deloitte.md#q5-sql-add-not-null-constraint-to-hsize-column) | |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [SQL query using date functions (Data Engineer)](../companies/american-express.md#q1-sql-query-using-date-functions-data-engineer) | |

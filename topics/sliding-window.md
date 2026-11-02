@@ -1,9 +1,11 @@
 # Sliding Window
 
-20 questions from 11 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+22 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [Sliding window problem](../companies/tiger-analytics.md#q2-sliding-window-problem) | ≈ [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Variable sliding window problem](../companies/hilabs.md#q4-variable-sliding-window-problem) | ≈ [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
 | 2026-10-30 | [Capital One](../companies/capital-one.md) | IIT Bombay | [Longest continuous subarray with absolute diff within limit (output max subarray sum)](../companies/capital-one.md#q2-longest-continuous-subarray-with-absolute-diff-within-limit-output-max-subarray-sum) | [LC 1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) Medium |
 | 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Smallest subarray containing min and max](../companies/paytm.md#q4-smallest-subarray-containing-min-and-max) | ≈ [LC 2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) Hard |
 | 2026-10-26 | [Capital One](../companies/capital-one.md) | IIT Bombay | [Longest subarray with absolute difference within limit](../companies/capital-one.md#q2-longest-subarray-with-absolute-difference-within-limit) | [LC 1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) Medium |

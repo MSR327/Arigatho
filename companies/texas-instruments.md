@@ -1,13 +1,17 @@
 # Texas Instruments
 
-**81 questions** · 9 drives · latest 1 Nov 2026 · [← all companies](../README.md#companies)
+**83 questions** · 11 drives · latest 2 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 22 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [OA Format](../topics/oa-format.md) 5 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +3 more  
+**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 22 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [OA Format](../topics/oa-format.md) 5 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +6 more  
 **Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-01 · IIT Delhi · FTE · Embedded](#2026-11-01--iit-delhi--fte--embedded)
+  - [Maximum money from selling paints](#q1-maximum-money-from-selling-paints)
+- [2026-11-01 · IIT Delhi · FTE](#2026-11-01--iit-delhi--fte)
+  - [Colorful Balls](#q1-colorful-balls)
 - [2026-10-31 · IIT BHU · FTE · Embedded Software](#2026-10-31--iit-bhu--fte--embedded-software)
   - [TI embedded SW OA MCQ topics](#q1-ti-embedded-sw-oa-mcq-topics)
 - [2026-10-30 · Unknown · FTE](#2026-10-30--unknown--fte)
@@ -103,13 +107,53 @@
 
 ---
 
+## 2026-11-01 · IIT Delhi · FTE · Embedded
+
+### Q1. Maximum money from selling paints
+
+Given x, y, z = number of units of red, blue and green paint the painter has. Each of these three primary paints costs "s" per unit (to sell). You can also combine one unit of any two primary colours to make one unit of a mixed colour; p, q, r are the costs per unit of those three possible combinations.
+
+Given x, y, z, p, q, r, s, find the maximum money the painter can make by selling the paints.
+
+(Exact input/output format and constraints were not given.)
+
+<sub>Topics: Greedy, Math · Source: [chat, 1 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L4), [chat, 1 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L5), [chat, 1 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L7)</sub>
+
+## 2026-11-01 · IIT Delhi · FTE
+
+### Q1. Colorful Balls
+
+A shop has three types of single-colour balls: **X, Y and Z**. The available counts are **x, y, z**. Any single ball can be sold on its own for **M** rupees.
+
+The shop can also combine balls into new coloured balls:
+- **A** = one X + one Y, sells for **priceA**
+- **B** = one Y + one Z, sells for **priceB**
+- **C** = one X + one Y + one Z, sells for **priceC**
+
+Each ball can be used only once (either sold as it is or used in one combo). Unused balls are sold at **M** each.
+
+Complete the function `maxEarning(x, y, z, M, priceA, priceB, priceC)` that returns the **maximum money** the shop can earn in a day.
+
+**Constraints**
+- 0 ≤ x, y, z ≤ 100
+- 0 ≤ M, priceA, priceB, priceC ≤ 1000
+
+**Example**
+```
+Input: x=2, y=1, z=2, M=10, priceA=25, priceB=25, priceC=40
+Output: 60
+```
+Explanation: make one C (40), then sell the remaining 1 X and 1 Z singly (10 + 10). Total = 60.
+
+<sub>Topics: Math, Greedy, DP · Source: [chat, 2 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L17)</sub>
+
 ## 2026-10-31 · IIT BHU · FTE · Embedded Software
 
 ### Q1. TI embedded SW OA MCQ topics
 
 20 MCQs on C (majorly pointers), COA, DSA related MCQs, Memory management, Microprocessors and Microcontrollers. Also a DSA coding question.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/texas-instruments-oa/2026-10.jsonl#L42)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/texas-instruments-oa/2026-10.jsonl#L42) · Also asked at: IIT Delhi (2026-11-01)</sub>
 
 ## 2026-10-30 · Unknown · FTE
 
@@ -322,7 +366,7 @@ Topics for both written test and interview: basic C programming (pointers, algor
 
 Texas Instruments OA for the digital/analog role: MCQs on op-amps, aptitude questions, and questions from every core electronics topic.
 
-<sub>Topics: OA Format, Analog Electronics · Source: [chat, 25 Oct](../archive/inter-iit/2026-10.jsonl#L993) · Also asked at: IIT Delhi ×2 (last 2026-11-01)</sub>
+<sub>Topics: OA Format, Analog Electronics · Source: [chat, 25 Oct](../archive/inter-iit/2026-10.jsonl#L993) · Also asked at: IIT Delhi ×3 (last 2026-11-02)</sub>
 
 ## 2026-10-18 · IIIT Hyderabad · FTE · Analog / Digital
 

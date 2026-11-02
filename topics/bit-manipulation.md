@@ -1,9 +1,12 @@
 # Bit Manipulation
 
-29 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+32 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Minimum cost to reach minimum weight with power-of-2 weights](../companies/cognizant.md#q3-minimum-cost-to-reach-minimum-weight-with-power-of-2-weights) | ≈ [LC 322](https://leetcode.com/problems/coin-change/) Medium |
+| 2026-11-02 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [Travelling salesman problem (bitmask DP)](../companies/commonwealth-bank-of-australia.md#q2-travelling-salesman-problem-bitmask-dp) | ≈ [CSES 1690](https://cses.fi/problemset/task/1690) |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Maximize the Number of Partitions After Operations](../companies/hilabs.md#q1-maximize-the-number-of-partitions-after-operations) | [LC 3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) Hard |
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Bitwise operator side effects](../companies/nvidia.md#q4-bitwise-operator-side-effects) | |
 | 2026-10-29 | [PeopleStrong](../companies/peoplestrong.md) | IIT Guwahati | [Hard recursion/bitmask question](../companies/peoplestrong.md#q3-hard-recursionbitmask-question) | |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Count paths that can form a palindrome in a tree](../companies/qicap.md#q3-count-paths-that-can-form-a-palindrome-in-a-tree) | [LC 2791](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) Hard |
