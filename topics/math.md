@@ -1,9 +1,12 @@
 # Math
 
-151 questions from 41 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+154 questions from 43 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Bombay | [Product of two reversed numbers](../companies/hilabs.md#q2-product-of-two-reversed-numbers) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Arrangements of DETAILS with vowels at odd positions](../companies/navi.md#q3-arrangements-of-details-with-vowels-at-odd-positions) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Arrangements of 10 letters with gap between A and B and CD together](../companies/navi.md#q2-arrangements-of-10-letters-with-gap-between-a-and-b-and-cd-together) | |
 | 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Quantitative aptitude practice questions](../companies/whiteoak-capital.md#q1-quantitative-aptitude-practice-questions) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Smallest multiple of Y with prefix X](../companies/mastercard.md#q3-smallest-multiple-of-y-with-prefix-x) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Make graph complete by node operations](../companies/mastercard.md#q2-make-graph-complete-by-node-operations) | |

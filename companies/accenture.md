@@ -1,13 +1,15 @@
 # Accenture
 
-**277 questions** · 94 drives · latest 31 Oct 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**278 questions** · 95 drives · latest 1 Nov 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 75 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +16 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 76 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +16 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-01 · IIT Indore · FTE · Strategy & Consulting](#2026-11-01--iit-indore--fte--strategy--consulting)
+  - [Communication round format](#q1-communication-round-format)
 - [2026-10-31 · IIT Dhanbad · FTE · GN Consultant](#2026-10-31--iit-dhanbad--fte--gn-consultant)
   - [Accenture GN Consultant test pattern](#q1-accenture-gn-consultant-test-pattern)
 - [2026-10-29 · IIT Indore · FTE](#2026-10-29--iit-indore--fte)
@@ -383,6 +385,14 @@
 </details>
 
 ---
+
+## 2026-11-01 · IIT Indore · FTE · Strategy & Consulting
+
+### Q1. Communication round format
+
+The communication round is all about grammar, and you also have to write an email.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 1 Nov](../archive/accenture-oa/2026-11.jsonl#L9)</sub>
 
 ## 2026-10-31 · IIT Dhanbad · FTE · GN Consultant
 

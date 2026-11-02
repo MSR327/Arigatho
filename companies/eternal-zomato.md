@@ -1,13 +1,17 @@
 # Eternal (Zomato)
 
-**166 questions** · 76 drives · latest 31 Oct 2026 · [54 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**169 questions** · 77 drives · latest 1 Nov 2026 · [55 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 53 · [SQL](../topics/sql.md) 22 · [DP](../topics/dp.md) 22 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 16 · [Aptitude](../topics/aptitude.md) 12 · [Math](../topics/math.md) 12 · [Trees](../topics/trees.md) 12 · +22 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 54 · [SQL](../topics/sql.md) 24 · [DP](../topics/dp.md) 22 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 16 · [Aptitude](../topics/aptitude.md) 12 · [Math](../topics/math.md) 12 · [Trees](../topics/trees.md) 12 · +22 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +9 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-01 · IIT Roorkee · FTE · Product Analyst](#2026-11-01--iit-roorkee--fte--product-analyst)
+  - [Eternal Product Analyst OA overview](#q1-eternal-product-analyst-oa-overview)
+  - [SQL: failed transactions](#q2-sql-failed-transactions)
+  - [SQL: price of products in stock by country and city](#q3-sql-price-of-products-in-stock-by-country-and-city)
 - [2026-10-31 · Unknown · FTE · Associate Program Manager · Interview](#2026-10-31--unknown--fte--associate-program-manager--interview)
   - [Associate Program Manager interview: case studies](#q1-associate-program-manager-interview-case-studies)
 - [2026-10-30 · Unknown · FTE · Associate Program Manager](#2026-10-30--unknown--fte--associate-program-manager)
@@ -254,6 +258,28 @@
 </details>
 
 ---
+
+## 2026-11-01 · IIT Roorkee · FTE · Product Analyst
+
+### Q1. Eternal Product Analyst OA overview
+
+Aptitude: 6-7 questions, easy to medium, same as those on OA Helper.
+
+SQL: all three questions were the same as on OA Helper.
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L8)</sub>
+
+### Q2. SQL: failed transactions
+
+One SQL question was about failed transactions. The poster gave no further details of the statement.
+
+<sub>Topics: SQL · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L8)</sub>
+
+### Q3. SQL: price of products in stock by country and city
+
+Using country name and city name, find the price of products that are in stock. Solvable with a simple join and a WHERE clause. The poster gave no further details of the schema.
+
+<sub>Topics: SQL · Same idea: [LeetCode 175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) (Easy), simple join between tables · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L8)</sub>
 
 ## 2026-10-31 · Unknown · FTE · Associate Program Manager · Interview
 
@@ -1113,13 +1139,13 @@ Choose the correct goodness of fit test with corresponding distributions. (Optio
 
 Codeforces problem 1324F. Only the problem reference was given, not the statement.
 
-<sub>Topics: Trees, DP · Same problem: [Codeforces 1324F. Maximum White Subtree](https://codeforces.com/problemset/problem/1324/F) (rated 1800), the named Codeforces problem · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati (2026-10-27)</sub>
+<sub>Topics: Trees, DP · Same problem: [Codeforces 1324F. Maximum White Subtree](https://codeforces.com/problemset/problem/1324/F) (rated 1800), the named Codeforces problem · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati ×2 (last 2026-11-01)</sub>
 
 ### Q2. LeetCode 924 (infection spread problem)
 
 LeetCode problem 924. Only the problem reference was given, not the statement.
 
-<sub>Topics: Graphs · Similar: [LeetCode 924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) (Hard) · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati (2026-10-27)</sub>
+<sub>Topics: Graphs · Similar: [LeetCode 924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) (Hard) · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati ×2 (last 2026-11-01)</sub>
 
 ### Q3. Index of first greater element in another array
 
@@ -1127,7 +1153,7 @@ Given two arrays a and b. For each element in a (a[i]), you have to find the ind
 
 You have to return the vector of indices.
 
-<sub>Topics: Arrays, Binary Search · Same idea: [LeetCode 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) (Easy), binary search first greater element · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati (2026-10-27)</sub>
+<sub>Topics: Arrays, Binary Search · Same idea: [LeetCode 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) (Easy), binary search first greater element · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati ×2 (last 2026-11-01)</sub>
 
 ## 2026-10-07 · IIT Guwahati · FTE · Product Analyst
 
@@ -1147,7 +1173,7 @@ Need to solve all 3 SQL questions correctly to get shortlisted. No pandas questi
 
 SQL question: find the cities having more customers than the average. (Only the gist of the question was recalled; the table schema is not given.)
 
-<sub>Topics: SQL · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L330), [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L333), [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati (2026-10-27)</sub>
+<sub>Topics: SQL · Source: [chat, 6 Oct](../archive/eternal-oa/2026-10.jsonl#L330), [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L333), [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati (2026-10-27), IIT Roorkee (2026-11-01)</sub>
 
 ### Q3. Duplicate bid detection
 

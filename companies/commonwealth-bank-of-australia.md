@@ -1,15 +1,22 @@
 # Commonwealth Bank of Australia
 
-**45 questions** · 12 drives · latest 1 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**50 questions** · 14 drives · latest 1 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 16 · [OA Format](../topics/oa-format.md) 12 · [ML/AI](../topics/ml-ai.md) 12 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · +5 more  
-**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee
+**Asks about:** [Aptitude](../topics/aptitude.md) 16 · [OA Format](../topics/oa-format.md) 14 · [ML/AI](../topics/ml-ai.md) 12 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 4 · [SQL](../topics/sql.md) 2 · +5 more  
+**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-11-01 · IIT Roorkee · FTE](#2026-11-01--iit-roorkee--fte)
   - [CBA OA language options by role](#q1-cba-oa-language-options-by-role)
+- [2026-11-01 · IIT Kharagpur · FTE · Graduate Engineer](#2026-11-01--iit-kharagpur--fte--graduate-engineer)
+  - [Grid path from (0,0) to (n-1,n-1)](#q1-grid-path-from-00-to-n-1n-1)
+  - [Shortest path in maze through 'D' cells](#q2-shortest-path-in-maze-through-d-cells)
+  - [MCQ section](#q3-mcq-section)
+  - [OA format](#q4-oa-format)
+- [2026-11-01 · IIT Guwahati · FTE](#2026-11-01--iit-guwahati--fte)
+  - [Minimum time to complete tasks on a grid](#q1-minimum-time-to-complete-tasks-on-a-grid)
 - [2026-10-31 · IIT Roorkee · FTE](#2026-10-31--iit-roorkee--fte)
   - [CBA OA pattern](#q1-cba-oa-pattern)
 - [2026-10-31 · IIT Kanpur · FTE](#2026-10-31--iit-kanpur--fte)
@@ -78,6 +85,53 @@ For the Tech role, both C++ and Python are offered. For the Data Science role, o
 
 <sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L2)</sub>
 
+## 2026-11-01 · IIT Kharagpur · FTE · Graduate Engineer
+
+### Q1. Grid path from (0,0) to (n-1,n-1)
+
+Graph traversal on a grid from (0,0) to (n-1,n-1), where you can move in all 4 directions.
+
+(Full statement, constraints and objective not given. MCQs were different from earlier ones.)
+
+<sub>Topics: Graphs · Same idea: [LeetCode 1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Medium), BFS shortest path on grid from corner to corner · Source: [chat, 1 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L28)</sub>
+
+### Q2. Shortest path in maze through 'D' cells
+
+A maze is given. Start from (0,0) and move to (n-1,n-1), where you can step into a cell only if it has the value 'D'. Return the least number of steps needed to reach the destination, or -1 if it is not possible. (BFS approach.)
+
+Exact grid format and constraints were not given.
+
+<sub>Topics: Graphs, Arrays · Close variant: [LeetCode 1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Medium), BFS shortest path through allowed cells, -1 otherwise · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L39) · Also asked at: IIT Kharagpur (2026-11-01)</sub>
+
+### Q3. MCQ section
+
+The OA also had MCQs besides the coding question (topics and count not given).
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L39)</sub>
+
+### Q4. OA format
+
+MCQs and 1 coding question.
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L4)</sub>
+
+## 2026-11-01 · IIT Guwahati · FTE
+
+### Q1. Minimum time to complete tasks on a grid
+
+You are given a 2D grid of size n x m, representing a map of tasks. Each cell (i, j) contains an integer A[i][j]:
+
+- If A[i][j] > 0, it is the time required to complete the work at that cell.
+- If A[i][j] = 0, the cell is empty (no work required, but it can be traversed).
+
+You start from a given starting position (or choose your starting position depending on the variant) and can move to any adjacent cell (up, down, left, right). Each movement between two adjacent cells costs a fixed 2 units of time, regardless of whether the target cell has work or is empty (0). To complete the work at a cell, you must spend the full work time A[i][j] at that cell. Work at a cell is completed only once.
+
+Find the minimum total time required to visit and complete the work across the required cells.
+
+The message was cut off here; the remaining statement, input format and constraints are missing.
+
+<sub>Topics: Graphs, Arrays · Source: [chat, 1 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L24)</sub>
+
 ## 2026-10-31 · IIT Roorkee · FTE
 
 ### Q1. CBA OA pattern
@@ -94,13 +148,13 @@ Aptitude (15 questions): practice questions on arranging people, about 6-7 came 
 
 Technical section: MCQs on Networking (6-7), pseudocode running (2), OOPs (simple), RAG/LLM (2-3).
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×5 (last 2026-10-31)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×5 (last 2026-10-31), IIT Hyderabad (2026-11-01)</sub>
 
 ### Q2. People who can win after the final race
 
 Given an array of size n (n up to 10^5) with the scores of n people before the final race. In the final race the person who comes first gets n points, second gets n-1, and so on, with the last place getting 1 point. Find the number of people who can win (have the max score) after the final race.
 
-<sub>Topics: Arrays, Greedy, Sorting · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×4 (last 2026-10-31)</sub>
+<sub>Topics: Arrays, Greedy, Sorting · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1287), [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1288) · Also asked at: IIT Roorkee ×4 (last 2026-10-31), IIT Hyderabad (2026-11-01)</sub>
 
 ## 2026-10-30 · IIT Roorkee · FTE · Data Scientist
 

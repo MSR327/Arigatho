@@ -1,9 +1,9 @@
 # HiLabs
 
-**5 questions** · 5 drives · latest 1 Nov 2026 · [← all companies](../README.md#companies)
+**7 questions** · 6 drives · latest 1 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 5  
-**Seen at:** IIT BHU, IIT Guwahati, IIT Madras
+**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Greedy](../topics/greedy.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Math](../topics/math.md) 1 · [Strings](../topics/strings.md) 1  
+**Seen at:** IIT BHU, IIT Bombay, IIT Guwahati, IIT Kharagpur, IIT Madras
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -12,6 +12,9 @@
   - [HiLabs AI role topics](#q1-hilabs-ai-role-topics)
 - [2026-11-01 · IIT Madras · FTE](#2026-11-01--iit-madras--fte)
   - [HiLabs OA pattern](#q1-hilabs-oa-pattern)
+- [2026-11-01 · IIT Bombay · FTE · SDE](#2026-11-01--iit-bombay--fte--sde)
+  - [Maximum number of toys from parts](#q1-maximum-number-of-toys-from-parts)
+  - [Product of two reversed numbers](#q2-product-of-two-reversed-numbers)
 - [2026-10-31 · IIT Guwahati · FTE · AI Engineer](#2026-10-31--iit-guwahati--fte--ai-engineer)
   - [HiLabs AI Engineer OA pattern](#q1-hilabs-ai-engineer-oa-pattern)
 - [2026-10-31 · IIT BHU · FTE · AI Engineer](#2026-10-31--iit-bhu--fte--ai-engineer)
@@ -50,7 +53,25 @@ Held on the Unstop platform, 3 sections:
 
 The coding questions themselves were not described.
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L2), [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L4)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L2), [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L4) · Also asked at: IIT Kharagpur ×2 (last 2026-11-01), IIT Bombay (2026-11-01)</sub>
+
+## 2026-11-01 · IIT Bombay · FTE · SDE
+
+### Q1. Maximum number of toys from parts
+
+You have to build toys. One toy requires k distinct parts. You are given an array of n integers where a[i] denotes the quantity of part of type i. What is the maximum number of toys you can build?
+
+(Exact constraints and examples not given.)
+
+<sub>Topics: Greedy, Binary Search · Source: [chat, 1 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L15) · Also asked at: IIT BHU (2026-11-01)</sub>
+
+### Q2. Product of two reversed numbers
+
+You are given 2 numbers. One of them is always a single-digit number. Both given numbers are the reversed forms of the original numbers. Find the product of the original numbers.
+
+(Exact constraints and examples not given.)
+
+<sub>Topics: Math, Strings · Source: [chat, 1 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L15)</sub>
 
 ## 2026-10-31 · IIT Guwahati · FTE · AI Engineer
 

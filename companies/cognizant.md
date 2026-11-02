@@ -1,13 +1,15 @@
 # Cognizant
 
-**15 questions** · 9 drives · latest 31 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**16 questions** · 10 drives · latest 1 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Greedy](../topics/greedy.md) 3 · [Strings](../topics/strings.md) 2 · [Trees](../topics/trees.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Sorting](../topics/sorting.md) 1 · [Other](../topics/other.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · +3 more  
-**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Greedy](../topics/greedy.md) 3 · [Strings](../topics/strings.md) 2 · [Trees](../topics/trees.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Sorting](../topics/sorting.md) 1 · [Other](../topics/other.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · +3 more  
+**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, NIT Raipur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-01 · NIT Raipur · FTE](#2026-11-01--nit-raipur--fte)
+  - [OA format: DSA, prompt engineering, RAG, full stack debugging](#q1-oa-format-dsa-prompt-engineering-rag-full-stack-debugging)
 - [2026-10-31 · Unknown · FTE · ACE Frontier Engineer · Other round](#2026-10-31--unknown--fte--ace-frontier-engineer--other-round)
   - [Cognizant process: OA and interview](#q1-cognizant-process-oa-and-interview)
 - [2026-10-31 · IIT Hyderabad · FTE · ACE Frontier Engineer](#2026-10-31--iit-hyderabad--fte--ace-frontier-engineer)
@@ -36,6 +38,14 @@
 </details>
 
 ---
+
+## 2026-11-01 · NIT Raipur · FTE
+
+### Q1. OA format: DSA, prompt engineering, RAG, full stack debugging
+
+1 DSA question (poster got a DP problem) + 1 prompt engineering question + 1 RAG pipeline building question + 1 full stack debugging question.
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L2)</sub>
 
 ## 2026-10-31 · Unknown · FTE · ACE Frontier Engineer · Other round
 
@@ -69,7 +79,7 @@ The OA has four sections: DSA, prompt engineering, two debugging questions, and 
 
 DSA questions as recalled: one prefix-sum type, one difficult string DP, and one knapsack-type with very high constraints (even DP gave MLE).
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L40), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L44), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L45), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L46), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L48)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L40), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L44), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L45), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L46), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L48) · Also asked at: IIT Guwahati (2026-11-01)</sub>
 
 ### Q2. K-Complete Word (Codeforces 1332C)
 
@@ -87,7 +97,7 @@ Your objective is to make array A and array B exactly identical (same final leng
 
 Output: Find the maximum possible length of the resulting arrays after applying the operations optimally. If it is impossible to make the two arrays exactly equal, output -1.
 
-<sub>Topics: Arrays, Two Pointers, Greedy · Source: [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L40), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L44), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L45), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L46), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L48)</sub>
+<sub>Topics: Arrays, Two Pointers, Greedy · Source: [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L40), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L44), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L45), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L46), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L48) · Also asked at: IIT Guwahati (2026-11-01)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE · ACE Frontier Engineer
 

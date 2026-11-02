@@ -1,13 +1,15 @@
 # Amazon
 
-**4 questions** · 3 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
+**5 questions** · 4 drives · latest 1 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
-**Seen at:** BITS, IIT BHU, IIT Guwahati
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
+**Seen at:** BITS, IIT BHU, IIT Guwahati, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-01 · MNNIT Allahabad · FTE](#2026-11-01--mnnit-allahabad--fte)
+  - [Amazon OA pattern](#q1-amazon-oa-pattern)
 - [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
   - [Amazon on-campus OA format](#q1-amazon-on-campus-oa-format)
 - [2026-10-29 · BITS · FTE · SDE](#2026-10-29--bits--fte--sde)
@@ -19,6 +21,18 @@
 </details>
 
 ---
+
+## 2026-11-01 · MNNIT Allahabad · FTE
+
+### Q1. Amazon OA pattern
+
+Same as the off-campus application:
+
+- 1 DSA question
+- 1 debugging question (backend)
+- then a psychometric test including mail replies and your behaviour
+
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L5), [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L6)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE
 
@@ -34,7 +48,7 @@
 
 The only change in the Amazon OA pattern is one "Find the bug" question, where you are given a codebase with a basic AI assistant.
 
-<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/amazon-oa/2026-10.jsonl#L27)</sub>
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/amazon-oa/2026-10.jsonl#L27) · Also asked at: MNNIT Allahabad (2026-11-01)</sub>
 
 ## 2026-10-03 · IIT BHU · FTE · Applied Scientist · Interview
 

@@ -1,12 +1,18 @@
 # Arrays
 
-171 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+177 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kharagpur | [Shortest path in maze through 'D' cells](../companies/commonwealth-bank-of-australia.md#q2-shortest-path-in-maze-through-d-cells) | [LC 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) Medium |
+| 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [Minimum time to complete tasks on a grid](../companies/commonwealth-bank-of-australia.md#q1-minimum-time-to-complete-tasks-on-a-grid) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Cyclically rotate a grid in layers](../companies/navi.md#q2-cyclically-rotate-a-grid-in-layers) | [LC 1914](https://leetcode.com/problems/cyclically-rotating-a-grid/) Medium |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a character grid](../companies/navi.md#q6-count-word-occurrences-in-a-character-grid) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in grid along straight lines](../companies/navi.md#q2-count-word-occurrences-in-grid-along-straight-lines) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Minimum jumps to reach the end](../companies/navi.md#q1-minimum-jumps-to-reach-the-end) | [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
 | 2026-11-01 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | IIT Guwahati | [Dungeon Game](../companies/jpmorgan-chase.md#q1-dungeon-game) | [LC 174](https://leetcode.com/problems/dungeon-game/) Hard |
 | 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a grid](../companies/navi.md#q2-count-word-occurrences-in-a-grid) | [GfG](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) |
-| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Minimum jumps to reach the end](../companies/navi.md#q1-minimum-jumps-to-reach-the-end) | [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
+| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Minimum jumps to reach the end](../companies/navi.md#q1-minimum-jumps-to-reach-the-end-1) | [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
 | 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Technical coding practice list](../companies/whiteoak-capital.md#q4-technical-coding-practice-list) | |
 | 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Make two arrays equal by merging subarrays](../companies/cognizant.md#q3-make-two-arrays-equal-by-merging-subarrays) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [2048 Grid Simulation and Score Tracker](../companies/mastercard.md#q4-2048-grid-simulation-and-score-tracker) | ≈ [LC 2048](https://leetcode.com/problems/next-greater-numerically-balanced-number/) Medium |

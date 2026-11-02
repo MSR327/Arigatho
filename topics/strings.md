@@ -1,9 +1,13 @@
 # Strings
 
-79 questions from 38 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+83 questions from 39 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Bombay | [Product of two reversed numbers](../companies/hilabs.md#q2-product-of-two-reversed-numbers) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Right half can form a palindrome](../companies/navi.md#q1-right-half-can-form-a-palindrome) | [LC 266](https://leetcode.com/problems/palindrome-permutation/) Easy |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a character grid](../companies/navi.md#q6-count-word-occurrences-in-a-character-grid) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in grid along straight lines](../companies/navi.md#q2-count-word-occurrences-in-grid-along-straight-lines) | |
 | 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a grid](../companies/navi.md#q2-count-word-occurrences-in-a-grid) | [GfG](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) |
 | 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [K-Complete Word (Codeforces 1332C)](../companies/cognizant.md#q2-k-complete-word-codeforces-1332c) | [CF 1332C](https://codeforces.com/problemset/problem/1332/C) rated 1500 |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Smallest multiple of Y with prefix X](../companies/mastercard.md#q3-smallest-multiple-of-y-with-prefix-x) | |

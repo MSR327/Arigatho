@@ -1,9 +1,10 @@
 # Verbal
 
-36 questions from 7 companys, newest first. [← all topics](../README.md#topics)
+37 questions from 7 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-01 | [Accenture](../companies/accenture.md) | IIT Indore | [Communication round format](../companies/accenture.md#q1-communication-round-format) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence communication round contents](../companies/tredence.md#q1-tredence-communication-round-contents) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Pick the synonym of 'detestable'](../companies/tredence.md#q18-pick-the-synonym-of-detestable) |
 | 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Email writing round](../companies/accenture.md#q1-email-writing-round) |

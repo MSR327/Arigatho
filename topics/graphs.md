@@ -1,9 +1,14 @@
 # Graphs
 
-93 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+98 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kharagpur | [Shortest path in maze through 'D' cells](../companies/commonwealth-bank-of-australia.md#q2-shortest-path-in-maze-through-d-cells) | [LC 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) Medium |
+| 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kharagpur | [Grid path from (0,0) to (n-1,n-1)](../companies/commonwealth-bank-of-australia.md#q1-grid-path-from-00-to-n-1n-1) | ≈ [LC 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) Medium |
+| 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [Minimum time to complete tasks on a grid](../companies/commonwealth-bank-of-australia.md#q1-minimum-time-to-complete-tasks-on-a-grid) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Simple graph indegree question](../companies/navi.md#q5-simple-graph-indegree-question) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Max-degree nodes whose neighbours have the largest influence](../companies/navi.md#q3-max-degree-nodes-whose-neighbours-have-the-largest-influence) | |
 | 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Most popular nodes with popular neighbours](../companies/navi.md#q3-most-popular-nodes-with-popular-neighbours) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Make graph complete by node operations](../companies/mastercard.md#q2-make-graph-complete-by-node-operations) | |
 | 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Simple DFS question (easy)](../companies/eternal-zomato.md#q3-simple-dfs-question-easy) | |

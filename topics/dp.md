@@ -5,7 +5,7 @@
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-01 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | IIT Guwahati | [Dungeon Game](../companies/jpmorgan-chase.md#q1-dungeon-game) | [LC 174](https://leetcode.com/problems/dungeon-game/) Hard |
-| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Minimum jumps to reach the end](../companies/navi.md#q1-minimum-jumps-to-reach-the-end) | [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
+| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Minimum jumps to reach the end](../companies/navi.md#q1-minimum-jumps-to-reach-the-end-1) | [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
 | 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Technical coding practice list](../companies/whiteoak-capital.md#q4-technical-coding-practice-list) | |
 | 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [DP on trees question](../companies/eternal-zomato.md#q4-dp-on-trees-question) | |
 | 2026-10-30 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Maximum product subarray](../companies/commonwealth-bank-of-australia.md#q1-maximum-product-subarray) | [LC 152](https://leetcode.com/problems/maximum-product-subarray/) Medium |

@@ -1,9 +1,10 @@
 # Hashing
 
-87 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+88 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Right half can form a palindrome](../companies/navi.md#q1-right-half-can-form-a-palindrome) | [LC 266](https://leetcode.com/problems/palindrome-permutation/) Easy |
 | 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Most popular nodes with popular neighbours](../companies/navi.md#q3-most-popular-nodes-with-popular-neighbours) | |
 | 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Technical coding practice list](../companies/whiteoak-capital.md#q4-technical-coding-practice-list) | |
 | 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Hash map DSA question (easy)](../companies/eternal-zomato.md#q2-hash-map-dsa-question-easy) | |

@@ -1,10 +1,12 @@
 # Greedy
 
-64 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+66 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
-| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Minimum jumps to reach the end](../companies/navi.md#q1-minimum-jumps-to-reach-the-end) | [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
+| 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Bombay | [Maximum number of toys from parts](../companies/hilabs.md#q1-maximum-number-of-toys-from-parts) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Minimum jumps to reach the end](../companies/navi.md#q1-minimum-jumps-to-reach-the-end) | [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
+| 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Minimum jumps to reach the end](../companies/navi.md#q1-minimum-jumps-to-reach-the-end-1) | [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
 | 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Make two arrays equal by merging subarrays](../companies/cognizant.md#q3-make-two-arrays-equal-by-merging-subarrays) | |
 | 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [K-Complete Word (Codeforces 1332C)](../companies/cognizant.md#q2-k-complete-word-codeforces-1332c) | [CF 1332C](https://codeforces.com/problemset/problem/1332/C) rated 1500 |
 | 2026-10-31 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [People who can win after the final race](../companies/commonwealth-bank-of-australia.md#q2-people-who-can-win-after-the-final-race) | |

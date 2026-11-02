@@ -1,9 +1,11 @@
 # SQL
 
-89 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+91 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [SQL: price of products in stock by country and city](../companies/eternal-zomato.md#q3-sql-price-of-products-in-stock-by-country-and-city) | ≈ [LC 175](https://leetcode.com/problems/combine-two-tables/) Easy |
+| 2026-11-01 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [SQL: failed transactions](../companies/eternal-zomato.md#q2-sql-failed-transactions) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Medicines expiring after 18 May 2018 from large hospitals](../companies/mastercard.md#q2-medicines-expiring-after-18-may-2018-from-large-hospitals) | ≈ [LC 1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) Easy |
 | 2026-10-30 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [Easy SQL query using AVG](../companies/commonwealth-bank-of-australia.md#q2-easy-sql-query-using-avg) | ≈ [HackerRank](https://www.hackerrank.com/challenges/average-population/problem) Easy |
 | 2026-10-29 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Long SQL problem statement](../companies/blackrock.md#q2-long-sql-problem-statement) | |

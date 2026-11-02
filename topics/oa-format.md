@@ -1,9 +1,21 @@
 # OA Format
 
-444 questions from 92 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+456 questions from 93 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kharagpur | [OA format](../companies/commonwealth-bank-of-australia.md#q4-oa-format) | |
+| 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kharagpur | [MCQ section](../companies/commonwealth-bank-of-australia.md#q3-mcq-section) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Navi BA/APM OA format](../companies/navi.md#q1-navi-baapm-oa-format) | |
+| 2026-11-01 | [Amazon](../companies/amazon.md) | MNNIT Allahabad | [Amazon OA pattern](../companies/amazon.md#q1-amazon-oa-pattern) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Navi APM OA format](../companies/navi.md#q1-navi-apm-oa-format) | |
+| 2026-11-01 | [Accenture](../companies/accenture.md) | IIT Indore | [Communication round format](../companies/accenture.md#q1-communication-round-format) | |
+| 2026-11-01 | [Cognizant](../companies/cognizant.md) | NIT Raipur | [OA format: DSA, prompt engineering, RAG, full stack debugging](../companies/cognizant.md#q1-oa-format-dsa-prompt-engineering-rag-full-stack-debugging) | |
+| 2026-11-01 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | IIT Guwahati | [JPMC OA paper pattern](../companies/jpmorgan-chase.md#q2-jpmc-oa-paper-pattern) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi OA format](../companies/navi.md#q1-navi-oa-format-1) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi OA pattern](../companies/navi.md#q1-navi-oa-pattern-1) | |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi BA OA format](../companies/navi.md#q1-navi-ba-oa-format) | |
+| 2026-11-01 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA overview](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-overview) | |
 | 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Madras | [HiLabs OA pattern](../companies/hilabs.md#q1-hilabs-oa-pattern) | |
 | 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [CBA OA language options by role](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-language-options-by-role) | |
 | 2026-11-01 | [Navi](../companies/navi.md) | Unknown | [Navi OA pattern](../companies/navi.md#q1-navi-oa-pattern) | |

@@ -1,9 +1,10 @@
 # Recursion/Backtracking
 
-23 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+24 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Cyclically rotate a grid in layers](../companies/navi.md#q2-cyclically-rotate-a-grid-in-layers) | [LC 1914](https://leetcode.com/problems/cyclically-rotating-a-grid/) Medium |
 | 2026-10-31 | [Navi](../companies/navi.md) | IIT Delhi | [Count word occurrences in a grid](../companies/navi.md#q2-count-word-occurrences-in-a-grid) | [GfG](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) |
 | 2026-10-30 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [N-Queens](../companies/thoughtspot.md#q1-n-queens) | [LC 51](https://leetcode.com/problems/n-queens/) Hard |
 | 2026-10-30 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [Grid path sum avoiding zeros, prefer right](../companies/commonwealth-bank-of-australia.md#q2-grid-path-sum-avoiding-zeros-prefer-right) | ≈ [LC 63](https://leetcode.com/problems/unique-paths-ii/) Medium |

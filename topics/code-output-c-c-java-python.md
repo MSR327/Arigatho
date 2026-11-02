@@ -1,9 +1,11 @@
 # Code Output (C/C++/Java/Python)
 
-57 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+59 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Debug digit-sum bucket sort](../companies/navi.md#q3-debug-digit-sum-bucket-sort) | ≈ [LC 258](https://leetcode.com/problems/add-digits/) Easy |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Debugging: fix input handling](../companies/navi.md#q4-debugging-fix-input-handling) | |
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Linked list MCQs and double pointers](../companies/nvidia.md#q7-linked-list-mcqs-and-double-pointers) | |
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [extern keyword and memcpy with packed memory](../companies/nvidia.md#q6-extern-keyword-and-memcpy-with-packed-memory) | |
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Macros vs inline functions](../companies/nvidia.md#q5-macros-vs-inline-functions) | |

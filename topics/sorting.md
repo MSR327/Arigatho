@@ -1,9 +1,10 @@
 # Sorting
 
-45 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+46 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Debug digit-sum bucket sort](../companies/navi.md#q3-debug-digit-sum-bucket-sort) | ≈ [LC 258](https://leetcode.com/problems/add-digits/) Easy |
 | 2026-10-31 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kanpur | [People who can win after the final race](../companies/commonwealth-bank-of-australia.md#q2-people-who-can-win-after-the-final-race) | |
 | 2026-10-30 | [Paytm](../companies/paytm.md) | Delhi Technological University | [Merge overlapping intervals](../companies/paytm.md#q3-merge-overlapping-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
 | 2026-10-30 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [Maximise sum of unique building heights](../companies/deutsche-bank.md#q1-maximise-sum-of-unique-building-heights) | [LC 3301](https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/) Medium |

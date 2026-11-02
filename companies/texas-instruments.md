@@ -1,9 +1,9 @@
 # Texas Instruments
 
-**81 questions** · 9 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
+**81 questions** · 9 drives · latest 1 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Digital Electronics](../topics/digital-electronics.md) 22 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [OA Format](../topics/oa-format.md) 5 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +3 more  
-**Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Hyderabad, IIT Roorkee
+**Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -322,7 +322,7 @@ Topics for both written test and interview: basic C programming (pointers, algor
 
 Texas Instruments OA for the digital/analog role: MCQs on op-amps, aptitude questions, and questions from every core electronics topic.
 
-<sub>Topics: OA Format, Analog Electronics · Source: [chat, 25 Oct](../archive/inter-iit/2026-10.jsonl#L993)</sub>
+<sub>Topics: OA Format, Analog Electronics · Source: [chat, 25 Oct](../archive/inter-iit/2026-10.jsonl#L993) · Also asked at: IIT Delhi ×2 (last 2026-11-01)</sub>
 
 ## 2026-10-18 · IIIT Hyderabad · FTE · Analog / Digital
 

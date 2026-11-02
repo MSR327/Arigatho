@@ -1,9 +1,10 @@
 # Binary Search
 
-30 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+31 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Bombay | [Maximum number of toys from parts](../companies/hilabs.md#q1-maximum-number-of-toys-from-parts) | |
 | 2026-10-28 | [Cognizant](../companies/cognizant.md) | IIT Bombay | [Kth ancestor of a tree node](../companies/cognizant.md#q1-kth-ancestor-of-a-tree-node) | [LC 1483](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) Hard |
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Minimum increase in experience multiplier](../companies/accenture.md#q1-minimum-increase-in-experience-multiplier) | ≈ [LC 875](https://leetcode.com/problems/koko-eating-bananas/) Medium |
 | 2026-10-28 | [Plutus Research](../companies/plutus-research.md) | IIT Guwahati | [Longest common substring across k strings](../companies/plutus-research.md#q3-longest-common-substring-across-k-strings) | ≈ [LC 1923](https://leetcode.com/problems/longest-common-subpath/) Hard |

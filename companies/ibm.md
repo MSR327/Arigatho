@@ -1,9 +1,9 @@
 # IBM
 
-**22 questions** · 13 drives · latest 31 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 13 drives · latest 1 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 8 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 3 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · +2 more  
-**Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad
+**Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -146,13 +146,13 @@ You have an array of numbers and must convert it into an array consisting of a s
 
 Given an entire codebase, API documentation, architecture and a task description, the task was to fix the validation logic of one API route so that 8 test cases pass. The poster found it easy with hands-on backend experience. No AI-assisted coding was allowed.
 
-<sub>Topics: Web Dev, Software Engineering · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: MNNIT Allahabad (2026-10-25)</sub>
+<sub>Topics: Web Dev, Software Engineering · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: MNNIT Allahabad (2026-10-25), IIT Kanpur (2026-11-01)</sub>
 
 ### Q3. IBM SWE OA format (HackerRank)
 
 2 questions on HackerRank: one easy (LeetCode-easy level) DSA question and one codebase-understanding and feature/bug-fix implementation question for web development. Same common test for both software engineer and software developer roles. Everything had to be done manually, with no AI assistance.
 
-<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: IIT Guwahati ×3 (last 2026-10-31), IIT Bombay (2026-10-31)</sub>
+<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: IIT Guwahati ×3 (last 2026-10-31), IIT Bombay (2026-10-31), IIT Roorkee (2026-11-01)</sub>
 
 ## 2026-10-24 · IIT Kanpur · FTE · Software Engineer (SWE)
 
@@ -182,7 +182,7 @@ IBM OA pattern for Software Developer / Software Engineer / Hardware Engineer ro
 
 The OA had 1 DSA question and 1 backend question. The backend question is described as a cheap copy of the Amazon backend OA: you choose a tech stack, then fix a bug or implement something in that stack. The exact problem statements were not shared.
 
-<sub>Topics: OA Format, Web Dev · Source: [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L75), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L82), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L83), [chat, 22 Oct](../archive/ibm-oa/2026-10.jsonl#L84) · Also asked at: MNNIT Allahabad (2026-10-31)</sub>
+<sub>Topics: OA Format, Web Dev · Source: [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L75), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L82), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L83), [chat, 22 Oct](../archive/ibm-oa/2026-10.jsonl#L84) · Also asked at: MNNIT Allahabad (2026-10-31), IIT Guwahati (2026-11-01), IIT Hyderabad (2026-11-01)</sub>
 
 ## 2026-10-20 · MNNIT Allahabad · FTE · ASE · Interview
 

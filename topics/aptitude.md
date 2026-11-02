@@ -1,9 +1,18 @@
 # Aptitude
 
-186 questions from 23 companys, newest first. [← all topics](../README.md#topics)
+195 questions from 24 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Navi BA/APM OA format](../companies/navi.md#q1-navi-baapm-oa-format) |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi OA format](../companies/navi.md#q1-navi-oa-format-1) |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi OA pattern](../companies/navi.md#q1-navi-oa-pattern-1) |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Pattern finding](../companies/navi.md#q7-pattern-finding) |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Calendar repeating 2031](../companies/navi.md#q6-calendar-repeating-2031) |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Corrected mean after a wrong data entry](../companies/navi.md#q5-corrected-mean-after-a-wrong-data-entry) |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Mixing two alloys to get Cu:Zn of 2:3](../companies/navi.md#q4-mixing-two-alloys-to-get-cuzn-of-23) |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Arrangements of DETAILS with vowels at odd positions](../companies/navi.md#q3-arrangements-of-details-with-vowels-at-odd-positions) |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Arrangements of 10 letters with gap between A and B and CD together](../companies/navi.md#q2-arrangements-of-10-letters-with-gap-between-a-and-b-and-cd-together) |
 | 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Logical reasoning topics](../companies/whiteoak-capital.md#q2-logical-reasoning-topics) |
 | 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Quantitative aptitude practice questions](../companies/whiteoak-capital.md#q1-quantitative-aptitude-practice-questions) |
 | 2026-10-30 | [Mastercard](../companies/mastercard.md) | IIT Guwahati | [Poverty line village from graph](../companies/mastercard.md#q2-poverty-line-village-from-graph) |
