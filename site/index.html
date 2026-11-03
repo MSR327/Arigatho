@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Arigatho · OA questions by company</title>
+<title>Arigatho · OA and interview questions by company</title>
 <meta name="description" content="Online-assessment and interview questions from campus placement drives, by company.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><circle cx='8' cy='8' r='6' fill='%23d97757'/></svg>">
 <style>
@@ -61,7 +61,7 @@
            border: 1px solid var(--border); border-radius: 8px; padding: 4px 12px; }
   button:hover { border-color: var(--accent); }
   .drive { margin: 28px 0 2px; font-size: 13px; font-weight: 600; color: var(--muted); }
-  .q { border-bottom: 1px solid var(--border); scroll-margin-top: 76px; }
+  .q { border-bottom: 1px solid var(--border); scroll-margin-top: 112px; }
   .q summary { display: flex; align-items: baseline; gap: 10px; padding: 9px 0; cursor: pointer; list-style: none; }
   .q summary::-webkit-details-marker { display: none; }
   .q summary::before { content: "›"; flex: none; width: 10px; color: var(--accent); font-weight: 700;
@@ -82,6 +82,22 @@
   .body img { max-width: 100%; }
   .plain { white-space: pre-wrap; }
 
+  /* OA / Interviews switch */
+  header .tabs { gap: 20px; padding-top: 0; padding-bottom: 0; font-size: 14px; }
+  .tabs a { padding-bottom: 8px; color: var(--muted); text-decoration: none; border-bottom: 2px solid transparent; }
+  .tabs a:hover { color: var(--text); }
+  .tabs a.on { color: var(--text); font-weight: 600; border-color: var(--accent); }
+
+  /* interviews: one written experience */
+  .xp { margin-top: 30px; border-top: 1px solid var(--border); }
+  .xp .drive { margin-top: 16px; }
+  .proc { margin: 4px 0 0; }
+  .rnd { margin: 18px 0 2px; font: 600 15px/1.4 var(--sans); }
+  .rnd span { display: block; font-weight: 400; }
+  .none { margin: 2px 0 0; }
+  .xp .src { margin: 14px 0 0; }
+  .more { margin-left: 8px; font-size: 14px; color: var(--accent-dark); }
+
   footer { margin-top: 56px; padding-bottom: 36px; }
   @media (max-width: 560px) { .tags { display: none; } h1 { font-size: 26px; } .brand { font-size: 19px; } }
 </style>
@@ -90,17 +106,22 @@
 <header><div class="wrap">
   <a class="brand" href="#/">Arigatho</a>
   <input id="q" type="search" placeholder="Company or question" aria-label="Search" autocomplete="off">
-</div></header>
+</div>
+<nav class="wrap tabs" aria-label="Sections">
+  <a id="tab-oa" href="#/">OA questions</a>
+  <a id="tab-iv" href="#/i">Interviews</a>
+</nav></header>
 <main class="wrap"><p class="meta" style="margin-top:26px">Loading…</p></main>
 <footer class="wrap"><p class="meta">Questions shared by students in OAHelper placement groups, sorted daily.
+  Interview experiences also come from SWG IIT Kharagpur and other written first-hand accounts, each linked to its source.
   Internship drives are left out. <a href="https://github.com/MSR327/Arigatho">Source on GitHub</a></p></footer>
 
 <script src="vendor/marked.min.js"></script>
 <script src="vendor/purify.min.js"></script>
 <script>
 const main = document.querySelector("main"), q = document.getElementById("q");
-const companies = new Map(), byId = new Map();
-let questions = [], updated = "";
+const companies = new Map(), byId = new Map(), interviewCos = new Map();
+let questions = [], iqs = [], experiences = [], updated = "";
 
 const esc = s => String(s).replace(/[&<>"']/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"})[c]);
 const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || "unknown";
@@ -108,7 +129,10 @@ const day = iso => new Date(iso + "T00:00:00").toLocaleDateString("en-GB", {day:
 const known = v => v && v !== "Unknown";
 const plural = (n, w) => `${n.toLocaleString("en-IN")} ${w}${n === 1 ? "" : "s"}`;
 
-fetch("data.json").then(r => r.json()).then(d => {
+Promise.all([
+  fetch("data.json").then(r => r.json()),
+  fetch("interviews.json").then(r => r.json()).catch(() => ({experiences: []})),  // OA pages work without it
+]).then(([d, iv]) => {
   questions = d.questions; updated = d.updated;
   for (const x of questions) {
     x.s = slug(x.c);
@@ -117,71 +141,164 @@ fetch("data.json").then(r => r.json()).then(d => {
     companies.get(x.s).qs.push(x);
     byId.set(x.id, x);
   }
+  loadInterviews(iv.experiences);
   render();
 }).catch(() => { main.innerHTML = '<p class="meta" style="margin-top:26px">Could not load the questions. Refresh to try again.</p>'; });
 
+function interviewCo(name) {
+  const s = slug(name);
+  if (!interviewCos.has(s)) interviewCos.set(s, {name, slug: s, exps: [], chat: []});
+  return interviewCos.get(s);
+}
+
+function loadInterviews(list) {
+  experiences = list;
+  for (const x of questions) if (x.r === "interview") interviewCo(x.c).chat.push(x);
+  for (const e of list) {
+    const c = interviewCo(e.c);
+    c.exps.push(e);
+    e.rounds.forEach((r, i) => r.qs.forEach((y, j) => {
+      Object.assign(y, {id: `${e.id}-${i}-${j}`, s: c.slug, c: e.c, d: e.d, col: e.campus, also: "",
+                        hay: [e.c, y.t, y.x, e.pos, e.campus, r.n, y.tp.join(" ")].join(" ").toLowerCase()});
+      byId.set(y.id, y);
+      iqs.push(y);
+    }));
+  }
+}
+
+// A company's interview count: written experiences plus drives reported in the chats
+const chatKey = x => [x.d, x.col, x.role, x.pos].join("|");
+const interviewCount = c => c.exps.length + new Set(c.chat.map(chatKey)).size;
+
 function render() {
+  const [, view, s, id] = location.hash.split("/");  // #/c/<company>/<question> or #/i/<company>/<question>
+  document.getElementById("tab-oa").classList.toggle("on", view !== "i");
+  document.getElementById("tab-iv").classList.toggle("on", view === "i");
   const term = q.value.trim().toLowerCase();
-  if (term) return results(term.split(/\s+/));
-  const [, view, s, id] = location.hash.split("/");  // #/c/<company>/<question>
+  if (term) return results(term.split(/\s+/), view === "i");
+  if (view === "i") return interviewCos.has(s) ? interviewPage(interviewCos.get(s), id) : interviewsHome();
   if (view === "c" && companies.has(s)) return company(companies.get(s), id);
   home();
 }
 
-function home() {
-  document.title = "Arigatho · OA questions by company";
+function az(items, href, count) {
   const letters = new Map();
-  for (const c of [...companies.values()].sort((a, b) => a.name.localeCompare(b.name, "en", {sensitivity: "base"}))) {
+  for (const c of [...items].sort((a, b) => a.name.localeCompare(b.name, "en", {sensitivity: "base"}))) {
     const L = /[a-z]/i.test(c.name[0]) ? c.name[0].toUpperCase() : "0–9";
     if (!letters.has(L)) letters.set(L, []);
     letters.get(L).push(c);
   }
-  main.innerHTML = `<h1>OA questions, by company</h1>
-    <p class="meta">${plural(questions.length, "question")} from ${companies.size} companies · updated ${esc(updated)}</p>
-    <div class="az">${[...letters].map(([L, cs]) => `<section><b>${L}</b>${cs.map(c =>
-      `<a href="#/c/${c.slug}"><span>${esc(c.name)}</span><span class="n">${c.qs.length}</span></a>`).join("")}</section>`).join("")}</div>`;
+  return `<div class="az">${[...letters].map(([L, cs]) => `<section><b>${L}</b>${cs.map(c =>
+    `<a href="${href}${c.slug}"><span>${esc(c.name)}</span><span class="n">${count(c)}</span></a>`).join("")}</section>`).join("")}</div>`;
 }
 
-function results(words) {
-  const cs = [...companies.values()].filter(c => words.every(w => c.name.toLowerCase().includes(w)));
-  const hits = questions.filter(x => words.every(w => x.hay.includes(w)));
+function home() {
+  document.title = "Arigatho · OA questions by company";
+  main.innerHTML = `<h1>OA questions, by company</h1>
+    <p class="meta">${plural(questions.length, "question")} from ${companies.size} companies · updated ${esc(updated)}</p>`
+    + az(companies.values(), "#/c/", c => c.qs.length);
+}
+
+function interviewsHome() {
+  document.title = "Arigatho · Interview experiences by company";
+  const chat = [...interviewCos.values()].reduce((n, c) => n + c.chat.length, 0);
+  main.innerHTML = `<h1>Interviews, by company</h1>
+    <p class="meta">${plural(experiences.length, "written experience")} · ${plural(iqs.length + chat, "question")} from ${interviewCos.size} companies · updated ${esc(updated)}</p>
+    <p class="meta">What companies ask after the online test: written accounts from SWG IIT Kharagpur (last 2 years) and other first-hand posts (last year), each linked to its source, plus interview rounds shared in OAHelper chats.</p>`
+    + az(interviewCos.values(), "#/i/", interviewCount);
+}
+
+function results(words, interviewsFirst) {
+  const named = c => words.every(w => c.name.toLowerCase().includes(w));
+  const has = x => words.every(w => x.hay.includes(w));
+  const cs = [...companies.values()].filter(named), ics = [...interviewCos.values()].filter(named);
+  const hits = questions.filter(has), ihits = iqs.filter(has);
+  const row = (x, view) => `<a class="row" href="#/${view}/${x.s}/${x.id}"><span>${esc(x.t)}</span>
+        <span class="meta">${[x.c, x.col].filter(known).map(esc).join(" · ")} · ${day(x.d)}</span></a>`;
+  const oa = hits.length ? `<h2>${plural(hits.length, "question")}</h2>` + hits.slice(0, 200).map(x => row(x, "c")).join("")
+    + (hits.length > 200 ? '<p class="meta">Showing the newest 200. Add a word to narrow it down.</p>' : "") : "";
+  const iv = ihits.length ? `<h2>${plural(ihits.length, "interview question")}</h2>`
+    + ihits.slice(0, 200).map(x => row(x, "i")).join("") : "";
   main.innerHTML = (cs.length ? `<h2>Companies</h2><div class="chips">${cs.map(c =>
       `<a class="chip" href="#/c/${c.slug}">${esc(c.name)} <span class="n">${c.qs.length}</span></a>`).join("")}</div>` : "")
-    + `<h2>${hits.length ? plural(hits.length, "question") : "No questions match"}</h2>`
-    + hits.slice(0, 200).map(x => `<a class="row" href="#/c/${x.s}/${x.id}"><span>${esc(x.t)}</span>
-        <span class="meta">${[x.c, x.col].filter(known).map(esc).join(" · ")} · ${day(x.d)}</span></a>`).join("")
-    + (hits.length > 200 ? '<p class="meta">Showing the newest 200. Add a word to narrow it down.</p>' : "");
+    + (ics.length ? `<h2>Interviews</h2><div class="chips">${ics.map(c =>
+      `<a class="chip" href="#/i/${c.slug}">${esc(c.name)} <span class="n">${interviewCount(c)}</span></a>`).join("")}</div>` : "")
+    + (interviewsFirst ? iv + oa : oa + iv)
+    + (hits.length || ihits.length ? "" : "<h2>No questions match</h2>");
+}
+
+const topTopics = qs => {
+  const topics = new Map();
+  for (const x of qs) for (const t of x.tp) topics.set(t, (topics.get(t) || 0) + 1);
+  return [...topics].sort((a, b) => b[1] - a[1]).slice(0, 5).map(([t]) => esc(t));
+};
+
+const questionRow = y => `<details class="q" id="q-${esc(y.id)}"><summary><span>${esc(y.t)}</span>
+            <span class="tags">${y.tp.map(esc).join(" · ")}</span></summary><div class="body"></div></details>`;
+
+function chatDrives(qs, withRound) {
+  const drives = new Map();
+  for (const x of qs) {
+    const k = [x.d, x.col, x.role, x.pos, x.r].join("|");
+    if (!drives.has(k)) drives.set(k, []);
+    drives.get(k).push(x);
+  }
+  return [...drives.values()].map(xs => {
+    const x = xs[0], rnd = withRound && {interview: "Interview", other: "Other round"}[x.r];
+    return `<div class="drive">${[day(x.d), x.col, x.role, x.pos, rnd].filter(known).map(esc).join(" · ")}</div>`
+      + xs.map(questionRow).join("");
+  }).join("");
 }
 
 function company(c, open) {
   document.title = `${c.name} · Arigatho`;
-  const drives = new Map(), topics = new Map();
-  for (const x of c.qs) {
-    const k = [x.d, x.col, x.role, x.pos, x.r].join("|");
-    if (!drives.has(k)) drives.set(k, []);
-    drives.get(k).push(x);
-    for (const t of x.tp) topics.set(t, (topics.get(t) || 0) + 1);
-  }
-  const top = [...topics].sort((a, b) => b[1] - a[1]).slice(0, 5).map(([t]) => esc(t));
+  const top = topTopics(c.qs), drives = new Set(c.qs.map(x => [x.d, x.col, x.role, x.pos, x.r].join("|"))).size;
+  const iv = interviewCos.get(c.slug);
   main.innerHTML = `<p class="crumb"><a href="#/">← All companies</a></p>
     <h1>${esc(c.name)}</h1>
-    <p class="meta">${plural(c.qs.length, "question")} · ${plural(drives.size, "drive")} · latest ${day(c.qs[0].d)}${top.length ? " · mostly " + top.join(", ") : ""}</p>
-    <p class="tools"><button type="button" id="all">Open all</button></p>`
-    + [...drives.values()].map(xs => {
-      const x = xs[0], rnd = {interview: "Interview", other: "Other round"}[x.r];
-      return `<div class="drive">${[day(x.d), x.col, x.role, x.pos, rnd].filter(known).map(esc).join(" · ")}</div>`
-        + xs.map(y => `<details class="q" id="q-${esc(y.id)}"><summary><span>${esc(y.t)}</span>
-            <span class="tags">${y.tp.map(esc).join(" · ")}</span></summary><div class="body"></div></details>`).join("");
-    }).join("");
+    <p class="meta">${plural(c.qs.length, "question")} · ${plural(drives, "drive")} · latest ${day(c.qs[0].d)}${top.length ? " · mostly " + top.join(", ") : ""}</p>
+    <p class="tools"><button type="button" id="all">Open all</button>${iv ? `<a class="more" href="#/i/${c.slug}">Interview experiences (${interviewCount(iv)}) →</a>` : ""}</p>`
+    + chatDrives(c.qs, true);
+  wire("c", c.slug, open);
+}
 
+function experienceBlock(e) {
+  const mode = e.mode === "unknown" ? "" : e.mode;
+  return `<section class="xp" id="x-${esc(e.id)}">
+    <div class="drive">${[day(e.d), e.pos, e.campus, mode].filter(known).map(esc).join(" · ")}</div>
+    ${e.proc ? `<p class="proc">${esc(e.proc)}</p>` : ""}
+    ${e.rounds.map(r => `<h3 class="rnd">${esc(r.n)}${r.dt ? `<span class="meta">${esc(r.dt)}</span>` : ""}</h3>`
+      + (r.qs.length ? r.qs.map(questionRow).join("") : '<p class="meta none">No specific questions reported.</p>')).join("")}
+    ${e.prep.length ? `<p class="meta"><b>Tips:</b> ${e.prep.map(esc).join(" · ")}</p>` : ""}
+    <p class="meta src">Source: <a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.src)}</a>${{"first-person": " · one person's post", anonymous: " · anonymous post, not verified"}[e.tier] || ""}</p>
+  </section>`;
+}
+
+function interviewPage(c, open) {
+  document.title = `${c.name} interviews · Arigatho`;
+  const qs = c.exps.flatMap(e => e.rounds.flatMap(r => r.qs)).concat(c.chat);
+  const latest = [...c.exps.map(e => e.d), ...c.chat.map(x => x.d)].sort().pop();
+  const top = topTopics(qs), oa = companies.get(c.slug);
+  const stats = [c.exps.length && plural(c.exps.length, "written experience"), plural(qs.length, "question"),
+                 `latest ${day(latest)}`, top.length && "mostly " + top.join(", ")].filter(Boolean).join(" · ");
+  main.innerHTML = `<p class="crumb"><a href="#/i">← All companies</a></p>
+    <h1>${esc(c.name)} interviews</h1>
+    <p class="meta">${stats}</p>
+    <p class="tools">${qs.length ? '<button type="button" id="all">Open all</button>' : ""}${oa ? `<a class="more" href="#/c/${c.slug}">OA questions (${oa.qs.length}) →</a>` : ""}</p>`
+    + c.exps.map(experienceBlock).join("")
+    + (c.chat.length ? "<h2>Shared in OAHelper chats</h2>" + chatDrives(c.chat, false) : "");
+  wire("i", c.slug, open);
+}
+
+function wire(view, s, open) {
   const all = [...main.querySelectorAll("details.q")];
   for (const d of all) d.addEventListener("toggle", () => {
     if (!d.open) return;
     fill(d);
-    if (all.length < 2 || !all.every(e => e.open)) history.replaceState(null, "", `#/c/${c.slug}/${d.id.slice(2)}`);
+    if (all.length < 2 || !all.every(e => e.open)) history.replaceState(null, "", `#/${view}/${s}/${d.id.slice(2)}`);
   });
   const btn = document.getElementById("all");
-  btn.onclick = () => {
+  if (btn) btn.onclick = () => {
     const opening = btn.textContent === "Open all";
     all.forEach(d => { d.open = opening; });
     btn.textContent = opening ? "Close all" : "Open all";

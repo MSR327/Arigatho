@@ -28,9 +28,10 @@ done
 # A failed fetch still leaves what it read, and any backlog, to sort
 /usr/bin/caffeinate -i $PY -m oa.fetch --headless || echo "fetch failed; sorting what is already saved"
 /usr/bin/caffeinate -i $PY -m oa.sort
+/usr/bin/caffeinate -i $PY -m oa.interviews
 $PY -m oa.build
 
-git add -A archive data companies topics site README.md practice.md state.json
+git add -A archive data companies interviews topics site README.md practice.md state.json
 if ! git diff --cached --quiet; then
   git commit -q -m "Update $(date +%F)"
 fi

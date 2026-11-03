@@ -8,7 +8,8 @@ from collections import Counter, defaultdict
 from datetime import datetime, timedelta
 
 from oa import leetcode
-from oa.common import ARCHIVE, QUESTIONS, ROOT, TOPIC_GROUPS, load_groups, read_jsonl, skip_group
+from oa.common import ARCHIVE, INTERVIEWS, QUESTIONS, ROOT, TOPIC_GROUPS, load_groups, read_jsonl, skip_group
+from oa.interviews import shown as shown_interviews
 from oa.store import Archive, attachment_relpath
 
 
@@ -294,7 +295,73 @@ def _site_data(originals, dups, now):
     return {"updated": f"{now:%-d %b %Y}", "questions": qs}
 
 
-def build_site(rows, messages, out, now, locs=None, groups=None):
+def _site_interviews(exps):
+    """site/interviews.json: written interview experiences, newest first."""
+    def question(q):
+        p = practice({"leetcode": q["leetcode"]})
+        return {"t": q["title"], "x": _site_text({"text": q["text"], "md": True}), "tp": q["topics"],
+                "lc": {"k": HOW[p["how"]], "n": p["name"], "u": p["url"], "d": p["level"], "w": p["why"]}
+                if p else None}
+
+    return {"count": len(exps), "experiences": [
+        {"id": x["id"], "c": x["company"], "pos": x["position"], "campus": x["campus"], "mode": x["mode"],
+         "src": x["source"], "tier": x["tier"], "url": x["url"], "d": x["published"], "proc": x["process"],
+         "rounds": [{"n": r["name"], "k": r["kind"], "dt": r["detail"],
+                     "qs": [question(q) for q in r["questions"]]} for r in x["rounds"]],
+         "prep": x["prep"]} for x in exps]}
+
+
+def _interview_page(company, exps, has_oa_page):
+    links = [f"[OA questions](../companies/{slug(company)}.md)"] if has_oa_page else []
+    links.append("[← all companies](README.md)")
+    md = [f"# {company}: interviews", "",
+          f"**{_plural(len(exps), 'written experience')}**, newest first · " + " · ".join(links), ""]
+    for x in exps:
+        mode = "" if x["mode"] == "unknown" else x["mode"]
+        md += ["## " + " · ".join(v for v in (_day(x["published"]), x["position"], x["campus"], mode) if v), ""]
+        if x["process"]:
+            md += [x["process"], ""]
+        for r in x["rounds"]:
+            md += [f"### {r['name']}", ""]
+            if r["detail"]:
+                md += [r["detail"], ""]
+            if not r["questions"]:
+                md += ["No specific questions reported.", ""]
+            for q in r["questions"]:
+                meta = f"Topics: {', '.join(q['topics'])}"
+                p = practice({"leetcode": q["leetcode"]})
+                if p:
+                    meta += " · " + _practice_text(p)
+                md += [f"**{q['title']}**", "", _site_text({"text": q["text"], "md": True}), "",
+                       f"<sub>{meta}</sub>", ""]
+        if x["prep"]:
+            md += ["**Tips:** " + " · ".join(x["prep"]), ""]
+        md += [f"Source: [{label(x['source'])}]({x['url']})", ""]
+    return "\n".join(md)
+
+
+def _interview_pages(out, exps, oa_companies):
+    by_company = defaultdict(list)
+    for x in exps:
+        by_company[x["company"]].append(x)
+    shutil.rmtree(out / "interviews", ignore_errors=True)
+    if not exps:
+        return
+    (out / "interviews").mkdir(parents=True)
+    for company, xs in by_company.items():
+        (out / "interviews" / f"{slug(company)}.md").write_text(
+            _interview_page(company, xs, company in oa_companies))
+    index = ["# Interview experiences, by company", "",
+             "What companies ask after the online test, from written first-hand accounts. Every experience "
+             "links to its source.", "",
+             "| Company | Written experiences | Latest |", "|---|---|---|"]
+    for company in sorted(by_company, key=str.casefold):
+        xs = by_company[company]
+        index.append(f"| [{label(company)}]({slug(company)}.md) | {len(xs)} | {_day(xs[0]['published'])} |")
+    (out / "interviews" / "README.md").write_text("\n".join(index) + "\n")
+
+
+def build_site(rows, messages, out, now, locs=None, groups=None, interviews=None):
     locs = locs or {}
     # placements only: internship drives stay in the data but are left off the pages
     rows = [r for r in rows if r["role"] != "intern"]
@@ -332,6 +399,10 @@ def build_site(rows, messages, out, now, locs=None, groups=None):
     (out / "site").mkdir(exist_ok=True)  # the website; site/index.html is written by hand
     (out / "site" / "data.json").write_text(
         json.dumps(_site_data(originals, dups, now), ensure_ascii=False, separators=(",", ":")))
+    exps = shown_interviews(interviews or [], now)
+    (out / "site" / "interviews.json").write_text(
+        json.dumps(_site_interviews(exps), ensure_ascii=False, separators=(",", ":")))
+    _interview_pages(out, exps, set(by_company))
 
     # README: the company list comes first; everything else is below it
     week_ago = (now - timedelta(days=7)).date().isoformat()
@@ -348,6 +419,9 @@ def build_site(rows, messages, out, now, locs=None, groups=None):
           f"{len(colleges)} colleges · updated {now:%-d %b %Y, %H:%M}", "",
           f"**Website: [{SITE_URL.split('//')[1].rstrip('/')}]({SITE_URL})**, to search every "
           "company and question at once.", "",
+          *([f"**Interviews: [{_plural(len(exps), 'written experience')} from "
+             f"{_plural(len({x['company'] for x in exps}), 'company').replace('companys', 'companies')}]"
+             "(interviews/README.md)**, on what companies ask after the online test.", ""] if exps else []),
           "**Find a company** in the list below, or press Ctrl+F (⌘F on a Mac) and type its name. "
           "Its page has every question asked there, newest first.", "",
           "[Companies](#companies) · [New this week](#new-this-week) · [Topics](#topics) · "
@@ -395,7 +469,8 @@ def build_site(rows, messages, out, now, locs=None, groups=None):
 def main():
     rows = read_jsonl(QUESTIONS)
     groups = {k: v for k, v in load_groups().items() if not skip_group(k, v.get("role"))}
-    build_site(rows, Archive(ARCHIVE).by_id(), ROOT, datetime.now(), message_lines(ARCHIVE), groups)
+    build_site(rows, Archive(ARCHIVE).by_id(), ROOT, datetime.now(), message_lines(ARCHIVE), groups,
+               read_jsonl(INTERVIEWS))
     print(f"built pages for {len(rows)} questions")
     return 0
 
