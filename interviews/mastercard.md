@@ -1,6 +1,90 @@
 # Mastercard: interviews
 
-**1 written experience**, newest first · [OA questions](../companies/mastercard.md) · [← all companies](README.md)
+**2 written experiences**, newest first · [OA questions](../companies/mastercard.md) · [← all companies](README.md)
+
+## 18 Sep 2026 · SDE-1 · on-campus
+
+HirePro online test, group discussion, two technical interviews, one HR.
+
+### Online assessment
+
+HirePro, two DSA problems
+
+**Trie-based problem**
+
+One of the two OA problems was based on a Trie. Exact statement not given.
+
+<sub>Topics: Strings</sub>
+
+**Enclose infected cells with minimum walls**
+
+Constrained BFS grid problem: choose the minimum number of walls to enclose infected elements while keeping the maximum number of elements safe.
+
+<sub>Topics: Graphs</sub>
+
+### Group discussion
+
+11 candidates in the group
+
+**GD topic: Will AI replace software engineers?**
+
+Open group discussion on whether AI will replace software engineers.
+
+<sub>Topics: HR & Behavioral</sub>
+
+### Technical interview 1
+
+Background chat, then coding
+
+**Compress a string with run counts**
+
+Compress 1aaabbcccceeddd into 13a2b4c2e3d (counts then letter style); similar to the Better Compression of String problem.
+
+<sub>Topics: Strings</sub>
+
+**Stack problem and decimal to binary**
+
+A stack-based problem, then convert a decimal number to binary.
+
+<sub>Topics: Stack/Queue, Math</sub>
+
+**Future plans**
+
+Asked about plans and whether higher education was being considered.
+
+<sub>Topics: HR & Behavioral</sub>
+
+### Technical interview 2
+
+**Sort an extremely large file without extra space**
+
+Asked how to sort a very large file without using extra space.
+
+<sub>Topics: Sorting</sub>
+
+**Java equals() vs ==**
+
+Difference between equals() and == in Java.
+
+<sub>Topics: OOP</sub>
+
+**System design question**
+
+A system design question was asked. Exact questions not given.
+
+<sub>Topics: Software Engineering</sub>
+
+### HR
+
+Conversational
+
+**Background and past experience**
+
+Family background, school marks, earlier experience and hackathons.
+
+<sub>Topics: HR & Behavioral</sub>
+
+Source: [takeUforward community](https://takeuforward.org/community/interview-experiences/mastercard-sde-1-interview-experience)
 
 ## 27 Oct 2025 · Software Developer (DevOps) · IIT Kharagpur · on-campus
 

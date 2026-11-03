@@ -1,6 +1,82 @@
 # IBM: interviews
 
-**2 written experiences**, newest first · [OA questions](../companies/ibm.md) · [← all companies](README.md)
+**3 written experiences**, newest first · [OA questions](../companies/ibm.md) · [← all companies](README.md)
+
+## 23 Oct 2026 · Associate System Engineer · on-campus
+
+Remote coding test, supervised on-campus coding test, written scenario test, verbal assessment, then technical and HR interview; author was not selected after the verbal round.
+
+### Online coding assessment
+
+Two DSA problems
+
+**Merge overlapping intervals**
+
+Merge overlapping intervals, e.g. [[1,5],[3,6],[8,10],[15,18]] gives [[1,6],[8,10],[15,18]].
+
+<sub>Topics: Arrays, Sorting · Similar: [LeetCode 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Medium)</sub>
+
+**Palindrome string check**
+
+Check whether a string reads the same forward and backward (madam true, hello false).
+
+<sub>Topics: Strings</sub>
+
+### On-campus coding assessment
+
+Supervised
+
+**Fixed-size sliding window**
+
+An array problem using a fixed-size window, plus a conditional-logic task across two files. Exact statements not given.
+
+<sub>Topics: Sliding Window</sub>
+
+### AI-based writing assessment
+
+Five scenario questions, about 7.5 minutes each
+
+**Team communication scenario**
+
+Example: as a team leader, how would you improve communication and coordination in your team.
+
+<sub>Topics: HR & Behavioral</sub>
+
+### Verbal communication and grammar
+
+Spoken English
+
+**Verbal tasks**
+
+Correct grammatically wrong sentences aloud and repeat heard words or phrases.
+
+<sub>Topics: Verbal</sub>
+
+### Technical and HR interview
+
+Core CS, projects, HR
+
+**DBMS and SQL**
+
+DELETE vs TRUNCATE vs DROP, primary vs foreign key, types of joins.
+
+<sub>Topics: SQL, OS/DBMS/CN MCQ</sub>
+
+**OOP**
+
+Inheritance vs composition, abstraction vs polymorphism, four pillars of OOP.
+
+<sub>Topics: OOP</sub>
+
+**Web basics**
+
+REST API and HTTP methods such as GET and POST.
+
+<sub>Topics: Web Dev</sub>
+
+**Tips:** Practise arrays, strings, intervals and sliding window. · Practise spoken English and workplace scenarios.
+
+Source: [takeUforward community](https://takeuforward.org/community/interview-experiences/ibm-interview-experience-associate-system-engineer-2027-campus-recruitment)
 
 ## 9 Oct 2026 · Associate System Engineer · on-campus
 

@@ -4,6 +4,7 @@ from datetime import datetime
 import pytest
 
 from oa import interviews as iv
+from oa import sort
 from oa.build import build_site
 from oa.leetcode import Problems
 from oa.sort import UsageLimit
@@ -187,6 +188,18 @@ def test_update_stops_at_the_usage_limit_and_keeps_earlier_results(tmp_path):
 
     assert iv.update(path, fetch=lambda: xml, runner=runner, now=datetime(2026, 1, 1)) == 1
     assert [r["url"] for r in iv.read_rows(path)] == [SWG]
+
+
+def test_update_asks_the_resume_job_to_continue_after_the_limit_resets(tmp_path, monkeypatch):
+    monkeypatch.setitem(sort.USAGE, "resets_at", 1000)
+    xml = feed(("Placement at Acme", SWG))
+
+    def runner(p, s, model=None):
+        raise UsageLimit("limit")
+
+    iv.update(tmp_path / "interviews.jsonl", fetch=lambda: xml, runner=runner, now=datetime(2026, 1, 1))
+
+    assert (tmp_path / "logs" / "resume_at").read_text() == "1300"  # 5 minutes after the reset
 
 
 def test_update_leaves_out_an_extraction_that_fails_the_checks(tmp_path):

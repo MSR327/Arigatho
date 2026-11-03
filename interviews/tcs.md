@@ -1,6 +1,66 @@
 # TCS: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**2 written experiences**, newest first · [← all companies](README.md)
+
+## 22 Sep 2026 · TCS Prime · on-campus
+
+TCS NQT online test, one combined technical-managerial interview, one HR.
+
+### TCS NQT
+
+180 minutes; aptitude, verbal, reasoning, coding (2 easy-medium array questions)
+
+**Coding section**
+
+Two easy-to-medium array and logic problems. Exact questions not given.
+
+<sub>Topics: Arrays</sub>
+
+### Technical and managerial interview
+
+About 30 minutes, offline
+
+**Print primes from 1 to 100**
+
+Write a program to generate primes up to 100 and explain the efficient approach.
+
+<sub>Topics: Math</sub>
+
+**C++ and OOP**
+
+Classes, encapsulation, abstraction, inheritance, polymorphism, overloading vs overriding, basic STL.
+
+<sub>Topics: OOP</sub>
+
+**Second highest salary**
+
+SQL query for the second highest salary, plus basic DBMS concepts.
+
+<sub>Topics: SQL</sub>
+
+**OS, networks, Git, Docker**
+
+Process vs thread, context switching, OSI layers, Git commands, Docker image vs container, Kubernetes pods.
+
+<sub>Topics: OS/DBMS/CN MCQ, Software Engineering</sub>
+
+**Project deep-dive**
+
+Technologies, architecture, APIs, databases and challenges in resume projects.
+
+<sub>Topics: HR & Behavioral</sub>
+
+### HR
+
+Offline
+
+**Background and motivation**
+
+Background, motivation, career plans, willingness to work under company terms.
+
+<sub>Topics: HR & Behavioral</sub>
+
+Source: [takeUforward community](https://takeuforward.org/community/interview-experiences/tcs-prime-interview-experience-on-campus-selected)
 
 ## 23 Feb 2026 · System Engineer - Digital · on-campus
 

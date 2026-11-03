@@ -1,6 +1,54 @@
 # Accenture: interviews
 
-**3 written experiences**, newest first · [OA questions](../companies/accenture.md) · [← all companies](README.md)
+**4 written experiences**, newest first · [OA questions](../companies/accenture.md) · [← all companies](README.md)
+
+## 29 Sep 2026 · Associate Software Engineer · on-campus
+
+Behavioral and gamified cognitive test, technical MCQs plus coding, communication test, then technical and HR interview.
+
+### Behavioral and cognitive assessment
+
+40 minutes; 54 behavioral questions then 3 gamified cognitive games (elimination)
+
+No specific questions reported.
+
+### Technical MCQs
+
+45 questions, 45 minutes
+
+**MCQ areas**
+
+Microsoft Office, computer networking, cloud computing, pseudocode and programming logic.
+
+<sub>Topics: OS/DBMS/CN MCQ, Code Output (C/C++/Java/Python)</sub>
+
+### Coding assessment
+
+60 minutes, 3 questions
+
+**Programming, SQL and frontend questions**
+
+One medium programming, one easy SQL and one medium frontend question. Exact questions not given.
+
+<sub>Topics: SQL, Web Dev</sub>
+
+### Communication assessment
+
+30 minutes online; reading, listening, speaking, email writing; non-elimination
+
+No specific questions reported.
+
+### Technical and HR interview
+
+About 25-30 minutes
+
+**Fundamentals and projects**
+
+Programming fundamentals, OOP, DBMS and SQL, resume projects and general HR. Exact questions not given.
+
+<sub>Topics: OOP, SQL, HR & Behavioral</sub>
+
+Source: [takeUforward community](https://takeuforward.org/community/interview-experiences/accenture-on-campus-interview-experience)
 
 ## 14 Jan 2026 · Advanced Application Engineering Analyst · on-campus
 

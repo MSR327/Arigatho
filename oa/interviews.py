@@ -22,7 +22,7 @@ from pathlib import Path
 from oa import leetcode
 from oa.common import (COMPANY_ALIASES, INTERVIEWS, MODELS, PROMPTS, QUESTIONS, TOPICS, append_jsonl, canonical,
                        log, read_jsonl, short_error)
-from oa.sort import ClaudeError, UsageLimit, run_claude
+from oa.sort import ClaudeError, UsageLimit, run_claude, schedule_resume
 
 FEED = "https://medium.com/feed/@swgiitkgp"
 SWG = "SWG Foresight, IIT Kharagpur"
@@ -224,7 +224,8 @@ def update(path=INTERVIEWS, fetch=fetch_feed, runner=run_claude, problems=None, 
         try:
             out = runner(build_prompt(article, known), EXTRACT_SCHEMA, model=MODELS.get("sort"))
         except UsageLimit as e:
-            log(f"interviews: stopped at the usage limit, the rest wait for the next run ({e})")
+            log(f"interviews: stopped at the usage limit ({e})")
+            schedule_resume(True)
             break
         except ClaudeError as e:
             log(f"interviews: could not read {article['url']}: {short_error(e)}")

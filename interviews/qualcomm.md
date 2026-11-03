@@ -1,6 +1,86 @@
 # Qualcomm: interviews
 
-**4 written experiences**, newest first · [OA questions](../companies/qualcomm.md) · [← all companies](README.md)
+**5 written experiences**, newest first · [OA questions](../companies/qualcomm.md) · [← all companies](README.md)
+
+## 5 Oct 2026 · Associate Software Engineer (Campus Hire) · on-campus
+
+Telephonic OS round, three face-to-face C/systems rounds, manager/HR round; result pending. Author had about 20 months of prior experience.
+
+### Telephonic OS round
+
+**Memory management and CPU scheduling**
+
+Virtual memory, paging, segmentation, process memory layout, scheduling algorithms.
+
+<sub>Topics: OS/DBMS/CN MCQ</sub>
+
+**Deadlock and IPC**
+
+Deadlock with examples and the Coffman conditions; ways processes communicate.
+
+<sub>Topics: OS/DBMS/CN MCQ</sub>
+
+### Face-to-face 1
+
+C fundamentals
+
+**Endianness**
+
+Big vs little endian and code that works on both.
+
+<sub>Topics: Other</sub>
+
+**Pointer output traps**
+
+Pointer arithmetic, double pointers, increment with dereference, sizeof array vs pointer.
+
+<sub>Topics: Code Output (C/C++/Java/Python)</sub>
+
+**Header definitions and linker errors**
+
+What happens when a header defines a variable included in several .cpp files.
+
+<sub>Topics: Other</sub>
+
+### Face-to-face 2
+
+**Process vs thread; shared std::map**
+
+Compare process and thread; protect a map used by two threads with a mutex or shared_mutex.
+
+<sub>Topics: OS/DBMS/CN MCQ</sub>
+
+**C storage classes, call stack, function pointers**
+
+auto, register, static, extern; stack vs heap; function pointers.
+
+<sub>Topics: Other</sub>
+
+### Face-to-face 3
+
+**Inline functions, own sizeof, static**
+
+When the compiler ignores inline; implement a sizeof macro; static variable vs function.
+
+<sub>Topics: Other</sub>
+
+**Bit manipulation**
+
+Reverse bits of a 32-bit integer; count set bits.
+
+<sub>Topics: Bit Manipulation</sub>
+
+### Manager and HR
+
+Standard behavioral
+
+**Why Qualcomm**
+
+Motivation and behavioral questions. Exact questions not given.
+
+<sub>Topics: HR & Behavioral</sub>
+
+Source: [takeUforward community](https://takeuforward.org/community/interview-experiences/qualcomm-interview-experience-associate-software-engineer-campus-hire)
 
 ## 31 Oct 2025 · Associate Engineer, Hardware · IIT Kharagpur · on-campus
 
