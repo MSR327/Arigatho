@@ -1,13 +1,24 @@
 # Accenture
 
-**278 questions** · 95 drives · latest 1 Nov 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**284 questions** · 100 drives · latest 2 Nov 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 76 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +16 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 81 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +17 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · NIT Delhi · FTE · Interview](#2026-11-02--nit-delhi--fte--interview)
+  - [Accenture interview topics](#q1-accenture-interview-topics)
+- [2026-11-02 · IIT Roorkee · FTE · Management Consulting](#2026-11-02--iit-roorkee--fte--management-consulting)
+  - [Management consulting OA sections](#q1-management-consulting-oa-sections)
+- [2026-11-02 · IIT Hyderabad · FTE · Management Consulting](#2026-11-02--iit-hyderabad--fte--management-consulting)
+  - [Accenture management consulting OA pattern](#q1-accenture-management-consulting-oa-pattern)
+- [2026-11-02 · IIT Dhanbad · FTE · Management Consulting](#2026-11-02--iit-dhanbad--fte--management-consulting)
+  - [Accenture management consulting OA pattern](#q1-accenture-management-consulting-oa-pattern-1)
+  - [Management consulting OA sections](#q2-management-consulting-oa-sections)
+- [2026-11-02 · IIT BHU · FTE · Management Consulting](#2026-11-02--iit-bhu--fte--management-consulting)
+  - [Management consulting OA sections](#q1-management-consulting-oa-sections-1)
 - [2026-11-01 · IIT Indore · FTE · Strategy & Consulting](#2026-11-01--iit-indore--fte--strategy--consulting)
   - [Communication round format](#q1-communication-round-format)
 - [2026-10-31 · IIT Dhanbad · FTE · GN Consultant](#2026-10-31--iit-dhanbad--fte--gn-consultant)
@@ -20,7 +31,7 @@
   - [Accenture consulting OA format](#q1-accenture-consulting-oa-format)
   - [Consulting role OA pattern](#q2-consulting-role-oa-pattern)
 - [2026-10-29 · IIT Hyderabad · FTE · Management Consulting Associate](#2026-10-29--iit-hyderabad--fte--management-consulting-associate)
-  - [Accenture Management Consulting OA pattern](#q1-accenture-management-consulting-oa-pattern)
+  - [Accenture Management Consulting OA pattern](#q1-accenture-management-consulting-oa-pattern-2)
 - [2026-10-29 · IIT BHU · FTE · Elite](#2026-10-29--iit-bhu--fte--elite)
   - [Elite role OA pattern](#q1-elite-role-oa-pattern)
 - [2026-10-28 · IIT Roorkee · FTE · Elite](#2026-10-28--iit-roorkee--fte--elite)
@@ -386,6 +397,61 @@
 
 ---
 
+## 2026-11-02 · NIT Delhi · FTE · Interview
+
+### Q1. Accenture interview topics
+
+Interview is mostly resume based: questions about your projects (what you built and why), some basic leadership questions and extra-curricular activities. Not much technical.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L29)</sub>
+
+## 2026-11-02 · IIT Roorkee · FTE · Management Consulting
+
+### Q1. Management consulting OA sections
+
+Aptitude questions on logical reasoning, data interpretation and quant.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L36)</sub>
+
+## 2026-11-02 · IIT Hyderabad · FTE · Management Consulting
+
+### Q1. Accenture management consulting OA pattern
+
+Sections reported in the Accenture management consulting OA:
+
+- Quantitative
+- Verbal
+- Critical reasoning
+- Logical reasoning
+- Abstract reasoning
+- Data interpretation
+
+No individual questions, counts or timings were given.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L37), [chat, 2 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L53)</sub>
+
+## 2026-11-02 · IIT Dhanbad · FTE · Management Consulting
+
+### Q1. Accenture management consulting OA pattern
+
+Sections: quantitative, verbal, critical reasoning, logical reasoning, abstract reasoning and data interpretation.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L215)</sub>
+
+### Q2. Management consulting OA sections
+
+Sections asked: quantitative, verbal, critical, logical, abstract reasoning and data interpretation.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L33)</sub>
+
+## 2026-11-02 · IIT BHU · FTE · Management Consulting
+
+### Q1. Management consulting OA sections
+
+Sections asked: quantitative, verbal, critical, logical, DI.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L34)</sub>
+
 ## 2026-11-01 · IIT Indore · FTE · Strategy & Consulting
 
 ### Q1. Communication round format
@@ -673,7 +739,7 @@ The poster's message is cut off after section 6.
 
 Another student replied that this pattern is old.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L57), [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L58)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L57), [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L58) · Also asked at: NIT Delhi (2026-11-02)</sub>
 
 ## 2026-10-27 · IIT Dhanbad · FTE · Elite Technology Engineer
 

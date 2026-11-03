@@ -1,6 +1,6 @@
 # ThoughtSpot
 
-**6 questions** · 5 drives · latest 30 Oct 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 5 drives · latest 2 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Math](../topics/math.md) 3 · [DP](../topics/dp.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [OA Format](../topics/oa-format.md) 1  
 **Seen at:** IIT BHU, IIT Guwahati
@@ -91,4 +91,4 @@ There are n files stored in a system, where the size of the i-th file is fileSiz
 
 The OA had 3 DSA questions. Details not given.
 
-<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L119) · Also asked at: IIT Guwahati (2026-10-25), IIT BHU (2026-10-27)</sub>
+<sub>Topics: OA Format · Source: [chat, 25 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L119) · Also asked at: IIT Guwahati (2026-10-25), IIT BHU ×2 (last 2026-11-02)</sub>

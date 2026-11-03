@@ -1,8 +1,8 @@
 # Flipkart
 
-**27 questions** · 12 drives · latest 2 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**28 questions** · 13 drives · latest 2 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Graphs](../topics/graphs.md) 6 · [Strings](../topics/strings.md) 5 · [DP](../topics/dp.md) 5 · [Math](../topics/math.md) 4 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 2 · [SQL](../topics/sql.md) 2 · +4 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Graphs](../topics/graphs.md) 6 · [Strings](../topics/strings.md) 5 · [DP](../topics/dp.md) 5 · [Math](../topics/math.md) 4 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 2 · [SQL](../topics/sql.md) 2 · +4 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad
 
 <details>
@@ -12,6 +12,8 @@
   - [ASCII code question](#q1-ascii-code-question)
   - [Count nodes with even/odd subtree children from LR/LL path strings](#q2-count-nodes-with-evenodd-subtree-children-from-lrll-path-strings)
   - [Grid DP (difficult)](#q3-grid-dp-difficult)
+- [2026-11-02 · IIT BHU · FTE · AI Engineer](#2026-11-02--iit-bhu--fte--ai-engineer)
+  - [OA format: 3 DSA questions, function-only](#q1-oa-format-3-dsa-questions-function-only)
 - [2026-10-30 · IIT Kharagpur/Kanpur · FTE · Data Scientist](#2026-10-30--iit-kharagpurkanpur--fte--data-scientist)
   - [Flipkart Data Scientist OA format](#q1-flipkart-data-scientist-oa-format)
 - [2026-10-28 · IIT Kanpur · FTE · AI Engineer](#2026-10-28--iit-kanpur--fte--ai-engineer)
@@ -58,19 +60,27 @@
 
 One basic easy-level question based on ASCII codes. The poster did not give the full statement.
 
-<sub>Topics: Strings · Source: [chat, 2 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L54)</sub>
+<sub>Topics: Strings · Source: [chat, 2 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L54) · Also asked at: IIT BHU (2026-11-02)</sub>
 
 ### Q2. Count nodes with even/odd subtree children from LR/LL path strings
 
 A string-based question where a tree is given and nodes are represented as strings of L/R moves (e.g. LR, LL) relative to the node. Count how many nodes have an even-sized subtree and how many have an odd-sized subtree (poster: "basically opposite"). The exact statement was not given.
 
-<sub>Topics: Trees, Strings · Same idea: [LeetCode 1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) (Medium), compute subtree sizes/sums for every node · Source: [chat, 2 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L54)</sub>
+<sub>Topics: Trees, Strings · Same idea: [LeetCode 1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) (Medium), compute subtree sizes/sums for every node · Source: [chat, 2 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L54) · Also asked at: IIT BHU (2026-11-02)</sub>
 
 ### Q3. Grid DP (difficult)
 
 A grid DP question, described as on the difficult side. The poster did not give the statement.
 
-<sub>Topics: DP · Same idea: [LeetCode 64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (Medium), grid DP · Source: [chat, 2 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L54)</sub>
+<sub>Topics: DP · Same idea: [LeetCode 64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) (Medium), grid DP · Source: [chat, 2 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L54) · Also asked at: IIT BHU (2026-11-02)</sub>
+
+## 2026-11-02 · IIT BHU · FTE · AI Engineer
+
+### Q1. OA format: 3 DSA questions, function-only
+
+3 DSA questions, easy to medium level. Boilerplate is given: you don't take input, you just complete a function as on LeetCode.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L105), [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L107), [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L114), [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L120)</sub>
 
 ## 2026-10-30 · IIT Kharagpur/Kanpur · FTE · Data Scientist
 
@@ -131,7 +141,7 @@ Input: msg = "A" -> Output: 11 ('A' = 65 -> 6+5 = 11)
 
 Constraints: not recorded.
 
-<sub>Topics: Strings, Math · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi ×3 (last 2026-10-29)</sub>
+<sub>Topics: Strings, Math · Source: [Flipkart - OA.pdf](../archive/files/14821-Flipkart_-_OA.pdf) · Also asked at: IIT Delhi ×3 (last 2026-10-29), IIT BHU (2026-11-02)</sub>
 
 ### Q2. Balanced-Parity Category Nodes
 

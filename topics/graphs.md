@@ -1,9 +1,15 @@
 # Graphs
 
-103 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+109 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Number of ways to arrive at destination](../companies/unknown.md#q3-number-of-ways-to-arrive-at-destination) | [LC 1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) Medium |
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Commotion OA: BFS/DFS problem](../companies/unknown.md#q1-commotion-oa-bfsdfs-problem) | |
+| 2026-11-02 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Directed graph question](../companies/capital-one.md#q2-directed-graph-question) | |
+| 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Bhubaneswar | [Bipartite graph application](../companies/cognizant.md#q3-bipartite-graph-application) | |
+| 2026-11-02 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Minimum moves in grid avoiding blocked cells](../companies/texas-instruments.md#q1-minimum-moves-in-grid-avoiding-blocked-cells) | [LC 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) Medium |
+| 2026-11-02 | [Navi](../companies/navi.md) | IIT Guwahati | [Node with maximum sum of neighbours' indegrees](../companies/navi.md#q1-node-with-maximum-sum-of-neighbours-indegrees) | |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Even-sum paths in a directed weighted graph](../companies/hilabs.md#q2-even-sum-paths-in-a-directed-weighted-graph) | ≈ [LC 797](https://leetcode.com/problems/all-paths-from-source-to-target/) Medium |
 | 2026-11-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Minimum dice rolls to reach the end](../companies/eternal-zomato.md#q3-minimum-dice-rolls-to-reach-the-end) | ≈ [LC 45](https://leetcode.com/problems/jump-game-ii/) Medium |
 | 2026-11-02 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [Travelling salesman problem (bitmask DP)](../companies/commonwealth-bank-of-australia.md#q2-travelling-salesman-problem-bitmask-dp) | ≈ [CSES 1690](https://cses.fi/problemset/task/1690) |

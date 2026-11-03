@@ -1,9 +1,11 @@
 # Strings
 
-91 questions from 39 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+93 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Minimum window substring](../companies/unknown.md#q2-minimum-window-substring) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |
+| 2026-11-02 | [Point72](../companies/point72.md) | IIT Madras | [Codeforces 1096D (reported by a friend, different set)](../companies/point72.md#q3-codeforces-1096d-reported-by-a-friend-different-set) | [CF 1096D](https://codeforces.com/problemset/problem/1096/D) rated 1800 |
 | 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Palindrome with equal characters at distance k](../companies/cognizant.md#q2-palindrome-with-equal-characters-at-distance-k) | ≈ [LC 2948](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) Medium |
 | 2026-11-02 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Count nodes with even/odd subtree children from LR/LL path strings](../companies/flipkart.md#q2-count-nodes-with-evenodd-subtree-children-from-lrll-path-strings) | ≈ [LC 1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) Medium |
 | 2026-11-02 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [ASCII code question](../companies/flipkart.md#q1-ascii-code-question) | |

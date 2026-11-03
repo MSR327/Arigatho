@@ -1,9 +1,10 @@
 # Web Dev
 
-50 questions from 14 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+51 questions from 14 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Vibe coding: fix front-end project errors with AI](../companies/deloitte.md#q1-vibe-coding-fix-front-end-project-errors-with-ai) | |
 | 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Indore | [Accenture ETE frontend: input max-length, letter-spacing, trim spaces](../companies/accenture.md#q1-accenture-ete-frontend-input-max-length-letter-spacing-trim-spaces) | |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Backend question (not remembered)](../companies/qicap.md#q4-backend-question-not-remembered) | |
 | 2026-10-28 | [Accenture](../companies/accenture.md) | IIT Indore | [Live search input display with HTML, CSS and JavaScript](../companies/accenture.md#q2-live-search-input-display-with-html-css-and-javascript) | |

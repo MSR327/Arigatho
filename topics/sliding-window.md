@@ -1,9 +1,10 @@
 # Sliding Window
 
-22 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+23 questions from 14 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Minimum window substring](../companies/unknown.md#q2-minimum-window-substring) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [Sliding window problem](../companies/tiger-analytics.md#q2-sliding-window-problem) | ≈ [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Variable sliding window problem](../companies/hilabs.md#q4-variable-sliding-window-problem) | ≈ [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
 | 2026-10-30 | [Capital One](../companies/capital-one.md) | IIT Bombay | [Longest continuous subarray with absolute diff within limit (output max subarray sum)](../companies/capital-one.md#q2-longest-continuous-subarray-with-absolute-diff-within-limit-output-max-subarray-sum) | [LC 1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) Medium |

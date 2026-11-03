@@ -1,13 +1,15 @@
 # InfoEdge
 
-**26 questions** · 7 drives · latest 30 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**27 questions** · 8 drives · latest 2 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · [OOP](../topics/oop.md) 2 · [Binary Search](../topics/binary-search.md) 1 · +4 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · [OOP](../topics/oop.md) 2 · [Binary Search](../topics/binary-search.md) 1 · +4 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Patna
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · IIT Hyderabad · FTE · AI Scientist](#2026-11-02--iit-hyderabad--fte--ai-scientist)
+  - [InfoEdge AI Scientist OA pattern](#q1-infoedge-ai-scientist-oa-pattern)
 - [2026-10-26 · MNNIT Allahabad · FTE](#2026-10-26--mnnit-allahabad--fte)
   - [OA pattern: aptitude/core CS MCQs + 2 DSA](#q1-oa-pattern-aptitudecore-cs-mcqs--2-dsa)
 - [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte)
@@ -46,13 +48,21 @@
 
 ---
 
+## 2026-11-02 · IIT Hyderabad · FTE · AI Scientist
+
+### Q1. InfoEdge AI Scientist OA pattern
+
+OA pattern for the AI Scientist role: MCQs on statistics and probability, ML, DL, and Python or pseudocode-type questions.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L48)</sub>
+
 ## 2026-10-26 · MNNIT Allahabad · FTE
 
 ### Q1. OA pattern: aptitude/core CS MCQs + 2 DSA
 
 InfoEdge OA pattern: MCQs on aptitude and core CS, plus 2 DSA coding questions.
 
-<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/inter-nit/2026-10.jsonl#L2394)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/inter-nit/2026-10.jsonl#L2394) · Also asked at: IIT Hyderabad (2026-11-02)</sub>
 
 ## 2026-10-26 · IIT Guwahati · FTE
 
@@ -90,7 +100,7 @@ Total time 1 hour. 40 MCQs divided into 4 sections of 10 questions each; candida
 
 InfoEdge OA was MCQ only: 40 MCQs on statistics, machine learning and deep learning core concepts. Difficulty easy to medium. Some basic questions on AI agents were also asked.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L766), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L767), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L772), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L774) · Also asked at: IIT BHU (2026-10-22), IIT Hyderabad (2026-10-25), IIT Guwahati (2026-10-29)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L766), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L767), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L772), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L774) · Also asked at: IIT BHU (2026-10-22), IIT Hyderabad (2026-10-25), IIT Guwahati ×3 (last 2026-11-02)</sub>
 
 ## 2026-10-05 · IIT Guwahati · FTE
 

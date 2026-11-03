@@ -1,9 +1,10 @@
 # ML/AI
 
-87 questions from 18 companys, newest first. [← all topics](../README.md#topics)
+88 questions from 19 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-03 | [Point72](../companies/point72.md) | Unknown | [Quant OA topics](../companies/point72.md#q1-quant-oa-topics) |
 | 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Roorkee | [HiLabs topics covered in tests and interviews](../companies/hilabs.md#q1-hilabs-topics-covered-in-tests-and-interviews) |
 | 2026-10-31 | [American Express](../companies/american-express.md) | IIT Bombay | [Complete Java RAG project](../companies/american-express.md#q2-complete-java-rag-project) |
 | 2026-10-31 | [American Express](../companies/american-express.md) | IIT Bombay | [Clean data and train TF model](../companies/american-express.md#q1-clean-data-and-train-tf-model) |

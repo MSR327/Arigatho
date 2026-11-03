@@ -1,9 +1,10 @@
 # Heaps
 
-21 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+22 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Point72](../companies/point72.md) | IIT Madras | [Max profit from investing with daily capital](../companies/point72.md#q1-max-profit-from-investing-with-daily-capital) | [LC 502](https://leetcode.com/problems/ipo/) Hard |
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Delhi | [LC 871 (Minimum number of refueling stops)](../companies/natwest.md#q1-lc-871-minimum-number-of-refueling-stops) | [LC 871](https://leetcode.com/problems/minimum-number-of-refueling-stops/) Hard |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Output of priority-queue subarray-sum pseudocode](../companies/tredence.md#q2-output-of-priority-queue-subarray-sum-pseudocode) | |
 | 2026-10-28 | [McKinsey](../companies/mckinsey.md) | IIT Roorkee | [Reorder songs so same artist is not consecutive](../companies/mckinsey.md#q2-reorder-songs-so-same-artist-is-not-consecutive) | [LC 767](https://leetcode.com/problems/reorganize-string/) Medium |

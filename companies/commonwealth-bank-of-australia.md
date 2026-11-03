@@ -1,8 +1,8 @@
 # Commonwealth Bank of Australia
 
-**56 questions** · 19 drives · latest 2 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**57 questions** · 20 drives · latest 2 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Aptitude](../topics/aptitude.md) 16 · [ML/AI](../topics/ml-ai.md) 12 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [SQL](../topics/sql.md) 2 · +6 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 20 · [Aptitude](../topics/aptitude.md) 16 · [ML/AI](../topics/ml-ai.md) 12 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [SQL](../topics/sql.md) 2 · +6 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Roorkee
 
 <details>
@@ -13,6 +13,8 @@
   - [Travelling salesman problem (bitmask DP)](#q2-travelling-salesman-problem-bitmask-dp)
 - [2026-11-02 · IIT Guwahati · FTE · Graduate Engineer](#2026-11-02--iit-guwahati--fte--graduate-engineer)
   - [OA structure](#q1-oa-structure-1)
+- [2026-11-02 · IIT BHU · FTE · Graduate Engineer](#2026-11-02--iit-bhu--fte--graduate-engineer)
+  - [CBA OA pattern](#q1-cba-oa-pattern)
 - [2026-11-01 · Unknown · FTE · Graduate Engineer](#2026-11-01--unknown--fte--graduate-engineer)
   - [OA pattern: aptitude plus DSA coding](#q1-oa-pattern-aptitude-plus-dsa-coding)
 - [2026-11-01 · IIT Roorkee · FTE](#2026-11-01--iit-roorkee--fte)
@@ -25,13 +27,13 @@
 - [2026-11-01 · IIT Guwahati · FTE](#2026-11-01--iit-guwahati--fte)
   - [Minimum time to complete tasks on a grid](#q1-minimum-time-to-complete-tasks-on-a-grid)
 - [2026-11-01 · IIT BHU · FTE](#2026-11-01--iit-bhu--fte)
-  - [CBA OA pattern](#q1-cba-oa-pattern)
+  - [CBA OA pattern](#q1-cba-oa-pattern-1)
 - [2026-11-01 · IIT BHU · FTE · Graduate Engineer](#2026-11-01--iit-bhu--fte--graduate-engineer)
   - [CBA OA content](#q1-cba-oa-content)
 - [2026-10-31 · IIT Roorkee · FTE](#2026-10-31--iit-roorkee--fte)
-  - [CBA OA pattern](#q1-cba-oa-pattern-1)
-- [2026-10-31 · IIT Kanpur · FTE](#2026-10-31--iit-kanpur--fte)
   - [CBA OA pattern](#q1-cba-oa-pattern-2)
+- [2026-10-31 · IIT Kanpur · FTE](#2026-10-31--iit-kanpur--fte)
+  - [CBA OA pattern](#q1-cba-oa-pattern-3)
   - [People who can win after the final race](#q2-people-who-can-win-after-the-final-race)
 - [2026-10-30 · IIT Roorkee · FTE · Data Scientist](#2026-10-30--iit-roorkee--fte--data-scientist)
   - [Maximum product subarray](#q1-maximum-product-subarray)
@@ -43,11 +45,11 @@
   - [CBA OA format (Hirepro)](#q3-cba-oa-format-hirepro)
   - [Path sum in grid preferring downward moves](#q4-path-sum-in-grid-preferring-downward-moves)
 - [2026-10-29 · IIT Hyderabad · FTE · Graduate Engineer](#2026-10-29--iit-hyderabad--fte--graduate-engineer)
-  - [CBA OA pattern](#q1-cba-oa-pattern-3)
-- [2026-10-28 · IIT Guwahati · FTE · Graduate Engineering / Technology Graduate - Data Science](#2026-10-28--iit-guwahati--fte--graduate-engineering--technology-graduate---data-science)
   - [CBA OA pattern](#q1-cba-oa-pattern-4)
-- [2026-10-27 · Unknown · FTE · Graduate Engineering, Technology Graduate - Data Science](#2026-10-27--unknown--fte--graduate-engineering-technology-graduate---data-science)
+- [2026-10-28 · IIT Guwahati · FTE · Graduate Engineering / Technology Graduate - Data Science](#2026-10-28--iit-guwahati--fte--graduate-engineering--technology-graduate---data-science)
   - [CBA OA pattern](#q1-cba-oa-pattern-5)
+- [2026-10-27 · Unknown · FTE · Graduate Engineering, Technology Graduate - Data Science](#2026-10-27--unknown--fte--graduate-engineering-technology-graduate---data-science)
+  - [CBA OA pattern](#q1-cba-oa-pattern-6)
 - [2026-10-27 · IIT Hyderabad · FTE](#2026-10-27--iit-hyderabad--fte)
   - [Commonwealth Bank OA pattern](#q1-commonwealth-bank-oa-pattern)
 - [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte)
@@ -114,7 +116,15 @@ Sections:
 
 DSA and SQL together were to be solved in 30 minutes.
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L22), [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L23)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L22), [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L23) · Also asked at: IIT Guwahati (2026-11-02)</sub>
+
+## 2026-11-02 · IIT BHU · FTE · Graduate Engineer
+
+### Q1. CBA OA pattern
+
+OA pattern: aptitude, CS fundamentals + Gen AI, 1 DSA question.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L50)</sub>
 
 ## 2026-11-01 · Unknown · FTE · Graduate Engineer
 

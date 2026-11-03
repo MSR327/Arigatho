@@ -1,9 +1,14 @@
 # DP
 
-110 questions from 39 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+115 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Bitmask DP problem](../companies/unknown.md#q4-bitmask-dp-problem) | |
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Number of ways to arrive at destination](../companies/unknown.md#q3-number-of-ways-to-arrive-at-destination) | [LC 1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) Medium |
+| 2026-11-02 | [Point72](../companies/point72.md) | IIT Madras | [Codeforces 1096D (reported by a friend, different set)](../companies/point72.md#q3-codeforces-1096d-reported-by-a-friend-different-set) | [CF 1096D](https://codeforces.com/problemset/problem/1096/D) rated 1800 |
+| 2026-11-02 | [Navi](../companies/navi.md) | IIT Guwahati | [Frog jump style DP with input debugging](../companies/navi.md#q2-frog-jump-style-dp-with-input-debugging) | [AtCoder DP A](https://atcoder.jp/contests/dp/tasks/dp_a) |
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Guwahati | [Frog jump minimum cost DP with input-reading bug](../companies/unknown.md#q1-frog-jump-minimum-cost-dp-with-input-reading-bug) | [AtCoder DP A](https://atcoder.jp/contests/dp/tasks/dp_a) |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Even-sum paths in a directed weighted graph](../companies/hilabs.md#q2-even-sum-paths-in-a-directed-weighted-graph) | ≈ [LC 797](https://leetcode.com/problems/all-paths-from-source-to-target/) Medium |
 | 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Minimum cost to reach minimum weight with power-of-2 weights](../companies/cognizant.md#q3-minimum-cost-to-reach-minimum-weight-with-power-of-2-weights) | ≈ [LC 322](https://leetcode.com/problems/coin-change/) Medium |
 | 2026-11-02 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Grid DP (difficult)](../companies/flipkart.md#q3-grid-dp-difficult) | ≈ [LC 64](https://leetcode.com/problems/minimum-path-sum/) Medium |

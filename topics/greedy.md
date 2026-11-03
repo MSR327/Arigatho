@@ -1,9 +1,13 @@
 # Greedy
 
-71 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+75 questions from 34 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Point72](../companies/point72.md) | IIT Madras | [Simple greedy question](../companies/point72.md#q2-simple-greedy-question) | |
+| 2026-11-02 | [Point72](../companies/point72.md) | IIT Madras | [Max profit from investing with daily capital](../companies/point72.md#q1-max-profit-from-investing-with-daily-capital) | [LC 502](https://leetcode.com/problems/ipo/) Hard |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Count permutations of array with pairwise product above threshold](../companies/hilabs.md#q1-count-permutations-of-array-with-pairwise-product-above-threshold) | |
+| 2026-11-02 | [IBM](../companies/ibm.md) | IIT Delhi | [Minimum element removal with neighbours](../companies/ibm.md#q1-minimum-element-removal-with-neighbours) | [LC 2593](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) Medium |
 | 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Minimum cost to reach minimum weight with power-of-2 weights](../companies/cognizant.md#q3-minimum-cost-to-reach-minimum-weight-with-power-of-2-weights) | ≈ [LC 322](https://leetcode.com/problems/coin-change/) Medium |
 | 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Palindrome with equal characters at distance k](../companies/cognizant.md#q2-palindrome-with-equal-characters-at-distance-k) | ≈ [LC 2948](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Minimum Arrows to Burst Balloons](../companies/hilabs.md#q6-minimum-arrows-to-burst-balloons) | [LC 452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) Medium |

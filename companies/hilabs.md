@@ -1,8 +1,8 @@
 # HiLabs
 
-**21 questions** · 10 drives · latest 2 Nov 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 11 drives · latest 2 Nov 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Math](../topics/math.md) 4 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 4 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Greedy](../topics/greedy.md) 2 · [Binary Search](../topics/binary-search.md) 2 · +9 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Math](../topics/math.md) 5 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 4 · [Greedy](../topics/greedy.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Sorting](../topics/sorting.md) 3 · +9 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Madras +1 more
 
 <details>
@@ -12,6 +12,8 @@
   - [Production debugging scenarios](#q1-production-debugging-scenarios)
   - [Even-sum paths in a directed weighted graph](#q2-even-sum-paths-in-a-directed-weighted-graph)
   - [Easy map-based problem](#q3-easy-map-based-problem)
+- [2026-11-02 · IIT BHU · FTE](#2026-11-02--iit-bhu--fte)
+  - [Count permutations of array with pairwise product above threshold](#q1-count-permutations-of-array-with-pairwise-product-above-threshold)
 - [2026-11-02 · IIIT · FTE · AI Engineer](#2026-11-02--iiit--fte--ai-engineer)
   - [Maximize the Number of Partitions After Operations](#q1-maximize-the-number-of-partitions-after-operations)
   - [Most Balls After Changing One Mark](#q2-most-balls-after-changing-one-mark)
@@ -69,6 +71,14 @@ The poster did not give constraints or examples.
 An easy-level problem involving the `map` data structure. The poster did not give the statement.
 
 <sub>Topics: Hashing · Same idea: [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum/) (Easy), hash map lookup basics · Source: [chat, 2 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L56)</sub>
+
+## 2026-11-02 · IIT BHU · FTE
+
+### Q1. Count permutations of array with pairwise product above threshold
+
+Two arrays of size 1e3 each are given. Find the number of permutations of the second array, modulo 1e9+7, such that for every index i, a[i]*b[i] > a given threshold.
+
+<sub>Topics: Math, Sorting, Greedy · Source: [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L39) · Also asked at: IIT BHU (2026-11-02)</sub>
 
 ## 2026-11-02 · IIIT · FTE · AI Engineer
 
@@ -171,7 +181,7 @@ You have to build toys. One toy requires k distinct parts. You are given an arra
 
 (Exact constraints and examples not given.)
 
-<sub>Topics: Greedy, Binary Search · Source: [chat, 1 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L15) · Also asked at: IIT BHU (2026-11-01)</sub>
+<sub>Topics: Greedy, Binary Search · Source: [chat, 1 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L15) · Also asked at: IIT BHU ×2 (last 2026-11-02)</sub>
 
 ### Q2. Product of two reversed numbers
 
@@ -179,7 +189,7 @@ You are given 2 numbers. One of them is always a single-digit number. Both given
 
 (Exact constraints and examples not given.)
 
-<sub>Topics: Math, Strings · Source: [chat, 1 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L15)</sub>
+<sub>Topics: Math, Strings · Source: [chat, 1 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L15) · Also asked at: IIT BHU ×2 (last 2026-11-02)</sub>
 
 ## 2026-11-01 · IIT BHU · FTE · AI Engineer
 

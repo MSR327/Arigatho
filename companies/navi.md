@@ -1,15 +1,20 @@
 # Navi
 
-**26 questions** · 10 drives · latest 2 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**29 questions** · 12 drives · latest 2 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 9 · [OA Format](../topics/oa-format.md) 8 · [Arrays](../topics/arrays.md) 6 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 3 · [Greedy](../topics/greedy.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Hashing](../topics/hashing.md) 2 · +4 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Aptitude](../topics/aptitude.md) 9 · [Arrays](../topics/arrays.md) 6 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · [Greedy](../topics/greedy.md) 2 · [DP](../topics/dp.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · +4 more  
 **Seen at:** IIT Delhi, IIT Guwahati, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-11-01 · Unknown · FTE](#2026-11-01--unknown--fte)
+- [2026-11-02 · IIT Guwahati · FTE](#2026-11-02--iit-guwahati--fte)
   - [Navi OA pattern](#q1-navi-oa-pattern)
+- [2026-11-02 · IIT Guwahati · FTE · SDE](#2026-11-02--iit-guwahati--fte--sde)
+  - [Node with maximum sum of neighbours' indegrees](#q1-node-with-maximum-sum-of-neighbours-indegrees)
+  - [Frog jump style DP with input debugging](#q2-frog-jump-style-dp-with-input-debugging)
+- [2026-11-01 · Unknown · FTE](#2026-11-01--unknown--fte)
+  - [Navi OA pattern](#q1-navi-oa-pattern-1)
 - [2026-11-01 · Unknown · FTE · Business Analyst](#2026-11-01--unknown--fte--business-analyst)
   - [Navi OA format](#q1-navi-oa-format)
 - [2026-11-01 · IIT Roorkee · FTE · APM](#2026-11-01--iit-roorkee--fte--apm)
@@ -36,7 +41,7 @@
   - [Calendar repeating 2031](#q6-calendar-repeating-2031)
   - [Pattern finding](#q7-pattern-finding)
 - [2026-11-01 · IIT Delhi · FTE](#2026-11-01--iit-delhi--fte)
-  - [Navi OA pattern](#q1-navi-oa-pattern-1)
+  - [Navi OA pattern](#q1-navi-oa-pattern-2)
 - [2026-11-01 · IIT Delhi · FTE · Associate Manager / Business Analyst](#2026-11-01--iit-delhi--fte--associate-manager--business-analyst)
   - [Navi OA format](#q1-navi-oa-format-1)
 - [2026-10-31 · IIT Delhi · FTE · SDE](#2026-10-31--iit-delhi--fte--sde)
@@ -48,6 +53,32 @@
 </details>
 
 ---
+
+## 2026-11-02 · IIT Guwahati · FTE
+
+### Q1. Navi OA pattern
+
+Held on the HirePro platform: 1 debugging question and 2 coding questions. Exact questions were not remembered.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/inmobi-oa/2026-11.jsonl#L13) · Also asked at: IIT Guwahati ×2 (last 2026-11-02)</sub>
+
+## 2026-11-02 · IIT Guwahati · FTE · SDE
+
+### Q1. Node with maximum sum of neighbours' indegrees
+
+Given a graph, for each node i, compute the sum of the indegrees of all nodes adjacent to node i. Return the node that gets the maximum sum.
+
+(Exact input format and constraints were not given.)
+
+<sub>Topics: Graphs · Source: [chat, 2 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L51), [chat, 2 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L71)</sub>
+
+### Q2. Frog jump style DP with input debugging
+
+A DP question similar to frog jump, where you have to debug the input and then return the answer.
+
+(Exact statement was not given.)
+
+<sub>Topics: DP · Close variant: [AtCoder DP A. Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a), min cost frog jumps DP · Source: [chat, 2 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L51), [chat, 2 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L71)</sub>
 
 ## 2026-11-01 · Unknown · FTE
 
@@ -169,7 +200,7 @@ A simple graph question based on indegree. The exact statement was not shared.
 
 Given a grid of characters, find the count of a specific word in the grid, searching horizontally, vertically and diagonally.
 
-<sub>Topics: Arrays, Strings · Source: [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L21), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L30)</sub>
+<sub>Topics: Arrays, Strings · Source: [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L21), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L30) · Also asked at: IIT Guwahati (2026-11-02)</sub>
 
 ## 2026-11-01 · IIT Delhi · FTE · Business Analyst
 
@@ -269,4 +300,4 @@ The influence of a node is its degree (number of directly connected nodes).
 
 Only DSA questions in the Navi SDE OA (3 DSA questions). Actual questions not shared.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3163) · Also asked at: IIT Guwahati (2026-11-02)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3163) · Also asked at: IIT Guwahati ×3 (last 2026-11-02), IIT Roorkee ×2 (last 2026-11-02)</sub>

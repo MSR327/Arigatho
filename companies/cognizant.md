@@ -1,9 +1,9 @@
 # Cognizant
 
-**20 questions** · 12 drives · latest 2 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**23 questions** · 13 drives · latest 2 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Greedy](../topics/greedy.md) 5 · [Strings](../topics/strings.md) 3 · [DP](../topics/dp.md) 2 · [Trees](../topics/trees.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Sorting](../topics/sorting.md) 1 · [Other](../topics/other.md) 1 · +4 more  
-**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, NIT Raipur
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Greedy](../topics/greedy.md) 5 · [Strings](../topics/strings.md) 3 · [Binary Search](../topics/binary-search.md) 2 · [DP](../topics/dp.md) 2 · [Trees](../topics/trees.md) 1 · [Sorting](../topics/sorting.md) 1 · [Other](../topics/other.md) 1 · +6 more  
+**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -12,6 +12,10 @@
   - [Cognizant DSA difficulty](#q1-cognizant-dsa-difficulty)
   - [Palindrome with equal characters at distance k](#q2-palindrome-with-equal-characters-at-distance-k)
   - [Minimum cost to reach minimum weight with power-of-2 weights](#q3-minimum-cost-to-reach-minimum-weight-with-power-of-2-weights)
+- [2026-11-02 · IIT Bhubaneswar · FTE](#2026-11-02--iit-bhubaneswar--fte)
+  - [Repeated messages](#q1-repeated-messages)
+  - [Priority scheduling with binary search](#q2-priority-scheduling-with-binary-search)
+  - [Bipartite graph application](#q3-bipartite-graph-application)
 - [2026-11-02 · IIIT Allahabad · FTE](#2026-11-02--iiit-allahabad--fte)
   - [Cognizant OA pattern](#q1-cognizant-oa-pattern)
 - [2026-11-01 · NIT Raipur · FTE](#2026-11-01--nit-raipur--fte)
@@ -65,6 +69,26 @@ Given n between 1 and 30, and an array of length n where element i has a picking
 
 <sub>Topics: DP, Greedy, Bit Manipulation · Same idea: [LeetCode 322. Coin Change](https://leetcode.com/problems/coin-change/) (Medium), min cost to reach target with unlimited items · Source: [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L27), [chat, 2 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L28)</sub>
 
+## 2026-11-02 · IIT Bhubaneswar · FTE
+
+### Q1. Repeated messages
+
+Repeated messages question (easy, solvable with a hash map). Full statement not given.
+
+<sub>Topics: Hashing · Same idea: [LeetCode 217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (Easy), hash map/set to detect repeated items · Source: [chat, 2 Nov](../archive/cognizant-oa/2026-11.jsonl#L10) · Also asked at: IIT Bhubaneswar (2026-11-02)</sub>
+
+### Q2. Priority scheduling with binary search
+
+Priority scheduling problem using an application of binary search. Full statement not given.
+
+<sub>Topics: Binary Search · Source: [chat, 2 Nov](../archive/cognizant-oa/2026-11.jsonl#L10) · Also asked at: IIT Bhubaneswar (2026-11-02)</sub>
+
+### Q3. Bipartite graph application
+
+A problem using an application of bipartite graphs. Full statement not given.
+
+<sub>Topics: Graphs · Source: [chat, 2 Nov](../archive/cognizant-oa/2026-11.jsonl#L10) · Also asked at: IIT Bhubaneswar (2026-11-02)</sub>
+
 ## 2026-11-02 · IIIT Allahabad · FTE
 
 ### Q1. Cognizant OA pattern
@@ -113,7 +137,7 @@ The OA has four sections: DSA, prompt engineering, two debugging questions, and 
 
 DSA questions as recalled: one prefix-sum type, one difficult string DP, and one knapsack-type with very high constraints (even DP gave MLE).
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L40), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L44), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L45), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L46), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L48) · Also asked at: IIT Guwahati (2026-11-01)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L40), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L44), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L45), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L46), [chat, 31 Oct](../archive/cognizant-oa/2026-10.jsonl#L48) · Also asked at: IIT Guwahati (2026-11-01), IIT Dhanbad (2026-11-02)</sub>
 
 ### Q2. K-Complete Word (Codeforces 1332C)
 

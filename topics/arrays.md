@@ -1,9 +1,13 @@
 # Arrays
 
-183 questions from 53 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+187 questions from 54 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [IBM](../companies/ibm.md) | IIT Roorkee | [Open, close k and clear commands](../companies/ibm.md#q1-open-close-k-and-clear-commands) | ≈ [LC 1472](https://leetcode.com/problems/design-browser-history/) Medium |
+| 2026-11-02 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Count pairs whose GCD equals K](../companies/capital-one.md#q1-count-pairs-whose-gcd-equals-k) | ≈ [LC 2447](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) Medium |
+| 2026-11-02 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Minimum moves in grid avoiding blocked cells](../companies/texas-instruments.md#q1-minimum-moves-in-grid-avoiding-blocked-cells) | [LC 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) Medium |
+| 2026-11-02 | [IBM](../companies/ibm.md) | IIT Delhi | [Minimum element removal with neighbours](../companies/ibm.md#q1-minimum-element-removal-with-neighbours) | [LC 2593](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) Medium |
 | 2026-11-02 | [ZS](../companies/zs.md) | Unknown | [ZS OA structure and maximum product subarray](../companies/zs.md#q1-zs-oa-structure-and-maximum-product-subarray) | [LC 152](https://leetcode.com/problems/maximum-product-subarray/) Medium |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Find maximum element in an array](../companies/unknown.md#q2-find-maximum-element-in-an-array) | |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Average Waiting Time of Customers](../companies/hilabs.md#q8-average-waiting-time-of-customers) | [LC 1701](https://leetcode.com/problems/average-waiting-time/) Medium |

@@ -1,13 +1,17 @@
 # Deloitte
 
-**65 questions** · 12 drives · latest 2 Nov 2026 · [← all companies](../README.md#companies)
+**67 questions** · 14 drives · latest 2 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 10 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +10 more  
-**Seen at:** IIT BHU, IIT Dhanbad, IIT Indore, IIT Kanpur, MNNIT Allahabad, NIT Raipur, VNIT Nagpur
+**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 11 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +10 more  
+**Seen at:** IIT BHU, IIT Dhanbad, IIT Hyderabad, IIT Indore, IIT Kanpur, MNNIT Allahabad, NIT Raipur, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · IIT Dhanbad · FTE](#2026-11-02--iit-dhanbad--fte)
+  - [Deloitte first round SQL](#q1-deloitte-first-round-sql)
+- [2026-11-02 · IIT Dhanbad · FTE · Analyst](#2026-11-02--iit-dhanbad--fte--analyst)
+  - [Vibe coding: fix front-end project errors with AI](#q1-vibe-coding-fix-front-end-project-errors-with-ai)
 - [2026-10-31 · IIT BHU · FTE](#2026-10-31--iit-bhu--fte)
   - [Deloitte test format](#q1-deloitte-test-format)
 - [2026-10-30 · IIT Indore · FTE · Other round](#2026-10-30--iit-indore--fte--other-round)
@@ -90,6 +94,22 @@
 
 ---
 
+## 2026-11-02 · IIT Dhanbad · FTE
+
+### Q1. Deloitte first round SQL
+
+SQL was asked in the 1st round, in MCQ format.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/deloitte-oa/2026-11.jsonl#L27)</sub>
+
+## 2026-11-02 · IIT Dhanbad · FTE · Analyst
+
+### Q1. Vibe coding: fix front-end project errors with AI
+
+Vibe coding section: you have to fix small errors in the project files using the given AI. The question was front-end based. (Specific details not given.)
+
+<sub>Topics: Web Dev · Source: [chat, 2 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L13), [chat, 2 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L18), [chat, 2 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L22)</sub>
+
 ## 2026-10-31 · IIT BHU · FTE
 
 ### Q1. Deloitte test format
@@ -104,7 +124,7 @@ Very ambiguous test, all MCQs. Round 1: logical reasoning (arrangement questions
 
 In the vibe coding round you are given a problem statement and must write a prompt that will work, based on that question. It is held at the same time as round 1.
 
-<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L90), [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L94)</sub>
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L90), [chat, 30 Oct](../archive/deloitte-oa/2026-10.jsonl#L94) · Also asked at: IIT Dhanbad (2026-11-02)</sub>
 
 ## 2026-10-29 · IIT BHU · FTE
 
@@ -955,7 +975,7 @@ Part 1 – MCQs (60 minutes): Verbal Ability, Logical Reasoning, Quantitative Ap
 
 Part 2 – Vibe Coding (30 minutes): only candidates who clear the Part 1 cutoff can attempt it.
 
-<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L54) · Also asked at: IIT Kanpur (2026-10-27), IIT BHU (2026-10-31)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L54) · Also asked at: IIT Kanpur (2026-10-27), IIT BHU (2026-10-31), IIT Dhanbad ×2 (last 2026-11-02), IIT Hyderabad (2026-11-02)</sub>
 
 ## 2026-10-23 · IIT Indore · FTE
 

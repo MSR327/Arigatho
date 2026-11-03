@@ -1,9 +1,11 @@
 # Sorting
 
-48 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+50 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Count permutations of array with pairwise product above threshold](../companies/hilabs.md#q1-count-permutations-of-array-with-pairwise-product-above-threshold) | |
+| 2026-11-02 | [IBM](../companies/ibm.md) | IIT Delhi | [Minimum element removal with neighbours](../companies/ibm.md#q1-minimum-element-removal-with-neighbours) | [LC 2593](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Sort red, blue and white balls in-place](../companies/hilabs.md#q7-sort-red-blue-and-white-balls-in-place) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Minimum Arrows to Burst Balloons](../companies/hilabs.md#q6-minimum-arrows-to-burst-balloons) | [LC 452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) Medium |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Debug digit-sum bucket sort](../companies/navi.md#q3-debug-digit-sum-bucket-sort) | ≈ [LC 258](https://leetcode.com/problems/add-digits/) Easy |

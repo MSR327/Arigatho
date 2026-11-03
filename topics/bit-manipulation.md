@@ -1,9 +1,10 @@
 # Bit Manipulation
 
-32 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+33 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Bitmask DP problem](../companies/unknown.md#q4-bitmask-dp-problem) | |
 | 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Minimum cost to reach minimum weight with power-of-2 weights](../companies/cognizant.md#q3-minimum-cost-to-reach-minimum-weight-with-power-of-2-weights) | ≈ [LC 322](https://leetcode.com/problems/coin-change/) Medium |
 | 2026-11-02 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [Travelling salesman problem (bitmask DP)](../companies/commonwealth-bank-of-australia.md#q2-travelling-salesman-problem-bitmask-dp) | ≈ [CSES 1690](https://cses.fi/problemset/task/1690) |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Maximize the Number of Partitions After Operations](../companies/hilabs.md#q1-maximize-the-number-of-partitions-after-operations) | [LC 3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) Hard |

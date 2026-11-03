@@ -1,13 +1,15 @@
 # BlackRock
 
-**10 questions** · 5 drives · latest 29 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**11 questions** · 6 drives · latest 2 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [SQL](../topics/sql.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
-**Seen at:** IIT Indore, NIT Raipur, SVNIT Surat
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [SQL](../topics/sql.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
+**Seen at:** IIT BHU, IIT Indore, NIT Raipur, SVNIT Surat
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · IIT BHU · FTE](#2026-11-02--iit-bhu--fte)
+  - [BlackRock OA pattern (95 minutes)](#q1-blackrock-oa-pattern-95-minutes)
 - [2026-10-29 · IIT Indore · FTE · AD](#2026-10-29--iit-indore--fte--ad)
   - [AI-assisted paginated API fetch then sort](#q1-ai-assisted-paginated-api-fetch-then-sort)
   - [Long SQL problem statement](#q2-long-sql-problem-statement)
@@ -27,6 +29,18 @@
 </details>
 
 ---
+
+## 2026-11-02 · IIT BHU · FTE
+
+### Q1. BlackRock OA pattern (95 minutes)
+
+New assessment pattern: 95 minutes to solve MCQs + coding questions. Separate timer for each section; you cannot switch between sections once the timer starts.
+
+1. Java-based coding question where an AI assistant is provided to help you (LLD-style).
+2. A code-repository-based question: understand the existing codebase and complete the required code.
+3. 95 MCQs.
+
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L211)</sub>
 
 ## 2026-10-29 · IIT Indore · FTE · AD
 

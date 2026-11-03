@@ -1,13 +1,15 @@
 # Texas Instruments
 
-**83 questions** · 11 drives · latest 2 Nov 2026 · [← all companies](../README.md#companies)
+**84 questions** · 12 drives · latest 2 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 22 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [OA Format](../topics/oa-format.md) 5 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +6 more  
+**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 22 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [OA Format](../topics/oa-format.md) 5 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +8 more  
 **Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · IIT Bombay · FTE · Embedded Software](#2026-11-02--iit-bombay--fte--embedded-software)
+  - [Minimum moves in grid avoiding blocked cells](#q1-minimum-moves-in-grid-avoiding-blocked-cells)
 - [2026-11-01 · IIT Delhi · FTE · Embedded](#2026-11-01--iit-delhi--fte--embedded)
   - [Maximum money from selling paints](#q1-maximum-money-from-selling-paints)
 - [2026-11-01 · IIT Delhi · FTE](#2026-11-01--iit-delhi--fte)
@@ -106,6 +108,16 @@
 </details>
 
 ---
+
+## 2026-11-02 · IIT Bombay · FTE · Embedded Software
+
+### Q1. Minimum moves in grid avoiding blocked cells
+
+Embedded C coding question: in an n x n grid, find the minimum number of moves to go from (0, 0) to (n-1, n-1) while avoiding blocked cells. Movement is allowed in all 4 directions.
+
+(Exact input format and constraints were not given.)
+
+<sub>Topics: Graphs, Arrays · Similar: [LeetCode 1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) (Medium) · Source: [chat, 2 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L15)</sub>
 
 ## 2026-11-01 · IIT Delhi · FTE · Embedded
 

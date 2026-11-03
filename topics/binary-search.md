@@ -1,9 +1,10 @@
 # Binary Search
 
-34 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+35 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Bhubaneswar | [Priority scheduling with binary search](../companies/cognizant.md#q2-priority-scheduling-with-binary-search) | |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [Binary search problem similar to Koko eating bananas](../companies/tiger-analytics.md#q1-binary-search-problem-similar-to-koko-eating-bananas) | [LC 875](https://leetcode.com/problems/koko-eating-bananas/) Medium |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Binary search variations](../companies/unknown.md#q4-binary-search-variations) | ≈ [LC 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) Medium |
 | 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Bombay | [Maximum number of toys from parts](../companies/hilabs.md#q1-maximum-number-of-toys-from-parts) | |

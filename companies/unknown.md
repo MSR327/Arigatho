@@ -1,13 +1,20 @@
 # Unknown
 
-**22 questions** · 13 drives · latest 2 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**27 questions** · 15 drives · latest 2 Nov 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Math](../topics/math.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Trees](../topics/trees.md) 1 · [Graphs](../topics/graphs.md) 1 · +10 more  
-**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee +1 more
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [DP](../topics/dp.md) 4 · [Strings](../topics/strings.md) 3 · [Graphs](../topics/graphs.md) 3 · [Arrays](../topics/arrays.md) 3 · [Math](../topics/math.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +11 more  
+**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · IIT Madras · FTE · ML Engineer](#2026-11-02--iit-madras--fte--ml-engineer)
+  - [Commotion OA: BFS/DFS problem](#q1-commotion-oa-bfsdfs-problem)
+  - [Minimum window substring](#q2-minimum-window-substring)
+  - [Number of ways to arrive at destination](#q3-number-of-ways-to-arrive-at-destination)
+  - [Bitmask DP problem](#q4-bitmask-dp-problem)
+- [2026-11-02 · IIT Guwahati · FTE](#2026-11-02--iit-guwahati--fte)
+  - [Frog jump minimum cost DP with input-reading bug](#q1-frog-jump-minimum-cost-dp-with-input-reading-bug)
 - [2026-11-02 · IIT BHU · FTE · AI Engineer](#2026-11-02--iit-bhu--fte--ai-engineer)
   - [AI engineer OA problem topics (Capital One / Flipkart)](#q1-ai-engineer-oa-problem-topics-capital-one--flipkart)
 - [2026-11-02 · IIIT · FTE · SDE](#2026-11-02--iiit--fte--sde)
@@ -47,6 +54,42 @@
 </details>
 
 ---
+
+## 2026-11-02 · IIT Madras · FTE · ML Engineer
+
+### Q1. Commotion OA: BFS/DFS problem
+
+First problem was a BFS/DFS problem (exact statement not given). HackerRank, 4 DSA problems, 1 hour 15 minutes.
+
+<sub>Topics: Graphs · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L231)</sub>
+
+### Q2. Minimum window substring
+
+Second problem: https://leetcode.com/problems/minimum-window-substring/
+
+<sub>Topics: Sliding Window, Strings · Similar: [LeetCode 76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) (Hard) · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L231)</sub>
+
+### Q3. Number of ways to arrive at destination
+
+Third problem: https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+
+<sub>Topics: Graphs, DP · Similar: [LeetCode 1976. Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) (Medium) · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L231)</sub>
+
+### Q4. Bitmask DP problem
+
+Fourth problem was a bitmask DP problem (exact statement not given).
+
+<sub>Topics: DP, Bit Manipulation · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L231)</sub>
+
+## 2026-11-02 · IIT Guwahati · FTE
+
+### Q1. Frog jump minimum cost DP with input-reading bug
+
+Debugging question: a DP problem where a frog-like character jumps between positions, and we need to find the minimum cost or energy to reach the destination. The task involved debugging the input-reading code, which used something like `getline()` or `stringstream`.
+
+(Exact statement and constraints were not given.)
+
+<sub>Topics: DP, Code Output (C/C++/Java/Python) · Close variant: [AtCoder DP A. Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a), min cost frog jumps DP · Source: [chat, 2 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L58)</sub>
 
 ## 2026-11-02 · IIT BHU · FTE · AI Engineer
 

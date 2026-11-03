@@ -8,7 +8,7 @@
 | 2026-11-02 | [L.E.K. Consulting](../companies/l-e-k-consulting.md) | BITS Pilani | [L.E.K. OA pattern](../companies/l-e-k-consulting.md#q1-lek-oa-pattern) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Navi BA/APM OA format](../companies/navi.md#q1-navi-baapm-oa-format) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi OA format](../companies/navi.md#q1-navi-oa-format-1) |
-| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi OA pattern](../companies/navi.md#q1-navi-oa-pattern-1) |
+| 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi OA pattern](../companies/navi.md#q1-navi-oa-pattern-2) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Pattern finding](../companies/navi.md#q7-pattern-finding) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Calendar repeating 2031](../companies/navi.md#q6-calendar-repeating-2031) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Corrected mean after a wrong data entry](../companies/navi.md#q5-corrected-mean-after-a-wrong-data-entry) |
@@ -30,7 +30,7 @@
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Umesh and Reena ratio problem](../companies/tredence.md#q15-umesh-and-reena-ratio-problem) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Chess/scheme game probabilities (partial)](../companies/tredence.md#q14-chessscheme-game-probabilities-partial) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Two boxes of shirts: probability](../companies/tredence.md#q12-two-boxes-of-shirts-probability) |
-| 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture Management Consulting OA pattern](../companies/accenture.md#q1-accenture-management-consulting-oa-pattern) |
+| 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture Management Consulting OA pattern](../companies/accenture.md#q1-accenture-management-consulting-oa-pattern-2) |
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Boat and stream round trip distance](../companies/eternal-zomato.md#q2-boat-and-stream-round-trip-distance) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Roorkee | [Data Science track MCQ pattern](../companies/american-express.md#q4-data-science-track-mcq-pattern) |
 | 2026-10-27 | [American Express](../companies/american-express.md) | IIT Guwahati | [Amex DS & Analytics - LR/DI section](../companies/american-express.md#q2-amex-ds--analytics---lrdi-section) |

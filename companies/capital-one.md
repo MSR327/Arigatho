@@ -1,13 +1,18 @@
 # Capital One
 
-**6 questions** · 3 drives · latest 2 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 5 drives · latest 3 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 3 · [Graphs](../topics/graphs.md) 2 · [Sliding Window](../topics/sliding-window.md) 2 · [Arrays](../topics/arrays.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Heaps](../topics/heaps.md) 1  
-**Seen at:** IIT BHU, IIT Bombay
+**Asks about:** [Math](../topics/math.md) 4 · [Graphs](../topics/graphs.md) 3 · [Arrays](../topics/arrays.md) 3 · [OA Format](../topics/oa-format.md) 2 · [Sliding Window](../topics/sliding-window.md) 2 · [Heaps](../topics/heaps.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · [SQL](../topics/sql.md) 1  
+**Seen at:** IIT BHU, IIT Bombay, IIT Kharagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-03 · Unknown · FTE · Business Analyst](#2026-11-03--unknown--fte--business-analyst)
+  - [Capital One Business Analyst OA topics](#q1-capital-one-business-analyst-oa-topics)
+- [2026-11-02 · IIT Kharagpur · FTE](#2026-11-02--iit-kharagpur--fte)
+  - [Count pairs whose GCD equals K](#q1-count-pairs-whose-gcd-equals-k)
+  - [Directed graph question](#q2-directed-graph-question)
 - [2026-10-30 · IIT Bombay · FTE](#2026-10-30--iit-bombay--fte)
   - [Prime Path (SPOJ PPATH)](#q1-prime-path-spoj-ppath)
   - [Longest continuous subarray with absolute diff within limit (output max subarray sum)](#q2-longest-continuous-subarray-with-absolute-diff-within-limit-output-max-subarray-sum)
@@ -21,6 +26,46 @@
 </details>
 
 ---
+
+## 2026-11-03 · Unknown · FTE · Business Analyst
+
+### Q1. Capital One Business Analyst OA topics
+
+Topics reported:
+
+- Break-even analysis
+- Profit and loss calculation
+- Revenue growth percentage
+- Weighted average
+- Customer acquisition cost (CAC)
+- Market expansion case
+- Credit card business profitability
+- Small business loan product case
+- Sales declining despite increasing revenue
+- Customer segmentation and revenue analysis
+- Excel Pivot Tables and SUMIFS
+- Monthly revenue analysis
+- Identify suspicious transactions / outliers
+- SQL: GROUP BY, HAVING, joins, aggregations
+- Business recommendation based on data
+
+<sub>Topics: OA Format, Guesstimates & Cases, SQL · Source: [chat, 3 Nov](../archive/inter-iit/2026-11.jsonl#L123)</sub>
+
+## 2026-11-02 · IIT Kharagpur · FTE
+
+### Q1. Count pairs whose GCD equals K
+
+Find pairs whose gcd == K.
+
+(Full statement and constraints were not given.)
+
+<sub>Topics: Math, Arrays · Same idea: [LeetCode 2447. Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) (Medium), counting with gcd equal to K · Source: [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L51), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L52), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L53)</sub>
+
+### Q2. Directed graph question
+
+There was a question related to a directed graph. (Details were not recalled; the poster also could not recall the third of the 3 questions.)
+
+<sub>Topics: Graphs · Source: [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L51), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L52), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L53)</sub>
 
 ## 2026-10-30 · IIT Bombay · FTE
 

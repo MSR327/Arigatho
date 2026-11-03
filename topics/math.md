@@ -1,9 +1,12 @@
 # Math
 
-159 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+162 questions from 45 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-03 | [Point72](../companies/point72.md) | Unknown | [Quant OA topics](../companies/point72.md#q1-quant-oa-topics) | |
+| 2026-11-02 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Count pairs whose GCD equals K](../companies/capital-one.md#q1-count-pairs-whose-gcd-equals-k) | ≈ [LC 2447](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) Medium |
+| 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Count permutations of array with pairwise product above threshold](../companies/hilabs.md#q1-count-permutations-of-array-with-pairwise-product-above-threshold) | |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Average Waiting Time of Customers](../companies/hilabs.md#q8-average-waiting-time-of-customers) | [LC 1701](https://leetcode.com/problems/average-waiting-time/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Most Balls After Changing One Mark](../companies/hilabs.md#q2-most-balls-after-changing-one-mark) | |
 | 2026-11-01 | [Texas Instruments](../companies/texas-instruments.md) | IIT Delhi | [Colorful Balls](../companies/texas-instruments.md#q1-colorful-balls) | |

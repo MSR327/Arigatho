@@ -1,13 +1,17 @@
 # IBM
 
-**22 questions** · 13 drives · latest 2 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**24 questions** · 15 drives · latest 2 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 8 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 3 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · +2 more  
-**Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +1 more
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
+**Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-02 · IIT Roorkee · FTE](#2026-11-02--iit-roorkee--fte)
+  - [Open, close k and clear commands](#q1-open-close-k-and-clear-commands)
+- [2026-11-02 · IIT Delhi · FTE](#2026-11-02--iit-delhi--fte)
+  - [Minimum element removal with neighbours](#q1-minimum-element-removal-with-neighbours)
 - [2026-10-29 · IIT Guwahati · FTE](#2026-10-29--iit-guwahati--fte)
   - [Basic easy DSA question](#q1-basic-easy-dsa-question)
 - [2026-10-28 · MNNIT Allahabad · FTE](#2026-10-28--mnnit-allahabad--fte)
@@ -48,6 +52,42 @@
 
 ---
 
+## 2026-11-02 · IIT Roorkee · FTE
+
+### Q1. Open, close k and clear commands
+
+Easy DSA question: given commands `open x`, `close k` and `clear`, maintain a list of open x's. `close k` closes the last k opened x's and `clear` closes all of them.
+
+Exact constraints and examples were not given.
+
+<sub>Topics: Stack/Queue, Arrays · Same idea: [LeetCode 1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) (Medium), stack-like list with undo k steps and reset · Source: [chat, 2 Nov](../archive/ibm-oa/2026-11.jsonl#L11)</sub>
+
+## 2026-11-02 · IIT Delhi · FTE
+
+### Q1. Minimum element removal with neighbours
+
+You are given an array of size n. In each iteration, you must:
+
+1. Find the minimum element in the current array.
+2. Add this minimum element to the total sum.
+3. Delete the minimum element along with its immediate left and right neighbours, if they exist.
+4. Repeat the process on the remaining array until it becomes empty.
+
+Return the sum of all the minimum elements selected across all iterations.
+
+Example:
+
+```
+Input: arr = [2, 1, 3, 4, 5]
+Output: 5
+```
+
+Explanation:
+- Iteration 1: The minimum element is 1. Remove 1 and its adjacent elements 2 and 3. The remaining array is [4, 5]. Sum = 1.
+- Iteration 2: The minimum element is 4. Remove 4 and its adjacent element 5. The array becomes empty. Sum = 1 + 4 = 5.
+
+<sub>Topics: Arrays, Sorting, Greedy · Close variant: [LeetCode 2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) (Medium), pick smallest, remove it and neighbours, sum picks · Source: [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L87), [chat, 2 Nov](../archive/inter-iit/2026-11.jsonl#L88) · Also asked at: IIT Delhi (2026-11-02), IIT BHU (2026-11-02)</sub>
+
 ## 2026-10-29 · IIT Guwahati · FTE
 
 ### Q1. Basic easy DSA question
@@ -68,7 +108,7 @@ One DSA question of easy-to-medium difficulty. The poster did not give the state
 
 A backend question about validating a promo code. The conditions that must be fulfilled were mentioned, and you write code for the functionality to fix the issues so the given test cases pass.
 
-<sub>Topics: Web Dev, Software Engineering · Source: [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L27), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L46), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L48)</sub>
+<sub>Topics: Web Dev, Software Engineering · Source: [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L27), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L46), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L48) · Also asked at: IIT Roorkee (2026-11-02), IIT Delhi ×2 (last 2026-11-02), IIT BHU (2026-11-02)</sub>
 
 ### Q3. Frameworks allowed for the web-dev question
 
@@ -182,7 +222,7 @@ IBM OA pattern for Software Developer / Software Engineer / Hardware Engineer ro
 
 The OA had 1 DSA question and 1 backend question. The backend question is described as a cheap copy of the Amazon backend OA: you choose a tech stack, then fix a bug or implement something in that stack. The exact problem statements were not shared.
 
-<sub>Topics: OA Format, Web Dev · Source: [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L75), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L82), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L83), [chat, 22 Oct](../archive/ibm-oa/2026-10.jsonl#L84) · Also asked at: MNNIT Allahabad (2026-10-31), IIT Guwahati (2026-11-01), IIT Hyderabad (2026-11-01)</sub>
+<sub>Topics: OA Format, Web Dev · Source: [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L75), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L82), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L83), [chat, 22 Oct](../archive/ibm-oa/2026-10.jsonl#L84) · Also asked at: MNNIT Allahabad (2026-10-31), IIT Guwahati (2026-11-01), IIT Hyderabad ×2 (last 2026-11-02), IIT Roorkee (2026-11-02)</sub>
 
 ## 2026-10-20 · MNNIT Allahabad · FTE · ASE · Interview
 

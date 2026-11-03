@@ -1,9 +1,10 @@
 # Hashing
 
-90 questions from 41 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+91 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Bhubaneswar | [Repeated messages](../companies/cognizant.md#q1-repeated-messages) | ≈ [LC 217](https://leetcode.com/problems/contains-duplicate/) Easy |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Easy map-based problem](../companies/hilabs.md#q3-easy-map-based-problem) | ≈ [LC 1](https://leetcode.com/problems/two-sum/) Easy |
 | 2026-11-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Morse code decode to dictionary word](../companies/eternal-zomato.md#q2-morse-code-decode-to-dictionary-word) | ≈ [LC 804](https://leetcode.com/problems/unique-morse-code-words/) Easy |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Right half can form a palindrome](../companies/navi.md#q1-right-half-can-form-a-palindrome) | [LC 266](https://leetcode.com/problems/palindrome-permutation/) Easy |
