@@ -1,9 +1,11 @@
 # Strings
 
-93 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+95 questions from 41 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Kharagpur | [Next permutation of a word](../companies/flipkart.md#q2-next-permutation-of-a-word) | [LC 31](https://leetcode.com/problems/next-permutation/) Medium |
+| 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Smallest Covering Window](../companies/commotion.md#q2-smallest-covering-window) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Minimum window substring](../companies/unknown.md#q2-minimum-window-substring) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |
 | 2026-11-02 | [Point72](../companies/point72.md) | IIT Madras | [Codeforces 1096D (reported by a friend, different set)](../companies/point72.md#q3-codeforces-1096d-reported-by-a-friend-different-set) | [CF 1096D](https://codeforces.com/problemset/problem/1096/D) rated 1800 |
 | 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Palindrome with equal characters at distance k](../companies/cognizant.md#q2-palindrome-with-equal-characters-at-distance-k) | ≈ [LC 2948](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) Medium |

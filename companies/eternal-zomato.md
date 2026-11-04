@@ -1,13 +1,17 @@
 # Eternal (Zomato)
 
-**172 questions** · 78 drives · latest 2 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**174 questions** · 80 drives · latest 3 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 55 · [SQL](../topics/sql.md) 24 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 12 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +22 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 56 · [SQL](../topics/sql.md) 24 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 12 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +22 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +9 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-03 · IIT Roorkee · FTE](#2026-11-03--iit-roorkee--fte)
+  - [Ride with the highest duration (pandas)](#q1-ride-with-the-highest-duration-pandas)
+- [2026-11-03 · IIT Roorkee · FTE · Product Analyst](#2026-11-03--iit-roorkee--fte--product-analyst)
+  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format)
 - [2026-11-02 · IIT BHU · FTE · Product Analyst](#2026-11-02--iit-bhu--fte--product-analyst)
   - [OA structure](#q1-oa-structure)
   - [Morse code decode to dictionary word](#q2-morse-code-decode-to-dictionary-word)
@@ -80,7 +84,7 @@
 - [2026-10-24 · VNIT Nagpur · FTE · Product Analyst](#2026-10-24--vnit-nagpur--fte--product-analyst)
   - [Eternal/Zomato product analyst OA format](#q1-eternalzomato-product-analyst-oa-format)
 - [2026-10-24 · IIT Guwahati · FTE · Product Analyst](#2026-10-24--iit-guwahati--fte--product-analyst)
-  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format)
+  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-1)
 - [2026-10-24 · IIT BHU · FTE · SDE](#2026-10-24--iit-bhu--fte--sde)
   - [Eternal SDE OA format](#q1-eternal-sde-oa-format)
 - [2026-10-23 · IIT Roorkee · FTE · SDE](#2026-10-23--iit-roorkee--fte--sde)
@@ -187,7 +191,7 @@
   - [Total energy of all subsequences (subset sum K)](#q5-total-energy-of-all-subsequences-subset-sum-k)
   - [Minimum steps with prime jumps](#q6-minimum-steps-with-prime-jumps)
 - [2026-09-29 · IIT Guwahati · FTE · Product Analyst](#2026-09-29--iit-guwahati--fte--product-analyst)
-  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-1)
+  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-2)
 - [2026-09-29 · IIT Dhanbad · FTE](#2026-09-29--iit-dhanbad--fte)
   - [Maximize Total Tastiness of Purchased Fruits (LeetCode 2431)](#q1-maximize-total-tastiness-of-purchased-fruits-leetcode-2431)
   - [Snowflake OA graph problem (LeetCode Discuss 4062769)](#q2-snowflake-oa-graph-problem-leetcode-discuss-4062769)
@@ -222,7 +226,7 @@
 - [2026-09-27 · IIT Roorkee · FTE · SDE](#2026-09-27--iit-roorkee--fte--sde)
   - [SDE OA description: easy, Striver-sheet style](#q1-sde-oa-description-easy-striver-sheet-style)
 - [2026-09-26 · IIT BHU · FTE · Product Analyst](#2026-09-26--iit-bhu--fte--product-analyst)
-  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-2)
+  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-3)
 - [2026-09-25 · IIT BHU · FTE · Product Analyst](#2026-09-25--iit-bhu--fte--product-analyst)
   - [Product Analyst OA pattern](#q1-product-analyst-oa-pattern)
 - [2026-09-25 · IIT BHU · FTE · SDE](#2026-09-25--iit-bhu--fte--sde)
@@ -262,6 +266,24 @@
 </details>
 
 ---
+
+## 2026-11-03 · IIT Roorkee · FTE
+
+### Q1. Ride with the highest duration (pandas)
+
+Given pickup and dropoff times for rides, find the ride with the highest time duration.
+
+(Poster only remembered this roughly; the exact schema and output format are missing.)
+
+<sub>Topics: Python & Pandas · Source: [chat, 3 Nov](../archive/eternal-oa/2026-11.jsonl#L14)</sub>
+
+## 2026-11-03 · IIT Roorkee · FTE · Product Analyst
+
+### Q1. Eternal Product Analyst OA format
+
+No electrical questions. Basic aptitude, 2-3 SQL questions, and 1 Python question on dictionaries. (Another poster said theirs had 3 SQL questions and some aptitude.)
+
+<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L115), [chat, 3 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L119)</sub>
 
 ## 2026-11-02 · IIT BHU · FTE · Product Analyst
 
@@ -1516,7 +1538,7 @@ Shared only as a link to a LeetCode Discuss post titled 'Snowflake OA graph prob
 
 Python coding: process n operations of the form set(key, value) and get(key). Values fall into ranges: 0-10 is 'low', 11-20 is 'medium', and above that is 'high'. The output is true/false based on these levels. Only this partial description was given.
 
-<sub>Topics: Hashing, Python & Pandas · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L44), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L45), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L47) · Also asked at: IIT Dhanbad (2026-09-29)</sub>
+<sub>Topics: Hashing, Python & Pandas · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L44), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L45), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L47) · Also asked at: IIT Dhanbad (2026-09-29), IIT Roorkee (2026-11-03)</sub>
 
 ### Q5. Clothes sizes stock check
 

@@ -1,13 +1,21 @@
 # ThoughtSpot
 
-**6 questions** · 5 drives · latest 2 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**12 questions** · 7 drives · latest 4 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 3 · [DP](../topics/dp.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [OA Format](../topics/oa-format.md) 1  
-**Seen at:** IIT BHU, IIT Guwahati
+**Asks about:** [DP](../topics/dp.md) 4 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Graphs](../topics/graphs.md) 3 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +1 more  
+**Seen at:** IIT BHU, IIT Guwahati, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · IIT BHU · FTE](#2026-11-04--iit-bhu--fte)
+  - [Count ways to choose k pairs with distinct a, b and no equal diagonal differences](#q1-count-ways-to-choose-k-pairs-with-distinct-a-b-and-no-equal-diagonal-differences)
+  - [Simple BFS problem](#q2-simple-bfs-problem)
+  - [Max constant speed path from node 0 to n-1](#q3-max-constant-speed-path-from-node-0-to-n-1)
+- [2026-11-03 · IIT Roorkee · FTE](#2026-11-03--iit-roorkee--fte)
+  - [Shortest path with constrained edge relaxations](#q1-shortest-path-with-constrained-edge-relaxations)
+  - [Array transformation by removing two elements](#q2-array-transformation-by-removing-two-elements)
+  - [Minimum operations to make x equal to y](#q3-minimum-operations-to-make-x-equal-to-y)
 - [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
   - [Coupled recurrence relations F, G, H](#q1-coupled-recurrence-relations-f-g-h)
 - [2026-10-30 · IIT BHU · FTE](#2026-10-30--iit-bhu--fte)
@@ -23,6 +31,57 @@
 </details>
 
 ---
+
+## 2026-11-04 · IIT BHU · FTE
+
+### Q1. Count ways to choose k pairs with distinct a, b and no equal diagonal differences
+
+Given n, k. Find the number of ways of choosing k pairs (a, b) with 0 <= a, b < n. Every a has to be unique across all pairs, and the same for b. There should not be any 2 pairs such that abs(a1 - a2) = abs(b1 - b2).
+
+<sub>Topics: DP, Math, Recursion/Backtracking · Same idea: [LeetCode 52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) (Hard), unique rows/columns, no equal diagonal differences · Source: [chat, 4 Nov](../archive/thoughtspot-oa/2026-11.jsonl#L9)</sub>
+
+### Q2. Simple BFS problem
+
+A simple BFS problem. The poster did not give the statement.
+
+<sub>Topics: Graphs · Source: [chat, 4 Nov](../archive/thoughtspot-oa/2026-11.jsonl#L9)</sub>
+
+### Q3. Max constant speed path from node 0 to n-1
+
+An MST variant. Find the maximum constant speed at which you can travel from node 0 to node n - 1. You can revisit any node any number of times. Edges have a weight (speed).
+
+<sub>Topics: Graphs, Binary Search · Same idea: [LeetCode 1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) (Medium), minimize the maximum edge on path; MST/bottleneck · Source: [chat, 4 Nov](../archive/thoughtspot-oa/2026-11.jsonl#L9)</sub>
+
+## 2026-11-03 · IIT Roorkee · FTE
+
+### Q1. Shortest path with constrained edge relaxations
+
+Given a weighted undirected graph and two vertices s and t, find the minimum shortest-path distance between them after at most k relaxations.
+
+In one relaxation, an edge of weight w can be changed to ceil(w/2). Two relaxations cannot be performed consecutively; there must be at least one gap between them.
+
+<sub>Topics: Graphs · Same idea: [LeetCode 787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Medium), shortest path with limited number of special steps · Source: [chat, 3 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L133)</sub>
+
+### Q2. Array transformation by removing two elements
+
+Given an array a of size n >= 3 and an array b of size n-2, remove exactly two elements from a and add the same positive integer k to all remaining elements to obtain b.
+
+Find the minimum possible value of k.
+
+<sub>Topics: Arrays · Source: [chat, 3 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L133)</sub>
+
+### Q3. Minimum operations to make x equal to y
+
+Given two integers x and y, find the minimum number of operations required to make x equal to y.
+
+In each operation, you can:
+- Divide x by 11 or 5, if perfectly divisible.
+- Increment x by 1.
+- Decrement x by 1.
+
+The problem is to be solved using Dynamic Programming.
+
+<sub>Topics: DP · Same idea: [LeetCode 991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) (Medium), min operations transforming x to y with divide/inc/dec · Source: [chat, 3 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L133)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE
 

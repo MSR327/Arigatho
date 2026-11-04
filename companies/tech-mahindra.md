@@ -1,13 +1,15 @@
 # Tech Mahindra
 
-**4 questions** · 2 drives · latest 22 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 3 drives · latest 4 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [DP](../topics/dp.md) 2 · [Sorting](../topics/sorting.md) 1 · [Math](../topics/math.md) 1 · [Arrays](../topics/arrays.md) 1 · [Python & Pandas](../topics/python-pandas.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [OA Format](../topics/oa-format.md) 1  
+**Asks about:** [DP](../topics/dp.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Sorting](../topics/sorting.md) 1 · [Math](../topics/math.md) 1 · [Arrays](../topics/arrays.md) 1 · [Python & Pandas](../topics/python-pandas.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
 **Seen at:** IIT Delhi, NIT Silchar
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · Unknown · FTE · Technorise · Interview](#2026-11-04--unknown--fte--technorise--interview)
+  - [Tech Mahindra Technorise interview topics](#q1-tech-mahindra-technorise-interview-topics)
 - [2026-10-22 · NIT Silchar · FTE · Other round](#2026-10-22--nit-silchar--fte--other-round)
   - [Tech Mahindra round structure](#q1-tech-mahindra-round-structure)
 - [2026-10-14 · IIT Delhi · FTE](#2026-10-14--iit-delhi--fte)
@@ -18,6 +20,20 @@
 </details>
 
 ---
+
+## 2026-11-04 · Unknown · FTE · Technorise · Interview
+
+### Q1. Tech Mahindra Technorise interview topics
+
+Topics to expect in the Tech Mahindra Technorise interview, by priority:
+
+- High: OOP, C++, SQL, basic coding
+- High: Resume and project explanation
+- Medium: OS, DBMS, Computer Networks
+- Medium: HR questions and company knowledge
+- Role-dependent: DSA, Java/Python, cloud, AI/ML
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/campus-nit-rourkela-placements/2026-11.jsonl#L3)</sub>
 
 ## 2026-10-22 · NIT Silchar · FTE · Other round
 

@@ -1,13 +1,15 @@
 # EXL
 
-**3 questions** · 3 drives · latest 2 Nov 2026 · [← all companies](../README.md#companies)
+**4 questions** · 4 drives · latest 3 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3  
+**Asks about:** [OA Format](../topics/oa-format.md) 4  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Hyderabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-03 · IIT BHU · FTE · Consultant](#2026-11-03--iit-bhu--fte--consultant)
+  - [EXL Consultant OA format](#q1-exl-consultant-oa-format)
 - [2026-11-02 · IIT Hyderabad · FTE](#2026-11-02--iit-hyderabad--fte)
   - [EXL OA pattern](#q1-exl-oa-pattern)
 - [2026-11-01 · IIT BHU · FTE · Analytics](#2026-11-01--iit-bhu--fte--analytics)
@@ -18,6 +20,14 @@
 </details>
 
 ---
+
+## 2026-11-03 · IIT BHU · FTE · Consultant
+
+### Q1. EXL Consultant OA format
+
+The EXL Consultant OA has only MCQs, related to aptitude and logical reasoning.
+
+<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/inter-nit/2026-11.jsonl#L338)</sub>
 
 ## 2026-11-02 · IIT Hyderabad · FTE
 

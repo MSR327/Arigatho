@@ -1,9 +1,10 @@
 # Other
 
-38 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+39 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-03 | [Shadowfax](../companies/shadowfax.md) | IIT Guwahati | [Manpower Roster Optimisation (AI-assisted assignment)](../companies/shadowfax.md#q2-manpower-roster-optimisation-ai-assisted-assignment) | |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Production debugging scenarios](../companies/hilabs.md#q1-production-debugging-scenarios) | |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Connect Four Bot](../companies/unknown.md#q5-connect-four-bot) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [2048 Grid Simulation and Score Tracker](../companies/mastercard.md#q4-2048-grid-simulation-and-score-tracker) | ≈ [LC 2048](https://leetcode.com/problems/next-greater-numerically-balanced-number/) Medium |

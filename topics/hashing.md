@@ -1,9 +1,12 @@
 # Hashing
 
-91 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+94 questions from 45 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Smallest Covering Window](../companies/commotion.md#q2-smallest-covering-window) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |
+| 2026-11-03 | [Deloitte](../companies/deloitte.md) | IIT Roorkee | [Warehouse order allocation (vibe coding)](../companies/deloitte.md#q1-warehouse-order-allocation-vibe-coding) | |
+| 2026-11-03 | [Point72](../companies/point72.md) | IIT Madras | [Maximum size of a K-multiple-free subset](../companies/point72.md#q1-maximum-size-of-a-k-multiple-free-subset) | ≈ [LC 2170](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) Medium |
 | 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Bhubaneswar | [Repeated messages](../companies/cognizant.md#q1-repeated-messages) | ≈ [LC 217](https://leetcode.com/problems/contains-duplicate/) Easy |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Easy map-based problem](../companies/hilabs.md#q3-easy-map-based-problem) | ≈ [LC 1](https://leetcode.com/problems/two-sum/) Easy |
 | 2026-11-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Morse code decode to dictionary word](../companies/eternal-zomato.md#q2-morse-code-decode-to-dictionary-word) | ≈ [LC 804](https://leetcode.com/problems/unique-morse-code-words/) Easy |

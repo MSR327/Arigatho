@@ -1,9 +1,9 @@
 # Amazon
 
-**5 questions** · 4 drives · latest 1 Nov 2026 · [← all companies](../README.md#companies)
+**5 questions** · 4 drives · latest 3 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 3 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
-**Seen at:** BITS, IIT BHU, IIT Guwahati, MNNIT Allahabad
+**Seen at:** BITS, IIT BHU, IIT Guwahati, MNNIT Allahabad, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -48,7 +48,7 @@ Same as the off-campus application:
 
 The only change in the Amazon OA pattern is one "Find the bug" question, where you are given a codebase with a basic AI assistant.
 
-<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/amazon-oa/2026-10.jsonl#L27) · Also asked at: MNNIT Allahabad (2026-11-01)</sub>
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/amazon-oa/2026-10.jsonl#L27) · Also asked at: MNNIT Allahabad (2026-11-01), NIT Surathkal (2026-11-03)</sub>
 
 ## 2026-10-03 · IIT BHU · FTE · Applied Scientist · Interview
 

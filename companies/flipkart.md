@@ -1,13 +1,21 @@
 # Flipkart
 
-**28 questions** · 13 drives · latest 2 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**34 questions** · 15 drives · latest 3 Nov 2026 · [17 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Graphs](../topics/graphs.md) 6 · [Strings](../topics/strings.md) 5 · [DP](../topics/dp.md) 5 · [Math](../topics/math.md) 4 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 2 · [SQL](../topics/sql.md) 2 · +4 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur/Kanpur, MNNIT Allahabad
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Strings](../topics/strings.md) 6 · [Math](../topics/math.md) 6 · [Graphs](../topics/graphs.md) 6 · [DP](../topics/dp.md) 5 · [Arrays](../topics/arrays.md) 4 · [Trees](../topics/trees.md) 3 · [Binary Search](../topics/binary-search.md) 2 · +6 more  
+**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-03 · IIT Madras · FTE · AI Engineer](#2026-11-03--iit-madras--fte--ai-engineer)
+  - [Simple backtracking problem](#q1-simple-backtracking-problem)
+  - [LCA in a binary tree given as root paths](#q2-lca-in-a-binary-tree-given-as-root-paths)
+  - [Largest rectangle in a histogram](#q3-largest-rectangle-in-a-histogram)
+- [2026-11-03 · IIT Kharagpur · FTE · AI Engineer](#2026-11-03--iit-kharagpur--fte--ai-engineer)
+  - [Missing digits to form a perfect square](#q1-missing-digits-to-form-a-perfect-square)
+  - [Next permutation of a word](#q2-next-permutation-of-a-word)
+  - [3D volume finding question](#q3-3d-volume-finding-question)
 - [2026-11-02 · IIT Delhi · FTE · AI Engineer](#2026-11-02--iit-delhi--fte--ai-engineer)
   - [ASCII code question](#q1-ascii-code-question)
   - [Count nodes with even/odd subtree children from LR/LL path strings](#q2-count-nodes-with-evenodd-subtree-children-from-lrll-path-strings)
@@ -53,6 +61,48 @@
 </details>
 
 ---
+
+## 2026-11-03 · IIT Madras · FTE · AI Engineer
+
+### Q1. Simple backtracking problem
+
+One of the 3 DSA questions was a simple backtracking problem.
+
+(Statement not given.)
+
+<sub>Topics: Recursion/Backtracking · Same idea: [LeetCode 46. Permutations](https://leetcode.com/problems/permutations/) (Medium), basic backtracking enumeration · Source: [chat, 3 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L70)</sub>
+
+### Q2. LCA in a binary tree given as root paths
+
+Node 1 is the root and every other node is given as a path from the root to that node, like "LR", "RLRL" and so on. Given two nodes, print their lowest common ancestor.
+
+<sub>Topics: Trees · Close variant: [LeetCode 236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (Medium), find LCA of two nodes in binary tree · Source: [chat, 3 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L70)</sub>
+
+### Q3. Largest rectangle in a histogram
+
+Find the maximum rectangle area in a histogram.
+
+<sub>Topics: Stack/Queue, Arrays · Similar: [LeetCode 84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (Hard) · Source: [chat, 3 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L70)</sub>
+
+## 2026-11-03 · IIT Kharagpur · FTE · AI Engineer
+
+### Q1. Missing digits to form a perfect square
+
+Given a string of 5 digits with two blanks, find out whether it can be completed to a perfect square (the poster solved it with binary search). Exact statement not remembered.
+
+<sub>Topics: Binary Search, Math · Same idea: [LeetCode 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) (Easy), binary search for perfect square check · Source: [chat, 3 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L68)</sub>
+
+### Q2. Next permutation of a word
+
+Next permutation question: if the next permutation of the given word exists, output it; otherwise no change. Poster recalls only this.
+
+<sub>Topics: Strings, Arrays · Same problem: [LeetCode 31. Next Permutation](https://leetcode.com/problems/next-permutation/) (Medium), next lexicographic permutation of sequence · Source: [chat, 3 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L68)</sub>
+
+### Q3. 3D volume finding question
+
+A 3-dimensional volume finding question. The poster does not remember the details.
+
+<sub>Topics: Math · Source: [chat, 3 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L68)</sub>
 
 ## 2026-11-02 · IIT Delhi · FTE · AI Engineer
 

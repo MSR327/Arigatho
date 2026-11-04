@@ -1,9 +1,14 @@
 # Arrays
 
-187 questions from 54 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+192 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Kharagpur | [Next permutation of a word](../companies/flipkart.md#q2-next-permutation-of-a-word) | [LC 31](https://leetcode.com/problems/next-permutation/) Medium |
+| 2026-11-03 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Roorkee | [Array transformation by removing two elements](../companies/thoughtspot.md#q2-array-transformation-by-removing-two-elements) | |
+| 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Madras | [Largest rectangle in a histogram](../companies/flipkart.md#q3-largest-rectangle-in-a-histogram) | [LC 84](https://leetcode.com/problems/largest-rectangle-in-histogram/) Hard |
+| 2026-11-03 | [Deloitte](../companies/deloitte.md) | IIT Roorkee | [Warehouse order allocation (vibe coding)](../companies/deloitte.md#q1-warehouse-order-allocation-vibe-coding) | |
+| 2026-11-03 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Deadline scheduling with value and early bonus](../companies/capital-one.md#q3-deadline-scheduling-with-value-and-early-bonus) | ≈ [GfG](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) |
 | 2026-11-02 | [IBM](../companies/ibm.md) | IIT Roorkee | [Open, close k and clear commands](../companies/ibm.md#q1-open-close-k-and-clear-commands) | ≈ [LC 1472](https://leetcode.com/problems/design-browser-history/) Medium |
 | 2026-11-02 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Count pairs whose GCD equals K](../companies/capital-one.md#q1-count-pairs-whose-gcd-equals-k) | ≈ [LC 2447](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) Medium |
 | 2026-11-02 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Minimum moves in grid avoiding blocked cells](../companies/texas-instruments.md#q1-minimum-moves-in-grid-avoiding-blocked-cells) | [LC 1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) Medium |

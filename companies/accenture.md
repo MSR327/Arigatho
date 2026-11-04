@@ -1,6 +1,6 @@
 # Accenture
 
-**284 questions** · 100 drives · latest 2 Nov 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**284 questions** · 100 drives · latest 3 Nov 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 81 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +17 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
@@ -712,7 +712,7 @@ About 7-8 sections:
 
 The poster's message is cut off after section 6.
 
-<sub>Topics: OA Format, Verbal · Source: [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L54) · Also asked at: IIT Delhi (2026-10-24), MNNIT Allahabad (2026-10-27), IIT Guwahati (2026-10-29), IIT Roorkee (2026-10-30), IIT Indore (2026-10-30)</sub>
+<sub>Topics: OA Format, Verbal · Source: [chat, 27 Oct](../archive/accenture-oa/2026-10.jsonl#L54) · Also asked at: IIT Delhi (2026-10-24), MNNIT Allahabad (2026-10-27), IIT Guwahati (2026-10-29), IIT Roorkee (2026-10-30), IIT Indore (2026-10-30), IIT BHU (2026-11-03)</sub>
 
 ## 2026-10-27 · MNNIT Allahabad · FTE · Advanced Technology Engineer
 

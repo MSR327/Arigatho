@@ -1,9 +1,10 @@
 # Finance
 
-4 questions from 4 companys, newest first. [← all topics](../README.md#topics)
+5 questions from 5 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-03 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Finance MCQs: bonds, stocks, WACC](../companies/blackrock.md#q4-finance-mcqs-bonds-stocks-wacc) |
 | 2026-10-31 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Hyderabad | [Finance fundamentals questions](../companies/whiteoak-capital.md#q3-finance-fundamentals-questions) |
 | 2026-10-23 | [Slice](../companies/slice.md) | IIT Bombay | [Minimum salary increase to avoid tax (tax brackets)](../companies/slice.md#q1-minimum-salary-increase-to-avoid-tax-tax-brackets) |
 | 2026-10-13 | [Edelweiss](../companies/edelweiss.md) | IIT Hyderabad | [Round 2: option pricing and closing auction context questions](../companies/edelweiss.md#q2-round-2-option-pricing-and-closing-auction-context-questions) |

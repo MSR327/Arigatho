@@ -1,13 +1,15 @@
 # Deloitte
 
-**67 questions** · 14 drives · latest 2 Nov 2026 · [← all companies](../README.md#companies)
+**68 questions** · 15 drives · latest 3 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 11 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +10 more  
-**Seen at:** IIT BHU, IIT Dhanbad, IIT Hyderabad, IIT Indore, IIT Kanpur, MNNIT Allahabad, NIT Raipur, VNIT Nagpur
+**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 11 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +12 more  
+**Seen at:** IIT BHU, IIT Dhanbad, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, MNNIT Allahabad, NIT Raipur +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-03 · IIT Roorkee · FTE](#2026-11-03--iit-roorkee--fte)
+  - [Warehouse order allocation (vibe coding)](#q1-warehouse-order-allocation-vibe-coding)
 - [2026-11-02 · IIT Dhanbad · FTE](#2026-11-02--iit-dhanbad--fte)
   - [Deloitte first round SQL](#q1-deloitte-first-round-sql)
 - [2026-11-02 · IIT Dhanbad · FTE · Analyst](#2026-11-02--iit-dhanbad--fte--analyst)
@@ -93,6 +95,25 @@
 </details>
 
 ---
+
+## 2026-11-03 · IIT Roorkee · FTE
+
+### Q1. Warehouse order allocation (vibe coding)
+
+Vibe coding round: the solution is described in a prompt window and the AI generates the code, which is run against 12 test cases (the round is 30 minutes for vibe coding plus debugging).
+
+Problem as remembered: You are given S warehouses and the stock quantity (capacity) of each warehouse, e.g. with S = 2:
+
+```
+20
+5
+```
+
+meaning warehouse 1 has 20 units of space and warehouse 2 has 5. Then there are n orders, each in the format `order_id sku qty tier units` (e.g. `01 A 3 H 5`, meaning 3 * 5 = 15 units of SKU A). For each order, decide whether it is accepted based on the space available in the warehouses. Return the per-order status, then a summary of how many units of each order were stored (in a given format), and finally the remaining free stock in each warehouse (e.g. if the 15 units of A go into the first warehouse, 15 are occupied and 5 remain free there). Additional conditions define invalid orders: repeated order id, rejected, unknown SKU, unfilled, etc.
+
+The exact output format and full rules were not remembered.
+
+<sub>Topics: Arrays, Hashing, Greedy · Source: [chat, 3 Nov](../archive/deloitte-oa/2026-11.jsonl#L42), [chat, 3 Nov](../archive/deloitte-oa/2026-11.jsonl#L43), [chat, 3 Nov](../archive/deloitte-oa/2026-11.jsonl#L46)</sub>
 
 ## 2026-11-02 · IIT Dhanbad · FTE
 

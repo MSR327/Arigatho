@@ -1,13 +1,17 @@
 # Unknown
 
-**27 questions** · 15 drives · latest 2 Nov 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**29 questions** · 17 drives · latest 3 Nov 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [DP](../topics/dp.md) 4 · [Strings](../topics/strings.md) 3 · [Graphs](../topics/graphs.md) 3 · [Arrays](../topics/arrays.md) 3 · [Math](../topics/math.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +11 more  
-**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +2 more
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [DP](../topics/dp.md) 4 · [Strings](../topics/strings.md) 3 · [Graphs](../topics/graphs.md) 3 · [Arrays](../topics/arrays.md) 3 · [Math](../topics/math.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +11 more  
+**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-03 · VNIT Nagpur · FTE · CSE track](#2026-11-03--vnit-nagpur--fte--cse-track)
+  - [CSE track OA pattern](#q1-cse-track-oa-pattern)
+- [2026-11-03 · IIT BHU · FTE](#2026-11-03--iit-bhu--fte)
+  - [95-MCQ test topics](#q1-95-mcq-test-topics)
 - [2026-11-02 · IIT Madras · FTE · ML Engineer](#2026-11-02--iit-madras--fte--ml-engineer)
   - [Commotion OA: BFS/DFS problem](#q1-commotion-oa-bfsdfs-problem)
   - [Minimum window substring](#q2-minimum-window-substring)
@@ -54,6 +58,22 @@
 </details>
 
 ---
+
+## 2026-11-03 · VNIT Nagpur · FTE · CSE track
+
+### Q1. CSE track OA pattern
+
+The CSE track test mostly had 2 DSA questions and some core subject MCQs. The company is not named in the message.
+
+<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/campus-vnit-nagpur-placements/2026-11.jsonl#L18)</sub>
+
+## 2026-11-03 · IIT BHU · FTE
+
+### Q1. 95-MCQ test topics
+
+In reply to "95 mcqs on what?", the poster said the MCQs covered: aptitude, reasoning, Data Interpretation, Cybersecurity. (The company was not named in the message.)
+
+<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/inter-nit/2026-11.jsonl#L252)</sub>
 
 ## 2026-11-02 · IIT Madras · FTE · ML Engineer
 

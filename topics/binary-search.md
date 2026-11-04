@@ -1,9 +1,12 @@
 # Binary Search
 
-35 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+38 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Max constant speed path from node 0 to n-1](../companies/thoughtspot.md#q3-max-constant-speed-path-from-node-0-to-n-1) | ≈ [LC 1631](https://leetcode.com/problems/path-with-minimum-effort/) Medium |
+| 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Kharagpur | [Missing digits to form a perfect square](../companies/flipkart.md#q1-missing-digits-to-form-a-perfect-square) | ≈ [LC 367](https://leetcode.com/problems/valid-perfect-square/) Easy |
+| 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Cooling the Foundry Floor](../companies/commotion.md#q1-cooling-the-foundry-floor) | [LC 778](https://leetcode.com/problems/swim-in-rising-water/) Hard |
 | 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Bhubaneswar | [Priority scheduling with binary search](../companies/cognizant.md#q2-priority-scheduling-with-binary-search) | |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [Binary search problem similar to Koko eating bananas](../companies/tiger-analytics.md#q1-binary-search-problem-similar-to-koko-eating-bananas) | [LC 875](https://leetcode.com/problems/koko-eating-bananas/) Medium |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Binary search variations](../companies/unknown.md#q4-binary-search-variations) | ≈ [LC 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) Medium |

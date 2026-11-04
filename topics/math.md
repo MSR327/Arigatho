@@ -1,9 +1,15 @@
 # Math
 
-162 questions from 45 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+168 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Count ways to choose k pairs with distinct a, b and no equal diagonal differences](../companies/thoughtspot.md#q1-count-ways-to-choose-k-pairs-with-distinct-a-b-and-no-equal-diagonal-differences) | ≈ [LC 52](https://leetcode.com/problems/n-queens-ii/) Hard |
+| 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Kharagpur | [3D volume finding question](../companies/flipkart.md#q3-3d-volume-finding-question) | |
+| 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Kharagpur | [Missing digits to form a perfect square](../companies/flipkart.md#q1-missing-digits-to-form-a-perfect-square) | ≈ [LC 367](https://leetcode.com/problems/valid-perfect-square/) Easy |
+| 2026-11-03 | [Shadowfax](../companies/shadowfax.md) | IIT Guwahati | [Manpower Roster Optimisation (AI-assisted assignment)](../companies/shadowfax.md#q2-manpower-roster-optimisation-ai-assisted-assignment) | |
+| 2026-11-03 | [KLA](../companies/kla.md) | IIT Bhubaneswar | [15 x 20 bar breaking game](../companies/kla.md#q2-15-x-20-bar-breaking-game) | ≈ [LC 292](https://leetcode.com/problems/nim-game/) Easy |
+| 2026-11-03 | [KLA](../companies/kla.md) | IIT Bhubaneswar | [Ball bag reduction: last ball left](../companies/kla.md#q1-ball-bag-reduction-last-ball-left) | ≈ [LC 1046](https://leetcode.com/problems/last-stone-weight/) Easy |
 | 2026-11-03 | [Point72](../companies/point72.md) | Unknown | [Quant OA topics](../companies/point72.md#q1-quant-oa-topics) | |
 | 2026-11-02 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Count pairs whose GCD equals K](../companies/capital-one.md#q1-count-pairs-whose-gcd-equals-k) | ≈ [LC 2447](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Count permutations of array with pairwise product above threshold](../companies/hilabs.md#q1-count-permutations-of-array-with-pairwise-product-above-threshold) | |

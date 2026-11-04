@@ -1,9 +1,17 @@
 # Graphs
 
-109 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+117 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Max constant speed path from node 0 to n-1](../companies/thoughtspot.md#q3-max-constant-speed-path-from-node-0-to-n-1) | ≈ [LC 1631](https://leetcode.com/problems/path-with-minimum-effort/) Medium |
+| 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Simple BFS problem](../companies/thoughtspot.md#q2-simple-bfs-problem) | |
+| 2026-11-03 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Roorkee | [Shortest path with constrained edge relaxations](../companies/thoughtspot.md#q1-shortest-path-with-constrained-edge-relaxations) | ≈ [LC 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) Medium |
+| 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [The Great Chai Stall Crawl](../companies/commotion.md#q4-the-great-chai-stall-crawl) | [CSES 1690](https://cses.fi/problemset/task/1690) |
+| 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Network Reliability Investigation](../companies/commotion.md#q3-network-reliability-investigation) | [LC 1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) Medium |
+| 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Cooling the Foundry Floor](../companies/commotion.md#q1-cooling-the-foundry-floor) | [LC 778](https://leetcode.com/problems/swim-in-rising-water/) Hard |
+| 2026-11-03 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Research papers completion days (topological sort)](../companies/capital-one.md#q2-research-papers-completion-days-topological-sort) | ≈ [LC 2050](https://leetcode.com/problems/parallel-courses-iii/) Hard |
+| 2026-11-03 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Count paths with even total weight in directed weighted graph](../companies/capital-one.md#q1-count-paths-with-even-total-weight-in-directed-weighted-graph) | ≈ [LC 797](https://leetcode.com/problems/all-paths-from-source-to-target/) Medium |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Number of ways to arrive at destination](../companies/unknown.md#q3-number-of-ways-to-arrive-at-destination) | [LC 1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) Medium |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Commotion OA: BFS/DFS problem](../companies/unknown.md#q1-commotion-oa-bfsdfs-problem) | |
 | 2026-11-02 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Directed graph question](../companies/capital-one.md#q2-directed-graph-question) | |

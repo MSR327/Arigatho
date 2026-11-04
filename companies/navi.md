@@ -1,13 +1,15 @@
 # Navi
 
-**29 questions** · 12 drives · latest 2 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**30 questions** · 13 drives · latest 3 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Aptitude](../topics/aptitude.md) 9 · [Arrays](../topics/arrays.md) 6 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · [Greedy](../topics/greedy.md) 2 · [DP](../topics/dp.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · +4 more  
-**Seen at:** IIT Delhi, IIT Guwahati, IIT Roorkee
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Aptitude](../topics/aptitude.md) 9 · [Arrays](../topics/arrays.md) 6 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · [Greedy](../topics/greedy.md) 2 · [DP](../topics/dp.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · +4 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Mandi, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-03 · IIT Guwahati · FTE · SDE](#2026-11-03--iit-guwahati--fte--sde)
+  - [Navi SDE OA pattern](#q1-navi-sde-oa-pattern)
 - [2026-11-02 · IIT Guwahati · FTE](#2026-11-02--iit-guwahati--fte)
   - [Navi OA pattern](#q1-navi-oa-pattern)
 - [2026-11-02 · IIT Guwahati · FTE · SDE](#2026-11-02--iit-guwahati--fte--sde)
@@ -53,6 +55,14 @@
 </details>
 
 ---
+
+## 2026-11-03 · IIT Guwahati · FTE · SDE
+
+### Q1. Navi SDE OA pattern
+
+The SDE OA had 2 DSA coding questions and 1 DSA debugging question.
+
+<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L65) · Also asked at: IIT Guwahati (2026-11-03), IIT Mandi (2026-11-03)</sub>
 
 ## 2026-11-02 · IIT Guwahati · FTE
 
@@ -102,7 +112,7 @@ Aptitude + CS MCQs (OOP, DBMS, OS) + 2–3 coding questions (Arrays, Strings, Gr
 
 The OA was 30 minutes long with 25 aptitude-based questions. It was held at IIT Roorkee.
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L31), [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L32) · Also asked at: IIT Roorkee (2026-11-02)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L31), [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L32) · Also asked at: IIT Roorkee ×2 (last 2026-11-03)</sub>
 
 ## 2026-11-01 · IIT Roorkee · FTE · SDE
 
@@ -188,7 +198,7 @@ The poster gave a simplified version of the statement, so exact input/output for
 
 A debugging question. The error was in taking the input (an easier one). Details were not shared.
 
-<sub>Topics: Code Output (C/C++/Java/Python) · Source: [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L21), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L30)</sub>
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L21), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L30) · Also asked at: IIT Guwahati (2026-11-03), IIT Delhi (2026-11-03)</sub>
 
 ### Q5. Simple graph indegree question
 
@@ -282,7 +292,7 @@ Find the total number of occurrences of word in the grid, subject to the followi
 - If the word is a palindrome, count occurrences in both directions separately.
 Return the total number of occurrences.
 
-<sub>Topics: Arrays, Strings, Recursion/Backtracking · Close variant: [GeeksforGeeks: Word in Grid - All Occurrences](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1), straight-line word search in 8 directions from every cell · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3130)</sub>
+<sub>Topics: Arrays, Strings, Recursion/Backtracking · Close variant: [GeeksforGeeks: Word in Grid - All Occurrences](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1), straight-line word search in 8 directions from every cell · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3130) · Also asked at: IIT BHU (2026-11-03), IIT Guwahati (2026-11-03), IIT Delhi (2026-11-03)</sub>
 
 ### Q3. Most popular nodes with popular neighbours
 
@@ -300,4 +310,4 @@ The influence of a node is its degree (number of directly connected nodes).
 
 Only DSA questions in the Navi SDE OA (3 DSA questions). Actual questions not shared.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3163) · Also asked at: IIT Guwahati ×3 (last 2026-11-02), IIT Roorkee ×2 (last 2026-11-02)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3163) · Also asked at: IIT Guwahati ×3 (last 2026-11-02), IIT Roorkee ×2 (last 2026-11-02), IIT BHU (2026-11-03)</sub>

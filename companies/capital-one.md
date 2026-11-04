@@ -1,15 +1,21 @@
 # Capital One
 
-**9 questions** · 5 drives · latest 3 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**13 questions** · 7 drives · latest 3 Nov 2026 · [9 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 4 · [Graphs](../topics/graphs.md) 3 · [Arrays](../topics/arrays.md) 3 · [OA Format](../topics/oa-format.md) 2 · [Sliding Window](../topics/sliding-window.md) 2 · [Heaps](../topics/heaps.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · [SQL](../topics/sql.md) 1  
-**Seen at:** IIT BHU, IIT Bombay, IIT Kharagpur
+**Asks about:** [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Arrays](../topics/arrays.md) 4 · [OA Format](../topics/oa-format.md) 3 · [Sliding Window](../topics/sliding-window.md) 2 · [Heaps](../topics/heaps.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · [SQL](../topics/sql.md) 1 · +2 more  
+**Seen at:** IIT BHU, IIT Bombay, IIT Hyderabad, IIT Kharagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-11-03 · Unknown · FTE · Business Analyst](#2026-11-03--unknown--fte--business-analyst)
   - [Capital One Business Analyst OA topics](#q1-capital-one-business-analyst-oa-topics)
+- [2026-11-03 · IIT Kharagpur · FTE](#2026-11-03--iit-kharagpur--fte)
+  - [Count paths with even total weight in directed weighted graph](#q1-count-paths-with-even-total-weight-in-directed-weighted-graph)
+  - [Research papers completion days (topological sort)](#q2-research-papers-completion-days-topological-sort)
+  - [Deadline scheduling with value and early bonus](#q3-deadline-scheduling-with-value-and-early-bonus)
+- [2026-11-03 · IIT Hyderabad · FTE · Business Analyst](#2026-11-03--iit-hyderabad--fte--business-analyst)
+  - [Capital One BA OA sections](#q1-capital-one-ba-oa-sections)
 - [2026-11-02 · IIT Kharagpur · FTE](#2026-11-02--iit-kharagpur--fte)
   - [Count pairs whose GCD equals K](#q1-count-pairs-whose-gcd-equals-k)
   - [Directed graph question](#q2-directed-graph-question)
@@ -49,7 +55,39 @@ Topics reported:
 - SQL: GROUP BY, HAVING, joins, aggregations
 - Business recommendation based on data
 
-<sub>Topics: OA Format, Guesstimates & Cases, SQL · Source: [chat, 3 Nov](../archive/inter-iit/2026-11.jsonl#L123)</sub>
+<sub>Topics: OA Format, Guesstimates & Cases, SQL · Source: [chat, 3 Nov](../archive/inter-iit/2026-11.jsonl#L123) · Also asked at: IIT BHU (2026-11-03)</sub>
+
+## 2026-11-03 · IIT Kharagpur · FTE
+
+### Q1. Count paths with even total weight in directed weighted graph
+
+Directed weighted graph of n nodes and m edges, with -10**4 < weight < 10**4. Input: 2 nodes a, b. Output: return the number of possible paths from a to b such that the total sum of edge weights along the path is even. If there are none, return -1.
+
+<sub>Topics: Graphs, DP · Same idea: [LeetCode 797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) (Medium), counting paths in directed graph from source to target · Source: [chat, 3 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L62), [chat, 3 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L63), [chat, 3 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L64)</sub>
+
+### Q2. Research papers completion days (topological sort)
+
+Story-based problem on a directed graph (DFS / topological sort). Research papers are given with linked papers (dependencies) and their values, with a constant buffer time for each. Find how many days it would take to complete all the research papers.
+
+Exact statement, constraints and examples were not given.
+
+<sub>Topics: Graphs · Same idea: [LeetCode 2050. Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) (Hard), topological order with durations, longest path in DAG · Source: [chat, 3 Nov](../archive/capital-one-oa/2026-11.jsonl#L27), [chat, 3 Nov](../archive/capital-one-oa/2026-11.jsonl#L28), [chat, 3 Nov](../archive/capital-one-oa/2026-11.jsonl#L30), [chat, 3 Nov](../archive/capital-one-oa/2026-11.jsonl#L31)</sub>
+
+### Q3. Deadline scheduling with value and early bonus
+
+Given an array of deadlines and an array of values for items, fill slots within the deadlines to get the best total value up to the last deadline (greedy with spacing, per the poster). There is also a reward/bonus: a constant bonus times the number of days before the deadline the slot is filled.
+
+Poster was unsure of the details; exact statement and constraints were not given.
+
+<sub>Topics: Greedy, Arrays · Same idea: [GeeksforGeeks: Job Sequencing Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1), deadline slot scheduling maximizing value greedily · Source: [chat, 3 Nov](../archive/capital-one-oa/2026-11.jsonl#L27), [chat, 3 Nov](../archive/capital-one-oa/2026-11.jsonl#L28), [chat, 3 Nov](../archive/capital-one-oa/2026-11.jsonl#L30), [chat, 3 Nov](../archive/capital-one-oa/2026-11.jsonl#L31) · Also asked at: IIT Kharagpur (2026-11-03)</sub>
+
+## 2026-11-03 · IIT Hyderabad · FTE · Business Analyst
+
+### Q1. Capital One BA OA sections
+
+The OA has aptitude questions covering logical reasoning, data interpretation and quant.
+
+<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/inter-iit/2026-11.jsonl#L129)</sub>
 
 ## 2026-11-02 · IIT Kharagpur · FTE
 
@@ -59,7 +97,7 @@ Find pairs whose gcd == K.
 
 (Full statement and constraints were not given.)
 
-<sub>Topics: Math, Arrays · Same idea: [LeetCode 2447. Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) (Medium), counting with gcd equal to K · Source: [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L51), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L52), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L53)</sub>
+<sub>Topics: Math, Arrays · Same idea: [LeetCode 2447. Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) (Medium), counting with gcd equal to K · Source: [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L51), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L52), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L53) · Also asked at: IIT Kharagpur (2026-11-03)</sub>
 
 ### Q2. Directed graph question
 

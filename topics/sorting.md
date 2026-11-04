@@ -1,9 +1,10 @@
 # Sorting
 
-50 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+51 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-03 | [Point72](../companies/point72.md) | IIT Madras | [Maximum size of a K-multiple-free subset](../companies/point72.md#q1-maximum-size-of-a-k-multiple-free-subset) | ≈ [LC 2170](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Count permutations of array with pairwise product above threshold](../companies/hilabs.md#q1-count-permutations-of-array-with-pairwise-product-above-threshold) | |
 | 2026-11-02 | [IBM](../companies/ibm.md) | IIT Delhi | [Minimum element removal with neighbours](../companies/ibm.md#q1-minimum-element-removal-with-neighbours) | [LC 2593](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Sort red, blue and white balls in-place](../companies/hilabs.md#q7-sort-red-blue-and-white-balls-in-place) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |

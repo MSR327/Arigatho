@@ -1,9 +1,10 @@
 # Trees
 
-54 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+55 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Madras | [LCA in a binary tree given as root paths](../companies/flipkart.md#q2-lca-in-a-binary-tree-given-as-root-paths) | [LC 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) Medium |
 | 2026-11-02 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Count nodes with even/odd subtree children from LR/LL path strings](../companies/flipkart.md#q2-count-nodes-with-evenodd-subtree-children-from-lrll-path-strings) | ≈ [LC 1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) Medium |
 | 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [DP on trees question](../companies/eternal-zomato.md#q4-dp-on-trees-question) | |
 | 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT Delhi | [Number of unique subtrees](../companies/plutus-research.md#q1-number-of-unique-subtrees) | ≈ [LC 652](https://leetcode.com/problems/find-duplicate-subtrees/) Medium |

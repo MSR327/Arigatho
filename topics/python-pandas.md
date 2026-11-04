@@ -1,9 +1,10 @@
 # Python & Pandas
 
-46 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+47 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-03 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Ride with the highest duration (pandas)](../companies/eternal-zomato.md#q1-ride-with-the-highest-duration-pandas) | |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [OA pattern](../companies/tiger-analytics.md#q5-oa-pattern) | |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [NumPy: find outliers](../companies/tiger-analytics.md#q3-numpy-find-outliers) | |
 | 2026-10-31 | [American Express](../companies/american-express.md) | IIT Bombay | [Clean data and train TF model](../companies/american-express.md#q1-clean-data-and-train-tf-model) | |

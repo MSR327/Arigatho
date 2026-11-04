@@ -1,9 +1,9 @@
 # Mastercard
 
-**19 questions** · 10 drives · latest 2 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**19 questions** · 10 drives · latest 3 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 9 · [Other](../topics/other.md) 4 · [Strings](../topics/strings.md) 2 · [Arrays](../topics/arrays.md) 2 · [SQL](../topics/sql.md) 2 · [Math](../topics/math.md) 2 · [DP](../topics/dp.md) 1 · [Sorting](../topics/sorting.md) 1 · +3 more  
-**Seen at:** IIIT Sri City, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee
+**Seen at:** IIIT, IIIT Sri City, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -48,7 +48,7 @@
 
 15 aptitude questions + 7-8 technical MCQs + 3 DSA problems.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L16), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L18), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L19), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L20)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L16), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L18), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L19), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L20) · Also asked at: IIIT (2026-11-03)</sub>
 
 ### Q2. Make graph complete by node operations
 

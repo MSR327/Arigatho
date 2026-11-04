@@ -1,9 +1,11 @@
 # Heaps
 
-22 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+24 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Network Reliability Investigation](../companies/commotion.md#q3-network-reliability-investigation) | [LC 1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) Medium |
+| 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Cooling the Foundry Floor](../companies/commotion.md#q1-cooling-the-foundry-floor) | [LC 778](https://leetcode.com/problems/swim-in-rising-water/) Hard |
 | 2026-11-02 | [Point72](../companies/point72.md) | IIT Madras | [Max profit from investing with daily capital](../companies/point72.md#q1-max-profit-from-investing-with-daily-capital) | [LC 502](https://leetcode.com/problems/ipo/) Hard |
 | 2026-10-29 | [NatWest](../companies/natwest.md) | IIT Delhi | [LC 871 (Minimum number of refueling stops)](../companies/natwest.md#q1-lc-871-minimum-number-of-refueling-stops) | [LC 871](https://leetcode.com/problems/minimum-number-of-refueling-stops/) Hard |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Output of priority-queue subarray-sum pseudocode](../companies/tredence.md#q2-output-of-priority-queue-subarray-sum-pseudocode) | |

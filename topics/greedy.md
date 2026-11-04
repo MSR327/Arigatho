@@ -1,9 +1,13 @@
 # Greedy
 
-75 questions from 34 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+79 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-03 | [Shadowfax](../companies/shadowfax.md) | IIT Guwahati | [Manpower Roster Optimisation (AI-assisted assignment)](../companies/shadowfax.md#q2-manpower-roster-optimisation-ai-assisted-assignment) | |
+| 2026-11-03 | [Deloitte](../companies/deloitte.md) | IIT Roorkee | [Warehouse order allocation (vibe coding)](../companies/deloitte.md#q1-warehouse-order-allocation-vibe-coding) | |
+| 2026-11-03 | [Point72](../companies/point72.md) | IIT Madras | [Maximum size of a K-multiple-free subset](../companies/point72.md#q1-maximum-size-of-a-k-multiple-free-subset) | ≈ [LC 2170](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) Medium |
+| 2026-11-03 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Deadline scheduling with value and early bonus](../companies/capital-one.md#q3-deadline-scheduling-with-value-and-early-bonus) | ≈ [GfG](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) |
 | 2026-11-02 | [Point72](../companies/point72.md) | IIT Madras | [Simple greedy question](../companies/point72.md#q2-simple-greedy-question) | |
 | 2026-11-02 | [Point72](../companies/point72.md) | IIT Madras | [Max profit from investing with daily capital](../companies/point72.md#q1-max-profit-from-investing-with-daily-capital) | [LC 502](https://leetcode.com/problems/ipo/) Hard |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Count permutations of array with pairwise product above threshold](../companies/hilabs.md#q1-count-permutations-of-array-with-pairwise-product-above-threshold) | |

@@ -1,13 +1,18 @@
 # BlackRock
 
-**11 questions** · 6 drives · latest 2 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 7 drives · latest 3 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [SQL](../topics/sql.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
-**Seen at:** IIT BHU, IIT Indore, NIT Raipur, SVNIT Surat
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [SQL](../topics/sql.md) 3 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Aptitude](../topics/aptitude.md) 1 · +1 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Indore, IIT Kharagpur/Kanpur, NIT Raipur, SVNIT Surat
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-03 · IIT Indore · FTE · Analyst - Aladdin Wealth Technology](#2026-11-03--iit-indore--fte--analyst---aladdin-wealth-technology)
+  - [Employees earning above department average salary](#q1-employees-earning-above-department-average-salary)
+  - [Months with higher cost than previous month (LAG)](#q2-months-with-higher-cost-than-previous-month-lag)
+  - [Aptitude section: speed-distance, number patterns, coding-decoding](#q3-aptitude-section-speed-distance-number-patterns-coding-decoding)
+  - [Finance MCQs: bonds, stocks, WACC](#q4-finance-mcqs-bonds-stocks-wacc)
 - [2026-11-02 · IIT BHU · FTE](#2026-11-02--iit-bhu--fte)
   - [BlackRock OA pattern (95 minutes)](#q1-blackrock-oa-pattern-95-minutes)
 - [2026-10-29 · IIT Indore · FTE · AD](#2026-10-29--iit-indore--fte--ad)
@@ -30,6 +35,36 @@
 
 ---
 
+## 2026-11-03 · IIT Indore · FTE · Analyst - Aladdin Wealth Technology
+
+### Q1. Employees earning above department average salary
+
+Write an SQL query to get employees having a higher salary than the average salary in their department.
+
+(Poster only remembered the gist; table schema not given.)
+
+<sub>Topics: SQL · Same idea: [LeetCode 577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) (Easy), employee-level filter on department aggregates · Source: [chat, 3 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L23)</sub>
+
+### Q2. Months with higher cost than previous month (LAG)
+
+Using the LAG window function, find the months that had a higher cost value than the previous month.
+
+(Poster only remembered the gist; table schema not given.)
+
+<sub>Topics: SQL · Same idea: [LeetCode 197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) (Easy), compare each row with previous period's value · Source: [chat, 3 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L23)</sub>
+
+### Q3. Aptitude section: speed-distance, number patterns, coding-decoding
+
+Easy aptitude questions on speed and distance, number patterns and coding-decoding.
+
+<sub>Topics: Aptitude · Source: [chat, 3 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L23)</sub>
+
+### Q4. Finance MCQs: bonds, stocks, WACC
+
+About 4-5 finance MCQs related to bonds, stocks and WACC.
+
+<sub>Topics: Finance · Source: [chat, 3 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L23)</sub>
+
 ## 2026-11-02 · IIT BHU · FTE
 
 ### Q1. BlackRock OA pattern (95 minutes)
@@ -48,7 +83,7 @@ New assessment pattern: 95 minutes to solve MCQs + coding questions. Separate ti
 
 AI-assisted coding question (25 minutes, cannot return to the section after time is up). Given a URL, make a GET request to it; the API was paginated, so gather results from all pages, then sort them. The main difficulty was making the request and collecting the data.
 
-<sub>Topics: Arrays, Sorting · Source: [chat, 29 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L95)</sub>
+<sub>Topics: Arrays, Sorting · Source: [chat, 29 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L95) · Also asked at: IIT Indore (2026-11-03)</sub>
 
 ### Q2. Long SQL problem statement
 
@@ -81,7 +116,7 @@ Section 6: 30 MCQs on MCP, AI, LLMs and prompt engineering. The question title i
 
 2 SQL coding questions, some basic aptitude and English MCQs, and finance-related MCQs. (Specific topics not given.)
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L46)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L46) · Also asked at: IIT Kharagpur/Kanpur (2026-11-03), IIT Delhi (2026-11-03)</sub>
 
 ## 2026-10-28 · IIT Indore · FTE · Aladdin Data
 

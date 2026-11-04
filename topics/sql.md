@@ -1,9 +1,11 @@
 # SQL
 
-94 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+96 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-03 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Months with higher cost than previous month (LAG)](../companies/blackrock.md#q2-months-with-higher-cost-than-previous-month-lag) | ≈ [LC 197](https://leetcode.com/problems/rising-temperature/) Easy |
+| 2026-11-03 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Employees earning above department average salary](../companies/blackrock.md#q1-employees-earning-above-department-average-salary) | ≈ [LC 577](https://leetcode.com/problems/employee-bonus/) Easy |
 | 2026-11-03 | [Capital One](../companies/capital-one.md) | Unknown | [Capital One Business Analyst OA topics](../companies/capital-one.md#q1-capital-one-business-analyst-oa-topics) | |
 | 2026-11-02 | [ZS](../companies/zs.md) | Unknown | [ZS OA structure and maximum product subarray](../companies/zs.md#q1-zs-oa-structure-and-maximum-product-subarray) | [LC 152](https://leetcode.com/problems/maximum-product-subarray/) Medium |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [SQL window function question](../companies/tiger-analytics.md#q4-sql-window-function-question) | ≈ [LC 185](https://leetcode.com/problems/department-top-three-salaries/) Hard |
@@ -25,7 +27,7 @@
 | 2026-10-27 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Car rental: cars never rented](../companies/accenture.md#q2-car-rental-cars-never-rented) | [LC 183](https://leetcode.com/problems/customers-who-never-order/) Easy |
 | 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [DS role OA pattern](../companies/eternal-zomato.md#q1-ds-role-oa-pattern) | |
 | 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Product Analyst OA structure](../companies/eternal-zomato.md#q1-product-analyst-oa-structure) | |
-| 2026-10-24 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format) | |
+| 2026-10-24 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format-1) | |
 | 2026-10-24 | [Accenture](../companies/accenture.md) | IIT BHU | [SQL: customers who never made a booking](../companies/accenture.md#q2-sql-customers-who-never-made-a-booking) | [LC 183](https://leetcode.com/problems/customers-who-never-order/) Easy |
 | 2026-10-23 | [Tredence](../companies/tredence.md) | IIT Dhanbad | [SQL: high speed trains](../companies/tredence.md#q2-sql-high-speed-trains) | |
 | 2026-10-22 | [Paytm](../companies/paytm.md) | BIT Mesra | [List Customer and Product Without Sale](../companies/paytm.md#q1-list-customer-and-product-without-sale) | ≈ [LC 183](https://leetcode.com/problems/customers-who-never-order/) Easy |

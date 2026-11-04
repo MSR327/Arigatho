@@ -1,8 +1,8 @@
 # Point72
 
-**5 questions** · 2 drives · latest 3 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 3 drives · latest 3 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Greedy](../topics/greedy.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Heaps](../topics/heaps.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Math](../topics/math.md) 1  
+**Asks about:** [Greedy](../topics/greedy.md) 3 · [OA Format](../topics/oa-format.md) 2 · [Heaps](../topics/heaps.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Math](../topics/math.md) 1 · [Hashing](../topics/hashing.md) 1 · +1 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Madras
 
 <details>
@@ -10,6 +10,8 @@
 
 - [2026-11-03 · Unknown · FTE](#2026-11-03--unknown--fte)
   - [Quant OA topics](#q1-quant-oa-topics)
+- [2026-11-03 · IIT Madras · FTE](#2026-11-03--iit-madras--fte)
+  - [Maximum size of a K-multiple-free subset](#q1-maximum-size-of-a-k-multiple-free-subset)
 - [2026-11-02 · IIT Madras · FTE](#2026-11-02--iit-madras--fte)
   - [Max profit from investing with daily capital](#q1-max-profit-from-investing-with-daily-capital)
   - [Simple greedy question](#q2-simple-greedy-question)
@@ -34,6 +36,58 @@ Topics reported (reply to a question asking about Point72 or Capital One):
 
 <sub>Topics: OA Format, ML/AI, Math · Source: [chat, 3 Nov](../archive/inter-iit/2026-11.jsonl#L128)</sub>
 
+## 2026-11-03 · IIT Madras · FTE
+
+### Q1. Maximum size of a K-multiple-free subset
+
+You are given an array `a` of `n` distinct positive integers and an integer `k`.
+
+Select a subset of the array such that if an element x is selected, then neither x·k nor x/k (if it is an integer) can also be selected. In other words, no two selected elements can have a relationship y = x·k.
+
+**Objective:** Find the maximum possible number of elements that can be selected.
+
+Function signature:
+
+```cpp
+int maxSubsetSize(vector<int>& a, int k);
+```
+
+Constraints:
+
+- 1 ≤ n ≤ 10^5
+- 1 ≤ a[i] ≤ 10^9
+- 1 ≤ k ≤ 10^9
+- All array elements are distinct.
+
+Example 1:
+
+```text
+n = 5, k = 2
+a = [1, 2, 4, 8, 16]
+Output: 3
+```
+One optimal subset: {1, 4, 16}.
+
+Example 2:
+
+```text
+n = 7, k = 2
+a = [1, 2, 3, 4, 6, 8, 12]
+Output: 4
+```
+One optimal subset: {1, 3, 4, 12}.
+
+Example 3:
+
+```text
+n = 4, k = 3
+a = [2, 6, 18, 54]
+Output: 2
+```
+One optimal subset: {2, 18}.
+
+<sub>Topics: Greedy, Hashing, Sorting · Same idea: [LeetCode 2170. Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) (Medium), chains by factor k, pick non-adjacent greedily · Source: [chat, 3 Nov](../archive/point72-oa/2026-11.jsonl#L20), [chat, 3 Nov](../archive/point72-oa/2026-11.jsonl#L23), [chat, 3 Nov](../archive/point72-oa/2026-11.jsonl#L24)</sub>
+
 ## 2026-11-02 · IIT Madras · FTE
 
 ### Q1. Max profit from investing with daily capital
@@ -42,7 +96,7 @@ There is an array of capital costs and an array of PnLs for successive days. You
 
 The poster said it is similar to LeetCode IPO. Exact constraints and the daily amount were not given.
 
-<sub>Topics: Greedy, Heaps · Close variant: [LeetCode 502. IPO](https://leetcode.com/problems/ipo/) (Hard), greedy with capital constraint and max-heap of profits · Source: [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L9), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L10), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L11), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L12), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L15), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L16)</sub>
+<sub>Topics: Greedy, Heaps · Close variant: [LeetCode 502. IPO](https://leetcode.com/problems/ipo/) (Hard), greedy with capital constraint and max-heap of profits · Source: [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L9), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L10), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L11), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L12), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L15), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L16) · Also asked at: IIT Madras (2026-11-03)</sub>
 
 ### Q2. Simple greedy question
 
@@ -62,4 +116,4 @@ The poster said the questions were a bit jumbled, so different people got differ
 
 2 coding questions + 10 MCQs on SQL and puzzles.
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L9), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L10), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L11), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L12), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L15), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L16) · Also asked at: BITS Pilani (2026-11-02), IIT BHU (2026-11-02)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L9), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L10), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L11), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L12), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L15), [chat, 2 Nov](../archive/point72-oa/2026-11.jsonl#L16) · Also asked at: BITS Pilani (2026-11-02), IIT BHU ×2 (last 2026-11-03), IIT Madras (2026-11-03)</sub>

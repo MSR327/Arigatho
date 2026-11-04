@@ -1,6 +1,6 @@
 # IBM
 
-**24 questions** · 15 drives · latest 2 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**24 questions** · 15 drives · latest 3 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 8 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
 **Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +2 more
@@ -148,7 +148,7 @@ Tell me about a time when you had to quickly reorganize your plans or priorities
 
 AI-based recorded interview: you get 1 minute to prepare for each question and then must speak for the next 3 minutes.
 
-<sub>Topics: HR & Behavioral, OA Format · Source: [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L39)</sub>
+<sub>Topics: HR & Behavioral, OA Format · Source: [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L39) · Also asked at: IIT Guwahati (2026-11-03)</sub>
 
 ## 2026-10-27 · IIT Kanpur · FTE · Hardware
 
@@ -192,7 +192,7 @@ Given an entire codebase, API documentation, architecture and a task description
 
 2 questions on HackerRank: one easy (LeetCode-easy level) DSA question and one codebase-understanding and feature/bug-fix implementation question for web development. Same common test for both software engineer and software developer roles. Everything had to be done manually, with no AI assistance.
 
-<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: IIT Bombay (2026-10-31), IIT Guwahati ×4 (last 2026-11-01), IIT Roorkee (2026-11-01), Unknown (2026-11-01)</sub>
+<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: IIT Bombay (2026-10-31), IIT Roorkee (2026-11-01), Unknown (2026-11-01), IIT Guwahati ×5 (last 2026-11-03)</sub>
 
 ## 2026-10-24 · IIT Kanpur · FTE · Software Engineer (SWE)
 

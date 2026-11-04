@@ -1,9 +1,14 @@
 # DP
 
-115 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+120 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Count ways to choose k pairs with distinct a, b and no equal diagonal differences](../companies/thoughtspot.md#q1-count-ways-to-choose-k-pairs-with-distinct-a-b-and-no-equal-diagonal-differences) | ≈ [LC 52](https://leetcode.com/problems/n-queens-ii/) Hard |
+| 2026-11-03 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Roorkee | [Minimum operations to make x equal to y](../companies/thoughtspot.md#q3-minimum-operations-to-make-x-equal-to-y) | ≈ [LC 991](https://leetcode.com/problems/broken-calculator/) Medium |
+| 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [The Great Chai Stall Crawl](../companies/commotion.md#q4-the-great-chai-stall-crawl) | [CSES 1690](https://cses.fi/problemset/task/1690) |
+| 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Network Reliability Investigation](../companies/commotion.md#q3-network-reliability-investigation) | [LC 1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) Medium |
+| 2026-11-03 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Count paths with even total weight in directed weighted graph](../companies/capital-one.md#q1-count-paths-with-even-total-weight-in-directed-weighted-graph) | ≈ [LC 797](https://leetcode.com/problems/all-paths-from-source-to-target/) Medium |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Bitmask DP problem](../companies/unknown.md#q4-bitmask-dp-problem) | |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Number of ways to arrive at destination](../companies/unknown.md#q3-number-of-ways-to-arrive-at-destination) | [LC 1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) Medium |
 | 2026-11-02 | [Point72](../companies/point72.md) | IIT Madras | [Codeforces 1096D (reported by a friend, different set)](../companies/point72.md#q3-codeforces-1096d-reported-by-a-friend-different-set) | [CF 1096D](https://codeforces.com/problemset/problem/1096/D) rated 1800 |
