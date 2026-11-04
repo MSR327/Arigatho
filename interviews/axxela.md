@@ -1,6 +1,74 @@
 # Axxela: interviews
 
-**2 written experiences**, newest first · [OA questions](../companies/axxela.md) · [← all companies](README.md)
+**3 written experiences**, newest first · [OA questions](../companies/axxela.md) · [← all companies](README.md)
+
+## 2025-26 season · Trainee Analyst · IIT Kanpur · on-campus
+
+Resume shortlisting, aptitude and mental maths test, analytical reasoning assessment, group activity or trading game, then technical and HR interviews.
+
+### Resume shortlisting
+
+No specific questions reported.
+
+### Aptitude and mental mathematics test
+
+Speed and accuracy emphasised.
+
+**At least one six in four throws**
+
+Estimate the probability of getting at least one six in four dice throws.
+
+<sub>Topics: Math</sub>
+
+**Stock up 20 percent then down 20 percent**
+
+A stock rises 20% then falls 20%; what is the net change?
+
+<sub>Topics: Aptitude</sub>
+
+**Mental maths and percentages**
+
+Mental mathematics and percentage calculations. Exact questions not given.
+
+<sub>Topics: Aptitude</sub>
+
+### Analytical reasoning assessment
+
+**Logical reasoning and patterns**
+
+Logical reasoning and pattern-recognition questions. Exact questions not given.
+
+<sub>Topics: Aptitude</sub>
+
+### Group activity / trading game
+
+Tests decision-making under pressure.
+
+No specific questions reported.
+
+### Technical and HR interviews
+
+**Interest in financial markets**
+
+Why are you interested in financial markets and trading?
+
+<sub>Topics: HR & Behavioral, Finance</sub>
+
+**Current affairs and markets**
+
+Questions on current affairs and market-related events.
+
+<sub>Topics: Finance</sub>
+
+**Projects and responsibilities**
+
+Discussion of projects, internships and positions of responsibility.
+
+<sub>Topics: HR & Behavioral</sub>
+
+**Tips:** Practise aptitude, probability, puzzles and mental maths regularly. · Do not bluff about projects; research the company before each test. · Follow financial news and basic markets concepts.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1dmaY5TO64kus-qPUL2cQ1Fu7KL-4k8XC/view)
 
 ## 23 Nov 2025 · Derivatives Trading Analyst · IIT Kharagpur · on-campus
 

@@ -1,6 +1,64 @@
 # Navi: interviews
 
-**1 written experience**, newest first · [OA questions](../companies/navi.md) · [← all companies](README.md)
+**3 written experiences**, newest first · [OA questions](../companies/navi.md) · [← all companies](README.md)
+
+## 2025-26 season · Product · IIT Kanpur · on-campus
+
+CPI cutoff, an aptitude test, then an interview.
+
+### Aptitude test
+
+No specific questions reported.
+
+### Interview
+
+No specific questions reported.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1q_N5HIfReMYwt-uC1hJitu76r_cyWZ97/view#navi)
+
+## 2025-26 season · Business Analyst I · IIT Kanpur · on-campus
+
+Aptitude test and resume shortlisting, then three rounds: resume plus table-based questions with SQL, a short RCA interview, and an HR interview.
+
+### Aptitude test and resume shortlisting
+
+No specific questions reported.
+
+### Round 1
+
+Resume questions, questions on a sheet of tabular data, and a pen-and-paper SQL query of easy to medium level on the given tables.
+
+**SQL query on given tables**
+
+Write an easy-to-medium SQL query using the tables provided, on pen and paper. Exact question not given.
+
+<sub>Topics: SQL</sub>
+
+**Random forest and OBE**
+
+Explain random forest and what OBE (out-of-bag error) is in a random forest.
+
+<sub>Topics: ML/AI</sub>
+
+### Round 2
+
+Short interview with an RCA question.
+
+**RCA: 10% drop in cab bookings**
+
+You work for an online cab service and notice bookings dropped by 10%. What could be the possible reasons?
+
+<sub>Topics: Guesstimates & Cases</sub>
+
+### Round 3
+
+HR interview.
+
+No specific questions reported.
+
+**Tips:** For BA roles interviewers focus on the resume rather than deep technical questions; a finance background helped. · Communicate clearly and confidently.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1Y0A24hWYZvk_M_B9yAWn0BLtHq9PJZfE/view)
 
 ## 29 Nov 2024 · Data Scientist · IIT Kharagpur · on-campus
 

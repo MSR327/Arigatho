@@ -1,6 +1,6 @@
 # Qualcomm: interviews
 
-**5 written experiences**, newest first · [OA questions](../companies/qualcomm.md) · [← all companies](README.md)
+**7 written experiences**, newest first · [OA questions](../companies/qualcomm.md) · [← all companies](README.md)
 
 ## 5 Oct 2026 · Associate Software Engineer (Campus Hire) · on-campus
 
@@ -81,6 +81,82 @@ Motivation and behavioral questions. Exact questions not given.
 <sub>Topics: HR & Behavioral</sub>
 
 Source: [takeUforward community](https://takeuforward.org/community/interview-experiences/qualcomm-interview-experience-associate-software-engineer-campus-hire)
+
+## 2025-26 season · Associate Hardware Engineer · IIT Kanpur · on-campus
+
+Resume shortlisting, an online test, then three interviews: internship and projects, technical and aptitude, and HR.
+
+### Online test
+
+Aptitude, basic coding and technical knowledge.
+
+No specific questions reported.
+
+### Round 1: internship and projects
+
+45 minutes; the most important round.
+
+**Internship on VLSI flow**
+
+Discussion of internship work on synthesis and place-and-route, and knowledge of EDA tools such as Genus and Innovus.
+
+<sub>Topics: Digital Electronics</sub>
+
+### Round 2: technical and aptitude
+
+30 minutes; digital electronics and logical reasoning.
+
+**CMOS logic design and sizing**
+
+Design and size a CMOS gate for the function ~(A.B + C.D.E).
+
+<sub>Topics: Digital Electronics</sub>
+
+**Sequence detector**
+
+Design a sequence detector using Mealy and Moore machines.
+
+<sub>Topics: Digital Electronics</sub>
+
+**STA setup and hold slack**
+
+Static timing analysis: setup and hold slacks.
+
+<sub>Topics: Digital Electronics</sub>
+
+**FIFO buffer length**
+
+Determine the FIFO buffer length. Exact parameters not given.
+
+<sub>Topics: Digital Electronics</sub>
+
+### Round 3: HR
+
+20 minutes; HR questions, puzzles and analytical thinking.
+
+No specific questions reported.
+
+**Tips:** Digital electronics, VHDL and C are key; practise a past-year question bank. · Solve previous year papers and get hands-on with EDA tools. · Explain your thought process; the approach matters more than the answer.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1js3hTmFnyYGQApIpwvJWdMTr04epEomj/view)
+
+## 2025-26 season · RFIC · IIT Kanpur · on-campus
+
+Online assessment then interviews; heavy CPI bias, then interview quality.
+
+### Online assessment
+
+No specific questions reported.
+
+### Interview
+
+**Circuit, DAC and RF basics**
+
+RC circuit basics, circuit analysis with transistors and amplifiers, DAC fundamentals and RF basics. Exact questions not given.
+
+<sub>Topics: Circuits, Analog Electronics, Communication</sub>
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/10PUf7bMtOtv384HoYXq1Y10_lX-UClzX/view#qualcomm)
 
 ## 31 Oct 2025 · Associate Engineer, Hardware · IIT Kharagpur · on-campus
 

@@ -1,6 +1,82 @@
 # Samsara: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**3 written experiences**, newest first · [← all companies](README.md)
+
+## 2025-26 season · SDE · IIT Kanpur · on-campus
+
+A walk-in heavy shortlist, then two interview rounds that were deep on system design and databases.
+
+### Interview 1
+
+Online with a live coding link; the only interview where code was actually run.
+
+**Terminal input command parsing**
+
+Design terminal input parsing logic: how to simplify and store input commands, some with special characters, while asking about formats; more command types were added during the interview.
+
+<sub>Topics: Software Engineering, Strings</sub>
+
+### Interview 2
+
+Very deep, theoretical answers not enough.
+
+**Store user purchase data for efficient queries**
+
+Users with purchase details and frequencies: organise data to list users per item and items per user in O(N) time and space, with changing requirements such as top 50 users by frequency.
+
+<sub>Topics: Software Engineering, Hashing</sub>
+
+**Building and publishing a database**
+
+Whether you have built an SQL database, platforms such as GCP and Oracle, and how to publish it.
+
+<sub>Topics: OS/DBMS/CN MCQ</sub>
+
+**App to access the database**
+
+How to develop an application that accesses the data: load balancers, where to place them, the transport layer and HTTPS.
+
+<sub>Topics: Software Engineering, OS/DBMS/CN MCQ</sub>
+
+**TCP vs UDP**
+
+TCP versus UDP, where each is used and advantages.
+
+<sub>Topics: OS/DBMS/CN MCQ</sub>
+
+**Tips:** They favour hands-on experience with HLD/LLD, backend and databases, not DSA.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1kg_qCgMh1Xu-uPTmXQqZv6sRF60hSg4q/view#samsara)
+
+## 2025-26 season · Software Engineer · IIT Kanpur · on-campus
+
+DSA test, then a DSA round, a system design round and an HR round.
+
+### DSA test
+
+LeetCode medium/hard level.
+
+No specific questions reported.
+
+### Round 1
+
+DSA, easy level.
+
+No specific questions reported.
+
+### Round 2
+
+System design.
+
+No specific questions reported.
+
+### Round 3
+
+No specific questions reported.
+
+**Tips:** Do DSA well and read about system design, which is being asked recently. · Do not skip tests even if you expect to do badly.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1g38JGc1sNYl1LO2tXCU3fcihYY3jr-Ca/view)
 
 ## 17 Nov 2025 · Software Engineer (SWE 1), London office · IIT Kharagpur · on-campus
 

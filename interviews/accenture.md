@@ -1,6 +1,6 @@
 # Accenture: interviews
 
-**4 written experiences**, newest first · [OA questions](../companies/accenture.md) · [← all companies](README.md)
+**8 written experiences**, newest first · [OA questions](../companies/accenture.md) · [← all companies](README.md)
 
 ## 29 Sep 2026 · Associate Software Engineer · on-campus
 
@@ -49,6 +49,126 @@ Programming fundamentals, OOP, DBMS and SQL, resume projects and general HR. Exa
 <sub>Topics: OOP, SQL, HR & Behavioral</sub>
 
 Source: [takeUforward community](https://takeuforward.org/community/interview-experiences/accenture-on-campus-interview-experience)
+
+## 2025-26 season · Data & AI · IIT Kanpur · on-campus
+
+A resume-based interview with basic DSA.
+
+### Interview
+
+Purely resume-based; good communication is essential.
+
+**Basic DSA**
+
+Basic DSA, with sorting algorithms expected. Exact questions not given.
+
+<sub>Topics: Sorting</sub>
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1yfjovA4afUUZjd1USNhAZSlilLW6lesS/view#accenture)
+
+## 2025-26 season · Ind and Func AI Decision Science Associate · IIT Kanpur · on-campus
+
+Online assessment, a projects-and-internship interview, then a problem-solving interview (data science and ML roles).
+
+### Online assessment
+
+MCQs on ML, probability and reasoning, plus two DSA questions.
+
+No specific questions reported.
+
+### Interview 1
+
+Focused on resume projects and internship details.
+
+**Projects and ML**
+
+Data science and ML questions around resume projects, including how Transformers work (asked very often across companies).
+
+<sub>Topics: ML/AI, HR & Behavioral</sub>
+
+### Interview 2
+
+Problem solving.
+
+**Rotten oranges**
+
+Standard graph problem, rotting oranges.
+
+<sub>Topics: Graphs · Similar: [LeetCode 994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) (Medium)</sub>
+
+**Check shortest path tree**
+
+Given a graph, check whether it is a shortest path tree.
+
+<sub>Topics: Graphs</sub>
+
+**Insertion sort on paper**
+
+Write insertion sort on paper without syntax mistakes.
+
+<sub>Topics: Sorting</sub>
+
+**SQL on paper**
+
+Write correct SQL queries on paper for given questions. Exact questions not given.
+
+<sub>Topics: SQL</sub>
+
+**Tips:** Take the OA very seriously; correct count and submission time decide shortlisting. · Know everything on your resume by heart. · Practise LeetCode SQL 50, Striver sheet, and Transformer internals.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1dMb6cJXt-eYNzHiUb6XRaUbaNKVpTZ7v/view)
+
+## 2025-26 season · Digital Consultant · IIT Kanpur · on-campus
+
+Online assessment, technical interview, manager interview.
+
+### Online assessment
+
+Two easy to medium DSA questions and MCQs.
+
+No specific questions reported.
+
+### Technical interview
+
+**Projects and internship depth**
+
+In-depth questions on each project and internship work, plus one scenario-based question.
+
+<sub>Topics: HR & Behavioral</sub>
+
+### Manager interview
+
+**Adapting to Japanese culture**
+
+Willingness to adapt to Japanese culture, why Accenture Japan, why Japan and what you like about Japanese culture.
+
+<sub>Topics: HR & Behavioral</sub>
+
+**Internship challenges**
+
+What challenges you faced during the internship and how you overcame them.
+
+<sub>Topics: HR & Behavioral</sub>
+
+**Tips:** Practise basic DSA for the OA; be honest about projects and experience.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1EoQroRBBYUQItGevqJY0YlWtYFUONnwh/view)
+
+## 2025-26 season · Data and AI · IIT Kanpur · on-campus
+
+A heavily resume-based interview that went deep into internship work, with some basic SQL.
+
+### Interview 1
+
+Resume-based, deep into internship experience.
+
+**Internship work and basic SQL**
+
+Detailed questions on internship work plus some basic SQL questions. Exact questions not given.
+
+<sub>Topics: SQL, HR & Behavioral</sub>
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/13KLhiGpsohfZ5CBxY5QaK4dcUFOEEC86/view#accenture)
 
 ## 14 Jan 2026 · Advanced Application Engineering Analyst · on-campus
 

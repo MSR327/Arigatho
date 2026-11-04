@@ -1,6 +1,54 @@
 # Genpact: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**2 written experiences**, newest first · [← all companies](README.md)
+
+## 2025-26 season · Management Trainee / Business Analyst · IIT Kanpur · on-campus
+
+An online assessment, then a one-hour technical interview, with an additional combined technical and HR round for some candidates.
+
+### Online assessment
+
+20 MCQs on SQL, coding and ML plus two medium DSA problems.
+
+No specific questions reported.
+
+### Technical interview
+
+About one hour on ML, SQL, DSA and resume projects.
+
+**ML theory questions**
+
+Several theoretical machine learning questions. Exact questions not given.
+
+<sub>Topics: ML/AI</sub>
+
+**SQL: employee with maximum salary, with and without JOIN**
+
+Join two tables to get the employee with maximum salary, then solve it without a JOIN.
+
+<sub>Topics: SQL</sub>
+
+**DSA: maximum subarray sum and a minimum string problem**
+
+Two to three medium DSA problems similar to Maximum Subarray Sum and a minimum-string problem.
+
+<sub>Topics: Arrays, Strings</sub>
+
+**Pandas, matplotlib and Python**
+
+Some questions on Pandas, matplotlib and Python.
+
+<sub>Topics: Python & Pandas</sub>
+
+### Round 2 (some candidates)
+
+Combined technical and HR; others were selected after round 1.
+
+No specific questions reported.
+
+**Tips:** Practise DSA regularly even for analyst roles. · Be able to defend every resume point. · Work on communication.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1pRhC_JSWiG-jGZPxSkGlSLKfp_h92krX/view)
 
 ## 23 Oct 2025 · Business Analyst · IIT Kharagpur · on-campus
 

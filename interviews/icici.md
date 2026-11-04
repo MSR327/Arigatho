@@ -1,6 +1,36 @@
 # ICICI: interviews
 
-**1 written experience**, newest first · [OA questions](../companies/icici.md) · [← all companies](README.md)
+**2 written experiences**, newest first · [OA questions](../companies/icici.md) · [← all companies](README.md)
+
+## 2025-26 season · Manager -1 · IIT Kanpur · on-campus
+
+An online assessment of about 60 MCQs in one hour, then a single resume-driven interview.
+
+### Online assessment
+
+About 60 MCQs in 1 hour covering OOP, programming languages, ML, SQL, reasoning and aptitude.
+
+No specific questions reported.
+
+### Interview
+
+Single round of 40 to 50 minutes, heavily resume-driven.
+
+**Resume, projects and internship**
+
+Detailed questions on projects, internships and technical concepts listed on the resume; much of it was about a backend internship.
+
+<sub>Topics: HR & Behavioral</sub>
+
+**HR and bank basics**
+
+A few HR questions and basic questions on ICICI Bank, its services and the banking industry.
+
+<sub>Topics: HR & Behavioral</sub>
+
+**Tips:** Clear the online assessment first; there is no extended shortlist or walk-in. · Know every project, internship and skill on the resume. · Prepared ML, SQL and DSA broadly using Striver, a university ML course and SQL practice.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1H0xC23tdGACns8uWxX1SYfVw6k4TlYUw/view)
 
 ## 28 Sep 2025 · Manager-1 (Data Science & Analytics) · IIT Kharagpur · on-campus
 

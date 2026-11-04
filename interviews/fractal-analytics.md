@@ -1,6 +1,6 @@
 # Fractal Analytics: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**2 written experiences**, newest first · [← all companies](README.md)
 
 ## 5 Aug 2026 · Imagineer · VIT Chennai · on-campus
 
@@ -67,3 +67,55 @@ Why Fractal; hackathon experience; extracurriculars; a challenging situation; te
 **Tips:** Master SQL: GROUP BY, HAVING, joins, aggregates. · Build your own projects rather than copying. · Practice guesstimates and state assumptions.
 
 Source: [GeeksforGeeks](https://www.geeksforgeeks.org/interview-experiences/fractal-analytics-imagineer-interview-experience-on-campus-vit-chennai-2026)
+
+## 2025-26 season · AI Engineer · IIT Kanpur · on-campus
+
+An online assessment, then three interviews: puzzles and coding, AI and LLM knowledge, and HR.
+
+### Online assessment
+
+MCQs on ML concepts and two coding questions.
+
+No specific questions reported.
+
+### Round 1: puzzles and coding
+
+Puzzles with follow-ups, then two LeetCode medium/hard coding questions with variations.
+
+**Eight-ball problem and variants**
+
+The odd-ball weighing puzzle, with the number of balls changed to 12, 16 and so on.
+
+<sub>Topics: Puzzles</sub>
+
+**Mislabelled boxes**
+
+A puzzle about boxes with wrong labels.
+
+<sub>Topics: Puzzles</sub>
+
+**Stacking cuboids for maximum height**
+
+A coding problem using the same method as the maximum-height cuboid stacking problem, not exactly that one.
+
+<sub>Topics: DP, Sorting</sub>
+
+### Round 2: AI and LLMs
+
+Case studies plus transformer maths.
+
+**Explain transformers**
+
+Explain transformers, including the query-key-value mechanism and the maths behind them.
+
+<sub>Topics: ML/AI</sub>
+
+### Round 3: HR
+
+General HR and growth questions, ending with company information.
+
+No specific questions reported.
+
+**Tips:** Practise LeetCode medium/hard and puzzles; learn AI/ML from lectures. · Start early since tests begin around September or October. · Stay confident and avoid burnout.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/15L_bbtdGZtIsSGBgAz4W3wZ2FyNlnm7s/view)

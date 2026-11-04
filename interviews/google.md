@@ -1,6 +1,40 @@
 # Google: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**2 written experiences**, newest first · [← all companies](README.md)
+
+## 2025-26 season · Software Engineer, University Graduate, 2026 · IIT Kanpur · on-campus
+
+An online assessment, then three interview rounds (one online of 45 minutes, two offline of about an hour), all DSA coding with a short googlyness segment in rounds 2 and 3.
+
+### Online assessment
+
+No specific questions reported.
+
+### Interview 1 (online)
+
+45 minutes of coding; LeetCode medium to hard.
+
+**Mixed DSA coding problems**
+
+Coding questions drawn from DP, binary search, trees and graph algorithms and recursion. Exact questions not given.
+
+<sub>Topics: DP, Binary Search, Trees</sub>
+
+### Interview 2 (offline)
+
+About 1 hour; 45 minutes of coding plus 15 minutes of googlyness (fit for the company); written in a docs-like editor with no compiling.
+
+No specific questions reported.
+
+### Interview 3 (offline)
+
+About 1 hour; same format as round 2.
+
+No specific questions reported.
+
+**Tips:** Think aloud and share your approach even if you cannot fully solve a problem. · Be confident in code since the editor gives no errors. · Practise on LeetCode, CSES and Codeforces.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1hJYGGN2RlusDaX9d9eyEVwCqSHVZVW-t/view)
 
 ## 14 Sep 2025 · Software Development Engineer · IIT Kharagpur · on-campus
 

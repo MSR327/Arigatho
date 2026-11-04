@@ -1,6 +1,22 @@
 # Axis Bank: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**2 written experiences**, newest first · [← all companies](README.md)
+
+## 2025-26 season · IIT Kanpur · on-campus
+
+An aptitude test and resume screening, then one combined technical and HR interview.
+
+### Aptitude test
+
+No specific questions reported.
+
+### Interview
+
+Technical plus HR, mainly resume-based.
+
+No specific questions reported.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1UzQEyLjzX2s1rNH0UYoXtwRN9wHiNmbj/view#axis-bank)
 
 ## 14 Oct 2025 · Manager, Business Intelligence Unit · IIT Kharagpur · on-campus
 

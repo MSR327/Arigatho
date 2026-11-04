@@ -1,10 +1,10 @@
 # OA Questions Tracker
 
-**1800 questions from 112 companies** · shared by students of 45 colleges · updated 4 Nov 2026, 02:31
+**1800 questions from 112 companies** · shared by students of 45 colleges · updated 4 Nov 2026, 05:58
 
 **Website: [msr327.github.io/Arigatho](https://msr327.github.io/Arigatho/)**, to search every company and question at once.
 
-**Interviews: [113 written experiences from 84 companies](interviews/README.md)**, on what companies ask after the online test.
+**Interviews: [261 written experiences from 156 companies](interviews/README.md)**, on what companies ask after the online test.
 
 **Find a company** in the list below, or press Ctrl+F (⌘F on a Mac) and type its name. Its page has every question asked there, newest first.
 

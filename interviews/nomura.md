@@ -1,6 +1,76 @@
 # Nomura: interviews
 
-**3 written experiences**, newest first · [← all companies](README.md)
+**5 written experiences**, newest first · [← all companies](README.md)
+
+## 2025-26 season · IIT Kanpur · on-campus
+
+Resume shortlisting, a buddy round, then a group discussion and puzzle round (author attended only the GD and puzzle round).
+
+### Resume shortlisting and buddy round
+
+No specific questions reported.
+
+### GD and puzzle round
+
+A sheet with 2 puzzles and 2 DSA questions; the interviewer discussed the approach while solving and asked resume questions.
+
+**Stack of 10 coins puzzle**
+
+A GFG-style puzzle about a stack of 10 coins. Exact wording not given.
+
+<sub>Topics: Puzzles</sub>
+
+**Bond duration and convexity**
+
+What are bond duration and convexity?
+
+<sub>Topics: Finance</sub>
+
+**Monetary transmission via the bank lending channel**
+
+How does the bank lending channel help the RBI manage market liquidity to influence inflation (the monetary transmission channel)?
+
+<sub>Topics: Finance</sub>
+
+**Tips:** Read the newspaper regularly, Zerodha Varsity for basics, CFA L1 notes.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1Y0A24hWYZvk_M_B9yAWn0BLtHq9PJZfE/view#nomura)
+
+## 2025-26 season · Quant Analyst · IIT Kanpur · on-campus
+
+Multiple rounds including buddy rounds, a group discussion, a written round, and two interviews.
+
+### Buddy rounds
+
+Puzzle-heavy, similar to Brainstellar medium and hard.
+
+No specific questions reported.
+
+### Group discussion
+
+Current affairs, especially finance news, helps.
+
+No specific questions reported.
+
+### Written round
+
+Logical puzzles and basic pseudocode questions.
+
+No specific questions reported.
+
+### Interviews
+
+Two rounds on puzzles, resume discussion and finance basics.
+
+**Basic finance concepts**
+
+Basic finance questions. Exact questions not given.
+
+<sub>Topics: Finance</sub>
+
+**Tips:** Practise medium and hard Brainstellar puzzles. · Brush up fundamental finance and any finance projects on the resume.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1RqUdqgpjEh52FvrN87xWQJU4zQc9pUgR/view#nomura)
 
 ## 23 Sep 2025 · Quant Analyst, Model Validation Group · IIT Kharagpur · on-campus
 

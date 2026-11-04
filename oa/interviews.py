@@ -30,7 +30,7 @@ USER_AGENT = "Arigatho/1.0 (+https://github.com/MSR327/Arigatho)"
 KINDS = {"oa", "technical", "hr", "case", "gd", "puzzle", "managerial", "other"}
 TIERS = {"student-body", "first-person", "anonymous"}
 MODES = {"on-campus", "off-campus", "unknown"}
-COMPANY_SUFFIX = re.compile(r"[\s,]+(pvt\.?\s*)?(ltd\.?|limited|inc\.?|llp)\s*$", re.I)
+COMPANY_SUFFIX = re.compile(r"[\s,]+((pvt\.?|private)\s*)?(ltd\.?|limited|inc\.?|llp)\s*$", re.I)
 # Same company, the name its OA page uses (keys are lowercase), so its two views link up
 OA_NAMES = {
     "navi technologies": "Navi", "axxela research & analytics": "Axxela", "axtria ingenious insights": "Axtria",
@@ -38,7 +38,16 @@ OA_NAMES = {
     "squarepoint capital": "Squarepoint", "zs associates": "ZS", "zomato (eternal)": "Eternal (Zomato)",
     "auctus advisors (ycp auctus)": "Auctus Advisors", "ultimate kronos group (ukg)": "UKG", "cbs (japan)": "CBS",
     "hindustan petroleum corporation": "HPCL", "micron technology": "Micron", "ey india": "EY", "slb tech": "SLB",
-    "saint-gobain research india": "Saint-Gobain",
+    "saint-gobain research india": "Saint-Gobain", "google india": "Google", "microsoft india": "Microsoft",
+    "natwest group": "NatWest", "citi bank, bangalore": "Citi", "citi bank": "Citi", "ril": "Reliance",
+    "reliance industries": "Reliance", "reliance new energy": "Reliance", "reliance retail": "Reliance",
+    "accenture japan": "Accenture", "accenture solutions pvt ltd - data ai": "Accenture",
+    "accenture solutions": "Accenture", "c3i": "C3iHub", "auronova": "Auronova Consulting",
+    "future first": "Futures First", "jpmc": "JPMorgan Chase", "graviton research capital": "Graviton",
+    "bajaj auto limited & chetak technology": "Bajaj Auto", "wex fintech": "WEX", "oyo rooms": "OYO",
+    "centre for development of advanced computing": "C-DAC", "pricewaterhousecoopers (us-adv)": "PwC",
+    "icici lombard gic": "ICICI Lombard", "netradyne technology india": "Netradyne",
+    "shimizu corporation india": "Shimizu", "ideaforge technology": "ideaForge",
 }
 PERSONAL = re.compile(r"[\w.+-]+@[\w-]+\.\w+|\b(?:\+?91[ -]?)?[6-9]\d{9}\b|linkedin\.com/|\bcgpa\s*(?:of|:|=)?\s*\d",
                       re.I)
@@ -149,6 +158,7 @@ def clean(row, known=(), problems=None):
         "source": _strip(row["source"]),
         "tier": row["tier"],
         "published": str(row["published"]),
+        "season": _strip(row.get("season")),  # shown instead of the date when a source gives only a season
         "company": company_name(row["company"], known),
         "position": _strip(row.get("position")),
         "campus": _strip(row.get("campus")),

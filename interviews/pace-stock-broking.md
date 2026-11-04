@@ -1,6 +1,44 @@
 # Pace Stock Broking: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**2 written experiences**, newest first · [← all companies](README.md)
+
+## 2025-26 season · SDE · IIT Kanpur · on-campus
+
+Two pre-Day-1 interview rounds.
+
+### Round 1
+
+Spoken DSA problems then OOP.
+
+**Two spoken DSA questions**
+
+Two DSA questions given orally; only the solution idea was needed (20 minutes). Exact problems not given.
+
+<sub>Topics: Arrays</sub>
+
+**Deep OOP questions**
+
+Multilevel inheritance, shared pointers and similar C++ OOP topics (40 minutes).
+
+<sub>Topics: OOP</sub>
+
+### Round 2
+
+Based on networking courses and an internship on the resume, then OS.
+
+**Core networking**
+
+OSI layers, whole packet tracing, DNS rerouting, IP addresses, tracing packet failure and recovery (40 minutes).
+
+<sub>Topics: OS/DBMS/CN MCQ</sub>
+
+**Core OS**
+
+IPC, piping, user and kernel space, process versus thread resources, process running and stopping, interrupt handling, scheduler, cache management (20 minutes).
+
+<sub>Topics: OS/DBMS/CN MCQ</sub>
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1XJ-LgzUrdZ_ctB0M8BdiZfpkfpEsMNSJ/view#pace-stock-broking)
 
 ## 3 Oct 2025 · Software Engineer · IIT Kharagpur · on-campus
 

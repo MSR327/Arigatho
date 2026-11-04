@@ -1,6 +1,42 @@
 # American Express: interviews
 
-**3 written experiences**, newest first · [OA questions](../companies/american-express.md) · [← all companies](README.md)
+**4 written experiences**, newest first · [OA questions](../companies/american-express.md) · [← all companies](README.md)
+
+## 2025-26 season · IIT Kanpur · on-campus
+
+Online assessment, an interview on projects and internship, then a problem-solving interview (data science and ML roles).
+
+### Online assessment
+
+MCQs on ML, probability and reasoning, plus two DSA questions.
+
+No specific questions reported.
+
+### Interview 1
+
+Focused on resume projects and internship details.
+
+No specific questions reported.
+
+### Interview 2
+
+Problem solving.
+
+**SQL on paper**
+
+Write a correct SQL query on paper for a given question. Exact question not given.
+
+<sub>Topics: SQL</sub>
+
+**Transformer implementation**
+
+Questions on implementing Transformers.
+
+<sub>Topics: ML/AI</sub>
+
+**Tips:** Take the OA very seriously; correct count and submission time decide shortlisting. · Know everything on your resume by heart. · Practise LeetCode SQL 50, Striver sheet, and Transformer internals.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1dMb6cJXt-eYNzHiUb6XRaUbaNKVpTZ7v/view#american-express)
 
 ## 14 Nov 2025 · Management Trainee (Credit and Fraud Risk) · IIT Kharagpur · on-campus
 

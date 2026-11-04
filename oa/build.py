@@ -305,10 +305,16 @@ def _site_interviews(exps):
 
     return {"count": len(exps), "experiences": [
         {"id": x["id"], "c": x["company"], "pos": x["position"], "campus": x["campus"], "mode": x["mode"],
-         "src": x["source"], "tier": x["tier"], "url": x["url"], "d": x["published"], "proc": x["process"],
+         "src": x["source"], "tier": x["tier"], "url": x["url"], "d": x["published"], "season": x.get("season") or "",
+         "proc": x["process"],
          "rounds": [{"n": r["name"], "k": r["kind"], "dt": r["detail"],
                      "qs": [question(q) for q in r["questions"]]} for r in x["rounds"]],
          "prep": x["prep"]} for x in exps]}
+
+
+def _when(x):
+    """A source that gives only a season shows the season: its published date is just for ordering."""
+    return f"{x['season']} season" if x.get("season") else _day(x["published"])
 
 
 def _interview_page(company, exps, has_oa_page):
@@ -318,7 +324,7 @@ def _interview_page(company, exps, has_oa_page):
           f"**{_plural(len(exps), 'written experience')}**, newest first · " + " · ".join(links), ""]
     for x in exps:
         mode = "" if x["mode"] == "unknown" else x["mode"]
-        md += ["## " + " · ".join(v for v in (_day(x["published"]), x["position"], x["campus"], mode) if v), ""]
+        md += ["## " + " · ".join(v for v in (_when(x), x["position"], x["campus"], mode) if v), ""]
         if x["process"]:
             md += [x["process"], ""]
         for r in x["rounds"]:
@@ -357,7 +363,7 @@ def _interview_pages(out, exps, oa_companies):
              "| Company | Written experiences | Latest |", "|---|---|---|"]
     for company in sorted(by_company, key=str.casefold):
         xs = by_company[company]
-        index.append(f"| [{label(company)}]({slug(company)}.md) | {len(xs)} | {_day(xs[0]['published'])} |")
+        index.append(f"| [{label(company)}]({slug(company)}.md) | {len(xs)} | {_when(xs[0])} |")
     (out / "interviews" / "README.md").write_text("\n".join(index) + "\n")
 
 

@@ -1,6 +1,102 @@
 # Squarepoint: interviews
 
-**2 written experiences**, newest first · [OA questions](../companies/squarepoint.md) · [← all companies](README.md)
+**4 written experiences**, newest first · [OA questions](../companies/squarepoint.md) · [← all companies](README.md)
+
+## 2025-26 season · Infrastructure Engineer · IIT Kanpur · on-campus
+
+Three pre-Day-1 interview rounds (one hour, one hour, half an hour).
+
+### Round 1
+
+One hour; interests, resume, CS core, one coding question in Python where efficiency mattered.
+
+**OS and networks basics**
+
+Basic CS core questions on OS and networks.
+
+<sub>Topics: OS/DBMS/CN MCQ</sub>
+
+**Python DSA question**
+
+One DSA question to be coded in Python, with attention to efficiency. Exact problem not given.
+
+<sub>Topics: Arrays</sub>
+
+### Round 2
+
+One hour; two DSA questions, team selection and CS core.
+
+**Two DSA questions**
+
+Two DSA problems. Exact problems not given.
+
+<sub>Topics: Arrays</sub>
+
+**Process vs thread, pipelines and IPC**
+
+Process versus thread, pipelines, and inter-process communication.
+
+<sub>Topics: OS/DBMS/CN MCQ</sub>
+
+**Leaked API key in a repo**
+
+If an API key is committed to a repository by mistake, how do you revoke it?
+
+<sub>Topics: Software Engineering</sub>
+
+### Round 3
+
+Half an hour; company fit, team feasibility and interests.
+
+No specific questions reported.
+
+**Tips:** Prepare OS, networks, OOP in C++, DBMS and SQL; systems topics are increasingly asked. · Prepare a tight self-introduction and know the company and why you fit. · Plan the order of Day 1 interviews using expected hire counts.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1XJ-LgzUrdZ_ctB0M8BdiZfpkfpEsMNSJ/view)
+
+## 2025-26 season · Desk Quant Analyst · IIT Kanpur · on-campus
+
+Two online assessments (SDE and quant), then three rounds: DSA, statistics and puzzles with easy DSA, and an interview with a senior quant researcher.
+
+### Round 1: online DSA
+
+Three DSA problems of increasing difficulty on HackerRank.
+
+**Longest vowel-ordered subsequence**
+
+Hardest problem: in a given string, find the longest length of a subsequence of the form a's, then e's, then i's, then o's, then u's.
+
+<sub>Topics: DP, Strings · Similar: [LeetCode 1839. Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) (Medium)</sub>
+
+### Round 2
+
+Scheduled together with round 3.
+
+**Statistics fundamentals**
+
+CLT, normal distribution modelling of a problem, and area under the pdf within 1, 2 and 3 standard deviations.
+
+<sub>Topics: Math</sub>
+
+**Simple puzzles and easy DSA**
+
+Simple puzzles and two easy DSA problems. Exact problems not given.
+
+<sub>Topics: Puzzles, Arrays</sub>
+
+### Round 3
+
+Interview with a senior quant researcher.
+
+**Resume and debugging reasoning**
+
+Resume and project discussion, and hypothetical questions on debugging your own algorithm that fails for some reason.
+
+<sub>Topics: HR & Behavioral</sub>
+
+**Tips:** Revise statistics fundamentals and the normal distribution. · Start with CSES and pattern recognition; solve puzzle sets like Brainstellar and QuantGuide. · Find a peer group, be thorough with your resume and express observations clearly.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1PqkizuNkkWlJ8TevCiWxOTMXPFjtJaD8/view)
 
 ## 16 Oct 2025 · Software Developer · IIT Kharagpur · on-campus
 

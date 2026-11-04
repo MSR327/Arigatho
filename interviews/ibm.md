@@ -1,6 +1,6 @@
 # IBM: interviews
 
-**3 written experiences**, newest first · [OA questions](../companies/ibm.md) · [← all companies](README.md)
+**4 written experiences**, newest first · [OA questions](../companies/ibm.md) · [← all companies](README.md)
 
 ## 23 Oct 2026 · Associate System Engineer · on-campus
 
@@ -153,6 +153,42 @@ What is a REST API.
 **Tips:** Let the timer run out on the AI speech test instead of submitting early. · Revise SQL commands, OOP and REST, and be ready to explain projects.
 
 Source: [GeeksforGeeks](https://www.geeksforgeeks.org/interview-experiences/ibm-interview-experience-for-associate-system-engineer-2027)
+
+## 2025-26 season · Research Engineer · IIT Kanpur · on-campus
+
+Two to three technical rounds focused on ML and projects, then one or two HR rounds.
+
+### Technical rounds
+
+Two to three rounds, heavy on ML and project discussion; described as relaxed.
+
+**ML fundamentals**
+
+Questions on ML fundamentals. Exact questions not given.
+
+<sub>Topics: ML/AI</sub>
+
+**Project and improvements**
+
+Questions on your project and how it could be improved.
+
+<sub>Topics: ML/AI</sub>
+
+**LLMs**
+
+Questions on large language models. Exact questions not given.
+
+<sub>Topics: ML/AI</sub>
+
+### HR rounds
+
+One or two rounds.
+
+No specific questions reported.
+
+**Tips:** Learn basics rather than chasing the best resources; build one or two basic projects and one good one. · Work on communication skills.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1NzCmOhHCtbL5qWbwFUTFu2-TMkNgJmGY/view)
 
 ## 23 Sep 2025 · Hardware Developer, Processor Core Design · IIT Kharagpur · on-campus
 

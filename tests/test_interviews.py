@@ -49,6 +49,8 @@ def test_clean_uses_the_company_names_the_oa_pages_use():
     assert iv.clean(experience(company="Navi Technologies"), known=known)[0]["company"] == "Navi"
     assert iv.clean(experience(company="ZOMATO"), known=known)[0]["company"] == "Eternal (Zomato)"
     assert iv.clean(experience(company="Quant Solar Pvt. Ltd."), known=known)[0]["company"] == "Quant Solar"
+    assert iv.clean(experience(company="AXIRO Semiconductor Private Limited"), known=known)[0]["company"] == "AXIRO Semiconductor"
+    assert iv.clean(experience(company="Google India"), known=known)[0]["company"] == "Google"
 
 
 @pytest.mark.parametrize("over, expected", [
@@ -247,6 +249,18 @@ def test_build_writes_the_site_data_and_a_page_per_company(tmp_path):
     assert "Max subarray" in page
     assert SWG in page
     assert "Acme" in (tmp_path / "interviews" / "README.md").read_text()
+
+
+def test_a_source_with_only_a_season_shows_the_season_not_a_date(tmp_path):
+    row = iv.clean(experience(published="2026-06-30", season="2025-26"))[0]
+
+    data = built(tmp_path, [row])
+
+    assert data["experiences"][0]["season"] == "2025-26"
+    page = (tmp_path / "interviews" / "acme.md").read_text()
+    assert "2025-26 season" in page
+    assert "30 Jun 2026" not in page
+    assert "30 Jun 2026" not in (tmp_path / "interviews" / "README.md").read_text()
 
 
 def test_build_leaves_out_old_and_skipped_rows(tmp_path):

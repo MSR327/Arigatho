@@ -1,6 +1,76 @@
 # Capital One: interviews
 
-**2 written experiences**, newest first · [OA questions](../companies/capital-one.md) · [← all companies](README.md)
+**4 written experiences**, newest first · [OA questions](../companies/capital-one.md) · [← all companies](README.md)
+
+## 2025-26 season · Business Analyst · IIT Kanpur · on-campus
+
+Aptitude test and resume shortlisting, then two interview rounds of business cases with basic algebra.
+
+### Aptitude test and resume shortlisting
+
+No specific questions reported.
+
+### Round 1 and Round 2
+
+Simple business cases with basic algebra and calculation; no resume questions. Evaluated structure, breadth of thinking, and speed and accuracy of calculation.
+
+**Estimate monthly profit of a village lending business**
+
+You are in a village and want to start a lending business for local residents; estimate monthly profit. Relevant data points were given as you worked through it.
+
+<sub>Topics: Guesstimates & Cases</sub>
+
+**Tips:** Communicate clearly; structure your approach.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1Y0A24hWYZvk_M_B9yAWn0BLtHq9PJZfE/view#capital-one)
+
+## 2025-26 season · Associate (Business Analyst) · IIT Kanpur · on-campus
+
+Aptitude test, resume shortlisting, three case-study interviews and one HR interview.
+
+### Aptitude test
+
+No specific questions reported.
+
+### Resume shortlisting
+
+No specific questions reported.
+
+### Case interviews (3 rounds)
+
+Structured thinking, assumptions, basic arithmetic and probability; both approach and calculation accuracy mattered.
+
+**Private money lending in Tier 2/3 cities**
+
+A case on a private money-lending service in Tier 2/3 cities.
+
+<sub>Topics: Guesstimates & Cases</sub>
+
+**Life insurance optimal pricing**
+
+A case on life insurance and its optimal pricing.
+
+<sub>Topics: Guesstimates & Cases</sub>
+
+**Online advertising strategy**
+
+A case on an online advertising strategy for a product.
+
+<sub>Topics: Guesstimates & Cases</sub>
+
+### HR interview
+
+Standard questions; resume not discussed in detail.
+
+**Standard HR questions**
+
+Tell me about yourself; a situation where you failed; a project where group members did not help.
+
+<sub>Topics: HR & Behavioral</sub>
+
+**Tips:** Start early and take mock interviews. · Pick a few roles rather than preparing for everything. · Do not bluff when you do not know.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/10HelS_-F6f-SecezXG1u8Ejdw81WOV0I/view)
 
 ## 30 Oct 2025 · Business Analyst Associate · IIT Kharagpur · on-campus
 

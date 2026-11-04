@@ -1,6 +1,58 @@
 # Caterpillar: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**3 written experiences**, newest first · [← all companies](README.md)
+
+## 2025-26 season · Associate Engineer · IIT Kanpur · on-campus
+
+An online test (aptitude, reasoning, English and GATE-level core mechanical), then a 10-30 minute technical interview, with HR either separate or folded in.
+
+### Online test
+
+Sections on aptitude, logical reasoning, English grammar and mainly core mechanical at GATE level.
+
+No specific questions reported.
+
+### Technical/HR interview
+
+10 to 30 minutes, focused on the specific profile.
+
+**Thermal CFD profile questions**
+
+CFD, heat transfer, fundamental laws and governing equations, turbulence modelling, numerical analysis and modelling, and practical thermal management such as engine cooling. Exact questions not given.
+
+<sub>Topics: Mechanical</sub>
+
+**Tips:** Used GATE notes.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1dHahnAJIaE-gh9IIeLgPWFUp5ozyU8US/view)
+
+## 2025-26 season · Associate Engineer - CAE - Design/CFD/Battery Cell Technology · IIT Kanpur · on-campus
+
+Resume shortlisting for the test, test shortlisting for interviews, then a technical interview and an HR interview (described generally for several companies).
+
+### Test
+
+Reached via resume shortlisting.
+
+No specific questions reported.
+
+### Technical interview
+
+Be strong on basics relevant to the profile.
+
+No specific questions reported.
+
+### HR interview
+
+**Five-year goal and conflict handling**
+
+Where do you see yourself in five years; how would you resolve a conflict with a colleague?
+
+<sub>Topics: HR & Behavioral</sub>
+
+**Tips:** Be confident and never bluff on the resume or in answers. · Research the company and align yourself to its needs.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1AUDU0iRpvUF5PDDSM5Cy3LhnMs78ok0n/view)
 
 ## 10 Nov 2025 · Associate Engineer, Analysis and Simulation · IIT Kharagpur · on-campus
 

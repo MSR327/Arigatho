@@ -1,6 +1,86 @@
 # Wells Fargo: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**3 written experiences**, newest first · [← all companies](README.md)
+
+## 2025-26 season · Tech Program Analyst · IIT Kanpur · on-campus
+
+At least two interview rounds; the author's general note is that interviews stressed past experience and soft skills over technical depth.
+
+### Interview 1
+
+General, covers the author's shortlists rather than only this company
+
+No specific questions reported.
+
+### Interview 2
+
+Long round, mostly a resume discussion
+
+**Resume discussion**
+
+Long discussion on resume and past experience.
+
+<sub>Topics: HR & Behavioral</sub>
+
+**Tips:** Categorise DSA into 15-20 question types and be able to identify and solve any of them · After DSA study OOP, SQL and the resume · Used Striver A2Z and LeetCode SQL 50
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/1ps1SWFByNmSF0wTFQy6lmDrE-XkdStiN/view)
+
+## 2025-26 season · Tech Program Analyst · IIT Kanpur · on-campus
+
+Online coding assessment, then a technical interview, a personality round and an HR round.
+
+### Online assessment
+
+Coding.
+
+No specific questions reported.
+
+### Round 1: Technical
+
+45 minutes to 1 hour; easy-to-moderate LeetCode-style questions, OOP concepts and implementation puzzles.
+
+**Pointers and linked list architecture**
+
+Questions on pointers and the architecture of a linked list.
+
+<sub>Topics: Linked List, OOP</sub>
+
+**Doubly linked list and trees as linked structures**
+
+Doubly linked lists, how a tree can be viewed as a linked-list-based structure, and the differences between them.
+
+<sub>Topics: Linked List, Trees</sub>
+
+**Design a lift system**
+
+Model a lift system using suitable data structures, including a two-lift system for a building.
+
+<sub>Topics: Software Engineering, OOP</sub>
+
+### Round 2: Personality
+
+25-30 minutes, HR-like but deeper on thinking, projects and goals.
+
+**Projects, aspirations and fit**
+
+Tell me about your projects; your aspirations in life; why Wells Fargo; why you did not accept the PPO; basic personality questions.
+
+<sub>Topics: HR & Behavioral</sub>
+
+### Round 3: HR
+
+15-20 minutes.
+
+**HR questions**
+
+Why Wells Fargo; importance of friends and family in your life; where do you see yourself in five years.
+
+<sub>Topics: HR & Behavioral</sub>
+
+**Tips:** Puzzles from GFG and Brainstellar; OOP from InterviewBit. · DSA from InterviewBit and Striver; ML from a 100-page ML book. · Keep a structured daily schedule.
+
+Source: [SPO Insights, IIT Kanpur](https://drive.google.com/file/d/13g6F-6BP86HjbWAewiIAt9rij16W-syc/view)
 
 ## 30 Sep 2025 · Quantitative Program Analyst · IIT Kharagpur · on-campus
 

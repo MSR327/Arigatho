@@ -113,7 +113,7 @@
 </nav></header>
 <main class="wrap"><p class="meta" style="margin-top:26px">Loading…</p></main>
 <footer class="wrap"><p class="meta">Questions shared by students in OAHelper placement groups, sorted daily.
-  Interview experiences also come from SWG IIT Kharagpur and other written first-hand accounts, each linked to its source.
+  Interview experiences also come from SWG IIT Kharagpur, IIT Kanpur's placement office and other written first-hand accounts, each linked to its source.
   Internship drives are left out. <a href="https://github.com/MSR327/Arigatho">Source on GitHub</a></p></footer>
 
 <script src="vendor/marked.min.js"></script>
@@ -128,6 +128,7 @@ const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, 
 const day = iso => new Date(iso + "T00:00:00").toLocaleDateString("en-GB", {day: "numeric", month: "short", year: "numeric"});
 const known = v => v && v !== "Unknown";
 const plural = (n, w) => `${n.toLocaleString("en-IN")} ${w}${n === 1 ? "" : "s"}`;
+const when = e => e.season ? `${e.season} season` : day(e.d);  // some sources give only a season
 
 Promise.all([
   fetch("data.json").then(r => r.json()),
@@ -158,7 +159,7 @@ function loadInterviews(list) {
     const c = interviewCo(e.c);
     c.exps.push(e);
     e.rounds.forEach((r, i) => r.qs.forEach((y, j) => {
-      Object.assign(y, {id: `${e.id}-${i}-${j}`, s: c.slug, c: e.c, d: e.d, col: e.campus, also: "",
+      Object.assign(y, {id: `${e.id}-${i}-${j}`, s: c.slug, c: e.c, d: e.d, season: e.season, col: e.campus, also: "",
                         hay: [e.c, y.t, y.x, e.pos, e.campus, r.n, y.tp.join(" ")].join(" ").toLowerCase()});
       byId.set(y.id, y);
       iqs.push(y);
@@ -204,7 +205,7 @@ function interviewsHome() {
   const chat = [...interviewCos.values()].reduce((n, c) => n + c.chat.length, 0);
   main.innerHTML = `<h1>Interviews, by company</h1>
     <p class="meta">${plural(experiences.length, "written experience")} · ${plural(iqs.length + chat, "question")} from ${interviewCos.size} companies · updated ${esc(updated)}</p>
-    <p class="meta">What companies ask after the online test: written accounts from SWG IIT Kharagpur (last 2 years) and other first-hand posts (last year), each linked to its source, plus interview rounds shared in OAHelper chats.</p>`
+    <p class="meta">What companies ask after the online test: written accounts from SWG IIT Kharagpur (last 2 years), IIT Kanpur's placement office and other first-hand posts (last year), each linked to its source, plus interview rounds shared in OAHelper chats.</p>`
     + az(interviewCos.values(), "#/i/", interviewCount);
 }
 
@@ -214,7 +215,7 @@ function results(words, interviewsFirst) {
   const cs = [...companies.values()].filter(named), ics = [...interviewCos.values()].filter(named);
   const hits = questions.filter(has), ihits = iqs.filter(has);
   const row = (x, view) => `<a class="row" href="#/${view}/${x.s}/${x.id}"><span>${esc(x.t)}</span>
-        <span class="meta">${[x.c, x.col].filter(known).map(esc).join(" · ")} · ${day(x.d)}</span></a>`;
+        <span class="meta">${[x.c, x.col].filter(known).map(esc).join(" · ")} · ${when(x)}</span></a>`;
   const oa = hits.length ? `<h2>${plural(hits.length, "question")}</h2>` + hits.slice(0, 200).map(x => row(x, "c")).join("")
     + (hits.length > 200 ? '<p class="meta">Showing the newest 200. Add a word to narrow it down.</p>' : "") : "";
   const iv = ihits.length ? `<h2>${plural(ihits.length, "interview question")}</h2>`
@@ -265,7 +266,7 @@ function company(c, open) {
 function experienceBlock(e) {
   const mode = e.mode === "unknown" ? "" : e.mode;
   return `<section class="xp" id="x-${esc(e.id)}">
-    <div class="drive">${[day(e.d), e.pos, e.campus, mode].filter(known).map(esc).join(" · ")}</div>
+    <div class="drive">${[when(e), e.pos, e.campus, mode].filter(known).map(esc).join(" · ")}</div>
     ${e.proc ? `<p class="proc">${esc(e.proc)}</p>` : ""}
     ${e.rounds.map(r => `<h3 class="rnd">${esc(r.n)}${r.dt ? `<span class="meta">${esc(r.dt)}</span>` : ""}</h3>`
       + (r.qs.length ? r.qs.map(questionRow).join("") : '<p class="meta none">No specific questions reported.</p>')).join("")}
@@ -277,10 +278,10 @@ function experienceBlock(e) {
 function interviewPage(c, open) {
   document.title = `${c.name} interviews · Arigatho`;
   const qs = c.exps.flatMap(e => e.rounds.flatMap(r => r.qs)).concat(c.chat);
-  const latest = [...c.exps.map(e => e.d), ...c.chat.map(x => x.d)].sort().pop();
+  const latest = [...c.exps, ...c.chat].sort((a, b) => a.d.localeCompare(b.d)).pop();
   const top = topTopics(qs), oa = companies.get(c.slug);
   const stats = [c.exps.length && plural(c.exps.length, "written experience"), plural(qs.length, "question"),
-                 `latest ${day(latest)}`, top.length && "mostly " + top.join(", ")].filter(Boolean).join(" · ");
+                 `latest ${when(latest)}`, top.length && "mostly " + top.join(", ")].filter(Boolean).join(" · ");
   main.innerHTML = `<p class="crumb"><a href="#/i">← All companies</a></p>
     <h1>${esc(c.name)} interviews</h1>
     <p class="meta">${stats}</p>
