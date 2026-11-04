@@ -1,9 +1,10 @@
 # DP
 
-120 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+121 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Maximum strength chain with prime factor count constraint](../companies/capital-one.md#q1-maximum-strength-chain-with-prime-factor-count-constraint) | ≈ [LC 300](https://leetcode.com/problems/longest-increasing-subsequence/) Medium |
 | 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Count ways to choose k pairs with distinct a, b and no equal diagonal differences](../companies/thoughtspot.md#q1-count-ways-to-choose-k-pairs-with-distinct-a-b-and-no-equal-diagonal-differences) | ≈ [LC 52](https://leetcode.com/problems/n-queens-ii/) Hard |
 | 2026-11-03 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Roorkee | [Minimum operations to make x equal to y](../companies/thoughtspot.md#q3-minimum-operations-to-make-x-equal-to-y) | ≈ [LC 991](https://leetcode.com/problems/broken-calculator/) Medium |
 | 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [The Great Chai Stall Crawl](../companies/commotion.md#q4-the-great-chai-stall-crawl) | [CSES 1690](https://cses.fi/problemset/task/1690) |

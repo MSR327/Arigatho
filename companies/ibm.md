@@ -1,6 +1,6 @@
 # IBM
 
-**24 questions** · 15 drives · latest 3 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**24 questions** · 15 drives · latest 4 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 8 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
 **Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +2 more
@@ -206,7 +206,7 @@ One easy DSA question on HackerRank. The exact problem statement was not shared.
 
 One question where you must understand a complete codebase and implement features, for web development. The question is given in the framework matching the language you choose; for Python it was given in Django.
 
-<sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L13) · Also asked at: IIT Guwahati (2026-11-02)</sub>
+<sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L13) · Also asked at: IIT Guwahati (2026-11-02), IIT Hyderabad (2026-11-04)</sub>
 
 ## 2026-10-22 · IIT BHU · FTE
 
@@ -222,7 +222,7 @@ IBM OA pattern for Software Developer / Software Engineer / Hardware Engineer ro
 
 The OA had 1 DSA question and 1 backend question. The backend question is described as a cheap copy of the Amazon backend OA: you choose a tech stack, then fix a bug or implement something in that stack. The exact problem statements were not shared.
 
-<sub>Topics: OA Format, Web Dev · Source: [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L75), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L82), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L83), [chat, 22 Oct](../archive/ibm-oa/2026-10.jsonl#L84) · Also asked at: MNNIT Allahabad (2026-10-31), IIT Guwahati (2026-11-01), IIT Hyderabad ×2 (last 2026-11-02), IIT Roorkee (2026-11-02)</sub>
+<sub>Topics: OA Format, Web Dev · Source: [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L75), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L82), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L83), [chat, 22 Oct](../archive/ibm-oa/2026-10.jsonl#L84) · Also asked at: MNNIT Allahabad (2026-10-31), IIT Guwahati (2026-11-01), IIT Roorkee (2026-11-02), IIT Hyderabad ×3 (last 2026-11-04)</sub>
 
 ## 2026-10-20 · MNNIT Allahabad · FTE · ASE · Interview
 

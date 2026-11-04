@@ -1,9 +1,10 @@
 # Math
 
-168 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+169 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Maximum strength chain with prime factor count constraint](../companies/capital-one.md#q1-maximum-strength-chain-with-prime-factor-count-constraint) | ≈ [LC 300](https://leetcode.com/problems/longest-increasing-subsequence/) Medium |
 | 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Count ways to choose k pairs with distinct a, b and no equal diagonal differences](../companies/thoughtspot.md#q1-count-ways-to-choose-k-pairs-with-distinct-a-b-and-no-equal-diagonal-differences) | ≈ [LC 52](https://leetcode.com/problems/n-queens-ii/) Hard |
 | 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Kharagpur | [3D volume finding question](../companies/flipkart.md#q3-3d-volume-finding-question) | |
 | 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Kharagpur | [Missing digits to form a perfect square](../companies/flipkart.md#q1-missing-digits-to-form-a-perfect-square) | ≈ [LC 367](https://leetcode.com/problems/valid-perfect-square/) Easy |

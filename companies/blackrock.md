@@ -1,9 +1,9 @@
 # BlackRock
 
-**15 questions** · 7 drives · latest 3 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 7 drives · latest 4 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 8 · [SQL](../topics/sql.md) 3 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Aptitude](../topics/aptitude.md) 1 · +1 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Indore, IIT Kharagpur/Kanpur, NIT Raipur, SVNIT Surat
+**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Indore, IIT Kharagpur/Kanpur, NIT Raipur, SVNIT Surat
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -116,7 +116,7 @@ Section 6: 30 MCQs on MCP, AI, LLMs and prompt engineering. The question title i
 
 2 SQL coding questions, some basic aptitude and English MCQs, and finance-related MCQs. (Specific topics not given.)
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L46) · Also asked at: IIT Kharagpur/Kanpur (2026-11-03), IIT Delhi (2026-11-03)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L46) · Also asked at: IIT Kharagpur/Kanpur (2026-11-03), IIT Delhi (2026-11-03), BITS Pilani (2026-11-04)</sub>
 
 ## 2026-10-28 · IIT Indore · FTE · Aladdin Data
 

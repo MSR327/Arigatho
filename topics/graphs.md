@@ -1,9 +1,11 @@
 # Graphs
 
-117 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+119 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Deloitte](../companies/deloitte.md) | IIT Hyderabad | [Job scheduling with dependencies](../companies/deloitte.md#q1-job-scheduling-with-dependencies) | ≈ [LC 1834](https://leetcode.com/problems/single-threaded-cpu/) Medium |
+| 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Shortest path to reach all k targets in grid](../companies/capital-one.md#q3-shortest-path-to-reach-all-k-targets-in-grid) | ≈ [LC 864](https://leetcode.com/problems/shortest-path-to-get-all-keys/) Hard |
 | 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Max constant speed path from node 0 to n-1](../companies/thoughtspot.md#q3-max-constant-speed-path-from-node-0-to-n-1) | ≈ [LC 1631](https://leetcode.com/problems/path-with-minimum-effort/) Medium |
 | 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Simple BFS problem](../companies/thoughtspot.md#q2-simple-bfs-problem) | |
 | 2026-11-03 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Roorkee | [Shortest path with constrained edge relaxations](../companies/thoughtspot.md#q1-shortest-path-with-constrained-edge-relaxations) | ≈ [LC 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) Medium |

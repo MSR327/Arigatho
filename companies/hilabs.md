@@ -1,6 +1,6 @@
 # HiLabs
 
-**22 questions** · 11 drives · latest 2 Nov 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 11 drives · latest 4 Nov 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 6 · [Math](../topics/math.md) 5 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 4 · [Greedy](../topics/greedy.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Sorting](../topics/sorting.md) 3 · +9 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Madras +1 more
@@ -171,7 +171,7 @@ Held on the Unstop platform, 3 sections:
 
 The coding questions themselves were not described.
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L2), [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L4) · Also asked at: IIT Kharagpur ×2 (last 2026-11-01), IIT Bombay (2026-11-01), IIT BHU (2026-11-01), IIT Guwahati (2026-11-02)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L2), [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L4) · Also asked at: IIT Kharagpur ×2 (last 2026-11-01), IIT BHU (2026-11-01), IIT Guwahati (2026-11-02), IIT Bombay ×2 (last 2026-11-04)</sub>
 
 ## 2026-11-01 · IIT Bombay · FTE · SDE
 

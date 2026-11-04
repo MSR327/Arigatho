@@ -1,9 +1,10 @@
 # Bit Manipulation
 
-34 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+35 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Smallest window size with OR at least S](../companies/capital-one.md#q2-smallest-window-size-with-or-at-least-s) | ≈ [LC 2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) Medium |
 | 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [The Great Chai Stall Crawl](../companies/commotion.md#q4-the-great-chai-stall-crawl) | [CSES 1690](https://cses.fi/problemset/task/1690) |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Bitmask DP problem](../companies/unknown.md#q4-bitmask-dp-problem) | |
 | 2026-11-02 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Minimum cost to reach minimum weight with power-of-2 weights](../companies/cognizant.md#q3-minimum-cost-to-reach-minimum-weight-with-power-of-2-weights) | ≈ [LC 322](https://leetcode.com/problems/coin-change/) Medium |

@@ -484,6 +484,11 @@
   "name": "Deutsche Bank OA",
   "role": "OA preparation"
  },
+ "diwali-event": {
+  "company": "Diwali",
+  "name": "Diwali: Light Up Your Campus",
+  "role": "Event"
+ },
  "entnt-oa": {
   "company": "ENTNT",
   "name": "ENTNT OA",

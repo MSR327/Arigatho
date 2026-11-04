@@ -2,17 +2,17 @@
  "groups": {
   "inter-nit": {
    "oldest_id": 541,
-   "newest_id": 20176,
+   "newest_id": 20406,
    "backfill_done": true
   },
   "inter-iit": {
    "oldest_id": 543,
-   "newest_id": 20155,
+   "newest_id": 20389,
    "backfill_done": true
   },
   "accenture-oa": {
    "oldest_id": 490,
-   "newest_id": 20148,
+   "newest_id": 20385,
    "backfill_done": true
   },
   "adobe-oa": {
@@ -22,7 +22,7 @@
   },
   "alight-solutions-oa": {
    "oldest_id": 17499,
-   "newest_id": 17499,
+   "newest_id": 20307,
    "backfill_done": true
   },
   "alphonso-oa": {
@@ -32,7 +32,7 @@
   },
   "amazon-oa": {
    "oldest_id": 1597,
-   "newest_id": 20054,
+   "newest_id": 20367,
    "backfill_done": true
   },
   "american-express-oa": {
@@ -42,7 +42,7 @@
   },
   "apple-oa": {
    "oldest_id": 1630,
-   "newest_id": 13862,
+   "newest_id": 20230,
    "backfill_done": true
   },
   "auronova-consulting-oa": {
@@ -62,7 +62,7 @@
   },
   "axxela-oa": {
    "oldest_id": 18396,
-   "newest_id": 18396,
+   "newest_id": 20204,
    "backfill_done": true
   },
   "being-infinity-oa": {
@@ -122,7 +122,7 @@
   },
   "campus-bits-pilani-placements": {
    "oldest_id": 2934,
-   "newest_id": 18458,
+   "newest_id": 20299,
    "backfill_done": true
   },
   "campus-bmsce-bangalore-placements": {
@@ -142,7 +142,7 @@
   },
   "campus-dtu-placements": {
    "oldest_id": 2937,
-   "newest_id": 19790,
+   "newest_id": 20413,
    "backfill_done": true
   },
   "campus-igdtuw-placements": {
@@ -152,7 +152,7 @@
   },
   "campus-iiit-allahabad-placements": {
    "oldest_id": 2922,
-   "newest_id": 19792,
+   "newest_id": 20246,
    "backfill_done": true
   },
   "campus-iiit-bangalore-placements": {
@@ -167,7 +167,7 @@
   },
   "campus-iiit-hyderabad-placements": {
    "oldest_id": 2959,
-   "newest_id": 19466,
+   "newest_id": 20394,
    "backfill_done": true
   },
   "campus-iiit-vadodara-placements": {
@@ -182,22 +182,22 @@
   },
   "campus-iit-bhu-placements": {
    "oldest_id": 2920,
-   "newest_id": 20153,
+   "newest_id": 20403,
    "backfill_done": true
   },
   "campus-iit-bhubaneswar-placements": {
    "oldest_id": 2965,
-   "newest_id": 20110,
+   "newest_id": 20316,
    "backfill_done": true
   },
   "campus-iit-bombay-placements": {
    "oldest_id": 2923,
-   "newest_id": 20086,
+   "newest_id": 20381,
    "backfill_done": true
   },
   "campus-iit-delhi-placements": {
    "oldest_id": 2925,
-   "newest_id": 20137,
+   "newest_id": 20405,
    "backfill_done": true
   },
   "campus-iit-dharwad-placements": {
@@ -207,27 +207,27 @@
   },
   "campus-iit-gandhinagar-placements": {
    "oldest_id": 2949,
-   "newest_id": 20002,
+   "newest_id": 20395,
    "backfill_done": true
   },
   "campus-iit-guwahati-placements": {
    "oldest_id": 2924,
-   "newest_id": 20130,
+   "newest_id": 20392,
    "backfill_done": true
   },
   "campus-iit-hyderabad-placements": {
    "oldest_id": 2931,
-   "newest_id": 20140,
+   "newest_id": 20400,
    "backfill_done": true
   },
   "campus-iit-indore-placements": {
    "oldest_id": 2948,
-   "newest_id": 20166,
+   "newest_id": 20411,
    "backfill_done": true
   },
   "campus-iit-ism-dhanbad-placements": {
    "oldest_id": 2930,
-   "newest_id": 20097,
+   "newest_id": 20388,
    "backfill_done": true
   },
   "campus-iit-jodhpur-placements": {
@@ -237,37 +237,37 @@
   },
   "campus-iit-kanpur-placements": {
    "oldest_id": 2936,
-   "newest_id": 20134,
+   "newest_id": 20382,
    "backfill_done": true
   },
   "campus-iit-kharagpur-placements": {
    "oldest_id": 2928,
-   "newest_id": 20175,
+   "newest_id": 20380,
    "backfill_done": true
   },
   "campus-iit-madras-placements": {
    "oldest_id": 2929,
-   "newest_id": 20150,
+   "newest_id": 20213,
    "backfill_done": true
   },
   "campus-iit-mandi-placements": {
    "oldest_id": 2943,
-   "newest_id": 20093,
+   "newest_id": 20317,
    "backfill_done": true
   },
   "campus-iit-patna-placements": {
    "oldest_id": 2935,
-   "newest_id": 20081,
+   "newest_id": 20396,
    "backfill_done": true
   },
   "campus-iit-roorkee-placements": {
    "oldest_id": 2927,
-   "newest_id": 20143,
+   "newest_id": 20412,
    "backfill_done": true
   },
   "campus-iit-ropar-placements": {
    "oldest_id": 2933,
-   "newest_id": 19811,
+   "newest_id": 20397,
    "backfill_done": true
   },
   "campus-jadavpur-university-placements": {
@@ -382,12 +382,12 @@
   },
   "campus-nit-trichy-placements": {
    "oldest_id": 2941,
-   "newest_id": 20157,
+   "newest_id": 20374,
    "backfill_done": true
   },
   "campus-nit-warangal-placements": {
    "oldest_id": 2932,
-   "newest_id": 20161,
+   "newest_id": 20377,
    "backfill_done": true
   },
   "campus-nsut-delhi-placements": {
@@ -447,12 +447,12 @@
   },
   "capgemini-oa": {
    "oldest_id": 1561,
-   "newest_id": 19831,
+   "newest_id": 20401,
    "backfill_done": true
   },
   "capital-one-oa": {
    "oldest_id": 15412,
-   "newest_id": 19907,
+   "newest_id": 20231,
    "backfill_done": true
   },
   "cashfree-oa": {
@@ -477,7 +477,7 @@
   },
   "cognizant-oa": {
    "oldest_id": 1552,
-   "newest_id": 20172,
+   "newest_id": 20410,
    "backfill_done": true
   },
   "cohesity-oa": {
@@ -487,7 +487,7 @@
   },
   "deloitte-oa": {
    "oldest_id": 1600,
-   "newest_id": 20167,
+   "newest_id": 20407,
    "backfill_done": true
   },
   "deutsche-bank-oa": {
@@ -522,7 +522,7 @@
   },
   "futures-first-oa": {
    "oldest_id": 1594,
-   "newest_id": 20171,
+   "newest_id": 20248,
    "backfill_done": true
   },
   "google-step-intern": {
@@ -567,7 +567,7 @@
   },
   "ibm-oa": {
    "oldest_id": 1591,
-   "newest_id": 20144,
+   "newest_id": 20274,
    "backfill_done": true
   },
   "icici-oa": {
@@ -687,7 +687,7 @@
   },
   "natwest-oa": {
    "oldest_id": 1639,
-   "newest_id": 20141,
+   "newest_id": 20237,
    "backfill_done": true
   },
   "navabrava-oa": {
@@ -717,7 +717,7 @@
   },
   "nobroker-oa": {
    "oldest_id": 14717,
-   "newest_id": 19937,
+   "newest_id": 20305,
    "backfill_done": true
   },
   "npci-oa": {
@@ -727,7 +727,7 @@
   },
   "nvidia-oa": {
    "oldest_id": 1615,
-   "newest_id": 19920,
+   "newest_id": 20348,
    "backfill_done": true
   },
   "nxtwave-oa": {
@@ -847,7 +847,7 @@
   },
   "straive-oa": {
    "oldest_id": 16475,
-   "newest_id": 19904,
+   "newest_id": 20398,
    "backfill_done": true
   },
   "tcs-oa": {
@@ -867,7 +867,7 @@
   },
   "texas-instruments-oa": {
    "oldest_id": 14783,
-   "newest_id": 20146,
+   "newest_id": 20253,
    "backfill_done": true
   },
   "think-future-oa": {
@@ -912,7 +912,7 @@
   },
   "visa-oa": {
    "oldest_id": 1564,
-   "newest_id": 19743,
+   "newest_id": 20257,
    "backfill_done": true
   },
   "warner-music-group-oa": {
@@ -927,7 +927,12 @@
   },
   "zscaler-oa": {
    "oldest_id": 516,
-   "newest_id": 15198,
+   "newest_id": 20268,
+   "backfill_done": true
+  },
+  "diwali-event": {
+   "oldest_id": 20259,
+   "newest_id": 20259,
    "backfill_done": true
   }
  },
@@ -19313,6 +19318,228 @@
   20136,
   20157,
   20159,
-  20170
+  20170,
+  20184,
+  20239,
+  20243,
+  20257,
+  20269,
+  20273,
+  20275,
+  20408,
+  20179,
+  20185,
+  20202,
+  20203,
+  20204,
+  20211,
+  20228,
+  20229,
+  20230,
+  20231,
+  20241,
+  20248,
+  20250,
+  20255,
+  20270,
+  20274,
+  20301,
+  20306,
+  20307,
+  20308,
+  20318,
+  20320,
+  20321,
+  20325,
+  20347,
+  20357,
+  20367,
+  20369,
+  20372,
+  20373,
+  20376,
+  20385,
+  20391,
+  20399,
+  20401,
+  20402,
+  20404,
+  20407,
+  20409,
+  20410,
+  20182,
+  20183,
+  20187,
+  20188,
+  20190,
+  20191,
+  20192,
+  20193,
+  20200,
+  20207,
+  20210,
+  20222,
+  20226,
+  20234,
+  20237,
+  20238,
+  20240,
+  20242,
+  20249,
+  20251,
+  20253,
+  20256,
+  20268,
+  20271,
+  20279,
+  20281,
+  20282,
+  20288,
+  20297,
+  20298,
+  20300,
+  20305,
+  20331,
+  20337,
+  20348,
+  20365,
+  20375,
+  20380,
+  20389,
+  20398,
+  20178,
+  20186,
+  20189,
+  20194,
+  20199,
+  20206,
+  20208,
+  20209,
+  20216,
+  20218,
+  20227,
+  20236,
+  20244,
+  20246,
+  20247,
+  20258,
+  20261,
+  20276,
+  20278,
+  20280,
+  20283,
+  20286,
+  20299,
+  20313,
+  20316,
+  20319,
+  20326,
+  20333,
+  20336,
+  20342,
+  20354,
+  20359,
+  20361,
+  20378,
+  20379,
+  20387,
+  20394,
+  20403,
+  20406,
+  20413,
+  20181,
+  20195,
+  20198,
+  20205,
+  20212,
+  20215,
+  20217,
+  20220,
+  20224,
+  20232,
+  20233,
+  20235,
+  20254,
+  20260,
+  20264,
+  20265,
+  20272,
+  20287,
+  20289,
+  20291,
+  20292,
+  20294,
+  20295,
+  20322,
+  20323,
+  20324,
+  20329,
+  20332,
+  20334,
+  20335,
+  20338,
+  20340,
+  20344,
+  20363,
+  20371,
+  20381,
+  20392,
+  20393,
+  20395,
+  20405,
+  20201,
+  20213,
+  20214,
+  20221,
+  20223,
+  20225,
+  20262,
+  20263,
+  20266,
+  20267,
+  20296,
+  20302,
+  20303,
+  20304,
+  20309,
+  20310,
+  20312,
+  20317,
+  20327,
+  20328,
+  20330,
+  20339,
+  20341,
+  20346,
+  20349,
+  20350,
+  20353,
+  20356,
+  20358,
+  20360,
+  20362,
+  20364,
+  20368,
+  20382,
+  20384,
+  20386,
+  20388,
+  20396,
+  20400,
+  20411,
+  20259,
+  20311,
+  20314,
+  20315,
+  20343,
+  20345,
+  20351,
+  20352,
+  20355,
+  20374,
+  20377,
+  20390,
+  20397,
+  20412
  ]
 }

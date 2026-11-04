@@ -1,13 +1,15 @@
 # Deloitte
 
-**68 questions** · 15 drives · latest 3 Nov 2026 · [← all companies](../README.md#companies)
+**69 questions** · 16 drives · latest 4 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 11 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +12 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 11 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +14 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, MNNIT Allahabad, NIT Raipur +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · IIT Hyderabad · FTE](#2026-11-04--iit-hyderabad--fte)
+  - [Job scheduling with dependencies](#q1-job-scheduling-with-dependencies)
 - [2026-11-03 · IIT Roorkee · FTE](#2026-11-03--iit-roorkee--fte)
   - [Warehouse order allocation (vibe coding)](#q1-warehouse-order-allocation-vibe-coding)
 - [2026-11-02 · IIT Dhanbad · FTE](#2026-11-02--iit-dhanbad--fte)
@@ -95,6 +97,30 @@
 </details>
 
 ---
+
+## 2026-11-04 · IIT Hyderabad · FTE
+
+### Q1. Job scheduling with dependencies
+
+Write a Python program to solve a job scheduling and dependency problem.
+
+Input:
+- N job definitions: `job_id priority effort status` (OPEN/CANCELLED). For duplicate IDs, keep only the first valid definition.
+- M dependencies: `prereq dependent`. Valid only if both exist, are distinct, and the dependent is OPEN. Cancelled prereqs block dependents.
+- c completed job IDs.
+
+Logic:
+- A job is eligible when all its valid prerequisites are done (either pre-completed or dispatched earlier).
+- Tie-breakers for eligible jobs: (1) highest priority first, (2) lowest effort, (3) smallest job_id lexicographically.
+- Dispatch jobs in a loop until no more are eligible. Cycle-stuck or undispatched jobs are blocked.
+
+Output:
+- `SCHEDULED k`, followed by each scheduled job on a new line: `job_id cumulative_effort` (running sum of effort).
+- `BLOCKED b`, followed by each blocked job sorted by job_id: `job_id unmet_count` (number of unsatisfied valid prerequisites).
+- `TOTAL_EFFORT total`.
+- If none, print `SCHEDULED 0` or `BLOCKED 0` accordingly. Handle large constraints efficiently.
+
+<sub>Topics: Graphs, Heaps, Sorting · Same idea: [LeetCode 1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) (Medium), priority queue scheduling with tie-breakers · Source: [chat, 4 Nov](../archive/deloitte-oa/2026-11.jsonl#L58)</sub>
 
 ## 2026-11-03 · IIT Roorkee · FTE
 

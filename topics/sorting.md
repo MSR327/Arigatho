@@ -1,9 +1,10 @@
 # Sorting
 
-51 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+52 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Deloitte](../companies/deloitte.md) | IIT Hyderabad | [Job scheduling with dependencies](../companies/deloitte.md#q1-job-scheduling-with-dependencies) | ≈ [LC 1834](https://leetcode.com/problems/single-threaded-cpu/) Medium |
 | 2026-11-03 | [Point72](../companies/point72.md) | IIT Madras | [Maximum size of a K-multiple-free subset](../companies/point72.md#q1-maximum-size-of-a-k-multiple-free-subset) | ≈ [LC 2170](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Count permutations of array with pairwise product above threshold](../companies/hilabs.md#q1-count-permutations-of-array-with-pairwise-product-above-threshold) | |
 | 2026-11-02 | [IBM](../companies/ibm.md) | IIT Delhi | [Minimum element removal with neighbours](../companies/ibm.md#q1-minimum-element-removal-with-neighbours) | [LC 2593](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) Medium |

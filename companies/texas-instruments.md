@@ -399,7 +399,7 @@ There are four pens: a red pen, a black pen, a green pen and a blue pen. The pen
 - **C.** Blue  
 - **D.** Cannot be determined
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q2. Wall construction with pairs of men
 
@@ -410,7 +410,7 @@ Three men P, Q and R working individually take 12 days, 15 days and 20 days resp
 - **C.** 7.5 days  
 - **D.** 8 days
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q3. Scheduling club activities in slots
 
@@ -421,7 +421,7 @@ A management club has 5 distinct technical activities and 4 distinct strategy ac
 - **C.** 160  
 - **D.** 180
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q4. Count triangles in grid with diagonal
 
@@ -432,19 +432,19 @@ Figure: a 5x5 square grid with one diagonal drawn from the top-left corner to th
 - **C.** 20  
 - **D.** 15
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q5. Probability 3 books together
 
 15 books are placed on a table. The probability that three of the books will always be together is x/y. The value of x is 1 and the value of y is ________.
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q6. Doctors in a queue
 
 In a queue of more than 10 doctors, Dr. A is 9th from the left end and Dr. B is 3rd from the right end; there are three doctors between Dr. A and Dr. B. A total of ________ doctors are there in the queue.
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q7. Football team selection (Phoenix/Devils)
 
@@ -455,7 +455,7 @@ Seven football players namely Gaurav, Harsh, Kunal, Lalit, Manish, Naman and Ojh
 - **C.** Kunal, Harsh, Lalit, Ojha  
 - **D.** Lalit, Manish, Naman
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q8. Painter average daily earnings
 
@@ -466,7 +466,7 @@ A painter is paid x rupees for painting every 10 metres of a wall and y rupees f
 - **C.** 10x + (8/5)y  
 - **D.** 5x + 8y
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q9. Speeds of A, B, C, D
 
@@ -477,7 +477,7 @@ The difference between A's speed and B's speed is 3 km/hr. C's speed is twice th
 - **C.** 21 km/hr  
 - **D.** 24 km/hr
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q10. Two dice sum 5
 
@@ -488,7 +488,7 @@ Two dice are thrown simultaneously. What is the probability that the sum of the 
 - **C.** 2/27  
 - **D.** 1/12
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q11. Alphanumeric sequence
 
@@ -499,7 +499,7 @@ Which of the following will come in place of the question mark (?) in the sequen
 - **C.** PYC4  
 - **D.** PW4C
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q12. Blood relation - photograph (Rita)
 
@@ -510,13 +510,13 @@ Pointing to a photograph Rita said, "he is the son-in-law of the grand mother of
 - **C.** Nephew  
 - **D.** Brother
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q13. Seating in a row
 
 Arpita, Purna, Rina, Xola, Sofia and Zain are sitting in a row. Sofia and Zain are in the center. Arpita and Purna are at the ends. Rina is sitting just to the left of Arpita. ________ is to the immediate right of Purna.
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q14. Convolution output y(1)
 
@@ -527,7 +527,7 @@ Let the input signal be x(t) = e^(-2t) u(t), where u(t) is the unit step functio
 - **C.** 0.632  
 - **D.** 0.500
 
-<sub>Topics: Signals & Systems · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Signals & Systems · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q15. Op-amp differentiator modeled as HPF
 
@@ -538,13 +538,13 @@ The op-amp shown in fig. 1 (Vin -> capacitor C -> inverting node A, feedback res
 - **C.** Cx = C1/(1+A0) & Rx = R1  
 - **D.** Cx = C1/A0 & Rx = (1+A0)R1
 
-<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q16. NMOS source follower with diode-connected load
 
 The N-channel MOS transistor has unCox = 100 uA/V^2 and threshold voltage 1 V. Circuit: upper NMOS (W/L = 4) with drain at Vdd, gate at Vin, source at node Vx; lower NMOS (W/L = 1) diode-connected (gate tied to drain at Vx), source to ground. The value of Vx when Vdd and Vin are set to 6 V and 2 V respectively will be ________ V.
 
-<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q17. Fourier transform of staircase pulse
 
@@ -555,7 +555,7 @@ x(t) = 2 for 0 &lt; t &lt; 1, 3 for 1 &lt; t &lt; 2, 0 otherwise. If the Fourier
 - **C.** 5  
 - **D.** 8
 
-<sub>Topics: Signals & Systems · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Signals & Systems · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q18. Current in series RL circuit
 
@@ -566,7 +566,7 @@ In the circuit with source vs, a 20 ohm resistor in series with a 20 mH inductor
 - **C.** 20.4 cos(200t - 11.31 deg) A  
 - **D.** 20.4 cos(200t + 11.31 deg) A
 
-<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q19. PN diode vs Schottky diode states
 
@@ -577,7 +577,7 @@ A 10 V source feeds a node through a 1 kohm resistor; PN diode D1 is connected f
 - **C.** Both D1 and D2 ON  
 - **D.** Both D1 and D2 OFF
 
-<sub>Topics: Analog Electronics, Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Analog Electronics, Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q20. RC network time constant
 
@@ -588,7 +588,7 @@ In an industrial motor control panel, a voltage monitoring circuit uses an RC fi
 - **C.** 15 us  
 - **D.** 25 us
 
-<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q21. Maximum average power transfer to R
 
@@ -599,13 +599,13 @@ Circuit: j1 ohm inductor on the left branch, 3 ohm resistor connecting to a node
 - **C.** 3.798 W  
 - **D.** 7.285 W
 
-<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q22. BJT self-bias emitter current
 
 In an NPN amplifier circuit using self bias (voltage-divider R1, R2 at base, RC at collector, RE at emitter), base current IB = 300 uA and alpha = 0.98. Find emitter current IE. Answer ____ mA.
 
-<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q23. Marathon finishing order
 
@@ -616,7 +616,7 @@ Four runners (R1, R2, R3 and R4) completed a marathon. R1 finished before R4 but
 - **C.** R3  
 - **D.** R4
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q24. Resistance seen at MOS source
 
@@ -627,7 +627,7 @@ For the MOS circuit (M1 with gate at Vin, drain to load ZL to VDD with Vout at d
 - **C.** 1/(gm + gmb)  
 - **D.** gm/(gm + gmb)
 
-<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q25. Average power in 5 ohm resistor
 
@@ -638,7 +638,7 @@ Circuit: -j4 ohm capacitor branch, j1 ohm inductor in series, 2∠0° A current 
 - **C.** 3.21 W  
 - **D.** 2.64 W
 
-<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q26. Equivalent impedance of AC network
 
@@ -649,7 +649,7 @@ Find the equivalent impedance Zeq of the linear passive network shown (elements:
 - **C.** (14/15 - j16/5) ohm  
 - **D.** (16/5 - j14/15) ohm
 
-<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q27. RC charging wait time
 
@@ -660,7 +660,7 @@ A heart rate monitoring device uses an RC circuit with R = 100 kohm and C = 1 uF
 - **C.** 100 ms  
 - **D.** 50 ms
 
-<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q28. BJT base drive current
 
@@ -671,7 +671,7 @@ A BJT is connected in common emitter mode and operated in the active region with
 - **C.** 0.22 uA  
 - **D.** 0.3 uA
 
-<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q29. IC 555 astable charging vs discharging time
 
@@ -682,7 +682,7 @@ An IC 555 in astable multivibrator mode with RA = RB = 20 kohm and C = 1 pF, wit
 - **C.** Tcharging = Tdischarging  
 - **D.** Tcharging = 1/Tdischarging
 
-<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q30. Switched-capacitor effective resistance
 
@@ -693,7 +693,7 @@ A switched-capacitor circuit uses a 1 pF capacitor switched between input and vi
 - **C.** 2 Mohm  
 - **D.** 4 kohm
 
-<sub>Topics: Analog Electronics, Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Analog Electronics, Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q31. Power in 12 ohm resistor
 
@@ -704,7 +704,7 @@ Resistive network: 6 A current source with 2 ohm shunt, 1 ohm series (voltage Vx
 - **C.** 1.92 W  
 - **D.** 3.84 W
 
-<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q32. Op-amp RC capacitor voltage
 
@@ -715,7 +715,7 @@ An op-amp circuit with three resistors R and a capacitor C (capacitor at the non
 - **C.** 5e^(-100t/3) u(t) V  
 - **D.** 10e^(-100t/3) u(t) V
 
-<sub>Topics: Analog Electronics, Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Analog Electronics, Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q33. Diode circuit output peak
 
@@ -726,7 +726,7 @@ A 1 mA current source from 10 V feeds output node Vo, then a 1 kohm resistor to 
 - **C.** 4 V  
 - **D.** -4 V
 
-<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q34. Teachers in schools
 
@@ -737,7 +737,7 @@ Five teachers I, J, K, L and M teach in four different schools. M and K do not t
 - **C.** Model School  
 - **D.** Cannot be determined
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q35. Ripple factor of inductor filter
 
@@ -748,7 +748,7 @@ The output voltage across the load resistance of an inductor filter connected to
 - **C.** 0.0208  
 - **D.** 0.0375
 
-<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Analog Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q36. 4:1 MUX output
 
@@ -759,7 +759,7 @@ A 4:1 MUX has input I0 = 0 (grounded) and I1 = I2 = I3 = 1, with select lines S1
 - **C.** X+Y  
 - **D.** X'+Y'
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q37. RTL toggle/load flip-flop final value
 
@@ -770,7 +770,7 @@ Verilog: module seq(input clk, reset, sel, d, output reg q); always @(posedge cl
 - **C.** X  
 - **D.** Z
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q38. PROM size for dual mux selection logic
 
@@ -781,7 +781,7 @@ A digital control system for a smart irrigation unit uses dual 4-to-1 multiplexe
 - **C.** 256 bits  
 - **D.** 512 bits
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q39. Setup slack (static timing analysis)
 
@@ -792,7 +792,7 @@ Tclk = 10 ns. CLK -> FF1 clock wire: tmin 1 ns, tmax 2 ns. FF1 tclk-q min 9 ns, 
 - **C.** 5 ns  
 - **D.** -5 ns
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q40. C macro/shift operator output
 
@@ -803,13 +803,13 @@ What will be the output? #include &lt;stdio.h> #define $ a #define _ b static in
 - **C.** 8  
 - **D.** Compile time error
 
-<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q41. BCD counter after 7 pulses
 
 A BCD counter counts from 0000 to 1001 and then resets. If the counter is initially at 0110 (BCD) and receives 7 clock pulses, the final count will be ________ (BCD). Express your answer as a 4-digit binary number.
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q42. C program output (digit-weighted sum)
 
@@ -820,7 +820,7 @@ What will be the output? int main() { int N = 1111101; int a = 2; int res = 0; w
 - **C.** 251  
 - **D.** Compile time error
 
-<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q43. Discrete-time system properties
 
@@ -831,13 +831,13 @@ A discrete-time system satisfies y[n] = 3x[n] - 2x[n-1]. Which property is true?
 - **C.** Non-linear but time invariant  
 - **D.** Linear but unstable
 
-<sub>Topics: Signals & Systems · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Signals & Systems · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q44. 3-input NAND HIGH output count
 
 A 3-input NAND gate has the input combinations ABC = 000, 001, 010, 011, 100, 101, 110, 111 applied sequentially. Count the number of times the output is HIGH (logic 1).
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q45. Letter pairs in PRECISE
 
@@ -848,7 +848,7 @@ How many such pairs of letters are there in the word 'PRECISE' which has as many
 - **C.** 2  
 - **D.** 3
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q46. Fixing WNS after place-and-route
 
@@ -859,7 +859,7 @@ An ASIC targeting 1 GHz has completed place-and-route. The timing report shows a
 - **C.** Increase the drive strength uniformly across every standard cell in the design.  
 - **D.** Replace all flip-flops on the failing path with lower setup-time library cells.
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q47. Flip-flop type realized by SR circuit
 
@@ -870,7 +870,7 @@ A circuit with input X and feedback from Q/Q' through two inverters and two AND 
 - **C.** JK Flip Flop where J = K = X  
 - **D.** None of these options
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q48. Synchronous counter 0-3-1-2
 
@@ -881,7 +881,7 @@ The correct implementation of a synchronous counter for the count sequence 0 -> 
 - **C.** two T flip-flops with T1 = 0 and T0 = Q1'  
 - **D.** two T flip-flops with T1 = 1 and T0 = Q1 (options were circuit diagrams)
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q49. PROM size for traffic light FSM
 
@@ -892,7 +892,7 @@ A traffic light controller uses a PROM to store the next state logic. Inputs: 3 
 - **C.** 864 bits  
 - **D.** 1152 bits
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q50. Microcontroller loop count
 
@@ -903,7 +903,7 @@ Pseudocode: count = 0; while (count &lt; 5) { if (INPUT == HIGH) count = count +
 - **C.** 6  
 - **D.** 7
 
-<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q51. 8086 assembly CX value
 
@@ -914,7 +914,7 @@ MOV AX, 0005H; MOV BX, 0003H; MOV CX, 0000H; L1: ADD CX, AX; DEC BX; JNZ L1; SUB
 - **C.** 0011H  
 - **D.** 0015H
 
-<sub>Topics: Digital Electronics, Code Output (C/C++/Java/Python) · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics, Code Output (C/C++/Java/Python) · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q52. Norton to Thevenin conversion
 
@@ -925,7 +925,7 @@ Circuit: current source Isc in parallel with r, load R across terminals A-B. If 
 - **C.** VTh = 1.5 V, RTh = 1.5 ohm  
 - **D.** VTh = 24 V, RTh = 4 ohm
 
-<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q53. CMOS 3-input NAND delay with parasitics
 
@@ -936,7 +936,7 @@ A 3-input CMOS NAND gate (PMOS P1-P3 in parallel, NMOS N1-N3 in series) is shown
 - **C.** 16.5 msec  
 - **D.** 9.1 msec
 
-<sub>Topics: Digital Electronics, Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
+<sub>Topics: Digital Electronics, Circuits · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Hyderabad (2026-10-08)</sub>
 
 ### Q54. Minterm expression equivalence
 
@@ -947,7 +947,7 @@ Consider F(w, x, y, z) = Σ(0, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15). F can be expr
 - **C.** Σ(0-15) - Π(1,2,4,8,13)  
 - **D.** Π(0-7) + Σ(0-7) - Σ(1,2,4,8,13)
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08)</sub>
 
 ### Q55. Aliasing when sampling at 30 kHz
 
@@ -958,7 +958,7 @@ A sensor signal contains frequency components up to 18 kHz. An engineer samples 
 - **C.** Aliasing occurs only if the sampling frequency is below 18 kHz.  
 - **D.** Increasing the ADC resolution eliminates aliasing.
 
-<sub>Topics: Signals & Systems · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08)</sub>
+<sub>Topics: Signals & Systems · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08)</sub>
 
 ### Q56. Piggy bank savings of five friends
 
@@ -969,25 +969,25 @@ Five friends - Rohan, Sia, Tanu, Varun and Zoya - save money in their piggy bank
 - **C.** Rs 300  
 - **D.** Rs 320
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q57. Ripple counter settling time
 
 A 4-bit ripple counter using JK flip-flops has a propagation delay of 12 ns per flip-flop. When the counter transitions from 1111 to 0000, the maximum settling time is ________ ns.
 
-<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08)</sub>
+<sub>Topics: Digital Electronics · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08)</sub>
 
 ### Q58. Day of week after 15 days
 
 If today is Wednesday, ________ will be the day of the week after 15 days. (fill in the blank)
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q59. Number arrangement machine
 
 A number arrangement machine, when given an input line of numbers, rearranges them following a particular rule in each step. Illustration: Input: 531842, 764125, 902317, 648531, 287964, 413256. Step I: 8, 12, 3, 15, 21, 9. Step II: 15, 13, 19, 12, 15, 12. Step III: 289, 313, 370, 369, 666, 225. Step IV: 64, 353, 1. Step V: 10, 11, 1. Step V is the last step. As per the rules followed in the above steps, find the output for the input: 825431, 370962, 641528, 954210, 718346, 260871. Step V of the above input is ________.
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q60. Streaming plan subscribers
 
@@ -998,7 +998,7 @@ A U.S. streaming service offers three plans: Basic at $15, Standard at $25 and P
 - **C.** 320  
 - **D.** 300
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×2 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ## 2026-10-08 · IIT Bombay · FTE
 

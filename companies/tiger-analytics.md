@@ -1,6 +1,6 @@
 # Tiger Analytics
 
-**9 questions** · 5 drives · latest 2 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 5 drives · latest 4 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 5 · [Python & Pandas](../topics/python-pandas.md) 2 · [Binary Search](../topics/binary-search.md) 1 · [Sliding Window](../topics/sliding-window.md) 1 · [SQL](../topics/sql.md) 1 · [Aptitude](../topics/aptitude.md) 1  
 **Seen at:** IIIT Allahabad, IIT BHU
@@ -78,7 +78,7 @@ Pattern:
 
 Individual questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3048) · Also asked at: IIT BHU (2026-11-02)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3048) · Also asked at: IIT BHU ×2 (last 2026-11-04)</sub>
 
 ## 2026-10-28 · IIT BHU · FTE
 

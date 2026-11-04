@@ -1,9 +1,10 @@
 # Sliding Window
 
-24 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+25 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Smallest window size with OR at least S](../companies/capital-one.md#q2-smallest-window-size-with-or-at-least-s) | ≈ [LC 2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) Medium |
 | 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Smallest Covering Window](../companies/commotion.md#q2-smallest-covering-window) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Minimum window substring](../companies/unknown.md#q2-minimum-window-substring) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [Sliding window problem](../companies/tiger-analytics.md#q2-sliding-window-problem) | ≈ [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |

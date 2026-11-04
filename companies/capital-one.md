@@ -1,13 +1,19 @@
 # Capital One
 
-**13 questions** · 7 drives · latest 3 Nov 2026 · [9 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**17 questions** · 9 drives · latest 4 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Arrays](../topics/arrays.md) 4 · [OA Format](../topics/oa-format.md) 3 · [Sliding Window](../topics/sliding-window.md) 2 · [Heaps](../topics/heaps.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · [SQL](../topics/sql.md) 1 · +2 more  
-**Seen at:** IIT BHU, IIT Bombay, IIT Hyderabad, IIT Kharagpur
+**Asks about:** [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 4 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 2 · [Heaps](../topics/heaps.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · +4 more  
+**Seen at:** IIT BHU, IIT Bombay, IIT Hyderabad, IIT Kharagpur, IIT Madras, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · VNIT Nagpur · FTE · Business Analyst](#2026-11-04--vnit-nagpur--fte--business-analyst)
+  - [Capital One Business Analyst OA overview](#q1-capital-one-business-analyst-oa-overview)
+- [2026-11-04 · IIT Madras · FTE](#2026-11-04--iit-madras--fte)
+  - [Maximum strength chain with prime factor count constraint](#q1-maximum-strength-chain-with-prime-factor-count-constraint)
+  - [Smallest window size with OR at least S](#q2-smallest-window-size-with-or-at-least-s)
+  - [Shortest path to reach all k targets in grid](#q3-shortest-path-to-reach-all-k-targets-in-grid)
 - [2026-11-03 · Unknown · FTE · Business Analyst](#2026-11-03--unknown--fte--business-analyst)
   - [Capital One Business Analyst OA topics](#q1-capital-one-business-analyst-oa-topics)
 - [2026-11-03 · IIT Kharagpur · FTE](#2026-11-03--iit-kharagpur--fte)
@@ -32,6 +38,40 @@
 </details>
 
 ---
+
+## 2026-11-04 · VNIT Nagpur · FTE · Business Analyst
+
+### Q1. Capital One Business Analyst OA overview
+
+The OA mainly has data science related MCQs and some Python coding questions; difficulty was described as easy to medium.
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/natwest-oa/2026-11.jsonl#L26)</sub>
+
+## 2026-11-04 · IIT Madras · FTE
+
+### Q1. Maximum strength chain with prime factor count constraint
+
+You are given a list of numbers, each with a serial number (= strength). Find a chain of numbers to choose such that the total strength is maximum and the number of prime factors between adjacent numbers in the chain differs by at most 1.
+
+(Exact input format and constraints not given.)
+
+<sub>Topics: DP, Math · Same idea: [LeetCode 300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (Medium), DP over sequence with transition constraint, maximize chain value · Source: [chat, 4 Nov](../archive/capital-one-oa/2026-11.jsonl#L45)</sub>
+
+### Q2. Smallest window size with OR at least S
+
+Find the smallest window size such that the bitwise OR of all possible windows of that size in an array is at least S.
+
+(Exact constraints not given.)
+
+<sub>Topics: Bit Manipulation, Sliding Window, Binary Search · Same idea: [LeetCode 2411. Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) (Medium), sliding window tracking bitwise OR of subarrays · Source: [chat, 4 Nov](../archive/capital-one-oa/2026-11.jsonl#L45)</sub>
+
+### Q3. Shortest path to reach all k targets in grid
+
+Given a grid with walls, find the shortest path to reach all k targets.
+
+(Exact constraints not given.)
+
+<sub>Topics: Graphs · Same idea: [LeetCode 864. Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) (Hard), BFS on grid with bitmask of collected targets · Source: [chat, 4 Nov](../archive/capital-one-oa/2026-11.jsonl#L45)</sub>
 
 ## 2026-11-03 · Unknown · FTE · Business Analyst
 

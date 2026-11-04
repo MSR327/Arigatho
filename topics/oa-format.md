@@ -1,9 +1,12 @@
 # OA Format
 
-507 questions from 102 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+510 questions from 103 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Amazon](../companies/amazon.md) | IIT Madras | [Amazon OA overview: DSA and debugging sections](../companies/amazon.md#q1-amazon-oa-overview-dsa-and-debugging-sections) | |
+| 2026-11-04 | [Wex](../companies/wex.md) | IIT Guwahati | [Wex OA pattern](../companies/wex.md#q1-wex-oa-pattern) | |
+| 2026-11-04 | [Capital One](../companies/capital-one.md) | VNIT Nagpur | [Capital One Business Analyst OA overview](../companies/capital-one.md#q1-capital-one-business-analyst-oa-overview) | |
 | 2026-11-04 | [Tech Mahindra](../companies/tech-mahindra.md) | Unknown | [Tech Mahindra Technorise interview topics](../companies/tech-mahindra.md#q1-tech-mahindra-technorise-interview-topics) | |
 | 2026-11-03 | [Shadowfax](../companies/shadowfax.md) | IIT Guwahati | [Shadowfax OA pattern](../companies/shadowfax.md#q1-shadowfax-oa-pattern) | |
 | 2026-11-03 | [Outreach](../companies/outreach.md) | IIT Bombay | [Outreach AI OA pattern](../companies/outreach.md#q1-outreach-ai-oa-pattern) | |

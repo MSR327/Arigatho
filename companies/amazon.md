@@ -1,13 +1,15 @@
 # Amazon
 
-**5 questions** · 4 drives · latest 3 Nov 2026 · [← all companies](../README.md#companies)
+**6 questions** · 5 drives · latest 4 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
-**Seen at:** BITS, IIT BHU, IIT Guwahati, MNNIT Allahabad, NIT Surathkal
+**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
+**Seen at:** BITS, IIT BHU, IIT Guwahati, IIT Madras, MNNIT Allahabad, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · IIT Madras · FTE](#2026-11-04--iit-madras--fte)
+  - [Amazon OA overview: DSA and debugging sections](#q1-amazon-oa-overview-dsa-and-debugging-sections)
 - [2026-11-01 · MNNIT Allahabad · FTE](#2026-11-01--mnnit-allahabad--fte)
   - [Amazon OA pattern](#q1-amazon-oa-pattern)
 - [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
@@ -21,6 +23,15 @@
 </details>
 
 ---
+
+## 2026-11-04 · IIT Madras · FTE
+
+### Q1. Amazon OA overview: DSA and debugging sections
+
+1. DSA questions were random; some were weird DP problems, but many were standard problems, e.g. longest subarray of 1s with at most k swaps of 0s.
+2. Debugging section (AI-assisted): choose a stack you are at least familiar with. The AI will not generate code unless you figure out the problematic part. The problem description gives enough information, so read it properly.
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/amazon-oa/2026-11.jsonl#L32)</sub>
 
 ## 2026-11-01 · MNNIT Allahabad · FTE
 
