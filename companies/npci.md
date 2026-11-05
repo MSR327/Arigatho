@@ -1,13 +1,19 @@
 # NPCI
 
-**2 questions** · 2 drives · latest 23 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 5 drives · latest 4 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Graphs](../topics/graphs.md) 1 · [Greedy](../topics/greedy.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Aptitude](../topics/aptitude.md) 1  
-**Seen at:** IIT BHU, IIT Jodhpur
+**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Graphs](../topics/graphs.md) 1 · [Greedy](../topics/greedy.md) 1 · [Aptitude](../topics/aptitude.md) 1 · [Arrays](../topics/arrays.md) 1  
+**Seen at:** IIT BHU, IIT Bombay, IIT Jodhpur, IIT Kanpur, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · VNIT Nagpur · FTE · AI · Other round](#2026-11-04--vnit-nagpur--fte--ai--other-round)
+  - [NPCI AI round contents](#q1-npci-ai-round-contents)
+- [2026-11-04 · IIT Kanpur · FTE](#2026-11-04--iit-kanpur--fte)
+  - [NPCI AI round: traverse and modify array](#q1-npci-ai-round-traverse-and-modify-array)
+- [2026-11-04 · IIT Bombay · FTE](#2026-11-04--iit-bombay--fte)
+  - [NPCI OA pattern](#q1-npci-oa-pattern)
 - [2026-10-23 · IIT Jodhpur · FTE](#2026-10-23--iit-jodhpur--fte)
   - [NPCI OA aptitude round](#q1-npci-oa-aptitude-round)
 - [2026-10-18 · IIT BHU · FTE](#2026-10-18--iit-bhu--fte)
@@ -16,6 +22,34 @@
 </details>
 
 ---
+
+## 2026-11-04 · VNIT Nagpur · FTE · AI · Other round
+
+### Q1. NPCI AI round contents
+
+The AI round asks a data science related coding question and some MCQs on core subjects. The exact questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/campus-iit-patna-placements/2026-11.jsonl#L14)</sub>
+
+## 2026-11-04 · IIT Kanpur · FTE
+
+### Q1. NPCI AI round: traverse and modify array
+
+The poster said the NPCI AI round was very easy: they had to traverse an array and modify it with a little logic. The exact problem statement was not shared.
+
+<sub>Topics: Arrays, OA Format · Source: [chat, 4 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L83)</sub>
+
+## 2026-11-04 · IIT Bombay · FTE
+
+### Q1. NPCI OA pattern
+
+- Aptitude: 30 questions
+- Coding: 2 questions
+- Vibe coding round
+
+All rounds were eliminative.
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L23)</sub>
 
 ## 2026-10-23 · IIT Jodhpur · FTE
 

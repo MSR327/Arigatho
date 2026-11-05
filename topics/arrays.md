@@ -1,9 +1,16 @@
 # Arrays
 
-192 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+199 questions from 58 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Maximum subarray sum](../companies/pluswealth.md#q7-maximum-subarray-sum) | [LC 53](https://leetcode.com/problems/maximum-subarray/) Medium |
+| 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Largest subset of intervals with one intersecting all others](../companies/cognizant.md#q4-largest-subset-of-intervals-with-one-intersecting-all-others) | |
+| 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Count intervals containing each query point](../companies/cognizant.md#q3-count-intervals-containing-each-query-point) | [LC 2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) Hard |
+| 2026-11-04 | [Unknown](../companies/unknown.md) | IIT BHU | [Stacked Cuboid Coverage](../companies/unknown.md#q3-stacked-cuboid-coverage) | |
+| 2026-11-04 | [Point72](../companies/point72.md) | IIT BHU | [Minimum slippage cost for exactly k orders](../companies/point72.md#q1-minimum-slippage-cost-for-exactly-k-orders) | ≈ [CF 524A](https://codeforces.com/problemset/problem/524/A) rated 1600 |
+| 2026-11-04 | [Navi](../companies/navi.md) | IIT Hyderabad | [Coordinate in diagonal zigzag filled square grid](../companies/navi.md#q1-coordinate-in-diagonal-zigzag-filled-square-grid) | |
+| 2026-11-04 | [NPCI](../companies/npci.md) | IIT Kanpur | [NPCI AI round: traverse and modify array](../companies/npci.md#q1-npci-ai-round-traverse-and-modify-array) | |
 | 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Kharagpur | [Next permutation of a word](../companies/flipkart.md#q2-next-permutation-of-a-word) | [LC 31](https://leetcode.com/problems/next-permutation/) Medium |
 | 2026-11-03 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Roorkee | [Array transformation by removing two elements](../companies/thoughtspot.md#q2-array-transformation-by-removing-two-elements) | |
 | 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Madras | [Largest rectangle in a histogram](../companies/flipkart.md#q3-largest-rectangle-in-a-histogram) | [LC 84](https://leetcode.com/problems/largest-rectangle-in-histogram/) Hard |

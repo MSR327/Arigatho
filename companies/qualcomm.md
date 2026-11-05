@@ -1,13 +1,15 @@
 # Qualcomm
 
-**3 questions** · 3 drives · latest 3 Nov 2026 · [← all companies](../README.md#companies)
+**4 questions** · 4 drives · latest 4 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3  
-**Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal
+**Asks about:** [OA Format](../topics/oa-format.md) 4  
+**Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal, NIT Kurukshetra
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · NIT Kurukshetra · FTE](#2026-11-04--nit-kurukshetra--fte)
+  - [Qualcomm OA topics](#q1-qualcomm-oa-topics)
 - [2026-10-31 · IIT Roorkee · FTE · Software](#2026-10-31--iit-roorkee--fte--software)
   - [Qualcomm software OA topics](#q1-qualcomm-software-oa-topics)
 - [2026-10-31 · IIT Guwahati · FTE](#2026-10-31--iit-guwahati--fte)
@@ -18,6 +20,14 @@
 </details>
 
 ---
+
+## 2026-11-04 · NIT Kurukshetra · FTE
+
+### Q1. Qualcomm OA topics
+
+The OA covered aptitude, C bit manipulation, Python, and digital design. No specific questions were shared.
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L18)</sub>
 
 ## 2026-10-31 · IIT Roorkee · FTE · Software
 

@@ -1,13 +1,15 @@
 # Point72
 
-**6 questions** · 3 drives · latest 3 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**7 questions** · 4 drives · latest 4 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Greedy](../topics/greedy.md) 3 · [OA Format](../topics/oa-format.md) 2 · [Heaps](../topics/heaps.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Math](../topics/math.md) 1 · [Hashing](../topics/hashing.md) 1 · +1 more  
+**Asks about:** [Greedy](../topics/greedy.md) 4 · [OA Format](../topics/oa-format.md) 2 · [Sorting](../topics/sorting.md) 2 · [Heaps](../topics/heaps.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Math](../topics/math.md) 1 · +2 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Madras
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · IIT BHU · FTE](#2026-11-04--iit-bhu--fte)
+  - [Minimum slippage cost for exactly k orders](#q1-minimum-slippage-cost-for-exactly-k-orders)
 - [2026-11-03 · Unknown · FTE](#2026-11-03--unknown--fte)
   - [Quant OA topics](#q1-quant-oa-topics)
 - [2026-11-03 · IIT Madras · FTE](#2026-11-03--iit-madras--fte)
@@ -21,6 +23,32 @@
 </details>
 
 ---
+
+## 2026-11-04 · IIT BHU · FTE
+
+### Q1. Minimum slippage cost for exactly k orders
+
+Mira has accumulated a backlog of n pending orders to send to the market. The i-th order has a notional size of p[i] lots.
+
+The exchange throttle limits each trader to at most c order submissions on any single day. Days are numbered 1, 2, 3, ..., starting from today.
+
+An order with notional size p[i] executed on day d incurs a slippage cost of d × p[i]. The total slippage cost is the sum of slippage costs across all executed orders. Each order can be executed at most once.
+
+Task: For each k from 1 to n, determine the minimum total slippage cost Mira can incur if she executes exactly k orders, subject to the daily limit of c orders per day. Return all n answers in order (answer for k = 1, ..., k = n).
+
+Function:
+
+```cpp
+vector<long> minSlippageCost(int c, vector<int> p)
+```
+
+- `c`: maximum number of orders executed in a single day.
+- `p[n]`: p[i] is the notional size of the i-th order.
+- Returns a vector<long> of length n where the k-th element (1-indexed) is the minimum total slippage cost when executing exactly k orders.
+
+Constraints and examples were not included in the message.
+
+<sub>Topics: Greedy, Sorting, Arrays · Same idea: [Codeforces 524A. Возможно, вы знаете этих людей?](https://codeforces.com/problemset/problem/524/A) (rated 1600) · Source: [chat, 4 Nov](../archive/inter-nit/2026-11.jsonl#L417)</sub>
 
 ## 2026-11-03 · Unknown · FTE
 

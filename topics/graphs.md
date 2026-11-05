@@ -1,9 +1,10 @@
 # Graphs
 
-119 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+120 questions from 36 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Dijkstra's shortest path](../companies/pluswealth.md#q5-dijkstras-shortest-path) | [LC 743](https://leetcode.com/problems/network-delay-time/) Medium |
 | 2026-11-04 | [Deloitte](../companies/deloitte.md) | IIT Hyderabad | [Job scheduling with dependencies](../companies/deloitte.md#q1-job-scheduling-with-dependencies) | ≈ [LC 1834](https://leetcode.com/problems/single-threaded-cpu/) Medium |
 | 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Shortest path to reach all k targets in grid](../companies/capital-one.md#q3-shortest-path-to-reach-all-k-targets-in-grid) | ≈ [LC 864](https://leetcode.com/problems/shortest-path-to-get-all-keys/) Hard |
 | 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Max constant speed path from node 0 to n-1](../companies/thoughtspot.md#q3-max-constant-speed-path-from-node-0-to-n-1) | ≈ [LC 1631](https://leetcode.com/problems/path-with-minimum-effort/) Medium |

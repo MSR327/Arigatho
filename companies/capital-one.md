@@ -1,13 +1,17 @@
 # Capital One
 
-**17 questions** · 9 drives · latest 4 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**19 questions** · 11 drives · latest 5 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 4 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 2 · [Heaps](../topics/heaps.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · +4 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Arrays](../topics/arrays.md) 4 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 2 · [Heaps](../topics/heaps.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · +4 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Hyderabad, IIT Kharagpur, IIT Madras, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · Unknown · FTE · Interview](#2026-11-05--unknown--fte--interview)
+  - [Capital One round 2 pattern](#q1-capital-one-round-2-pattern)
+- [2026-11-05 · Unknown · FTE · Other round](#2026-11-05--unknown--fte--other-round)
+  - [Capital One round 2 pattern](#q1-capital-one-round-2-pattern-1)
 - [2026-11-04 · VNIT Nagpur · FTE · Business Analyst](#2026-11-04--vnit-nagpur--fte--business-analyst)
   - [Capital One Business Analyst OA overview](#q1-capital-one-business-analyst-oa-overview)
 - [2026-11-04 · IIT Madras · FTE](#2026-11-04--iit-madras--fte)
@@ -38,6 +42,28 @@
 </details>
 
 ---
+
+## 2026-11-05 · Unknown · FTE · Interview
+
+### Q1. Capital One round 2 pattern
+
+Duration: around 45 minutes
+
+Coding: 1 medium DSA problem
+
+System Design: one small design problem
+
+MCQs: not reported in this format
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L213)</sub>
+
+## 2026-11-05 · Unknown · FTE · Other round
+
+### Q1. Capital One round 2 pattern
+
+Round 2 had DSA coding and CS fundamentals.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L139)</sub>
 
 ## 2026-11-04 · VNIT Nagpur · FTE · Business Analyst
 
@@ -137,7 +163,7 @@ Find pairs whose gcd == K.
 
 (Full statement and constraints were not given.)
 
-<sub>Topics: Math, Arrays · Same idea: [LeetCode 2447. Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) (Medium), counting with gcd equal to K · Source: [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L51), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L52), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L53) · Also asked at: IIT Kharagpur (2026-11-03)</sub>
+<sub>Topics: Math, Arrays · Same idea: [LeetCode 2447. Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) (Medium), counting with gcd equal to K · Source: [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L51), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L52), [chat, 2 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L53) · Also asked at: IIT Kharagpur ×2 (last 2026-11-04)</sub>
 
 ### Q2. Directed graph question
 

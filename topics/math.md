@@ -1,9 +1,12 @@
 # Math
 
-169 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+172 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Unknown](../companies/unknown.md) | IIT BHU | [Stacked Cuboid Coverage](../companies/unknown.md#q3-stacked-cuboid-coverage) | |
+| 2026-11-04 | [Unknown](../companies/unknown.md) | IIT BHU | [Count perfect squares from a digit string with underscores](../companies/unknown.md#q2-count-perfect-squares-from-a-digit-string-with-underscores) | |
+| 2026-11-04 | [Navi](../companies/navi.md) | IIT Hyderabad | [Coordinate in diagonal zigzag filled square grid](../companies/navi.md#q1-coordinate-in-diagonal-zigzag-filled-square-grid) | |
 | 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Maximum strength chain with prime factor count constraint](../companies/capital-one.md#q1-maximum-strength-chain-with-prime-factor-count-constraint) | ≈ [LC 300](https://leetcode.com/problems/longest-increasing-subsequence/) Medium |
 | 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Count ways to choose k pairs with distinct a, b and no equal diagonal differences](../companies/thoughtspot.md#q1-count-ways-to-choose-k-pairs-with-distinct-a-b-and-no-equal-diagonal-differences) | ≈ [LC 52](https://leetcode.com/problems/n-queens-ii/) Hard |
 | 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Kharagpur | [3D volume finding question](../companies/flipkart.md#q3-3d-volume-finding-question) | |

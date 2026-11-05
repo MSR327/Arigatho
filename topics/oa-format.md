@@ -1,9 +1,29 @@
 # OA Format
 
-510 questions from 103 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+530 questions from 106 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [Capital One](../companies/capital-one.md) | Unknown | [Capital One round 2 pattern](../companies/capital-one.md#q1-capital-one-round-2-pattern) | |
+| 2026-11-05 | [Capital One](../companies/capital-one.md) | Unknown | [Capital One round 2 pattern](../companies/capital-one.md#q1-capital-one-round-2-pattern-1) | |
+| 2026-11-04 | [Qualcomm](../companies/qualcomm.md) | NIT Kurukshetra | [Qualcomm OA topics](../companies/qualcomm.md#q1-qualcomm-oa-topics) | |
+| 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [String problem (first DSA question)](../companies/cognizant.md#q5-string-problem-first-dsa-question) | |
+| 2026-11-04 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [CBA OA round 2 format](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-round-2-format) | |
+| 2026-11-04 | [Accenture](../companies/accenture.md) | IIT Kharagpur/Kanpur | [Accenture ETE role OA structure](../companies/accenture.md#q1-accenture-ete-role-oa-structure) | |
+| 2026-11-04 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI Manager 1 OA pattern](../companies/icici.md#q1-icici-manager-1-oa-pattern) | |
+| 2026-11-04 | [ICICI](../companies/icici.md) | VNIT Nagpur | [ICICI Manager-1 OA and interview format](../companies/icici.md#q1-icici-manager-1-oa-and-interview-format) | |
+| 2026-11-04 | [Porter](../companies/porter.md) | VNIT Nagpur | [Porter OA pattern](../companies/porter.md#q1-porter-oa-pattern) | |
+| 2026-11-04 | [NPCI](../companies/npci.md) | VNIT Nagpur | [NPCI AI round contents](../companies/npci.md#q1-npci-ai-round-contents) | |
+| 2026-11-04 | [Visa](../companies/visa.md) | IIIT Allahabad | [Visa OA structure](../companies/visa.md#q1-visa-oa-structure) | |
+| 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Cognizant OA DSA difficulty](../companies/cognizant.md#q1-cognizant-oa-dsa-difficulty) | |
+| 2026-11-04 | [Accordion](../companies/accordion.md) | IIT Hyderabad | [Accordion Data & AI Analyst pattern](../companies/accordion.md#q1-accordion-data--ai-analyst-pattern) | |
+| 2026-11-04 | [ICICI](../companies/icici.md) | IIT Hyderabad | [ICICI Manager 1 OA pattern](../companies/icici.md#q1-icici-manager-1-oa-pattern-1) | |
+| 2026-11-04 | [NPCI](../companies/npci.md) | IIT Bombay | [NPCI OA pattern](../companies/npci.md#q1-npci-oa-pattern) | |
+| 2026-11-04 | [Unknown](../companies/unknown.md) | IIT Roorkee | [Aptitude OA topics and difficulty](../companies/unknown.md#q1-aptitude-oa-topics-and-difficulty) | |
+| 2026-11-04 | [ICICI](../companies/icici.md) | NIT Surathkal | [ICICI OA pattern at NIT Surathkal](../companies/icici.md#q1-icici-oa-pattern-at-nit-surathkal) | |
+| 2026-11-04 | [Wayfair](../companies/wayfair.md) | Thapar Institute of Engineering and Technology | [Wayfair OA format](../companies/wayfair.md#q1-wayfair-oa-format) | |
+| 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Cognizant ACE OA pattern](../companies/cognizant.md#q1-cognizant-ace-oa-pattern) | |
+| 2026-11-04 | [NPCI](../companies/npci.md) | IIT Kanpur | [NPCI AI round: traverse and modify array](../companies/npci.md#q1-npci-ai-round-traverse-and-modify-array) | |
 | 2026-11-04 | [Amazon](../companies/amazon.md) | IIT Madras | [Amazon OA overview: DSA and debugging sections](../companies/amazon.md#q1-amazon-oa-overview-dsa-and-debugging-sections) | |
 | 2026-11-04 | [Wex](../companies/wex.md) | IIT Guwahati | [Wex OA pattern](../companies/wex.md#q1-wex-oa-pattern) | |
 | 2026-11-04 | [Capital One](../companies/capital-one.md) | VNIT Nagpur | [Capital One Business Analyst OA overview](../companies/capital-one.md#q1-capital-one-business-analyst-oa-overview) | |

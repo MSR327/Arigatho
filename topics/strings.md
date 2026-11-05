@@ -1,9 +1,12 @@
 # Strings
 
-95 questions from 41 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+98 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [String problem (first DSA question)](../companies/cognizant.md#q5-string-problem-first-dsa-question) | |
+| 2026-11-04 | [Unknown](../companies/unknown.md) | IIT BHU | [Next permutation of a string](../companies/unknown.md#q1-next-permutation-of-a-string) | [LC 31](https://leetcode.com/problems/next-permutation/) Medium |
+| 2026-11-04 | [Wex](../companies/wex.md) | IIT Guwahati | [Minimum edit distance](../companies/wex.md#q2-minimum-edit-distance) | [LC 72](https://leetcode.com/problems/edit-distance/) Medium |
 | 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Kharagpur | [Next permutation of a word](../companies/flipkart.md#q2-next-permutation-of-a-word) | [LC 31](https://leetcode.com/problems/next-permutation/) Medium |
 | 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Smallest Covering Window](../companies/commotion.md#q2-smallest-covering-window) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Minimum window substring](../companies/unknown.md#q2-minimum-window-substring) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |

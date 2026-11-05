@@ -1,9 +1,12 @@
 # Trees
 
-55 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+58 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Tree DP with a time constraint](../companies/pluswealth.md#q3-tree-dp-with-a-time-constraint) | |
+| 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Maximum path sum in a tree](../companies/pluswealth.md#q2-maximum-path-sum-in-a-tree) | [LC 124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) Hard |
+| 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Binary Tree Top View](../companies/pluswealth.md#q1-binary-tree-top-view) | [GfG](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) |
 | 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Madras | [LCA in a binary tree given as root paths](../companies/flipkart.md#q2-lca-in-a-binary-tree-given-as-root-paths) | [LC 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) Medium |
 | 2026-11-02 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Count nodes with even/odd subtree children from LR/LL path strings](../companies/flipkart.md#q2-count-nodes-with-evenodd-subtree-children-from-lrll-path-strings) | ≈ [LC 1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) Medium |
 | 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [DP on trees question](../companies/eternal-zomato.md#q4-dp-on-trees-question) | |

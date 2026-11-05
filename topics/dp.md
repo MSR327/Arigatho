@@ -1,9 +1,15 @@
 # DP
 
-121 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+127 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Maximum subarray sum](../companies/pluswealth.md#q7-maximum-subarray-sum) | [LC 53](https://leetcode.com/problems/maximum-subarray/) Medium |
+| 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [0/1 Knapsack](../companies/pluswealth.md#q6-01-knapsack) | [GfG](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) |
+| 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Maximum reward under a budget](../companies/pluswealth.md#q4-maximum-reward-under-a-budget) | |
+| 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Tree DP with a time constraint](../companies/pluswealth.md#q3-tree-dp-with-a-time-constraint) | |
+| 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Domino coloring count (2 x N grid)](../companies/cognizant.md#q2-domino-coloring-count-2-x-n-grid) | |
+| 2026-11-04 | [Wex](../companies/wex.md) | IIT Guwahati | [Minimum edit distance](../companies/wex.md#q2-minimum-edit-distance) | [LC 72](https://leetcode.com/problems/edit-distance/) Medium |
 | 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Maximum strength chain with prime factor count constraint](../companies/capital-one.md#q1-maximum-strength-chain-with-prime-factor-count-constraint) | ≈ [LC 300](https://leetcode.com/problems/longest-increasing-subsequence/) Medium |
 | 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Count ways to choose k pairs with distinct a, b and no equal diagonal differences](../companies/thoughtspot.md#q1-count-ways-to-choose-k-pairs-with-distinct-a-b-and-no-equal-diagonal-differences) | ≈ [LC 52](https://leetcode.com/problems/n-queens-ii/) Hard |
 | 2026-11-03 | [ThoughtSpot](../companies/thoughtspot.md) | IIT Roorkee | [Minimum operations to make x equal to y](../companies/thoughtspot.md#q3-minimum-operations-to-make-x-equal-to-y) | ≈ [LC 991](https://leetcode.com/problems/broken-calculator/) Medium |

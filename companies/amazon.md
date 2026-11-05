@@ -3,7 +3,7 @@
 **6 questions** · 5 drives · latest 4 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 4 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
-**Seen at:** BITS, IIT BHU, IIT Guwahati, IIT Madras, MNNIT Allahabad, NIT Surathkal
+**Seen at:** BITS, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Madras, MNNIT Allahabad, NIT Surathkal, Thapar Institute
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -31,7 +31,7 @@
 1. DSA questions were random; some were weird DP problems, but many were standard problems, e.g. longest subarray of 1s with at most k swaps of 0s.
 2. Debugging section (AI-assisted): choose a stack you are at least familiar with. The AI will not generate code unless you figure out the problematic part. The problem description gives enough information, so read it properly.
 
-<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/amazon-oa/2026-11.jsonl#L32)</sub>
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/amazon-oa/2026-11.jsonl#L32) · Also asked at: Thapar Institute (2026-11-04), NIT Surathkal (2026-11-04), IIT Hyderabad (2026-11-04)</sub>
 
 ## 2026-11-01 · MNNIT Allahabad · FTE
 

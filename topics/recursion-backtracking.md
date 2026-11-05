@@ -1,9 +1,10 @@
 # Recursion/Backtracking
 
-27 questions from 14 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+28 questions from 14 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Unknown](../companies/unknown.md) | IIT BHU | [Count perfect squares from a digit string with underscores](../companies/unknown.md#q2-count-perfect-squares-from-a-digit-string-with-underscores) | |
 | 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Count ways to choose k pairs with distinct a, b and no equal diagonal differences](../companies/thoughtspot.md#q1-count-ways-to-choose-k-pairs-with-distinct-a-b-and-no-equal-diagonal-differences) | ≈ [LC 52](https://leetcode.com/problems/n-queens-ii/) Hard |
 | 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Madras | [Simple backtracking problem](../companies/flipkart.md#q1-simple-backtracking-problem) | ≈ [LC 46](https://leetcode.com/problems/permutations/) Medium |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Reverse a linked list recursively](../companies/unknown.md#q1-reverse-a-linked-list-recursively) | [LC 206](https://leetcode.com/problems/reverse-linked-list/) Easy |

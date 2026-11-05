@@ -1,9 +1,11 @@
 # Greedy
 
-79 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+81 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Largest subset of intervals with one intersecting all others](../companies/cognizant.md#q4-largest-subset-of-intervals-with-one-intersecting-all-others) | |
+| 2026-11-04 | [Point72](../companies/point72.md) | IIT BHU | [Minimum slippage cost for exactly k orders](../companies/point72.md#q1-minimum-slippage-cost-for-exactly-k-orders) | ≈ [CF 524A](https://codeforces.com/problemset/problem/524/A) rated 1600 |
 | 2026-11-03 | [Shadowfax](../companies/shadowfax.md) | IIT Guwahati | [Manpower Roster Optimisation (AI-assisted assignment)](../companies/shadowfax.md#q2-manpower-roster-optimisation-ai-assisted-assignment) | |
 | 2026-11-03 | [Deloitte](../companies/deloitte.md) | IIT Roorkee | [Warehouse order allocation (vibe coding)](../companies/deloitte.md#q1-warehouse-order-allocation-vibe-coding) | |
 | 2026-11-03 | [Point72](../companies/point72.md) | IIT Madras | [Maximum size of a K-multiple-free subset](../companies/point72.md#q1-maximum-size-of-a-k-multiple-free-subset) | ≈ [LC 2170](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) Medium |

@@ -1,13 +1,19 @@
 # Unknown
 
-**29 questions** · 17 drives · latest 3 Nov 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**33 questions** · 19 drives · latest 4 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [DP](../topics/dp.md) 4 · [Strings](../topics/strings.md) 3 · [Graphs](../topics/graphs.md) 3 · [Arrays](../topics/arrays.md) 3 · [Math](../topics/math.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +11 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 13 · [Strings](../topics/strings.md) 4 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Arrays](../topics/arrays.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Graphs](../topics/graphs.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +13 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · IIT Roorkee · FTE](#2026-11-04--iit-roorkee--fte)
+  - [Aptitude OA topics and difficulty](#q1-aptitude-oa-topics-and-difficulty)
+- [2026-11-04 · IIT BHU · FTE · AI Engineer](#2026-11-04--iit-bhu--fte--ai-engineer)
+  - [Next permutation of a string](#q1-next-permutation-of-a-string)
+  - [Count perfect squares from a digit string with underscores](#q2-count-perfect-squares-from-a-digit-string-with-underscores)
+  - [Stacked Cuboid Coverage](#q3-stacked-cuboid-coverage)
 - [2026-11-03 · VNIT Nagpur · FTE · CSE track](#2026-11-03--vnit-nagpur--fte--cse-track)
   - [CSE track OA pattern](#q1-cse-track-oa-pattern)
 - [2026-11-03 · IIT BHU · FTE](#2026-11-03--iit-bhu--fte)
@@ -58,6 +64,55 @@
 </details>
 
 ---
+
+## 2026-11-04 · IIT Roorkee · FTE
+
+### Q1. Aptitude OA topics and difficulty
+
+The test was moderate to high difficulty. Most people could do 12-13 questions. The topics were mixed and fairly random: clock questions, arrangement questions, and sequences. The company is not named in the messages.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 4 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L180), [chat, 4 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L181), [chat, 4 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L182), [chat, 4 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L183)</sub>
+
+## 2026-11-04 · IIT BHU · FTE · AI Engineer
+
+### Q1. Next permutation of a string
+
+Find the next permutation of a given string. If the next permutation is not possible, print "not possible".
+
+<sub>Topics: Strings, Two Pointers · Similar: [LeetCode 31. Next Permutation](https://leetcode.com/problems/next-permutation/) (Medium) · Source: [chat, 4 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L131)</sub>
+
+### Q2. Count perfect squares from a digit string with underscores
+
+Given a string of digits 0-9 and some underscores (_). Each underscore can be replaced by any digit. Find the total number of numbers that can be formed such that the number is a perfect square.
+
+- Length of string is at most 13.
+- The resulting number cannot start with 0.
+
+The poster solved it with simple recursion.
+
+<sub>Topics: Recursion/Backtracking, Math · Source: [chat, 4 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L131)</sub>
+
+### Q3. Stacked Cuboid Coverage
+
+Time Limit: 1.0 second, Memory Limit: 256 megabytes.
+
+You are given N rectangular cuboids stacked vertically one on top of another, ordered from 1 (bottom-most) to N (top-most), without any vertical gaps.
+
+The i-th cuboid has dimensions L_i x W_i x 1. All cuboids are aligned along a common vertical corner axis; the i-th cuboid spans [0, L_i] along x, [0, W_i] along y, and [i-1, i] along z.
+
+In isolation, a single cuboid requires a number of covering unit cubes equal to its total surface area.
+
+When the i-th cuboid is placed directly on top of the (i-1)-th, they share a horizontal rectangular contact region of area O_i. Due to the hidden contact faces and the shared step boundary, each adjacent contact region reduces the total number of unit cubes required by 3 * O_i.
+
+Calculate the minimum number of unit cubes required to cover the entire resulting 3D structure, including the bottom face of the first cuboid.
+
+Input:
+- First line: integer N (1 <= N <= 2*10^5).
+- Next N lines: two integers L_i and W_i (1 <= L_i, W_i <= 10^6), from bottom (i = 1) to top (i = N).
+
+Output: a single integer (the rest of the statement was cut off in the message). The formulas for surface area and O_i were also not included.
+
+<sub>Topics: Math, Arrays · Source: [chat, 4 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L131)</sub>
 
 ## 2026-11-03 · VNIT Nagpur · FTE · CSE track
 

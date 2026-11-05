@@ -1,13 +1,21 @@
 # Cognizant
 
-**23 questions** · 13 drives · latest 3 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**29 questions** · 15 drives · latest 4 Nov 2026 · [8 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Greedy](../topics/greedy.md) 5 · [Strings](../topics/strings.md) 3 · [Binary Search](../topics/binary-search.md) 2 · [DP](../topics/dp.md) 2 · [Trees](../topics/trees.md) 1 · [Sorting](../topics/sorting.md) 1 · [Other](../topics/other.md) 1 · +6 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 15 · [Greedy](../topics/greedy.md) 6 · [Strings](../topics/strings.md) 4 · [Binary Search](../topics/binary-search.md) 3 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Arrays](../topics/arrays.md) 3 · [Trees](../topics/trees.md) 1 · +6 more  
 **Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · IIT Guwahati · FTE · ACE Frontier - Senior Associate](#2026-11-04--iit-guwahati--fte--ace-frontier---senior-associate)
+  - [Cognizant ACE OA pattern](#q1-cognizant-ace-oa-pattern)
+- [2026-11-04 · IIT BHU · FTE](#2026-11-04--iit-bhu--fte)
+  - [Cognizant OA DSA difficulty](#q1-cognizant-oa-dsa-difficulty)
+  - [Domino coloring count (2 x N grid)](#q2-domino-coloring-count-2-x-n-grid)
+  - [Count intervals containing each query point](#q3-count-intervals-containing-each-query-point)
+  - [Largest subset of intervals with one intersecting all others](#q4-largest-subset-of-intervals-with-one-intersecting-all-others)
+  - [String problem (first DSA question)](#q5-string-problem-first-dsa-question)
 - [2026-11-02 · IIT Guwahati · FTE](#2026-11-02--iit-guwahati--fte)
   - [Cognizant DSA difficulty](#q1-cognizant-dsa-difficulty)
   - [Palindrome with equal characters at distance k](#q2-palindrome-with-equal-characters-at-distance-k)
@@ -48,6 +56,61 @@
 </details>
 
 ---
+
+## 2026-11-04 · IIT Guwahati · FTE · ACE Frontier - Senior Associate
+
+### Q1. Cognizant ACE OA pattern
+
+The OA had 3 DSA questions plus 20 MCQs. Everyone at IIT Guwahati got set 6. (Question statements were not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L48), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L51)</sub>
+
+## 2026-11-04 · IIT BHU · FTE
+
+### Q1. Cognizant OA DSA difficulty
+
+The DSA section had 3 questions: roughly 2 medium and 1 hard. Everyone on campus got the same questions, and one DSA question was repeated from another IIT. (Question statements were not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L55), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L56)</sub>
+
+### Q2. Domino coloring count (2 x N grid)
+
+You are given a 2 × N grid represented by two strings. The grid is completely tiled with 2 × 1 dominoes, placed either horizontally or vertically. Both cells of each domino contain the same character.
+
+Example:
+
+```
+abb
+acc
+```
+
+Here, aa is a vertical domino, while bb and cc are horizontal dominoes.
+
+Color each domino using Red, Blue, or Green such that no two adjacent dominoes (sharing a side) have the same color.
+
+Find the number of valid colorings.
+
+Constraint: N <= 52.
+
+<sub>Topics: DP · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61)</sub>
+
+### Q3. Count intervals containing each query point
+
+Queries and intervals are given. For each query, find in how many intervals it lies. (Similar to LeetCode 2251 Number of Flowers in Full Bloom.)
+
+<sub>Topics: Binary Search, Sorting, Arrays · Similar: [LeetCode 2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) (Hard) · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61) · Also asked at: IIT Guwahati (2026-11-04)</sub>
+
+### Q4. Largest subset of intervals with one intersecting all others
+
+Intervals are given. Find the maximum-sized subset in which at least one interval intersects every other interval in that subset.
+
+<sub>Topics: Greedy, Sorting, Arrays · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61)</sub>
+
+### Q5. String problem (first DSA question)
+
+The poster did not remember the first DSA question; it was about strings. The OA had three DSA questions and the rest were MCQs.
+
+<sub>Topics: OA Format, Strings · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61)</sub>
 
 ## 2026-11-02 · IIT Guwahati · FTE
 

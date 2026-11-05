@@ -1,9 +1,10 @@
 # HR & Behavioral
 
-23 questions from 14 companys, newest first. [← all topics](../README.md#topics)
+24 questions from 14 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-04 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Accenture interview focus areas](../companies/accenture.md#q1-accenture-interview-focus-areas) |
 | 2026-11-02 | [Accenture](../companies/accenture.md) | NIT Delhi | [Accenture interview topics](../companies/accenture.md#q1-accenture-interview-topics) |
 | 2026-11-02 | [L.E.K. Consulting](../companies/l-e-k-consulting.md) | BITS Pilani | [L.E.K. OA pattern](../companies/l-e-k-consulting.md#q1-lek-oa-pattern) |
 | 2026-10-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [SDE interview rounds](../companies/eternal-zomato.md#q1-sde-interview-rounds) |

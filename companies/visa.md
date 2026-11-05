@@ -1,13 +1,15 @@
 # Visa
 
-**4 questions** · 4 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
+**5 questions** · 5 drives · latest 4 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 4  
-**Seen at:** MNNIT Allahabad
+**Asks about:** [OA Format](../topics/oa-format.md) 5  
+**Seen at:** IIIT Allahabad, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · IIIT Allahabad · FTE](#2026-11-04--iiit-allahabad--fte)
+  - [Visa OA structure](#q1-visa-oa-structure)
 - [2026-10-31 · MNNIT Allahabad · FTE](#2026-10-31--mnnit-allahabad--fte)
   - [Visa OA problems](#q1-visa-oa-problems)
 - [2026-10-26 · Unknown · FTE](#2026-10-26--unknown--fte)
@@ -20,6 +22,14 @@
 </details>
 
 ---
+
+## 2026-11-04 · IIIT Allahabad · FTE
+
+### Q1. Visa OA structure
+
+The Visa OA had 3 coding questions: 1 easy, 1 medium and 1 hard. The actual problem statements were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/campus-iiit-allahabad-placements/2026-11.jsonl#L16)</sub>
 
 ## 2026-10-31 · MNNIT Allahabad · FTE
 

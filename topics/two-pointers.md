@@ -1,9 +1,10 @@
 # Two Pointers
 
-14 questions from 12 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+15 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Unknown](../companies/unknown.md) | IIT BHU | [Next permutation of a string](../companies/unknown.md#q1-next-permutation-of-a-string) | [LC 31](https://leetcode.com/problems/next-permutation/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Sort red, blue and white balls in-place](../companies/hilabs.md#q7-sort-red-blue-and-white-balls-in-place) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |
 | 2026-10-31 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Make two arrays equal by merging subarrays](../companies/cognizant.md#q3-make-two-arrays-equal-by-merging-subarrays) | |
 | 2026-10-31 | [American Express](../companies/american-express.md) | IIT Bombay | [Medium DSA two-pointer problem](../companies/american-express.md#q3-medium-dsa-two-pointer-problem) | |

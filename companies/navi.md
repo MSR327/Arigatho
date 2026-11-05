@@ -1,13 +1,15 @@
 # Navi
 
-**30 questions** · 13 drives · latest 3 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**31 questions** · 14 drives · latest 4 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Aptitude](../topics/aptitude.md) 9 · [Arrays](../topics/arrays.md) 6 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · [Greedy](../topics/greedy.md) 2 · [DP](../topics/dp.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · +4 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Mandi, IIT Roorkee
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Aptitude](../topics/aptitude.md) 9 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · [Math](../topics/math.md) 3 · [Greedy](../topics/greedy.md) 2 · [DP](../topics/dp.md) 2 · +4 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Mandi, IIT Roorkee, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · IIT Hyderabad · FTE](#2026-11-04--iit-hyderabad--fte)
+  - [Coordinate in diagonal zigzag filled square grid](#q1-coordinate-in-diagonal-zigzag-filled-square-grid)
 - [2026-11-03 · IIT Guwahati · FTE · SDE](#2026-11-03--iit-guwahati--fte--sde)
   - [Navi SDE OA pattern](#q1-navi-sde-oa-pattern)
 - [2026-11-02 · IIT Guwahati · FTE](#2026-11-02--iit-guwahati--fte)
@@ -56,13 +58,23 @@
 
 ---
 
+## 2026-11-04 · IIT Hyderabad · FTE
+
+### Q1. Coordinate in diagonal zigzag filled square grid
+
+A square grid is filled with numbers in diagonal zigzag order. Given a coordinate, find the number at that coordinate.
+
+(Exact constraints and examples were not shared. The OA had 2 DSA questions and 1 debugging question; the other DSA question was not described.)
+
+<sub>Topics: Math, Arrays · Source: [chat, 4 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L59)</sub>
+
 ## 2026-11-03 · IIT Guwahati · FTE · SDE
 
 ### Q1. Navi SDE OA pattern
 
 The SDE OA had 2 DSA coding questions and 1 DSA debugging question.
 
-<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L65) · Also asked at: IIT Guwahati (2026-11-03), IIT Mandi (2026-11-03)</sub>
+<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L65) · Also asked at: IIT Guwahati (2026-11-03), IIT Mandi (2026-11-03), IIT BHU (2026-11-04)</sub>
 
 ## 2026-11-02 · IIT Guwahati · FTE
 
@@ -270,7 +282,7 @@ A pattern finding question. The poster gave no details.
 
 25 MCQs, marking +3 / -1. Topics: quantitative aptitude and probability.
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 1 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L8)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 1 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L8) · Also asked at: IIT Roorkee (2026-11-04)</sub>
 
 ## 2026-10-31 · IIT Delhi · FTE · SDE
 
@@ -292,7 +304,7 @@ Find the total number of occurrences of word in the grid, subject to the followi
 - If the word is a palindrome, count occurrences in both directions separately.
 Return the total number of occurrences.
 
-<sub>Topics: Arrays, Strings, Recursion/Backtracking · Close variant: [GeeksforGeeks: Word in Grid - All Occurrences](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1), straight-line word search in 8 directions from every cell · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3130) · Also asked at: IIT BHU (2026-11-03), IIT Guwahati (2026-11-03), IIT Delhi (2026-11-03)</sub>
+<sub>Topics: Arrays, Strings, Recursion/Backtracking · Close variant: [GeeksforGeeks: Word in Grid - All Occurrences](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1), straight-line word search in 8 directions from every cell · Source: [chat, 31 Oct](../archive/inter-nit/2026-10.jsonl#L3130) · Also asked at: IIT Delhi (2026-11-03), IIT BHU ×4 (last 2026-11-04), IIT Guwahati ×2 (last 2026-11-04), IIT Dhanbad (2026-11-04), NIT Surathkal (2026-11-04), IIT Hyderabad (2026-11-04), IIT Roorkee (2026-11-04)</sub>
 
 ### Q3. Most popular nodes with popular neighbours
 

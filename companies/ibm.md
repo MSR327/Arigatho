@@ -108,7 +108,7 @@ One DSA question of easy-to-medium difficulty. The poster did not give the state
 
 A backend question about validating a promo code. The conditions that must be fulfilled were mentioned, and you write code for the functionality to fix the issues so the given test cases pass.
 
-<sub>Topics: Web Dev, Software Engineering · Source: [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L27), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L46), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L48) · Also asked at: IIT Roorkee (2026-11-02), IIT Delhi ×2 (last 2026-11-02), IIT BHU (2026-11-02)</sub>
+<sub>Topics: Web Dev, Software Engineering · Source: [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L27), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L46), [chat, 28 Oct](../archive/ibm-oa/2026-10.jsonl#L48) · Also asked at: IIT Roorkee (2026-11-02), IIT Delhi ×2 (last 2026-11-02), IIT BHU (2026-11-02), IIT Guwahati ×2 (last 2026-11-04)</sub>
 
 ### Q3. Frameworks allowed for the web-dev question
 

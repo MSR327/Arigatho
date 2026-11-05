@@ -1,9 +1,10 @@
 # Binary Search
 
-39 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+40 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Count intervals containing each query point](../companies/cognizant.md#q3-count-intervals-containing-each-query-point) | [LC 2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) Hard |
 | 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Smallest window size with OR at least S](../companies/capital-one.md#q2-smallest-window-size-with-or-at-least-s) | ≈ [LC 2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) Medium |
 | 2026-11-04 | [ThoughtSpot](../companies/thoughtspot.md) | IIT BHU | [Max constant speed path from node 0 to n-1](../companies/thoughtspot.md#q3-max-constant-speed-path-from-node-0-to-n-1) | ≈ [LC 1631](https://leetcode.com/problems/path-with-minimum-effort/) Medium |
 | 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Kharagpur | [Missing digits to form a perfect square](../companies/flipkart.md#q1-missing-digits-to-form-a-perfect-square) | ≈ [LC 367](https://leetcode.com/problems/valid-perfect-square/) Easy |

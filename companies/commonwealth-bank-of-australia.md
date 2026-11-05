@@ -1,13 +1,15 @@
 # Commonwealth Bank of Australia
 
-**57 questions** · 20 drives · latest 2 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**58 questions** · 21 drives · latest 4 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 20 · [Aptitude](../topics/aptitude.md) 16 · [ML/AI](../topics/ml-ai.md) 12 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [SQL](../topics/sql.md) 2 · +6 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 21 · [Aptitude](../topics/aptitude.md) 16 · [ML/AI](../topics/ml-ai.md) 12 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [SQL](../topics/sql.md) 2 · +6 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · IIT Roorkee · FTE](#2026-11-04--iit-roorkee--fte)
+  - [CBA OA round 2 format](#q1-cba-oa-round-2-format)
 - [2026-11-02 · IIT Guwahati · FTE · Graduate Engineering](#2026-11-02--iit-guwahati--fte--graduate-engineering)
   - [OA structure](#q1-oa-structure)
   - [Travelling salesman problem (bitmask DP)](#q2-travelling-salesman-problem-bitmask-dp)
@@ -89,6 +91,14 @@
 </details>
 
 ---
+
+## 2026-11-04 · IIT Roorkee · FTE
+
+### Q1. CBA OA round 2 format
+
+At IIT Roorkee, round 2 of the CBA OA was a vibe coding and debugging round. No specific questions were shared.
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L191)</sub>
 
 ## 2026-11-02 · IIT Guwahati · FTE · Graduate Engineering
 

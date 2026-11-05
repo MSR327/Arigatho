@@ -1,13 +1,21 @@
 # ICICI
 
-**10 questions** · 10 drives · latest 27 Oct 2026 · [← all companies](../README.md#companies)
+**14 questions** · 14 drives · latest 4 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Aptitude](../topics/aptitude.md) 1 · [OOP](../topics/oop.md) 1  
-**Seen at:** IIT Guwahati, IIT Hyderabad, MNIT Jaipur, MNNIT Allahabad, Manipal, NIT Silchar, NIT Trichy, VNIT Nagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 13 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Aptitude](../topics/aptitude.md) 1 · [OOP](../topics/oop.md) 1  
+**Seen at:** IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad, Manipal, NIT Silchar, NIT Surathkal +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · VNIT Nagpur · FTE · Manager-1](#2026-11-04--vnit-nagpur--fte--manager-1)
+  - [ICICI Manager-1 OA and interview format](#q1-icici-manager-1-oa-and-interview-format)
+- [2026-11-04 · NIT Surathkal · FTE · Manager-1](#2026-11-04--nit-surathkal--fte--manager-1)
+  - [ICICI OA pattern at NIT Surathkal](#q1-icici-oa-pattern-at-nit-surathkal)
+- [2026-11-04 · IIT Roorkee · FTE · Manager 1](#2026-11-04--iit-roorkee--fte--manager-1)
+  - [ICICI Manager 1 OA pattern](#q1-icici-manager-1-oa-pattern)
+- [2026-11-04 · IIT Hyderabad · FTE · Manager 1](#2026-11-04--iit-hyderabad--fte--manager-1)
+  - [ICICI Manager 1 OA pattern](#q1-icici-manager-1-oa-pattern-1)
 - [2026-10-27 · VNIT Nagpur · FTE](#2026-10-27--vnit-nagpur--fte)
   - [ICICI Lombard OA pattern](#q1-icici-lombard-oa-pattern)
 - [2026-10-20 · IIT Hyderabad · FTE](#2026-10-20--iit-hyderabad--fte)
@@ -32,6 +40,38 @@
 </details>
 
 ---
+
+## 2026-11-04 · VNIT Nagpur · FTE · Manager-1
+
+### Q1. ICICI Manager-1 OA and interview format
+
+The OA was straightforward and MCQ based, with no coding questions. The interview was easy and mostly resume based.
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/icici-oa/2026-11.jsonl#L15), [chat, 4 Nov](../archive/icici-oa/2026-11.jsonl#L17)</sub>
+
+## 2026-11-04 · NIT Surathkal · FTE · Manager-1
+
+### Q1. ICICI OA pattern at NIT Surathkal
+
+Pattern: questions from aptitude, ML, CS fundamentals, and some from C# and other topics.
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/icici-oa/2026-11.jsonl#L12)</sub>
+
+## 2026-11-04 · IIT Roorkee · FTE · Manager 1
+
+### Q1. ICICI Manager 1 OA pattern
+
+Mostly aptitude, with some AI and DSA MCQs.
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L72)</sub>
+
+## 2026-11-04 · IIT Hyderabad · FTE · Manager 1
+
+### Q1. ICICI Manager 1 OA pattern
+
+Pattern described: simple aptitude, OOPs, and pseudo code questions only.
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/inter-nit/2026-11.jsonl#L403)</sub>
 
 ## 2026-10-27 · VNIT Nagpur · FTE
 

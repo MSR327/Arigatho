@@ -1,9 +1,12 @@
 # Sorting
 
-52 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+55 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Largest subset of intervals with one intersecting all others](../companies/cognizant.md#q4-largest-subset-of-intervals-with-one-intersecting-all-others) | |
+| 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Count intervals containing each query point](../companies/cognizant.md#q3-count-intervals-containing-each-query-point) | [LC 2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) Hard |
+| 2026-11-04 | [Point72](../companies/point72.md) | IIT BHU | [Minimum slippage cost for exactly k orders](../companies/point72.md#q1-minimum-slippage-cost-for-exactly-k-orders) | ≈ [CF 524A](https://codeforces.com/problemset/problem/524/A) rated 1600 |
 | 2026-11-04 | [Deloitte](../companies/deloitte.md) | IIT Hyderabad | [Job scheduling with dependencies](../companies/deloitte.md#q1-job-scheduling-with-dependencies) | ≈ [LC 1834](https://leetcode.com/problems/single-threaded-cpu/) Medium |
 | 2026-11-03 | [Point72](../companies/point72.md) | IIT Madras | [Maximum size of a K-multiple-free subset](../companies/point72.md#q1-maximum-size-of-a-k-multiple-free-subset) | ≈ [LC 2170](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Count permutations of array with pairwise product above threshold](../companies/hilabs.md#q1-count-permutations-of-array-with-pairwise-product-above-threshold) | |

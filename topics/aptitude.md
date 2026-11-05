@@ -1,9 +1,10 @@
 # Aptitude
 
-198 questions from 27 companys, newest first. [← all topics](../README.md#topics)
+199 questions from 28 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-04 | [Unknown](../companies/unknown.md) | IIT Roorkee | [Aptitude OA topics and difficulty](../companies/unknown.md#q1-aptitude-oa-topics-and-difficulty) |
 | 2026-11-03 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Aptitude section: speed-distance, number patterns, coding-decoding](../companies/blackrock.md#q3-aptitude-section-speed-distance-number-patterns-coding-decoding) |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [OA pattern](../companies/tiger-analytics.md#q5-oa-pattern) |
 | 2026-11-02 | [L.E.K. Consulting](../companies/l-e-k-consulting.md) | BITS Pilani | [L.E.K. OA pattern](../companies/l-e-k-consulting.md#q1-lek-oa-pattern) |

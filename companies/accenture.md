@@ -1,13 +1,17 @@
 # Accenture
 
-**284 questions** · 100 drives · latest 3 Nov 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**286 questions** · 102 drives · latest 4 Nov 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 81 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +17 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 82 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +17 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-04 · NIT Surathkal · FTE · Interview](#2026-11-04--nit-surathkal--fte--interview)
+  - [Accenture interview focus areas](#q1-accenture-interview-focus-areas)
+- [2026-11-04 · IIT Kharagpur/Kanpur · FTE · ETE](#2026-11-04--iit-kharagpurkanpur--fte--ete)
+  - [Accenture ETE role OA structure](#q1-accenture-ete-role-oa-structure)
 - [2026-11-02 · NIT Delhi · FTE · Interview](#2026-11-02--nit-delhi--fte--interview)
   - [Accenture interview topics](#q1-accenture-interview-topics)
 - [2026-11-02 · IIT Roorkee · FTE · Management Consulting](#2026-11-02--iit-roorkee--fte--management-consulting)
@@ -396,6 +400,22 @@
 </details>
 
 ---
+
+## 2026-11-04 · NIT Surathkal · FTE · Interview
+
+### Q1. Accenture interview focus areas
+
+The interview round focused on behavioural questions and questions about team projects. (No specific questions were shared.)
+
+<sub>Topics: HR & Behavioral · Source: [chat, 4 Nov](../archive/accenture-oa/2026-11.jsonl#L68)</sub>
+
+## 2026-11-04 · IIT Kharagpur/Kanpur · FTE · ETE
+
+### Q1. Accenture ETE role OA structure
+
+The OA for the ETE role had 1 DSA question, 1 SQL question and 1 frontend question. (Question statements were not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/accenture-oa/2026-11.jsonl#L79)</sub>
 
 ## 2026-11-02 · NIT Delhi · FTE · Interview
 
