@@ -1,13 +1,15 @@
 # IBM
 
-**24 questions** · 15 drives · latest 4 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**25 questions** · 16 drives · latest 5 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 8 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
 **Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT Guwahati · FTE · ISDL · Interview](#2026-11-05--iit-guwahati--fte--isdl--interview)
+  - [IBM ISDL technical round 1](#q1-ibm-isdl-technical-round-1)
 - [2026-11-02 · IIT Roorkee · FTE](#2026-11-02--iit-roorkee--fte)
   - [Open, close k and clear commands](#q1-open-close-k-and-clear-commands)
 - [2026-11-02 · IIT Delhi · FTE](#2026-11-02--iit-delhi--fte)
@@ -51,6 +53,14 @@
 </details>
 
 ---
+
+## 2026-11-05 · IIT Guwahati · FTE · ISDL · Interview
+
+### Q1. IBM ISDL technical round 1
+
+Technical round 1 for the ISDL role: 2 DSA questions, some detailed grilling on projects, and a check of awareness of AI and new technologies.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L65)</sub>
 
 ## 2026-11-02 · IIT Roorkee · FTE
 
@@ -192,7 +202,7 @@ Given an entire codebase, API documentation, architecture and a task description
 
 2 questions on HackerRank: one easy (LeetCode-easy level) DSA question and one codebase-understanding and feature/bug-fix implementation question for web development. Same common test for both software engineer and software developer roles. Everything had to be done manually, with no AI assistance.
 
-<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: IIT Bombay (2026-10-31), IIT Roorkee (2026-11-01), Unknown (2026-11-01), IIT Guwahati ×5 (last 2026-11-03)</sub>
+<sub>Topics: OA Format · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L18), [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L19), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L28), [chat, 25 Oct](../archive/ibm-oa/2026-10.jsonl#L31) · Also asked at: IIT Bombay (2026-10-31), IIT Roorkee (2026-11-01), Unknown (2026-11-01), IIT Guwahati ×5 (last 2026-11-03), IIT Kharagpur/Kanpur (2026-11-05)</sub>
 
 ## 2026-10-24 · IIT Kanpur · FTE · Software Engineer (SWE)
 

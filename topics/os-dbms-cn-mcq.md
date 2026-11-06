@@ -1,9 +1,10 @@
 # OS/DBMS/CN MCQ
 
-115 questions from 21 companys, newest first. [← all topics](../README.md#topics)
+116 questions from 21 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [ICICI](../companies/icici.md) | IIT BHU | [ICICI Manager OA topics](../companies/icici.md#q1-icici-manager-oa-topics) | |
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Fork and copy-on-write](../companies/nvidia.md#q8-fork-and-copy-on-write) | |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Cortex-A72 performance: data structure, matrix order, list cycle](../companies/texas-instruments.md#q3-cortex-a72-performance-data-structure-matrix-order-list-cycle) | |
 | 2026-10-28 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Slowest and fastest implementation by memory section](../companies/texas-instruments.md#q1-slowest-and-fastest-implementation-by-memory-section) | |

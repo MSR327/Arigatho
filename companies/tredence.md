@@ -1,6 +1,6 @@
 # Tredence
 
-**47 questions** · 16 drives · latest 2 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**47 questions** · 16 drives · latest 5 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 11 · [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [Aptitude](../topics/aptitude.md) 6 · [SQL](../topics/sql.md) 5 · [Arrays](../topics/arrays.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +10 more  
 **Seen at:** IIIT Hyderabad, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur/Kanpur, MNNIT Allahabad, VIT Vellore +1 more
@@ -82,7 +82,7 @@
 
 The test had aptitude, CS, SQL and pandas questions, and one coding question.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/campus-iit-bhubaneswar-placements/2026-10.jsonl#L39)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/campus-iit-bhubaneswar-placements/2026-10.jsonl#L39) · Also asked at: IIIT Hyderabad (2026-11-05), Unknown (2026-11-05)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE
 

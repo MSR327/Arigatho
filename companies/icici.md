@@ -1,13 +1,18 @@
 # ICICI
 
-**14 questions** · 14 drives · latest 4 Nov 2026 · [← all companies](../README.md#companies)
+**17 questions** · 16 drives · latest 5 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 13 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Aptitude](../topics/aptitude.md) 1 · [OOP](../topics/oop.md) 1  
-**Seen at:** IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad, Manipal, NIT Silchar, NIT Surathkal +2 more
+**Asks about:** [OA Format](../topics/oa-format.md) 15 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [OOP](../topics/oop.md) 1  
+**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad, Manipal, NIT Kurukshetra +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT Guwahati · FTE](#2026-11-05--iit-guwahati--fte)
+  - [ICICI OA format](#q1-icici-oa-format)
+- [2026-11-05 · IIT BHU · FTE · Manager 1 · Other round](#2026-11-05--iit-bhu--fte--manager-1--other-round)
+  - [ICICI Manager OA topics](#q1-icici-manager-oa-topics)
+  - [ICICI interview: Placement Coordinator role questions](#q2-icici-interview-placement-coordinator-role-questions)
 - [2026-11-04 · VNIT Nagpur · FTE · Manager-1](#2026-11-04--vnit-nagpur--fte--manager-1)
   - [ICICI Manager-1 OA and interview format](#q1-icici-manager-1-oa-and-interview-format)
 - [2026-11-04 · NIT Surathkal · FTE · Manager-1](#2026-11-04--nit-surathkal--fte--manager-1)
@@ -29,7 +34,7 @@
 - [2026-10-13 · MNIT Jaipur · FTE](#2026-10-13--mnit-jaipur--fte)
   - [ICICI DP OA overall pattern](#q1-icici-dp-oa-overall-pattern)
 - [2026-10-08 · Manipal · FTE](#2026-10-08--manipal--fte)
-  - [ICICI OA format](#q1-icici-oa-format)
+  - [ICICI OA format](#q1-icici-oa-format-1)
 - [2026-10-07 · MNNIT Allahabad · FTE · Deputy Manager · Interview](#2026-10-07--mnnit-allahabad--fte--deputy-manager--interview)
   - [ICICI interview questions](#q1-icici-interview-questions)
 - [2026-10-01 · NIT Trichy · FTE](#2026-10-01--nit-trichy--fte)
@@ -40,6 +45,35 @@
 </details>
 
 ---
+
+## 2026-11-05 · IIT Guwahati · FTE
+
+### Q1. ICICI OA format
+
+English, reasoning, maths, operating systems and more, a bit of everything.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L75) · Also asked at: IIT Guwahati (2026-11-05)</sub>
+
+## 2026-11-05 · IIT BHU · FTE · Manager 1 · Other round
+
+### Q1. ICICI Manager OA topics
+
+Selection process: resume shortlisting, online assessment, personal interview. The OA consists of: OOPs concepts, Computer Networking, Operating System, Programming Language (C/C++/Python/Java), Machine Learning, Natural Language Processing, Quantitative Mathematics, Project Management, Software Engineering, DBMS.
+
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156)</sub>
+
+### Q2. ICICI interview: Placement Coordinator role questions
+
+Interview began with a self-introduction (about 1.5 minutes). The interviewer then focused on extracurriculars, since the candidate was a Placement Coordinator. Questions asked:
+
+- What are the responsibilities of a Placement Coordinator?
+- How do you approach companies?
+- What is your specific role as a Placement Coordinator?
+- How do you coordinate and communicate with companies?
+
+This discussion lasted almost 10 minutes, then moved on to club experience (the message was cut off here).
+
+<sub>Topics: HR & Behavioral · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156)</sub>
 
 ## 2026-11-04 · VNIT Nagpur · FTE · Manager-1
 
@@ -63,7 +97,7 @@ Pattern: questions from aptitude, ML, CS fundamentals, and some from C# and othe
 
 Mostly aptitude, with some AI and DSA MCQs.
 
-<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L72)</sub>
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L72) · Also asked at: NIT Kurukshetra (2026-11-05)</sub>
 
 ## 2026-11-04 · IIT Hyderabad · FTE · Manager 1
 

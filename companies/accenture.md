@@ -1,6 +1,6 @@
 # Accenture
 
-**286 questions** · 102 drives · latest 4 Nov 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**286 questions** · 102 drives · latest 6 Nov 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 82 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +17 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
@@ -423,7 +423,7 @@ The OA for the ETE role had 1 DSA question, 1 SQL question and 1 frontend questi
 
 Interview is mostly resume based: questions about your projects (what you built and why), some basic leadership questions and extra-curricular activities. Not much technical.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L29)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L29) · Also asked at: NIT Raipur (2026-11-05)</sub>
 
 ## 2026-11-02 · IIT Roorkee · FTE · Management Consulting
 
@@ -431,7 +431,7 @@ Interview is mostly resume based: questions about your projects (what you built 
 
 Aptitude questions on logical reasoning, data interpretation and quant.
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L36)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L36) · Also asked at: IIT Roorkee (2026-11-05)</sub>
 
 ## 2026-11-02 · IIT Hyderabad · FTE · Management Consulting
 
@@ -456,13 +456,13 @@ No individual questions, counts or timings were given.
 
 Sections: quantitative, verbal, critical reasoning, logical reasoning, abstract reasoning and data interpretation.
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L215)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L215) · Also asked at: IIT Dhanbad ×2 (last 2026-11-06)</sub>
 
 ### Q2. Management consulting OA sections
 
 Sections asked: quantitative, verbal, critical, logical, abstract reasoning and data interpretation.
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L33)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L33) · Also asked at: IIT Roorkee (2026-11-05)</sub>
 
 ## 2026-11-02 · IIT BHU · FTE · Management Consulting
 

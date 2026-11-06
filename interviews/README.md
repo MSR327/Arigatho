@@ -53,7 +53,6 @@ What companies ask after the online test, from written first-hand accounts. Ever
 | [EXL](exl.md) | 3 | 2025-26 season |
 | [EY](ey.md) | 1 | 28 Nov 2024 |
 | [Finmechanics](finmechanics.md) | 2 | 2025-26 season |
-| [Flipkart](flipkart.md) | 1 | 5 Nov 2024 |
 | [Fractal Analytics](fractal-analytics.md) | 2 | 5 Aug 2026 |
 | [Futures First](futures-first.md) | 1 | 2025-26 season |
 | [GD Goenka Schools](gd-goenka-schools.md) | 1 | 2025-26 season |

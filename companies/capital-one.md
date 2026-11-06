@@ -1,9 +1,9 @@
 # Capital One
 
-**19 questions** · 11 drives · latest 5 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**20 questions** · 12 drives · latest 5 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Arrays](../topics/arrays.md) 4 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 2 · [Heaps](../topics/heaps.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · +4 more  
-**Seen at:** IIT BHU, IIT Bombay, IIT Hyderabad, IIT Kharagpur, IIT Madras, VNIT Nagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Arrays](../topics/arrays.md) 4 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 2 · [Heaps](../topics/heaps.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · +4 more  
+**Seen at:** IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -12,6 +12,8 @@
   - [Capital One round 2 pattern](#q1-capital-one-round-2-pattern)
 - [2026-11-05 · Unknown · FTE · Other round](#2026-11-05--unknown--fte--other-round)
   - [Capital One round 2 pattern](#q1-capital-one-round-2-pattern-1)
+- [2026-11-05 · IIT Guwahati · FTE · Interview](#2026-11-05--iit-guwahati--fte--interview)
+  - [Capital One round 2 pattern](#q1-capital-one-round-2-pattern-2)
 - [2026-11-04 · VNIT Nagpur · FTE · Business Analyst](#2026-11-04--vnit-nagpur--fte--business-analyst)
   - [Capital One Business Analyst OA overview](#q1-capital-one-business-analyst-oa-overview)
 - [2026-11-04 · IIT Madras · FTE](#2026-11-04--iit-madras--fte)
@@ -55,7 +57,7 @@ System Design: one small design problem
 
 MCQs: not reported in this format
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L213)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L213) · Also asked at: IIT BHU (2026-11-05), IIT Kharagpur/Kanpur (2026-11-05)</sub>
 
 ## 2026-11-05 · Unknown · FTE · Other round
 
@@ -64,6 +66,14 @@ MCQs: not reported in this format
 Round 2 had DSA coding and CS fundamentals.
 
 <sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L139)</sub>
+
+## 2026-11-05 · IIT Guwahati · FTE · Interview
+
+### Q1. Capital One round 2 pattern
+
+Round 2 would be a design question, as stated in the company's presentation.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L174)</sub>
 
 ## 2026-11-04 · VNIT Nagpur · FTE · Business Analyst
 

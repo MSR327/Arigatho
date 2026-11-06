@@ -1,6 +1,6 @@
 # Cognizant
 
-**29 questions** · 15 drives · latest 4 Nov 2026 · [8 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**29 questions** · 15 drives · latest 5 Nov 2026 · [8 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 15 · [Greedy](../topics/greedy.md) 6 · [Strings](../topics/strings.md) 4 · [Binary Search](../topics/binary-search.md) 3 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Arrays](../topics/arrays.md) 3 · [Trees](../topics/trees.md) 1 · +6 more  
 **Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +1 more
@@ -92,25 +92,25 @@ Find the number of valid colorings.
 
 Constraint: N <= 52.
 
-<sub>Topics: DP · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61)</sub>
+<sub>Topics: DP · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61) · Also asked at: IIT BHU (2026-11-05)</sub>
 
 ### Q3. Count intervals containing each query point
 
 Queries and intervals are given. For each query, find in how many intervals it lies. (Similar to LeetCode 2251 Number of Flowers in Full Bloom.)
 
-<sub>Topics: Binary Search, Sorting, Arrays · Similar: [LeetCode 2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) (Hard) · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61) · Also asked at: IIT Guwahati (2026-11-04)</sub>
+<sub>Topics: Binary Search, Sorting, Arrays · Similar: [LeetCode 2251. Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) (Hard) · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61) · Also asked at: IIT Guwahati (2026-11-04), IIT BHU (2026-11-05)</sub>
 
 ### Q4. Largest subset of intervals with one intersecting all others
 
 Intervals are given. Find the maximum-sized subset in which at least one interval intersects every other interval in that subset.
 
-<sub>Topics: Greedy, Sorting, Arrays · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61)</sub>
+<sub>Topics: Greedy, Sorting, Arrays · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61) · Also asked at: IIT BHU (2026-11-05)</sub>
 
 ### Q5. String problem (first DSA question)
 
 The poster did not remember the first DSA question; it was about strings. The OA had three DSA questions and the rest were MCQs.
 
-<sub>Topics: OA Format, Strings · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61)</sub>
+<sub>Topics: OA Format, Strings · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L60), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L61) · Also asked at: IIT BHU (2026-11-05)</sub>
 
 ## 2026-11-02 · IIT Guwahati · FTE
 
@@ -190,7 +190,7 @@ The OA has four sections: DSA, prompt engineering, two debugging questions, and 
 
 3 easy-medium DSA questions from arrays and strings.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1286)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1286) · Also asked at: IIT Guwahati (2026-11-05)</sub>
 
 ## 2026-10-31 · IIT Guwahati · FTE · Frontier Engineer
 

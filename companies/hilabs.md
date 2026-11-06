@@ -1,13 +1,15 @@
 # HiLabs
 
-**22 questions** · 11 drives · latest 4 Nov 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**23 questions** · 12 drives · latest 5 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Math](../topics/math.md) 5 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 4 · [Greedy](../topics/greedy.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Sorting](../topics/sorting.md) 3 · +9 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Math](../topics/math.md) 5 · [Arrays](../topics/arrays.md) 5 · [Strings](../topics/strings.md) 4 · [Greedy](../topics/greedy.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Sorting](../topics/sorting.md) 3 · +9 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT Delhi · FTE](#2026-11-05--iit-delhi--fte)
+  - [Trapping rainwater style coding question](#q1-trapping-rainwater-style-coding-question)
 - [2026-11-02 · IIT Guwahati · FTE · SDE](#2026-11-02--iit-guwahati--fte--sde)
   - [Production debugging scenarios](#q1-production-debugging-scenarios)
   - [Even-sum paths in a directed weighted graph](#q2-even-sum-paths-in-a-directed-weighted-graph)
@@ -45,6 +47,14 @@
 </details>
 
 ---
+
+## 2026-11-05 · IIT Delhi · FTE
+
+### Q1. Trapping rainwater style coding question
+
+The coding question was based on the logic of Trapping Rain Water (poster said it was undoable). Full statement not given.
+
+<sub>Topics: Arrays, Two Pointers · Similar: [LeetCode 42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) (Hard) · Source: [chat, 5 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L241)</sub>
 
 ## 2026-11-02 · IIT Guwahati · FTE · SDE
 
@@ -171,7 +181,7 @@ Held on the Unstop platform, 3 sections:
 
 The coding questions themselves were not described.
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L2), [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L4) · Also asked at: IIT Kharagpur ×2 (last 2026-11-01), IIT Guwahati (2026-11-02), IIT Bombay ×2 (last 2026-11-04), IIT BHU ×3 (last 2026-11-04), IIT Kharagpur/Kanpur (2026-11-04), IIT Delhi (2026-11-04)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L2), [chat, 1 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L4) · Also asked at: IIT Kharagpur ×2 (last 2026-11-01), IIT Guwahati (2026-11-02), IIT Bombay ×2 (last 2026-11-04), IIT BHU ×3 (last 2026-11-04), IIT Delhi (2026-11-04), IIT Kharagpur/Kanpur ×2 (last 2026-11-05), IIT Madras (2026-11-05)</sub>
 
 ## 2026-11-01 · IIT Bombay · FTE · SDE
 

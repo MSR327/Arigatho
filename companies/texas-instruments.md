@@ -1,13 +1,15 @@
 # Texas Instruments
 
-**84 questions** · 12 drives · latest 2 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**85 questions** · 13 drives · latest 6 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 22 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [OA Format](../topics/oa-format.md) 5 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +8 more  
-**Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, IIT Roorkee
+**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 22 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [OA Format](../topics/oa-format.md) 6 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +8 more  
+**Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT Kharagpur/Kanpur · FTE](#2026-11-05--iit-kharagpurkanpur--fte)
+  - [Texas Instruments OA format (3 sections)](#q1-texas-instruments-oa-format-3-sections)
 - [2026-11-02 · IIT Bombay · FTE · Embedded Software](#2026-11-02--iit-bombay--fte--embedded-software)
   - [Minimum moves in grid avoiding blocked cells](#q1-minimum-moves-in-grid-avoiding-blocked-cells)
 - [2026-11-01 · IIT Delhi · FTE · Embedded](#2026-11-01--iit-delhi--fte--embedded)
@@ -108,6 +110,17 @@
 </details>
 
 ---
+
+## 2026-11-05 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Texas Instruments OA format (3 sections)
+
+3 sections:
+1. Aptitude - 20 questions including finding the position from left/right based on conditions, word puzzle, numeric puzzle, etc.
+2. CS fundamentals MCQ: mostly easy; CS people might find some electrical-based MCQs a bit tough.
+3. 1 DSA question: Take/Not Take DP.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L155)</sub>
 
 ## 2026-11-02 · IIT Bombay · FTE · Embedded Software
 
@@ -378,7 +391,7 @@ Topics for both written test and interview: basic C programming (pointers, algor
 
 Texas Instruments OA for the digital/analog role: MCQs on op-amps, aptitude questions, and questions from every core electronics topic.
 
-<sub>Topics: OA Format, Analog Electronics · Source: [chat, 25 Oct](../archive/inter-iit/2026-10.jsonl#L993) · Also asked at: IIT Delhi ×3 (last 2026-11-02)</sub>
+<sub>Topics: OA Format, Analog Electronics · Source: [chat, 25 Oct](../archive/inter-iit/2026-10.jsonl#L993) · Also asked at: IIT Delhi ×3 (last 2026-11-02), Unknown (2026-11-06)</sub>
 
 ## 2026-10-18 · IIIT Hyderabad · FTE · Analog / Digital
 
@@ -386,7 +399,7 @@ Texas Instruments OA for the digital/analog role: MCQs on op-amps, aptitude ques
 
 Simple OA. CS MCQs on C programming, microprocessors and COA. One very easy coding question, only in C language.
 
-<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L25) · Also asked at: IIIT Hyderabad (2026-10-29), IIT BHU (2026-10-30)</sub>
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L25) · Also asked at: IIIT Hyderabad (2026-10-29), IIT BHU (2026-10-30), IIT Delhi (2026-11-05)</sub>
 
 ## 2026-10-08 · IIT Hyderabad · FTE
 

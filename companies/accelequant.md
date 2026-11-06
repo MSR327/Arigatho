@@ -1,13 +1,16 @@
 # Accelequant
 
-**8 questions** · 2 drives · latest 21 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**10 questions** · 3 drives · latest 5 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 3 · [Aptitude](../topics/aptitude.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [OA Format](../topics/oa-format.md) 2 · [DP](../topics/dp.md) 1 · [Arrays](../topics/arrays.md) 1 · [Greedy](../topics/greedy.md) 1 · [Heaps](../topics/heaps.md) 1 · +2 more  
-**Seen at:** BITS Pilani, IIT Indore, MNNIT Allahabad
+**Asks about:** [Math](../topics/math.md) 3 · [DP](../topics/dp.md) 2 · [Greedy](../topics/greedy.md) 2 · [Aptitude](../topics/aptitude.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Arrays](../topics/arrays.md) 1 · [Heaps](../topics/heaps.md) 1 · +4 more  
+**Seen at:** BITS Pilani, IIT Hyderabad, IIT Indore, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT Hyderabad · FTE](#2026-11-05--iit-hyderabad--fte)
+  - [Minimized maximum of products distributed to any store](#q1-minimized-maximum-of-products-distributed-to-any-store)
+  - [Minimum cost to connect two groups of points](#q2-minimum-cost-to-connect-two-groups-of-points)
 - [2026-10-21 · IIT Indore · FTE](#2026-10-21--iit-indore--fte)
   - [Cherry Pickup II (LeetCode 1463)](#q1-cherry-pickup-ii-leetcode-1463)
   - [Task Scheduler (LeetCode 621)](#q2-task-scheduler-leetcode-621)
@@ -22,6 +25,20 @@
 </details>
 
 ---
+
+## 2026-11-05 · IIT Hyderabad · FTE
+
+### Q1. Minimized maximum of products distributed to any store
+
+Coding question reported as LeetCode 2064 (statement not given by the poster).
+
+<sub>Topics: Binary Search, Greedy · Similar: [LeetCode 2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) (Medium) · Source: [chat, 5 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L67), [chat, 5 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L69)</sub>
+
+### Q2. Minimum cost to connect two groups of points
+
+Coding question reported as LeetCode 1595 (statement not given by the poster).
+
+<sub>Topics: DP, Bit Manipulation · Similar: [LeetCode 1595. Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) (Hard) · Source: [chat, 5 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L67), [chat, 5 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L69)</sub>
 
 ## 2026-10-21 · IIT Indore · FTE
 

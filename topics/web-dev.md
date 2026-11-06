@@ -1,9 +1,11 @@
 # Web Dev
 
-51 questions from 14 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+53 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Vibe coding backend API assignment](../companies/denso.md#q4-vibe-coding-backend-api-assignment) | |
+| 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Denso OA format: solve a task with a chatbot](../companies/denso.md#q1-denso-oa-format-solve-a-task-with-a-chatbot) | |
 | 2026-11-02 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Vibe coding: fix front-end project errors with AI](../companies/deloitte.md#q1-vibe-coding-fix-front-end-project-errors-with-ai) | |
 | 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Indore | [Accenture ETE frontend: input max-length, letter-spacing, trim spaces](../companies/accenture.md#q1-accenture-ete-frontend-input-max-length-letter-spacing-trim-spaces) | |
 | 2026-10-28 | [QiCap](../companies/qicap.md) | IIT BHU | [Backend question (not remembered)](../companies/qicap.md#q4-backend-question-not-remembered) | |

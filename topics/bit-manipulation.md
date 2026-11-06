@@ -1,9 +1,10 @@
 # Bit Manipulation
 
-35 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+36 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [Accelequant](../companies/accelequant.md) | IIT Hyderabad | [Minimum cost to connect two groups of points](../companies/accelequant.md#q2-minimum-cost-to-connect-two-groups-of-points) | [LC 1595](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) Hard |
 | 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Smallest window size with OR at least S](../companies/capital-one.md#q2-smallest-window-size-with-or-at-least-s) | ≈ [LC 2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) Medium |
 | 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [The Great Chai Stall Crawl](../companies/commotion.md#q4-the-great-chai-stall-crawl) | [CSES 1690](https://cses.fi/problemset/task/1690) |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Bitmask DP problem](../companies/unknown.md#q4-bitmask-dp-problem) | |

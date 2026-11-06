@@ -1,13 +1,34 @@
 # Navi
 
-**31 questions** · 14 drives · latest 4 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**44 questions** · 22 drives · latest 6 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Aptitude](../topics/aptitude.md) 9 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · [Math](../topics/math.md) 3 · [Greedy](../topics/greedy.md) 2 · [DP](../topics/dp.md) 2 · +4 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Mandi, IIT Roorkee, NIT Surathkal
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 9 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 5 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 3 · +5 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Mandi +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-06 · IIT Hyderabad · FTE](#2026-11-06--iit-hyderabad--fte)
+  - [Sum of values of articulation points](#q1-sum-of-values-of-articulation-points)
+  - [DP debugging problem](#q2-dp-debugging-problem)
+- [2026-11-05 · IIT Kharagpur/Kanpur · FTE](#2026-11-05--iit-kharagpurkanpur--fte)
+  - [Navi OA: two DSA questions (BFS, implementation)](#q1-navi-oa-two-dsa-questions-bfs-implementation)
+  - [Navi OA: matrix operation debugging](#q2-navi-oa-matrix-operation-debugging)
+- [2026-11-05 · IIT Kharagpur · FTE](#2026-11-05--iit-kharagpur--fte)
+  - [Wobble the Text score](#q1-wobble-the-text-score)
+  - [Fix C++ alternating row/column sort](#q2-fix-c-alternating-rowcolumn-sort)
+  - [Vertices within distance two](#q3-vertices-within-distance-two)
+- [2026-11-05 · IIT Hyderabad · FTE](#2026-11-05--iit-hyderabad--fte)
+  - [Navi OA: 2048 game (hard)](#q1-navi-oa-2048-game-hard)
+- [2026-11-05 · IIT Guwahati · FTE](#2026-11-05--iit-guwahati--fte)
+  - [Lines passing through at least 3 points](#q1-lines-passing-through-at-least-3-points)
+  - [Inorder traversal of nodes with at least one child from level order](#q2-inorder-traversal-of-nodes-with-at-least-one-child-from-level-order)
+- [2026-11-05 · IIT Guwahati · FTE · SDE](#2026-11-05--iit-guwahati--fte--sde)
+  - [Inorder of binary tree from level order traversal](#q1-inorder-of-binary-tree-from-level-order-traversal)
+- [2026-11-05 · IIT Guwahati · FTE · Data Science](#2026-11-05--iit-guwahati--fte--data-science)
+  - [Navi Data Science OA topics](#q1-navi-data-science-oa-topics)
+- [2026-11-05 · IIT BHU · FTE · SDE](#2026-11-05--iit-bhu--fte--sde)
+  - [Sum of nodes with exactly two children in a binary tree](#q1-sum-of-nodes-with-exactly-two-children-in-a-binary-tree)
 - [2026-11-04 · IIT Hyderabad · FTE](#2026-11-04--iit-hyderabad--fte)
   - [Coordinate in diagonal zigzag filled square grid](#q1-coordinate-in-diagonal-zigzag-filled-square-grid)
 - [2026-11-03 · IIT Guwahati · FTE · SDE](#2026-11-03--iit-guwahati--fte--sde)
@@ -57,6 +78,128 @@
 </details>
 
 ---
+
+## 2026-11-06 · IIT Hyderabad · FTE
+
+### Q1. Sum of values of articulation points
+
+Find the sum of values of the articulation points in a graph. (Full statement not given.)
+
+<sub>Topics: Graphs · Close variant: [GeeksforGeeks: Articulation Point](https://www.geeksforgeeks.org/problems/articulation-point2616/1), find articulation points using low-link DFS · Source: [chat, 6 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L90)</sub>
+
+### Q2. DP debugging problem
+
+A DP debugging problem. The fix was to change the loop to `L -> L - 1` and change `sum++` to `sum--`. (The original code was not given.)
+
+<sub>Topics: DP, Code Output (C/C++/Java/Python) · Source: [chat, 6 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L90)</sub>
+
+## 2026-11-05 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Navi OA: two DSA questions (BFS, implementation)
+
+2 DSA questions, one BFS-based and one basic implementation. (Exact statements not given.)
+
+<sub>Topics: Graphs, Arrays · Source: [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L51), [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L52)</sub>
+
+### Q2. Navi OA: matrix operation debugging
+
+1 debugging question based on matrix operations. (Exact statement not given.)
+
+<sub>Topics: Arrays, Code Output (C/C++/Java/Python) · Source: [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L51), [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L52)</sub>
+
+## 2026-11-05 · IIT Kharagpur · FTE
+
+### Q1. Wobble the Text score
+
+Given Player 1's lowercase word, calculate the Wobble the Text score from alphabetical tile displacements and the ASCII value of the last sorted letter, then print the score and Player 2's uppercase starting letter.
+
+One poster thought a digit sum had to be printed. Exact details are missing.
+
+<sub>Topics: Strings, Sorting · Source: [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L102), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L104), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L105), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L108)</sub>
+
+### Q2. Fix C++ alternating row/column sort
+
+Fix the C++ program to sort rows alternately ascending/descending, then columns alternately descending/ascending, and count elements unchanged at their original positions.
+
+The buggy code is not given.
+
+<sub>Topics: Arrays, Sorting, Code Output (C/C++/Java/Python) · Source: [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L102), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L104), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L105), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L108)</sub>
+
+### Q3. Vertices within distance two
+
+Given an undirected graph and a specified vertex, count the distinct other vertices within distance two of that vertex.
+
+<sub>Topics: Graphs · Same idea: [LeetCode 1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) (Easy), BFS limited to depth two from source · Source: [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L102), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L104), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L105), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L108)</sub>
+
+## 2026-11-05 · IIT Hyderabad · FTE
+
+### Q1. Navi OA: 2048 game (hard)
+
+OA had 2 medium questions and one hard. The hard one was to code the 2048 game. (Other details not remembered.)
+
+<sub>Topics: Arrays, Recursion/Backtracking · Source: [chat, 5 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L178)</sub>
+
+## 2026-11-05 · IIT Guwahati · FTE
+
+### Q1. Lines passing through at least 3 points
+
+Given n coordinates, find the number of lines which pass through at least 3 of the given points.
+
+<sub>Topics: Math, Hashing · Same idea: [LeetCode 149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) (Hard), count collinear points using slope hashing · Source: [chat, 5 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L190), [chat, 5 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L191) · Also asked at: IIT Guwahati (2026-11-05)</sub>
+
+### Q2. Inorder traversal of nodes with at least one child from level order
+
+Print the inorder traversal of nodes that have at least one child, where the tree is given as a level order traversal.
+
+<sub>Topics: Trees · Same idea: [LeetCode 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy), inorder traversal of tree built from level order · Source: [chat, 5 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L190), [chat, 5 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L191)</sub>
+
+## 2026-11-05 · IIT Guwahati · FTE · SDE
+
+### Q1. Inorder of binary tree from level order traversal
+
+Given the level order traversal of a binary tree, print its inorder traversal.
+
+(Exact input format and constraints were not given.)
+
+<sub>Topics: Trees · Close variant: [LeetCode 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (Easy), inorder traversal of tree built from level order · Source: [chat, 5 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L211)</sub>
+
+## 2026-11-05 · IIT Guwahati · FTE · Data Science
+
+### Q1. Navi Data Science OA topics
+
+Questions on ability (aptitude), probability and statistics were asked.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L118)</sub>
+
+## 2026-11-05 · IIT BHU · FTE · SDE
+
+### Q1. Sum of nodes with exactly two children in a binary tree
+
+You are given a binary tree where each node contains an integer value.
+
+Input format:
+- `N`: total number of nodes in the tree.
+- `S`: value of the root node.
+- `pos[N-1]`: array of strings giving the positions of the remaining nodes relative to the root. Each position string consists of `L` (move to left child) and `R` (move to right child).
+- `val[N-1]`: array with the corresponding values of those nodes.
+
+Example:
+```text
+N = 5
+S = 1
+
+L   4
+R   3
+LR  2
+RR  2
+```
+This represents a binary tree with root value `1`, a left child with value `4`, a right child with value `3`, and so on.
+
+Task: Find the sum of the values of all nodes that have exactly two children (both left and right).
+
+Note: there was an incorrect test case in the original data (`n = 3, s = 10, pos = ["LL", "R"], val = [5, 6]`), invalid because node `LL` requires its parent `L` to exist but no node at `L` is provided.
+
+<sub>Topics: Trees · Same idea: [LeetCode 1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (Medium), binary tree traversal summing nodes by child condition · Source: [chat, 6 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L120)</sub>
 
 ## 2026-11-04 · IIT Hyderabad · FTE
 
@@ -153,7 +296,7 @@ After:
 4 7 8
 ```
 
-<sub>Topics: Arrays, Recursion/Backtracking · Similar: [LeetCode 1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) (Medium) · Source: [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L24), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L25), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L27), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L28), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L34)</sub>
+<sub>Topics: Arrays, Recursion/Backtracking · Similar: [LeetCode 1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) (Medium) · Source: [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L24), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L25), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L27), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L28), [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L34) · Also asked at: IIT Roorkee (2026-11-06)</sub>
 
 ### Q3. Debug digit-sum bucket sort
 
@@ -167,7 +310,7 @@ Debugging question. Code was given that puts numbers into buckets 0-9 based on t
 
 25 MCQs in 30 minutes (aptitude based).
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L41)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L41) · Also asked at: IIT Guwahati (2026-11-05)</sub>
 
 ## 2026-11-01 · IIT Delhi · FTE · SDE
 

@@ -1,9 +1,13 @@
 # Code Output (C/C++/Java/Python)
 
-60 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+64 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-06 | [Navi](../companies/navi.md) | IIT Hyderabad | [DP debugging problem](../companies/navi.md#q2-dp-debugging-problem) | |
+| 2026-11-05 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | IIT Guwahati | [Basic loop question](../companies/jpmorgan-chase.md#q2-basic-loop-question) | |
+| 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [Navi OA: matrix operation debugging](../companies/navi.md#q2-navi-oa-matrix-operation-debugging) | |
+| 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur | [Fix C++ alternating row/column sort](../companies/navi.md#q2-fix-c-alternating-rowcolumn-sort) | |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Guwahati | [Frog jump minimum cost DP with input-reading bug](../companies/unknown.md#q1-frog-jump-minimum-cost-dp-with-input-reading-bug) | [AtCoder DP A](https://atcoder.jp/contests/dp/tasks/dp_a) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Debug digit-sum bucket sort](../companies/navi.md#q3-debug-digit-sum-bucket-sort) | ≈ [LC 258](https://leetcode.com/problems/add-digits/) Easy |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Debugging: fix input handling](../companies/navi.md#q4-debugging-fix-input-handling) | |

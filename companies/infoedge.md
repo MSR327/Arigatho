@@ -1,23 +1,25 @@
 # InfoEdge
 
-**27 questions** · 8 drives · latest 2 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**28 questions** · 9 drives · latest 5 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · [OOP](../topics/oop.md) 2 · [Binary Search](../topics/binary-search.md) 1 · +4 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · [OOP](../topics/oop.md) 2 · [Binary Search](../topics/binary-search.md) 1 · +4 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Patna
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT Guwahati · FTE · Data Scientist](#2026-11-05--iit-guwahati--fte--data-scientist)
+  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern)
 - [2026-11-02 · IIT Hyderabad · FTE · AI Scientist](#2026-11-02--iit-hyderabad--fte--ai-scientist)
   - [InfoEdge AI Scientist OA pattern](#q1-infoedge-ai-scientist-oa-pattern)
 - [2026-10-26 · MNNIT Allahabad · FTE](#2026-10-26--mnnit-allahabad--fte)
   - [OA pattern: aptitude/core CS MCQs + 2 DSA](#q1-oa-pattern-aptitudecore-cs-mcqs--2-dsa)
 - [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte)
-  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern)
-- [2026-10-26 · IIIT Allahabad · FTE](#2026-10-26--iiit-allahabad--fte)
   - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-1)
-- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
+- [2026-10-26 · IIIT Allahabad · FTE](#2026-10-26--iiit-allahabad--fte)
   - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-2)
+- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
+  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-3)
   - [InfoEdge OA format](#q2-infoedge-oa-format)
 - [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte)
   - [OA pattern: 40 MCQs on stats, ML, DL](#q1-oa-pattern-40-mcqs-on-stats-ml-dl)
@@ -47,6 +49,14 @@
 </details>
 
 ---
+
+## 2026-11-05 · IIT Guwahati · FTE · Data Scientist
+
+### Q1. InfoEdge OA pattern
+
+MCQs on quant, math and programming. Role: Data Scientist.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L67)</sub>
 
 ## 2026-11-02 · IIT Hyderabad · FTE · AI Scientist
 

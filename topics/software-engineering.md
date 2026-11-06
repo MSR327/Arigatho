@@ -1,9 +1,11 @@
 # Software Engineering
 
-48 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+50 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Denso OA: fix backend repository with AI agent](../companies/denso.md#q3-denso-oa-fix-backend-repository-with-ai-agent) | |
+| 2026-11-05 | [Amazon](../companies/amazon.md) | Unknown | [Debugging: movie DB search backend](../companies/amazon.md#q1-debugging-movie-db-search-backend) | |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Production debugging scenarios](../companies/hilabs.md#q1-production-debugging-scenarios) | |
 | 2026-10-31 | [American Express](../companies/american-express.md) | IIT Bombay | [Complete Java RAG project](../companies/american-express.md#q2-complete-java-rag-project) | |
 | 2026-10-28 | [IBM](../companies/ibm.md) | MNNIT Allahabad | [Promo code validation backend fix](../companies/ibm.md#q2-promo-code-validation-backend-fix) | |

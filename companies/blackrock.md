@@ -1,13 +1,19 @@
 # BlackRock
 
-**15 questions** · 7 drives · latest 4 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**18 questions** · 10 drives · latest 6 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 8 · [SQL](../topics/sql.md) 3 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Aptitude](../topics/aptitude.md) 1 · +1 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [SQL](../topics/sql.md) 3 · [ML/AI](../topics/ml-ai.md) 2 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Aptitude](../topics/aptitude.md) 1 · +1 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Indore, IIT Kharagpur/Kanpur, NIT Raipur, SVNIT Surat
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-06 · IIT BHU · FTE](#2026-11-06--iit-bhu--fte)
+  - [BlackRock OA format](#q1-blackrock-oa-format)
+- [2026-11-05 · IIT Indore · FTE · AD](#2026-11-05--iit-indore--fte--ad)
+  - [BlackRock AD OA format](#q1-blackrock-ad-oa-format)
+- [2026-11-05 · IIT BHU · FTE · Aladdin AI/ML](#2026-11-05--iit-bhu--fte--aladdin-aiml)
+  - [BlackRock OA pattern](#q1-blackrock-oa-pattern)
 - [2026-11-03 · IIT Indore · FTE · Analyst - Aladdin Wealth Technology](#2026-11-03--iit-indore--fte--analyst---aladdin-wealth-technology)
   - [Employees earning above department average salary](#q1-employees-earning-above-department-average-salary)
   - [Months with higher cost than previous month (LAG)](#q2-months-with-higher-cost-than-previous-month-lag)
@@ -22,18 +28,42 @@
   - [Cloud MCQ sections (glitched)](#q4-cloud-mcq-sections-glitched)
   - [MCP / AI / LLM / prompt engineering MCQs](#q5-mcp--ai--llm--prompt-engineering-mcqs)
 - [2026-10-28 · IIT Indore · FTE](#2026-10-28--iit-indore--fte)
-  - [BlackRock OA pattern](#q1-blackrock-oa-pattern)
+  - [BlackRock OA pattern](#q1-blackrock-oa-pattern-1)
 - [2026-10-28 · IIT Indore · FTE · Aladdin Data](#2026-10-28--iit-indore--fte--aladdin-data)
   - [BlackRock AD role OA sections](#q1-blackrock-ad-role-oa-sections)
   - [Aladdin Data OA pattern (reported)](#q2-aladdin-data-oa-pattern-reported)
 - [2026-10-27 · NIT Raipur · FTE · AD](#2026-10-27--nit-raipur--fte--ad)
   - [BlackRock OA sections](#q1-blackrock-oa-sections)
 - [2026-10-20 · SVNIT Surat · FTE](#2026-10-20--svnit-surat--fte)
-  - [BlackRock OA format](#q1-blackrock-oa-format)
+  - [BlackRock OA format](#q1-blackrock-oa-format-1)
 
 </details>
 
 ---
+
+## 2026-11-06 · IIT BHU · FTE
+
+### Q1. BlackRock OA format
+
+Two DSA questions (easy to medium level) with an AI assistant, and three MCQ sections covering AI/ML, probability and linear algebra.
+
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L215) · Also asked at: IIT Delhi (2026-11-05), IIT BHU (2026-11-06)</sub>
+
+## 2026-11-05 · IIT Indore · FTE · AD
+
+### Q1. BlackRock AD OA format
+
+Question 1: API integration. Question 2: an SQL question. Question 3: a DSA question. An AI assistant was available for the first two. Then MCQs in three sections: cloud, AI, CS fundamentals. C++ was allowed for the 1st and 3rd questions.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L71)</sub>
+
+## 2026-11-05 · IIT BHU · FTE · Aladdin AI/ML
+
+### Q1. BlackRock OA pattern
+
+Coding + MCQ. Topics covered: Python ML framework, DSA, computational complexity MCQs, NLP, prompt engineering, LLM, RAG, classical ML concepts. The actual question statements were not shared.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L155), [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L171) · Also asked at: IIT BHU (2026-11-05)</sub>
 
 ## 2026-11-03 · IIT Indore · FTE · Analyst - Aladdin Wealth Technology
 
@@ -116,7 +146,7 @@ Section 6: 30 MCQs on MCP, AI, LLMs and prompt engineering. The question title i
 
 2 SQL coding questions, some basic aptitude and English MCQs, and finance-related MCQs. (Specific topics not given.)
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L46) · Also asked at: IIT Kharagpur/Kanpur (2026-11-03), IIT Delhi (2026-11-03), BITS Pilani (2026-11-04)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L46) · Also asked at: IIT Kharagpur/Kanpur (2026-11-03), IIT Delhi (2026-11-03), BITS Pilani (2026-11-04), IIT Indore (2026-11-05)</sub>
 
 ## 2026-10-28 · IIT Indore · FTE · Aladdin Data
 

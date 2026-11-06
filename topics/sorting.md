@@ -1,9 +1,11 @@
 # Sorting
 
-55 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+57 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur | [Fix C++ alternating row/column sort](../companies/navi.md#q2-fix-c-alternating-rowcolumn-sort) | |
+| 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur | [Wobble the Text score](../companies/navi.md#q1-wobble-the-text-score) | |
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Largest subset of intervals with one intersecting all others](../companies/cognizant.md#q4-largest-subset-of-intervals-with-one-intersecting-all-others) | |
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Count intervals containing each query point](../companies/cognizant.md#q3-count-intervals-containing-each-query-point) | [LC 2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) Hard |
 | 2026-11-04 | [Point72](../companies/point72.md) | IIT BHU | [Minimum slippage cost for exactly k orders](../companies/point72.md#q1-minimum-slippage-cost-for-exactly-k-orders) | ≈ [CF 524A](https://codeforces.com/problemset/problem/524/A) rated 1600 |

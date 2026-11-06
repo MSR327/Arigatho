@@ -1,9 +1,16 @@
 # Arrays
 
-199 questions from 58 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+206 questions from 60 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [HiLabs](../companies/hilabs.md) | IIT Delhi | [Trapping rainwater style coding question](../companies/hilabs.md#q1-trapping-rainwater-style-coding-question) | [LC 42](https://leetcode.com/problems/trapping-rain-water/) Hard |
+| 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Delhi | [Minimize max inconvenience after opening one store](../companies/amazon.md#q3-minimize-max-inconvenience-after-opening-one-store) | ≈ [LC 1162](https://leetcode.com/problems/as-far-from-land-as-possible/) Medium |
+| 2026-11-05 | [Navi](../companies/navi.md) | IIT Hyderabad | [Navi OA: 2048 game (hard)](../companies/navi.md#q1-navi-oa-2048-game-hard) | |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [Minimum division operations to make array non-decreasing](../companies/mathworks.md#q2-minimum-division-operations-to-make-array-non-decreasing) | [LC 3326](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) Medium |
+| 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [Navi OA: matrix operation debugging](../companies/navi.md#q2-navi-oa-matrix-operation-debugging) | |
+| 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [Navi OA: two DSA questions (BFS, implementation)](../companies/navi.md#q1-navi-oa-two-dsa-questions-bfs-implementation) | |
+| 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur | [Fix C++ alternating row/column sort](../companies/navi.md#q2-fix-c-alternating-rowcolumn-sort) | |
 | 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Maximum subarray sum](../companies/pluswealth.md#q7-maximum-subarray-sum) | [LC 53](https://leetcode.com/problems/maximum-subarray/) Medium |
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Largest subset of intervals with one intersecting all others](../companies/cognizant.md#q4-largest-subset-of-intervals-with-one-intersecting-all-others) | |
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Count intervals containing each query point](../companies/cognizant.md#q3-count-intervals-containing-each-query-point) | [LC 2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) Hard |

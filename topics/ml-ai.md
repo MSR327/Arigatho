@@ -1,9 +1,10 @@
 # ML/AI
 
-89 questions from 20 companys, newest first. [← all topics](../README.md#topics)
+90 questions from 20 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-05 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock OA pattern](../companies/blackrock.md#q1-blackrock-oa-pattern) |
 | 2026-11-03 | [HP](../companies/hp.md) | IIT Gandhinagar | [HP Inc GenAI OA rounds and topics](../companies/hp.md#q1-hp-inc-genai-oa-rounds-and-topics) |
 | 2026-11-03 | [Point72](../companies/point72.md) | Unknown | [Quant OA topics](../companies/point72.md#q1-quant-oa-topics) |
 | 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Roorkee | [HiLabs topics covered in tests and interviews](../companies/hilabs.md#q1-hilabs-topics-covered-in-tests-and-interviews) |

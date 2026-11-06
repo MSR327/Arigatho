@@ -1,13 +1,15 @@
 # Plutus Research
 
-**12 questions** · 5 drives · latest 30 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**13 questions** · 6 drives · latest 5 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 4 · [DP](../topics/dp.md) 3 · [Trees](../topics/trees.md) 2 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Arrays](../topics/arrays.md) 2 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +3 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 5 · [DP](../topics/dp.md) 3 · [Trees](../topics/trees.md) 2 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Math](../topics/math.md) 2 · [Arrays](../topics/arrays.md) 2 · [Graphs](../topics/graphs.md) 1 · +3 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT Kharagpur · FTE · Quant](#2026-11-05--iit-kharagpur--fte--quant)
+  - [Plutus quant OA topics](#q1-plutus-quant-oa-topics)
 - [2026-10-30 · IIT Kharagpur/Kanpur · FTE](#2026-10-30--iit-kharagpurkanpur--fte)
   - [Plutus OA language allowed](#q1-plutus-oa-language-allowed)
 - [2026-10-30 · IIT Delhi · FTE](#2026-10-30--iit-delhi--fte)
@@ -29,6 +31,14 @@
 </details>
 
 ---
+
+## 2026-11-05 · IIT Kharagpur · FTE · Quant
+
+### Q1. Plutus quant OA topics
+
+Questions are probability and math based, for example finding the last digit of an expression.
+
+<sub>Topics: Math, OA Format · Source: [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L125)</sub>
 
 ## 2026-10-30 · IIT Kharagpur/Kanpur · FTE
 
