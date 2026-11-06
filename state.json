@@ -182,7 +182,7 @@
   },
   "campus-iit-bhu-placements": {
    "oldest_id": 2920,
-   "newest_id": 22149,
+   "newest_id": 22152,
    "backfill_done": true
   },
   "campus-iit-bhubaneswar-placements": {
@@ -192,7 +192,7 @@
   },
   "campus-iit-bombay-placements": {
    "oldest_id": 2923,
-   "newest_id": 22024,
+   "newest_id": 22154,
    "backfill_done": true
   },
   "campus-iit-delhi-placements": {
@@ -21164,6 +21164,8 @@
   21476,
   21567,
   21568,
-  21999
+  21999,
+  22152,
+  22154
  ]
 }
