@@ -1,9 +1,16 @@
 # OA Format
 
-556 questions from 110 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+574 questions from 113 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 OA DSA topics](../companies/cars24.md#q1-cars24-oa-dsa-topics) | |
+| 2026-11-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI Manager 1 and Lombard Full Stack test content](../companies/icici.md#q1-icici-manager-1-and-lombard-full-stack-test-content) | |
+| 2026-11-06 | [Kanini](../companies/kanini.md) | IIT Guwahati | [Kanini OA sections](../companies/kanini.md#q2-kanini-oa-sections) | |
+| 2026-11-06 | [Kanini](../companies/kanini.md) | IIT Guwahati | [Kanini OA pattern](../companies/kanini.md#q1-kanini-oa-pattern) | |
+| 2026-11-06 | [Porter](../companies/porter.md) | IIT BHU | [Porter OA pattern](../companies/porter.md#q1-porter-oa-pattern) | |
+| 2026-11-06 | [BlackRock](../companies/blackrock.md) | IIT Indore | [BlackRock AWT preparation topics](../companies/blackrock.md#q1-blackrock-awt-preparation-topics) | |
+| 2026-11-06 | [Porter](../companies/porter.md) | IIT Hyderabad | [Porter AI/ML role OA pattern](../companies/porter.md#q1-porter-aiml-role-oa-pattern) | |
 | 2026-11-06 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock OA format](../companies/blackrock.md#q1-blackrock-oa-format) | |
 | 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Vibe coding backend API assignment](../companies/denso.md#q4-vibe-coding-backend-api-assignment) | |
 | 2026-11-05 | [BlackRock](../companies/blackrock.md) | IIT Indore | [BlackRock AD OA format](../companies/blackrock.md#q1-blackrock-ad-oa-format) | |
@@ -11,25 +18,36 @@
 | 2026-11-05 | [ICICI](../companies/icici.md) | IIT Guwahati | [ICICI OA format](../companies/icici.md#q1-icici-oa-format) | |
 | 2026-11-05 | [Plutus Research](../companies/plutus-research.md) | IIT Kharagpur | [Plutus quant OA topics](../companies/plutus-research.md#q1-plutus-quant-oa-topics) | |
 | 2026-11-05 | [IQVIA](../companies/iqvia.md) | IIT Bombay | [IQVIA analyst OA contents](../companies/iqvia.md#q1-iqvia-analyst-oa-contents) | |
+| 2026-11-05 | [Unknown](../companies/unknown.md) | IIT Guwahati | [OA format: DSA, aptitude, SQL, behavioural](../companies/unknown.md#q1-oa-format-dsa-aptitude-sql-behavioural) | |
+| 2026-11-05 | [Kanini](../companies/kanini.md) | IIT Guwahati | [Kanini Data Scientist OA format](../companies/kanini.md#q1-kanini-data-scientist-oa-format) | |
 | 2026-11-05 | [IBM](../companies/ibm.md) | IIT Guwahati | [IBM ISDL technical round 1](../companies/ibm.md#q1-ibm-isdl-technical-round-1) | |
 | 2026-11-05 | [Texas Instruments](../companies/texas-instruments.md) | IIT Kharagpur/Kanpur | [Texas Instruments OA format (3 sections)](../companies/texas-instruments.md#q1-texas-instruments-oa-format-3-sections) | |
 | 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Denso OA: fix backend repository with AI agent](../companies/denso.md#q3-denso-oa-fix-backend-repository-with-ai-agent) | |
 | 2026-11-05 | [Sekant Security](../companies/sekant-security.md) | IIT Guwahati | [Sekant Security hiring process](../companies/sekant-security.md#q1-sekant-security-hiring-process) | |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | Unknown | [Debugging: movie DB search backend](../companies/amazon.md#q1-debugging-movie-db-search-backend) | |
+| 2026-11-05 | [Unknown](../companies/unknown.md) | IIT Delhi | [Indus Insight OA pattern](../companies/unknown.md#q1-indus-insight-oa-pattern) | |
+| 2026-11-05 | [IBM](../companies/ibm.md) | IIT Kharagpur | [IBM SWE/SDE OA duration and format](../companies/ibm.md#q1-ibm-swesde-oa-duration-and-format) | |
+| 2026-11-05 | [Texas Instruments](../companies/texas-instruments.md) | IIT Roorkee | [TI OA topics: STA, C programming, 8085](../companies/texas-instruments.md#q1-ti-oa-topics-sta-c-programming-8085) | |
 | 2026-11-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [InfoEdge OA pattern](../companies/infoedge.md#q1-infoedge-oa-pattern) | |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Guwahati | [Amazon OA format](../companies/amazon.md#q1-amazon-oa-format-2) | |
 | 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Denso OA: development with AI assistant](../companies/denso.md#q2-denso-oa-development-with-ai-assistant) | |
 | 2026-11-05 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | IIT Guwahati | [JPMC Research & Analytics OA pattern](../companies/jpmorgan-chase.md#q1-jpmc-research--analytics-oa-pattern) | |
 | 2026-11-05 | [Accordion](../companies/accordion.md) | IIT BHU | [Accordion AI/ML Engineer OA format](../companies/accordion.md#q1-accordion-aiml-engineer-oa-format) | |
+| 2026-11-05 | [Schlumberger](../companies/schlumberger.md) | NIT Kurukshetra | [Schlumberger interview topics](../companies/schlumberger.md#q1-schlumberger-interview-topics) | |
 | 2026-11-05 | [ICICI](../companies/icici.md) | IIT BHU | [ICICI Manager OA topics](../companies/icici.md#q1-icici-manager-oa-topics) | |
 | 2026-11-05 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock OA pattern](../companies/blackrock.md#q1-blackrock-oa-pattern) | |
+| 2026-11-05 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | NIT Kurukshetra | [JPMC CIB Research & Analytics OA pattern](../companies/jpmorgan-chase.md#q1-jpmc-cib-research--analytics-oa-pattern) | |
 | 2026-11-05 | [Capital One](../companies/capital-one.md) | IIT Guwahati | [Capital One round 2 pattern](../companies/capital-one.md#q1-capital-one-round-2-pattern-2) | |
 | 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Denso OA format: solve a task with a chatbot](../companies/denso.md#q1-denso-oa-format-solve-a-task-with-a-chatbot) | |
 | 2026-11-05 | [Auxo AI](../companies/auxo-ai.md) | IIT Guwahati | [Auxo AI OA format](../companies/auxo-ai.md#q1-auxo-ai-oa-format) | |
+| 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Cognizant OA topics](../companies/cognizant.md#q1-cognizant-oa-topics) | |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Delhi | [Amazon OA format: coding and debugging](../companies/amazon.md#q2-amazon-oa-format-coding-and-debugging) | |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Madras | [Amazon OA format](../companies/amazon.md#q1-amazon-oa-format) | |
+| 2026-11-05 | [Nvidia](../companies/nvidia.md) | Thapar Institute | [Nvidia OA contents](../companies/nvidia.md#q1-nvidia-oa-contents) | |
+| 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [Navi non-tech OA pattern](../companies/navi.md#q1-navi-non-tech-oa-pattern) | |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Hyderabad | [Amazon OA format](../companies/amazon.md#q1-amazon-oa-format-1) | |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Delhi | [Amazon OA format: AI-assisted backend debugging](../companies/amazon.md#q1-amazon-oa-format-ai-assisted-backend-debugging) | |
+| 2026-11-05 | [Amazon](../companies/amazon.md) | NIT Raipur | [Amazon SDE OA pattern](../companies/amazon.md#q1-amazon-sde-oa-pattern) | |
 | 2026-11-05 | [Capital One](../companies/capital-one.md) | Unknown | [Capital One round 2 pattern](../companies/capital-one.md#q1-capital-one-round-2-pattern) | |
 | 2026-11-05 | [Capital One](../companies/capital-one.md) | Unknown | [Capital One round 2 pattern](../companies/capital-one.md#q1-capital-one-round-2-pattern-1) | |
 | 2026-11-04 | [Qualcomm](../companies/qualcomm.md) | NIT Kurukshetra | [Qualcomm OA topics](../companies/qualcomm.md#q1-qualcomm-oa-topics) | |
@@ -38,7 +56,7 @@
 | 2026-11-04 | [Accenture](../companies/accenture.md) | IIT Kharagpur/Kanpur | [Accenture ETE role OA structure](../companies/accenture.md#q1-accenture-ete-role-oa-structure) | |
 | 2026-11-04 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI Manager 1 OA pattern](../companies/icici.md#q1-icici-manager-1-oa-pattern) | |
 | 2026-11-04 | [ICICI](../companies/icici.md) | VNIT Nagpur | [ICICI Manager-1 OA and interview format](../companies/icici.md#q1-icici-manager-1-oa-and-interview-format) | |
-| 2026-11-04 | [Porter](../companies/porter.md) | VNIT Nagpur | [Porter OA pattern](../companies/porter.md#q1-porter-oa-pattern) | |
+| 2026-11-04 | [Porter](../companies/porter.md) | VNIT Nagpur | [Porter OA pattern](../companies/porter.md#q1-porter-oa-pattern-1) | |
 | 2026-11-04 | [NPCI](../companies/npci.md) | VNIT Nagpur | [NPCI AI round contents](../companies/npci.md#q1-npci-ai-round-contents) | |
 | 2026-11-04 | [Visa](../companies/visa.md) | IIIT Allahabad | [Visa OA structure](../companies/visa.md#q1-visa-oa-structure) | |
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Cognizant OA DSA difficulty](../companies/cognizant.md#q1-cognizant-oa-dsa-difficulty) | |

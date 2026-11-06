@@ -1,9 +1,10 @@
 # SQL
 
-97 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+98 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [Tredence](../companies/tredence.md) | IIT BHU | [SQL self join and group by](../companies/tredence.md#q2-sql-self-join-and-group-by) | ≈ [LC 181](https://leetcode.com/problems/employees-earning-more-than-their-managers/) Easy |
 | 2026-11-04 | [Accordion](../companies/accordion.md) | IIT Hyderabad | [Accordion Data & AI Analyst pattern](../companies/accordion.md#q1-accordion-data--ai-analyst-pattern) | |
 | 2026-11-03 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Months with higher cost than previous month (LAG)](../companies/blackrock.md#q2-months-with-higher-cost-than-previous-month-lag) | ≈ [LC 197](https://leetcode.com/problems/rising-temperature/) Easy |
 | 2026-11-03 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Employees earning above department average salary](../companies/blackrock.md#q1-employees-earning-above-department-average-salary) | ≈ [LC 577](https://leetcode.com/problems/employee-bonus/) Easy |

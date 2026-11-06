@@ -1,10 +1,13 @@
 # Hashing
 
-95 questions from 45 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+98 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Message Delivery System](../companies/cognizant.md#q1-message-delivery-system) | [LC 359](https://leetcode.com/problems/logger-rate-limiter/) Easy |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Guwahati | [Lines passing through at least 3 points](../companies/navi.md#q1-lines-passing-through-at-least-3-points) | ≈ [LC 149](https://leetcode.com/problems/max-points-on-a-line/) Hard |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Count subarrays rearrangeable into palindromes](../companies/mathworks.md#q2-count-subarrays-rearrangeable-into-palindromes) | [LC 1915](https://leetcode.com/problems/number-of-wonderful-substrings/) Medium |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Minimum subsequences with a majority element](../companies/mathworks.md#q1-minimum-subsequences-with-a-majority-element) | ≈ [LC 169](https://leetcode.com/problems/majority-element/) Easy |
 | 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Smallest Covering Window](../companies/commotion.md#q2-smallest-covering-window) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |
 | 2026-11-03 | [Deloitte](../companies/deloitte.md) | IIT Roorkee | [Warehouse order allocation (vibe coding)](../companies/deloitte.md#q1-warehouse-order-allocation-vibe-coding) | |
 | 2026-11-03 | [Point72](../companies/point72.md) | IIT Madras | [Maximum size of a K-multiple-free subset](../companies/point72.md#q1-maximum-size-of-a-k-multiple-free-subset) | ≈ [LC 2170](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) Medium |

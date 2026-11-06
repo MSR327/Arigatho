@@ -1,6 +1,6 @@
 # Cars24: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**1 written experience**, newest first · [OA questions](../companies/cars24.md) · [← all companies](README.md)
 
 ## 22 Oct 2025 · Software Development Engineer · IIT Kharagpur · on-campus
 

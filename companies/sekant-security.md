@@ -21,4 +21,4 @@
 
 Hiring process: an online assessment with 3 medium-hard DSA questions, followed by interviews and then an HR round. The individual questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L94) · Also asked at: IIT Guwahati (2026-11-05)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L94) · Also asked at: IIT Guwahati ×2 (last 2026-11-05)</sub>

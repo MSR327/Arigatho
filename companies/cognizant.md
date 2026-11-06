@@ -1,13 +1,19 @@
 # Cognizant
 
-**29 questions** · 15 drives · latest 5 Nov 2026 · [8 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**33 questions** · 17 drives · latest 5 Nov 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 15 · [Greedy](../topics/greedy.md) 6 · [Strings](../topics/strings.md) 4 · [Binary Search](../topics/binary-search.md) 3 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Arrays](../topics/arrays.md) 3 · [Trees](../topics/trees.md) 1 · +6 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 16 · [Greedy](../topics/greedy.md) 6 · [Strings](../topics/strings.md) 5 · [Arrays](../topics/arrays.md) 5 · [Binary Search](../topics/binary-search.md) 3 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Hashing](../topics/hashing.md) 2 · +8 more  
 **Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT Dhanbad · FTE](#2026-11-05--iit-dhanbad--fte)
+  - [Message Delivery System](#q1-message-delivery-system)
+  - [Beautiful Graph (Codeforces 1093D)](#q2-beautiful-graph-codeforces-1093d)
+  - [Minimum Execution Time - Process Scheduling](#q3-minimum-execution-time---process-scheduling)
+- [2026-11-05 · IIT BHU · FTE](#2026-11-05--iit-bhu--fte)
+  - [Cognizant OA topics](#q1-cognizant-oa-topics)
 - [2026-11-04 · IIT Guwahati · FTE · ACE Frontier - Senior Associate](#2026-11-04--iit-guwahati--fte--ace-frontier---senior-associate)
   - [Cognizant ACE OA pattern](#q1-cognizant-ace-oa-pattern)
 - [2026-11-04 · IIT BHU · FTE](#2026-11-04--iit-bhu--fte)
@@ -57,13 +63,110 @@
 
 ---
 
+## 2026-11-05 · IIT Dhanbad · FTE
+
+### Q1. Message Delivery System
+
+You are given a vector of strings `messages`, representing a sequence of incoming messages, and an integer `k`, representing a time window in seconds. Determine whether each message should be delivered.
+
+A message must not be delivered if the same message has already appeared within the previous k seconds. Otherwise, it can be delivered.
+
+Return a vector of strings with the delivery status of each incoming message: "true" if the message is delivered, "false" if it is not.
+
+```
+vector<string> messageDelivery(vector<string>& messages, int k);
+```
+
+Example:
+```
+messages = {"hello", "hi", "hello", "welcome", "hi", "hello", "hello"};
+k = 3;
+Output: {"true", "true", "false", "true", "false", "true", "false"}
+```
+
+Explanation: the first hello and hi are new, so they are delivered. The second hello is within 3 seconds, so it is blocked. welcome is new. The second hi is blocked. The previous hello is now outside the window, so it is delivered. The last hello was delivered recently, so it is blocked. Each vector position corresponds to one second.
+
+Constraints:
+- 1 ≤ messages.length ≤ 10^5
+- 1 ≤ k ≤ 10^9
+- Each message is a non-empty string.
+
+<sub>Topics: Hashing, Arrays, Strings · Close variant: [LeetCode 359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) (Easy), hashmap of last timestamp, block within window · Source: [iit_dhanbad_cognizant_oa.pdf](../archive/files/21496-iit_dhanbad_cognizant_oa.pdf)</sub>
+
+### Q2. Beautiful Graph (Codeforces 1093D)
+
+You are given an undirected, unweighted graph with n vertices and m edges. Assign exactly one number from {1, 2, 3} to every vertex. The graph is beautiful if, for every edge, the sum of the numbers assigned to its endpoints is odd.
+
+Calculate the number of valid assignments, modulo 998244353.
+
+Input: the first line contains t, the number of test cases. For each test case, read n and m, followed by m undirected edges (u, v).
+
+Output: for each test case, print the number of valid assignments modulo 998244353.
+
+Constraints:
+- 1 ≤ t ≤ 3 × 10^5
+- 1 ≤ n ≤ 3 × 10^5
+- 0 ≤ m ≤ 3 × 10^5
+- The sums of n and m over all test cases are each at most 3 × 10^5.
+
+Sample Input:
+```
+2
+2 1
+1 2
+4 6
+1 2
+1 3
+1 4
+2 3
+2 4
+3 4
+```
+Sample Output:
+```
+4
+0
+```
+
+<sub>Topics: Graphs, Math · Same problem: [Codeforces 1093D. Beautiful Graph](https://codeforces.com/problemset/problem/1093/D) (rated 1700), bipartite coloring, count 2^a+2^b per component · Source: [iit_dhanbad_cognizant_oa.pdf](../archive/files/21496-iit_dhanbad_cognizant_oa.pdf)</sub>
+
+### Q3. Minimum Execution Time - Process Scheduling
+
+There are n processes to be executed, and k of them are high-priority, given by their 1-based indices in the array `high_priority`. An OS scheduler assigns a set of processes to a processor. If the assigned processes number more than 1 and are even in count, it can divide the array of processes p into two contiguous subarrays p1 and p2 of equal length and give each to one processor. Alternatively, it can execute the assigned array without splitting it.
+
+The time for a process execution depends on:
+1. If the assigned processes include no high-priority process, the scheduler takes `normal_time` seconds to complete all the assigned processes.
+2. If there are high-priority processes among the assigned tasks (x of them), it takes `priority_time * x * l` seconds, where l is the total number of assigned processes.
+
+The total time is the sum of the time taken by all processors. Minimize the total execution time by optimizing the assignment and return this minimum.
+
+```
+getMinimumTime(n, high_priority, normal_time, priority_time)
+```
+
+Example 1: n = 4, k = 1, normal_time = 2, priority_time = 2, high_priority = [1]. The answer is 6 (assign a processor to [1, 2], giving 2*1*2 = 4 seconds, and another to [3, 4], giving 2 seconds).
+
+Sample Case 0: n = 4, high_priority = [1, 4] (k = 2), normal_time = 1, priority_time = 5. The answer is 12.
+
+The statement was read from blurry photos, so the exact wording and constraints are only partly visible. The cost formula and splitting rule are my best reading of the photos.
+
+<sub>Topics: Recursion/Backtracking, Arrays · Source: [iit_dhanbad_cognizant_oa.pdf](../archive/files/21496-iit_dhanbad_cognizant_oa.pdf)</sub>
+
+## 2026-11-05 · IIT BHU · FTE
+
+### Q1. Cognizant OA topics
+
+The test has 3 DSA questions, 2 of them on priority_queue (heaps), and the DSA was tough. The MCQs were very basic: RAG, agentic AI, LLMs, LangChain and Python.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/cognizant-oa/2026-11.jsonl#L77), [chat, 5 Nov](../archive/cognizant-oa/2026-11.jsonl#L78)</sub>
+
 ## 2026-11-04 · IIT Guwahati · FTE · ACE Frontier - Senior Associate
 
 ### Q1. Cognizant ACE OA pattern
 
 The OA had 3 DSA questions plus 20 MCQs. Everyone at IIT Guwahati got set 6. (Question statements were not shared.)
 
-<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L48), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L51)</sub>
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L48), [chat, 4 Nov](../archive/cognizant-oa/2026-11.jsonl#L51) · Also asked at: IIT Guwahati (2026-11-05)</sub>
 
 ## 2026-11-04 · IIT BHU · FTE
 
@@ -266,7 +369,7 @@ There was one more hard DSA question; the poster did not say what it was.
 
 About 10-20 easy MCQs on the very basics of prompting, RAG and similar topics.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 30 Oct](../archive/cognizant-oa/2026-10.jsonl#L27), [chat, 30 Oct](../archive/cognizant-oa/2026-10.jsonl#L28)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 30 Oct](../archive/cognizant-oa/2026-10.jsonl#L27), [chat, 30 Oct](../archive/cognizant-oa/2026-10.jsonl#L28) · Also asked at: IIT Dhanbad (2026-11-05)</sub>
 
 ## 2026-10-28 · IIT BHU · FTE · Ace Frontier Engineer
 

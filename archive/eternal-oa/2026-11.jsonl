@@ -17,3 +17,6 @@
 {"id": 19838, "group": "eternal-oa", "sent_at": "2026-11-03T12:06:13.83195+00:00", "text": "Does anyone know the test shortlisting criteria of Eternal ?", "author_tag": "IITB", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 19956, "group": "eternal-oa", "sent_at": "2026-11-03T15:45:44.044728+00:00", "text": "Eternal ML OA questions hai kya kisipe?", "author_tag": "IITB", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 20025, "group": "eternal-oa", "sent_at": "2026-11-03T18:25:23.189811+00:00", "text": "", "author_tag": "BHU", "reply_to": null, "attachment": null, "deleted": true}
+{"id": 21785, "group": "eternal-oa", "sent_at": "2026-11-05T21:08:23.613983+00:00", "text": "", "author_tag": "IITH", "reply_to": null, "attachment": null, "deleted": true}
+{"id": 21789, "group": "eternal-oa", "sent_at": "2026-11-05T21:18:23.038991+00:00", "text": "have u got?", "author_tag": "IITB", "reply_to": {"id": 19956, "text": "Eternal ML OA questions hai kya kisipe?", "author_tag": "IITB"}, "attachment": null, "deleted": false}
+{"id": 22090, "group": "eternal-oa", "sent_at": "2026-11-06T09:55:09.759125+00:00", "text": "nope", "author_tag": "IITB", "reply_to": {"id": 21789, "text": "have u got?", "author_tag": "IITB"}, "attachment": null, "deleted": false}

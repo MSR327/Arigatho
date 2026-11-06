@@ -1,6 +1,6 @@
 # HiLabs
 
-**23 questions** · 12 drives · latest 5 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**23 questions** · 12 drives · latest 6 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 6 · [Math](../topics/math.md) 5 · [Arrays](../topics/arrays.md) 5 · [Strings](../topics/strings.md) 4 · [Greedy](../topics/greedy.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Sorting](../topics/sorting.md) 3 · +9 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +2 more
@@ -221,7 +221,7 @@ Multiply two numbers given as strings/linked lists (poster described it as 'mult
 
 2 DSA questions (all languages allowed) and MCQs on LLMs, agents and RAG, as mentioned in the company PPT.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1296) · Also asked at: IIT Guwahati ×3 (last 2026-10-31), IIT Hyderabad (2026-11-01), IIT Delhi (2026-11-01), IIT BHU (2026-11-01)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/inter-iit/2026-10.jsonl#L1296) · Also asked at: IIT Guwahati ×3 (last 2026-10-31), IIT Hyderabad (2026-11-01), IIT Delhi (2026-11-01), IIT BHU ×2 (last 2026-11-06)</sub>
 
 ## 2026-10-31 · IIT BHU · FTE · AI Engineer
 

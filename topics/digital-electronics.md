@@ -1,9 +1,10 @@
 # Digital Electronics
 
-25 questions from 4 companys, newest first. [← all topics](../README.md#topics)
+26 questions from 4 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-05 | [Texas Instruments](../companies/texas-instruments.md) | IIT Roorkee | [TI OA topics: STA, C programming, 8085](../companies/texas-instruments.md#q1-ti-oa-topics-sta-c-programming-8085) |
 | 2026-10-30 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [VLSI & EDA topics](../companies/texas-instruments.md#q4-vlsi--eda-topics) |
 | 2026-10-30 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Verilog HDL topics](../companies/texas-instruments.md#q3-verilog-hdl-topics) |
 | 2026-10-30 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [CMOS & VLSI topics](../companies/texas-instruments.md#q2-cmos--vlsi-topics) |

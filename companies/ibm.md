@@ -1,13 +1,15 @@
 # IBM
 
-**25 questions** · 16 drives · latest 5 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**26 questions** · 17 drives · latest 6 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
-**Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +2 more
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
+**Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT Kharagpur · FTE · SDE](#2026-11-05--iit-kharagpur--fte--sde)
+  - [IBM SWE/SDE OA duration and format](#q1-ibm-swesde-oa-duration-and-format)
 - [2026-11-05 · IIT Guwahati · FTE · ISDL · Interview](#2026-11-05--iit-guwahati--fte--isdl--interview)
   - [IBM ISDL technical round 1](#q1-ibm-isdl-technical-round-1)
 - [2026-11-02 · IIT Roorkee · FTE](#2026-11-02--iit-roorkee--fte)
@@ -54,13 +56,21 @@
 
 ---
 
+## 2026-11-05 · IIT Kharagpur · FTE · SDE
+
+### Q1. IBM SWE/SDE OA duration and format
+
+IBM OA for SWE/SDE at IIT Kharagpur was 80 minutes in total, with the questions sharing a combined time limit rather than separate timers. Qualifying reportedly required passing all DSA test cases. No specific questions were shared.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/ibm-oa/2026-11.jsonl#L32), [chat, 5 Nov](../archive/ibm-oa/2026-11.jsonl#L35), [chat, 5 Nov](../archive/ibm-oa/2026-11.jsonl#L36)</sub>
+
 ## 2026-11-05 · IIT Guwahati · FTE · ISDL · Interview
 
 ### Q1. IBM ISDL technical round 1
 
 Technical round 1 for the ISDL role: 2 DSA questions, some detailed grilling on projects, and a check of awareness of AI and new technologies.
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L65)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L65) · Also asked at: IIT Hyderabad (2026-11-05)</sub>
 
 ## 2026-11-02 · IIT Roorkee · FTE
 
@@ -158,7 +168,7 @@ Tell me about a time when you had to quickly reorganize your plans or priorities
 
 AI-based recorded interview: you get 1 minute to prepare for each question and then must speak for the next 3 minutes.
 
-<sub>Topics: HR & Behavioral, OA Format · Source: [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L39) · Also asked at: IIT Guwahati (2026-11-03)</sub>
+<sub>Topics: HR & Behavioral, OA Format · Source: [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L39) · Also asked at: IIT Guwahati (2026-11-03), IIT Roorkee (2026-11-06)</sub>
 
 ## 2026-10-27 · IIT Kanpur · FTE · Hardware
 

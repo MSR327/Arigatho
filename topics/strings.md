@@ -1,10 +1,14 @@
 # Strings
 
-100 questions from 43 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+104 questions from 43 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
-| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [IBM get optimal string length](../companies/mathworks.md#q1-ibm-get-optimal-string-length) | |
+| 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Message Delivery System](../companies/cognizant.md#q1-message-delivery-system) | [LC 359](https://leetcode.com/problems/logger-rate-limiter/) Easy |
+| 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [String + game story implementation](../companies/navi.md#q1-string--game-story-implementation) | |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Maximize beautiful substrings](../companies/mathworks.md#q3-maximize-beautiful-substrings) | ≈ [LC 1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) Medium |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Count subarrays rearrangeable into palindromes](../companies/mathworks.md#q2-count-subarrays-rearrangeable-into-palindromes) | [LC 1915](https://leetcode.com/problems/number-of-wonderful-substrings/) Medium |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [IBM get optimal string length](../companies/mathworks.md#q2-ibm-get-optimal-string-length) | |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur | [Wobble the Text score](../companies/navi.md#q1-wobble-the-text-score) | |
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [String problem (first DSA question)](../companies/cognizant.md#q5-string-problem-first-dsa-question) | |
 | 2026-11-04 | [Unknown](../companies/unknown.md) | IIT BHU | [Next permutation of a string](../companies/unknown.md#q1-next-permutation-of-a-string) | [LC 31](https://leetcode.com/problems/next-permutation/) Medium |

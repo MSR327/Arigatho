@@ -1,9 +1,11 @@
 # Sliding Window
 
-25 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+27 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-06 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Longest window split into two parts with sum at most k](../companies/accenture.md#q1-longest-window-split-into-two-parts-with-sum-at-most-k) | ≈ [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [Maximum elements picked with at most one skip](../companies/mathworks.md#q1-maximum-elements-picked-with-at-most-one-skip) | ≈ [LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/) Medium |
 | 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Smallest window size with OR at least S](../companies/capital-one.md#q2-smallest-window-size-with-or-at-least-s) | ≈ [LC 2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) Medium |
 | 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Smallest Covering Window](../companies/commotion.md#q2-smallest-covering-window) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Minimum window substring](../companies/unknown.md#q2-minimum-window-substring) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |

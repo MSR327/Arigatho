@@ -1,15 +1,21 @@
 # Arrays
 
-206 questions from 60 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+212 questions from 60 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-06 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Longest window split into two parts with sum at most k](../companies/accenture.md#q1-longest-window-split-into-two-parts-with-sum-at-most-k) | ≈ [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
+| 2026-11-05 | [Tredence](../companies/tredence.md) | IIT BHU | [Longest subarray splittable into two parts with sums differing by at most K](../companies/tredence.md#q1-longest-subarray-splittable-into-two-parts-with-sums-differing-by-at-most-k) | ≈ [LC 862](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) Hard |
+| 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Minimum Execution Time - Process Scheduling](../companies/cognizant.md#q3-minimum-execution-time---process-scheduling) | |
+| 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Message Delivery System](../companies/cognizant.md#q1-message-delivery-system) | [LC 359](https://leetcode.com/problems/logger-rate-limiter/) Easy |
 | 2026-11-05 | [HiLabs](../companies/hilabs.md) | IIT Delhi | [Trapping rainwater style coding question](../companies/hilabs.md#q1-trapping-rainwater-style-coding-question) | [LC 42](https://leetcode.com/problems/trapping-rain-water/) Hard |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Delhi | [Minimize max inconvenience after opening one store](../companies/amazon.md#q3-minimize-max-inconvenience-after-opening-one-store) | ≈ [LC 1162](https://leetcode.com/problems/as-far-from-land-as-possible/) Medium |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Hyderabad | [Navi OA: 2048 game (hard)](../companies/navi.md#q1-navi-oa-2048-game-hard) | |
-| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [Minimum division operations to make array non-decreasing](../companies/mathworks.md#q2-minimum-division-operations-to-make-array-non-decreasing) | [LC 3326](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) Medium |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Minimum subsequences with a majority element](../companies/mathworks.md#q1-minimum-subsequences-with-a-majority-element) | ≈ [LC 169](https://leetcode.com/problems/majority-element/) Easy |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [Minimum division operations to make array non-decreasing](../companies/mathworks.md#q3-minimum-division-operations-to-make-array-non-decreasing) | [LC 3326](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) Medium |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [Navi OA: matrix operation debugging](../companies/navi.md#q2-navi-oa-matrix-operation-debugging) | |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [Navi OA: two DSA questions (BFS, implementation)](../companies/navi.md#q1-navi-oa-two-dsa-questions-bfs-implementation) | |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [Maximum elements picked with at most one skip](../companies/mathworks.md#q1-maximum-elements-picked-with-at-most-one-skip) | ≈ [LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/) Medium |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur | [Fix C++ alternating row/column sort](../companies/navi.md#q2-fix-c-alternating-rowcolumn-sort) | |
 | 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Maximum subarray sum](../companies/pluswealth.md#q7-maximum-subarray-sum) | [LC 53](https://leetcode.com/problems/maximum-subarray/) Medium |
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Largest subset of intervals with one intersecting all others](../companies/cognizant.md#q4-largest-subset-of-intervals-with-one-intersecting-all-others) | |

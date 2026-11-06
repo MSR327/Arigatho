@@ -1,13 +1,16 @@
 # Tredence
 
-**47 questions** · 16 drives · latest 5 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**49 questions** · 17 drives · latest 6 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [Aptitude](../topics/aptitude.md) 6 · [SQL](../topics/sql.md) 5 · [Arrays](../topics/arrays.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +10 more  
-**Seen at:** IIIT Hyderabad, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur/Kanpur, MNNIT Allahabad, VIT Vellore +1 more
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [SQL](../topics/sql.md) 6 · [Arrays](../topics/arrays.md) 6 · [Aptitude](../topics/aptitude.md) 6 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +11 more  
+**Seen at:** IIIT Hyderabad, IIT BHU, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT BHU · FTE](#2026-11-05--iit-bhu--fte)
+  - [Longest subarray splittable into two parts with sums differing by at most K](#q1-longest-subarray-splittable-into-two-parts-with-sums-differing-by-at-most-k)
+  - [SQL self join and group by](#q2-sql-self-join-and-group-by)
 - [2026-10-31 · IIT Bhubaneswar · FTE · Data Scientist](#2026-10-31--iit-bhubaneswar--fte--data-scientist)
   - [Tredence Data Scientist OA pattern](#q1-tredence-data-scientist-oa-pattern)
 - [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
@@ -76,6 +79,24 @@
 
 ---
 
+## 2026-11-05 · IIT BHU · FTE
+
+### Q1. Longest subarray splittable into two parts with sums differing by at most K
+
+Given an array and an integer K, find the longest contiguous subarray that can be split into two non-empty contiguous parts whose sums differ by at most K.
+
+Examples and constraints were not given.
+
+<sub>Topics: Arrays, Binary Search · Same idea: [LeetCode 862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) (Hard), prefix sums with window over subarray sums · Source: [chat, 5 Nov](../archive/tredence-oa/2026-11.jsonl#L10), [chat, 5 Nov](../archive/tredence-oa/2026-11.jsonl#L17), [chat, 5 Nov](../archive/tredence-oa/2026-11.jsonl#L18), [chat, 5 Nov](../archive/tredence-oa/2026-11.jsonl#L21), [chat, 5 Nov](../archive/tredence-oa/2026-11.jsonl#L24) · Also asked at: IIT BHU (2026-11-05)</sub>
+
+### Q2. SQL self join and group by
+
+The SQL question was basic and used a self join and group by.
+
+The exact question was not shared.
+
+<sub>Topics: SQL · Same idea: [LeetCode 181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) (Easy), self join on employee table · Source: [chat, 5 Nov](../archive/tredence-oa/2026-11.jsonl#L10), [chat, 5 Nov](../archive/tredence-oa/2026-11.jsonl#L17), [chat, 5 Nov](../archive/tredence-oa/2026-11.jsonl#L18), [chat, 5 Nov](../archive/tredence-oa/2026-11.jsonl#L21), [chat, 5 Nov](../archive/tredence-oa/2026-11.jsonl#L24)</sub>
+
 ## 2026-10-31 · IIT Bhubaneswar · FTE · Data Scientist
 
 ### Q1. Tredence Data Scientist OA pattern
@@ -100,7 +121,7 @@ The communication round is an AI-based (SpeechX) test. The AI speaks a paragraph
 
 The exact questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1227), [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1228)</sub>
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1227), [chat, 29 Oct](../archive/inter-iit/2026-10.jsonl#L1228) · Also asked at: IIT BHU (2026-11-06)</sub>
 
 ## 2026-10-30 · IIIT Hyderabad · FTE
 
@@ -449,7 +470,7 @@ There were 34 MCQs, of which 2 were Python ML related questions:
 
 The actual DSA and SQL questions were not shared.
 
-<sub>Topics: OA Format, Python & Pandas · Source: [chat, 28 Oct](../archive/tredence-oa/2026-10.jsonl#L46) · Also asked at: Unknown ×2 (last 2026-10-27), IIT Hyderabad ×2 (last 2026-10-31), IIT Kharagpur/Kanpur (2026-11-02)</sub>
+<sub>Topics: OA Format, Python & Pandas · Source: [chat, 28 Oct](../archive/tredence-oa/2026-10.jsonl#L46) · Also asked at: Unknown ×2 (last 2026-10-27), IIT Hyderabad ×2 (last 2026-10-31), IIT Kharagpur/Kanpur (2026-11-02), IIT Kanpur (2026-11-05)</sub>
 
 ### Q6. Python data cleaning and dataset summary function
 
@@ -460,7 +481,7 @@ Two Python ML questions:
 
 The code snippet itself was not shared.
 
-<sub>Topics: Python & Pandas · Source: [chat, 28 Oct](../archive/tredence-oa/2026-10.jsonl#L46) · Also asked at: Unknown ×2 (last 2026-10-26), IIT Hyderabad ×2 (last 2026-10-28)</sub>
+<sub>Topics: Python & Pandas · Source: [chat, 28 Oct](../archive/tredence-oa/2026-10.jsonl#L46) · Also asked at: Unknown ×2 (last 2026-10-26), IIT Hyderabad ×2 (last 2026-10-28), IIT Kanpur ×2 (last 2026-11-05)</sub>
 
 ## 2026-10-28 · IIT Hyderabad · FTE · Other round
 

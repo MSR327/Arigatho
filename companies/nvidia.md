@@ -1,13 +1,15 @@
 # Nvidia
 
-**31 questions** · 14 drives · latest 30 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**32 questions** · 15 drives · latest 5 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Stack/Queue](../topics/stack-queue.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Trees](../topics/trees.md) 4 · [Bit Manipulation](../topics/bit-manipulation.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Math](../topics/math.md) 2 · +9 more  
-**Seen at:** IIT Delhi, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, NIT Rourkela, VNIT Nagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Stack/Queue](../topics/stack-queue.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Trees](../topics/trees.md) 4 · [Bit Manipulation](../topics/bit-manipulation.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Math](../topics/math.md) 2 · +9 more  
+**Seen at:** IIT Delhi, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, NIT Rourkela, Thapar Institute, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · Thapar Institute · FTE](#2026-11-05--thapar-institute--fte)
+  - [Nvidia OA contents](#q1-nvidia-oa-contents)
 - [2026-10-30 · Unknown · FTE · System Software](#2026-10-30--unknown--fte--system-software)
   - [System Software OA format](#q1-system-software-oa-format)
 - [2026-10-30 · MNNIT Allahabad · FTE · SSE](#2026-10-30--mnnit-allahabad--fte--sse)
@@ -57,6 +59,14 @@
 </details>
 
 ---
+
+## 2026-11-05 · Thapar Institute · FTE
+
+### Q1. Nvidia OA contents
+
+Fill-in-the-blank questions on topics like multiplexers, NLA, aptitude, general DSA and timings. For the software role, coding was also asked. Exact questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/nvidia-oa/2026-11.jsonl#L37), [chat, 5 Nov](../archive/nvidia-oa/2026-11.jsonl#L38)</sub>
 
 ## 2026-10-30 · Unknown · FTE · System Software
 

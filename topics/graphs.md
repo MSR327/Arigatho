@@ -1,10 +1,11 @@
 # Graphs
 
-124 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+125 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-06 | [Navi](../companies/navi.md) | IIT Hyderabad | [Sum of values of articulation points](../companies/navi.md#q1-sum-of-values-of-articulation-points) | [GfG](https://www.geeksforgeeks.org/problems/articulation-point2616/1) |
+| 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Beautiful Graph (Codeforces 1093D)](../companies/cognizant.md#q2-beautiful-graph-codeforces-1093d) | [CF 1093D](https://codeforces.com/problemset/problem/1093/D) rated 1700 |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Delhi | [Minimize max inconvenience after opening one store](../companies/amazon.md#q3-minimize-max-inconvenience-after-opening-one-store) | ≈ [LC 1162](https://leetcode.com/problems/as-far-from-land-as-possible/) Medium |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [Navi OA: two DSA questions (BFS, implementation)](../companies/navi.md#q1-navi-oa-two-dsa-questions-bfs-implementation) | |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur | [Vertices within distance two](../companies/navi.md#q3-vertices-within-distance-two) | ≈ [LC 1971](https://leetcode.com/problems/find-if-path-exists-in-graph/) Easy |

@@ -1,12 +1,13 @@
 # Math
 
-175 questions from 48 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+176 questions from 49 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-05 | [Plutus Research](../companies/plutus-research.md) | IIT Kharagpur | [Plutus quant OA topics](../companies/plutus-research.md#q1-plutus-quant-oa-topics) | |
+| 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Beautiful Graph (Codeforces 1093D)](../companies/cognizant.md#q2-beautiful-graph-codeforces-1093d) | [CF 1093D](https://codeforces.com/problemset/problem/1093/D) rated 1700 |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Guwahati | [Lines passing through at least 3 points](../companies/navi.md#q1-lines-passing-through-at-least-3-points) | ≈ [LC 149](https://leetcode.com/problems/max-points-on-a-line/) Hard |
-| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [Minimum division operations to make array non-decreasing](../companies/mathworks.md#q2-minimum-division-operations-to-make-array-non-decreasing) | [LC 3326](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) Medium |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [Minimum division operations to make array non-decreasing](../companies/mathworks.md#q3-minimum-division-operations-to-make-array-non-decreasing) | [LC 3326](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) Medium |
 | 2026-11-04 | [Unknown](../companies/unknown.md) | IIT BHU | [Stacked Cuboid Coverage](../companies/unknown.md#q3-stacked-cuboid-coverage) | |
 | 2026-11-04 | [Unknown](../companies/unknown.md) | IIT BHU | [Count perfect squares from a digit string with underscores](../companies/unknown.md#q2-count-perfect-squares-from-a-digit-string-with-underscores) | |
 | 2026-11-04 | [Navi](../companies/navi.md) | IIT Hyderabad | [Coordinate in diagonal zigzag filled square grid](../companies/navi.md#q1-coordinate-in-diagonal-zigzag-filled-square-grid) | |

@@ -163,7 +163,7 @@ Poster was unsure of the details; exact statement and constraints were not given
 
 The OA has aptitude questions covering logical reasoning, data interpretation and quant.
 
-<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/inter-iit/2026-11.jsonl#L129)</sub>
+<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/inter-iit/2026-11.jsonl#L129) · Also asked at: IIT Kharagpur/Kanpur (2026-11-05)</sub>
 
 ## 2026-11-02 · IIT Kharagpur · FTE
 

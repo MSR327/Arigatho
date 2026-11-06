@@ -1,13 +1,15 @@
 # ICICI
 
-**17 questions** · 16 drives · latest 5 Nov 2026 · [← all companies](../README.md#companies)
+**18 questions** · 17 drives · latest 6 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 15 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [OOP](../topics/oop.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 16 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [OOP](../topics/oop.md) 1  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad, Manipal, NIT Kurukshetra +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-06 · IIT Roorkee · FTE · Manager 1](#2026-11-06--iit-roorkee--fte--manager-1)
+  - [ICICI Manager 1 and Lombard Full Stack test content](#q1-icici-manager-1-and-lombard-full-stack-test-content)
 - [2026-11-05 · IIT Guwahati · FTE](#2026-11-05--iit-guwahati--fte)
   - [ICICI OA format](#q1-icici-oa-format)
 - [2026-11-05 · IIT BHU · FTE · Manager 1 · Other round](#2026-11-05--iit-bhu--fte--manager-1--other-round)
@@ -46,13 +48,21 @@
 
 ---
 
+## 2026-11-06 · IIT Roorkee · FTE · Manager 1
+
+### Q1. ICICI Manager 1 and Lombard Full Stack test content
+
+For the Manager 1 role, everything related to CS fundamentals is asked. For ICICI Lombard (Full Stack), there is an aptitude section and a technical section. No specific questions were shared.
+
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/icici-oa/2026-11.jsonl#L42), [chat, 6 Nov](../archive/icici-oa/2026-11.jsonl#L43)</sub>
+
 ## 2026-11-05 · IIT Guwahati · FTE
 
 ### Q1. ICICI OA format
 
 English, reasoning, maths, operating systems and more, a bit of everything.
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L75) · Also asked at: IIT Guwahati (2026-11-05)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L75) · Also asked at: IIT Guwahati ×2 (last 2026-11-05)</sub>
 
 ## 2026-11-05 · IIT BHU · FTE · Manager 1 · Other round
 
@@ -60,7 +70,7 @@ English, reasoning, maths, operating systems and more, a bit of everything.
 
 Selection process: resume shortlisting, online assessment, personal interview. The OA consists of: OOPs concepts, Computer Networking, Operating System, Programming Language (C/C++/Python/Java), Machine Learning, Natural Language Processing, Quantitative Mathematics, Project Management, Software Engineering, DBMS.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Guwahati (2026-11-06)</sub>
 
 ### Q2. ICICI interview: Placement Coordinator role questions
 
@@ -81,7 +91,7 @@ This discussion lasted almost 10 minutes, then moved on to club experience (the 
 
 The OA was straightforward and MCQ based, with no coding questions. The interview was easy and mostly resume based.
 
-<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/icici-oa/2026-11.jsonl#L15), [chat, 4 Nov](../archive/icici-oa/2026-11.jsonl#L17)</sub>
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/icici-oa/2026-11.jsonl#L15), [chat, 4 Nov](../archive/icici-oa/2026-11.jsonl#L17) · Also asked at: VNIT Nagpur (2026-11-05)</sub>
 
 ## 2026-11-04 · NIT Surathkal · FTE · Manager-1
 

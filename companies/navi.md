@@ -1,8 +1,8 @@
 # Navi
 
-**44 questions** · 22 drives · latest 6 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**46 questions** · 24 drives · latest 6 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 9 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 5 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 3 · +5 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 10 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Math](../topics/math.md) 4 · +5 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Mandi +2 more
 
 <details>
@@ -14,6 +14,10 @@
 - [2026-11-05 · IIT Kharagpur/Kanpur · FTE](#2026-11-05--iit-kharagpurkanpur--fte)
   - [Navi OA: two DSA questions (BFS, implementation)](#q1-navi-oa-two-dsa-questions-bfs-implementation)
   - [Navi OA: matrix operation debugging](#q2-navi-oa-matrix-operation-debugging)
+- [2026-11-05 · IIT Kharagpur/Kanpur · FTE · Non-tech / APM](#2026-11-05--iit-kharagpurkanpur--fte--non-tech--apm)
+  - [Navi non-tech OA pattern](#q1-navi-non-tech-oa-pattern)
+- [2026-11-05 · IIT Kharagpur/Kanpur · FTE · SDE 1](#2026-11-05--iit-kharagpurkanpur--fte--sde-1)
+  - [String + game story implementation](#q1-string--game-story-implementation)
 - [2026-11-05 · IIT Kharagpur · FTE](#2026-11-05--iit-kharagpur--fte)
   - [Wobble the Text score](#q1-wobble-the-text-score)
   - [Fix C++ alternating row/column sort](#q2-fix-c-alternating-rowcolumn-sort)
@@ -99,13 +103,31 @@ A DP debugging problem. The fix was to change the loop to `L -> L - 1` and chang
 
 2 DSA questions, one BFS-based and one basic implementation. (Exact statements not given.)
 
-<sub>Topics: Graphs, Arrays · Source: [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L51), [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L52)</sub>
+<sub>Topics: Graphs, Arrays · Source: [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L51), [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L52) · Also asked at: IIT Kharagpur/Kanpur (2026-11-05)</sub>
 
 ### Q2. Navi OA: matrix operation debugging
 
 1 debugging question based on matrix operations. (Exact statement not given.)
 
-<sub>Topics: Arrays, Code Output (C/C++/Java/Python) · Source: [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L51), [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L52)</sub>
+<sub>Topics: Arrays, Code Output (C/C++/Java/Python) · Source: [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L51), [chat, 5 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L52) · Also asked at: IIT Kharagpur/Kanpur (2026-11-05)</sub>
+
+## 2026-11-05 · IIT Kharagpur/Kanpur · FTE · Non-tech / APM
+
+### Q1. Navi non-tech OA pattern
+
+For non-tech roles, the OA had only aptitude, quant and reasoning questions, with no DSA.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L231), [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L232)</sub>
+
+## 2026-11-05 · IIT Kharagpur/Kanpur · FTE · SDE 1
+
+### Q1. String + game story implementation
+
+A string and game based problem with a long story, but it is an easy implementation: brute force directly what is described in the question.
+
+(Exact statement not provided.)
+
+<sub>Topics: Strings, Recursion/Backtracking · Source: [chat, 5 Nov](../archive/inter-nit/2026-11.jsonl#L545)</sub>
 
 ## 2026-11-05 · IIT Kharagpur · FTE
 
@@ -115,7 +137,7 @@ Given Player 1's lowercase word, calculate the Wobble the Text score from alphab
 
 One poster thought a digit sum had to be printed. Exact details are missing.
 
-<sub>Topics: Strings, Sorting · Source: [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L102), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L104), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L105), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L108)</sub>
+<sub>Topics: Strings, Sorting · Source: [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L102), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L104), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L105), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L108) · Also asked at: IIT Kharagpur (2026-11-05)</sub>
 
 ### Q2. Fix C++ alternating row/column sort
 
@@ -123,13 +145,13 @@ Fix the C++ program to sort rows alternately ascending/descending, then columns 
 
 The buggy code is not given.
 
-<sub>Topics: Arrays, Sorting, Code Output (C/C++/Java/Python) · Source: [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L102), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L104), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L105), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L108)</sub>
+<sub>Topics: Arrays, Sorting, Code Output (C/C++/Java/Python) · Source: [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L102), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L104), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L105), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L108) · Also asked at: IIT Kharagpur (2026-11-05)</sub>
 
 ### Q3. Vertices within distance two
 
 Given an undirected graph and a specified vertex, count the distinct other vertices within distance two of that vertex.
 
-<sub>Topics: Graphs · Same idea: [LeetCode 1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) (Easy), BFS limited to depth two from source · Source: [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L102), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L104), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L105), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L108)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) (Easy), BFS limited to depth two from source · Source: [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L102), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L104), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L105), [chat, 5 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L108) · Also asked at: IIT Kharagpur (2026-11-05), IIT Kharagpur/Kanpur (2026-11-05)</sub>
 
 ## 2026-11-05 · IIT Hyderabad · FTE
 

@@ -1,13 +1,15 @@
 # Accenture
 
-**286 questions** · 102 drives · latest 6 Nov 2026 · [47 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**287 questions** · 103 drives · latest 6 Nov 2026 · [48 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 82 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 20 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +17 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 82 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 21 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +18 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-06 · IIT Hyderabad · FTE · S&C Analyst](#2026-11-06--iit-hyderabad--fte--sc-analyst)
+  - [Longest window split into two parts with sum at most k](#q1-longest-window-split-into-two-parts-with-sum-at-most-k)
 - [2026-11-04 · NIT Surathkal · FTE · Interview](#2026-11-04--nit-surathkal--fte--interview)
   - [Accenture interview focus areas](#q1-accenture-interview-focus-areas)
 - [2026-11-04 · IIT Kharagpur/Kanpur · FTE · ETE](#2026-11-04--iit-kharagpurkanpur--fte--ete)
@@ -400,6 +402,40 @@
 </details>
 
 ---
+
+## 2026-11-06 · IIT Hyderabad · FTE · S&C Analyst
+
+### Q1. Longest window split into two parts with sum at most k
+
+The poster shared only a Java solution, not the problem statement. The code is `maxLength(int[] arr, int k)` with sample `arr = {1, 2, 1, 1, 2}`, `k = 4`. It finds the longest window of the array that can be split into two non-empty contiguous partitions, each with sum <= k (so the window sum is <= 2k).
+
+```java
+public static int maxLength(int[] arr, int k) {
+    int n = arr.length;
+    int left = 0, sum = 0, ans = 0;
+    for (int right = 0; right < n; right++) {
+        sum += arr[right];
+        while (sum > 2 * k) { sum -= arr[left]; left++; }
+        // Need two non-empty partitions.
+        if (right - left + 1 >= 2) {
+            int prefix = 0;
+            for (int i = left; i < right; i++) {
+                prefix += arr[i];
+                int suffix = sum - prefix;
+                if (prefix <= k && suffix <= k) {
+                    ans = Math.max(ans, right - left + 1);
+                    break;
+                }
+            }
+        }
+    }
+    return ans;
+}
+```
+
+The original problem statement is missing.
+
+<sub>Topics: Arrays, Sliding Window · Same idea: [LeetCode 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium), variable sliding window with shrinking on constraint · Source: [chat, 6 Nov](../archive/accenture-oa/2026-11.jsonl#L114)</sub>
 
 ## 2026-11-04 · NIT Surathkal · FTE · Interview
 
@@ -2331,7 +2367,7 @@ Technical sections and question counts:
 - Apache Spark: 3 questions (focus: Spark transformations, RDDs, DataFrames and tokenization)
 - Data Science, Statistics, ML, NLP & Deep Learning: 12 questions
 
-<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858) · Also asked at: IIT Roorkee (2026-10-25)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858) · Also asked at: IIT Roorkee (2026-10-25), IIT Kharagpur/Kanpur ×2 (last 2026-11-06)</sub>
 
 ### Q2. Convert implicit join to explicit join
 

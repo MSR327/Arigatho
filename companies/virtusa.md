@@ -1,9 +1,9 @@
 # Virtusa
 
-**4 questions** · 4 drives · latest 22 Sep 2026 · [← all companies](../README.md#companies)
+**4 questions** · 4 drives · latest 5 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 4  
-**Seen at:** IIT Palakkad
+**Seen at:** IIT Guwahati, IIT Palakkad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -39,7 +39,7 @@ A three-hour assessment covering aptitude, reasoning, verbal/communication, prog
 
 The individual questions are not given in the source.
 
-<sub>Topics: OA Format · Source: [chat, 21 Sep](../archive/virtusa-oa/2026-09.jsonl#L1) · Also asked at: IIT Palakkad ×2 (last 2026-09-22)</sub>
+<sub>Topics: OA Format · Source: [chat, 21 Sep](../archive/virtusa-oa/2026-09.jsonl#L1) · Also asked at: IIT Palakkad ×2 (last 2026-09-22), IIT Guwahati (2026-11-05)</sub>
 
 ## 2026-09-21 · Unknown · FTE · Regular Coder · Interview
 

@@ -1,10 +1,12 @@
 # Bit Manipulation
 
-36 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+38 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Count subarrays rearrangeable into palindromes](../companies/mathworks.md#q2-count-subarrays-rearrangeable-into-palindromes) | [LC 1915](https://leetcode.com/problems/number-of-wonderful-substrings/) Medium |
 | 2026-11-05 | [Accelequant](../companies/accelequant.md) | IIT Hyderabad | [Minimum cost to connect two groups of points](../companies/accelequant.md#q2-minimum-cost-to-connect-two-groups-of-points) | [LC 1595](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) Hard |
+| 2026-11-05 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Max sum picking at most X elements with sum less than L](../companies/texas-instruments.md#q1-max-sum-picking-at-most-x-elements-with-sum-less-than-l) | ≈ [GfG](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) |
 | 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Smallest window size with OR at least S](../companies/capital-one.md#q2-smallest-window-size-with-or-at-least-s) | ≈ [LC 2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) Medium |
 | 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [The Great Chai Stall Crawl](../companies/commotion.md#q4-the-great-chai-stall-crawl) | [CSES 1690](https://cses.fi/problemset/task/1690) |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIT Madras | [Bitmask DP problem](../companies/unknown.md#q4-bitmask-dp-problem) | |

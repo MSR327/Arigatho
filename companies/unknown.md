@@ -1,13 +1,17 @@
 # Unknown
 
-**33 questions** · 19 drives · latest 4 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**35 questions** · 21 drives · latest 5 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 13 · [Strings](../topics/strings.md) 4 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Arrays](../topics/arrays.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Graphs](../topics/graphs.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +13 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 15 · [Strings](../topics/strings.md) 4 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Arrays](../topics/arrays.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Graphs](../topics/graphs.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +13 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT Guwahati · FTE](#2026-11-05--iit-guwahati--fte)
+  - [OA format: DSA, aptitude, SQL, behavioural](#q1-oa-format-dsa-aptitude-sql-behavioural)
+- [2026-11-05 · IIT Delhi · FTE](#2026-11-05--iit-delhi--fte)
+  - [Indus Insight OA pattern](#q1-indus-insight-oa-pattern)
 - [2026-11-04 · IIT Roorkee · FTE](#2026-11-04--iit-roorkee--fte)
   - [Aptitude OA topics and difficulty](#q1-aptitude-oa-topics-and-difficulty)
 - [2026-11-04 · IIT BHU · FTE · AI Engineer](#2026-11-04--iit-bhu--fte--ai-engineer)
@@ -64,6 +68,22 @@
 </details>
 
 ---
+
+## 2026-11-05 · IIT Guwahati · FTE
+
+### Q1. OA format: DSA, aptitude, SQL, behavioural
+
+The OA had 3 medium-hard DSA questions, 20 aptitude and SQL questions, and then 20 behavioural questions. The company is not named in this message.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-nit/2026-11.jsonl#L592)</sub>
+
+## 2026-11-05 · IIT Delhi · FTE
+
+### Q1. Indus Insight OA pattern
+
+OA pattern for Indus Insight: aptitude, quant, logical reasoning, and at the end a guesstimate; all sections are timed.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-nit/2026-11.jsonl#L554)</sub>
 
 ## 2026-11-04 · IIT Roorkee · FTE
 

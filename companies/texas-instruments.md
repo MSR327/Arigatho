@@ -1,15 +1,19 @@
 # Texas Instruments
 
-**85 questions** · 13 drives · latest 6 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**87 questions** · 15 drives · latest 6 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 22 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [OA Format](../topics/oa-format.md) 6 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +8 more  
+**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 23 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [OA Format](../topics/oa-format.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +8 more  
 **Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · IIT Roorkee · FTE](#2026-11-05--iit-roorkee--fte)
+  - [TI OA topics: STA, C programming, 8085](#q1-ti-oa-topics-sta-c-programming-8085)
 - [2026-11-05 · IIT Kharagpur/Kanpur · FTE](#2026-11-05--iit-kharagpurkanpur--fte)
   - [Texas Instruments OA format (3 sections)](#q1-texas-instruments-oa-format-3-sections)
+- [2026-11-05 · IIT BHU · FTE · Embedded Software](#2026-11-05--iit-bhu--fte--embedded-software)
+  - [Max sum picking at most X elements with sum less than L](#q1-max-sum-picking-at-most-x-elements-with-sum-less-than-l)
 - [2026-11-02 · IIT Bombay · FTE · Embedded Software](#2026-11-02--iit-bombay--fte--embedded-software)
   - [Minimum moves in grid avoiding blocked cells](#q1-minimum-moves-in-grid-avoiding-blocked-cells)
 - [2026-11-01 · IIT Delhi · FTE · Embedded](#2026-11-01--iit-delhi--fte--embedded)
@@ -111,6 +115,16 @@
 
 ---
 
+## 2026-11-05 · IIT Roorkee · FTE
+
+### Q1. TI OA topics: STA, C programming, 8085
+
+Topics reported in the OA: static timing analysis (STA) questions on hold time slack, basic C programming questions, and questions on the 8085 microprocessor.
+
+Negative marking of 0.25 was reported for the analog/digital and embedded software OAs.
+
+<sub>Topics: OA Format, Digital Electronics · Source: [chat, 5 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L42), [chat, 5 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L43)</sub>
+
 ## 2026-11-05 · IIT Kharagpur/Kanpur · FTE
 
 ### Q1. Texas Instruments OA format (3 sections)
@@ -121,6 +135,18 @@
 3. 1 DSA question: Take/Not Take DP.
 
 <sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L155)</sub>
+
+## 2026-11-05 · IIT BHU · FTE · Embedded Software
+
+### Q1. Max sum picking at most X elements with sum less than L
+
+Given an array of elements and two other values: X, the maximum number of elements you can pick, and L, the picked elements' sum must be less than L. Return the maximum sum you can form from the array by picking at most X elements such that the sum is less than L.
+
+Constraints were very small (poster notes it can also be done with bit masking).
+
+Exact constraints and examples were not given.
+
+<sub>Topics: DP, Bit Manipulation · Same idea: [GeeksforGeeks: Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1), subset selection with sum bound, bitmask or DP · Source: [chat, 5 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L38), [chat, 5 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L39), [chat, 5 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L41)</sub>
 
 ## 2026-11-02 · IIT Bombay · FTE · Embedded Software
 

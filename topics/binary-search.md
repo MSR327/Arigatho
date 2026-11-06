@@ -1,10 +1,11 @@
 # Binary Search
 
-43 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+44 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Hyderabad | [Count ancestor-descendant pairs within distance limit](../companies/mathworks.md#q1-count-ancestor-descendant-pairs-within-distance-limit) | ≈ [LC 437](https://leetcode.com/problems/path-sum-iii/) Medium |
+| 2026-11-05 | [Tredence](../companies/tredence.md) | IIT BHU | [Longest subarray splittable into two parts with sums differing by at most K](../companies/tredence.md#q1-longest-subarray-splittable-into-two-parts-with-sums-differing-by-at-most-k) | ≈ [LC 862](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) Hard |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Delhi | [Minimize max inconvenience after opening one store](../companies/amazon.md#q3-minimize-max-inconvenience-after-opening-one-store) | ≈ [LC 1162](https://leetcode.com/problems/as-far-from-land-as-possible/) Medium |
 | 2026-11-05 | [Accelequant](../companies/accelequant.md) | IIT Hyderabad | [Minimized maximum of products distributed to any store](../companies/accelequant.md#q1-minimized-maximum-of-products-distributed-to-any-store) | [LC 2064](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) Medium |
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Count intervals containing each query point](../companies/cognizant.md#q3-count-intervals-containing-each-query-point) | [LC 2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) Hard |

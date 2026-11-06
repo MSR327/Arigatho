@@ -1,10 +1,13 @@
 # Greedy
 
-83 questions from 38 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+86 questions from 38 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
-| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [Minimum division operations to make array non-decreasing](../companies/mathworks.md#q2-minimum-division-operations-to-make-array-non-decreasing) | [LC 3326](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) Medium |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Maximize beautiful substrings](../companies/mathworks.md#q3-maximize-beautiful-substrings) | ≈ [LC 1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) Medium |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Minimum subsequences with a majority element](../companies/mathworks.md#q1-minimum-subsequences-with-a-majority-element) | ≈ [LC 169](https://leetcode.com/problems/majority-element/) Easy |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [Minimum division operations to make array non-decreasing](../companies/mathworks.md#q3-minimum-division-operations-to-make-array-non-decreasing) | [LC 3326](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) Medium |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [Maximum elements picked with at most one skip](../companies/mathworks.md#q1-maximum-elements-picked-with-at-most-one-skip) | ≈ [LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/) Medium |
 | 2026-11-05 | [Accelequant](../companies/accelequant.md) | IIT Hyderabad | [Minimized maximum of products distributed to any store](../companies/accelequant.md#q1-minimized-maximum-of-products-distributed-to-any-store) | [LC 2064](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) Medium |
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Largest subset of intervals with one intersecting all others](../companies/cognizant.md#q4-largest-subset-of-intervals-with-one-intersecting-all-others) | |
 | 2026-11-04 | [Point72](../companies/point72.md) | IIT BHU | [Minimum slippage cost for exactly k orders](../companies/point72.md#q1-minimum-slippage-cost-for-exactly-k-orders) | ≈ [CF 524A](https://codeforces.com/problemset/problem/524/A) rated 1600 |

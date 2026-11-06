@@ -1,11 +1,13 @@
 # DP
 
-129 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+131 questions from 45 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-06 | [Navi](../companies/navi.md) | IIT Hyderabad | [DP debugging problem](../companies/navi.md#q2-dp-debugging-problem) | |
+| 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Maximize beautiful substrings](../companies/mathworks.md#q3-maximize-beautiful-substrings) | ≈ [LC 1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) Medium |
 | 2026-11-05 | [Accelequant](../companies/accelequant.md) | IIT Hyderabad | [Minimum cost to connect two groups of points](../companies/accelequant.md#q2-minimum-cost-to-connect-two-groups-of-points) | [LC 1595](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) Hard |
+| 2026-11-05 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Max sum picking at most X elements with sum less than L](../companies/texas-instruments.md#q1-max-sum-picking-at-most-x-elements-with-sum-less-than-l) | ≈ [GfG](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) |
 | 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Maximum subarray sum](../companies/pluswealth.md#q7-maximum-subarray-sum) | [LC 53](https://leetcode.com/problems/maximum-subarray/) Medium |
 | 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [0/1 Knapsack](../companies/pluswealth.md#q6-01-knapsack) | [GfG](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) |
 | 2026-11-05 | [Pluswealth](../companies/pluswealth.md) | Unknown | [Maximum reward under a budget](../companies/pluswealth.md#q4-maximum-reward-under-a-budget) | |

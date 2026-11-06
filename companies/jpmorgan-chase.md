@@ -1,13 +1,15 @@
 # JPMorgan Chase
 
-**4 questions** · 2 drives · latest 5 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 3 drives · latest 6 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [DP](../topics/dp.md) 1 · [Arrays](../topics/arrays.md) 1 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 1  
-**Seen at:** IIT Guwahati, IIT Kharagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [DP](../topics/dp.md) 1 · [Arrays](../topics/arrays.md) 1 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 1  
+**Seen at:** IIT Guwahati, IIT Kharagpur, NIT Kurukshetra
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-05 · NIT Kurukshetra · FTE · Commercial & Investment Bank Research & Analytics, Global Research - Analyst](#2026-11-05--nit-kurukshetra--fte--commercial--investment-bank-research--analytics-global-research---analyst)
+  - [JPMC CIB Research & Analytics OA pattern](#q1-jpmc-cib-research--analytics-oa-pattern)
 - [2026-11-05 · IIT Guwahati · FTE · Research & Analytics Analyst](#2026-11-05--iit-guwahati--fte--research--analytics-analyst)
   - [JPMC Research & Analytics OA pattern](#q1-jpmc-research--analytics-oa-pattern)
   - [Basic loop question](#q2-basic-loop-question)
@@ -18,6 +20,14 @@
 </details>
 
 ---
+
+## 2026-11-05 · NIT Kurukshetra · FTE · Commercial & Investment Bank Research & Analytics, Global Research - Analyst
+
+### Q1. JPMC CIB Research & Analytics OA pattern
+
+Test contained aptitude and MCQs on CS fundamentals.
+
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-nit/2026-11.jsonl#L519), [chat, 5 Nov](../archive/inter-nit/2026-11.jsonl#L528)</sub>
 
 ## 2026-11-05 · IIT Guwahati · FTE · Research & Analytics Analyst
 
@@ -51,4 +61,4 @@ Paper 1: Cognitive - 30 Qns - 35 Mins - 30 Marks
 
 Paper 2: Coding - 2 Qns - 60 Mins - 8 Marks
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L13) · Also asked at: IIT Guwahati ×3 (last 2026-11-05), IIT Kharagpur (2026-11-05)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L13) · Also asked at: IIT Guwahati ×3 (last 2026-11-05), IIT Kharagpur ×2 (last 2026-11-06)</sub>
