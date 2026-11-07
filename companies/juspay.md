@@ -1,13 +1,15 @@
 # Juspay
 
-**16 questions** · 11 drives · latest 31 Oct 2026 · [← all companies](../README.md#companies)
+**17 questions** · 12 drives · latest 6 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Other](../topics/other.md) 3 · [Strings](../topics/strings.md) 2 · [Trees](../topics/trees.md) 1 · [Hashing](../topics/hashing.md) 1 · [Greedy](../topics/greedy.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Hyderabad, MNNIT Allahabad, NIT Delhi, VIT Vellore
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Other](../topics/other.md) 3 · [Strings](../topics/strings.md) 2 · [Trees](../topics/trees.md) 1 · [Hashing](../topics/hashing.md) 1 · [Greedy](../topics/greedy.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, MNNIT Allahabad, NIT Delhi, NIT Kurukshetra +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-06 · IIT Bombay · FTE](#2026-11-06--iit-bombay--fte)
+  - [Ticketing System (Part A)](#q1-ticketing-system-part-a)
 - [2026-10-27 · IIT Delhi · FTE](#2026-10-27--iit-delhi--fte)
   - [Round 2 MCQ topics](#q1-round-2-mcq-topics)
 - [2026-10-27 · IIT BHU · FTE · Other round](#2026-10-27--iit-bhu--fte--other-round)
@@ -39,6 +41,14 @@
 </details>
 
 ---
+
+## 2026-11-06 · IIT Bombay · FTE
+
+### Q1. Ticketing System (Part A)
+
+Juspay round 3 (2-hour window test) included Part A: "Ticketing System", a heavy implementation-type problem. The problem was sent by mail; the full statement was not included in the message.
+
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L3), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L4), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L6)</sub>
 
 ## 2026-10-27 · IIT Delhi · FTE
 
@@ -111,7 +121,7 @@ Round 3 - Hackathon, DSA-based coding, 2.5 hours, 1 question.
 
 Round 1: 3 DSA questions (repeated from OAHelper Juspay questions). Round 2: MCQs. Round 3: a 2.5-hour hackathon-style round with the Sync Engine question.
 
-<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L7), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L9), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L10), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L11), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L12)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L7), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L9), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L10), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L11), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L12) · Also asked at: NIT Kurukshetra (2026-11-06)</sub>
 
 ### Q3. Encrypted file name update
 

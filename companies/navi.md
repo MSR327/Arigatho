@@ -117,7 +117,7 @@ A DP debugging problem. The fix was to change the loop to `L -> L - 1` and chang
 
 For non-tech roles, the OA had only aptitude, quant and reasoning questions, with no DSA.
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L231), [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L232)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L231), [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L232) · Also asked at: IIT Kharagpur/Kanpur (2026-11-06)</sub>
 
 ## 2026-11-05 · IIT Kharagpur/Kanpur · FTE · SDE 1
 

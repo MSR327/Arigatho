@@ -1,9 +1,12 @@
 # Stack/Queue
 
-28 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+31 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Simplify Path](../companies/capital-one.md#q12-simplify-path) | [LC 71](https://leetcode.com/problems/simplify-path/) Medium |
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Largest Rectangle in Histogram](../companies/capital-one.md#q10-largest-rectangle-in-histogram) | [LC 84](https://leetcode.com/problems/largest-rectangle-in-histogram/) Hard |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Sliding window maximum](../companies/cars24.md#q10-sliding-window-maximum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-03 | [Flipkart](../companies/flipkart.md) | IIT Madras | [Largest rectangle in a histogram](../companies/flipkart.md#q3-largest-rectangle-in-a-histogram) | [LC 84](https://leetcode.com/problems/largest-rectangle-in-histogram/) Hard |
 | 2026-11-02 | [IBM](../companies/ibm.md) | IIT Roorkee | [Open, close k and clear commands](../companies/ibm.md#q1-open-close-k-and-clear-commands) | ≈ [LC 1472](https://leetcode.com/problems/design-browser-history/) Medium |
 | 2026-10-26 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Iterative in-order traversal using a stack](../companies/nvidia.md#q6-iterative-in-order-traversal-using-a-stack) | [LC 94](https://leetcode.com/problems/binary-tree-inorder-traversal/) Easy |

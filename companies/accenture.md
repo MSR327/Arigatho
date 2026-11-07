@@ -1,6 +1,6 @@
 # Accenture
 
-**287 questions** · 103 drives · latest 6 Nov 2026 · [48 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**287 questions** · 103 drives · latest 7 Nov 2026 · [48 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 82 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 21 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +18 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
@@ -1380,7 +1380,7 @@ Assessment stages:
 3. Behavioral & Cognitive Assessment
 4. Communication Assessment
 
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L353)</sub>
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/accenture-oa/2026-10.jsonl#L353) · Also asked at: Unknown (2026-11-07)</sub>
 
 ## 2026-10-22 · IIT Hyderabad · FTE
 

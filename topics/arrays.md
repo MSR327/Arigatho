@@ -1,9 +1,22 @@
 # Arrays
 
-212 questions from 60 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+225 questions from 61 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Rotating the Box](../companies/capital-one.md#q11-rotating-the-box) | [LC 1861](https://leetcode.com/problems/rotating-the-box/) Medium |
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Largest Rectangle in Histogram](../companies/capital-one.md#q10-largest-rectangle-in-histogram) | [LC 84](https://leetcode.com/problems/largest-rectangle-in-histogram/) Hard |
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Candy Crush](../companies/capital-one.md#q9-candy-crush) | [LC 723](https://leetcode.com/problems/candy-crush/) Medium |
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Number of Black Blocks](../companies/capital-one.md#q8-number-of-black-blocks) | [LC 2768](https://leetcode.com/problems/number-of-black-blocks/) Medium |
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Minimum Operations to Write Y](../companies/capital-one.md#q7-minimum-operations-to-write-y) | [LC 3071](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/) Medium |
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Block Placement Queries](../companies/capital-one.md#q5-block-placement-queries) | [LC 3161](https://leetcode.com/problems/block-placement-queries/) Hard |
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Spiral Matrix](../companies/capital-one.md#q4-spiral-matrix) | [LC 54](https://leetcode.com/problems/spiral-matrix/) Medium |
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Merge Intervals](../companies/capital-one.md#q2-merge-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
+| 2026-11-06 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Level with biggest odd sum in balanced binary tree](../companies/texas-instruments.md#q1-level-with-biggest-odd-sum-in-balanced-binary-tree) | [LC 1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) Medium |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Find the town judge](../companies/cars24.md#q15-find-the-town-judge) | [LC 997](https://leetcode.com/problems/find-the-town-judge/) Easy |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Sort 0, 1, 2](../companies/cars24.md#q11-sort-0-1-2) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Longest subarray with sum at most K](../companies/cars24.md#q9-longest-subarray-with-sum-at-most-k) | ≈ [GfG](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) |
+| 2026-11-06 | [MathWorks](../companies/mathworks.md) | IIT Indore | [Minimum swaps to sort using zero](../companies/mathworks.md#q1-minimum-swaps-to-sort-using-zero) | |
 | 2026-11-06 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Longest window split into two parts with sum at most k](../companies/accenture.md#q1-longest-window-split-into-two-parts-with-sum-at-most-k) | ≈ [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
 | 2026-11-05 | [Tredence](../companies/tredence.md) | IIT BHU | [Longest subarray splittable into two parts with sums differing by at most K](../companies/tredence.md#q1-longest-subarray-splittable-into-two-parts-with-sums-differing-by-at-most-k) | ≈ [LC 862](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) Hard |
 | 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Minimum Execution Time - Process Scheduling](../companies/cognizant.md#q3-minimum-execution-time---process-scheduling) | |

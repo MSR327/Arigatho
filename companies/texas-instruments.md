@@ -1,13 +1,15 @@
 # Texas Instruments
 
-**87 questions** · 15 drives · latest 6 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**88 questions** · 16 drives · latest 6 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 23 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [OA Format](../topics/oa-format.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +8 more  
+**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 23 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [OA Format](../topics/oa-format.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +9 more  
 **Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-06 · Unknown · FTE · Embedded Software](#2026-11-06--unknown--fte--embedded-software)
+  - [Level with biggest odd sum in balanced binary tree](#q1-level-with-biggest-odd-sum-in-balanced-binary-tree)
 - [2026-11-05 · IIT Roorkee · FTE](#2026-11-05--iit-roorkee--fte)
   - [TI OA topics: STA, C programming, 8085](#q1-ti-oa-topics-sta-c-programming-8085)
 - [2026-11-05 · IIT Kharagpur/Kanpur · FTE](#2026-11-05--iit-kharagpurkanpur--fte)
@@ -114,6 +116,16 @@
 </details>
 
 ---
+
+## 2026-11-06 · Unknown · FTE · Embedded Software
+
+### Q1. Level with biggest odd sum in balanced binary tree
+
+Given an array representing a balanced binary tree, find the level with the biggest odd sum (consider only those nodes on that level which have odd values) and return that level. If there is a tie, take the level closer to the root. If no such level exists, return -1.
+
+DSA was only in C; no other language allowed.
+
+<sub>Topics: Trees, Arrays · Close variant: [LeetCode 1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (Medium), level-order traversal computing per-level sums, pick best level · Source: [chat, 6 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L52), [chat, 6 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L53), [chat, 6 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L54), [chat, 6 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L55), [chat, 6 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L56), [chat, 6 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L57), [chat, 6 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L58), [chat, 6 Nov](../archive/texas-instruments-oa/2026-11.jsonl#L59)</sub>
 
 ## 2026-11-05 · IIT Roorkee · FTE
 
@@ -425,7 +437,7 @@ Texas Instruments OA for the digital/analog role: MCQs on op-amps, aptitude ques
 
 Simple OA. CS MCQs on C programming, microprocessors and COA. One very easy coding question, only in C language.
 
-<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L25) · Also asked at: IIIT Hyderabad (2026-10-29), IIT BHU (2026-10-30), IIT Delhi (2026-11-05)</sub>
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iiit-hyderabad-placements/2026-10.jsonl#L25) · Also asked at: IIIT Hyderabad (2026-10-29), IIT BHU (2026-10-30), IIT Delhi (2026-11-05), Unknown (2026-11-06)</sub>
 
 ## 2026-10-08 · IIT Hyderabad · FTE
 
@@ -438,7 +450,7 @@ There are four pens: a red pen, a black pen, a green pen and a blue pen. The pen
 - **C.** Blue  
 - **D.** Cannot be determined
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×4 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q2. Wall construction with pairs of men
 
@@ -549,7 +561,7 @@ Pointing to a photograph Rita said, "he is the son-in-law of the grand mother of
 - **C.** Nephew  
 - **D.** Brother
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×4 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q13. Seating in a row
 
@@ -655,7 +667,7 @@ Four runners (R1, R2, R3 and R4) completed a marathon. R1 finished before R4 but
 - **C.** R3  
 - **D.** R4
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×4 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q24. Resistance seen at MOS source
 
@@ -776,7 +788,7 @@ Five teachers I, J, K, L and M teach in four different schools. M and K do not t
 - **C.** Model School  
 - **D.** Cannot be determined
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×4 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q35. Ripple factor of inductor filter
 
@@ -887,7 +899,7 @@ How many such pairs of letters are there in the word 'PRECISE' which has as many
 - **C.** 2  
 - **D.** 3
 
-<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×3 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: Aptitude · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/10827-Texas_Instruments_All_60_Questions.pdf) · Also asked at: BITS Pilani ×4 (last 2026-10-08), Unknown (2026-10-08), IIT Bombay (2026-10-08), IIT Hyderabad (2026-10-08), IIT Roorkee (2026-10-08)</sub>
 
 ### Q46. Fixing WNS after place-and-route
 
@@ -1045,4 +1057,4 @@ A U.S. streaming service offers three plans: Basic at $15, Standard at $25 and P
 
 The shared PDF contains 60 questions in total (aptitude and technical); only the first 20 are transcribed here.
 
-<sub>Topics: OA Format · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/8232-Texas_Instruments_All_60_Questions.pdf) · Also asked at: IIT Roorkee (2026-10-08)</sub>
+<sub>Topics: OA Format · Source: [Texas_Instruments_All_60_Questions.pdf](../archive/files/8232-Texas_Instruments_All_60_Questions.pdf) · Also asked at: IIT Roorkee (2026-10-08), BITS Pilani (2026-10-08)</sub>

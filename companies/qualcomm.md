@@ -1,13 +1,15 @@
 # Qualcomm
 
-**4 questions** · 4 drives · latest 5 Nov 2026 · [← all companies](../README.md#companies)
+**5 questions** · 5 drives · latest 7 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 4  
+**Asks about:** [OA Format](../topics/oa-format.md) 5  
 **Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal, NIT Kurukshetra
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-07 · IIT Roorkee · FTE · SDE](#2026-11-07--iit-roorkee--fte--sde)
+  - [Qualcomm SDE OA topics](#q1-qualcomm-sde-oa-topics)
 - [2026-11-04 · NIT Kurukshetra · FTE](#2026-11-04--nit-kurukshetra--fte)
   - [Qualcomm OA topics](#q1-qualcomm-oa-topics)
 - [2026-10-31 · IIT Roorkee · FTE · Software](#2026-10-31--iit-roorkee--fte--software)
@@ -20,6 +22,19 @@
 </details>
 
 ---
+
+## 2026-11-07 · IIT Roorkee · FTE · SDE
+
+### Q1. Qualcomm SDE OA topics
+
+Topics reported:
+
+- Aptitude: 15 questions on time and work, logical reasoning
+- C/C++ fundamentals, output prediction
+- OS
+- Computer architecture
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L354)</sub>
 
 ## 2026-11-04 · NIT Kurukshetra · FTE
 
@@ -56,4 +71,4 @@ The OA is all MCQs:
 
 Another poster notes that the hardware OA also has a basic programming section.
 
-<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L348), [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L350) · Also asked at: NIT Karnataka Surathkal (2026-10-13), IIIT Hyderabad (2026-10-30), IIT Kharagpur (2026-10-30), MNNIT Allahabad ×3 (last 2026-10-31), IIT Guwahati ×4 (last 2026-11-03), IIT Hyderabad ×2 (last 2026-11-05)</sub>
+<sub>Topics: OA Format · Source: [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L348), [chat, 18 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L350) · Also asked at: NIT Karnataka Surathkal (2026-10-13), IIIT Hyderabad (2026-10-30), IIT Kharagpur (2026-10-30), IIT Guwahati ×4 (last 2026-11-03), IIT Hyderabad ×2 (last 2026-11-05), Unknown ×2 (last 2026-11-06), MNNIT Allahabad ×4 (last 2026-11-07)</sub>

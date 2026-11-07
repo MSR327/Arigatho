@@ -1,13 +1,17 @@
 # ZS
 
-**3 questions** · 3 drives · latest 2 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 4 drives · latest 6 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Verbal](../topics/verbal.md) 1 · [Arrays](../topics/arrays.md) 1 · [SQL](../topics/sql.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 2 · [Verbal](../topics/verbal.md) 1 · [Arrays](../topics/arrays.md) 1 · [SQL](../topics/sql.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
 **Seen at:** IIT BHU
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-06 · IIT BHU · FTE · DAA · Interview](#2026-11-06--iit-bhu--fte--daa--interview)
+  - [Business case study on company performance](#q1-business-case-study-on-company-performance)
+  - [Guesstimate question](#q2-guesstimate-question)
+  - [Behavioral / managerial round](#q3-behavioral--managerial-round)
 - [2026-11-02 · Unknown · FTE](#2026-11-02--unknown--fte)
   - [ZS OA structure and maximum product subarray](#q1-zs-oa-structure-and-maximum-product-subarray)
 - [2026-10-30 · IIT BHU · FTE](#2026-10-30--iit-bhu--fte)
@@ -18,6 +22,38 @@
 </details>
 
 ---
+
+## 2026-11-06 · IIT BHU · FTE · DAA · Interview
+
+### Q1. Business case study on company performance
+
+Interview lasted about an hour, conducted by a company employee. It began with a brief self-introduction and a few questions based on the candidate's background.
+
+Main part: a business case study. Given a scenario involving a company's performance, the candidate had to analyze the information provided, interpret data, identify possible causes of business issues, and recommend solutions. The interviewer expected the candidate to:
+- Analyze charts, tables, and metrics
+- Draw logical conclusions from the data
+- Justify recommendations with clear reasoning
+- Compare alternative approaches and explain choices
+
+The interviewer asked frequent follow-up questions.
+
+(Exact case details not given.)
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L754) · Also asked at: IIT BHU ×2 (last 2026-11-06)</sub>
+
+### Q2. Guesstimate question
+
+A guesstimate question to evaluate structured thinking, assumptions and problem-solving approach. The focus was on the framework and thought process rather than the exact number.
+
+(The actual guesstimate was not stated.)
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L754) · Also asked at: IIT BHU ×2 (last 2026-11-06)</sub>
+
+### Q3. Behavioral / managerial round
+
+Conducted by a senior manager. It started with an introduction, then moved to extracurricular activities, projects and experiences on the resume, with follow-up questions on the depth of the work.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 6 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L79)</sub>
 
 ## 2026-11-02 · Unknown · FTE
 

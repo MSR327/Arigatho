@@ -1,13 +1,26 @@
 # Capital One
 
-**20 questions** · 12 drives · latest 5 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**32 questions** · 13 drives · latest 7 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Arrays](../topics/arrays.md) 4 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 2 · [Heaps](../topics/heaps.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · +4 more  
-**Seen at:** IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, VNIT Nagpur
+**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [Hashing](../topics/hashing.md) 3 · [DP](../topics/dp.md) 2 · [Binary Search](../topics/binary-search.md) 2 · +10 more  
+**Seen at:** IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, MNNIT Allahabad +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-07 · MNNIT Allahabad · FTE](#2026-11-07--mnnit-allahabad--fte)
+  - [Simple Bank System](#q1-simple-bank-system)
+  - [Merge Intervals](#q2-merge-intervals)
+  - [LRU Cache](#q3-lru-cache)
+  - [Spiral Matrix](#q4-spiral-matrix)
+  - [Block Placement Queries](#q5-block-placement-queries)
+  - [Count Prefix and Suffix Pairs II](#q6-count-prefix-and-suffix-pairs-ii)
+  - [Minimum Operations to Write Y](#q7-minimum-operations-to-write-y)
+  - [Number of Black Blocks](#q8-number-of-black-blocks)
+  - [Candy Crush](#q9-candy-crush)
+  - [Largest Rectangle in Histogram](#q10-largest-rectangle-in-histogram)
+  - [Rotating the Box](#q11-rotating-the-box)
+  - [Simplify Path](#q12-simplify-path)
 - [2026-11-05 · Unknown · FTE · Interview](#2026-11-05--unknown--fte--interview)
   - [Capital One round 2 pattern](#q1-capital-one-round-2-pattern)
 - [2026-11-05 · Unknown · FTE · Other round](#2026-11-05--unknown--fte--other-round)
@@ -45,6 +58,80 @@
 
 ---
 
+## 2026-11-07 · MNNIT Allahabad · FTE
+
+### Q1. Simple Bank System
+
+Simple Bank System (OOP / Design, Medium). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: OOP · Similar: [LeetCode 2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/) (Medium) · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
+### Q2. Merge Intervals
+
+Merge Intervals (Sorting, Medium). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: Sorting, Arrays · Similar: [LeetCode 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Medium) · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
+### Q3. LRU Cache
+
+LRU Cache (Design / HashMap, Medium). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: Hashing, Linked List · Similar: [LeetCode 146. LRU Cache](https://leetcode.com/problems/lru-cache/) (Medium) · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
+### Q4. Spiral Matrix
+
+Spiral Matrix (Matrix, Medium). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: Arrays · Similar: [LeetCode 54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) (Medium) · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
+### Q5. Block Placement Queries
+
+Block Placement Queries (Segment Tree / Ordered Set, Hard). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: Arrays, Binary Search · Similar: [LeetCode 3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) (Hard) · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
+### Q6. Count Prefix and Suffix Pairs II
+
+Count Prefix and Suffix Pairs II (Trie / Strings, Hard). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: Strings, Hashing · Similar: [LeetCode 3045. Count Prefix and Suffix Pairs II](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/) (Hard) · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
+### Q7. Minimum Operations to Write Y
+
+Minimum Operations to Write Y (Matrix, Medium). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: Arrays · Same problem: [LeetCode 3071. Minimum Operations to Write the Letter Y on a Grid](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/) (Medium), grid Y-shape cell counting, minimize changes · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
+### Q8. Number of Black Blocks
+
+Number of Black Blocks (Matrix / Hashing, Medium). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: Arrays, Hashing · Similar: [LeetCode 2768. Number of Black Blocks](https://leetcode.com/problems/number-of-black-blocks/) (Medium) · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
+### Q9. Candy Crush
+
+Candy Crush (Simulation, Medium). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: Arrays · Similar: [LeetCode 723. Candy Crush](https://leetcode.com/problems/candy-crush/) (Medium) · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
+### Q10. Largest Rectangle in Histogram
+
+Largest Rectangle in Histogram (Monotonic Stack, Hard). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: Stack/Queue, Arrays · Similar: [LeetCode 84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) (Hard) · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
+### Q11. Rotating the Box
+
+Rotating the Box (Matrix, Medium). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: Arrays · Similar: [LeetCode 1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/) (Medium) · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
+### Q12. Simplify Path
+
+Simplify Path (Stack / String, Medium). Only the problem title was shared; the statement is missing.
+
+<sub>Topics: Stack/Queue, Strings · Similar: [LeetCode 71. Simplify Path](https://leetcode.com/problems/simplify-path/) (Medium) · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L84)</sub>
+
 ## 2026-11-05 · Unknown · FTE · Interview
 
 ### Q1. Capital One round 2 pattern
@@ -57,7 +144,7 @@ System Design: one small design problem
 
 MCQs: not reported in this format
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L213) · Also asked at: IIT BHU (2026-11-05), IIT Kharagpur/Kanpur (2026-11-05)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L213) · Also asked at: IIT BHU (2026-11-05), IIT Kharagpur/Kanpur (2026-11-05), IIT Kharagpur ×2 (last 2026-11-06)</sub>
 
 ## 2026-11-05 · Unknown · FTE · Other round
 

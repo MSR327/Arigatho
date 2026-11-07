@@ -1,9 +1,11 @@
 # Sliding Window
 
-27 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+29 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Sliding window maximum](../companies/cars24.md#q10-sliding-window-maximum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Longest subarray with sum at most K](../companies/cars24.md#q9-longest-subarray-with-sum-at-most-k) | ≈ [GfG](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) |
 | 2026-11-06 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Longest window split into two parts with sum at most k](../companies/accenture.md#q1-longest-window-split-into-two-parts-with-sum-at-most-k) | ≈ [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | Unknown | [Maximum elements picked with at most one skip](../companies/mathworks.md#q1-maximum-elements-picked-with-at-most-one-skip) | ≈ [LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/) Medium |
 | 2026-11-04 | [Capital One](../companies/capital-one.md) | IIT Madras | [Smallest window size with OR at least S](../companies/capital-one.md#q2-smallest-window-size-with-or-at-least-s) | ≈ [LC 2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) Medium |

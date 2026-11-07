@@ -1,13 +1,15 @@
 # Denso
 
-**4 questions** · 1 drive · latest 5 Nov 2026 · [← all companies](../README.md#companies)
+**5 questions** · 2 drives · latest 7 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Web Dev](../topics/web-dev.md) 2 · [Software Engineering](../topics/software-engineering.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Web Dev](../topics/web-dev.md) 2 · [Software Engineering](../topics/software-engineering.md) 1  
 **Seen at:** IIT Guwahati
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-07 · Unknown · FTE](#2026-11-07--unknown--fte)
+  - [Denso OA sections and topics](#q1-denso-oa-sections-and-topics)
 - [2026-11-05 · IIT Guwahati · FTE](#2026-11-05--iit-guwahati--fte)
   - [Denso OA format: solve a task with a chatbot](#q1-denso-oa-format-solve-a-task-with-a-chatbot)
   - [Denso OA: development with AI assistant](#q2-denso-oa-development-with-ai-assistant)
@@ -17,6 +19,20 @@
 </details>
 
 ---
+
+## 2026-11-07 · Unknown · FTE
+
+### Q1. Denso OA sections and topics
+
+Reported sections and topics:
+- Quantitative Aptitude: Percentage, Profit & Loss, Ratio, SI/CI, Time & Work (High priority)
+- Logical Reasoning: Puzzles, Series, Arrangements, Blood Relations (High)
+- Verbal Ability: Grammar, Comprehension, Vocabulary (Medium)
+- Technical MCQs: C/C++, OOP, DBMS, Computer Fundamentals (High)
+- Data Analysis: Excel, SQL, Statistics, Data Interpretation (Role-dependent)
+- Coding: Arrays, Strings, Sorting, Basic DSA (Role-dependent)
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L346), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L347)</sub>
 
 ## 2026-11-05 · IIT Guwahati · FTE
 

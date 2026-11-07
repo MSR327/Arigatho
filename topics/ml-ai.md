@@ -1,9 +1,11 @@
 # ML/AI
 
-91 questions from 21 companys, newest first. [← all topics](../README.md#topics)
+93 questions from 22 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-06 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock AI/ML MCQ section](../companies/blackrock.md#q3-blackrock-aiml-mcq-section) |
+| 2026-11-06 | [Kuku FM](../companies/kuku-fm.md) | IIT Guwahati | [Kuku FM LLM-based model assignment](../companies/kuku-fm.md#q1-kuku-fm-llm-based-model-assignment) |
 | 2026-11-06 | [Porter](../companies/porter.md) | IIT Hyderabad | [Porter AI/ML role OA pattern](../companies/porter.md#q1-porter-aiml-role-oa-pattern) |
 | 2026-11-05 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock OA pattern](../companies/blackrock.md#q1-blackrock-oa-pattern) |
 | 2026-11-03 | [HP](../companies/hp.md) | IIT Gandhinagar | [HP Inc GenAI OA rounds and topics](../companies/hp.md#q1-hp-inc-genai-oa-rounds-and-topics) |

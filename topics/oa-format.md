@@ -1,9 +1,26 @@
 # OA Format
 
-574 questions from 113 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+591 questions from 115 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Indore | [BlackRock AD role OA topics](../companies/blackrock.md#q1-blackrock-ad-role-oa-topics) | |
+| 2026-11-07 | [MathWorks](../companies/mathworks.md) | BITS Pilani | [MathWorks engineering track OA pattern](../companies/mathworks.md#q1-mathworks-engineering-track-oa-pattern) | |
+| 2026-11-07 | [Qualcomm](../companies/qualcomm.md) | IIT Roorkee | [Qualcomm SDE OA topics](../companies/qualcomm.md#q1-qualcomm-sde-oa-topics) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock AI/ML OA language restriction](../companies/blackrock.md#q1-blackrock-aiml-oa-language-restriction) | |
+| 2026-11-07 | [MathWorks](../companies/mathworks.md) | IIT BHU | [MathWorks OA pattern (Computer Science and Engineering tracks)](../companies/mathworks.md#q1-mathworks-oa-pattern-computer-science-and-engineering-tracks) | |
+| 2026-11-07 | [Sirius AI](../companies/sirius-ai.md) | MNNIT Allahabad | [Sirius AI hiring process rounds](../companies/sirius-ai.md#q1-sirius-ai-hiring-process-rounds) | |
+| 2026-11-07 | [Media.net](../companies/media-net.md) | MNNIT Allahabad | [Media.net Product Analyst OA sections](../companies/media-net.md#q1-medianet-product-analyst-oa-sections) | |
+| 2026-11-07 | [Unknown](../companies/unknown.md) | Unknown | [Expected OA sections and topics (AlgoQuant)](../companies/unknown.md#q1-expected-oa-sections-and-topics-algoquant) | |
+| 2026-11-07 | [Denso](../companies/denso.md) | Unknown | [Denso OA sections and topics](../companies/denso.md#q1-denso-oa-sections-and-topics) | |
+| 2026-11-06 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock AI/ML MCQ section](../companies/blackrock.md#q3-blackrock-aiml-mcq-section) | |
+| 2026-11-06 | [Fujitsu](../companies/fujitsu.md) | IIT Kharagpur/Kanpur | [Fujitsu OA pattern](../companies/fujitsu.md#q1-fujitsu-oa-pattern) | |
+| 2026-11-06 | [MathWorks](../companies/mathworks.md) | IIT Hyderabad | [MathWorks OA pattern](../companies/mathworks.md#q1-mathworks-oa-pattern) | |
+| 2026-11-06 | [Kanini](../companies/kanini.md) | Unknown | [Kanini OA and LWS round format](../companies/kanini.md#q1-kanini-oa-and-lws-round-format) | |
+| 2026-11-06 | [Accordion](../companies/accordion.md) | IIT Bhubaneswar | [Accordion Data Engineer OA pattern](../companies/accordion.md#q1-accordion-data-engineer-oa-pattern) | |
+| 2026-11-06 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Accordion OA pattern](../companies/accordion.md#q1-accordion-oa-pattern) | |
+| 2026-11-06 | [ICICI](../companies/icici.md) | NIT Trichy | [ICICI Manager-1 OA format](../companies/icici.md#q1-icici-manager-1-oa-format) | |
+| 2026-11-06 | [Juspay](../companies/juspay.md) | IIT Bombay | [Ticketing System (Part A)](../companies/juspay.md#q1-ticketing-system-part-a) | |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 OA DSA topics](../companies/cars24.md#q1-cars24-oa-dsa-topics) | |
 | 2026-11-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI Manager 1 and Lombard Full Stack test content](../companies/icici.md#q1-icici-manager-1-and-lombard-full-stack-test-content) | |
 | 2026-11-06 | [Kanini](../companies/kanini.md) | IIT Guwahati | [Kanini OA sections](../companies/kanini.md#q2-kanini-oa-sections) | |
@@ -190,7 +207,7 @@
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | Unknown | [System Software OA format](../companies/nvidia.md#q1-system-software-oa-format) | |
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [NVIDIA OA pattern](../companies/nvidia.md#q1-nvidia-oa-pattern) | |
 | 2026-10-30 | [Deloitte](../companies/deloitte.md) | IIT Indore | [Vibe coding round: write a prompt](../companies/deloitte.md#q1-vibe-coding-round-write-a-prompt) | |
-| 2026-10-30 | [MathWorks](../companies/mathworks.md) | VNIT Nagpur | [MathWorks OA pattern](../companies/mathworks.md#q1-mathworks-oa-pattern) | |
+| 2026-10-30 | [MathWorks](../companies/mathworks.md) | VNIT Nagpur | [MathWorks OA pattern](../companies/mathworks.md#q1-mathworks-oa-pattern-1) | |
 | 2026-10-30 | [LeadSquared](../companies/leadsquared.md) | IIIT Delhi | [LeadSquared OA pattern](../companies/leadsquared.md#q1-leadsquared-oa-pattern) | |
 | 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) | |
 | 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT BHU | [Plutus OA language restriction](../companies/plutus-research.md#q1-plutus-oa-language-restriction) | |

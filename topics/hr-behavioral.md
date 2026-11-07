@@ -1,9 +1,10 @@
 # HR & Behavioral
 
-25 questions from 14 companys, newest first. [← all topics](../README.md#topics)
+26 questions from 15 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-06 | [ZS](../companies/zs.md) | IIT BHU | [Behavioral / managerial round](../companies/zs.md#q3-behavioral--managerial-round) |
 | 2026-11-05 | [ICICI](../companies/icici.md) | IIT BHU | [ICICI interview: Placement Coordinator role questions](../companies/icici.md#q2-icici-interview-placement-coordinator-role-questions) |
 | 2026-11-04 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Accenture interview focus areas](../companies/accenture.md#q1-accenture-interview-focus-areas) |
 | 2026-11-02 | [Accenture](../companies/accenture.md) | NIT Delhi | [Accenture interview topics](../companies/accenture.md#q1-accenture-interview-topics) |

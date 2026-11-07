@@ -1,9 +1,10 @@
 # Two Pointers
 
-16 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+17 questions from 14 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Detect cycle in a linked list](../companies/cars24.md#q5-detect-cycle-in-a-linked-list) | [LC 141](https://leetcode.com/problems/linked-list-cycle/) Easy |
 | 2026-11-05 | [HiLabs](../companies/hilabs.md) | IIT Delhi | [Trapping rainwater style coding question](../companies/hilabs.md#q1-trapping-rainwater-style-coding-question) | [LC 42](https://leetcode.com/problems/trapping-rain-water/) Hard |
 | 2026-11-04 | [Unknown](../companies/unknown.md) | IIT BHU | [Next permutation of a string](../companies/unknown.md#q1-next-permutation-of-a-string) | [LC 31](https://leetcode.com/problems/next-permutation/) Medium |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIIT | [Sort red, blue and white balls in-place](../companies/hilabs.md#q7-sort-red-blue-and-white-balls-in-place) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |

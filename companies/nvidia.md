@@ -1,13 +1,15 @@
 # Nvidia
 
-**32 questions** · 15 drives · latest 5 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**33 questions** · 16 drives · latest 7 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Stack/Queue](../topics/stack-queue.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Trees](../topics/trees.md) 4 · [Bit Manipulation](../topics/bit-manipulation.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Math](../topics/math.md) 2 · +9 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Stack/Queue](../topics/stack-queue.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Trees](../topics/trees.md) 4 · [Bit Manipulation](../topics/bit-manipulation.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Math](../topics/math.md) 2 · +10 more  
 **Seen at:** IIT Delhi, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, NIT Rourkela, Thapar Institute, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-06 · IIT Hyderabad · FTE · System Software](#2026-11-06--iit-hyderabad--fte--system-software)
+  - [Questions reported from the August 2026 NVIDIA assessment](#q1-questions-reported-from-the-august-2026-nvidia-assessment)
 - [2026-11-05 · Thapar Institute · FTE](#2026-11-05--thapar-institute--fte)
   - [Nvidia OA contents](#q1-nvidia-oa-contents)
 - [2026-10-30 · Unknown · FTE · System Software](#2026-10-30--unknown--fte--system-software)
@@ -59,6 +61,26 @@
 </details>
 
 ---
+
+## 2026-11-06 · IIT Hyderabad · FTE · System Software
+
+### Q1. Questions reported from the August 2026 NVIDIA assessment
+
+Reported question list (titles only, full statements not given):
+1. Flaky Test Detection (coding)
+2. Multiplexer selection satisfying setup and hold time
+3. Sheet count from 1575 digits of sequential numbering
+4. Five-bit shift register with XOR feedback after eight clocks
+5. Output of a recursive summation function for i = 9
+6. Twisted ring counter state after 77 clock cycles
+7. Distinct prime factors of f(2019)
+8. Cheapest way to split a 17-minute call
+9. Kiran's Field Crossing: walk or run
+10. Product of 2019 terms of a reciprocal recurrence
+
+The message was cut off before the C/C++ output-based questions.
+
+<sub>Topics: Digital Electronics, Aptitude, Code Output (C/C++/Java/Python) · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L330)</sub>
 
 ## 2026-11-05 · Thapar Institute · FTE
 
@@ -181,7 +203,7 @@ Print a single integer: the maximum possible path latency among all pairs of dis
 
 2 DSA questions of medium to hard difficulty, plus MCQs. No actual questions were shared.
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/inter-nit/2026-10.jsonl#L2737)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/inter-nit/2026-10.jsonl#L2737) · Also asked at: MNNIT Allahabad (2026-11-07)</sub>
 
 ## 2026-10-26 · MNNIT Allahabad · FTE
 

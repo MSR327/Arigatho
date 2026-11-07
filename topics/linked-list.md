@@ -1,9 +1,13 @@
 # Linked List
 
-16 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+20 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [LRU Cache](../companies/capital-one.md#q3-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [LRU cache](../companies/cars24.md#q8-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Detect cycle in a linked list](../companies/cars24.md#q5-detect-cycle-in-a-linked-list) | [LC 141](https://leetcode.com/problems/linked-list-cycle/) Easy |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Merge two sorted linked lists](../companies/cars24.md#q4-merge-two-sorted-linked-lists) | [LC 21](https://leetcode.com/problems/merge-two-sorted-lists/) Easy |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Reverse a linked list recursively](../companies/unknown.md#q1-reverse-a-linked-list-recursively) | [LC 206](https://leetcode.com/problems/reverse-linked-list/) Easy |
 | 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT BHU | [Multiply strings as linked lists](../companies/hilabs.md#q2-multiply-strings-as-linked-lists) | [LC 43](https://leetcode.com/problems/multiply-strings/) Medium |
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Linked list MCQs and double pointers](../companies/nvidia.md#q7-linked-list-mcqs-and-double-pointers) | |

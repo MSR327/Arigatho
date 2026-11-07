@@ -1,9 +1,11 @@
 # OOP
 
-27 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+29 questions from 21 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Simple Bank System](../companies/capital-one.md#q1-simple-bank-system) | [LC 2043](https://leetcode.com/problems/simple-bank-system/) Medium |
+| 2026-11-06 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Implement classes using the built-in AI assistant](../companies/blackrock.md#q1-implement-classes-using-the-built-in-ai-assistant) | |
 | 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [LangGraph severity-classification agent class](../companies/american-express.md#q8-langgraph-severity-classification-agent-class) | |
 | 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [Complete LangGraph severity-triage agent class](../companies/american-express.md#q4-complete-langgraph-severity-triage-agent-class) | |
 | 2026-10-28 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Java output: inner class this.m1() and Sample.this.m1()](../companies/deloitte.md#q13-java-output-inner-class-thism1-and-samplethism1) | |

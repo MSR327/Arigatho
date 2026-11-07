@@ -1,9 +1,12 @@
 # Strings
 
-104 questions from 43 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+107 questions from 45 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Simplify Path](../companies/capital-one.md#q12-simplify-path) | [LC 71](https://leetcode.com/problems/simplify-path/) Medium |
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Count Prefix and Suffix Pairs II](../companies/capital-one.md#q6-count-prefix-and-suffix-pairs-ii) | [LC 3045](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/) Hard |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Interleaving string](../companies/cars24.md#q12-interleaving-string) | [LC 97](https://leetcode.com/problems/interleaving-string/) Medium |
 | 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Message Delivery System](../companies/cognizant.md#q1-message-delivery-system) | [LC 359](https://leetcode.com/problems/logger-rate-limiter/) Easy |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [String + game story implementation](../companies/navi.md#q1-string--game-story-implementation) | |
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Maximize beautiful substrings](../companies/mathworks.md#q3-maximize-beautiful-substrings) | ≈ [LC 1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) Medium |

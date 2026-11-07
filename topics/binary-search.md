@@ -1,9 +1,10 @@
 # Binary Search
 
-44 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+45 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Block Placement Queries](../companies/capital-one.md#q5-block-placement-queries) | [LC 3161](https://leetcode.com/problems/block-placement-queries/) Hard |
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Hyderabad | [Count ancestor-descendant pairs within distance limit](../companies/mathworks.md#q1-count-ancestor-descendant-pairs-within-distance-limit) | ≈ [LC 437](https://leetcode.com/problems/path-sum-iii/) Medium |
 | 2026-11-05 | [Tredence](../companies/tredence.md) | IIT BHU | [Longest subarray splittable into two parts with sums differing by at most K](../companies/tredence.md#q1-longest-subarray-splittable-into-two-parts-with-sums-differing-by-at-most-k) | ≈ [LC 862](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) Hard |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Delhi | [Minimize max inconvenience after opening one store](../companies/amazon.md#q3-minimize-max-inconvenience-after-opening-one-store) | ≈ [LC 1162](https://leetcode.com/problems/as-far-from-land-as-possible/) Medium |

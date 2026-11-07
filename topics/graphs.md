@@ -1,9 +1,14 @@
 # Graphs
 
-125 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+130 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-06 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Implement DSU class](../companies/blackrock.md#q2-implement-dsu-class) | ≈ [LC 684](https://leetcode.com/problems/redundant-connection/) Medium |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Find the town judge](../companies/cars24.md#q15-find-the-town-judge) | [LC 997](https://leetcode.com/problems/find-the-town-judge/) Easy |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Topological sorting](../companies/cars24.md#q14-topological-sorting) | [GfG](https://www.geeksforgeeks.org/problems/topological-sort/1) |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Number of islands](../companies/cars24.md#q13-number-of-islands) | [LC 200](https://leetcode.com/problems/number-of-islands/) Medium |
+| 2026-11-06 | [MathWorks](../companies/mathworks.md) | IIT Indore | [Minimum swaps to sort using zero](../companies/mathworks.md#q1-minimum-swaps-to-sort-using-zero) | |
 | 2026-11-06 | [Navi](../companies/navi.md) | IIT Hyderabad | [Sum of values of articulation points](../companies/navi.md#q1-sum-of-values-of-articulation-points) | [GfG](https://www.geeksforgeeks.org/problems/articulation-point2616/1) |
 | 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Beautiful Graph (Codeforces 1093D)](../companies/cognizant.md#q2-beautiful-graph-codeforces-1093d) | [CF 1093D](https://codeforces.com/problemset/problem/1093/D) rated 1700 |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Delhi | [Minimize max inconvenience after opening one store](../companies/amazon.md#q3-minimize-max-inconvenience-after-opening-one-store) | ≈ [LC 1162](https://leetcode.com/problems/as-far-from-land-as-possible/) Medium |

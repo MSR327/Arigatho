@@ -1,9 +1,12 @@
 # Trees
 
-62 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+65 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-06 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Level with biggest odd sum in balanced binary tree](../companies/texas-instruments.md#q1-level-with-biggest-odd-sum-in-balanced-binary-tree) | [LC 1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) Medium |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Distribute coins in binary tree](../companies/cars24.md#q7-distribute-coins-in-binary-tree) | [LC 979](https://leetcode.com/problems/distribute-coins-in-binary-tree/) Medium |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Bottom view of binary tree](../companies/cars24.md#q6-bottom-view-of-binary-tree) | [GfG](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT BHU | [Sum of nodes with exactly two children in a binary tree](../companies/navi.md#q1-sum-of-nodes-with-exactly-two-children-in-a-binary-tree) | ≈ [LC 1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) Medium |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Guwahati | [Inorder of binary tree from level order traversal](../companies/navi.md#q1-inorder-of-binary-tree-from-level-order-traversal) | [LC 94](https://leetcode.com/problems/binary-tree-inorder-traversal/) Easy |
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Hyderabad | [Count ancestor-descendant pairs within distance limit](../companies/mathworks.md#q1-count-ancestor-descendant-pairs-within-distance-limit) | ≈ [LC 437](https://leetcode.com/problems/path-sum-iii/) Medium |

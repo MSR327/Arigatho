@@ -1,9 +1,22 @@
 # Other
 
-39 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+52 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Customers with purchases above ₹50,000](../companies/exl.md#q10-customers-with-purchases-above-50000) | |
+| 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Month-over-month growth](../companies/exl.md#q9-month-over-month-growth) | |
+| 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Pivot table for region-wise sales](../companies/exl.md#q8-pivot-table-for-region-wise-sales) | |
+| 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Second-highest sales value](../companies/exl.md#q7-second-highest-sales-value) | |
+| 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Monthly revenue using SUMIFS](../companies/exl.md#q6-monthly-revenue-using-sumifs) | |
+| 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Find duplicate customer IDs](../companies/exl.md#q5-find-duplicate-customer-ids) | |
+| 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Department-wise average salary](../companies/exl.md#q4-department-wise-average-salary) | |
+| 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Find highest-selling product](../companies/exl.md#q3-find-highest-selling-product) | |
+| 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Interactive sales dashboard](../companies/exl.md#q2-interactive-sales-dashboard) | |
+| 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Calculate total revenue](../companies/exl.md#q1-calculate-total-revenue) | |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Refurbishment hub inspection pipeline](../companies/cars24.md#q16-refurbishment-hub-inspection-pipeline) | |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Intercom bypass](../companies/cars24.md#q3-intercom-bypass) | |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Multi-city fleet relocation](../companies/cars24.md#q2-multi-city-fleet-relocation) | |
 | 2026-11-03 | [Shadowfax](../companies/shadowfax.md) | IIT Guwahati | [Manpower Roster Optimisation (AI-assisted assignment)](../companies/shadowfax.md#q2-manpower-roster-optimisation-ai-assisted-assignment) | |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Production debugging scenarios](../companies/hilabs.md#q1-production-debugging-scenarios) | |
 | 2026-11-02 | [Unknown](../companies/unknown.md) | IIIT | [Connect Four Bot](../companies/unknown.md#q5-connect-four-bot) | |

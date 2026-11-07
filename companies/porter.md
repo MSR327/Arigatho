@@ -33,7 +33,7 @@ Coding + MCQ: Python ML framework, DSA, computational complexity MCQ, NLP, promp
 
 The OA had 13 questions in 1 hour.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L136) · Also asked at: IIT BHU ×3 (last 2026-11-06), IIT Kharagpur/Kanpur (2026-11-06)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L136) · Also asked at: IIT BHU ×3 (last 2026-11-06), IIT Kharagpur/Kanpur (2026-11-06), IIT Hyderabad (2026-11-06)</sub>
 
 ## 2026-11-04 · VNIT Nagpur · FTE
 

@@ -1,9 +1,9 @@
 # InfoEdge
 
-**28 questions** · 9 drives · latest 5 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**28 questions** · 9 drives · latest 6 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 8 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · [OOP](../topics/oop.md) 2 · [Binary Search](../topics/binary-search.md) 1 · +4 more  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Patna
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Patna, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -64,7 +64,7 @@ MCQs on quant, math and programming. Role: Data Scientist.
 
 OA pattern for the AI Scientist role: MCQs on statistics and probability, ML, DL, and Python or pseudocode-type questions.
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L48)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L48) · Also asked at: VNIT Nagpur (2026-11-06)</sub>
 
 ## 2026-10-26 · MNNIT Allahabad · FTE
 

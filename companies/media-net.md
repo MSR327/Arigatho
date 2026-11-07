@@ -1,13 +1,15 @@
 # Media.net
 
-**6 questions** · 4 drives · latest 19 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**7 questions** · 5 drives · latest 7 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 4 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Math](../topics/math.md) 1 · [Trees](../topics/trees.md) 1  
+**Asks about:** [Arrays](../topics/arrays.md) 4 · [OA Format](../topics/oa-format.md) 2 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Math](../topics/math.md) 1 · [Trees](../topics/trees.md) 1  
 **Seen at:** Delhi Technological University, MNNIT Allahabad, Netaji Subhas University of Technology, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-07 · MNNIT Allahabad · FTE · Product Analyst](#2026-11-07--mnnit-allahabad--fte--product-analyst)
+  - [Media.net Product Analyst OA sections](#q1-medianet-product-analyst-oa-sections)
 - [2026-10-19 · VNIT Nagpur · FTE · SDE · Interview](#2026-10-19--vnit-nagpur--fte--sde--interview)
   - [Media.net SDE interview overview](#q1-medianet-sde-interview-overview)
 - [2026-10-19 · Netaji Subhas University of Technology · FTE](#2026-10-19--netaji-subhas-university-of-technology--fte)
@@ -22,6 +24,21 @@
 </details>
 
 ---
+
+## 2026-11-07 · MNNIT Allahabad · FTE · Product Analyst
+
+### Q1. Media.net Product Analyst OA sections
+
+OA sections and topics:
+
+- SQL: Joins, GROUP BY, Window Functions
+- Quantitative Aptitude: Probability, Permutation, Percentage
+- Logical Reasoning: Puzzles, arrangements, sequences
+- Data Interpretation: Charts, tables, business data
+- Verbal Ability: Comprehension, grammar
+- Programming: Basic Python, coding logic
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L85)</sub>
 
 ## 2026-10-19 · VNIT Nagpur · FTE · SDE · Interview
 

@@ -176,7 +176,7 @@ AI-based recorded interview: you get 1 minute to prepare for each question and t
 
 The test had MCQs, a Verilog coding question and a Python coding question.
 
-<sub>Topics: OA Format, Digital Electronics · Source: [chat, 27 Oct](../archive/ibm-oa/2026-10.jsonl#L42)</sub>
+<sub>Topics: OA Format, Digital Electronics · Source: [chat, 27 Oct](../archive/ibm-oa/2026-10.jsonl#L42) · Also asked at: IIT Guwahati (2026-11-06)</sub>
 
 ## 2026-10-27 · IIT Kanpur · FTE · Interview
 
@@ -242,7 +242,7 @@ IBM OA pattern for Software Developer / Software Engineer / Hardware Engineer ro
 
 The OA had 1 DSA question and 1 backend question. The backend question is described as a cheap copy of the Amazon backend OA: you choose a tech stack, then fix a bug or implement something in that stack. The exact problem statements were not shared.
 
-<sub>Topics: OA Format, Web Dev · Source: [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L75), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L82), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L83), [chat, 22 Oct](../archive/ibm-oa/2026-10.jsonl#L84) · Also asked at: MNNIT Allahabad (2026-10-31), IIT Guwahati (2026-11-01), IIT Roorkee (2026-11-02), IIT Hyderabad ×3 (last 2026-11-04)</sub>
+<sub>Topics: OA Format, Web Dev · Source: [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L75), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L82), [chat, 21 Oct](../archive/ibm-oa/2026-10.jsonl#L83), [chat, 22 Oct](../archive/ibm-oa/2026-10.jsonl#L84) · Also asked at: MNNIT Allahabad (2026-10-31), IIT Guwahati (2026-11-01), IIT Hyderabad ×3 (last 2026-11-04), IIT Roorkee ×2 (last 2026-11-06)</sub>
 
 ## 2026-10-20 · MNNIT Allahabad · FTE · ASE · Interview
 

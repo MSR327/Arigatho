@@ -606,7 +606,7 @@ The poster only remembered the gist; exact schema and conditions are missing.
 
 1 coding question + 1 SQL question (joins) + 20 MCQs. All popular languages are supported for the coding question.
 
-<sub>Topics: OA Format · Source: [chat, 24 Sep](../archive/tredence-oa/2026-09.jsonl#L18), [chat, 26 Sep](../archive/tredence-oa/2026-09.jsonl#L21) · Also asked at: MNNIT Allahabad (2026-09-30), VIT Vellore (2026-10-10), IIT Dhanbad (2026-10-23)</sub>
+<sub>Topics: OA Format · Source: [chat, 24 Sep](../archive/tredence-oa/2026-09.jsonl#L18), [chat, 26 Sep](../archive/tredence-oa/2026-09.jsonl#L21) · Also asked at: MNNIT Allahabad (2026-09-30), VIT Vellore (2026-10-10), IIT Dhanbad (2026-10-23), IIT Kanpur (2026-11-06)</sub>
 
 ## 2026-09-21 · Unknown · FTE · Data Analyst
 

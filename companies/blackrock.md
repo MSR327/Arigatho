@@ -1,17 +1,25 @@
 # BlackRock
 
-**19 questions** · 11 drives · latest 6 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**24 questions** · 14 drives · latest 7 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [SQL](../topics/sql.md) 3 · [ML/AI](../topics/ml-ai.md) 2 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Aptitude](../topics/aptitude.md) 1 · +1 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Indore, IIT Kharagpur/Kanpur, NIT Raipur, NIT Rourkela, SVNIT Surat
+**Asks about:** [OA Format](../topics/oa-format.md) 15 · [SQL](../topics/sql.md) 3 · [ML/AI](../topics/ml-ai.md) 3 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Aptitude](../topics/aptitude.md) 1 · +3 more  
+**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kharagpur/Kanpur, NIT Raipur, NIT Rourkela +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-07 · IIT Indore · FTE · AD](#2026-11-07--iit-indore--fte--ad)
+  - [BlackRock AD role OA topics](#q1-blackrock-ad-role-oa-topics)
+- [2026-11-07 · IIT BHU · FTE · AI/ML](#2026-11-07--iit-bhu--fte--aiml)
+  - [BlackRock AI/ML OA language restriction](#q1-blackrock-aiml-oa-language-restriction)
 - [2026-11-06 · IIT Indore · FTE · AWT · Other round](#2026-11-06--iit-indore--fte--awt--other-round)
   - [BlackRock AWT preparation topics](#q1-blackrock-awt-preparation-topics)
 - [2026-11-06 · IIT BHU · FTE](#2026-11-06--iit-bhu--fte)
   - [BlackRock OA format](#q1-blackrock-oa-format)
+- [2026-11-06 · IIT BHU · FTE · AI/ML Engineer](#2026-11-06--iit-bhu--fte--aiml-engineer)
+  - [Implement classes using the built-in AI assistant](#q1-implement-classes-using-the-built-in-ai-assistant)
+  - [Implement DSU class](#q2-implement-dsu-class)
+  - [BlackRock AI/ML MCQ section](#q3-blackrock-aiml-mcq-section)
 - [2026-11-05 · IIT Indore · FTE · AD](#2026-11-05--iit-indore--fte--ad)
   - [BlackRock AD OA format](#q1-blackrock-ad-oa-format)
 - [2026-11-05 · IIT BHU · FTE · Aladdin AI/ML](#2026-11-05--iit-bhu--fte--aladdin-aiml)
@@ -43,6 +51,22 @@
 
 ---
 
+## 2026-11-07 · IIT Indore · FTE · AD
+
+### Q1. BlackRock AD role OA topics
+
+For the BlackRock AD role there were MCQs based on MCP and some DBMS-related questions.
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L221)</sub>
+
+## 2026-11-07 · IIT BHU · FTE · AI/ML
+
+### Q1. BlackRock AI/ML OA language restriction
+
+C++ was not allowed in the BlackRock OA. Only Python was allowed for the AI/ML role.
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L352)</sub>
+
 ## 2026-11-06 · IIT Indore · FTE · AWT · Other round
 
 ### Q1. BlackRock AWT preparation topics
@@ -57,7 +81,33 @@ For the AWT role, focus on SQL, Puzzles, finance and Python.
 
 Two DSA questions (easy to medium level) with an AI assistant, and three MCQ sections covering AI/ML, probability and linear algebra.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L215) · Also asked at: IIT Delhi (2026-11-05), IIT BHU (2026-11-06)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L215) · Also asked at: IIT Delhi (2026-11-05), IIT BHU ×4 (last 2026-11-07)</sub>
+
+## 2026-11-06 · IIT BHU · FTE · AI/ML Engineer
+
+### Q1. Implement classes using the built-in AI assistant
+
+Question 1 (40 mins): Implement several different classes using the provided built-in AI assistant (which the poster said was rigged and not useful). Exact class specifications were not shared.
+
+<sub>Topics: OOP · Source: [chat, 6 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L16)</sub>
+
+### Q2. Implement DSU class
+
+Question 2 (30 mins): Implement a DSU (Disjoint Set Union) class with the functions `find`, `union` and `is_connected`. An AI assistant was available for this question too, but it was of no use. Only Python was allowed (C++ was not).
+
+<sub>Topics: Graphs · Same idea: [LeetCode 684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) (Medium), disjoint set union find/union connectivity · Source: [chat, 6 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L16)</sub>
+
+### Q3. BlackRock AI/ML MCQ section
+
+12 MCQs on each of the following topics:
+
+- Hands-on projects involving RAG, vector databases, or agents
+- Understanding of prompt engineering, evaluation metrics and hallucination risks
+- Ability to fine-tune LLMs for domain-specific tasks
+- Experience training, running and evaluating ML models
+- Awareness of ethical AI principles, data privacy and bias in models
+
+<sub>Topics: ML/AI, OA Format · Source: [chat, 6 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L16)</sub>
 
 ## 2026-11-05 · IIT Indore · FTE · AD
 
@@ -73,7 +123,7 @@ Question 1: API integration. Question 2: an SQL question. Question 3: a DSA ques
 
 Coding + MCQ. Topics covered: Python ML framework, DSA, computational complexity MCQs, NLP, prompt engineering, LLM, RAG, classical ML concepts. The actual question statements were not shared.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L155), [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L171) · Also asked at: IIT BHU ×4 (last 2026-11-06), BITS Pilani (2026-11-06)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L155), [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L171) · Also asked at: IIT BHU ×7 (last 2026-11-06), BITS Pilani (2026-11-06), IIT Guwahati (2026-11-06)</sub>
 
 ## 2026-11-03 · IIT Indore · FTE · Analyst - Aladdin Wealth Technology
 
@@ -156,7 +206,7 @@ Section 6: 30 MCQs on MCP, AI, LLMs and prompt engineering. The question title i
 
 2 SQL coding questions, some basic aptitude and English MCQs, and finance-related MCQs. (Specific topics not given.)
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L46) · Also asked at: IIT Kharagpur/Kanpur (2026-11-03), IIT Delhi (2026-11-03), BITS Pilani (2026-11-04), IIT Indore (2026-11-05)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L46) · Also asked at: IIT Kharagpur/Kanpur (2026-11-03), IIT Delhi (2026-11-03), BITS Pilani (2026-11-04), IIT Indore ×3 (last 2026-11-06)</sub>
 
 ## 2026-10-28 · IIT Indore · FTE · Aladdin Data
 
@@ -178,7 +228,7 @@ Fundamental AI know-how (MCP server and agents)
 4. Programming fundamentals: C/C++ or Java output questions, OOP, data structures, tree traversals
 5. Coding / flowcharts: logic problems and flowchart interpretation
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L49), [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L81)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L49), [chat, 28 Oct](../archive/campus-iit-indore-placements/2026-10.jsonl#L81) · Also asked at: IIT Indore (2026-11-06)</sub>
 
 ## 2026-10-27 · NIT Raipur · FTE · AD
 

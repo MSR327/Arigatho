@@ -1,9 +1,13 @@
 # Hashing
 
-98 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+102 questions from 48 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Number of Black Blocks](../companies/capital-one.md#q8-number-of-black-blocks) | [LC 2768](https://leetcode.com/problems/number-of-black-blocks/) Medium |
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Count Prefix and Suffix Pairs II](../companies/capital-one.md#q6-count-prefix-and-suffix-pairs-ii) | [LC 3045](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/) Hard |
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [LRU Cache](../companies/capital-one.md#q3-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [LRU cache](../companies/cars24.md#q8-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
 | 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Message Delivery System](../companies/cognizant.md#q1-message-delivery-system) | [LC 359](https://leetcode.com/problems/logger-rate-limiter/) Easy |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Guwahati | [Lines passing through at least 3 points](../companies/navi.md#q1-lines-passing-through-at-least-3-points) | ≈ [LC 149](https://leetcode.com/problems/max-points-on-a-line/) Hard |
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Count subarrays rearrangeable into palindromes](../companies/mathworks.md#q2-count-subarrays-rearrangeable-into-palindromes) | [LC 1915](https://leetcode.com/problems/number-of-wonderful-substrings/) Medium |

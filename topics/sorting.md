@@ -1,9 +1,12 @@
 # Sorting
 
-57 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+60 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Merge Intervals](../companies/capital-one.md#q2-merge-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Sort 0, 1, 2](../companies/cars24.md#q11-sort-0-1-2) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |
+| 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Minimum number of moves to seat everyone](../companies/cars24.md#q1-minimum-number-of-moves-to-seat-everyone) | [LC 2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) Easy |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur | [Fix C++ alternating row/column sort](../companies/navi.md#q2-fix-c-alternating-rowcolumn-sort) | |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur | [Wobble the Text score](../companies/navi.md#q1-wobble-the-text-score) | |
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Largest subset of intervals with one intersecting all others](../companies/cognizant.md#q4-largest-subset-of-intervals-with-one-intersecting-all-others) | |
