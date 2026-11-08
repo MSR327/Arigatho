@@ -1,6 +1,6 @@
 # Amazon
 
-**14 questions** · 11 drives · latest 6 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**14 questions** · 11 drives · latest 7 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 11 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1  
 **Seen at:** BITS, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Madras, MNNIT Allahabad, NIT Raipur +2 more
@@ -126,7 +126,7 @@ Constraints:
 1. DSA questions were random; some were weird DP problems, but many were standard problems, e.g. longest subarray of 1s with at most k swaps of 0s.
 2. Debugging section (AI-assisted): choose a stack you are at least familiar with. The AI will not generate code unless you figure out the problematic part. The problem description gives enough information, so read it properly.
 
-<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/amazon-oa/2026-11.jsonl#L32) · Also asked at: Thapar Institute (2026-11-04), NIT Surathkal (2026-11-04), IIT Hyderabad (2026-11-04)</sub>
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/amazon-oa/2026-11.jsonl#L32) · Also asked at: Thapar Institute (2026-11-04), NIT Surathkal (2026-11-04), IIT Hyderabad (2026-11-04), IIT Delhi (2026-11-07)</sub>
 
 ## 2026-11-01 · MNNIT Allahabad · FTE
 

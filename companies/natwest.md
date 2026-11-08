@@ -1,9 +1,9 @@
 # NatWest
 
-**45 questions** · 21 drives · latest 31 Oct 2026 · [19 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**45 questions** · 21 drives · latest 8 Nov 2026 · [19 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 10 · [OA Format](../topics/oa-format.md) 9 · [Graphs](../topics/graphs.md) 7 · [Greedy](../topics/greedy.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · +8 more  
-**Seen at:** Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +2 more
+**Seen at:** Delhi Technological University, Delhi Technological University (DTU), IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -374,7 +374,7 @@ SQL questions, all easy. (Details not given.)
 - 2 easy-medium DSA questions (poster's was a sorting one; take / not take DP also mentioned)
 - Behavioural: 100 questions (choose which describes you best, 2 out of 3)
 
-<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L138) · Also asked at: IIT BHU ×5 (last 2026-10-27), IIT Guwahati ×5 (last 2026-10-29), IIT Kharagpur/Kanpur ×2 (last 2026-10-29), NIT Patna (2026-10-29), Unknown (2026-10-29), IIT Hyderabad (2026-10-29), IIT Delhi ×2 (last 2026-10-29), IIT Roorkee ×8 (last 2026-10-31)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Oct](../archive/natwest-oa/2026-10.jsonl#L138) · Also asked at: IIT BHU ×5 (last 2026-10-27), IIT Guwahati ×5 (last 2026-10-29), IIT Kharagpur/Kanpur ×2 (last 2026-10-29), NIT Patna (2026-10-29), Unknown (2026-10-29), IIT Hyderabad (2026-10-29), IIT Delhi ×2 (last 2026-10-29), IIT Roorkee ×8 (last 2026-10-31), Delhi Technological University (DTU) (2026-11-08)</sub>
 
 ## 2026-10-11 · Delhi Technological University · FTE
 

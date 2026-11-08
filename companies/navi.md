@@ -1,6 +1,6 @@
 # Navi
 
-**46 questions** · 24 drives · latest 6 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**46 questions** · 24 drives · latest 7 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 12 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 10 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Math](../topics/math.md) 4 · +5 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Mandi +2 more
@@ -239,7 +239,7 @@ A square grid is filled with numbers in diagonal zigzag order. Given a coordinat
 
 The SDE OA had 2 DSA coding questions and 1 DSA debugging question.
 
-<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L65) · Also asked at: IIT Guwahati (2026-11-03), IIT Mandi (2026-11-03), IIT BHU (2026-11-04)</sub>
+<sub>Topics: OA Format · Source: [chat, 3 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L65) · Also asked at: IIT Guwahati (2026-11-03), IIT Mandi (2026-11-03), IIT BHU (2026-11-04), Unknown (2026-11-07)</sub>
 
 ## 2026-11-02 · IIT Guwahati · FTE
 

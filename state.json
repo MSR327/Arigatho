@@ -12,7 +12,7 @@
   },
   "accenture-oa": {
    "oldest_id": 490,
-   "newest_id": 22700,
+   "newest_id": 23190,
    "backfill_done": true
   },
   "adobe-oa": {
@@ -32,12 +32,12 @@
   },
   "amazon-oa": {
    "oldest_id": 1597,
-   "newest_id": 22475,
+   "newest_id": 23193,
    "backfill_done": true
   },
   "american-express-oa": {
    "oldest_id": 14468,
-   "newest_id": 19109,
+   "newest_id": 23202,
    "backfill_done": true
   },
   "apple-oa": {
@@ -52,7 +52,7 @@
   },
   "avathon-oa": {
    "oldest_id": 21381,
-   "newest_id": 21697,
+   "newest_id": 22853,
    "backfill_done": true
   },
   "axtria-oa": {
@@ -112,7 +112,7 @@
   },
   "campus-bits-goa-placements": {
    "oldest_id": 2979,
-   "newest_id": 20877,
+   "newest_id": 23206,
    "backfill_done": true
   },
   "campus-bits-hyderabad-placements": {
@@ -142,7 +142,7 @@
   },
   "campus-dtu-placements": {
    "oldest_id": 2937,
-   "newest_id": 21217,
+   "newest_id": 23270,
    "backfill_done": true
   },
   "campus-igdtuw-placements": {
@@ -162,7 +162,7 @@
   },
   "campus-iiit-delhi-placements": {
    "oldest_id": 2981,
-   "newest_id": 22757,
+   "newest_id": 23231,
    "backfill_done": true
   },
   "campus-iiit-hyderabad-placements": {
@@ -21711,6 +21711,44 @@
   22650,
   22663,
   22690,
-  22701
+  22701,
+  22787,
+  22788,
+  22982,
+  23174,
+  22779,
+  22781,
+  22784,
+  22789,
+  22790,
+  22796,
+  22803,
+  22853,
+  22862,
+  22863,
+  22871,
+  22936,
+  22979,
+  23026,
+  23063,
+  23075,
+  23104,
+  23120,
+  23121,
+  23131,
+  23132,
+  23139,
+  23144,
+  23146,
+  23176,
+  23177,
+  23186,
+  23190,
+  23193,
+  23201,
+  23202,
+  23206,
+  23231,
+  23270
  ]
 }

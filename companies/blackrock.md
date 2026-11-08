@@ -1,17 +1,22 @@
 # BlackRock
 
-**24 questions** · 14 drives · latest 7 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**27 questions** · 16 drives · latest 7 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 15 · [SQL](../topics/sql.md) 3 · [ML/AI](../topics/ml-ai.md) 3 · [Arrays](../topics/arrays.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [Aptitude](../topics/aptitude.md) 1 · +3 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kharagpur/Kanpur, NIT Raipur, NIT Rourkela +1 more
+**Asks about:** [OA Format](../topics/oa-format.md) 16 · [SQL](../topics/sql.md) 3 · [ML/AI](../topics/ml-ai.md) 3 · [Sorting](../topics/sorting.md) 2 · [Heaps](../topics/heaps.md) 2 · [Greedy](../topics/greedy.md) 2 · [Arrays](../topics/arrays.md) 1 · [DP](../topics/dp.md) 1 · +5 more  
+**Seen at:** BITS Pilani, IIIT Delhi, IIT BHU, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kharagpur/Kanpur, NIT Raipur +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-07 · Unknown · FTE · AI/ML](#2026-11-07--unknown--fte--aiml)
+  - [BlackRock AI/ML OA format and contents](#q1-blackrock-aiml-oa-format-and-contents)
 - [2026-11-07 · IIT Indore · FTE · AD](#2026-11-07--iit-indore--fte--ad)
   - [BlackRock AD role OA topics](#q1-blackrock-ad-role-oa-topics)
 - [2026-11-07 · IIT BHU · FTE · AI/ML](#2026-11-07--iit-bhu--fte--aiml)
   - [BlackRock AI/ML OA language restriction](#q1-blackrock-aiml-oa-language-restriction)
+- [2026-11-07 · IIIT Delhi · FTE · AI/ML](#2026-11-07--iiit-delhi--fte--aiml)
+  - [Minimize array sum after K halving operations](#q1-minimize-array-sum-after-k-halving-operations)
+  - [Minimum cost to make array elements distinct](#q2-minimum-cost-to-make-array-elements-distinct)
 - [2026-11-06 · IIT Indore · FTE · AWT · Other round](#2026-11-06--iit-indore--fte--awt--other-round)
   - [BlackRock AWT preparation topics](#q1-blackrock-awt-preparation-topics)
 - [2026-11-06 · IIT BHU · FTE](#2026-11-06--iit-bhu--fte)
@@ -51,6 +56,16 @@
 
 ---
 
+## 2026-11-07 · Unknown · FTE · AI/ML
+
+### Q1. BlackRock AI/ML OA format and contents
+
+Python only. One set had: 1. RAG pipeline implementation (cleaning strings, tokenizing, etc.). Another set had a DSU implementation problem, followed by 70+ MCQs on RAG, AI, ML, etc.
+
+Note: one reply said both Python and C++ are allowed.
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/accenture-oa/2026-11.jsonl#L134), [chat, 7 Nov](../archive/accenture-oa/2026-11.jsonl#L135)</sub>
+
 ## 2026-11-07 · IIT Indore · FTE · AD
 
 ### Q1. BlackRock AD role OA topics
@@ -66,6 +81,33 @@ For the BlackRock AD role there were MCQs based on MCP and some DBMS-related que
 C++ was not allowed in the BlackRock OA. Only Python was allowed for the AI/ML role.
 
 <sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L352)</sub>
+
+## 2026-11-07 · IIIT Delhi · FTE · AI/ML
+
+### Q1. Minimize array sum after K halving operations
+
+Given an array and K operations (K can be as large as 10^6). In each operation, select any array element x, replace it with ⌊x/2⌋ and insert it back into the array. Minimize the sum of the array after K operations.
+
+The optimal approach is a max-heap: extract the largest element, halve it, and push it back.
+
+The exact constraints and examples were not given.
+
+<sub>Topics: Heaps, Greedy · Close variant: [LeetCode 2208. Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) (Medium), max-heap, repeatedly halve the largest element · Source: [chat, 7 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L14)</sub>
+
+### Q2. Minimum cost to make array elements distinct
+
+Given an array `arr` and a cost array `cost`. Increasing `arr[i]` by 1 costs `cost[i]`. Make all array elements distinct while minimizing the total cost.
+
+```
+arr = [1, 2, 3, 3, 5, 5]
+cost = [2, 1, 3, 4, 5, 6]
+```
+
+The minimum cost for this example is 8.
+
+The constraints were not given.
+
+<sub>Topics: Greedy, Sorting, Heaps · Source: [chat, 7 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L14)</sub>
 
 ## 2026-11-06 · IIT Indore · FTE · AWT · Other round
 
@@ -107,7 +149,7 @@ Question 2 (30 mins): Implement a DSU (Disjoint Set Union) class with the functi
 - Experience training, running and evaluating ML models
 - Awareness of ethical AI principles, data privacy and bias in models
 
-<sub>Topics: ML/AI, OA Format · Source: [chat, 6 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L16)</sub>
+<sub>Topics: ML/AI, OA Format · Source: [chat, 6 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L16) · Also asked at: IIIT Delhi (2026-11-07)</sub>
 
 ## 2026-11-05 · IIT Indore · FTE · AD
 

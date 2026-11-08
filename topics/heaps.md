@@ -1,9 +1,11 @@
 # Heaps
 
-25 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+27 questions from 21 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIIT Delhi | [Minimum cost to make array elements distinct](../companies/blackrock.md#q2-minimum-cost-to-make-array-elements-distinct) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIIT Delhi | [Minimize array sum after K halving operations](../companies/blackrock.md#q1-minimize-array-sum-after-k-halving-operations) | [LC 2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) Medium |
 | 2026-11-04 | [Deloitte](../companies/deloitte.md) | IIT Hyderabad | [Job scheduling with dependencies](../companies/deloitte.md#q1-job-scheduling-with-dependencies) | ≈ [LC 1834](https://leetcode.com/problems/single-threaded-cpu/) Medium |
 | 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Network Reliability Investigation](../companies/commotion.md#q3-network-reliability-investigation) | [LC 1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) Medium |
 | 2026-11-03 | [Commotion](../companies/commotion.md) | IIT Madras | [Cooling the Foundry Floor](../companies/commotion.md#q1-cooling-the-foundry-floor) | [LC 778](https://leetcode.com/problems/swim-in-rising-water/) Hard |

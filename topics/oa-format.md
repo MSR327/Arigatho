@@ -1,9 +1,10 @@
 # OA Format
 
-591 questions from 115 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+592 questions from 115 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | Unknown | [BlackRock AI/ML OA format and contents](../companies/blackrock.md#q1-blackrock-aiml-oa-format-and-contents) | |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Indore | [BlackRock AD role OA topics](../companies/blackrock.md#q1-blackrock-ad-role-oa-topics) | |
 | 2026-11-07 | [MathWorks](../companies/mathworks.md) | BITS Pilani | [MathWorks engineering track OA pattern](../companies/mathworks.md#q1-mathworks-engineering-track-oa-pattern) | |
 | 2026-11-07 | [Qualcomm](../companies/qualcomm.md) | IIT Roorkee | [Qualcomm SDE OA topics](../companies/qualcomm.md#q1-qualcomm-sde-oa-topics) | |

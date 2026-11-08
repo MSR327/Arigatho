@@ -1,9 +1,10 @@
 # Sorting
 
-60 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+61 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIIT Delhi | [Minimum cost to make array elements distinct](../companies/blackrock.md#q2-minimum-cost-to-make-array-elements-distinct) | |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Merge Intervals](../companies/capital-one.md#q2-merge-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Sort 0, 1, 2](../companies/cars24.md#q11-sort-0-1-2) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Minimum number of moves to seat everyone](../companies/cars24.md#q1-minimum-number-of-moves-to-seat-everyone) | [LC 2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) Easy |

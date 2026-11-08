@@ -1,6 +1,6 @@
 # Nomura: interviews
 
-**5 written experiences**, newest first · [← all companies](README.md)
+**4 written experiences**, newest first · [← all companies](README.md)
 
 ## 2025-26 season · IIT Kanpur · on-campus
 
@@ -127,53 +127,3 @@ No specific questions reported.
 **Tips:** Revise FRM topics, probability, statistics, regression and time series. · Use Heard on the Street and 50 Challenging Problems in Probability. · Do mocks with peers and seniors.
 
 Source: [SWG Foresight, IIT Kharagpur](https://medium.com/@swgiitkgp/foresight-2024-placement-at-nomura-risk-analyst-ede9b95ba204)
-
-## 7 Nov 2024 · Global Market Analyst, Derivatives Structuring · IIT Kharagpur · on-campus
-
-Resume shortlisting, group discussion in groups of 5-6, two personal interviews of about 50 minutes each.
-
-### Group discussion
-
-Groups of 5 or 6; any recent financial topic.
-
-**Interest rate hikes and long-dated recession**
-
-Topic: will a surge in interest rates act as a cure for a long-dated recession.
-
-<sub>Topics: Finance</sub>
-
-### Personal interview 1
-
-About 50 minutes, resume-led.
-
-**Projects and internships grilling**
-
-Deep questioning on every project and internship.
-
-<sub>Topics: HR & Behavioral</sub>
-
-**Puzzles, probability and statistics**
-
-A series of puzzle, probability and statistics problems. Exact problems not given.
-
-<sub>Topics: Puzzles, Math</sub>
-
-**General financial market questions**
-
-General questions on financial markets. Exact questions not given.
-
-<sub>Topics: Finance</sub>
-
-### Personal interview 2
-
-About 50 minutes, role-specific.
-
-**Equities, fixed income, derivatives and option Greeks**
-
-Conceptual questions on equities, fixed-income securities, derivatives and option Greeks. Exact questions not given.
-
-<sub>Topics: Finance</sub>
-
-**Tips:** Revise probability and statistics (Stat 110, 50 Challenging Problems, Heard on the Street). · Follow daily financial news and practise puzzles.
-
-Source: [SWG Foresight, IIT Kharagpur](https://medium.com/@swgiitkgp/foresight-2024-placement-at-nomura-siddharth-bajpayi-9ba877cd5438)

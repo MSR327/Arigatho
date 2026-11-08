@@ -1,9 +1,11 @@
 # Greedy
 
-88 questions from 39 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+90 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIIT Delhi | [Minimum cost to make array elements distinct](../companies/blackrock.md#q2-minimum-cost-to-make-array-elements-distinct) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIIT Delhi | [Minimize array sum after K halving operations](../companies/blackrock.md#q1-minimize-array-sum-after-k-halving-operations) | [LC 2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Minimum number of moves to seat everyone](../companies/cars24.md#q1-minimum-number-of-moves-to-seat-everyone) | [LC 2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) Easy |
 | 2026-11-06 | [MathWorks](../companies/mathworks.md) | IIT Indore | [Minimum swaps to sort using zero](../companies/mathworks.md#q1-minimum-swaps-to-sort-using-zero) | |
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Maximize beautiful substrings](../companies/mathworks.md#q3-maximize-beautiful-substrings) | ≈ [LC 1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) Medium |
