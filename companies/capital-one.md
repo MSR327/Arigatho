@@ -1,13 +1,15 @@
 # Capital One
 
-**32 questions** · 13 drives · latest 7 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**33 questions** · 14 drives · latest 8 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [Hashing](../topics/hashing.md) 3 · [DP](../topics/dp.md) 2 · [Binary Search](../topics/binary-search.md) 2 · +10 more  
+**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [Hashing](../topics/hashing.md) 3 · [DP](../topics/dp.md) 2 · [Binary Search](../topics/binary-search.md) 2 · +11 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, MNNIT Allahabad +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-08 · Unknown · FTE · Interview](#2026-11-08--unknown--fte--interview)
+  - [Round 2 system design expectations](#q1-round-2-system-design-expectations)
 - [2026-11-07 · MNNIT Allahabad · FTE](#2026-11-07--mnnit-allahabad--fte)
   - [Simple Bank System](#q1-simple-bank-system)
   - [Merge Intervals](#q2-merge-intervals)
@@ -57,6 +59,23 @@
 </details>
 
 ---
+
+## 2026-11-08 · Unknown · FTE · Interview
+
+### Q1. Round 2 system design expectations
+
+Round 2 system design: the candidate is expected to:
+1. Understand the requirements.
+2. Identify entities and their relationships.
+3. Design APIs.
+4. Choose appropriate databases and data structures.
+5. Draw the system architecture.
+6. Explain scalability, reliability and trade-offs.
+7. Handle follow-up questions from the interviewer.
+
+(The specific design problem was not given.)
+
+<sub>Topics: Software Engineering · Source: [chat, 8 Nov](../archive/inter-iit/2026-11.jsonl#L399)</sub>
 
 ## 2026-11-07 · MNNIT Allahabad · FTE
 
@@ -144,7 +163,7 @@ System Design: one small design problem
 
 MCQs: not reported in this format
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L213) · Also asked at: IIT BHU (2026-11-05), IIT Kharagpur/Kanpur (2026-11-05), IIT Kharagpur ×2 (last 2026-11-06)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-iit/2026-11.jsonl#L213) · Also asked at: IIT Kharagpur/Kanpur (2026-11-05), IIT Kharagpur ×2 (last 2026-11-06), IIT BHU ×2 (last 2026-11-08)</sub>
 
 ## 2026-11-05 · Unknown · FTE · Other round
 

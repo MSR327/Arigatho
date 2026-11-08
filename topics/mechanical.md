@@ -1,9 +1,10 @@
 # Mechanical
 
-57 questions from 3 companys, newest first. [← all topics](../README.md#topics)
+58 questions from 4 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-07 | [SEDEMAC](../companies/sedemac.md) | IIT Indore | [SEDEMAC Round 2 technical MCQ test format](../companies/sedemac.md#q1-sedemac-round-2-technical-mcq-test-format) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Axial thrust in pump shaft](../companies/reliance.md#q89-axial-thrust-in-pump-shaft) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Heat addition at constant volume](../companies/reliance.md#q78-heat-addition-at-constant-volume) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Number of inversions of a mechanism](../companies/reliance.md#q67-number-of-inversions-of-a-mechanism) |

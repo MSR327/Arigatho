@@ -1,9 +1,10 @@
 # DP
 
-132 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+133 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Interleaving String](../companies/iqvia.md#q12-interleaving-string) | [LC 97](https://leetcode.com/problems/interleaving-string/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Interleaving string](../companies/cars24.md#q12-interleaving-string) | [LC 97](https://leetcode.com/problems/interleaving-string/) Medium |
 | 2026-11-06 | [Navi](../companies/navi.md) | IIT Hyderabad | [DP debugging problem](../companies/navi.md#q2-dp-debugging-problem) | |
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Maximize beautiful substrings](../companies/mathworks.md#q3-maximize-beautiful-substrings) | ≈ [LC 1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) Medium |

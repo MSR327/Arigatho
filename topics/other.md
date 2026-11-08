@@ -1,9 +1,12 @@
 # Other
 
-52 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+55 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Refurbishment Hub Inspection Pipeline](../companies/iqvia.md#q16-refurbishment-hub-inspection-pipeline) | |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Intercom Bypass](../companies/iqvia.md#q3-intercom-bypass) | |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Multi-City Fleet Relocation](../companies/iqvia.md#q2-multi-city-fleet-relocation) | |
 | 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Customers with purchases above ₹50,000](../companies/exl.md#q10-customers-with-purchases-above-50000) | |
 | 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Month-over-month growth](../companies/exl.md#q9-month-over-month-growth) | |
 | 2026-11-07 | [EXL](../companies/exl.md) | Unknown | [Pivot table for region-wise sales](../companies/exl.md#q8-pivot-table-for-region-wise-sales) | |

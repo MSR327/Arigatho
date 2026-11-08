@@ -3,7 +3,7 @@
 **13 questions** · 9 drives · latest 7 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 5 · [Greedy](../topics/greedy.md) 5 · [Arrays](../topics/arrays.md) 4 · [Strings](../topics/strings.md) 3 · [Hashing](../topics/hashing.md) 2 · [Trees](../topics/trees.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Math](../topics/math.md) 1 · +6 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Hyderabad, IIT Indore, VNIT Nagpur
+**Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, IIT Indore, IIT Kharagpur, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -53,7 +53,7 @@ Engineering: basic concepts of Control Theory, Signal Processing and Embedded Sy
 
 Pattern: 3 DSA questions and MCQs.
 
-<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L772)</sub>
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L772) · Also asked at: IIT Kharagpur (2026-11-07)</sub>
 
 ## 2026-11-06 · IIT Indore · FTE
 
@@ -96,7 +96,7 @@ Output
 
 3 DSA questions and 5 aptitude MCQs.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L742), [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L743)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L742), [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L743) · Also asked at: IIT Delhi (2026-11-07)</sub>
 
 ## 2026-11-05 · Unknown · FTE
 
@@ -142,13 +142,13 @@ Constraints (assumed by the poster):
 
 Question 1 was the problem at fastprep.io 'ibm-get-optimal-string-length' (only the link was given, no statement).
 
-<sub>Topics: Strings · Source: [chat, 5 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L73)</sub>
+<sub>Topics: Strings · Source: [chat, 5 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L73) · Also asked at: IIT Delhi (2026-11-07)</sub>
 
 ### Q3. Minimum division operations to make array non-decreasing
 
 Question 2 was the LeetCode problem 'Minimum Division Operations to Make Array Non-Decreasing' (statement not reproduced by the poster).
 
-<sub>Topics: Arrays, Greedy, Math · Similar: [LeetCode 3326. Minimum Division Operations to Make Array Non Decreasing](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) (Medium) · Source: [chat, 5 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L73)</sub>
+<sub>Topics: Arrays, Greedy, Math · Similar: [LeetCode 3326. Minimum Division Operations to Make Array Non Decreasing](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) (Medium) · Source: [chat, 5 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L73) · Also asked at: IIT Delhi (2026-11-07)</sub>
 
 ## 2026-11-05 · IIT Hyderabad · FTE · Engineering track
 
@@ -158,7 +158,7 @@ You are given a tree with N nodes and N-1 edges. Each node has a value associate
 
 Constraints: N <= 10^5
 
-<sub>Topics: Trees, Binary Search · Same idea: [LeetCode 437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) (Medium), count ancestor-descendant paths with weighted constraint via path prefix sums · Source: [chat, 5 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L95) · Also asked at: Unknown (2026-11-05), IIT Hyderabad ×3 (last 2026-11-06), BITS Pilani (2026-11-07)</sub>
+<sub>Topics: Trees, Binary Search · Same idea: [LeetCode 437. Path Sum III](https://leetcode.com/problems/path-sum-iii/) (Medium), count ancestor-descendant paths with weighted constraint via path prefix sums · Source: [chat, 5 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L95) · Also asked at: Unknown (2026-11-05), IIT Hyderabad ×3 (last 2026-11-06), BITS Pilani (2026-11-07), IIT Delhi (2026-11-07)</sub>
 
 ## 2026-11-05 · IIT Bombay · FTE · Software
 

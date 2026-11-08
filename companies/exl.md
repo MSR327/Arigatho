@@ -3,7 +3,7 @@
 **14 questions** · 5 drives · latest 7 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Other](../topics/other.md) 10 · [OA Format](../topics/oa-format.md) 4  
-**Seen at:** IIT BHU, IIT Dhanbad, IIT Hyderabad
+**Seen at:** IIT BHU, IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -116,7 +116,7 @@ The poster has not yet taken the OA, but says the pattern was 3 or 4 DSA questio
 
 Test duration 60 mins. Divided into 3 parts: Cognitive Ability, Verbal Ability and Technical.
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/exl-oa/2026-11.jsonl#L7) · Also asked at: IIT Dhanbad (2026-11-02), IIT BHU (2026-11-02)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/exl-oa/2026-11.jsonl#L7) · Also asked at: IIT Dhanbad (2026-11-02), IIT BHU (2026-11-02), MNNIT Allahabad (2026-11-07)</sub>
 
 ## 2026-10-28 · IIT BHU · FTE · Consultant I - Analytics (Band B1)
 
@@ -124,4 +124,4 @@ Test duration 60 mins. Divided into 3 parts: Cognitive Ability, Verbal Ability a
 
 The OA at IIT BHU had an aptitude section and a SQL section.
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L33)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L33) · Also asked at: IIT BHU ×3 (last 2026-11-07), IIT Dhanbad (2026-11-07)</sub>

@@ -1,6 +1,6 @@
 # ZS
 
-**6 questions** · 4 drives · latest 6 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 4 drives · latest 7 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 3 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 2 · [Verbal](../topics/verbal.md) 1 · [Arrays](../topics/arrays.md) 1 · [SQL](../topics/sql.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
 **Seen at:** IIT BHU
@@ -39,7 +39,7 @@ The interviewer asked frequent follow-up questions.
 
 (Exact case details not given.)
 
-<sub>Topics: Guesstimates & Cases · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L754) · Also asked at: IIT BHU ×2 (last 2026-11-06)</sub>
+<sub>Topics: Guesstimates & Cases · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L754) · Also asked at: IIT BHU ×3 (last 2026-11-07)</sub>
 
 ### Q2. Guesstimate question
 
@@ -47,7 +47,7 @@ A guesstimate question to evaluate structured thinking, assumptions and problem-
 
 (The actual guesstimate was not stated.)
 
-<sub>Topics: Guesstimates & Cases · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L754) · Also asked at: IIT BHU ×2 (last 2026-11-06)</sub>
+<sub>Topics: Guesstimates & Cases · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L754) · Also asked at: IIT BHU ×3 (last 2026-11-07)</sub>
 
 ### Q3. Behavioral / managerial round
 

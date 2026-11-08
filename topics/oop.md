@@ -1,9 +1,11 @@
 # OOP
 
-29 questions from 21 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+31 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Class vs object](../companies/cognizant.md#q8-class-vs-object) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | Unknown | [Implement multiple classes from specification (AI-assisted IDE)](../companies/blackrock.md#q1-implement-multiple-classes-from-specification-ai-assisted-ide) | |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Simple Bank System](../companies/capital-one.md#q1-simple-bank-system) | [LC 2043](https://leetcode.com/problems/simple-bank-system/) Medium |
 | 2026-11-06 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Implement classes using the built-in AI assistant](../companies/blackrock.md#q1-implement-classes-using-the-built-in-ai-assistant) | |
 | 2026-10-30 | [American Express](../companies/american-express.md) | IIT Guwahati | [LangGraph severity-classification agent class](../companies/american-express.md#q8-langgraph-severity-classification-agent-class) | |

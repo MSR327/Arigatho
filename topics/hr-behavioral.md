@@ -1,9 +1,13 @@
 # HR & Behavioral
 
-26 questions from 15 companys, newest first. [← all topics](../README.md#topics)
+30 questions from 18 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-07 | [Neighborly](../companies/neighborly.md) | IIT BHU | [Interview format with business case study and guesstimate](../companies/neighborly.md#q1-interview-format-with-business-case-study-and-guesstimate) |
+| 2026-11-07 | [Auxo AI](../companies/auxo-ai.md) | IIT Hyderabad | [Business case study and guesstimate round](../companies/auxo-ai.md#q1-business-case-study-and-guesstimate-round) |
+| 2026-11-07 | [SEDEMAC](../companies/sedemac.md) | IIT Indore | [SEDEMAC Round 3 technical interview](../companies/sedemac.md#q2-sedemac-round-3-technical-interview) |
+| 2026-11-07 | [IBM](../companies/ibm.md) | IIT Roorkee | [IBM competency round format](../companies/ibm.md#q1-ibm-competency-round-format) |
 | 2026-11-06 | [ZS](../companies/zs.md) | IIT BHU | [Behavioral / managerial round](../companies/zs.md#q3-behavioral--managerial-round) |
 | 2026-11-05 | [ICICI](../companies/icici.md) | IIT BHU | [ICICI interview: Placement Coordinator role questions](../companies/icici.md#q2-icici-interview-placement-coordinator-role-questions) |
 | 2026-11-04 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Accenture interview focus areas](../companies/accenture.md#q1-accenture-interview-focus-areas) |

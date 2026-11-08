@@ -5,3 +5,4 @@
 {"id": 21703, "group": "npci-oa", "sent_at": "2026-11-05T19:51:55.221501+00:00", "text": "", "author_tag": "IITH", "reply_to": null, "attachment": null, "deleted": true}
 {"id": 21780, "group": "npci-oa", "sent_at": "2026-11-05T21:03:32.185442+00:00", "text": "", "author_tag": "IITH", "reply_to": null, "attachment": null, "deleted": true}
 {"id": 22445, "group": "npci-oa", "sent_at": "2026-11-06T18:37:35.875247+00:00", "text": "How much are NPCI paying?", "author_tag": "NITT", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 22861, "group": "npci-oa", "sent_at": "2026-11-07T09:41:21.872771+00:00", "text": "22.4 LPA, 13 Base", "author_tag": "IITH", "reply_to": {"id": 22445, "text": "How much are NPCI paying?", "author_tag": "NITT"}, "attachment": null, "deleted": false}

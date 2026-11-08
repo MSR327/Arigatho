@@ -1,13 +1,15 @@
 # Texas Instruments
 
-**88 questions** · 16 drives · latest 6 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**89 questions** · 17 drives · latest 8 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 23 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [OA Format](../topics/oa-format.md) 7 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +9 more  
-**Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Roorkee
+**Asks about:** [Digital Electronics](../topics/digital-electronics.md) 23 · [Aptitude](../topics/aptitude.md) 20 · [Analog Electronics](../topics/analog-electronics.md) 16 · [Circuits](../topics/circuits.md) 15 · [OA Format](../topics/oa-format.md) 8 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Signals & Systems](../topics/signals-systems.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · +10 more  
+**Seen at:** BITS Pilani, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Roorkee +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-08 · MNNIT Allahabad · FTE · SDE · Interview](#2026-11-08--mnnit-allahabad--fte--sde--interview)
+  - [SDE interview focus areas](#q1-sde-interview-focus-areas)
 - [2026-11-06 · Unknown · FTE · Embedded Software](#2026-11-06--unknown--fte--embedded-software)
   - [Level with biggest odd sum in balanced binary tree](#q1-level-with-biggest-odd-sum-in-balanced-binary-tree)
 - [2026-11-05 · IIT Roorkee · FTE](#2026-11-05--iit-roorkee--fte)
@@ -116,6 +118,14 @@
 </details>
 
 ---
+
+## 2026-11-08 · MNNIT Allahabad · FTE · SDE · Interview
+
+### Q1. SDE interview focus areas
+
+For the SDE role: DSA, projects in some depth, and core CS fundamentals. No HLD or LLD questions.
+
+<sub>Topics: OA Format, Software Engineering · Source: [chat, 8 Nov](../archive/inter-nit/2026-11.jsonl#L857)</sub>
 
 ## 2026-11-06 · Unknown · FTE · Embedded Software
 

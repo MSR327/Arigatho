@@ -1,9 +1,9 @@
 # Amazon
 
-**14 questions** · 11 drives · latest 7 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**14 questions** · 11 drives · latest 8 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 11 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1  
-**Seen at:** BITS, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Madras, MNNIT Allahabad, NIT Raipur +2 more
+**Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Madras, MNNIT Allahabad +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -88,7 +88,7 @@ The OA was on HackerRank (as the poster believed). It included an AI-assisted de
 
 The details of the specific bugs and the DSA questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L37), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L38), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L39), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L44)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L37), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L38), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L39), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L44) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q2. Amazon OA format: coding and debugging
 

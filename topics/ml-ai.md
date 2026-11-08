@@ -1,9 +1,48 @@
 # ML/AI
 
-93 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+132 questions from 22 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Clearest prompt for a requirement](../companies/cognizant.md#q18-clearest-prompt-for-a-requirement) |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Tool selection accuracy](../companies/cognizant.md#q17-tool-selection-accuracy) |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Bias in an AI system](../companies/cognizant.md#q16-bias-in-an-ai-system) |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Purpose of benchmarking an agent](../companies/cognizant.md#q15-purpose-of-benchmarking-an-agent) |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Main role of transformer encoder](../companies/cognizant.md#q13-main-role-of-transformer-encoder) |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Concurrent execution](../companies/cognizant.md#q4-concurrent-execution) |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Task allocation in agents](../companies/cognizant.md#q3-task-allocation-in-agents) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Easy ML fundamentals MCQs](../companies/blackrock.md#q3-easy-ml-fundamentals-mcqs) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [TF-IDF Vectorizer (AI-assisted task)](../companies/blackrock.md#q1-tf-idf-vectorizer-ai-assisted-task) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur/Kanpur | [DSU implementation and ML MCQs](../companies/blackrock.md#q2-dsu-implementation-and-ml-mcqs) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur/Kanpur | [RAG pipeline implementation](../companies/blackrock.md#q1-rag-pipeline-implementation-1) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Roorkee | [BlackRock AI/ML OA topics](../companies/blackrock.md#q2-blackrock-aiml-oa-topics) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Easy ML MCQs](../companies/blackrock.md#q3-easy-ml-mcqs) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Coding: TF-IDF vectorizer](../companies/blackrock.md#q1-coding-tf-idf-vectorizer) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | Unknown | [OA MCQ section: RAG, LLMs, Responsible AI](../companies/blackrock.md#q3-oa-mcq-section-rag-llms-responsible-ai) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock AI/ML OA topics](../companies/blackrock.md#q3-blackrock-aiml-oa-topics) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur/Kanpur | [Implementation round: sentence transformer tasks](../companies/blackrock.md#q1-implementation-round-sentence-transformer-tasks) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [PPV gap between groups](../companies/blackrock.md#q9-ppv-gap-between-groups) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [Gradient multiplied by 0.5 through 10 layers](../companies/blackrock.md#q8-gradient-multiplied-by-05-through-10-layers) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [Accuracy with 240 correct out of 300](../companies/blackrock.md#q7-accuracy-with-240-correct-out-of-300) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [Macro-recall with 90% and 10% class recall](../companies/blackrock.md#q6-macro-recall-with-90-and-10-class-recall) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [Why re-embed after embedding model upgrade](../companies/blackrock.md#q5-why-re-embed-after-embedding-model-upgrade) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [DCG@3 for [3,2,1]](../companies/blackrock.md#q4-dcg3-for-321) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [Multiplications for 2 million 512-dim vectors](../companies/blackrock.md#q3-multiplications-for-2-million-512-dim-vectors) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [Binary cross-entropy with p=0.9, y=0](../companies/blackrock.md#q2-binary-cross-entropy-with-p09-y0) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [PPV gap between groups](../companies/blackrock.md#q9-ppv-gap-between-groups-1) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Gradient through 10 layers](../companies/blackrock.md#q8-gradient-through-10-layers) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Fine-tuning accuracy](../companies/blackrock.md#q7-fine-tuning-accuracy) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Macro-recall](../companies/blackrock.md#q6-macro-recall) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Why re-embed after embedding model upgrade](../companies/blackrock.md#q5-why-re-embed-after-embedding-model-upgrade-1) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [DCG@3 for RAG](../companies/blackrock.md#q4-dcg3-for-rag) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Vector DB multiplication count](../companies/blackrock.md#q3-vector-db-multiplication-count) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Binary cross-entropy](../companies/blackrock.md#q2-binary-cross-entropy) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [OA structure](../companies/blackrock.md#q1-oa-structure) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [MCQ section: probability, linear algebra, ML basics](../companies/blackrock.md#q3-mcq-section-probability-linear-algebra-ml-basics) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Roorkee | [AI/ML MCQs](../companies/blackrock.md#q3-aiml-mcqs) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Roorkee | [RAG pipeline implementation](../companies/blackrock.md#q1-rag-pipeline-implementation) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Roorkee | [BlackRock AI/ML OA: RAG pipeline and DSU](../companies/blackrock.md#q1-blackrock-aiml-oa-rag-pipeline-and-dsu) |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [AI/ML Engineer OA pattern (Python only)](../companies/blackrock.md#q1-aiml-engineer-oa-pattern-python-only) |
 | 2026-11-06 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock AI/ML MCQ section](../companies/blackrock.md#q3-blackrock-aiml-mcq-section) |
 | 2026-11-06 | [Kuku FM](../companies/kuku-fm.md) | IIT Guwahati | [Kuku FM LLM-based model assignment](../companies/kuku-fm.md#q1-kuku-fm-llm-based-model-assignment) |
 | 2026-11-06 | [Porter](../companies/porter.md) | IIT Hyderabad | [Porter AI/ML role OA pattern](../companies/porter.md#q1-porter-aiml-role-oa-pattern) |

@@ -1,13 +1,17 @@
 # ICICI
 
-**19 questions** · 18 drives · latest 6 Nov 2026 · [← all companies](../README.md#companies)
+**21 questions** · 20 drives · latest 8 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 17 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [OOP](../topics/oop.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 19 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [OOP](../topics/oop.md) 1  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad, Manipal +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-08 · IIT Roorkee · FTE · Manager](#2026-11-08--iit-roorkee--fte--manager)
+  - [ICICI Bank Manager OA pattern](#q1-icici-bank-manager-oa-pattern)
+- [2026-11-08 · IIT Roorkee · FTE · Deputy Manager II](#2026-11-08--iit-roorkee--fte--deputy-manager-ii)
+  - [ICICI Deputy Manager II OA contents](#q1-icici-deputy-manager-ii-oa-contents)
 - [2026-11-06 · NIT Trichy · FTE · Manager 1](#2026-11-06--nit-trichy--fte--manager-1)
   - [ICICI Manager-1 OA format](#q1-icici-manager-1-oa-format)
 - [2026-11-06 · IIT Roorkee · FTE · Manager 1](#2026-11-06--iit-roorkee--fte--manager-1)
@@ -50,6 +54,29 @@
 
 ---
 
+## 2026-11-08 · IIT Roorkee · FTE · Manager
+
+### Q1. ICICI Bank Manager OA pattern
+
+ICICI Bank Manager Role – OA Pattern:
+1. Aptitude: Quantitative, logical reasoning, puzzles.
+2. Technical MCQs: OOP, DBMS, OS, CN.
+3. Programming: C++, Java, Python output questions.
+4. SQL: Joins, queries, normalization.
+5. Banking Awareness: RBI, repo rate, UPI, banking basics.
+
+Practice priority: SQL + DBMS + OOP + Aptitude + Banking Awareness.
+
+<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/icici-oa/2026-11.jsonl#L57) · Also asked at: MNNIT Allahabad (2026-11-08)</sub>
+
+## 2026-11-08 · IIT Roorkee · FTE · Deputy Manager II
+
+### Q1. ICICI Deputy Manager II OA contents
+
+Questions are on SQL + DBMS + OOPs + code snippets in Python. All MCQ. The questions come from PYQs and recent OAs from different colleges.
+
+<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/icici-oa/2026-11.jsonl#L60), [chat, 8 Nov](../archive/icici-oa/2026-11.jsonl#L61), [chat, 8 Nov](../archive/icici-oa/2026-11.jsonl#L62)</sub>
+
 ## 2026-11-06 · NIT Trichy · FTE · Manager 1
 
 ### Q1. ICICI Manager-1 OA format
@@ -80,7 +107,7 @@ English, reasoning, maths, operating systems and more, a bit of everything.
 
 Selection process: resume shortlisting, online assessment, personal interview. The OA consists of: OOPs concepts, Computer Networking, Operating System, Programming Language (C/C++/Python/Java), Machine Learning, Natural Language Processing, Quantitative Mathematics, Project Management, Software Engineering, DBMS.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Guwahati (2026-11-06), IIT BHU ×2 (last 2026-11-06), IIT Kanpur (2026-11-06)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Guwahati (2026-11-06), IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08)</sub>
 
 ### Q2. ICICI interview: Placement Coordinator role questions
 
@@ -93,7 +120,7 @@ Interview began with a self-introduction (about 1.5 minutes). The interviewer th
 
 This discussion lasted almost 10 minutes, then moved on to club experience (the message was cut off here).
 
-<sub>Topics: HR & Behavioral · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT BHU ×2 (last 2026-11-06), IIT Kanpur (2026-11-06)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08)</sub>
 
 ## 2026-11-04 · VNIT Nagpur · FTE · Manager-1
 

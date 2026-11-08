@@ -1,9 +1,16 @@
 # Software Engineering
 
-50 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+57 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [What is a cloud region](../companies/cognizant.md#q6-what-is-a-cloud-region) | |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Service model with self-managed VMs](../companies/cognizant.md#q5-service-model-with-self-managed-vms) | |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Why not hard-code API keys](../companies/cognizant.md#q2-why-not-hard-code-api-keys) | |
+| 2026-11-08 | [Texas Instruments](../companies/texas-instruments.md) | MNNIT Allahabad | [SDE interview focus areas](../companies/texas-instruments.md#q1-sde-interview-focus-areas) | |
+| 2026-11-08 | [Capital One](../companies/capital-one.md) | Unknown | [Round 2 system design expectations](../companies/capital-one.md#q1-round-2-system-design-expectations) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [REST API with matching and request-handling functions](../companies/blackrock.md#q2-rest-api-with-matching-and-request-handling-functions) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Coding: REST API match and handle functions](../companies/blackrock.md#q2-coding-rest-api-match-and-handle-functions) | |
 | 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Denso OA: fix backend repository with AI agent](../companies/denso.md#q3-denso-oa-fix-backend-repository-with-ai-agent) | |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | Unknown | [Debugging: movie DB search backend](../companies/amazon.md#q1-debugging-movie-db-search-backend) | |
 | 2026-11-02 | [HiLabs](../companies/hilabs.md) | IIT Guwahati | [Production debugging scenarios](../companies/hilabs.md#q1-production-debugging-scenarios) | |

@@ -1,9 +1,12 @@
 # Trees
 
-65 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+68 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-08 | [Juspay](../companies/juspay.md) | IIT Bombay | [Edge weight update queries in a tree](../companies/juspay.md#q1-edge-weight-update-queries-in-a-tree) | |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Distribute Coins in Binary Tree](../companies/iqvia.md#q7-distribute-coins-in-binary-tree) | [LC 979](https://leetcode.com/problems/distribute-coins-in-binary-tree/) Medium |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Bottom View of Binary Tree](../companies/iqvia.md#q6-bottom-view-of-binary-tree) | [GfG](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) |
 | 2026-11-06 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [Level with biggest odd sum in balanced binary tree](../companies/texas-instruments.md#q1-level-with-biggest-odd-sum-in-balanced-binary-tree) | [LC 1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Distribute coins in binary tree](../companies/cars24.md#q7-distribute-coins-in-binary-tree) | [LC 979](https://leetcode.com/problems/distribute-coins-in-binary-tree/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Bottom view of binary tree](../companies/cars24.md#q6-bottom-view-of-binary-tree) | [GfG](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) |

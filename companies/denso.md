@@ -1,8 +1,8 @@
 # Denso
 
-**5 questions** · 2 drives · latest 7 Nov 2026 · [← all companies](../README.md#companies)
+**6 questions** · 3 drives · latest 7 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Web Dev](../topics/web-dev.md) 2 · [Software Engineering](../topics/software-engineering.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Web Dev](../topics/web-dev.md) 2 · [Software Engineering](../topics/software-engineering.md) 1  
 **Seen at:** IIT Guwahati
 
 <details>
@@ -10,6 +10,8 @@
 
 - [2026-11-07 · Unknown · FTE](#2026-11-07--unknown--fte)
   - [Denso OA sections and topics](#q1-denso-oa-sections-and-topics)
+- [2026-11-07 · IIT Guwahati · FTE](#2026-11-07--iit-guwahati--fte)
+  - [Denso AI coding round](#q1-denso-ai-coding-round)
 - [2026-11-05 · IIT Guwahati · FTE](#2026-11-05--iit-guwahati--fte)
   - [Denso OA format: solve a task with a chatbot](#q1-denso-oa-format-solve-a-task-with-a-chatbot)
   - [Denso OA: development with AI assistant](#q2-denso-oa-development-with-ai-assistant)
@@ -33,6 +35,16 @@ Reported sections and topics:
 - Coding: Arrays, Strings, Sorting, Basic DSA (Role-dependent)
 
 <sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L346), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L347)</sub>
+
+## 2026-11-07 · IIT Guwahati · FTE
+
+### Q1. Denso AI coding round
+
+AI coding round with full AI access given; pretty easy, just needs patience. The question was a promo-code kind of question.
+
+(Exact statement not given.)
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L45)</sub>
 
 ## 2026-11-05 · IIT Guwahati · FTE
 

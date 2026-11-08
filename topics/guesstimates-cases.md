@@ -1,9 +1,17 @@
 # Guesstimates & Cases
 
-7 questions from 4 companys, newest first. [← all topics](../README.md#topics)
+15 questions from 8 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-07 | [Neighborly](../companies/neighborly.md) | IIT BHU | [Interview format with business case study and guesstimate](../companies/neighborly.md#q1-interview-format-with-business-case-study-and-guesstimate) |
+| 2026-11-07 | [Auxo AI](../companies/auxo-ai.md) | IIT Hyderabad | [Business case study and guesstimate round](../companies/auxo-ai.md#q1-business-case-study-and-guesstimate-round) |
+| 2026-11-07 | [Sekant Security](../companies/sekant-security.md) | NIT Kurukshetra | [Guesstimate question](../companies/sekant-security.md#q2-guesstimate-question) |
+| 2026-11-07 | [Sekant Security](../companies/sekant-security.md) | NIT Kurukshetra | [Business case study interview](../companies/sekant-security.md#q1-business-case-study-interview) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Most effective advertising medium](../companies/accordion.md#q17-most-effective-advertising-medium) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Scenario with highest revenue increase](../companies/accordion.md#q13-scenario-with-highest-revenue-increase) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Ride sharing annual revenue (Kerala)](../companies/accordion.md#q12-ride-sharing-annual-revenue-kerala) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Market share change for printer maker](../companies/accordion.md#q2-market-share-change-for-printer-maker) |
 | 2026-11-06 | [ZS](../companies/zs.md) | IIT BHU | [Guesstimate question](../companies/zs.md#q2-guesstimate-question) |
 | 2026-11-06 | [ZS](../companies/zs.md) | IIT BHU | [Business case study on company performance](../companies/zs.md#q1-business-case-study-on-company-performance) |
 | 2026-11-03 | [Capital One](../companies/capital-one.md) | Unknown | [Capital One Business Analyst OA topics](../companies/capital-one.md#q1-capital-one-business-analyst-oa-topics) |

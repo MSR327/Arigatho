@@ -1,9 +1,14 @@
 # Arrays
 
-225 questions from 61 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+230 questions from 62 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [Unknown](../companies/unknown.md) | IIT Madras | [Drone launching pad departure times](../companies/unknown.md#q1-drone-launching-pad-departure-times) | ≈ [LC 1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) Medium |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Find the Town Judge](../companies/iqvia.md#q15-find-the-town-judge) | [LC 997](https://leetcode.com/problems/find-the-town-judge/) Easy |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Number of Islands](../companies/iqvia.md#q13-number-of-islands) | [LC 200](https://leetcode.com/problems/number-of-islands/) Medium |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Sort 0, 1, 2](../companies/iqvia.md#q11-sort-0-1-2) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Longest Subarray with Sum at Most K](../companies/iqvia.md#q9-longest-subarray-with-sum-at-most-k) | ≈ [GfG](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Rotating the Box](../companies/capital-one.md#q11-rotating-the-box) | [LC 1861](https://leetcode.com/problems/rotating-the-box/) Medium |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Largest Rectangle in Histogram](../companies/capital-one.md#q10-largest-rectangle-in-histogram) | [LC 84](https://leetcode.com/problems/largest-rectangle-in-histogram/) Hard |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Candy Crush](../companies/capital-one.md#q9-candy-crush) | [LC 723](https://leetcode.com/problems/candy-crush/) Medium |

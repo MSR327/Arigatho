@@ -1,15 +1,25 @@
 # Unknown
 
-**36 questions** · 22 drives · latest 7 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**42 questions** · 26 drives · latest 8 Nov 2026 · [14 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 16 · [Strings](../topics/strings.md) 4 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Arrays](../topics/arrays.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Graphs](../topics/graphs.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +13 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 18 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Arrays](../topics/arrays.md) 5 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +14 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-08 · Unknown · FTE · Quant Analyst · Other round](#2026-11-08--unknown--fte--quant-analyst--other-round)
+  - [Goldman Sachs Quant Analyst hiring process pattern](#q1-goldman-sachs-quant-analyst-hiring-process-pattern)
 - [2026-11-07 · Unknown · FTE](#2026-11-07--unknown--fte)
   - [Expected OA sections and topics (AlgoQuant)](#q1-expected-oa-sections-and-topics-algoquant)
+- [2026-11-07 · IIT Roorkee · FTE](#2026-11-07--iit-roorkee--fte)
+  - [Infected node spread](#q1-infected-node-spread)
+- [2026-11-07 · IIT Madras · FTE](#2026-11-07--iit-madras--fte)
+  - [Drone launching pad departure times](#q1-drone-launching-pad-departure-times)
+  - [Minimum bit flips to limit transitions](#q2-minimum-bit-flips-to-limit-transitions)
+  - [Bellman-Ford standard question](#q3-bellman-ford-standard-question)
+- [2026-11-07 · IIT Hyderabad · FTE](#2026-11-07--iit-hyderabad--fte)
+  - [Sirion Labs OA pattern](#q1-sirion-labs-oa-pattern)
 - [2026-11-05 · IIT Guwahati · FTE](#2026-11-05--iit-guwahati--fte)
   - [OA format: DSA, aptitude, SQL, behavioural](#q1-oa-format-dsa-aptitude-sql-behavioural)
 - [2026-11-05 · IIT Delhi · FTE](#2026-11-05--iit-delhi--fte)
@@ -71,6 +81,20 @@
 
 ---
 
+## 2026-11-08 · Unknown · FTE · Quant Analyst · Other round
+
+### Q1. Goldman Sachs Quant Analyst hiring process pattern
+
+Goldman Sachs Quant Analyst process as described:
+
+- Resume Shortlisting
+- Online Assessment (OA): aptitude and logical reasoning; quantitative aptitude; 2–4 DSA coding questions
+- Technical Round 1: DSA (Medium–Hard), complexity analysis
+- Technical Round 2: DSA + OOP; DBMS, OS, CN; LLD / System Design
+- HR / Managerial Round: projects, resume, behavioural questions
+
+<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/inter-iit/2026-11.jsonl#L401)</sub>
+
 ## 2026-11-07 · Unknown · FTE
 
 ### Q1. Expected OA sections and topics (AlgoQuant)
@@ -85,6 +109,44 @@ Shared in reply to a request for AlgoQuant questions. Expected sections and topi
 - Puzzles: Logical and problem-solving questions
 
 <sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L349)</sub>
+
+## 2026-11-07 · IIT Roorkee · FTE
+
+### Q1. Infected node spread
+
+Similar to the "infected node" problem from data science: a node is infected and its 4 adjacent nodes can become infected, but with a slightly more advanced version. Full statement not given.
+
+<sub>Topics: Graphs · Same idea: [LeetCode 994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) (Medium), multi-source BFS spread to 4 neighbours · Source: [chat, 7 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L105)</sub>
+
+## 2026-11-07 · IIT Madras · FTE
+
+### Q1. Drone launching pad departure times
+
+Appian OA: Drones arrive at some time and unload items on a launching pad. If another drone is already there, the drone has to wait for it to leave. Find the leaving times for all drones.
+
+Exact input format and constraints were not shared.
+
+<sub>Topics: Arrays, Greedy · Same idea: [LeetCode 1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) (Medium), sequential queue simulation of waiting times · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L820)</sub>
+
+### Q2. Minimum bit flips to limit transitions
+
+Appian OA: Given a bit sequence, find the number of flips needed such that the number of transitions (01, 10) is at most 2.
+
+<sub>Topics: Strings, Greedy · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L820)</sub>
+
+### Q3. Bellman-Ford standard question
+
+Appian OA: Just a standard Bellman-Ford question. Details were not shared.
+
+<sub>Topics: Graphs · Same idea: [LeetCode 787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Medium), Bellman-Ford edge relaxation · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L820)</sub>
+
+## 2026-11-07 · IIT Hyderabad · FTE
+
+### Q1. Sirion Labs OA pattern
+
+Sirion Labs OA pattern: 30 to 40 aptitude questions and one DSA question.
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L815)</sub>
 
 ## 2026-11-05 · IIT Guwahati · FTE
 

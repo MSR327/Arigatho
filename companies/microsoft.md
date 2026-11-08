@@ -1,13 +1,15 @@
 # Microsoft
 
-**8 questions** · 6 drives · latest 27 Oct 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 7 drives · latest 7 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 2 · [Hashing](../topics/hashing.md) 2 · [Python & Pandas](../topics/python-pandas.md) 1 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Strings](../topics/strings.md) 1  
-**Seen at:** BITS Pilani, IIT Delhi, IIT Guwahati, IIT Madras, NIT Allahabad (MNNIT)
+**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Arrays](../topics/arrays.md) 2 · [Hashing](../topics/hashing.md) 2 · [Python & Pandas](../topics/python-pandas.md) 1 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Strings](../topics/strings.md) 1  
+**Seen at:** BITS Pilani, IIT Delhi, IIT Guwahati, IIT Madras, NIT Allahabad (MNNIT), NIT Kurukshetra
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-07 · NIT Kurukshetra · FTE · Software Engineer](#2026-11-07--nit-kurukshetra--fte--software-engineer)
+  - [Microsoft SDE OA topics](#q1-microsoft-sde-oa-topics)
 - [2026-10-27 · NIT Allahabad (MNNIT) · FTE · Software Engineer Apprentice](#2026-10-27--nit-allahabad-mnnit--fte--software-engineer-apprentice)
   - [Software Engineer Apprentice OA pattern](#q1-software-engineer-apprentice-oa-pattern)
 - [2026-10-21 · IIT Madras · FTE · SDE](#2026-10-21--iit-madras--fte--sde)
@@ -26,6 +28,14 @@
 </details>
 
 ---
+
+## 2026-11-07 · NIT Kurukshetra · FTE · Software Engineer
+
+### Q1. Microsoft SDE OA topics
+
+Topics reported: sliding window, greedy. Specific questions not shared.
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L78)</sub>
 
 ## 2026-10-27 · NIT Allahabad (MNNIT) · FTE · Software Engineer Apprentice
 

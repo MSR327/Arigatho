@@ -1,9 +1,17 @@
 # Verbal
 
-37 questions from 7 companys, newest first. [← all topics](../README.md#topics)
+45 questions from 8 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Main argument of fasting passage](../companies/iqvia.md#q14-main-argument-of-fasting-passage) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [What makes meetings successful?](../companies/iqvia.md#q13-what-makes-meetings-successful) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Main cause of ineffective meetings](../companies/iqvia.md#q12-main-cause-of-ineffective-meetings) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Correct preposition: train goes ___ Bhopal](../companies/iqvia.md#q10-correct-preposition-train-goes-___-bhopal) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Antonym of TREACHEROUS](../companies/iqvia.md#q9-antonym-of-treacherous) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Antonym of ADVENT](../companies/iqvia.md#q8-antonym-of-advent) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Meaning of BIFURCATE](../companies/iqvia.md#q7-meaning-of-bifurcate) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Synonym of MUSTY](../companies/iqvia.md#q6-synonym-of-musty) |
 | 2026-11-01 | [Accenture](../companies/accenture.md) | IIT Indore | [Communication round format](../companies/accenture.md#q1-communication-round-format) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence communication round contents](../companies/tredence.md#q1-tredence-communication-round-contents) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Pick the synonym of 'detestable'](../companies/tredence.md#q18-pick-the-synonym-of-detestable) |

@@ -1,13 +1,15 @@
 # Eternal (Zomato)
 
-**174 questions** · 80 drives · latest 3 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**175 questions** · 81 drives · latest 7 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 56 · [SQL](../topics/sql.md) 24 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 12 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +22 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 57 · [SQL](../topics/sql.md) 24 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 12 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +22 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +9 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-07 · IIT Indore · FTE · APM](#2026-11-07--iit-indore--fte--apm)
+  - [APM test contents](#q1-apm-test-contents)
 - [2026-11-03 · IIT Roorkee · FTE](#2026-11-03--iit-roorkee--fte)
   - [Ride with the highest duration (pandas)](#q1-ride-with-the-highest-duration-pandas)
 - [2026-11-03 · IIT Roorkee · FTE · Product Analyst](#2026-11-03--iit-roorkee--fte--product-analyst)
@@ -266,6 +268,14 @@
 </details>
 
 ---
+
+## 2026-11-07 · IIT Indore · FTE · APM
+
+### Q1. APM test contents
+
+Questions were on finance and business topics, plus Excel-based analysis questions. No specific questions were given.
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L100)</sub>
 
 ## 2026-11-03 · IIT Roorkee · FTE
 

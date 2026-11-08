@@ -1,13 +1,17 @@
 # Accenture
 
-**287 questions** · 103 drives · latest 7 Nov 2026 · [48 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**289 questions** · 105 drives · latest 8 Nov 2026 · [48 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 82 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 21 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +18 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +15 more
+**Asks about:** [OA Format](../topics/oa-format.md) 84 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 21 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +18 more  
+**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +16 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-08 · NIT Durgapur · FTE](#2026-11-08--nit-durgapur--fte)
+  - [Allowed languages in coding round](#q1-allowed-languages-in-coding-round)
+- [2026-11-07 · IIT Hyderabad · FTE · Data and AI](#2026-11-07--iit-hyderabad--fte--data-and-ai)
+  - [Accenture Data and AI OA format](#q1-accenture-data-and-ai-oa-format)
 - [2026-11-06 · IIT Hyderabad · FTE · S&C Analyst](#2026-11-06--iit-hyderabad--fte--sc-analyst)
   - [Longest window split into two parts with sum at most k](#q1-longest-window-split-into-two-parts-with-sum-at-most-k)
 - [2026-11-04 · NIT Surathkal · FTE · Interview](#2026-11-04--nit-surathkal--fte--interview)
@@ -402,6 +406,22 @@
 </details>
 
 ---
+
+## 2026-11-08 · NIT Durgapur · FTE
+
+### Q1. Allowed languages in coding round
+
+Describing the Accenture OA coding round: C++ is not allowed. Only Python, C# and Java are allowed for the coding questions. You can switch language whenever you want, but the code is not saved when you switch.
+
+<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/accenture-oa/2026-11.jsonl#L147)</sub>
+
+## 2026-11-07 · IIT Hyderabad · FTE · Data and AI
+
+### Q1. Accenture Data and AI OA format
+
+The OA had MCQs on aptitude, Python and SQL. (Exact questions, number of questions and difficulty were not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L241)</sub>
 
 ## 2026-11-06 · IIT Hyderabad · FTE · S&C Analyst
 
@@ -891,7 +911,7 @@ D. DNS Spoofing
 
 Answer given: C. Routing Table Poisoning
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Mandi (2026-10-25)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: IIT Mandi (2026-10-25), BITS Pilani (2026-11-08)</sub>
 
 ### Q2. Register held during context switch (MCQ)
 
@@ -904,7 +924,7 @@ D. Instruction Register
 
 Answer given: C. Program Counter
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12848-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ## 2026-10-25 · BITS Pilani · Unknown
 
@@ -1098,7 +1118,7 @@ You are employed by a company that has recently suffered a security breach. As t
 - **C.** Multitasking  
 - **D.** Virtual Memory. Answer given: A. Access Control.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q23. PowerPoint dynamic progression feature
 
@@ -1109,7 +1129,7 @@ Jane wants to create a slide that illustrates a progression over time using icon
 - **C.** Apply the Morph transition across duplicated slides  
 - **D.** Create a custom layout with background images and animation triggers. Answer given: C. Morph transition.
 
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q24. VPN topology for two offices
 
@@ -1120,7 +1140,7 @@ Two geographically separate offices, Office A and Office B, need to allow all us
 - **C.** Client-to-Server VPN  
 - **D.** Peer-to-Peer VPN. Answer given: B. Site-to-Site VPN.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q25. RESTful endpoint for product by ID
 
@@ -1131,7 +1151,7 @@ A development team is designing a new RESTful API to manage a product catalog fo
 - **C.** PUT /products/{productId}  
 - **D.** DELETE /products/{productId}. Answer given: B.
 
-<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q26. Container consuming massive memory
 
@@ -1142,7 +1162,7 @@ A containerized application is consuming massive memory, causing performance iss
 - **C.** Reduce the number of replicas  
 - **D.** Analyze the application code for memory leaks. Answer given: D.
 
-<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q27. Isolated environments on one server
 
@@ -1152,7 +1172,7 @@ A cloud infrastructure requires running multiple isolated environments on a sing
 - **B.** Virtual Machines (VMs)  
 - **C.** Serverless computing. Answer given: B. Virtual Machines.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q28. OSI layer for transmitting signals
 
@@ -1163,7 +1183,7 @@ An internet connection is established by a user, connecting devices like a compu
 - **C.** Data Link Layer  
 - **D.** Application Layer. Answer given: A. Physical Layer.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q29. PivotTable custom calculations
 
@@ -1174,7 +1194,7 @@ In a PivotTable, which feature allows you to create custom calculations and summ
 - **C.** Slicers  
 - **D.** Grouping. Answer given: A. Calculated Fields.
 
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q30. OSI layer for routing packets
 
@@ -1185,7 +1205,7 @@ Data packets are transmitted between routers and switches to ensure proper deliv
 - **C.** Transport Layer  
 - **D.** Session Layer. Answer given: B. Network Layer.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q31. System calls to create process and run executable
 
@@ -1202,7 +1222,7 @@ In a cloud computing environment, which security measure helps protect user acco
 - **C.** Multi-Factor Authentication (MFA)  
 - **D.** Antivirus Software. Answer given: C. MFA.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q33. Ring topology workstation failure
 
@@ -1213,7 +1233,7 @@ A small business uses ring network topology. If a single workstation goes down, 
 - **C.** Network slows down  
 - **D.** Network breaks completely. Answer given: D. Network breaks completely.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q34. Converting data into secure format
 
@@ -1224,7 +1244,7 @@ What is the process of converting data into a secure format to prevent unauthori
 - **C.** Authorization  
 - **D.** Compression. Answer given: A. Encryption.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs.pdf](../archive/files/12600-Accenture_Actual_Paper_MCQs.pdf) · Also asked at: NIT Patna (2026-10-17), IIT Roorkee (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q35. Protocol to secure data in transit
 
@@ -1696,7 +1716,7 @@ D. Table storage
 
 Answer given in the PDF: C. Object storage
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q2. Moving data from accumulator to memory
 
@@ -1706,7 +1726,7 @@ Answer given in the PDF: Data transfer from accumulator to memory is done using 
 
 (Options not included in the PDF.)
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q3. Connecting on-premise and public cloud in hybrid model
 
@@ -1716,7 +1736,7 @@ Answer given in the PDF: Secure VPN or dedicated connectivity like Direct Connec
 
 (Options not included in the PDF.)
 
-<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q4. VPN type for employee working from home
 
@@ -1726,7 +1746,7 @@ Answer given in the PDF: Remote Access VPN
 
 (Options not included in the PDF.)
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q5. DevOps practice of automatic deployment to production
 
@@ -1739,7 +1759,7 @@ D. Monitoring - tracks application performance and user activity after deploymen
 
 Answer given in the PDF: A. Continuous Deployment
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q6. Attack that inserts malicious routing info to redirect traffic
 
@@ -1749,7 +1769,7 @@ Answer given in the PDF: Man-in-the-Middle (MITM) attack
 
 (Options not included in the PDF.)
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: NIT Patna (2026-10-17)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: NIT Patna (2026-10-17), BITS Pilani (2026-11-08)</sub>
 
 ### Q7. Register saved during context switch (no options)
 
@@ -1759,7 +1779,7 @@ Answer given in the PDF: The Program Counter (PC) register.
 
 (Options not included in the PDF.)
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q8. I/O device controller with built-in cache
 
@@ -1772,7 +1792,7 @@ D. Enhanced Integrated Hard Driver
 
 Answer given in the PDF: B. Enhanced Integrated Device Electronics B (EIDE B)
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q9. Attack technique to compromise a symmetric key
 
@@ -1785,7 +1805,7 @@ D. Matching message lengths to guess the content
 
 Answer given in the PDF: B. Comparing the crafted message's encrypted output with previously encrypted messages
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q10. Defining characteristic of containers
 
@@ -1798,7 +1818,7 @@ D. Virtual computers running under a Hypervisor
 
 Answer given in the PDF: C. Part of the same OS instance as the Hypervisor
 
-<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Software Engineering, OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q11. Redundant line in Android WPA3 configuration
 
@@ -1814,7 +1834,7 @@ In the given scenario, which configuration line is incorrect or redundant and mi
 
 Answer given in the PDF: Configure SUITEB192 = Y is redundant and may weaken compatibility without added benefit.
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q12. HTTP method to read restaurant list from API
 
@@ -1827,7 +1847,7 @@ D. GET
 
 Answer given in the PDF: D. GET
 
-<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q13. Resource pooling and storage elasticity in cloud
 
@@ -1837,7 +1857,7 @@ Answer given in the PDF: Resource pooling enables dynamic allocation of shared s
 
 (Options not included in the PDF.)
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q14. OS property for cross-platform application compatibility
 
@@ -1847,7 +1867,7 @@ Answer given in the PDF: Resource Allocation
 
 (Options not included in the PDF.)
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q15. Cloud features for flash-sale traffic spikes
 
@@ -1857,7 +1877,7 @@ Answer given in the PDF: Auto-scaling and load balancing.
 
 (Options not included in the PDF.)
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q16. Shared responsibility model in cloud security
 
@@ -1867,7 +1887,7 @@ Answer given in the PDF: Both the cloud provider and the customer share security
 
 (Options not included in the PDF.)
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q17. PowerPoint setting to force sequential slide viewing
 
@@ -1880,7 +1900,7 @@ D. Enable Presenter View
 
 Answer given in the PDF: C. Set up Slide Show as Browsed at a kiosk (full screen)
 
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q18. Protocol for secure cloud email transmission
 
@@ -1893,7 +1913,7 @@ D. POP3
 
 Answer given in the PDF: C. SMTP
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q19. File format for a reusable Word template
 
@@ -1906,7 +1926,7 @@ D. .txt
 
 Answer given in the PDF: C. .dotx
 
-<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Other · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q20. Kernel-level peripheral isolation between containers
 
@@ -1919,7 +1939,7 @@ D. Allowing containers to share network interfaces with individual access contro
 
 Answer given in the PDF: B. Configuring the kernel to enforce strict resource isolation and limit peripheral access to only allocated devices
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q21. Device controller with dedicated high-speed buffers
 
@@ -1932,7 +1952,7 @@ D. Ethernet Controller
 
 Answer given in the PDF: C. SATA Controller
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: IIT Roorkee (2026-10-25), IIT Mandi (2026-10-25), MNNIT Allahabad (2026-10-27), BITS Pilani (2026-11-08)</sub>
 
 ### Q22. HTTP status code for unavailable API endpoint
 
@@ -1945,7 +1965,7 @@ D. 400
 
 Answer given in the PDF: A. 404
 
-<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Web Dev · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q23. System calls to create a process and run another executable
 
@@ -1955,7 +1975,7 @@ Answer given in the PDF: fork() creates a new process and exec() replaces it wit
 
 (Options not included in the PDF.)
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q24. Protocol to encrypt data in transit
 
@@ -1968,7 +1988,7 @@ D. SMTP
 
 Answer given in the PDF: C. TLS
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q25. Most secure cloud deployment model for sensitive data
 
@@ -1978,7 +1998,7 @@ Answer given in the PDF: Private Cloud
 
 (Options not included in the PDF.)
 
-<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: Software Engineering · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q26. Server response to a TCP SYN packet
 
@@ -1988,7 +2008,7 @@ Answer given in the PDF: The server responds with a SYN-ACK packet.
 
 (Options not included in the PDF.)
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q27. Most secure Wi-Fi encryption protocol
 
@@ -1998,7 +2018,7 @@ Answer given in the PDF: WPA3
 
 (Options not included in the PDF.)
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ### Q28. Attack that specifies packet route to bypass firewall
 
@@ -2008,7 +2028,7 @@ Answer given in the PDF: Source Routing Attack
 
 (Options not included in the PDF.)
 
-<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf)</sub>
+<sub>Topics: OS/DBMS/CN MCQ · Source: [Accenture Actual Paper MCQs (1).pdf](../archive/files/8069-Accenture_Actual_Paper_MCQs_1_.pdf) · Also asked at: BITS Pilani (2026-11-08)</sub>
 
 ## 2026-10-17 · NIT Patna · FTE
 

@@ -1,13 +1,32 @@
 # Cognizant
 
-**33 questions** · 17 drives · latest 5 Nov 2026 · [10 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**51 questions** · 18 drives · latest 8 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 16 · [Greedy](../topics/greedy.md) 6 · [Strings](../topics/strings.md) 5 · [Arrays](../topics/arrays.md) 5 · [Binary Search](../topics/binary-search.md) 3 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Hashing](../topics/hashing.md) 2 · +8 more  
-**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +1 more
+**Asks about:** [OA Format](../topics/oa-format.md) 16 · [Greedy](../topics/greedy.md) 8 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 5 · [Arrays](../topics/arrays.md) 5 · [Binary Search](../topics/binary-search.md) 4 · [Sorting](../topics/sorting.md) 4 · [DP](../topics/dp.md) 3 · +13 more  
+**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-08 · IIT Roorkee · FTE](#2026-11-08--iit-roorkee--fte)
+  - [Wind farms optimal control center location](#q1-wind-farms-optimal-control-center-location)
+  - [Why not hard-code API keys](#q2-why-not-hard-code-api-keys)
+  - [Task allocation in agents](#q3-task-allocation-in-agents)
+  - [Concurrent execution](#q4-concurrent-execution)
+  - [Service model with self-managed VMs](#q5-service-model-with-self-managed-vms)
+  - [What is a cloud region](#q6-what-is-a-cloud-region)
+  - [Length of a Python set with duplicates](#q7-length-of-a-python-set-with-duplicates)
+  - [Class vs object](#q8-class-vs-object)
+  - [Purpose of a Python decorator](#q9-purpose-of-a-python-decorator)
+  - [Python memory management](#q10-python-memory-management)
+  - [Valid encryption keys with exactly 3 divisors](#q11-valid-encryption-keys-with-exactly-3-divisors)
+  - [Maximum profit with bitwise OR constraint](#q12-maximum-profit-with-bitwise-or-constraint)
+  - [Main role of transformer encoder](#q13-main-role-of-transformer-encoder)
+  - [Python key-value data type](#q14-python-key-value-data-type)
+  - [Purpose of benchmarking an agent](#q15-purpose-of-benchmarking-an-agent)
+  - [Bias in an AI system](#q16-bias-in-an-ai-system)
+  - [Tool selection accuracy](#q17-tool-selection-accuracy)
+  - [Clearest prompt for a requirement](#q18-clearest-prompt-for-a-requirement)
 - [2026-11-05 · IIT Dhanbad · FTE](#2026-11-05--iit-dhanbad--fte)
   - [Message Delivery System](#q1-message-delivery-system)
   - [Beautiful Graph (Codeforces 1093D)](#q2-beautiful-graph-codeforces-1093d)
@@ -62,6 +81,238 @@
 </details>
 
 ---
+
+## 2026-11-08 · IIT Roorkee · FTE
+
+### Q1. Wind farms optimal control center location
+
+An energy company needs to place a control center to manage a distributed wind farm. Determine the optimal location for the control center that minimizes the total connection cost.
+
+For each wind farm i:
+- The farm is located at coordinates (x[i], y[i])
+- The control center is at coordinates (cx, cy)
+- The distance is calculated as |x[i] - cx| + |y[i] - cy|
+- The connection cost is premium[i] * distance
+
+Example:
+```
+x = [1, 3, 2, 4]
+y = [1, 2, 3, 4]
+premium = [1, 3, 2, 4]
+```
+The optimal location is at position [3, 3]. The total cost is 17, the minimum possible.
+
+Complete the function `windFarms` with parameters `int premium[n]` (distance multiplier), `int x[n]` (x coordinates), and `int y[n]` (y coordinates).
+
+<sub>Topics: Math, Greedy, Sorting · Same idea: [LeetCode 296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) (Hard), Manhattan distance minimized at median; weighted median here · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q2. Why not hard-code API keys
+
+Why should you not hard-code API keys in source code?
+
+A. Keys make the code run slower every time it is executed
+B. Python does not allow strings
+C. Anyone with access to the code can see and misuse them
+D. Keys are too long
+
+<sub>Topics: Software Engineering · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q3. Task allocation in agents
+
+What is task allocation?
+
+A. Allocating memory to each agent so that it can run properly
+B. Allocating money
+C. Deciding which agent should perform which task
+D. Naming agents
+
+<sub>Topics: ML/AI · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q4. Concurrent execution
+
+What is concurrent execution?
+
+A. Multiple agents working on tasks at the same time
+B. One agent working at a time while all the others wait their turn
+C. Sleeping between tasks
+D. Rolling back tasks
+
+<sub>Topics: ML/AI, OS/DBMS/CN MCQ · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q5. Service model with self-managed VMs
+
+Which service model provides virtual machines, storage and networks that you manage yourself?
+
+A. IaaS
+B. SaaS, where you simply use finished software through a browser
+C. PaaS
+D. FaaS
+
+<sub>Topics: Software Engineering · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q6. What is a cloud region
+
+What is a cloud region?
+
+A. A billing plan that sets the price for each resource
+B. A geographic area containing one or more data centres
+C. A user group
+D. A programming language
+
+<sub>Topics: Software Engineering · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q7. Length of a Python set with duplicates
+
+What is the output of the following code?
+```python
+s = {1, 2, 2, 3, 3, 3}
+print(len(s))
+```
+
+A. 6, because a set keeps every value that was written inside the braces
+B. 4
+C. 1
+D. 3
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q8. Class vs object
+
+What is the difference between a class and an object?
+
+A. An object is a blueprint, and a class is an instance created from it
+B. They are two names for exactly the same thing in Python
+C. A class stores only data, and an object stores only functions
+D. A class is a blueprint, and an object is an instance created from it
+
+<sub>Topics: OOP · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q9. Purpose of a Python decorator
+
+What is the main purpose of a decorator in Python?
+
+A. To modify or extend a function or class without changing its source code
+B. To delete a function after it runs
+C. To convert every function into a class
+D. To install a Python package
+
+<sub>Topics: Python & Pandas · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q10. Python memory management
+
+Who normally manages object memory allocation and release in Python?
+
+A. The Python runtime
+B. Only the programmer using free()
+C. The operating system user
+D. The text editor
+
+<sub>Topics: Python & Pandas · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q11. Valid encryption keys with exactly 3 divisors
+
+A cyber security firm has discovered a new type of encryption being used by a group of hackers. The encryption key will be a valid key, which is a number that has exactly 3 factors (or divisors). For example, 4 is valid because it has exactly 3 factors: 1, 2, and 4. But 6 is not valid because it has 4 factors: 1, 2, 3, and 6.
+
+Given an array `keys` of length n, find the number of valid keys in the range [1, keys[i]], both inclusive, for each 0 ≤ i < n.
+
+Note:
+- a is called a divisor of b if there is an integer c such that a * c = b.
+- Only positive integers are taken into account for counting divisors.
+
+Example: Given n = 2, keys = [5, 11], the answer is [1, 2].
+
+Complete `getValidKeyCount`. It accepts `long_int keys[n]` and returns `int[n]`, an array containing the answer for each query.
+
+Constraints: 1 ≤ n ≤ 10^5; 1 ≤ keys[i] ≤ 2.5 * 10^13.
+
+<sub>Topics: Math, Binary Search · Same idea: [LeetCode 204. Count Primes](https://leetcode.com/problems/count-primes/) (Medium), 3 divisors means prime squares; sieve and prefix count · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q12. Maximum profit with bitwise OR constraint
+
+Given two arrays of equal length n: `indicators` and `profit`, find the maximum possible sum of profits when selecting a subset of indicators such that their bitwise OR is less than or equal to a given integer k.
+
+Each element in the indicators array represents a trading indicator, and the corresponding element in the profit array represents the estimated profit for that indicator.
+
+Example:
+```
+n = 3
+k = 6
+indicators = [3, 4, 2]
+profit = [3, 4, 5]
+```
+The optimal selection is indicators 4 and 2: bitwise OR 4 OR 2 = 6 (≤ k), total profit 4 + 5 = 9.
+
+Complete `getMaxProfit` with `int indicators[n]`, `int profit[n]`, and `int k`. Return the maximum possible sum of profits.
+
+Constraints: 1 ≤ n ≤ 10^5; 0 ≤ indicators[i] < 2^30; 1 ≤ profit[i] ≤ 10^9; 0 ≤ k < 2^30.
+
+<sub>Topics: Bit Manipulation, Greedy · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q13. Main role of transformer encoder
+
+What is the main role of the encoder in a transformer?
+
+A. To convert input tokens into rich contextual representations
+B. To generate the final output text one token at a time from left to right
+C. To store the model's training data
+D. To split text into tokens
+
+<sub>Topics: ML/AI · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q14. Python key-value data type
+
+Which Python data type stores key-value pairs, similar to a JSON object?
+
+A. list, an ordered collection of items that are found by their position
+B. tuple
+C. dict
+D. set
+
+<sub>Topics: Python & Pandas · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q15. Purpose of benchmarking an agent
+
+What is the purpose of benchmarking an agent?
+
+A. To measure how well it performs tasks using a fixed set of test tasks
+B. To increase the number of parameters inside the underlying model
+C. To translate its prompt
+D. To reduce its context window
+
+<sub>Topics: ML/AI · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q16. Bias in an AI system
+
+What is bias in an AI system?
+
+A. Systematic unfair differences in outcomes for certain groups
+B. A random error that appears only once and then disappears
+C. A slow response
+D. The model's learning rate
+
+<sub>Topics: ML/AI · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q17. Tool selection accuracy
+
+What does tool selection accuracy measure?
+
+A. How fast a tool returns a result after it has been called
+B. The cost of the tool
+C. The number of tools installed
+D. How often the agent chooses the right tool for a task
+
+<sub>Topics: ML/AI · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+
+### Q18. Clearest prompt for a requirement
+
+Which prompt states the requirement most clearly?
+
+A. Make me a function that works with numbers in a useful way
+B. Write a Python function is_even(n) that returns True if n is even and False otherwise
+C. Write a function that does the right thing for whatever input it receives
+D. Python
+
+<sub>Topics: ML/AI · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
 
 ## 2026-11-05 · IIT Dhanbad · FTE
 

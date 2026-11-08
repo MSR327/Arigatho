@@ -1,9 +1,32 @@
 # Math
 
-176 questions from 49 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+199 questions from 52 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Valid encryption keys with exactly 3 divisors](../companies/cognizant.md#q11-valid-encryption-keys-with-exactly-3-divisors) | ≈ [LC 204](https://leetcode.com/problems/count-primes/) Medium |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Wind farms optimal control center location](../companies/cognizant.md#q1-wind-farms-optimal-control-center-location) | ≈ [LC 296](https://leetcode.com/problems/best-meeting-point/) Hard |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [LCM from product and HCF](../companies/iqvia.md#q17-lcm-from-product-and-hcf) | |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Remainder of 2^35 divided by 5](../companies/iqvia.md#q16-remainder-of-235-divided-by-5) | |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Expected surgeries from Beyonce's leads](../companies/accordion.md#q18-expected-surgeries-from-beyonces-leads) | |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Denial probability adjustment for payor 2](../companies/accordion.md#q16-denial-probability-adjustment-for-payor-2) | |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Healthcare bill acceptance probability for payor 3](../companies/accordion.md#q15-healthcare-bill-acceptance-probability-for-payor-3) | |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Net Promoter Score by platform](../companies/accordion.md#q10-net-promoter-score-by-platform) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [PPV gap between groups](../companies/blackrock.md#q9-ppv-gap-between-groups) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [Gradient multiplied by 0.5 through 10 layers](../companies/blackrock.md#q8-gradient-multiplied-by-05-through-10-layers) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [Accuracy with 240 correct out of 300](../companies/blackrock.md#q7-accuracy-with-240-correct-out-of-300) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [Macro-recall with 90% and 10% class recall](../companies/blackrock.md#q6-macro-recall-with-90-and-10-class-recall) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [DCG@3 for [3,2,1]](../companies/blackrock.md#q4-dcg3-for-321) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [Multiplications for 2 million 512-dim vectors](../companies/blackrock.md#q3-multiplications-for-2-million-512-dim-vectors) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [Binary cross-entropy with p=0.9, y=0](../companies/blackrock.md#q2-binary-cross-entropy-with-p09-y0) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [PPV gap between groups](../companies/blackrock.md#q9-ppv-gap-between-groups-1) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Gradient through 10 layers](../companies/blackrock.md#q8-gradient-through-10-layers) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Fine-tuning accuracy](../companies/blackrock.md#q7-fine-tuning-accuracy) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Macro-recall](../companies/blackrock.md#q6-macro-recall) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [DCG@3 for RAG](../companies/blackrock.md#q4-dcg3-for-rag) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Vector DB multiplication count](../companies/blackrock.md#q3-vector-db-multiplication-count) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Binary cross-entropy](../companies/blackrock.md#q2-binary-cross-entropy) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [MCQ section: probability, linear algebra, ML basics](../companies/blackrock.md#q3-mcq-section-probability-linear-algebra-ml-basics) | |
 | 2026-11-05 | [Plutus Research](../companies/plutus-research.md) | IIT Kharagpur | [Plutus quant OA topics](../companies/plutus-research.md#q1-plutus-quant-oa-topics) | |
 | 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Beautiful Graph (Codeforces 1093D)](../companies/cognizant.md#q2-beautiful-graph-codeforces-1093d) | [CF 1093D](https://codeforces.com/problemset/problem/1093/D) rated 1700 |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Guwahati | [Lines passing through at least 3 points](../companies/navi.md#q1-lines-passing-through-at-least-3-points) | ≈ [LC 149](https://leetcode.com/problems/max-points-on-a-line/) Hard |

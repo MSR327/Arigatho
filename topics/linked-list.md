@@ -1,9 +1,12 @@
 # Linked List
 
-20 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+23 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [LRU Cache](../companies/iqvia.md#q8-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Detect Cycle in a Linked List](../companies/iqvia.md#q5-detect-cycle-in-a-linked-list) | [LC 141](https://leetcode.com/problems/linked-list-cycle/) Easy |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Merge Two Sorted Linked Lists](../companies/iqvia.md#q4-merge-two-sorted-linked-lists) | [LC 21](https://leetcode.com/problems/merge-two-sorted-lists/) Easy |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [LRU Cache](../companies/capital-one.md#q3-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [LRU cache](../companies/cars24.md#q8-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Detect cycle in a linked list](../companies/cars24.md#q5-detect-cycle-in-a-linked-list) | [LC 141](https://leetcode.com/problems/linked-list-cycle/) Easy |

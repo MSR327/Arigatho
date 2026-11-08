@@ -1,9 +1,10 @@
 # Code Output (C/C++/Java/Python)
 
-65 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+66 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Length of a Python set with duplicates](../companies/cognizant.md#q7-length-of-a-python-set-with-duplicates) | |
 | 2026-11-06 | [Nvidia](../companies/nvidia.md) | IIT Hyderabad | [Questions reported from the August 2026 NVIDIA assessment](../companies/nvidia.md#q1-questions-reported-from-the-august-2026-nvidia-assessment) | |
 | 2026-11-06 | [Navi](../companies/navi.md) | IIT Hyderabad | [DP debugging problem](../companies/navi.md#q2-dp-debugging-problem) | |
 | 2026-11-05 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | IIT Guwahati | [Basic loop question](../companies/jpmorgan-chase.md#q2-basic-loop-question) | |

@@ -1,9 +1,11 @@
 # Web Dev
 
-53 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+55 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [REST API with matching and request-handling functions](../companies/blackrock.md#q2-rest-api-with-matching-and-request-handling-functions) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Coding: REST API match and handle functions](../companies/blackrock.md#q2-coding-rest-api-match-and-handle-functions) | |
 | 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Vibe coding backend API assignment](../companies/denso.md#q4-vibe-coding-backend-api-assignment) | |
 | 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Denso OA format: solve a task with a chatbot](../companies/denso.md#q1-denso-oa-format-solve-a-task-with-a-chatbot) | |
 | 2026-11-02 | [Deloitte](../companies/deloitte.md) | IIT Dhanbad | [Vibe coding: fix front-end project errors with AI](../companies/deloitte.md#q1-vibe-coding-fix-front-end-project-errors-with-ai) | |

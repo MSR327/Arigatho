@@ -1,13 +1,17 @@
 # IBM
 
-**26 questions** · 17 drives · latest 6 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**28 questions** · 19 drives · latest 7 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [HR & Behavioral](../topics/hr-behavioral.md) 7 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [HR & Behavioral](../topics/hr-behavioral.md) 8 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
 **Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-07 · IIT Roorkee · FTE](#2026-11-07--iit-roorkee--fte)
+  - [IBM competency round format](#q1-ibm-competency-round-format)
+- [2026-11-07 · IIT Kharagpur/Kanpur · FTE](#2026-11-07--iit-kharagpurkanpur--fte)
+  - [IBM OA format: typed answers, non-proctored](#q1-ibm-oa-format-typed-answers-non-proctored)
 - [2026-11-05 · IIT Kharagpur · FTE · SDE](#2026-11-05--iit-kharagpur--fte--sde)
   - [IBM SWE/SDE OA duration and format](#q1-ibm-swesde-oa-duration-and-format)
 - [2026-11-05 · IIT Guwahati · FTE · ISDL · Interview](#2026-11-05--iit-guwahati--fte--isdl--interview)
@@ -55,6 +59,22 @@
 </details>
 
 ---
+
+## 2026-11-07 · IIT Roorkee · FTE
+
+### Q1. IBM competency round format
+
+The competency round has 4 questions, and you need to type out an answer in 7:30 minutes each. They are mostly about things like problems you faced during projects and critical issues you solved.
+
+<sub>Topics: OA Format, HR & Behavioral · Source: [chat, 7 Nov](../archive/ibm-oa/2026-11.jsonl#L76)</sub>
+
+## 2026-11-07 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. IBM OA format: typed answers, non-proctored
+
+You have to type your answers. It is a non-proctored exam (no camera/mic), but screen or tab change will trigger the proctor system.
+
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/ibm-oa/2026-11.jsonl#L81), [chat, 7 Nov](../archive/ibm-oa/2026-11.jsonl#L84)</sub>
 
 ## 2026-11-05 · IIT Kharagpur · FTE · SDE
 
@@ -114,7 +134,7 @@ Explanation:
 
 One basic, very easy DSA question. Statement not given.
 
-<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2809) · Also asked at: IIT Guwahati (2026-11-02)</sub>
+<sub>Topics: OA Format · Source: [chat, 29 Oct](../archive/inter-nit/2026-10.jsonl#L2809) · Also asked at: IIT Guwahati (2026-11-02), IIT BHU (2026-11-07)</sub>
 
 ## 2026-10-28 · MNNIT Allahabad · FTE
 
@@ -226,7 +246,7 @@ One easy DSA question on HackerRank. The exact problem statement was not shared.
 
 One question where you must understand a complete codebase and implement features, for web development. The question is given in the framework matching the language you choose; for Python it was given in Django.
 
-<sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L13) · Also asked at: IIT Guwahati (2026-11-02), IIT Hyderabad (2026-11-04)</sub>
+<sub>Topics: Web Dev · Source: [chat, 24 Oct](../archive/ibm-oa/2026-10.jsonl#L13) · Also asked at: IIT Guwahati (2026-11-02), IIT Hyderabad (2026-11-04), IIT BHU (2026-11-07)</sub>
 
 ## 2026-10-22 · IIT BHU · FTE
 

@@ -1,9 +1,10 @@
 # Signals & Systems
 
-10 questions from 4 companys, newest first. [← all topics](../README.md#topics)
+11 questions from 5 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-07 | [SEDEMAC](../companies/sedemac.md) | IIT Indore | [SEDEMAC Round 3 technical interview](../companies/sedemac.md#q2-sedemac-round-3-technical-interview) |
 | 2026-11-07 | [MathWorks](../companies/mathworks.md) | IIT BHU | [MathWorks OA pattern (Computer Science and Engineering tracks)](../companies/mathworks.md#q1-mathworks-oa-pattern-computer-science-and-engineering-tracks) |
 | 2026-10-22 | [Nvidia](../companies/nvidia.md) | IIT Guwahati | [Nvidia hardware OA pattern](../companies/nvidia.md#q1-nvidia-hardware-oa-pattern) |
 | 2026-10-11 | [Sedemac](../companies/sedemac.md) | IIT Roorkee | [Pick the graph of the integral F(x) of f(x)](../companies/sedemac.md#q37-pick-the-graph-of-the-integral-fx-of-fx) |

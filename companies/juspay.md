@@ -1,13 +1,15 @@
 # Juspay
 
-**17 questions** · 12 drives · latest 6 Nov 2026 · [← all companies](../README.md#companies)
+**18 questions** · 13 drives · latest 8 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Other](../topics/other.md) 3 · [Strings](../topics/strings.md) 2 · [Trees](../topics/trees.md) 1 · [Hashing](../topics/hashing.md) 1 · [Greedy](../topics/greedy.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Other](../topics/other.md) 3 · [Trees](../topics/trees.md) 2 · [Strings](../topics/strings.md) 2 · [Hashing](../topics/hashing.md) 1 · [Greedy](../topics/greedy.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, MNNIT Allahabad, NIT Delhi, NIT Kurukshetra +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-08 · IIT Bombay · FTE · SDE](#2026-11-08--iit-bombay--fte--sde)
+  - [Edge weight update queries in a tree](#q1-edge-weight-update-queries-in-a-tree)
 - [2026-11-06 · IIT Bombay · FTE](#2026-11-06--iit-bombay--fte)
   - [Ticketing System (Part A)](#q1-ticketing-system-part-a)
 - [2026-10-27 · IIT Delhi · FTE](#2026-10-27--iit-delhi--fte)
@@ -41,6 +43,14 @@
 </details>
 
 ---
+
+## 2026-11-08 · IIT Bombay · FTE · SDE
+
+### Q1. Edge weight update queries in a tree
+
+Edge weight update queries in a tree. The poster gave only the name; the statement is missing.
+
+<sub>Topics: Trees · Source: [chat, 7 Nov](../archive/juspay-oa/2026-11.jsonl#L14), [chat, 8 Nov](../archive/juspay-oa/2026-11.jsonl#L17), [chat, 8 Nov](../archive/juspay-oa/2026-11.jsonl#L18)</sub>
 
 ## 2026-11-06 · IIT Bombay · FTE
 
@@ -85,7 +95,7 @@ Shortlisting for the next round needed about 1.5 questions solved. Exact stateme
 
 Past Juspay OA question recommended for practice. The poster says Juspay OA questions repeat every year, so 1 of the 3 questions will be a repeat. Only the title "Corporate Restructuring" was shared, with no statement.
 
-<sub>Topics: Other · Source: [chat, 24 Oct](../archive/inter-nit/2026-10.jsonl#L2244) · Also asked at: IIT BHU ×3 (last 2026-10-23)</sub>
+<sub>Topics: Other · Source: [chat, 24 Oct](../archive/inter-nit/2026-10.jsonl#L2244) · Also asked at: IIT BHU ×3 (last 2026-10-23), IIT Bombay (2026-11-08)</sub>
 
 ### Q2. Power Grid Management
 
@@ -139,7 +149,7 @@ Constraint: string length up to 1e5.
 
 No examples were given.
 
-<sub>Topics: Strings, Greedy · Source: [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L13)</sub>
+<sub>Topics: Strings, Greedy · Source: [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L13) · Also asked at: IIT Bombay (2026-11-08)</sub>
 
 ## 2026-10-18 · IIT BHU · FTE
 

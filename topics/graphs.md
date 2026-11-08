@@ -1,9 +1,18 @@
 # Graphs
 
-130 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+139 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur/Kanpur | [DSU implementation and ML MCQs](../companies/blackrock.md#q2-dsu-implementation-and-ml-mcqs) | |
+| 2026-11-07 | [Unknown](../companies/unknown.md) | IIT Madras | [Bellman-Ford standard question](../companies/unknown.md#q3-bellman-ford-standard-question) | ≈ [LC 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) Medium |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | Unknown | [Disjoint Set Union implementation](../companies/blackrock.md#q2-disjoint-set-union-implementation) | ≈ [LC 1971](https://leetcode.com/problems/find-if-path-exists-in-graph/) Easy |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Find the Town Judge](../companies/iqvia.md#q15-find-the-town-judge) | [LC 997](https://leetcode.com/problems/find-the-town-judge/) Easy |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Topological Sorting](../companies/iqvia.md#q14-topological-sorting) | [GfG](https://www.geeksforgeeks.org/problems/topological-sort/1) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Number of Islands](../companies/iqvia.md#q13-number-of-islands) | [LC 200](https://leetcode.com/problems/number-of-islands/) Medium |
+| 2026-11-07 | [Unknown](../companies/unknown.md) | IIT Roorkee | [Infected node spread](../companies/unknown.md#q1-infected-node-spread) | ≈ [LC 994](https://leetcode.com/problems/rotting-oranges/) Medium |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Roorkee | [DSU implementation](../companies/blackrock.md#q2-dsu-implementation) | ≈ [LC 1971](https://leetcode.com/problems/find-if-path-exists-in-graph/) Easy |
+| 2026-11-07 | [Fujitsu](../companies/fujitsu.md) | IIT Bombay | [Topological sort](../companies/fujitsu.md#q1-topological-sort) | [GfG](https://www.geeksforgeeks.org/problems/topological-sort/1) |
 | 2026-11-06 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Implement DSU class](../companies/blackrock.md#q2-implement-dsu-class) | ≈ [LC 684](https://leetcode.com/problems/redundant-connection/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Find the town judge](../companies/cars24.md#q15-find-the-town-judge) | [LC 997](https://leetcode.com/problems/find-the-town-judge/) Easy |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Topological sorting](../companies/cars24.md#q14-topological-sorting) | [GfG](https://www.geeksforgeeks.org/problems/topological-sort/1) |

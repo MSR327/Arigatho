@@ -1,10 +1,16 @@
 # Sorting
 
-61 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+67 questions from 34 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Wind farms optimal control center location](../companies/cognizant.md#q1-wind-farms-optimal-control-center-location) | ≈ [LC 296](https://leetcode.com/problems/best-meeting-point/) Hard |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIIT Delhi | [Minimum cost to make array elements distinct](../companies/blackrock.md#q2-minimum-cost-to-make-array-elements-distinct) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Minimum cost to make array elements distinct](../companies/blackrock.md#q7-minimum-cost-to-make-array-elements-distinct) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Minimum cost to make array elements distinct](../companies/blackrock.md#q5-minimum-cost-to-make-array-elements-distinct) | |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Sort 0, 1, 2](../companies/iqvia.md#q11-sort-0-1-2) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Minimum Number of Moves to Seat Everyone](../companies/iqvia.md#q1-minimum-number-of-moves-to-seat-everyone) | [LC 2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) Easy |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Make array distinct with minimum cost](../companies/blackrock.md#q2-make-array-distinct-with-minimum-cost) | [LC 945](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) Medium |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Merge Intervals](../companies/capital-one.md#q2-merge-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Sort 0, 1, 2](../companies/cars24.md#q11-sort-0-1-2) | [LC 75](https://leetcode.com/problems/sort-colors/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Minimum number of moves to seat everyone](../companies/cars24.md#q1-minimum-number-of-moves-to-seat-everyone) | [LC 2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) Easy |

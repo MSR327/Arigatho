@@ -1,11 +1,22 @@
 # Greedy
 
-90 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+101 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Maximum profit with bitwise OR constraint](../companies/cognizant.md#q12-maximum-profit-with-bitwise-or-constraint) | |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Wind farms optimal control center location](../companies/cognizant.md#q1-wind-farms-optimal-control-center-location) | ≈ [LC 296](https://leetcode.com/problems/best-meeting-point/) Hard |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIIT Delhi | [Minimum cost to make array elements distinct](../companies/blackrock.md#q2-minimum-cost-to-make-array-elements-distinct) | |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIIT Delhi | [Minimize array sum after K halving operations](../companies/blackrock.md#q1-minimize-array-sum-after-k-halving-operations) | [LC 2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) Medium |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Minimum cost to make array elements distinct](../companies/blackrock.md#q7-minimum-cost-to-make-array-elements-distinct) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Minimize array sum after K halving operations](../companies/blackrock.md#q6-minimize-array-sum-after-k-halving-operations) | ≈ [LC 2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) Medium |
+| 2026-11-07 | [Unknown](../companies/unknown.md) | IIT Madras | [Minimum bit flips to limit transitions](../companies/unknown.md#q2-minimum-bit-flips-to-limit-transitions) | |
+| 2026-11-07 | [Unknown](../companies/unknown.md) | IIT Madras | [Drone launching pad departure times](../companies/unknown.md#q1-drone-launching-pad-departure-times) | ≈ [LC 1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) Medium |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Minimum cost to make array elements distinct](../companies/blackrock.md#q5-minimum-cost-to-make-array-elements-distinct) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Minimize array sum after K operations](../companies/blackrock.md#q4-minimize-array-sum-after-k-operations) | [LC 1962](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) Medium |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Minimum Number of Moves to Seat Everyone](../companies/iqvia.md#q1-minimum-number-of-moves-to-seat-everyone) | [LC 2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) Easy |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Make array distinct with minimum cost](../companies/blackrock.md#q2-make-array-distinct-with-minimum-cost) | [LC 945](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) Medium |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [Minimum sum after k halving operations](../companies/blackrock.md#q1-minimum-sum-after-k-halving-operations) | ≈ [LC 2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Minimum number of moves to seat everyone](../companies/cars24.md#q1-minimum-number-of-moves-to-seat-everyone) | [LC 2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) Easy |
 | 2026-11-06 | [MathWorks](../companies/mathworks.md) | IIT Indore | [Minimum swaps to sort using zero](../companies/mathworks.md#q1-minimum-swaps-to-sort-using-zero) | |
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Maximize beautiful substrings](../companies/mathworks.md#q3-maximize-beautiful-substrings) | ≈ [LC 1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) Medium |

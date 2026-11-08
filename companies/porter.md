@@ -1,9 +1,9 @@
 # Porter
 
-**3 questions** · 3 drives · latest 6 Nov 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 8 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 3 · [ML/AI](../topics/ml-ai.md) 1  
-**Seen at:** IIT BHU, IIT Hyderabad, IIT Kharagpur/Kanpur, VNIT Nagpur
+**Seen at:** IIT BHU, IIT Hyderabad, IIT Kharagpur/Kanpur, MNNIT Allahabad, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -41,4 +41,4 @@ The OA had 13 questions in 1 hour.
 
 The OA had 2-3 DSA questions and some MCQs related to core subjects.
 
-<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/inter-nit/2026-11.jsonl#L436)</sub>
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/inter-nit/2026-11.jsonl#L436) · Also asked at: MNNIT Allahabad (2026-11-08)</sub>

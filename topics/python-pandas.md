@@ -1,9 +1,13 @@
 # Python & Pandas
 
-47 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+51 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Python key-value data type](../companies/cognizant.md#q14-python-key-value-data-type) | |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Python memory management](../companies/cognizant.md#q10-python-memory-management) | |
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Purpose of a Python decorator](../companies/cognizant.md#q9-purpose-of-a-python-decorator) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Coding: TF-IDF vectorizer](../companies/blackrock.md#q1-coding-tf-idf-vectorizer) | |
 | 2026-11-03 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Ride with the highest duration (pandas)](../companies/eternal-zomato.md#q1-ride-with-the-highest-duration-pandas) | |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [OA pattern](../companies/tiger-analytics.md#q5-oa-pattern) | |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [NumPy: find outliers](../companies/tiger-analytics.md#q3-numpy-find-outliers) | |

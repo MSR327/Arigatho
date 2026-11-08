@@ -1,9 +1,10 @@
 # Bit Manipulation
 
-38 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+39 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Maximum profit with bitwise OR constraint](../companies/cognizant.md#q12-maximum-profit-with-bitwise-or-constraint) | |
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Count subarrays rearrangeable into palindromes](../companies/mathworks.md#q2-count-subarrays-rearrangeable-into-palindromes) | [LC 1915](https://leetcode.com/problems/number-of-wonderful-substrings/) Medium |
 | 2026-11-05 | [Accelequant](../companies/accelequant.md) | IIT Hyderabad | [Minimum cost to connect two groups of points](../companies/accelequant.md#q2-minimum-cost-to-connect-two-groups-of-points) | [LC 1595](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) Hard |
 | 2026-11-05 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Max sum picking at most X elements with sum less than L](../companies/texas-instruments.md#q1-max-sum-picking-at-most-x-elements-with-sum-less-than-l) | ≈ [GfG](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) |

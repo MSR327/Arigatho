@@ -1,9 +1,41 @@
 # Aptitude
 
-201 questions from 29 companys, newest first. [← all topics](../README.md#topics)
+233 questions from 31 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Series: 6, 9, ?, 24, 36](../companies/iqvia.md#q21-series-6-9--24-36) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Coding-decoding: STUMP → PQRJM](../companies/iqvia.md#q20-coding-decoding-stump--pqrjm) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Mother's age word problem](../companies/iqvia.md#q19-mothers-age-word-problem) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Successive discounts after markup](../companies/iqvia.md#q18-successive-discounts-after-markup) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [LCM from product and HCF](../companies/iqvia.md#q17-lcm-from-product-and-hcf) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Remainder of 2^35 divided by 5](../companies/iqvia.md#q16-remainder-of-235-divided-by-5) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Pipes filling tank in 220 and 330 minutes](../companies/iqvia.md#q15-pipes-filling-tank-in-220-and-330-minutes) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Score conversion: 66 out of 100 converted to 75](../companies/iqvia.md#q11-score-conversion-66-out-of-100-converted-to-75) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Arrange steps: wheat, flour, water, kneading, baking](../companies/iqvia.md#q5-arrange-steps-wheat-flour-water-kneading-baking) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Direction: North, 110° left, 155° right](../companies/iqvia.md#q4-direction-north-110-left-155-right) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Rank 9th from top, 27th from bottom](../companies/iqvia.md#q3-rank-9th-from-top-27th-from-bottom) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Coding-decoding: TENNIS → UDOMJR](../companies/iqvia.md#q2-coding-decoding-tennis--udomjr) |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Series: 3, 15, 35, 63, ?](../companies/iqvia.md#q1-series-3-15-35-63-) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Expected return on acquiring a digital customer](../companies/accordion.md#q19-expected-return-on-acquiring-a-digital-customer) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Expected surgeries from Beyonce's leads](../companies/accordion.md#q18-expected-surgeries-from-beyonces-leads) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Most effective advertising medium](../companies/accordion.md#q17-most-effective-advertising-medium) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Denial probability adjustment for payor 2](../companies/accordion.md#q16-denial-probability-adjustment-for-payor-2) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Healthcare bill acceptance probability for payor 3](../companies/accordion.md#q15-healthcare-bill-acceptance-probability-for-payor-3) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Insurance subscribers additional revenue](../companies/accordion.md#q14-insurance-subscribers-additional-revenue) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Scenario with highest revenue increase](../companies/accordion.md#q13-scenario-with-highest-revenue-increase) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Ride sharing annual revenue (Kerala)](../companies/accordion.md#q12-ride-sharing-annual-revenue-kerala) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Streaming market growth, daily cost change, market sizing and others](../companies/accordion.md#q11-streaming-market-growth-daily-cost-change-market-sizing-and-others) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Net Promoter Score by platform](../companies/accordion.md#q10-net-promoter-score-by-platform) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Maximum total profit in first two years](../companies/accordion.md#q9-maximum-total-profit-in-first-two-years) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Most profitable plant per acre (land purchase)](../companies/accordion.md#q8-most-profitable-plant-per-acre-land-purchase) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Maximum cost per email](../companies/accordion.md#q7-maximum-cost-per-email) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Price elasticity of Product C](../companies/accordion.md#q6-price-elasticity-of-product-c) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Incremental revenue of SimpleFoods 2020 vs 2019](../companies/accordion.md#q5-incremental-revenue-of-simplefoods-2020-vs-2019) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Months to recover customer acquisition spend](../companies/accordion.md#q4-months-to-recover-customer-acquisition-spend) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Food delivery commission for breakeven in 1 year](../companies/accordion.md#q3-food-delivery-commission-for-breakeven-in-1-year) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Market share change for printer maker](../companies/accordion.md#q2-market-share-change-for-printer-maker) |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [OA structure](../companies/accordion.md#q1-oa-structure) |
 | 2026-11-06 | [Nvidia](../companies/nvidia.md) | IIT Hyderabad | [Questions reported from the August 2026 NVIDIA assessment](../companies/nvidia.md#q1-questions-reported-from-the-august-2026-nvidia-assessment) |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [Navi non-tech OA pattern](../companies/navi.md#q1-navi-non-tech-oa-pattern) |
 | 2026-11-04 | [Unknown](../companies/unknown.md) | IIT Roorkee | [Aptitude OA topics and difficulty](../companies/unknown.md#q1-aptitude-oa-topics-and-difficulty) |

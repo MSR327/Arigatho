@@ -1,9 +1,14 @@
 # Strings
 
-107 questions from 45 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+112 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [TF-IDF Vectorizer (AI-assisted task)](../companies/blackrock.md#q1-tf-idf-vectorizer-ai-assisted-task) | |
+| 2026-11-07 | [Unknown](../companies/unknown.md) | IIT Madras | [Minimum bit flips to limit transitions](../companies/unknown.md#q2-minimum-bit-flips-to-limit-transitions) | |
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Interleaving String](../companies/iqvia.md#q12-interleaving-string) | [LC 97](https://leetcode.com/problems/interleaving-string/) Medium |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Roorkee | [RAG pipeline implementation](../companies/blackrock.md#q1-rag-pipeline-implementation) | |
+| 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Roorkee | [BlackRock AI/ML OA: RAG pipeline and DSU](../companies/blackrock.md#q1-blackrock-aiml-oa-rag-pipeline-and-dsu) | |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Simplify Path](../companies/capital-one.md#q12-simplify-path) | [LC 71](https://leetcode.com/problems/simplify-path/) Medium |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Count Prefix and Suffix Pairs II](../companies/capital-one.md#q6-count-prefix-and-suffix-pairs-ii) | [LC 3045](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/) Hard |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Interleaving string](../companies/cars24.md#q12-interleaving-string) | [LC 97](https://leetcode.com/problems/interleaving-string/) Medium |

@@ -1,9 +1,10 @@
 # Hashing
 
-102 questions from 48 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+103 questions from 49 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [LRU Cache](../companies/iqvia.md#q8-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Number of Black Blocks](../companies/capital-one.md#q8-number-of-black-blocks) | [LC 2768](https://leetcode.com/problems/number-of-black-blocks/) Medium |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Count Prefix and Suffix Pairs II](../companies/capital-one.md#q6-count-prefix-and-suffix-pairs-ii) | [LC 3045](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/) Hard |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [LRU Cache](../companies/capital-one.md#q3-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
