@@ -107,7 +107,7 @@ English, reasoning, maths, operating systems and more, a bit of everything.
 
 Selection process: resume shortlisting, online assessment, personal interview. The OA consists of: OOPs concepts, Computer Networking, Operating System, Programming Language (C/C++/Python/Java), Machine Learning, Natural Language Processing, Quantitative Mathematics, Project Management, Software Engineering, DBMS.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Guwahati (2026-11-06), IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08), NIT Karnataka Surathkal (2026-11-09)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Guwahati (2026-11-06), IIT Kanpur (2026-11-06), IIT BHU ×4 (last 2026-11-09), NIT Karnataka Surathkal (2026-11-09)</sub>
 
 ### Q2. ICICI interview: Placement Coordinator role questions
 

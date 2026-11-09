@@ -156,7 +156,7 @@ Question 1 (40 mins): Candidates were required to implement multiple classes bas
 
 The exact class specifications were not shared.
 
-<sub>Topics: OOP · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L816)</sub>
+<sub>Topics: OOP · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L816) · Also asked at: IIT BHU (2026-11-08)</sub>
 
 ### Q2. Disjoint Set Union implementation
 
@@ -168,7 +168,7 @@ Question 2 (30 mins): Implement a Disjoint Set Union (DSU) data structure includ
 
 An AI assistant was also available but did not offer significant help.
 
-<sub>Topics: Graphs · Same idea: [LeetCode 1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) (Easy), DSU find/union/connected check · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L816)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) (Easy), DSU find/union/connected check · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L816) · Also asked at: IIT BHU (2026-11-08)</sub>
 
 ### Q3. OA MCQ section: RAG, LLMs, Responsible AI
 
@@ -180,7 +180,7 @@ An AI assistant was also available but did not offer significant help.
 - Training, deploying, and evaluating Machine Learning models
 - Responsible AI principles: data privacy, fairness, bias mitigation, ethical AI practices
 
-<sub>Topics: ML/AI, OA Format · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L816)</sub>
+<sub>Topics: ML/AI, OA Format · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L816) · Also asked at: IIT BHU (2026-11-08)</sub>
 
 ## 2026-11-07 · NIT Kurukshetra · FTE · AI/ML Engineer
 

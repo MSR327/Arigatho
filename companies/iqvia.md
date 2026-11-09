@@ -225,7 +225,7 @@ Answer given: 5, 3, 1, 2, 4 (the original numbering of the items was not shared)
 
 Synonym of MUSTY. Answer given: Stale.
 
-<sub>Topics: Verbal · Source: [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L123), [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L124) · Also asked at: IIT BHU (2026-11-08)</sub>
+<sub>Topics: Verbal · Source: [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L123), [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L124) · Also asked at: IIT BHU ×2 (last 2026-11-08)</sub>
 
 ### Q7. Meaning of BIFURCATE
 
@@ -255,7 +255,7 @@ Choose the correct preposition: The train goes ___ Bhopal. Answer given: Via.
 
 Question (as remembered): 66 out of 100 converted to 75 — find the corresponding value. Answer given: 49.5 (option 50). The original question was only partly remembered.
 
-<sub>Topics: Aptitude · Source: [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L123), [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L124) · Also asked at: IIT Delhi (2026-11-08), IIT BHU (2026-11-08)</sub>
+<sub>Topics: Aptitude · Source: [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L123), [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L124) · Also asked at: IIT Delhi (2026-11-08), IIT BHU ×2 (last 2026-11-08)</sub>
 
 ### Q12. Main cause of ineffective meetings
 
@@ -311,7 +311,7 @@ If STUMP → PQRJM, then PITCH → ?
 
 Answer given: MFQZE
 
-<sub>Topics: Aptitude · Source: [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L123), [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L124) · Also asked at: IIT BHU (2026-11-08)</sub>
+<sub>Topics: Aptitude · Source: [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L123), [chat, 7 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L124) · Also asked at: IIT BHU ×2 (last 2026-11-08)</sub>
 
 ### Q21. Series: 6, 9, ?, 24, 36
 

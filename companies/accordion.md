@@ -132,7 +132,7 @@ Reported pattern:
 3. Topics: Verbal, Statistics, Logical Reasoning, AI concepts.
 4. Duration: around 1 hour (reported pattern).
 
-<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L114) · Also asked at: IIT Delhi (2026-11-08)</sub>
+<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L114) · Also asked at: IIT Delhi ×2 (last 2026-11-08)</sub>
 
 ## 2026-11-07 · IIT Delhi · FTE · Data and AI Analyst
 

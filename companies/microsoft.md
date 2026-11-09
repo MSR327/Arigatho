@@ -50,13 +50,13 @@ A word s of length n is called k-complete if s is a palindrome and s has a perio
 
 Processes are arranged in a tree and numbered starting from 1 in the order they are created. Each process creates exactly n child processes. Child processes are numbered sequentially in the order they are created. Given a process number processNumber (greater than 1), determine its parent process number.
 
-<sub>Topics: Math, Trees · Source: [chat, 8 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L113)</sub>
+<sub>Topics: Math, Trees · Source: [chat, 8 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L113) · Also asked at: IIT Delhi (2026-11-08)</sub>
 
 ### Q2. Maximum Processor Power
 
 A cloud services platform added n processors, each with a computing power specified by power[i]. Not all processors can be utilized simultaneously. If a processor with computing power x is in use, processors with computing power x + 1 or x − 1 cannot be used. Each processor can only be used once. Determine the maximum possible sum of the computing powers of the selected processors.
 
-<sub>Topics: DP, Arrays · Similar: [LeetCode 740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) (Medium) · Source: [chat, 8 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L113)</sub>
+<sub>Topics: DP, Arrays · Similar: [LeetCode 740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) (Medium) · Source: [chat, 8 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L113) · Also asked at: IIT Delhi (2026-11-08)</sub>
 
 ## 2026-11-07 · NIT Kurukshetra · FTE · Software Engineer
 

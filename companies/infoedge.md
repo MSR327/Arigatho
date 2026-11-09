@@ -382,7 +382,7 @@ Sample Output: tc eles od siemanym 4
 Explanation: Reverse the string without moving the spaces. There is one space after "my", so after reversing, "my" becomes "tc", "name" becomes "eles", "is" becomes "od", "doselect" becomes "siemanym". 4 is the word count.  
 Execution time limit: 10 seconds.
 
-<sub>Topics: Strings, Two Pointers · Close variant: [LeetCode 917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) (Easy), reverse string keeping some characters fixed · Source: [InfoEdge.pdf](../archive/files/2461-InfoEdge.pdf) · Also asked at: IIT Delhi (2026-11-08)</sub>
+<sub>Topics: Strings, Two Pointers · Close variant: [LeetCode 917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) (Easy), reverse string keeping some characters fixed · Source: [InfoEdge.pdf](../archive/files/2461-InfoEdge.pdf) · Also asked at: IIT Delhi ×2 (last 2026-11-08)</sub>
 
 ### Q10. Knight moves safe from queen
 
@@ -396,4 +396,4 @@ Sample 1: Input 2 2 2 4 4 -> Output 4 (the knight can move to 4 different positi
 Sample 2: Input 2 2 1 1 2 -> Output 0 (there is no possible move for the knight).  
 Execution time limit: 10 seconds.
 
-<sub>Topics: Math, Arrays · Same idea: [LeetCode 1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) (Medium), queen attack lines on chessboard · Source: [InfoEdge.pdf](../archive/files/2461-InfoEdge.pdf) · Also asked at: IIT Delhi (2026-11-08)</sub>
+<sub>Topics: Math, Arrays · Same idea: [LeetCode 1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) (Medium), queen attack lines on chessboard · Source: [InfoEdge.pdf](../archive/files/2461-InfoEdge.pdf) · Also asked at: IIT Delhi ×2 (last 2026-11-08)</sub>
