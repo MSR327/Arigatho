@@ -12,7 +12,7 @@
   },
   "accenture-oa": {
    "oldest_id": 490,
-   "newest_id": 23393,
+   "newest_id": 23595,
    "backfill_done": true
   },
   "adobe-oa": {
@@ -32,7 +32,7 @@
   },
   "amazon-oa": {
    "oldest_id": 1597,
-   "newest_id": 23375,
+   "newest_id": 23521,
    "backfill_done": true
   },
   "american-express-oa": {
@@ -82,7 +82,7 @@
   },
   "bpcl-oa": {
    "oldest_id": 509,
-   "newest_id": 17933,
+   "newest_id": 23509,
    "backfill_done": true
   },
   "bridgehorn-oa": {
@@ -157,7 +157,7 @@
   },
   "campus-iiit-bangalore-placements": {
    "oldest_id": 2952,
-   "newest_id": 21819,
+   "newest_id": 23431,
    "backfill_done": true
   },
   "campus-iiit-delhi-placements": {
@@ -167,7 +167,7 @@
   },
   "campus-iiit-hyderabad-placements": {
    "oldest_id": 2959,
-   "newest_id": 22512,
+   "newest_id": 23584,
    "backfill_done": true
   },
   "campus-iiit-vadodara-placements": {
@@ -22300,6 +22300,23 @@
   23276,
   23277,
   23282,
-  23360
+  23360,
+  23426,
+  23428,
+  23429,
+  23430,
+  23431,
+  23521,
+  23594,
+  23451,
+  23474,
+  23507,
+  23508,
+  23509,
+  23548,
+  23581,
+  23583,
+  23584,
+  23595
  ]
 }

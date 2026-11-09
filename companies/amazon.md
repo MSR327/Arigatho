@@ -1,13 +1,15 @@
 # Amazon
 
-**14 questions** · 11 drives · latest 8 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 12 drives · latest 8 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1  
 **Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Madras, MNNIT Allahabad +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-08 · MNNIT Allahabad · FTE](#2026-11-08--mnnit-allahabad--fte)
+  - [Amazon OA structure: DSA and AI-assisted coding](#q1-amazon-oa-structure-dsa-and-ai-assisted-coding)
 - [2026-11-05 · Unknown · FTE](#2026-11-05--unknown--fte)
   - [Debugging: movie DB search backend](#q1-debugging-movie-db-search-backend)
 - [2026-11-05 · NIT Raipur · FTE · SDE](#2026-11-05--nit-raipur--fte--sde)
@@ -37,6 +39,14 @@
 </details>
 
 ---
+
+## 2026-11-08 · MNNIT Allahabad · FTE
+
+### Q1. Amazon OA structure: DSA and AI-assisted coding
+
+The DSA part was 40 minutes. After fully submitting it you can move to the next part, AI-assisted coding, which was 60 minutes. For the Node.js question, Express was used (not plain vanilla Node).
+
+<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/amazon-oa/2026-11.jsonl#L83), [chat, 8 Nov](../archive/amazon-oa/2026-11.jsonl#L84)</sub>
 
 ## 2026-11-05 · Unknown · FTE
 

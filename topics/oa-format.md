@@ -1,9 +1,10 @@
 # OA Format
 
-631 questions from 121 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+632 questions from 121 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-08 | [Amazon](../companies/amazon.md) | MNNIT Allahabad | [Amazon OA structure: DSA and AI-assisted coding](../companies/amazon.md#q1-amazon-oa-structure-dsa-and-ai-assisted-coding) | |
 | 2026-11-08 | [IDFC First Bank](../companies/idfc-first-bank.md) | IIT Guwahati | [IDFC round 2 technical OA format](../companies/idfc-first-bank.md#q1-idfc-round-2-technical-oa-format) | |
 | 2026-11-08 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI Deputy Manager II OA contents](../companies/icici.md#q1-icici-deputy-manager-ii-oa-contents) | |
 | 2026-11-08 | [Accenture](../companies/accenture.md) | NIT Durgapur | [Allowed languages in coding round](../companies/accenture.md#q1-allowed-languages-in-coding-round) | |

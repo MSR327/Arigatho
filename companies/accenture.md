@@ -1,6 +1,6 @@
 # Accenture
 
-**289 questions** · 105 drives · latest 8 Nov 2026 · [48 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**289 questions** · 105 drives · latest 9 Nov 2026 · [48 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 84 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 21 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +18 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +16 more
@@ -2387,7 +2387,7 @@ Technical sections and question counts:
 - Apache Spark: 3 questions (focus: Spark transformations, RDDs, DataFrames and tokenization)
 - Data Science, Statistics, ML, NLP & Deep Learning: 12 questions
 
-<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858) · Also asked at: IIT Roorkee (2026-10-25), IIT Kharagpur/Kanpur ×2 (last 2026-11-06)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858) · Also asked at: IIT Roorkee (2026-10-25), IIT Kharagpur/Kanpur ×2 (last 2026-11-06), IIT Hyderabad (2026-11-09)</sub>
 
 ### Q2. Convert implicit join to explicit join
 

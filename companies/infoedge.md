@@ -1,9 +1,9 @@
 # InfoEdge
 
-**28 questions** · 9 drives · latest 6 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**28 questions** · 9 drives · latest 8 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 8 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · [OOP](../topics/oop.md) 2 · [Binary Search](../topics/binary-search.md) 1 · +4 more  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Patna, VNIT Nagpur
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Patna +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -279,7 +279,7 @@ Sample Output: tc eles od siemanym 4
 Explanation: Reverse the string without moving the spaces. There is one space after "my", so after reversing, "my" becomes "tc", "name" becomes "eles", "is" becomes "od", "doselect" becomes "siemanym". 4 is the word count.  
 Execution time limit: 10 seconds.
 
-<sub>Topics: Strings, Two Pointers · Close variant: [LeetCode 917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) (Easy), reverse string keeping some characters fixed · Source: [InfoEdge.pdf](../archive/files/2461-InfoEdge.pdf)</sub>
+<sub>Topics: Strings, Two Pointers · Close variant: [LeetCode 917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) (Easy), reverse string keeping some characters fixed · Source: [InfoEdge.pdf](../archive/files/2461-InfoEdge.pdf) · Also asked at: IIT Delhi (2026-11-08)</sub>
 
 ### Q10. Knight moves safe from queen
 
@@ -293,4 +293,4 @@ Sample 1: Input 2 2 2 4 4 -> Output 4 (the knight can move to 4 different positi
 Sample 2: Input 2 2 1 1 2 -> Output 0 (there is no possible move for the knight).  
 Execution time limit: 10 seconds.
 
-<sub>Topics: Math, Arrays · Same idea: [LeetCode 1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) (Medium), queen attack lines on chessboard · Source: [InfoEdge.pdf](../archive/files/2461-InfoEdge.pdf)</sub>
+<sub>Topics: Math, Arrays · Same idea: [LeetCode 1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) (Medium), queen attack lines on chessboard · Source: [InfoEdge.pdf](../archive/files/2461-InfoEdge.pdf) · Also asked at: IIT Delhi (2026-11-08)</sub>
