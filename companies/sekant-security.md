@@ -1,13 +1,15 @@
 # Sekant Security
 
-**3 questions** · 2 drives · latest 7 Nov 2026 · [← all companies](../README.md#companies)
+**4 questions** · 3 drives · latest 8 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 2 · [OA Format](../topics/oa-format.md) 1  
-**Seen at:** IIT Guwahati, NIT Kurukshetra
+**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 2  
+**Seen at:** IIT BHU, IIT Guwahati, NIT Kurukshetra
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-08 · IIT BHU · FTE · Interview](#2026-11-08--iit-bhu--fte--interview)
+  - [Sekant Security first interview round (45 min)](#q1-sekant-security-first-interview-round-45-min)
 - [2026-11-07 · NIT Kurukshetra · FTE · Interview](#2026-11-07--nit-kurukshetra--fte--interview)
   - [Business case study interview](#q1-business-case-study-interview)
   - [Guesstimate question](#q2-guesstimate-question)
@@ -17,6 +19,19 @@
 </details>
 
 ---
+
+## 2026-11-08 · IIT BHU · FTE · Interview
+
+### Q1. Sekant Security first interview round (45 min)
+
+The 45-minute first round at Sekant Security is a fast-paced technical screen plus practical scenario evaluation:
+
+- Cybersecurity basics: OSI model, standard ports, the CIA triad, encryption vs hashing.
+- Attack vectors: how common vulnerabilities work (SQL injection, XSS, phishing).
+- Practical scenarios: how you would handle an incident, analyze alerts, or isolate a compromised machine.
+- Tools and side projects: experience with hands-on tools (Wireshark, Nmap, SIEM platforms) and how you keep up with new vulnerabilities.
+
+<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/inter-iit/2026-11.jsonl#L417)</sub>
 
 ## 2026-11-07 · NIT Kurukshetra · FTE · Interview
 

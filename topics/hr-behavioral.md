@@ -1,9 +1,11 @@
 # HR & Behavioral
 
-30 questions from 18 companys, newest first. [← all topics](../README.md#topics)
+32 questions from 18 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-09 | [IBM](../companies/ibm.md) | Unknown | [Complex data analysis situation](../companies/ibm.md#q1-complex-data-analysis-situation) |
+| 2026-11-09 | [ZS](../companies/zs.md) | VIT Vellore | [Project-based Python questions](../companies/zs.md#q3-project-based-python-questions) |
 | 2026-11-07 | [Neighborly](../companies/neighborly.md) | IIT BHU | [Interview format with business case study and guesstimate](../companies/neighborly.md#q1-interview-format-with-business-case-study-and-guesstimate) |
 | 2026-11-07 | [Auxo AI](../companies/auxo-ai.md) | IIT Hyderabad | [Business case study and guesstimate round](../companies/auxo-ai.md#q1-business-case-study-and-guesstimate-round) |
 | 2026-11-07 | [SEDEMAC](../companies/sedemac.md) | IIT Indore | [SEDEMAC Round 3 technical interview](../companies/sedemac.md#q2-sedemac-round-3-technical-interview) |

@@ -1,9 +1,9 @@
 # Denso
 
-**6 questions** · 3 drives · latest 7 Nov 2026 · [← all companies](../README.md#companies)
+**6 questions** · 3 drives · latest 8 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 6 · [Web Dev](../topics/web-dev.md) 2 · [Software Engineering](../topics/software-engineering.md) 1  
-**Seen at:** IIT Guwahati
+**Seen at:** IIT BHU, IIT Guwahati
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -34,7 +34,7 @@ Reported sections and topics:
 - Data Analysis: Excel, SQL, Statistics, Data Interpretation (Role-dependent)
 - Coding: Arrays, Strings, Sorting, Basic DSA (Role-dependent)
 
-<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L346), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L347)</sub>
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L346), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L347) · Also asked at: IIT BHU ×2 (last 2026-11-08)</sub>
 
 ## 2026-11-07 · IIT Guwahati · FTE
 

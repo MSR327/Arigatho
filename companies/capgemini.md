@@ -1,13 +1,15 @@
 # Capgemini
 
-**8 questions** · 2 drives · latest 20 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 3 drives · latest 9 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1  
-**Seen at:** IIT Delhi, NIT Trichy
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1  
+**Seen at:** IIT Delhi, MNNIT Allahabad, NIT Trichy
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · MNNIT Allahabad · FTE · SDE · Other round](#2026-11-09--mnnit-allahabad--fte--sde--other-round)
+  - [Capgemini hiring process](#q1-capgemini-hiring-process)
 - [2026-10-20 · IIT Delhi · FTE · SDE](#2026-10-20--iit-delhi--fte--sde)
   - [Capgemini 16 LPA SDE OA format (Round 3)](#q1-capgemini-16-lpa-sde-oa-format-round-3)
   - [Run-length compression of a string](#q2-run-length-compression-of-a-string)
@@ -22,6 +24,14 @@
 </details>
 
 ---
+
+## 2026-11-09 · MNNIT Allahabad · FTE · SDE · Other round
+
+### Q1. Capgemini hiring process
+
+The first round is a game based round and English comprehension. If you qualify, there is an online assessment, and after that an interview.
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/amazon-oa/2026-11.jsonl#L87)</sub>
 
 ## 2026-10-20 · IIT Delhi · FTE · SDE
 
@@ -38,7 +48,7 @@ In both the bug fixing and feature implementation parts, you choose your stack (
 
 The 11 LPA pattern isn't known, and the report was cut off at the bottom, so there may be more.
 
-<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11)</sub>
+<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11) · Also asked at: MNNIT Allahabad ×3 (last 2026-11-09)</sub>
 
 ### Q2. Run-length compression of a string
 

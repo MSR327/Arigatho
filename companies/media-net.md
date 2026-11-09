@@ -1,9 +1,9 @@
 # Media.net
 
-**7 questions** · 5 drives · latest 7 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**7 questions** · 5 drives · latest 9 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 4 · [OA Format](../topics/oa-format.md) 2 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Math](../topics/math.md) 1 · [Trees](../topics/trees.md) 1  
-**Seen at:** Delhi Technological University, MNNIT Allahabad, Netaji Subhas University of Technology, VNIT Nagpur
+**Seen at:** Delhi Technological University, IIT BHU, MNNIT Allahabad, Netaji Subhas University of Technology, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -38,7 +38,7 @@ OA sections and topics:
 - Verbal Ability: Comprehension, grammar
 - Programming: Basic Python, coding logic
 
-<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L85)</sub>
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L85) · Also asked at: IIT BHU (2026-11-09)</sub>
 
 ## 2026-10-19 · VNIT Nagpur · FTE · SDE · Interview
 

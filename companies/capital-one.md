@@ -1,8 +1,8 @@
 # Capital One
 
-**33 questions** · 14 drives · latest 8 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**34 questions** · 15 drives · latest 8 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 7 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [Hashing](../topics/hashing.md) 3 · [DP](../topics/dp.md) 2 · [Binary Search](../topics/binary-search.md) 2 · +11 more  
+**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 8 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [Hashing](../topics/hashing.md) 3 · [DP](../topics/dp.md) 2 · [Binary Search](../topics/binary-search.md) 2 · +11 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, MNNIT Allahabad +1 more
 
 <details>
@@ -10,6 +10,8 @@
 
 - [2026-11-08 · Unknown · FTE · Interview](#2026-11-08--unknown--fte--interview)
   - [Round 2 system design expectations](#q1-round-2-system-design-expectations)
+- [2026-11-08 · IIT Kharagpur · FTE · Interview](#2026-11-08--iit-kharagpur--fte--interview)
+  - [Round 2: DSA and system design](#q1-round-2-dsa-and-system-design)
 - [2026-11-07 · MNNIT Allahabad · FTE](#2026-11-07--mnnit-allahabad--fte)
   - [Simple Bank System](#q1-simple-bank-system)
   - [Merge Intervals](#q2-merge-intervals)
@@ -76,6 +78,16 @@ Round 2 system design: the candidate is expected to:
 (The specific design problem was not given.)
 
 <sub>Topics: Software Engineering · Source: [chat, 8 Nov](../archive/inter-iit/2026-11.jsonl#L399)</sub>
+
+## 2026-11-08 · IIT Kharagpur · FTE · Interview
+
+### Q1. Round 2: DSA and system design
+
+DSA was easy. System design was mostly about building DB schemas and relationships and maintaining ACID properties, plus pseudocode for the logic. 1 hour was given for both together.
+
+The exact questions were not shared.
+
+<sub>Topics: Software Engineering, OA Format · Source: [chat, 8 Nov](../archive/capital-one-oa/2026-11.jsonl#L67), [chat, 8 Nov](../archive/capital-one-oa/2026-11.jsonl#L68), [chat, 8 Nov](../archive/capital-one-oa/2026-11.jsonl#L70)</sub>
 
 ## 2026-11-07 · MNNIT Allahabad · FTE
 

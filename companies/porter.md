@@ -1,13 +1,16 @@
 # Porter
 
-**3 questions** · 3 drives · latest 8 Nov 2026 · [← all companies](../README.md#companies)
+**5 questions** · 4 drives · latest 8 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [ML/AI](../topics/ml-ai.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [ML/AI](../topics/ml-ai.md) 1 · [Graphs](../topics/graphs.md) 1 · [Arrays](../topics/arrays.md) 1  
 **Seen at:** IIT BHU, IIT Hyderabad, IIT Kharagpur/Kanpur, MNNIT Allahabad, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-08 · Unknown · FTE](#2026-11-08--unknown--fte)
+  - [Topological sort based question](#q1-topological-sort-based-question)
+  - [Divide array into three subarrays with equal sum](#q2-divide-array-into-three-subarrays-with-equal-sum)
 - [2026-11-06 · IIT Hyderabad · FTE · AI/ML](#2026-11-06--iit-hyderabad--fte--aiml)
   - [Porter AI/ML role OA pattern](#q1-porter-aiml-role-oa-pattern)
 - [2026-11-06 · IIT BHU · FTE](#2026-11-06--iit-bhu--fte)
@@ -18,6 +21,22 @@
 </details>
 
 ---
+
+## 2026-11-08 · Unknown · FTE
+
+### Q1. Topological sort based question
+
+One question was based on topological sort. (Statement not remembered in detail.)
+
+<sub>Topics: Graphs · Same idea: [LeetCode 210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (Medium), topological sort ordering with indegrees · Source: [chat, 8 Nov](../archive/porter-oa/2026-11.jsonl#L14)</sub>
+
+### Q2. Divide array into three subarrays with equal sum
+
+Given an array, divide it into three subarrays with the same sum.
+
+(Exact constraints and output format were not given.)
+
+<sub>Topics: Arrays · Same problem: [LeetCode 1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) (Easy), split array into three equal-sum parts · Source: [chat, 8 Nov](../archive/porter-oa/2026-11.jsonl#L14)</sub>
 
 ## 2026-11-06 · IIT Hyderabad · FTE · AI/ML
 

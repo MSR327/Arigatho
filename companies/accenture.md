@@ -2387,7 +2387,7 @@ Technical sections and question counts:
 - Apache Spark: 3 questions (focus: Spark transformations, RDDs, DataFrames and tokenization)
 - Data Science, Statistics, ML, NLP & Deep Learning: 12 questions
 
-<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858) · Also asked at: IIT Roorkee (2026-10-25), IIT Kharagpur/Kanpur ×2 (last 2026-11-06), IIT Hyderabad (2026-11-09)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L856), [chat, 14 Oct](../archive/accenture-oa/2026-10.jsonl#L858) · Also asked at: IIT Kharagpur/Kanpur ×2 (last 2026-11-06), IIT Roorkee ×2 (last 2026-11-09), IIT Hyderabad ×2 (last 2026-11-09), IIT Indore (2026-11-09), Unknown (2026-11-09)</sub>
 
 ### Q2. Convert implicit join to explicit join
 

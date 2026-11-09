@@ -1,9 +1,11 @@
 # Greedy
 
-101 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+103 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Microsoft](../companies/microsoft.md) | Unknown | [Minimum replacements to make k-complete word](../companies/microsoft.md#q1-minimum-replacements-to-make-k-complete-word) | [CF 1332C](https://codeforces.com/problemset/problem/1332/C) rated 1500 |
+| 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Smallest number whose digits multiply to N](../companies/accordion.md#q2-smallest-number-whose-digits-multiply-to-n) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Maximum profit with bitwise OR constraint](../companies/cognizant.md#q12-maximum-profit-with-bitwise-or-constraint) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Wind farms optimal control center location](../companies/cognizant.md#q1-wind-farms-optimal-control-center-location) | ≈ [LC 296](https://leetcode.com/problems/best-meeting-point/) Hard |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIIT Delhi | [Minimum cost to make array elements distinct](../companies/blackrock.md#q2-minimum-cost-to-make-array-elements-distinct) | |

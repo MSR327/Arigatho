@@ -1,9 +1,13 @@
 # Graphs
 
-139 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+143 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Bellman-Ford](../companies/infoedge.md#q10-bellman-ford) | ≈ [LC 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) Medium |
+| 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Open the Lock](../companies/cars24.md#q3-open-the-lock) | [LC 752](https://leetcode.com/problems/open-the-lock/) Medium |
+| 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Minimum Cost Fleet Relocation](../companies/cars24.md#q1-minimum-cost-fleet-relocation) | ≈ [LC 1135](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) Medium |
+| 2026-11-08 | [Porter](../companies/porter.md) | Unknown | [Topological sort based question](../companies/porter.md#q1-topological-sort-based-question) | ≈ [LC 210](https://leetcode.com/problems/course-schedule-ii/) Medium |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur/Kanpur | [DSU implementation and ML MCQs](../companies/blackrock.md#q2-dsu-implementation-and-ml-mcqs) | |
 | 2026-11-07 | [Unknown](../companies/unknown.md) | IIT Madras | [Bellman-Ford standard question](../companies/unknown.md#q3-bellman-ford-standard-question) | ≈ [LC 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) Medium |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | Unknown | [Disjoint Set Union implementation](../companies/blackrock.md#q2-disjoint-set-union-implementation) | ≈ [LC 1971](https://leetcode.com/problems/find-if-path-exists-in-graph/) Easy |

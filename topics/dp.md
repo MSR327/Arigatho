@@ -1,9 +1,14 @@
 # DP
 
-133 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+138 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Matrix traversal maximum wedges](../companies/accordion.md#q3-matrix-traversal-maximum-wedges) | |
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Wildcard pattern matching](../companies/infoedge.md#q9-wildcard-pattern-matching) | [LC 44](https://leetcode.com/problems/wildcard-matching/) Hard |
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Longest palindromic substring](../companies/infoedge.md#q8-longest-palindromic-substring) | [LC 5](https://leetcode.com/problems/longest-palindromic-substring/) Medium |
+| 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [House Robber](../companies/cars24.md#q6-house-robber) | [LC 198](https://leetcode.com/problems/house-robber/) Medium |
+| 2026-11-08 | [Microsoft](../companies/microsoft.md) | IIT Madras | [Maximum Processor Power](../companies/microsoft.md#q2-maximum-processor-power) | [LC 740](https://leetcode.com/problems/delete-and-earn/) Medium |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Interleaving String](../companies/iqvia.md#q12-interleaving-string) | [LC 97](https://leetcode.com/problems/interleaving-string/) Medium |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Interleaving string](../companies/cars24.md#q12-interleaving-string) | [LC 97](https://leetcode.com/problems/interleaving-string/) Medium |
 | 2026-11-06 | [Navi](../companies/navi.md) | IIT Hyderabad | [DP debugging problem](../companies/navi.md#q2-dp-debugging-problem) | |

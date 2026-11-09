@@ -1,9 +1,10 @@
 # Software Engineering
 
-57 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+58 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-08 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Round 2: DSA and system design](../companies/capital-one.md#q1-round-2-dsa-and-system-design) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [What is a cloud region](../companies/cognizant.md#q6-what-is-a-cloud-region) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Service model with self-managed VMs](../companies/cognizant.md#q5-service-model-with-self-managed-vms) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Why not hard-code API keys](../companies/cognizant.md#q2-why-not-hard-code-api-keys) | |

@@ -1,13 +1,15 @@
 # Juspay
 
-**18 questions** · 13 drives · latest 8 Nov 2026 · [← all companies](../README.md#companies)
+**19 questions** · 14 drives · latest 9 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Other](../topics/other.md) 3 · [Trees](../topics/trees.md) 2 · [Strings](../topics/strings.md) 2 · [Hashing](../topics/hashing.md) 1 · [Greedy](../topics/greedy.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, MNNIT Allahabad, NIT Delhi, NIT Kurukshetra +1 more
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Trees](../topics/trees.md) 3 · [Other](../topics/other.md) 3 · [Strings](../topics/strings.md) 2 · [Hashing](../topics/hashing.md) 1 · [Greedy](../topics/greedy.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, MNNIT Allahabad, NIT Delhi, NIT Kurukshetra +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · NIT Surathkal · FTE](#2026-11-09--nit-surathkal--fte)
+  - [Round 3 design-type tree operations](#q1-round-3-design-type-tree-operations)
 - [2026-11-08 · IIT Bombay · FTE · SDE](#2026-11-08--iit-bombay--fte--sde)
   - [Edge weight update queries in a tree](#q1-edge-weight-update-queries-in-a-tree)
 - [2026-11-06 · IIT Bombay · FTE](#2026-11-06--iit-bombay--fte)
@@ -43,6 +45,14 @@
 </details>
 
 ---
+
+## 2026-11-09 · NIT Surathkal · FTE
+
+### Q1. Round 3 design-type tree operations
+
+Round 3 is a 3-hour test held before the hackathon. It has a design-type question similar to the LeetCode problem "Operations on Tree". The full statement was not shared.
+
+<sub>Topics: Trees, OA Format · Similar: [LeetCode 1993. Operations on Tree](https://leetcode.com/problems/operations-on-tree/) (Medium) · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L918)</sub>
 
 ## 2026-11-08 · IIT Bombay · FTE · SDE
 

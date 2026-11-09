@@ -1,13 +1,15 @@
 # BlackRock
 
-**76 questions** · 31 drives · latest 8 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**77 questions** · 32 drives · latest 9 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [ML/AI](../topics/ml-ai.md) 35 · [OA Format](../topics/oa-format.md) 33 · [Math](../topics/math.md) 15 · [Greedy](../topics/greedy.md) 8 · [Heaps](../topics/heaps.md) 7 · [Sorting](../topics/sorting.md) 5 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · +9 more  
+**Asks about:** [ML/AI](../topics/ml-ai.md) 36 · [OA Format](../topics/oa-format.md) 34 · [Math](../topics/math.md) 15 · [Greedy](../topics/greedy.md) 8 · [Heaps](../topics/heaps.md) 7 · [Sorting](../topics/sorting.md) 5 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · +9 more  
 **Seen at:** BITS, BITS Pilani, IIIT Delhi, IIT BHU, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kharagpur/Kanpur +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-08 · Unknown · FTE · AI/ML](#2026-11-08--unknown--fte--aiml)
+  - [Write ML algorithm code (BM25, TF-IDF)](#q1-write-ml-algorithm-code-bm25-tf-idf)
 - [2026-11-08 · BITS · FTE · Aladdin Data](#2026-11-08--bits--fte--aladdin-data)
   - [Aladdin Data OA pattern](#q1-aladdin-data-oa-pattern)
 - [2026-11-07 · Unknown · FTE · AI/ML](#2026-11-07--unknown--fte--aiml)
@@ -119,6 +121,14 @@
 </details>
 
 ---
+
+## 2026-11-08 · Unknown · FTE · AI/ML
+
+### Q1. Write ML algorithm code (BM25, TF-IDF)
+
+Study Python syntax for different ML algorithms and formulas like BM25 and TF-IDF; you will be asked to write the code.
+
+<sub>Topics: ML/AI, OA Format · Source: [chat, 8 Nov](../archive/porter-oa/2026-11.jsonl#L16)</sub>
 
 ## 2026-11-08 · BITS · FTE · Aladdin Data
 
@@ -255,19 +265,19 @@ Reported answer: 0.20
 
 Python only. Coding question: implement a RAG pipeline, including cleaning strings, tokenizing, etc. (Full statement not given.)
 
-<sub>Topics: Strings, ML/AI · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783)</sub>
+<sub>Topics: Strings, ML/AI · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783) · Also asked at: IIT Roorkee (2026-11-09), Unknown (2026-11-09)</sub>
 
 ### Q2. DSU implementation
 
 Poster's set had a DSU (disjoint set union) implementation question; other sets had the RAG one. (Full statement not given.)
 
-<sub>Topics: Graphs · Same idea: [LeetCode 1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) (Easy), DSU find/union/connected check · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) (Easy), DSU find/union/connected check · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783) · Also asked at: IIT Roorkee (2026-11-09), Unknown (2026-11-09)</sub>
 
 ### Q3. AI/ML MCQs
 
 70+ MCQs on RAG, AI, ML, etc.
 
-<sub>Topics: ML/AI, OA Format · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783)</sub>
+<sub>Topics: ML/AI, OA Format · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783) · Also asked at: IIT Roorkee (2026-11-09)</sub>
 
 ## 2026-11-07 · IIT Roorkee · FTE · AI/ML
 
@@ -598,13 +608,13 @@ Two DSA questions (easy to medium level) with an AI assistant, and three MCQ sec
 
 Question 1 (40 mins): Implement several different classes using the provided built-in AI assistant (which the poster said was rigged and not useful). Exact class specifications were not shared.
 
-<sub>Topics: OOP · Source: [chat, 6 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L16)</sub>
+<sub>Topics: OOP · Source: [chat, 6 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L16) · Also asked at: IIT BHU (2026-11-08)</sub>
 
 ### Q2. Implement DSU class
 
 Question 2 (30 mins): Implement a DSU (Disjoint Set Union) class with the functions `find`, `union` and `is_connected`. An AI assistant was available for this question too, but it was of no use. Only Python was allowed (C++ was not).
 
-<sub>Topics: Graphs · Same idea: [LeetCode 684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) (Medium), disjoint set union find/union connectivity · Source: [chat, 6 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L16)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) (Medium), disjoint set union find/union connectivity · Source: [chat, 6 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L16) · Also asked at: IIT BHU (2026-11-08)</sub>
 
 ### Q3. BlackRock AI/ML MCQ section
 
@@ -616,7 +626,7 @@ Question 2 (30 mins): Implement a DSU (Disjoint Set Union) class with the functi
 - Experience training, running and evaluating ML models
 - Awareness of ethical AI principles, data privacy and bias in models
 
-<sub>Topics: ML/AI, OA Format · Source: [chat, 6 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L16) · Also asked at: IIIT Delhi (2026-11-07)</sub>
+<sub>Topics: ML/AI, OA Format · Source: [chat, 6 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L16) · Also asked at: IIIT Delhi (2026-11-07), IIT BHU (2026-11-08)</sub>
 
 ## 2026-11-05 · IIT Indore · FTE · AD
 

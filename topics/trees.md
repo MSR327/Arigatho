@@ -1,9 +1,12 @@
 # Trees
 
-68 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+71 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [K-th Smallest Element](../companies/cars24.md#q7-k-th-smallest-element) | [LC 215](https://leetcode.com/problems/kth-largest-element-in-an-array/) Medium |
+| 2026-11-09 | [Juspay](../companies/juspay.md) | NIT Surathkal | [Round 3 design-type tree operations](../companies/juspay.md#q1-round-3-design-type-tree-operations) | [LC 1993](https://leetcode.com/problems/operations-on-tree/) Medium |
+| 2026-11-08 | [Microsoft](../companies/microsoft.md) | IIT Madras | [Parent of a process in a tree](../companies/microsoft.md#q1-parent-of-a-process-in-a-tree) | |
 | 2026-11-08 | [Juspay](../companies/juspay.md) | IIT Bombay | [Edge weight update queries in a tree](../companies/juspay.md#q1-edge-weight-update-queries-in-a-tree) | |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Distribute Coins in Binary Tree](../companies/iqvia.md#q7-distribute-coins-in-binary-tree) | [LC 979](https://leetcode.com/problems/distribute-coins-in-binary-tree/) Medium |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Bottom View of Binary Tree](../companies/iqvia.md#q6-bottom-view-of-binary-tree) | [GfG](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) |

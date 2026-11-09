@@ -1,9 +1,10 @@
 # Digital Electronics
 
-27 questions from 4 companys, newest first. [← all topics](../README.md#topics)
+28 questions from 5 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-08 | [Ixana](../companies/ixana.md) | IIT BHU | [Ixana embedded hiring process](../companies/ixana.md#q1-ixana-embedded-hiring-process) |
 | 2026-11-06 | [Nvidia](../companies/nvidia.md) | IIT Hyderabad | [Questions reported from the August 2026 NVIDIA assessment](../companies/nvidia.md#q1-questions-reported-from-the-august-2026-nvidia-assessment) |
 | 2026-11-05 | [Texas Instruments](../companies/texas-instruments.md) | IIT Roorkee | [TI OA topics: STA, C programming, 8085](../companies/texas-instruments.md#q1-ti-oa-topics-sta-c-programming-8085) |
 | 2026-10-30 | [Texas Instruments](../companies/texas-instruments.md) | Unknown | [VLSI & EDA topics](../companies/texas-instruments.md#q4-vlsi--eda-topics) |

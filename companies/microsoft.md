@@ -1,13 +1,18 @@
 # Microsoft
 
-**9 questions** · 7 drives · latest 7 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**12 questions** · 9 drives · latest 9 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Arrays](../topics/arrays.md) 2 · [Hashing](../topics/hashing.md) 2 · [Python & Pandas](../topics/python-pandas.md) 1 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Strings](../topics/strings.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Arrays](../topics/arrays.md) 3 · [Hashing](../topics/hashing.md) 2 · [Strings](../topics/strings.md) 2 · [Python & Pandas](../topics/python-pandas.md) 1 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · +4 more  
 **Seen at:** BITS Pilani, IIT Delhi, IIT Guwahati, IIT Madras, NIT Allahabad (MNNIT), NIT Kurukshetra
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · Unknown · FTE · SDE](#2026-11-09--unknown--fte--sde)
+  - [Minimum replacements to make k-complete word](#q1-minimum-replacements-to-make-k-complete-word)
+- [2026-11-08 · IIT Madras · FTE](#2026-11-08--iit-madras--fte)
+  - [Parent of a process in a tree](#q1-parent-of-a-process-in-a-tree)
+  - [Maximum Processor Power](#q2-maximum-processor-power)
 - [2026-11-07 · NIT Kurukshetra · FTE · Software Engineer](#2026-11-07--nit-kurukshetra--fte--software-engineer)
   - [Microsoft SDE OA topics](#q1-microsoft-sde-oa-topics)
 - [2026-10-27 · NIT Allahabad (MNNIT) · FTE · Software Engineer Apprentice](#2026-10-27--nit-allahabad-mnnit--fte--software-engineer-apprentice)
@@ -28,6 +33,30 @@
 </details>
 
 ---
+
+## 2026-11-09 · Unknown · FTE · SDE
+
+### Q1. Minimum replacements to make k-complete word
+
+A word s of length n is called k-complete if s is a palindrome and s has a period of k, i.e. s_i = s_{k+i}. Find the minimum number of letters that have to be replaced to convert s to any k-complete word.
+
+(Constraints and examples were not given in the message.)
+
+<sub>Topics: Strings, Greedy · Same problem: [Codeforces 1332C. K-Complete Word](https://codeforces.com/problemset/problem/1332/C) (rated 1500), palindrome plus period k via grouped character counts · Source: [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L14)</sub>
+
+## 2026-11-08 · IIT Madras · FTE
+
+### Q1. Parent of a process in a tree
+
+Processes are arranged in a tree and numbered starting from 1 in the order they are created. Each process creates exactly n child processes. Child processes are numbered sequentially in the order they are created. Given a process number processNumber (greater than 1), determine its parent process number.
+
+<sub>Topics: Math, Trees · Source: [chat, 8 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L113)</sub>
+
+### Q2. Maximum Processor Power
+
+A cloud services platform added n processors, each with a computing power specified by power[i]. Not all processors can be utilized simultaneously. If a processor with computing power x is in use, processors with computing power x + 1 or x − 1 cannot be used. Each processor can only be used once. Determine the maximum possible sum of the computing powers of the selected processors.
+
+<sub>Topics: DP, Arrays · Similar: [LeetCode 740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) (Medium) · Source: [chat, 8 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L113)</sub>
 
 ## 2026-11-07 · NIT Kurukshetra · FTE · Software Engineer
 

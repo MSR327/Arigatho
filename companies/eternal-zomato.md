@@ -1,6 +1,6 @@
 # Eternal (Zomato)
 
-**175 questions** · 81 drives · latest 7 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**175 questions** · 81 drives · latest 9 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 57 · [SQL](../topics/sql.md) 24 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 12 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +22 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +9 more
@@ -828,7 +828,7 @@ A question of the Asteroid Collision type.
 
 Only the problem type was named; no statement, constraints or examples were given.
 
-<sub>Topics: Stack/Queue, Arrays · Similar: [LeetCode 735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) (Medium) · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: IIT BHU (2026-09-30), IIIT Hyderabad (2026-10-13), IIT Dhanbad ×2 (last 2026-10-13), IIT Delhi (2026-10-13), IIT Hyderabad (2026-10-21)</sub>
+<sub>Topics: Stack/Queue, Arrays · Similar: [LeetCode 735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) (Medium) · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: IIT BHU (2026-09-30), IIIT Hyderabad (2026-10-13), IIT Dhanbad ×2 (last 2026-10-13), IIT Hyderabad (2026-10-21), IIT Delhi ×2 (last 2026-11-09)</sub>
 
 ### Q2. 3D DP: items, price and coupons that halve the price
 
@@ -858,7 +858,7 @@ The poster noted this question was asked at a different college. Constraints and
 
 SDE OA pattern: 3 DSA questions and 13 MCQs. The MCQs covered OS, networks and system design. The poster did not remember the exact questions.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: NIT Kurukshetra (2026-10-06), IIT Hyderabad (2026-10-16), IIT Indore (2026-10-30)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: NIT Kurukshetra (2026-10-06), IIT Hyderabad (2026-10-16), IIT Indore (2026-10-30), IIT Delhi (2026-11-09)</sub>
 
 ## 2026-10-20 · IIT Guwahati · FTE
 
@@ -1469,7 +1469,7 @@ Eternal (Zomato) OA for SDE & PA roles. Duration: 90 min. 15 MCQs covering OS, D
 
 Given an array, find the element with the second highest frequency.
 
-<sub>Topics: Hashing, Arrays · Same idea: [LeetCode 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (Medium), frequency counting then rank by frequency · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L112), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L113) · Also asked at: IIT Dhanbad ×4 (last 2026-10-13)</sub>
+<sub>Topics: Hashing, Arrays · Same idea: [LeetCode 347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (Medium), frequency counting then rank by frequency · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L112), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L113) · Also asked at: IIT Dhanbad ×4 (last 2026-10-13), IIT Delhi (2026-11-09)</sub>
 
 ### Q3. Collision problem
 

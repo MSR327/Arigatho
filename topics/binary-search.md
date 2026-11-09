@@ -1,9 +1,12 @@
 # Binary Search
 
-46 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+49 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Search in rotated sorted array](../companies/infoedge.md#q6-search-in-rotated-sorted-array) | [LC 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) Medium |
+| 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Online Election](../companies/cars24.md#q5-online-election) | [LC 911](https://leetcode.com/problems/online-election/) Medium |
+| 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Time Based Key-Value Store](../companies/cars24.md#q4-time-based-key-value-store) | [LC 981](https://leetcode.com/problems/time-based-key-value-store/) Medium |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Valid encryption keys with exactly 3 divisors](../companies/cognizant.md#q11-valid-encryption-keys-with-exactly-3-divisors) | ≈ [LC 204](https://leetcode.com/problems/count-primes/) Medium |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Block Placement Queries](../companies/capital-one.md#q5-block-placement-queries) | [LC 3161](https://leetcode.com/problems/block-placement-queries/) Hard |
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Hyderabad | [Count ancestor-descendant pairs within distance limit](../companies/mathworks.md#q1-count-ancestor-descendant-pairs-within-distance-limit) | ≈ [LC 437](https://leetcode.com/problems/path-sum-iii/) Medium |

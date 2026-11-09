@@ -1,9 +1,10 @@
 # ML/AI
 
-132 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+133 questions from 22 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-08 | [BlackRock](../companies/blackrock.md) | Unknown | [Write ML algorithm code (BM25, TF-IDF)](../companies/blackrock.md#q1-write-ml-algorithm-code-bm25-tf-idf) |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Clearest prompt for a requirement](../companies/cognizant.md#q18-clearest-prompt-for-a-requirement) |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Tool selection accuracy](../companies/cognizant.md#q17-tool-selection-accuracy) |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Bias in an AI system](../companies/cognizant.md#q16-bias-in-an-ai-system) |

@@ -1,9 +1,9 @@
 # ICICI
 
-**21 questions** · 20 drives · latest 8 Nov 2026 · [← all companies](../README.md#companies)
+**21 questions** · 20 drives · latest 9 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 19 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [OOP](../topics/oop.md) 1  
-**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad, Manipal +5 more
+**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad, Manipal +6 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -107,7 +107,7 @@ English, reasoning, maths, operating systems and more, a bit of everything.
 
 Selection process: resume shortlisting, online assessment, personal interview. The OA consists of: OOPs concepts, Computer Networking, Operating System, Programming Language (C/C++/Python/Java), Machine Learning, Natural Language Processing, Quantitative Mathematics, Project Management, Software Engineering, DBMS.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Guwahati (2026-11-06), IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Guwahati (2026-11-06), IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08), NIT Karnataka Surathkal (2026-11-09)</sub>
 
 ### Q2. ICICI interview: Placement Coordinator role questions
 
@@ -120,7 +120,7 @@ Interview began with a self-introduction (about 1.5 minutes). The interviewer th
 
 This discussion lasted almost 10 minutes, then moved on to club experience (the message was cut off here).
 
-<sub>Topics: HR & Behavioral · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08), NIT Karnataka Surathkal (2026-11-09)</sub>
 
 ## 2026-11-04 · VNIT Nagpur · FTE · Manager-1
 

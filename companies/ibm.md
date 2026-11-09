@@ -1,13 +1,15 @@
 # IBM
 
-**28 questions** · 19 drives · latest 7 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**29 questions** · 20 drives · latest 9 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [HR & Behavioral](../topics/hr-behavioral.md) 8 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [HR & Behavioral](../topics/hr-behavioral.md) 9 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
 **Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · Unknown · FTE](#2026-11-09--unknown--fte)
+  - [Complex data analysis situation](#q1-complex-data-analysis-situation)
 - [2026-11-07 · IIT Roorkee · FTE](#2026-11-07--iit-roorkee--fte)
   - [IBM competency round format](#q1-ibm-competency-round-format)
 - [2026-11-07 · IIT Kharagpur/Kanpur · FTE](#2026-11-07--iit-kharagpurkanpur--fte)
@@ -59,6 +61,16 @@
 </details>
 
 ---
+
+## 2026-11-09 · Unknown · FTE
+
+### Q1. Complex data analysis situation
+
+Give an example of a situation where you had to analyze complex data to uncover insights or make recommendations. What process did you use and what was the result?
+
+Format: IBM competency round, text-based, 4 questions, 7 min 30 sec per question, answers typed out.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 9 Nov](../archive/ibm-oa/2026-11.jsonl#L95)</sub>
 
 ## 2026-11-07 · IIT Roorkee · FTE
 
@@ -168,7 +180,7 @@ Can you give an example of when you had to interpret data or information for oth
 
 Can you share an experience where you guided, directed, or motivated people to accomplish a challenging project or task? What techniques did you use to encourage effective teamwork?
 
-<sub>Topics: HR & Behavioral · Source: [chat, 28 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L34)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 28 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L34) · Also asked at: Unknown (2026-11-09)</sub>
 
 ### Q3. Managing a project start to finish
 

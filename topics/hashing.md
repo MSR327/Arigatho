@@ -1,9 +1,12 @@
 # Hashing
 
-103 questions from 49 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+106 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [First missing positive](../companies/infoedge.md#q1-first-missing-positive) | [LC 41](https://leetcode.com/problems/first-missing-positive/) Hard |
+| 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Online Election](../companies/cars24.md#q5-online-election) | [LC 911](https://leetcode.com/problems/online-election/) Medium |
+| 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Time Based Key-Value Store](../companies/cars24.md#q4-time-based-key-value-store) | [LC 981](https://leetcode.com/problems/time-based-key-value-store/) Medium |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [LRU Cache](../companies/iqvia.md#q8-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Number of Black Blocks](../companies/capital-one.md#q8-number-of-black-blocks) | [LC 2768](https://leetcode.com/problems/number-of-black-blocks/) Medium |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Count Prefix and Suffix Pairs II](../companies/capital-one.md#q6-count-prefix-and-suffix-pairs-ii) | [LC 3045](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/) Hard |

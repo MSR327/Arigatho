@@ -1,9 +1,13 @@
 # Strings
 
-112 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+116 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Microsoft](../companies/microsoft.md) | Unknown | [Minimum replacements to make k-complete word](../companies/microsoft.md#q1-minimum-replacements-to-make-k-complete-word) | [CF 1332C](https://codeforces.com/problemset/problem/1332/C) rated 1500 |
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Wildcard pattern matching](../companies/infoedge.md#q9-wildcard-pattern-matching) | [LC 44](https://leetcode.com/problems/wildcard-matching/) Hard |
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Longest palindromic substring](../companies/infoedge.md#q8-longest-palindromic-substring) | [LC 5](https://leetcode.com/problems/longest-palindromic-substring/) Medium |
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Minimum parentheses](../companies/infoedge.md#q2-minimum-parentheses) | [LC 921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) Medium |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [TF-IDF Vectorizer (AI-assisted task)](../companies/blackrock.md#q1-tf-idf-vectorizer-ai-assisted-task) | |
 | 2026-11-07 | [Unknown](../companies/unknown.md) | IIT Madras | [Minimum bit flips to limit transitions](../companies/unknown.md#q2-minimum-bit-flips-to-limit-transitions) | |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Interleaving String](../companies/iqvia.md#q12-interleaving-string) | [LC 97](https://leetcode.com/problems/interleaving-string/) Medium |

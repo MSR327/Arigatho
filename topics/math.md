@@ -1,9 +1,13 @@
 # Math
 
-199 questions from 52 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+203 questions from 53 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Smallest number whose digits multiply to N](../companies/accordion.md#q2-smallest-number-whose-digits-multiply-to-n) | |
+| 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Data Science section: recall, handshakes, probability, sampling](../companies/accordion.md#q1-data-science-section-recall-handshakes-probability-sampling) | |
+| 2026-11-08 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Product of two odd numbers](../companies/iqvia.md#q2-product-of-two-odd-numbers) | |
+| 2026-11-08 | [Microsoft](../companies/microsoft.md) | IIT Madras | [Parent of a process in a tree](../companies/microsoft.md#q1-parent-of-a-process-in-a-tree) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Valid encryption keys with exactly 3 divisors](../companies/cognizant.md#q11-valid-encryption-keys-with-exactly-3-divisors) | ≈ [LC 204](https://leetcode.com/problems/count-primes/) Medium |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Wind farms optimal control center location](../companies/cognizant.md#q1-wind-farms-optimal-control-center-location) | ≈ [LC 296](https://leetcode.com/problems/best-meeting-point/) Hard |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [LCM from product and HCF](../companies/iqvia.md#q17-lcm-from-product-and-hcf) | |

@@ -1,13 +1,21 @@
 # Cars24
 
-**17 questions** · 2 drives · latest 7 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**24 questions** · 3 drives · latest 9 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 3 · [Graphs](../topics/graphs.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · [Sorting](../topics/sorting.md) 2 · [Sliding Window](../topics/sliding-window.md) 2 · [Trees](../topics/trees.md) 2 · [OA Format](../topics/oa-format.md) 1 · +6 more  
+**Asks about:** [Graphs](../topics/graphs.md) 5 · [Arrays](../topics/arrays.md) 4 · [Sorting](../topics/sorting.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · [Trees](../topics/trees.md) 3 · [Hashing](../topics/hashing.md) 3 · [Sliding Window](../topics/sliding-window.md) 2 · +8 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · Unknown · FTE](#2026-11-09--unknown--fte)
+  - [Minimum Cost Fleet Relocation](#q1-minimum-cost-fleet-relocation)
+  - [Merge Intervals](#q2-merge-intervals)
+  - [Open the Lock](#q3-open-the-lock)
+  - [Time Based Key-Value Store](#q4-time-based-key-value-store)
+  - [Online Election](#q5-online-election)
+  - [House Robber](#q6-house-robber)
+  - [K-th Smallest Element](#q7-k-th-smallest-element)
 - [2026-11-06 · IIT Roorkee · FTE · SDE](#2026-11-06--iit-roorkee--fte--sde)
   - [Cars24 OA DSA topics](#q1-cars24-oa-dsa-topics)
 - [2026-11-06 · IIT BHU · FTE](#2026-11-06--iit-bhu--fte)
@@ -31,6 +39,50 @@
 </details>
 
 ---
+
+## 2026-11-09 · Unknown · FTE
+
+### Q1. Minimum Cost Fleet Relocation
+
+Minimum Cost Fleet Relocation (graphs). Only the title was shared.
+
+<sub>Topics: Graphs · Same idea: [LeetCode 1135. Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) (Medium), minimum cost graph connection via MST · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L921)</sub>
+
+### Q2. Merge Intervals
+
+Merge Intervals (sorting). Only the title was shared.
+
+<sub>Topics: Sorting, Arrays · Similar: [LeetCode 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Medium) · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L921)</sub>
+
+### Q3. Open the Lock
+
+Open the Lock (BFS). Only the title was shared.
+
+<sub>Topics: Graphs · Similar: [LeetCode 752. Open the Lock](https://leetcode.com/problems/open-the-lock/) (Medium) · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L921)</sub>
+
+### Q4. Time Based Key-Value Store
+
+Time Based Key-Value Store (binary search + hashing). Only the title was shared.
+
+<sub>Topics: Binary Search, Hashing · Similar: [LeetCode 981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) (Medium) · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L921)</sub>
+
+### Q5. Online Election
+
+Online Election (prefix + hashing). Only the title was shared.
+
+<sub>Topics: Hashing, Binary Search · Similar: [LeetCode 911. Online Election](https://leetcode.com/problems/online-election/) (Medium) · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L921)</sub>
+
+### Q6. House Robber
+
+House Robber (DP). Only the title was shared.
+
+<sub>Topics: DP · Similar: [LeetCode 198. House Robber](https://leetcode.com/problems/house-robber/) (Medium) · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L921)</sub>
+
+### Q7. K-th Smallest Element
+
+K-th Smallest Element (heap / BST). Only the title was shared.
+
+<sub>Topics: Heaps, Trees · Close variant: [LeetCode 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (Medium), heap-based k-th order statistic · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L921)</sub>
 
 ## 2026-11-06 · IIT Roorkee · FTE · SDE
 
@@ -88,7 +140,7 @@ Distribute Coins in Binary Tree. (Only the title was shared.)
 
 LRU Cache. (Only the title was shared.)
 
-<sub>Topics: Hashing, Linked List · Similar: [LeetCode 146. LRU Cache](https://leetcode.com/problems/lru-cache/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Hashing, Linked List · Similar: [LeetCode 146. LRU Cache](https://leetcode.com/problems/lru-cache/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), Unknown (2026-11-09)</sub>
 
 ### Q9. Longest subarray with sum at most K
 
@@ -100,7 +152,7 @@ Longest Subarray with Sum at Most K. (Only the title was shared.)
 
 Sliding Window Maximum. (Only the title was shared.)
 
-<sub>Topics: Sliding Window, Stack/Queue · Similar: [LeetCode 239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Sliding Window, Stack/Queue · Similar: [LeetCode 239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), Unknown (2026-11-09)</sub>
 
 ### Q11. Sort 0, 1, 2
 
@@ -112,7 +164,7 @@ Sort 0, 1, 2. (Only the title was shared.)
 
 Interleaving String (LeetCode 97). (Only the title was shared.)
 
-<sub>Topics: DP, Strings · Similar: [LeetCode 97. Interleaving String](https://leetcode.com/problems/interleaving-string/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: DP, Strings · Similar: [LeetCode 97. Interleaving String](https://leetcode.com/problems/interleaving-string/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), Unknown (2026-11-09)</sub>
 
 ### Q13. Number of islands
 

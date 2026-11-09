@@ -1,6 +1,6 @@
 # Kanini
 
-**4 questions** · 3 drives · latest 6 Nov 2026 · [← all companies](../README.md#companies)
+**4 questions** · 3 drives · latest 9 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 4  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad
@@ -43,7 +43,7 @@ Round 2: LWS (Listening, Writing & Speaking)
 
 Aptitude MCQs and 3 DSA questions. The same OA was conducted for all roles.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L227)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L227) · Also asked at: IIT BHU (2026-11-09)</sub>
 
 ### Q2. Kanini OA sections
 

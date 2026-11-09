@@ -1,9 +1,10 @@
 # Sliding Window
 
-31 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+32 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Sliding window maximum](../companies/infoedge.md#q7-sliding-window-maximum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Sliding Window Maximum](../companies/iqvia.md#q10-sliding-window-maximum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Longest Subarray with Sum at Most K](../companies/iqvia.md#q9-longest-subarray-with-sum-at-most-k) | ≈ [GfG](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Sliding window maximum](../companies/cars24.md#q10-sliding-window-maximum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |

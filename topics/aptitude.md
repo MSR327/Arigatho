@@ -1,9 +1,16 @@
 # Aptitude
 
-233 questions from 31 companys, newest first. [← all topics](../README.md#topics)
+240 questions from 31 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [DA section: business math](../companies/accordion.md#q4-da-section-business-math) |
+| 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Data Science section: recall, handshakes, probability, sampling](../companies/accordion.md#q1-data-science-section-recall-handshakes-probability-sampling) |
+| 2026-11-09 | [Accordion](../companies/accordion.md) | IIT Delhi | [Tables and pie charts numerical result](../companies/accordion.md#q3-tables-and-pie-charts-numerical-result) |
+| 2026-11-09 | [Accordion](../companies/accordion.md) | IIT Delhi | [Acceptance and denial rate](../companies/accordion.md#q2-acceptance-and-denial-rate) |
+| 2026-11-09 | [Accordion](../companies/accordion.md) | IIT Delhi | [Table data interpretation](../companies/accordion.md#q1-table-data-interpretation) |
+| 2026-11-08 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Product of two odd numbers](../companies/iqvia.md#q2-product-of-two-odd-numbers) |
+| 2026-11-08 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Number line distance](../companies/iqvia.md#q1-number-line-distance) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Series: 6, 9, ?, 24, 36](../companies/iqvia.md#q21-series-6-9--24-36) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Coding-decoding: STUMP → PQRJM](../companies/iqvia.md#q20-coding-decoding-stump--pqrjm) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Mother's age word problem](../companies/iqvia.md#q19-mothers-age-word-problem) |

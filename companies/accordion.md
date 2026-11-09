@@ -1,13 +1,24 @@
 # Accordion
 
-**25 questions** · 7 drives · latest 8 Nov 2026 · [← all companies](../README.md#companies)
+**33 questions** · 10 drives · latest 9 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 19 · [Finance](../topics/finance.md) 9 · [OA Format](../topics/oa-format.md) 7 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [Math](../topics/math.md) 4 · [SQL](../topics/sql.md) 1  
-**Seen at:** IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Roorkee +1 more
+**Asks about:** [Aptitude](../topics/aptitude.md) 24 · [OA Format](../topics/oa-format.md) 9 · [Finance](../topics/finance.md) 9 · [Math](../topics/math.md) 6 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · MNNIT Allahabad · FTE · Data Analyst](#2026-11-09--mnnit-allahabad--fte--data-analyst)
+  - [Data Science section: recall, handshakes, probability, sampling](#q1-data-science-section-recall-handshakes-probability-sampling)
+  - [Smallest number whose digits multiply to N](#q2-smallest-number-whose-digits-multiply-to-n)
+  - [Matrix traversal maximum wedges](#q3-matrix-traversal-maximum-wedges)
+  - [DA section: business math](#q4-da-section-business-math)
+- [2026-11-09 · IIT Delhi · FTE · Data and AI Analyst](#2026-11-09--iit-delhi--fte--data-and-ai-analyst)
+  - [Table data interpretation](#q1-table-data-interpretation)
+  - [Acceptance and denial rate](#q2-acceptance-and-denial-rate)
+  - [Tables and pie charts numerical result](#q3-tables-and-pie-charts-numerical-result)
+- [2026-11-09 · IIIT Allahabad · FTE](#2026-11-09--iiit-allahabad--fte)
+  - [Accordion OA sections](#q1-accordion-oa-sections)
 - [2026-11-08 · MNNIT Allahabad · FTE · Data and AI Analyst](#2026-11-08--mnnit-allahabad--fte--data-and-ai-analyst)
   - [Accordion OA pattern](#q1-accordion-oa-pattern)
 - [2026-11-07 · IIT Delhi · FTE · Data and AI Analyst](#2026-11-07--iit-delhi--fte--data-and-ai-analyst)
@@ -45,6 +56,72 @@
 
 ---
 
+## 2026-11-09 · MNNIT Allahabad · FTE · Data Analyst
+
+### Q1. Data Science section: recall, handshakes, probability, sampling
+
+Data Science section (5 questions / 7 minutes):
+1. One question on recall calculation.
+2. Everyone in a group shook hands with everyone else and there were 105 handshakes in total. How many people were there?
+3. One basic probability question.
+4. A theoretical sampling question.
+
+<sub>Topics: Math, Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi ×4 (last 2026-11-09), NIT Warangal ×4 (last 2026-11-09)</sub>
+
+### Q2. Smallest number whose digits multiply to N
+
+Given a number N (e.g. 36), decompose it into a number whose digits multiply to give N (e.g. 49 and 94 both give 4x9 = 36). Find the smallest such number.
+
+<sub>Topics: Greedy, Math · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi (2026-11-09), NIT Warangal (2026-11-09)</sub>
+
+### Q3. Matrix traversal maximum wedges
+
+An m x n matrix is given. A person enters from the top right, makes two left turns, and exits from the right side of the matrix. In this traversal, find the maximum number of wedges collected. (Poster's recollection is unclear; exact rules are missing.)
+
+<sub>Topics: DP, Arrays · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi (2026-11-09), NIT Warangal (2026-11-09)</sub>
+
+### Q4. DA section: business math
+
+DA section (15 questions / 20 minutes): very tough and long business math questions. The poster says they repeat.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi (2026-11-09), NIT Warangal (2026-11-09)</sub>
+
+## 2026-11-09 · IIT Delhi · FTE · Data and AI Analyst
+
+### Q1. Table data interpretation
+
+A numerical question based on a table. Answer given: 9.9 million. Table and wording missing.
+
+<sub>Topics: Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L29), [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L30) · Also asked at: NIT Karnataka Surathkal (2026-11-09)</sub>
+
+### Q2. Acceptance and denial rate
+
+Calculate the acceptance rate and denial rate from the given data.
+
+Answer given: Acceptance 96.28%, Denial 3.72%. Data missing.
+
+<sub>Topics: Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L29), [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L30) · Also asked at: NIT Karnataka Surathkal (2026-11-09)</sub>
+
+### Q3. Tables and pie charts numerical result
+
+A question based on tables and pie charts.
+
+Answer given: 61.67. Data missing; the message was cut off after this.
+
+<sub>Topics: Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L29), [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L30) · Also asked at: NIT Karnataka Surathkal (2026-11-09)</sub>
+
+## 2026-11-09 · IIIT Allahabad · FTE
+
+### Q1. Accordion OA sections
+
+1. Cognitive Assessment: Numerical, Logical, Abstract Reasoning
+2. English Assessment: Grammar, Reading Comprehension, Vocabulary
+3. Technical Assessment: Pseudocode, CS Fundamentals
+4. Coding Assessment: Programming / DSA
+5. Communication Assessment: Speaking, Listening, Communication
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L262)</sub>
+
 ## 2026-11-08 · MNNIT Allahabad · FTE · Data and AI Analyst
 
 ### Q1. Accordion OA pattern
@@ -55,7 +132,7 @@ Reported pattern:
 3. Topics: Verbal, Statistics, Logical Reasoning, AI concepts.
 4. Duration: around 1 hour (reported pattern).
 
-<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L114)</sub>
+<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L114) · Also asked at: IIT Delhi (2026-11-08)</sub>
 
 ## 2026-11-07 · IIT Delhi · FTE · Data and AI Analyst
 
@@ -213,7 +290,7 @@ D. Customer split becomes 30% SUV and 70% Sedan
 
 Answer given: B (second case). Revenues: A 158.4, B 226.8, C 180.0, D 154.8 crores.
 
-<sub>Topics: Aptitude, Guesstimates & Cases · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375)</sub>
+<sub>Topics: Aptitude, Guesstimates & Cases · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375) · Also asked at: IIT Delhi (2026-11-09), NIT Karnataka Surathkal (2026-11-09)</sub>
 
 ### Q14. Insurance subscribers additional revenue
 
@@ -253,7 +330,7 @@ D. Decrease by 5.2 percentage points
 
 Answer given: decrease by 4.8 percentage points (given rate 5.5, required rate 2/3).
 
-<sub>Topics: Aptitude, Math · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375)</sub>
+<sub>Topics: Aptitude, Math · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375) · Also asked at: IIT Delhi (2026-11-09), NIT Karnataka Surathkal (2026-11-09)</sub>
 
 ### Q17. Most effective advertising medium
 
@@ -266,7 +343,7 @@ D. Radio
 
 Answer given: Radio. The table values are not legible.
 
-<sub>Topics: Aptitude, Guesstimates & Cases · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375)</sub>
+<sub>Topics: Aptitude, Guesstimates & Cases · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375) · Also asked at: IIT Delhi (2026-11-09), NIT Karnataka Surathkal (2026-11-09)</sub>
 
 ### Q18. Expected surgeries from Beyonce's leads
 
@@ -316,7 +393,7 @@ AI/ML Engineer 2: 3 sections:
 
 PST: multiple-choice business problem-solving questions, 20 minutes, 15 problem-solving questions. Focus: numerical reasoning, structured thinking, basic business math. Marking: +1 for each correct answer, -0.5 for each wrong answer.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT BHU ×4 (last 2026-11-07), IIT Dhanbad (2026-11-07), IIT Roorkee ×2 (last 2026-11-08)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT BHU ×4 (last 2026-11-07), IIT Dhanbad (2026-11-07), IIT Roorkee ×3 (last 2026-11-08)</sub>
 
 ## 2026-11-06 · IIT Bhubaneswar · FTE · Data Engineer
 

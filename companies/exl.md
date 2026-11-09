@@ -1,13 +1,15 @@
 # EXL
 
-**14 questions** · 5 drives · latest 7 Nov 2026 · [← all companies](../README.md#companies)
+**15 questions** · 6 drives · latest 9 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Other](../topics/other.md) 10 · [OA Format](../topics/oa-format.md) 4  
+**Asks about:** [Other](../topics/other.md) 10 · [OA Format](../topics/oa-format.md) 5  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · IIT Dhanbad · FTE](#2026-11-09--iit-dhanbad--fte)
+  - [EXL OA pattern](#q1-exl-oa-pattern)
 - [2026-11-07 · Unknown · FTE · Analytics Consultant](#2026-11-07--unknown--fte--analytics-consultant)
   - [Calculate total revenue](#q1-calculate-total-revenue)
   - [Interactive sales dashboard](#q2-interactive-sales-dashboard)
@@ -22,7 +24,7 @@
 - [2026-11-03 · IIT BHU · FTE · Consultant](#2026-11-03--iit-bhu--fte--consultant)
   - [EXL Consultant OA format](#q1-exl-consultant-oa-format)
 - [2026-11-02 · IIT Hyderabad · FTE](#2026-11-02--iit-hyderabad--fte)
-  - [EXL OA pattern](#q1-exl-oa-pattern)
+  - [EXL OA pattern](#q1-exl-oa-pattern-1)
 - [2026-11-01 · IIT BHU · FTE · Analytics](#2026-11-01--iit-bhu--fte--analytics)
   - [EXL test pattern](#q1-exl-test-pattern)
 - [2026-10-28 · IIT BHU · FTE · Consultant I - Analytics (Band B1)](#2026-10-28--iit-bhu--fte--consultant-i---analytics-band-b1)
@@ -31,6 +33,14 @@
 </details>
 
 ---
+
+## 2026-11-09 · IIT Dhanbad · FTE
+
+### Q1. EXL OA pattern
+
+All MCQs: aptitude, visualisation (charts), Python code snippets and outputs, a few basic machine learning questions, and Excel and SQL questions. 60 min test, 50 questions, 3 timed sections (exact count per section not remembered). Overall level easy.
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/campus-nit-surathkal-placements/2026-11.jsonl#L17)</sub>
 
 ## 2026-11-07 · Unknown · FTE · Analytics Consultant
 

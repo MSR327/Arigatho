@@ -1,9 +1,19 @@
 # Arrays
 
-230 questions from 62 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+240 questions from 64 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Matrix traversal maximum wedges](../companies/accordion.md#q3-matrix-traversal-maximum-wedges) | |
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Search in rotated sorted array](../companies/infoedge.md#q6-search-in-rotated-sorted-array) | [LC 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) Medium |
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Split array into equal sum subarrays](../companies/infoedge.md#q5-split-array-into-equal-sum-subarrays) | ≈ [LC 1013](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) Easy |
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [3Sum](../companies/infoedge.md#q4-3sum) | [LC 15](https://leetcode.com/problems/3sum/) Medium |
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Container with most water](../companies/infoedge.md#q3-container-with-most-water) | [LC 11](https://leetcode.com/problems/container-with-most-water/) Medium |
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [First missing positive](../companies/infoedge.md#q1-first-missing-positive) | [LC 41](https://leetcode.com/problems/first-missing-positive/) Hard |
+| 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Merge Intervals](../companies/cars24.md#q2-merge-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
+| 2026-11-09 | [ZS](../companies/zs.md) | VIT Vellore | [Move zeroes to end](../companies/zs.md#q1-move-zeroes-to-end) | [LC 283](https://leetcode.com/problems/move-zeroes/) Easy |
+| 2026-11-08 | [Microsoft](../companies/microsoft.md) | IIT Madras | [Maximum Processor Power](../companies/microsoft.md#q2-maximum-processor-power) | [LC 740](https://leetcode.com/problems/delete-and-earn/) Medium |
+| 2026-11-08 | [Porter](../companies/porter.md) | Unknown | [Divide array into three subarrays with equal sum](../companies/porter.md#q2-divide-array-into-three-subarrays-with-equal-sum) | [LC 1013](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) Easy |
 | 2026-11-07 | [Unknown](../companies/unknown.md) | IIT Madras | [Drone launching pad departure times](../companies/unknown.md#q1-drone-launching-pad-departure-times) | ≈ [LC 1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) Medium |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Find the Town Judge](../companies/iqvia.md#q15-find-the-town-judge) | [LC 997](https://leetcode.com/problems/find-the-town-judge/) Easy |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Number of Islands](../companies/iqvia.md#q13-number-of-islands) | [LC 200](https://leetcode.com/problems/number-of-islands/) Medium |

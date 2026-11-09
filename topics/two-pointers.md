@@ -1,9 +1,12 @@
 # Two Pointers
 
-18 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+21 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [3Sum](../companies/infoedge.md#q4-3sum) | [LC 15](https://leetcode.com/problems/3sum/) Medium |
+| 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Container with most water](../companies/infoedge.md#q3-container-with-most-water) | [LC 11](https://leetcode.com/problems/container-with-most-water/) Medium |
+| 2026-11-09 | [ZS](../companies/zs.md) | VIT Vellore | [Move zeroes to end](../companies/zs.md#q1-move-zeroes-to-end) | [LC 283](https://leetcode.com/problems/move-zeroes/) Easy |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Detect Cycle in a Linked List](../companies/iqvia.md#q5-detect-cycle-in-a-linked-list) | [LC 141](https://leetcode.com/problems/linked-list-cycle/) Easy |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT BHU | [Detect cycle in a linked list](../companies/cars24.md#q5-detect-cycle-in-a-linked-list) | [LC 141](https://leetcode.com/problems/linked-list-cycle/) Easy |
 | 2026-11-05 | [HiLabs](../companies/hilabs.md) | IIT Delhi | [Trapping rainwater style coding question](../companies/hilabs.md#q1-trapping-rainwater-style-coding-question) | [LC 42](https://leetcode.com/problems/trapping-rain-water/) Hard |

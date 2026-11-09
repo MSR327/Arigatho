@@ -1,13 +1,17 @@
 # ZS
 
-**6 questions** · 4 drives · latest 7 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 5 drives · latest 9 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 2 · [Verbal](../topics/verbal.md) 1 · [Arrays](../topics/arrays.md) 1 · [SQL](../topics/sql.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
-**Seen at:** IIT BHU
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 3 · [Arrays](../topics/arrays.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Verbal](../topics/verbal.md) 1 · [SQL](../topics/sql.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Python & Pandas](../topics/python-pandas.md) 1  
+**Seen at:** IIT BHU, VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · VIT Vellore · FTE · DAA · Interview](#2026-11-09--vit-vellore--fte--daa--interview)
+  - [Move zeroes to end](#q1-move-zeroes-to-end)
+  - [Lift usage guesstimate](#q2-lift-usage-guesstimate)
+  - [Project-based Python questions](#q3-project-based-python-questions)
 - [2026-11-06 · IIT BHU · FTE · DAA · Interview](#2026-11-06--iit-bhu--fte--daa--interview)
   - [Business case study on company performance](#q1-business-case-study-on-company-performance)
   - [Guesstimate question](#q2-guesstimate-question)
@@ -22,6 +26,26 @@
 </details>
 
 ---
+
+## 2026-11-09 · VIT Vellore · FTE · DAA · Interview
+
+### Q1. Move zeroes to end
+
+A simple DSA array question: move zeroes to the end of the array.
+
+<sub>Topics: Arrays, Two Pointers · Similar: [LeetCode 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) (Easy) · Source: [chat, 9 Nov](../archive/campus-vit-vellore-placements/2026-11.jsonl#L12)</sub>
+
+### Q2. Lift usage guesstimate
+
+Guesstimate: How many members use your lift in your academic building on a normal day between 8 AM and 10 AM?
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 9 Nov](../archive/campus-vit-vellore-placements/2026-11.jsonl#L12)</sub>
+
+### Q3. Project-based Python questions
+
+The interviewer focused on projects, especially Python; many questions were Python based. Difficulty depended on the interviewer.
+
+<sub>Topics: Python & Pandas, HR & Behavioral · Source: [chat, 9 Nov](../archive/campus-vit-vellore-placements/2026-11.jsonl#L12)</sub>
 
 ## 2026-11-06 · IIT BHU · FTE · DAA · Interview
 

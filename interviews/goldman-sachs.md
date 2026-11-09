@@ -1,6 +1,6 @@
 # Goldman Sachs: interviews
 
-**2 written experiences**, newest first · [← all companies](README.md)
+**2 written experiences**, newest first · [OA questions](../companies/goldman-sachs.md) · [← all companies](README.md)
 
 ## 2025-26 season · Software Engineering - Analyst · IIT Kanpur · on-campus
 

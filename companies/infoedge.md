@@ -1,25 +1,38 @@
 # InfoEdge
 
-**28 questions** · 9 drives · latest 8 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**39 questions** · 11 drives · latest 9 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · [OOP](../topics/oop.md) 2 · [Binary Search](../topics/binary-search.md) 1 · +4 more  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Patna +1 more
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Strings](../topics/strings.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · +11 more  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Kurukshetra +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-11-05 · IIT Guwahati · FTE · Data Scientist](#2026-11-05--iit-guwahati--fte--data-scientist)
+- [2026-11-09 · Unknown · FTE](#2026-11-09--unknown--fte)
+  - [First missing positive](#q1-first-missing-positive)
+  - [Minimum parentheses](#q2-minimum-parentheses)
+  - [Container with most water](#q3-container-with-most-water)
+  - [3Sum](#q4-3sum)
+  - [Split array into equal sum subarrays](#q5-split-array-into-equal-sum-subarrays)
+  - [Search in rotated sorted array](#q6-search-in-rotated-sorted-array)
+  - [Sliding window maximum](#q7-sliding-window-maximum)
+  - [Longest palindromic substring](#q8-longest-palindromic-substring)
+  - [Wildcard pattern matching](#q9-wildcard-pattern-matching)
+  - [Bellman-Ford](#q10-bellman-ford)
+- [2026-11-09 · NIT Kurukshetra · FTE](#2026-11-09--nit-kurukshetra--fte)
   - [InfoEdge OA pattern](#q1-infoedge-oa-pattern)
+- [2026-11-05 · IIT Guwahati · FTE · Data Scientist](#2026-11-05--iit-guwahati--fte--data-scientist)
+  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-1)
 - [2026-11-02 · IIT Hyderabad · FTE · AI Scientist](#2026-11-02--iit-hyderabad--fte--ai-scientist)
   - [InfoEdge AI Scientist OA pattern](#q1-infoedge-ai-scientist-oa-pattern)
 - [2026-10-26 · MNNIT Allahabad · FTE](#2026-10-26--mnnit-allahabad--fte)
   - [OA pattern: aptitude/core CS MCQs + 2 DSA](#q1-oa-pattern-aptitudecore-cs-mcqs--2-dsa)
 - [2026-10-26 · IIT Guwahati · FTE](#2026-10-26--iit-guwahati--fte)
-  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-1)
-- [2026-10-26 · IIIT Allahabad · FTE](#2026-10-26--iiit-allahabad--fte)
   - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-2)
-- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
+- [2026-10-26 · IIIT Allahabad · FTE](#2026-10-26--iiit-allahabad--fte)
   - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-3)
+- [2026-10-25 · IIT Guwahati · FTE](#2026-10-25--iit-guwahati--fte)
+  - [InfoEdge OA pattern](#q1-infoedge-oa-pattern-4)
   - [InfoEdge OA format](#q2-infoedge-oa-format)
 - [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte)
   - [OA pattern: 40 MCQs on stats, ML, DL](#q1-oa-pattern-40-mcqs-on-stats-ml-dl)
@@ -49,6 +62,96 @@
 </details>
 
 ---
+
+## 2026-11-09 · Unknown · FTE
+
+### Q1. First missing positive
+
+Smallest Missing Positive.
+
+(Only the title was given.)
+
+<sub>Topics: Arrays, Hashing · Similar: [LeetCode 41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) (Hard) · Source: [chat, 9 Nov](../archive/inter-iit/2026-11.jsonl#L425)</sub>
+
+### Q2. Minimum parentheses
+
+Minimum Parentheses.
+
+(Only the title was given; statement missing.)
+
+<sub>Topics: Stack/Queue, Strings · Same problem: [LeetCode 921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) (Medium), minimum insertions to balance parentheses · Source: [chat, 9 Nov](../archive/inter-iit/2026-11.jsonl#L425)</sub>
+
+### Q3. Container with most water
+
+Container With Most Water.
+
+(Only the title was given.)
+
+<sub>Topics: Two Pointers, Arrays · Similar: [LeetCode 11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (Medium) · Source: [chat, 9 Nov](../archive/inter-iit/2026-11.jsonl#L425)</sub>
+
+### Q4. 3Sum
+
+3Sum.
+
+(Only the title was given.)
+
+<sub>Topics: Two Pointers, Sorting, Arrays · Similar: [LeetCode 15. 3Sum](https://leetcode.com/problems/3sum/) (Medium) · Source: [chat, 9 Nov](../archive/inter-iit/2026-11.jsonl#L425)</sub>
+
+### Q5. Split array into equal sum subarrays
+
+Split Array into Equal Sum Subarrays.
+
+(Only the title was given; statement missing.)
+
+<sub>Topics: Arrays · Same idea: [LeetCode 1013. Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) (Easy), prefix sums to split into equal-sum parts · Source: [chat, 9 Nov](../archive/inter-iit/2026-11.jsonl#L425)</sub>
+
+### Q6. Search in rotated sorted array
+
+Search in Rotated Sorted Array.
+
+(Only the title was given.)
+
+<sub>Topics: Binary Search, Arrays · Similar: [LeetCode 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (Medium) · Source: [chat, 9 Nov](../archive/inter-iit/2026-11.jsonl#L425)</sub>
+
+### Q7. Sliding window maximum
+
+Sliding Window Maximum.
+
+(Only the title was given.)
+
+<sub>Topics: Sliding Window, Heaps, Stack/Queue · Similar: [LeetCode 239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard) · Source: [chat, 9 Nov](../archive/inter-iit/2026-11.jsonl#L425)</sub>
+
+### Q8. Longest palindromic substring
+
+Longest Palindromic Substring.
+
+(Only the title was given.)
+
+<sub>Topics: Strings, DP · Similar: [LeetCode 5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (Medium) · Source: [chat, 9 Nov](../archive/inter-iit/2026-11.jsonl#L425)</sub>
+
+### Q9. Wildcard pattern matching
+
+Wildcard Pattern Matching.
+
+(Only the title was given.)
+
+<sub>Topics: Strings, DP · Similar: [LeetCode 44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) (Hard) · Source: [chat, 9 Nov](../archive/inter-iit/2026-11.jsonl#L425)</sub>
+
+### Q10. Bellman-Ford
+
+Bellman-Ford (shortest paths algorithm).
+
+(Only the title was given; statement missing.)
+
+<sub>Topics: Graphs · Same idea: [LeetCode 787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (Medium), Bellman-Ford edge relaxation shortest paths · Source: [chat, 9 Nov](../archive/inter-iit/2026-11.jsonl#L425)</sub>
+
+## 2026-11-09 · NIT Kurukshetra · FTE
+
+### Q1. InfoEdge OA pattern
+
+About 30-40 MCQs + 3 DSA questions.
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L90)</sub>
 
 ## 2026-11-05 · IIT Guwahati · FTE · Data Scientist
 
