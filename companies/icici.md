@@ -249,4 +249,4 @@ The OA had 50 questions, all MCQs, with simple questions on ML, Python and C++ a
 
 The OA had 50 MCQs only, with no DSA/coding. Questions were a random mix from Java, Python, R, C++ and C#, plus CN, OOPs, OS, DBMS and SQL. Topic weightage varied from paper to paper. The role was said to be Deputy Manager with some sales.
 
-<sub>Topics: OA Format · Source: [chat, 29 Sep](../archive/icici-oa/2026-09.jsonl#L8), [chat, 29 Sep](../archive/icici-oa/2026-09.jsonl#L9), [chat, 2 Oct](../archive/icici-oa/2026-10.jsonl#L58), [chat, 2 Oct](../archive/icici-oa/2026-10.jsonl#L59), [chat, 3 Oct](../archive/icici-oa/2026-10.jsonl#L62)</sub>
+<sub>Topics: OA Format · Source: [chat, 29 Sep](../archive/icici-oa/2026-09.jsonl#L8), [chat, 29 Sep](../archive/icici-oa/2026-09.jsonl#L9), [chat, 2 Oct](../archive/icici-oa/2026-10.jsonl#L58), [chat, 2 Oct](../archive/icici-oa/2026-10.jsonl#L59), [chat, 3 Oct](../archive/icici-oa/2026-10.jsonl#L62) · Also asked at: NIT Surathkal (2026-11-09)</sub>

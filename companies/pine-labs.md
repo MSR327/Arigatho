@@ -3,7 +3,7 @@
 **2 questions** · 2 drives · latest 9 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 2  
-**Seen at:** IIT BHU, NIT Kurukshetra
+**Seen at:** IIT BHU, IIT Hyderabad, NIT Kurukshetra
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -23,7 +23,7 @@
 
 Mostly fill in the blank questions, ML-related MCQs, and SQL. One coding question, also based on ML (poster did not remember the details).
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L89)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L89) · Also asked at: IIT Hyderabad (2026-11-09)</sub>
 
 ## 2026-11-09 · IIT BHU · FTE
 

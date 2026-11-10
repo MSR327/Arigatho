@@ -1,9 +1,11 @@
 # OOP
 
-31 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+33 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT Delhi | [Design a University Ticketing System](../companies/capital-one.md#q2-design-a-university-ticketing-system) | |
+| 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT BHU | [System design: classes, transactions, race conditions](../companies/capital-one.md#q1-system-design-classes-transactions-race-conditions) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Class vs object](../companies/cognizant.md#q8-class-vs-object) | |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | Unknown | [Implement multiple classes from specification (AI-assisted IDE)](../companies/blackrock.md#q1-implement-multiple-classes-from-specification-ai-assisted-ide) | |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Simple Bank System](../companies/capital-one.md#q1-simple-bank-system) | [LC 2043](https://leetcode.com/problems/simple-bank-system/) Medium |

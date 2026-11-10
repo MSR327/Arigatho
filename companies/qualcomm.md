@@ -1,13 +1,15 @@
 # Qualcomm
 
-**5 questions** · 5 drives · latest 8 Nov 2026 · [← all companies](../README.md#companies)
+**6 questions** · 6 drives · latest 9 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 5  
-**Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal, NIT Kurukshetra
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [ML/AI](../topics/ml-ai.md) 1  
+**Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · IIT Kharagpur/Kanpur · FTE · Software](#2026-11-09--iit-kharagpurkanpur--fte--software)
+  - [Qualcomm software OA content](#q1-qualcomm-software-oa-content)
 - [2026-11-07 · IIT Roorkee · FTE · SDE](#2026-11-07--iit-roorkee--fte--sde)
   - [Qualcomm SDE OA topics](#q1-qualcomm-sde-oa-topics)
 - [2026-11-04 · NIT Kurukshetra · FTE](#2026-11-04--nit-kurukshetra--fte)
@@ -22,6 +24,14 @@
 </details>
 
 ---
+
+## 2026-11-09 · IIT Kharagpur/Kanpur · FTE · Software
+
+### Q1. Qualcomm software OA content
+
+The software OA was all MCQs, entirely ML-based, with no DSA.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 9 Nov](../archive/qualcomm-oa/2026-11.jsonl#L25), [chat, 9 Nov](../archive/qualcomm-oa/2026-11.jsonl#L26), [chat, 9 Nov](../archive/qualcomm-oa/2026-11.jsonl#L27)</sub>
 
 ## 2026-11-07 · IIT Roorkee · FTE · SDE
 

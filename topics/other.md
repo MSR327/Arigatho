@@ -1,9 +1,11 @@
 # Other
 
-55 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+57 questions from 21 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT Delhi | [Codeforces 360B](../companies/capital-one.md#q1-codeforces-360b) | |
+| 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Graph update and query (segment tree / Fenwick tree)](../companies/juspay.md#q1-graph-update-and-query-segment-tree--fenwick-tree) | ≈ [LC 307](https://leetcode.com/problems/range-sum-query-mutable/) Medium |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Refurbishment Hub Inspection Pipeline](../companies/iqvia.md#q16-refurbishment-hub-inspection-pipeline) | |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Intercom Bypass](../companies/iqvia.md#q3-intercom-bypass) | |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Multi-City Fleet Relocation](../companies/iqvia.md#q2-multi-city-fleet-relocation) | |

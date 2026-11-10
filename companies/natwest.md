@@ -1,13 +1,15 @@
 # NatWest
 
-**45 questions** · 21 drives · latest 8 Nov 2026 · [19 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**46 questions** · 22 drives · latest 9 Nov 2026 · [19 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 10 · [OA Format](../topics/oa-format.md) 9 · [Graphs](../topics/graphs.md) 7 · [Greedy](../topics/greedy.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · +8 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Arrays](../topics/arrays.md) 10 · [Graphs](../topics/graphs.md) 7 · [Greedy](../topics/greedy.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · +8 more  
 **Seen at:** Delhi Technological University, Delhi Technological University (DTU), IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · IIT Guwahati · FTE](#2026-11-09--iit-guwahati--fte)
+  - [NatWest OA pattern](#q1-natwest-oa-pattern)
 - [2026-10-31 · IIT Roorkee · FTE](#2026-10-31--iit-roorkee--fte)
   - [NatWest DSA section duration](#q1-natwest-dsa-section-duration)
 - [2026-10-31 · IIT Delhi · FTE](#2026-10-31--iit-delhi--fte)
@@ -73,11 +75,19 @@
   - [Last Occurrence Map Problem](#q7-last-occurrence-map-problem)
   - [Minimum Distance Between a Point and a Line](#q8-minimum-distance-between-a-point-and-a-line)
 - [2026-10-10 · Delhi Technological University · FTE](#2026-10-10--delhi-technological-university--fte)
-  - [NatWest OA pattern](#q1-natwest-oa-pattern)
+  - [NatWest OA pattern](#q1-natwest-oa-pattern-1)
 
 </details>
 
 ---
+
+## 2026-11-09 · IIT Guwahati · FTE
+
+### Q1. NatWest OA pattern
+
+The OA had 4 different timed sections: 3 easy-medium DSA questions, time-based (aptitude) questions, visualisation questions, scheduling-optimisation questions, and some mathematics questions.
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/natwest-oa/2026-11.jsonl#L37)</sub>
 
 ## 2026-10-31 · IIT Roorkee · FTE
 

@@ -1,9 +1,9 @@
 # ZS
 
-**9 questions** · 5 drives · latest 9 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**12 questions** · 8 drives · latest 9 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 3 · [Arrays](../topics/arrays.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Verbal](../topics/verbal.md) 1 · [SQL](../topics/sql.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Python & Pandas](../topics/python-pandas.md) 1  
-**Seen at:** IIT BHU, VIT Vellore
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 5 · [OA Format](../topics/oa-format.md) 4 · [HR & Behavioral](../topics/hr-behavioral.md) 4 · [Arrays](../topics/arrays.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [Verbal](../topics/verbal.md) 1 · [SQL](../topics/sql.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · +1 more  
+**Seen at:** IIT BHU, IIT Indore, VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -12,6 +12,12 @@
   - [Move zeroes to end](#q1-move-zeroes-to-end)
   - [Lift usage guesstimate](#q2-lift-usage-guesstimate)
   - [Project-based Python questions](#q3-project-based-python-questions)
+- [2026-11-09 · IIT Indore · FTE · Associate DAA · Interview](#2026-11-09--iit-indore--fte--associate-daa--interview)
+  - [ZS interview topics](#q1-zs-interview-topics)
+- [2026-11-09 · IIT Indore · FTE · DAA · Interview](#2026-11-09--iit-indore--fte--daa--interview)
+  - [ZS DAA interview topics](#q1-zs-daa-interview-topics)
+- [2026-11-09 · IIT BHU · FTE · DAA](#2026-11-09--iit-bhu--fte--daa)
+  - [ZS DAA selection process pattern](#q1-zs-daa-selection-process-pattern)
 - [2026-11-06 · IIT BHU · FTE · DAA · Interview](#2026-11-06--iit-bhu--fte--daa--interview)
   - [Business case study on company performance](#q1-business-case-study-on-company-performance)
   - [Guesstimate question](#q2-guesstimate-question)
@@ -46,6 +52,30 @@ Guesstimate: How many members use your lift in your academic building on a norma
 The interviewer focused on projects, especially Python; many questions were Python based. Difficulty depended on the interviewer.
 
 <sub>Topics: Python & Pandas, HR & Behavioral · Source: [chat, 9 Nov](../archive/campus-vit-vellore-placements/2026-11.jsonl#L12)</sub>
+
+## 2026-11-09 · IIT Indore · FTE · Associate DAA · Interview
+
+### Q1. ZS interview topics
+
+ZS interviews mostly ask about projects, guesstimates, puzzles and case studies.
+
+<sub>Topics: Guesstimates & Cases, Puzzles, HR & Behavioral · Source: [chat, 9 Nov](../archive/inter-iit/2026-11.jsonl#L458)</sub>
+
+## 2026-11-09 · IIT Indore · FTE · DAA · Interview
+
+### Q1. ZS DAA interview topics
+
+Interview mostly asks about projects, guesstimates, puzzles and case study.
+
+<sub>Topics: Guesstimates & Cases, Puzzles, HR & Behavioral · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1015)</sub>
+
+## 2026-11-09 · IIT BHU · FTE · DAA
+
+### Q1. ZS DAA selection process pattern
+
+Aptitude test and numerical type questions, then a communication round, then an interview.
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L990)</sub>
 
 ## 2026-11-06 · IIT BHU · FTE · DAA · Interview
 

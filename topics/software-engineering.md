@@ -1,9 +1,12 @@
 # Software Engineering
 
-58 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+61 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT Delhi | [Design a University Ticketing System](../companies/capital-one.md#q2-design-a-university-ticketing-system) | |
+| 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT BHU | [System design: classes, transactions, race conditions](../companies/capital-one.md#q1-system-design-classes-transactions-race-conditions) | |
+| 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT BHU | [Ticket system design](../companies/capital-one.md#q2-ticket-system-design) | |
 | 2026-11-08 | [Capital One](../companies/capital-one.md) | IIT Kharagpur | [Round 2: DSA and system design](../companies/capital-one.md#q1-round-2-dsa-and-system-design) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [What is a cloud region](../companies/cognizant.md#q6-what-is-a-cloud-region) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Service model with self-managed VMs](../companies/cognizant.md#q5-service-model-with-self-managed-vms) | |

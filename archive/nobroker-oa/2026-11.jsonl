@@ -5,3 +5,5 @@
 {"id": 20464, "group": "nobroker-oa", "sent_at": "2026-11-04T12:41:54.702271+00:00", "text": "if knows do share", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 23632, "group": "nobroker-oa", "sent_at": "2026-11-09T04:27:24.76999+00:00", "text": "nobroker ads anywhere?", "author_tag": "IITM", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 23633, "group": "nobroker-oa", "sent_at": "2026-11-09T04:27:33.163366+00:00", "text": "iit r", "author_tag": "IITR", "reply_to": {"id": 23632, "text": "nobroker ads anywhere?", "author_tag": "IITM"}, "attachment": null, "deleted": false}
+{"id": 24168, "group": "nobroker-oa", "sent_at": "2026-11-09T14:02:22.418724+00:00", "text": "nobroker sde anywhere?", "author_tag": "IITG", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 24195, "group": "nobroker-oa", "sent_at": "2026-11-09T15:12:13.244718+00:00", "text": "IITR, but the oa is not scheduled yet", "author_tag": "IITR", "reply_to": {"id": 24168, "text": "nobroker sde anywhere?", "author_tag": "IITG"}, "attachment": null, "deleted": false}

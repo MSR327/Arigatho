@@ -1,9 +1,12 @@
 # Greedy
 
-103 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+106 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | NIT Delhi | [Task Scheduling](../companies/eternal-zomato.md#q1-task-scheduling) | ≈ [LC 621](https://leetcode.com/problems/task-scheduler/) Medium |
+| 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Add a permutation to maximize equal elements](../companies/juspay.md#q3-add-a-permutation-to-maximize-equal-elements) | |
+| 2026-11-09 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Maximize number of valleys after rearranging](../companies/microsoft.md#q2-maximize-number-of-valleys-after-rearranging) | ≈ [LC 324](https://leetcode.com/problems/wiggle-sort-ii/) Medium |
 | 2026-11-09 | [Microsoft](../companies/microsoft.md) | Unknown | [Minimum replacements to make k-complete word](../companies/microsoft.md#q1-minimum-replacements-to-make-k-complete-word) | [CF 1332C](https://codeforces.com/problemset/problem/1332/C) rated 1500 |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Smallest number whose digits multiply to N](../companies/accordion.md#q2-smallest-number-whose-digits-multiply-to-n) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Maximum profit with bitwise OR constraint](../companies/cognizant.md#q12-maximum-profit-with-bitwise-or-constraint) | |

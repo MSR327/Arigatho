@@ -1,9 +1,12 @@
 # Web Dev
 
-55 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+58 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Indore | [Frontend with JavaScript DOM](../companies/accenture.md#q3-frontend-with-javascript-dom) | |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Web dev: edit HTML, CSS and JS files](../companies/accenture.md#q3-web-dev-edit-html-css-and-js-files) | |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [JavaScript toggle button](../companies/accenture.md#q3-javascript-toggle-button) | |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [REST API with matching and request-handling functions](../companies/blackrock.md#q2-rest-api-with-matching-and-request-handling-functions) | |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [Coding: REST API match and handle functions](../companies/blackrock.md#q2-coding-rest-api-match-and-handle-functions) | |
 | 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Vibe coding backend API assignment](../companies/denso.md#q4-vibe-coding-backend-api-assignment) | |

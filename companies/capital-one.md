@@ -1,13 +1,22 @@
 # Capital One
 
-**34 questions** · 15 drives · latest 9 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**40 questions** · 18 drives · latest 9 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 8 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [Hashing](../topics/hashing.md) 3 · [DP](../topics/dp.md) 2 · [Binary Search](../topics/binary-search.md) 2 · +11 more  
-**Seen at:** IIT BHU, IIT Bombay, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, MNNIT Allahabad +1 more
+**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 9 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Software Engineering](../topics/software-engineering.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 3 · [OOP](../topics/oop.md) 3 · +12 more  
+**Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · IIT Delhi · FTE](#2026-11-09--iit-delhi--fte)
+  - [Codeforces 360B](#q1-codeforces-360b)
+  - [Design a University Ticketing System](#q2-design-a-university-ticketing-system)
+- [2026-11-09 · IIT BHU · FTE](#2026-11-09--iit-bhu--fte)
+  - [Round 2 DSA (hard, probably DP)](#q1-round-2-dsa-hard-probably-dp)
+  - [Ticket system design](#q2-ticket-system-design)
+  - [Second test: 3 DSA questions](#q3-second-test-3-dsa-questions)
+- [2026-11-09 · IIT BHU · FTE · Interview](#2026-11-09--iit-bhu--fte--interview)
+  - [System design: classes, transactions, race conditions](#q1-system-design-classes-transactions-race-conditions)
 - [2026-11-08 · Unknown · FTE · Interview](#2026-11-08--unknown--fte--interview)
   - [Round 2 system design expectations](#q1-round-2-system-design-expectations)
 - [2026-11-08 · IIT Kharagpur · FTE · Interview](#2026-11-08--iit-kharagpur--fte--interview)
@@ -61,6 +70,62 @@
 </details>
 
 ---
+
+## 2026-11-09 · IIT Delhi · FTE
+
+### Q1. Codeforces 360B
+
+Round 2 Q1: Codeforces 360B. The statement was not transcribed in the message.
+
+<sub>Topics: Other · Source: [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L88) · Also asked at: IIT Delhi (2026-11-09), IIT BHU ×3 (last 2026-11-09)</sub>
+
+### Q2. Design a University Ticketing System
+
+Design a low-level architecture for an IT Helpdesk ticketing system used by a university.
+
+Users: Students and Staff can create tickets. Support Agents resolve them.
+
+Ticket States: A ticket lifecycle includes the following states: OPEN, ASSIGNED, IN_PROGRESS, RESOLVED, CLOSED, and REOPENED.
+
+Agent Constraints: An Agent can self-assign tickets, but they have a strict capacity limit: an agent can hold at most 5 active tickets (tickets that are not resolved/closed) at any given time.
+
+Reopen Logic: If a ticket is marked RESOLVED, the requester has exactly 3 days to reopen it if the issue persists. If they do, the state becomes REOPENED. If 3 days pass without action, the system permanently moves the ticket to CLOSED.
+
+Your Task:
+
+- Define the core Classes and Attributes.
+- Outline the Valid and Invalid State Transitions.
+- Identify potential Race Conditions.
+
+<sub>Topics: Software Engineering, OOP · Source: [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L88) · Also asked at: IIT Delhi (2026-11-09)</sub>
+
+## 2026-11-09 · IIT BHU · FTE
+
+### Q1. Round 2 DSA (hard, probably DP)
+
+1 DSA question, "like I guess DP hard". The full statement was not shared.
+
+<sub>Topics: DP · Source: [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L82), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L83), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L84), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L85), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L86) · Also asked at: IIT BHU (2026-11-09)</sub>
+
+### Q2. Ticket system design
+
+1 system design question, like a ticket system. The answer is written in a text editor (like Microsoft Word): write the system attributes, relationships and pseudocode. No canvas drag/drop. The full statement was not shared.
+
+<sub>Topics: Software Engineering · Source: [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L82), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L83), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L84), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L85), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L86) · Also asked at: IIT BHU (2026-11-09)</sub>
+
+### Q3. Second test: 3 DSA questions
+
+Another Capital One second test had 3 DSA questions of medium to hard level. Details were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L82), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L83), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L84), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L85), [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L86)</sub>
+
+## 2026-11-09 · IIT BHU · FTE · Interview
+
+### Q1. System design: classes, transactions, race conditions
+
+Subjective system design question: design the classes, functionalities, pseudo-code, transactions, handle race conditions, and define database relations and tables. (The specific system was not mentioned.)
+
+<sub>Topics: Software Engineering, OOP · Source: [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L334) · Also asked at: IIT BHU ×2 (last 2026-11-09)</sub>
 
 ## 2026-11-08 · Unknown · FTE · Interview
 

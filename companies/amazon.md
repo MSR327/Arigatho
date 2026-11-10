@@ -1,13 +1,17 @@
 # Amazon
 
-**15 questions** · 12 drives · latest 8 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**17 questions** · 14 drives · latest 9 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 14 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1  
 **Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Madras, MNNIT Allahabad +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · MNNIT Allahabad · FTE](#2026-11-09--mnnit-allahabad--fte)
+  - [Amazon AI-assisted coding round](#q1-amazon-ai-assisted-coding-round)
+- [2026-11-09 · IIT Madras · FTE · SDE-1](#2026-11-09--iit-madras--fte--sde-1)
+  - [Amazon SDE-1 OA format](#q1-amazon-sde-1-oa-format)
 - [2026-11-08 · MNNIT Allahabad · FTE](#2026-11-08--mnnit-allahabad--fte)
   - [Amazon OA structure: DSA and AI-assisted coding](#q1-amazon-oa-structure-dsa-and-ai-assisted-coding)
 - [2026-11-05 · Unknown · FTE](#2026-11-05--unknown--fte)
@@ -39,6 +43,22 @@
 </details>
 
 ---
+
+## 2026-11-09 · MNNIT Allahabad · FTE
+
+### Q1. Amazon AI-assisted coding round
+
+The AI-assisted coding round was medium to hard in difficulty. It involved backend debugging only (no frontend). Advice given: solve the DSA part and attempt the AI-assisted coding part partially.
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/amazon-oa/2026-11.jsonl#L96), [chat, 9 Nov](../archive/amazon-oa/2026-11.jsonl#L100)</sub>
+
+## 2026-11-09 · IIT Madras · FTE · SDE-1
+
+### Q1. Amazon SDE-1 OA format
+
+The DSA level is 1500-1600 rated Codeforces problems, plus a debugging question, for 60 minutes.
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/amazon-oa/2026-11.jsonl#L89)</sub>
 
 ## 2026-11-08 · MNNIT Allahabad · FTE
 
@@ -98,7 +118,7 @@ The OA was on HackerRank (as the poster believed). It included an AI-assisted de
 
 The details of the specific bugs and the DSA questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L37), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L38), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L39), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L44) · Also asked at: BITS Pilani (2026-11-08)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L37), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L38), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L39), [chat, 5 Nov](../archive/amazon-oa/2026-11.jsonl#L44) · Also asked at: BITS Pilani (2026-11-08), IIT Delhi (2026-11-09)</sub>
 
 ### Q2. Amazon OA format: coding and debugging
 

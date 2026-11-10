@@ -1,8 +1,8 @@
 # Microsoft
 
-**12 questions** · 9 drives · latest 9 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 10 drives · latest 9 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Arrays](../topics/arrays.md) 3 · [Hashing](../topics/hashing.md) 2 · [Strings](../topics/strings.md) 2 · [Python & Pandas](../topics/python-pandas.md) 1 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · +4 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Arrays](../topics/arrays.md) 4 · [Hashing](../topics/hashing.md) 3 · [Strings](../topics/strings.md) 3 · [Sorting](../topics/sorting.md) 2 · [Greedy](../topics/greedy.md) 2 · [Python & Pandas](../topics/python-pandas.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +5 more  
 **Seen at:** BITS Pilani, IIT Delhi, IIT Guwahati, IIT Madras, NIT Allahabad (MNNIT), NIT Kurukshetra
 
 <details>
@@ -10,6 +10,10 @@
 
 - [2026-11-09 · Unknown · FTE · SDE](#2026-11-09--unknown--fte--sde)
   - [Minimum replacements to make k-complete word](#q1-minimum-replacements-to-make-k-complete-word)
+- [2026-11-09 · IIT Guwahati · FTE](#2026-11-09--iit-guwahati--fte)
+  - [Count pairs whose concatenation can form a palindrome](#q1-count-pairs-whose-concatenation-can-form-a-palindrome)
+  - [Maximize number of valleys after rearranging](#q2-maximize-number-of-valleys-after-rearranging)
+  - [Microsoft OA pattern](#q3-microsoft-oa-pattern)
 - [2026-11-08 · IIT Madras · FTE](#2026-11-08--iit-madras--fte)
   - [Parent of a process in a tree](#q1-parent-of-a-process-in-a-tree)
   - [Maximum Processor Power](#q2-maximum-processor-power)
@@ -43,6 +47,40 @@ A word s of length n is called k-complete if s is a palindrome and s has a perio
 (Constraints and examples were not given in the message.)
 
 <sub>Topics: Strings, Greedy · Same problem: [Codeforces 1332C. K-Complete Word](https://codeforces.com/problemset/problem/1332/C) (rated 1500), palindrome plus period k via grouped character counts · Source: [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L14)</sub>
+
+## 2026-11-09 · IIT Guwahati · FTE
+
+### Q1. Count pairs whose concatenation can form a palindrome
+
+Given a vector of `n` strings, count the total number of pairs `(i, j)` such that after rearranging the concatenation of the i-th and j-th strings, it forms a palindrome. Solve in order of n.
+
+Constraints:
+- sum of lengths of all strings <= 1e5
+- length of each string <= 26 (a bitmask map can be used)
+
+Shared approach: keep a 26-bit parity mask per string; a pair works if the XOR of masks has at most one set bit. Use a hashmap of seen masks and check the same mask and `mask ^ (1<<k)` for k in 0..25.
+
+<sub>Topics: Hashing, Bit Manipulation, Strings · Same idea: [LeetCode 1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) (Medium), letter parity bitmask for palindrome checks · Source: [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L16), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L18)</sub>
+
+### Q2. Maximize number of valleys after rearranging
+
+Given an array of n integers, rearrange its elements to maximize the number of valleys.
+
+An index i is a valley if:
+- arr[i-1] > arr[i]
+- arr[i+1] > arr[i]
+
+Find the maximum number of valleys possible after rearranging the array.
+
+Shared approach: sorting + greedy.
+
+<sub>Topics: Sorting, Greedy, Arrays · Same idea: [LeetCode 324. Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) (Medium), sort then interleave to create valleys · Source: [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L16), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L18)</sub>
+
+### Q3. Microsoft OA pattern
+
+Microsoft OA had 2 DSA questions, easy-medium difficulty. (Question statements not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1023)</sub>
 
 ## 2026-11-08 · IIT Madras · FTE
 

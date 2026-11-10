@@ -72,7 +72,7 @@ Data Science section (5 questions / 7 minutes):
 
 Given a number N (e.g. 36), decompose it into a number whose digits multiply to give N (e.g. 49 and 94 both give 4x9 = 36). Find the smallest such number.
 
-<sub>Topics: Greedy, Math · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi (2026-11-09), NIT Warangal (2026-11-09)</sub>
+<sub>Topics: Greedy, Math · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi (2026-11-09), NIT Warangal (2026-11-09), IIT BHU ×2 (last 2026-11-09)</sub>
 
 ### Q3. Matrix traversal maximum wedges
 
@@ -393,7 +393,7 @@ AI/ML Engineer 2: 3 sections:
 
 PST: multiple-choice business problem-solving questions, 20 minutes, 15 problem-solving questions. Focus: numerical reasoning, structured thinking, basic business math. Marking: +1 for each correct answer, -0.5 for each wrong answer.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT BHU ×4 (last 2026-11-07), IIT Dhanbad (2026-11-07), IIT Roorkee ×3 (last 2026-11-08)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT Dhanbad (2026-11-07), IIT Roorkee ×3 (last 2026-11-08), IIT BHU ×7 (last 2026-11-09)</sub>
 
 ## 2026-11-06 · IIT Bhubaneswar · FTE · Data Engineer
 

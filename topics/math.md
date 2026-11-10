@@ -1,9 +1,10 @@
 # Math
 
-203 questions from 53 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+204 questions from 53 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Indore | [Count elements whose first and last digit sum to 9](../companies/accenture.md#q1-count-elements-whose-first-and-last-digit-sum-to-9) | |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Smallest number whose digits multiply to N](../companies/accordion.md#q2-smallest-number-whose-digits-multiply-to-n) | |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Data Science section: recall, handshakes, probability, sampling](../companies/accordion.md#q1-data-science-section-recall-handshakes-probability-sampling) | |
 | 2026-11-08 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Product of two odd numbers](../companies/iqvia.md#q2-product-of-two-odd-numbers) | |

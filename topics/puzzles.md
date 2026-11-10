@@ -1,9 +1,12 @@
 # Puzzles
 
-24 questions from 8 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+27 questions from 10 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal PA interview rounds](../companies/eternal-zomato.md#q1-eternal-pa-interview-rounds) | |
+| 2026-11-09 | [ZS](../companies/zs.md) | IIT Indore | [ZS interview topics](../companies/zs.md#q1-zs-interview-topics) | |
+| 2026-11-09 | [ZS](../companies/zs.md) | IIT Indore | [ZS DAA interview topics](../companies/zs.md#q1-zs-daa-interview-topics) | |
 | 2026-11-03 | [KLA](../companies/kla.md) | IIT Bhubaneswar | [Minimum races to find top 3 of 25 horses](../companies/kla.md#q3-minimum-races-to-find-top-3-of-25-horses) | |
 | 2026-11-03 | [KLA](../companies/kla.md) | IIT Bhubaneswar | [15 x 20 bar breaking game](../companies/kla.md#q2-15-x-20-bar-breaking-game) | ≈ [LC 292](https://leetcode.com/problems/nim-game/) Easy |
 | 2026-11-03 | [KLA](../companies/kla.md) | IIT Bhubaneswar | [Ball bag reduction: last ball left](../companies/kla.md#q1-ball-bag-reduction-last-ball-left) | ≈ [LC 1046](https://leetcode.com/problems/last-stone-weight/) Easy |

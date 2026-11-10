@@ -1,9 +1,14 @@
 # Arrays
 
-240 questions from 64 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+245 questions from 65 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Indore | [Count elements whose first and last digit sum to 9](../companies/accenture.md#q1-count-elements-whose-first-and-last-digit-sum-to-9) | |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Average of numbers in ith row of grid](../companies/accenture.md#q1-average-of-numbers-in-ith-row-of-grid) | |
+| 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Add a permutation to maximize equal elements](../companies/juspay.md#q3-add-a-permutation-to-maximize-equal-elements) | |
+| 2026-11-09 | [Capgemini](../companies/capgemini.md) | IIT Guwahati | [DSU-based graph question with array input](../companies/capgemini.md#q3-dsu-based-graph-question-with-array-input) | ≈ [LC 547](https://leetcode.com/problems/number-of-provinces/) Medium |
+| 2026-11-09 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Maximize number of valleys after rearranging](../companies/microsoft.md#q2-maximize-number-of-valleys-after-rearranging) | ≈ [LC 324](https://leetcode.com/problems/wiggle-sort-ii/) Medium |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Matrix traversal maximum wedges](../companies/accordion.md#q3-matrix-traversal-maximum-wedges) | |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Search in rotated sorted array](../companies/infoedge.md#q6-search-in-rotated-sorted-array) | [LC 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) Medium |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Split array into equal sum subarrays](../companies/infoedge.md#q5-split-array-into-equal-sum-subarrays) | ≈ [LC 1013](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) Easy |

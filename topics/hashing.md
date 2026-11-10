@@ -1,9 +1,10 @@
 # Hashing
 
-106 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+107 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Count pairs whose concatenation can form a palindrome](../companies/microsoft.md#q1-count-pairs-whose-concatenation-can-form-a-palindrome) | ≈ [LC 1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) Medium |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [First missing positive](../companies/infoedge.md#q1-first-missing-positive) | [LC 41](https://leetcode.com/problems/first-missing-positive/) Hard |
 | 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Online Election](../companies/cars24.md#q5-online-election) | [LC 911](https://leetcode.com/problems/online-election/) Medium |
 | 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Time Based Key-Value Store](../companies/cars24.md#q4-time-based-key-value-store) | [LC 981](https://leetcode.com/problems/time-based-key-value-store/) Medium |

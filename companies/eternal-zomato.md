@@ -1,13 +1,22 @@
 # Eternal (Zomato)
 
-**175 questions** · 81 drives · latest 9 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**180 questions** · 85 drives · latest 9 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 57 · [SQL](../topics/sql.md) 24 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 12 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +22 more  
-**Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +9 more
+**Asks about:** [OA Format](../topics/oa-format.md) 60 · [SQL](../topics/sql.md) 26 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 13 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
+**Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +11 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · NIT Delhi · FTE · SDE](#2026-11-09--nit-delhi--fte--sde)
+  - [Task Scheduling](#q1-task-scheduling)
+- [2026-11-09 · MNNIT Allahabad · FTE · SDE](#2026-11-09--mnnit-allahabad--fte--sde)
+  - [Eternal SDE OA pattern](#q1-eternal-sde-oa-pattern)
+- [2026-11-09 · IIT Roorkee · FTE · Product Analyst](#2026-11-09--iit-roorkee--fte--product-analyst)
+  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern)
+  - [Eternal Product Analyst OA pattern](#q2-eternal-product-analyst-oa-pattern)
+- [2026-11-09 · IIT Indore · FTE · Product Analyst · Interview](#2026-11-09--iit-indore--fte--product-analyst--interview)
+  - [Eternal PA interview rounds](#q1-eternal-pa-interview-rounds)
 - [2026-11-07 · IIT Indore · FTE · APM](#2026-11-07--iit-indore--fte--apm)
   - [APM test contents](#q1-apm-test-contents)
 - [2026-11-03 · IIT Roorkee · FTE](#2026-11-03--iit-roorkee--fte)
@@ -54,7 +63,7 @@
   - [Min and max cost of partitioning array into k parts](#q1-min-and-max-cost-of-partitioning-array-into-k-parts)
   - [Count triplets of nodes with no direct edges in a tree](#q2-count-triplets-of-nodes-with-no-direct-edges-in-a-tree)
 - [2026-10-27 · IIT Guwahati · FTE · Product Analyst](#2026-10-27--iit-guwahati--fte--product-analyst)
-  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern)
+  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern-1)
 - [2026-10-27 · IIT Dhanbad · FTE · SDE](#2026-10-27--iit-dhanbad--fte--sde)
   - [Minimum sum assignment on a tree](#q1-minimum-sum-assignment-on-a-tree)
 - [2026-10-27 · IIT Dhanbad · FTE · SDE · Interview](#2026-10-27--iit-dhanbad--fte--sde--interview)
@@ -80,7 +89,7 @@
 - [2026-10-25 · IIT Roorkee · FTE · SDE](#2026-10-25--iit-roorkee--fte--sde)
   - [SDE OA MCQ topics](#q1-sde-oa-mcq-topics)
 - [2026-10-25 · IIT Guwahati · FTE · Product Analyst](#2026-10-25--iit-guwahati--fte--product-analyst)
-  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern-1)
+  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern-2)
 - [2026-10-25 · IIT Guwahati · FTE · Data Scientist](#2026-10-25--iit-guwahati--fte--data-scientist)
   - [Eternal Data Scientist OA topics](#q1-eternal-data-scientist-oa-topics)
 - [2026-10-24 · VNIT Nagpur · FTE · Product Analyst](#2026-10-24--vnit-nagpur--fte--product-analyst)
@@ -114,7 +123,7 @@
   - [Customer Country City (SQL)](#q2-customer-country-city-sql)
   - [Log Bids (SQL)](#q3-log-bids-sql)
 - [2026-10-20 · IIT Guwahati · FTE · Product Analyst](#2026-10-20--iit-guwahati--fte--product-analyst)
-  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern-2)
+  - [Eternal Product Analyst OA pattern](#q1-eternal-product-analyst-oa-pattern-3)
 - [2026-10-20 · IIT Bombay · FTE · Product Analyst · Interview](#2026-10-20--iit-bombay--fte--product-analyst--interview)
   - [Eternal Product Analyst interview topics](#q1-eternal-product-analyst-interview-topics)
 - [2026-10-18 · IIT Guwahati · FTE · Data Science](#2026-10-18--iit-guwahati--fte--data-science)
@@ -268,6 +277,44 @@
 </details>
 
 ---
+
+## 2026-11-09 · NIT Delhi · FTE · SDE
+
+### Q1. Task Scheduling
+
+Eternal SDE OA questions are reported to repeat; at NIT Delhi the question "Task Scheduling" was asked. The full statement was not shared.
+
+<sub>Topics: Greedy · Same idea: [LeetCode 621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) (Medium), task scheduling with greedy counting · Source: [chat, 9 Nov](../archive/eternal-oa/2026-11.jsonl#L53)</sub>
+
+## 2026-11-09 · MNNIT Allahabad · FTE · SDE
+
+### Q1. Eternal SDE OA pattern
+
+2 DSA questions, one of which was based on meet in the middle. (Specific problem statements not given.)
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1018)</sub>
+
+## 2026-11-09 · IIT Roorkee · FTE · Product Analyst
+
+### Q1. Eternal Product Analyst OA pattern
+
+21 MCQs based on aptitude, SQL and easy stuff, followed by 3 SQL coding questions. Difficulty was easy to medium.
+
+<sub>Topics: OA Format, SQL, Aptitude · Source: [chat, 9 Nov](../archive/eternal-oa/2026-11.jsonl#L48)</sub>
+
+### Q2. Eternal Product Analyst OA pattern
+
+Mostly aptitude questions, a few Python MCQs, and 3 SQL coding questions (two basic joins and one requiring a window function). No DSA. Easy, very doable paper overall. (Individual questions not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1037), [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1038)</sub>
+
+## 2026-11-09 · IIT Indore · FTE · Product Analyst · Interview
+
+### Q1. Eternal PA interview rounds
+
+The interview consisted of two rounds covering project and internship discussions, SQL (from basic to moderately difficult), RCA and Zomato-related business case studies, guesstimates, ranking frameworks, and puzzles.
+
+<sub>Topics: Guesstimates & Cases, SQL, Puzzles · Source: [chat, 9 Nov](../archive/eternal-oa/2026-11.jsonl#L55) · Also asked at: IIT Indore (2026-11-09)</sub>
 
 ## 2026-11-07 · IIT Indore · FTE · APM
 
@@ -553,7 +600,7 @@ There were some core branch questions in the OA as well. 2 SQL questions (one mo
 - Round 2: System design of one of the candidate's projects + DSA + resume + CS fundamentals.
 - HR: typical questions around deadlines and similar.
 
-<sub>Topics: OA Format, HR & Behavioral · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L346)</sub>
+<sub>Topics: OA Format, HR & Behavioral · Source: [chat, 28 Oct](../archive/eternal-oa/2026-10.jsonl#L346) · Also asked at: IIT Indore ×2 (last 2026-11-09)</sub>
 
 ## 2026-10-27 · IIT Roorkee · FTE · SDE
 
@@ -1014,37 +1061,37 @@ Missing: the whole problem.
 
 Product Analyst OA (90 minutes total: 20 aptitude/probability/statistics/quant/electrical-core MCQs, 2 SQL queries, 3 Python/Pandas MCQs and 2 Python/Pandas coding questions). If the probability that an archer strikes the target is 30% and the archer makes 10 attempts, what are the mean and variance of the number of successful attempts? Options: 3, 2.1; 3, 2.4; 7, 2.1; 7, 2.4.
 
-<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×4 (last 2026-10-27)</sub>
+<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×5 (last 2026-11-09)</sub>
 
 ### Q2. Highest power of 24 dividing 150!
 
 What is the highest power of 24 that divides 150! exactly? Options: 42, 44, 46, 48.
 
-<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×4 (last 2026-10-27)</sub>
+<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×5 (last 2026-11-09)</sub>
 
 ### Q3. Normal distribution: P(mean > 55)
 
 A dataset is normally distributed with mean 50 and standard deviation 5. What is the probability of selecting a sample with a mean greater than 55? Options: approximately 2.28%, 15.87%, 50%, 97.72%.
 
-<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×4 (last 2026-10-27)</sub>
+<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×5 (last 2026-11-09)</sub>
 
 ### Q4. Painted cube: red and blue faces
 
 A cube of side 18 cm has two opposite faces coloured red and the other four faces coloured blue. It is cut into 729 equal smaller cubes. How many of the smaller cubes have at least one red face and at least one blue face?
 
-<sub>Topics: Aptitude · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×4 (last 2026-10-27)</sub>
+<sub>Topics: Aptitude · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×5 (last 2026-11-09)</sub>
 
 ### Q5. Bayes: did it snow last night?
 
 A girl knows the probability that it snows on any given night is 1/8. Her father tells her that it snowed last night. Her second daughter says the father lies with probability 5/6. Based on this, what is the probability that it actually snowed last night?
 
-<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×4 (last 2026-10-27)</sub>
+<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×5 (last 2026-11-09)</sub>
 
 ### Q6. SQL: email campaign analysis
 
 Tables: campaigns(id, campaign_name) and email_campaigns(campaign_id, emails_sent, emails_opened). For each campaign, output campaign_name, total_emails_sent, total_emails_opened and total_emails_not_opened, one row per campaign. Sample campaigns: (1, Summer Sale), (2, Diwali Offer), (3, New User Promo). Sample email_campaigns: (1, 1000, 700), (1, 500, 300), (2, 2000, 1200), (2, 1000, 600), (3, 800, 500). Expected output: Summer Sale 1500 1000 500; Diwali Offer 3000 1800 1200; New User Promo 800 500 300.
 
-<sub>Topics: SQL · Same idea: [LeetCode 1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) (Easy), GROUP BY with SUM aggregates per group · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT Roorkee (2026-10-21), IIT Dhanbad ×3 (last 2026-10-27)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) (Easy), GROUP BY with SUM aggregates per group · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT Roorkee (2026-10-21), IIT Dhanbad ×4 (last 2026-11-09)</sub>
 
 ### Q7. Python / Pandas section (3 MCQs + 2 coding)
 
@@ -1463,7 +1510,7 @@ Return the maximum total nutrition you can obtain.
 
 Eternal (Zomato) OA for SDE & PA roles. Duration: 90 min. 15 MCQs covering OS, DBMS, SQL, Computer Networks and Docker, plus 3 DSA questions.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L112), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L113) · Also asked at: IIT Dhanbad (2026-10-13), IIT BHU (2026-10-28)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L112), [chat, 29 Sep](../archive/inter-nit/2026-09.jsonl#L113) · Also asked at: IIT Dhanbad (2026-10-13), IIT BHU ×2 (last 2026-11-09)</sub>
 
 ### Q2. Second highest frequency element in an array
 
@@ -1578,7 +1625,7 @@ Aptitude topics: mean, variance, standard deviation, normal distribution/z-score
 
 Python/Pandas topics: DataFrame creation/selection, loc/iloc, Boolean filtering, column operations, missing values, groupby/aggregation, transform/filter, data-type conversion, dates, categorical data, `pd.cut()`. One coding question was on pandas; coding questions were practical tabular-data manipulation and considered easy.
 
-<sub>Topics: OA Format · Source: [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L35), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L39), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1944-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1988-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Hyderabad (2026-10-21), IIT Dhanbad ×2 (last 2026-10-27), IIT BHU ×3 (last 2026-10-28)</sub>
+<sub>Topics: OA Format · Source: [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L35), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L39), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1944-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1988-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Hyderabad (2026-10-21), IIT BHU ×3 (last 2026-10-28), IIT Dhanbad ×3 (last 2026-11-09)</sub>
 
 ### Q2. Device traffic and cost for May per MAC
 
@@ -1609,7 +1656,7 @@ AA:BB:CC:DD:EE:02 | 320     | 192.00
 AA:BB:CC:DD:EE:03 | 150     | 60.00
 ```
 
-<sub>Topics: SQL · Same idea: [LeetCode 1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) (Easy), join tables, group by key, sum aggregates · Source: [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L35), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L39), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1944-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1988-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Roorkee (2026-10-21), IIT Dhanbad ×2 (last 2026-10-27)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) (Easy), join tables, group by key, sum aggregates · Source: [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L35), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L39), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1944-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1988-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Roorkee (2026-10-21), IIT Dhanbad ×3 (last 2026-11-09)</sub>
 
 ## 2026-09-29 · IIT Dhanbad · FTE · SDE
 

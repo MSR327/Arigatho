@@ -1,9 +1,11 @@
 # Binary Search
 
-49 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+51 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Capgemini](../companies/capgemini.md) | IIT Guwahati | [Binary search on answer with helper function](../companies/capgemini.md#q2-binary-search-on-answer-with-helper-function) | ≈ [LC 1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) Medium |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Python backend: binary search on answer](../companies/accenture.md#q1-python-backend-binary-search-on-answer) | ≈ [LC 875](https://leetcode.com/problems/koko-eating-bananas/) Medium |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Search in rotated sorted array](../companies/infoedge.md#q6-search-in-rotated-sorted-array) | [LC 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) Medium |
 | 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Online Election](../companies/cars24.md#q5-online-election) | [LC 911](https://leetcode.com/problems/online-election/) Medium |
 | 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Time Based Key-Value Store](../companies/cars24.md#q4-time-based-key-value-store) | [LC 981](https://leetcode.com/problems/time-based-key-value-store/) Medium |

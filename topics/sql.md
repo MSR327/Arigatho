@@ -1,9 +1,15 @@
 # SQL
 
-98 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+104 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal PA interview rounds](../companies/eternal-zomato.md#q1-eternal-pa-interview-rounds) | |
+| 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA pattern](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-pattern) | |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Indore | [SQL joins with DATEDIFF condition](../companies/accenture.md#q2-sql-joins-with-datediff-condition) | ≈ [LC 197](https://leetcode.com/problems/rising-temperature/) Easy |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Simple join SQL query](../companies/accenture.md#q2-simple-join-sql-query) | ≈ [LC 175](https://leetcode.com/problems/combine-two-tables/) Easy |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [SQL joins with self join and left join](../companies/accenture.md#q2-sql-joins-with-self-join-and-left-join) | ≈ [LC 181](https://leetcode.com/problems/employees-earning-more-than-their-managers/) Easy |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Accenture operations OA format](../companies/accenture.md#q1-accenture-operations-oa-format) | |
 | 2026-11-05 | [Tredence](../companies/tredence.md) | IIT BHU | [SQL self join and group by](../companies/tredence.md#q2-sql-self-join-and-group-by) | ≈ [LC 181](https://leetcode.com/problems/employees-earning-more-than-their-managers/) Easy |
 | 2026-11-04 | [Accordion](../companies/accordion.md) | IIT Hyderabad | [Accordion Data & AI Analyst pattern](../companies/accordion.md#q1-accordion-data--ai-analyst-pattern) | |
 | 2026-11-03 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Months with higher cost than previous month (LAG)](../companies/blackrock.md#q2-months-with-higher-cost-than-previous-month-lag) | ≈ [LC 197](https://leetcode.com/problems/rising-temperature/) Easy |

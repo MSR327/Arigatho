@@ -1,9 +1,13 @@
 # HR & Behavioral
 
-32 questions from 18 companys, newest first. [← all topics](../README.md#topics)
+36 questions from 18 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-09 | [ZS](../companies/zs.md) | IIT Indore | [ZS interview topics](../companies/zs.md#q1-zs-interview-topics) |
+| 2026-11-09 | [ZS](../companies/zs.md) | IIT Indore | [ZS DAA interview topics](../companies/zs.md#q1-zs-daa-interview-topics) |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture ETE interview process](../companies/accenture.md#q1-accenture-ete-interview-process) |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | NIT Trichy | [Accenture ETE interview: project discussion](../companies/accenture.md#q1-accenture-ete-interview-project-discussion) |
 | 2026-11-09 | [IBM](../companies/ibm.md) | Unknown | [Complex data analysis situation](../companies/ibm.md#q1-complex-data-analysis-situation) |
 | 2026-11-09 | [ZS](../companies/zs.md) | VIT Vellore | [Project-based Python questions](../companies/zs.md#q3-project-based-python-questions) |
 | 2026-11-07 | [Neighborly](../companies/neighborly.md) | IIT BHU | [Interview format with business case study and guesstimate](../companies/neighborly.md#q1-interview-format-with-business-case-study-and-guesstimate) |

@@ -1,15 +1,21 @@
 # Juspay
 
-**19 questions** · 14 drives · latest 9 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**23 questions** · 16 drives · latest 9 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Trees](../topics/trees.md) 3 · [Other](../topics/other.md) 3 · [Strings](../topics/strings.md) 2 · [Hashing](../topics/hashing.md) 1 · [Greedy](../topics/greedy.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Hyderabad, MNNIT Allahabad, NIT Delhi, NIT Kurukshetra +2 more
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Trees](../topics/trees.md) 4 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 3 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +2 more  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, MNNIT Allahabad +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-11-09 · NIT Surathkal · FTE](#2026-11-09--nit-surathkal--fte)
   - [Round 3 design-type tree operations](#q1-round-3-design-type-tree-operations)
+- [2026-11-09 · IIT Delhi · FTE](#2026-11-09--iit-delhi--fte)
+  - [Graph update and query (segment tree / Fenwick tree)](#q1-graph-update-and-query-segment-tree--fenwick-tree)
+  - [Count leaf nodes with at most k consecutive bad nodes on path](#q2-count-leaf-nodes-with-at-most-k-consecutive-bad-nodes-on-path)
+  - [Add a permutation to maximize equal elements](#q3-add-a-permutation-to-maximize-equal-elements)
+- [2026-11-09 · IIT Bombay · FTE](#2026-11-09--iit-bombay--fte)
+  - [Safe path to target avoiding enemy in weighted graph](#q1-safe-path-to-target-avoiding-enemy-in-weighted-graph)
 - [2026-11-08 · IIT Bombay · FTE · SDE](#2026-11-08--iit-bombay--fte--sde)
   - [Edge weight update queries in a tree](#q1-edge-weight-update-queries-in-a-tree)
 - [2026-11-06 · IIT Bombay · FTE](#2026-11-06--iit-bombay--fte)
@@ -54,6 +60,45 @@ Round 3 is a 3-hour test held before the hackathon. It has a design-type questio
 
 <sub>Topics: Trees, OA Format · Similar: [LeetCode 1993. Operations on Tree](https://leetcode.com/problems/operations-on-tree/) (Medium) · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L918)</sub>
 
+## 2026-11-09 · IIT Delhi · FTE
+
+### Q1. Graph update and query (segment tree / Fenwick tree)
+
+One problem was a segment tree / Fenwick tree problem: a graph with updates and queries, with both n and q up to 1e5. Exact statement not remembered.
+
+<sub>Topics: Graphs, Other · Same idea: [LeetCode 307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) (Medium), Fenwick/segment tree with point updates and queries · Source: [chat, 9 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L269)</sub>
+
+### Q2. Count leaf nodes with at most k consecutive bad nodes on path
+
+Given an undirected tree/graph, find the number of leaf nodes such that the path from root 0 to that leaf has at most k consecutive bad nodes. An array of n nodes is given, where 0 means bad and 1 means good.
+
+<sub>Topics: Trees, Graphs · Same idea: [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum/) (Easy), placeholder · Source: [chat, 9 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L269)</sub>
+
+### Q3. Add a permutation to maximize equal elements
+
+Given an array that may contain values larger than n. You may apply one operation: create any permutation of 1 to n and add it element-wise to the given array. Maximize the number of equal elements.
+
+Example:
+```
+array = [1 5 4 3 6 2 9], n = 7
+permutation = [6 2 3 4 1 5 7]
+```
+Adding these gives 6 equal elements out of 7.
+
+<sub>Topics: Arrays, Greedy · Source: [chat, 9 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L269)</sub>
+
+## 2026-11-09 · IIT Bombay · FTE
+
+### Q1. Safe path to target avoiding enemy in weighted graph
+
+You are given an undirected weighted graph having n nodes, and three nodes a, b and enemy. The enemy node is the starting node of the enemy, a is your starting point, and b is the target node you want to reach.
+
+You have to reach node b safely. Safely means reaching b such that the path from a to b has no node that the enemy reaches before you.
+
+The full input/output format and constraints were not shared.
+
+<sub>Topics: Graphs · Same idea: [LeetCode 1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) (Medium), Dijkstra-style path with constraint, multi-source arrival times · Source: [chat, 9 Nov](../archive/juspay-oa/2026-11.jsonl#L24), [chat, 9 Nov](../archive/juspay-oa/2026-11.jsonl#L25), [chat, 9 Nov](../archive/juspay-oa/2026-11.jsonl#L26)</sub>
+
 ## 2026-11-08 · IIT Bombay · FTE · SDE
 
 ### Q1. Edge weight update queries in a tree
@@ -84,7 +129,7 @@ Round 2 MCQs covered: simple probability, physics, OS, and DSA fundamentals like
 
 The round had 16 MCQs in 1 hour, on probability, physics and CS fundamentals.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L2)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L2) · Also asked at: IIT BHU (2026-11-09)</sub>
 
 ## 2026-10-26 · IIT Delhi · FTE
 
@@ -135,13 +180,13 @@ Round 1 - Pre-assessment, DSA coding, 1 hour, 3 questions.
 Round 2 - MCQ on Physics, Maths, CS, Systems, 1 hour, 16 questions.
 Round 3 - Hackathon, DSA-based coding, 2.5 hours, 1 question.
 
-<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L247) · Also asked at: NIT Delhi (2026-10-31)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L247) · Also asked at: NIT Delhi (2026-10-31), IIT Delhi (2026-11-09)</sub>
 
 ### Q2. Juspay 3-round OA format
 
 Round 1: 3 DSA questions (repeated from OAHelper Juspay questions). Round 2: MCQs. Round 3: a 2.5-hour hackathon-style round with the Sync Engine question.
 
-<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L7), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L9), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L10), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L11), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L12) · Also asked at: NIT Kurukshetra (2026-11-06)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L7), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L9), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L10), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L11), [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L12) · Also asked at: NIT Kurukshetra (2026-11-06), IIT Guwahati (2026-11-09), IIT Kanpur (2026-11-09), IIT BHU (2026-11-09)</sub>
 
 ### Q3. Encrypted file name update
 

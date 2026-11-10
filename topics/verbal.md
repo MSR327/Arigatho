@@ -1,9 +1,10 @@
 # Verbal
 
-45 questions from 8 companys, newest first. [← all topics](../README.md#topics)
+46 questions from 8 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Accenture ETE communication and email writing round](../companies/accenture.md#q1-accenture-ete-communication-and-email-writing-round) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Main argument of fasting passage](../companies/iqvia.md#q14-main-argument-of-fasting-passage) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [What makes meetings successful?](../companies/iqvia.md#q13-what-makes-meetings-successful) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Main cause of ineffective meetings](../companies/iqvia.md#q12-main-cause-of-ineffective-meetings) |

@@ -1,9 +1,12 @@
 # ML/AI
 
-133 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+136 questions from 23 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-09 | [Qualcomm](../companies/qualcomm.md) | IIT Kharagpur/Kanpur | [Qualcomm software OA content](../companies/qualcomm.md#q1-qualcomm-software-oa-content) |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [AI assistant based question](../companies/accenture.md#q4-ai-assistant-based-question) |
+| 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Accenture operations OA format](../companies/accenture.md#q1-accenture-operations-oa-format) |
 | 2026-11-08 | [BlackRock](../companies/blackrock.md) | Unknown | [Write ML algorithm code (BM25, TF-IDF)](../companies/blackrock.md#q1-write-ml-algorithm-code-bm25-tf-idf) |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Clearest prompt for a requirement](../companies/cognizant.md#q18-clearest-prompt-for-a-requirement) |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Tool selection accuracy](../companies/cognizant.md#q17-tool-selection-accuracy) |

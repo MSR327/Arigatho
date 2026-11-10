@@ -1,13 +1,38 @@
 # Accenture
 
-**289 questions** · 105 drives · latest 9 Nov 2026 · [48 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**305 questions** · 114 drives · latest 9 Nov 2026 · [52 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 84 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [Web Dev](../topics/web-dev.md) 28 · [SQL](../topics/sql.md) 27 · [Math](../topics/math.md) 23 · [Arrays](../topics/arrays.md) 21 · [Software Engineering](../topics/software-engineering.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 16 · +18 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +16 more
+**Asks about:** [OA Format](../topics/oa-format.md) 88 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 31 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 24 · [Arrays](../topics/arrays.md) 23 · [Software Engineering](../topics/software-engineering.md) 19 · [ML/AI](../topics/ml-ai.md) 17 · +18 more  
+**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +17 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-09 · NIT Trichy · FTE · Elite Technology Engineer · Interview](#2026-11-09--nit-trichy--fte--elite-technology-engineer--interview)
+  - [Accenture ETE interview: project discussion](#q1-accenture-ete-interview-project-discussion)
+- [2026-11-09 · IIT Indore · FTE · ETE](#2026-11-09--iit-indore--fte--ete)
+  - [Count elements whose first and last digit sum to 9](#q1-count-elements-whose-first-and-last-digit-sum-to-9)
+  - [SQL joins with DATEDIFF condition](#q2-sql-joins-with-datediff-condition)
+  - [Frontend with JavaScript DOM](#q3-frontend-with-javascript-dom)
+- [2026-11-09 · IIT Hyderabad · FTE · ETE · Interview](#2026-11-09--iit-hyderabad--fte--ete--interview)
+  - [Accenture ETE interview process](#q1-accenture-ete-interview-process)
+- [2026-11-09 · IIT Guwahati · FTE · AI and Data (AI/ML)](#2026-11-09--iit-guwahati--fte--ai-and-data-aiml)
+  - [Accenture AI role OA format](#q1-accenture-ai-role-oa-format)
+- [2026-11-09 · IIT Guwahati · FTE](#2026-11-09--iit-guwahati--fte)
+  - [Accenture OA format: SQL, Python DSA, JavaScript](#q1-accenture-oa-format-sql-python-dsa-javascript)
+- [2026-11-09 · IIT Guwahati · FTE · Elite Technology Engineer · Other round](#2026-11-09--iit-guwahati--fte--elite-technology-engineer--other-round)
+  - [Accenture ETE communication and email writing round](#q1-accenture-ete-communication-and-email-writing-round)
+- [2026-11-09 · IIT Guwahati · FTE · ETE](#2026-11-09--iit-guwahati--fte--ete)
+  - [Average of numbers in ith row of grid](#q1-average-of-numbers-in-ith-row-of-grid)
+  - [Simple join SQL query](#q2-simple-join-sql-query)
+  - [Web dev: edit HTML, CSS and JS files](#q3-web-dev-edit-html-css-and-js-files)
+- [2026-11-09 · IIT Guwahati · FTE · Associate Data Scientist](#2026-11-09--iit-guwahati--fte--associate-data-scientist)
+  - [Accenture operations OA format](#q1-accenture-operations-oa-format)
+- [2026-11-09 · IIT Guwahati · FTE · AI and Data role](#2026-11-09--iit-guwahati--fte--ai-and-data-role)
+  - [Python backend: binary search on answer](#q1-python-backend-binary-search-on-answer)
+  - [SQL joins with self join and left join](#q2-sql-joins-with-self-join-and-left-join)
+  - [JavaScript toggle button](#q3-javascript-toggle-button)
+  - [AI assistant based question](#q4-ai-assistant-based-question)
 - [2026-11-08 · NIT Durgapur · FTE](#2026-11-08--nit-durgapur--fte)
   - [Allowed languages in coding round](#q1-allowed-languages-in-coding-round)
 - [2026-11-07 · IIT Hyderabad · FTE · Data and AI](#2026-11-07--iit-hyderabad--fte--data-and-ai)
@@ -406,6 +431,132 @@
 </details>
 
 ---
+
+## 2026-11-09 · NIT Trichy · FTE · Elite Technology Engineer · Interview
+
+### Q1. Accenture ETE interview: project discussion
+
+At NIT Trichy the interview asked about the candidate's projects, only a basic description and not in depth. It felt more like an HR round.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L212)</sub>
+
+## 2026-11-09 · IIT Indore · FTE · ETE
+
+### Q1. Count elements whose first and last digit sum to 9
+
+Given an array of integers, return the number of elements for which the sum of their first and last digit is 9.
+
+The poster only summarised the question; exact constraints and examples are missing.
+
+<sub>Topics: Arrays, Math · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L235), [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L237), [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L238)</sub>
+
+### Q2. SQL joins with DATEDIFF condition
+
+A simple SQL question using joins with a DATEDIFF condition.
+
+The poster gave no further details.
+
+<sub>Topics: SQL · Same idea: [LeetCode 197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) (Easy), date difference condition in join · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L235), [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L237), [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L238)</sub>
+
+### Q3. Frontend with JavaScript DOM
+
+A frontend question for which basic JavaScript DOM knowledge is enough.
+
+Note from the poster: only Python, Java and C# are allowed for the DSA question.
+
+<sub>Topics: Web Dev · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L235), [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L237), [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L238)</sub>
+
+## 2026-11-09 · IIT Hyderabad · FTE · ETE · Interview
+
+### Q1. Accenture ETE interview process
+
+A very simple interview of around 10-15 minutes. They don't ask anything much, just a simple HR interview with a project overview.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L221)</sub>
+
+## 2026-11-09 · IIT Guwahati · FTE · AI and Data (AI/ML)
+
+### Q1. Accenture AI role OA format
+
+OA for the AI role had aptitude plus ML-based MCQs only (no coding). The ML MCQs covered GenAI basics and traditional ML. It was taken in a safe browser and the result was shown immediately after submitting.
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L196), [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L201), [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L204)</sub>
+
+## 2026-11-09 · IIT Guwahati · FTE
+
+### Q1. Accenture OA format: SQL, Python DSA, JavaScript
+
+OA had 1 SQL question, 1 Python DSA (backend) question and 1 JavaScript question. The DSA question was described as basic implementation, not tough. (Another poster suggested this was the Operations role, not the AI/Data role.) Exact question statements were not given.
+
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L181), [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L182), [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L195)</sub>
+
+## 2026-11-09 · IIT Guwahati · FTE · Elite Technology Engineer · Other round
+
+### Q1. Accenture ETE communication and email writing round
+
+Before the interview there was a communication round and an email writing round at IIT Guwahati. Question details were not given.
+
+<sub>Topics: Verbal, OA Format · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L184)</sub>
+
+## 2026-11-09 · IIT Guwahati · FTE · ETE
+
+### Q1. Average of numbers in ith row of grid
+
+Given a grid, find the average of the numbers in the ith row of that grid.
+
+The poster only summarised the question; exact constraints and examples are missing.
+
+<sub>Topics: Arrays · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L233)</sub>
+
+### Q2. Simple join SQL query
+
+A simple SQL question using a join.
+
+The poster gave no further details.
+
+<sub>Topics: SQL · Same idea: [LeetCode 175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) (Easy), basic SQL join between two tables · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L233)</sub>
+
+### Q3. Web dev: edit HTML, CSS and JS files
+
+A web development question where you have to make some changes in the given HTML, CSS and JS files.
+
+The poster gave no further details.
+
+<sub>Topics: Web Dev · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L233)</sub>
+
+## 2026-11-09 · IIT Guwahati · FTE · Associate Data Scientist
+
+### Q1. Accenture operations OA format
+
+The OA had 3 questions: 1 Python backend question, 1 SQL question and 1 AI assistant based ML question. Question details were not given.
+
+<sub>Topics: OA Format, SQL, ML/AI · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L975)</sub>
+
+## 2026-11-09 · IIT Guwahati · FTE · AI and Data role
+
+### Q1. Python backend: binary search on answer
+
+Python backend coding question based on binary search on the answer. (Exact statement not given.)
+
+<sub>Topics: Binary Search · Same idea: [LeetCode 875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) (Medium), binary search on the answer · Source: [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L314), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L317), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L320), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L321)</sub>
+
+### Q2. SQL joins with self join and left join
+
+SQL question on joins, given a database schema. It was based on a self join followed by a left join.
+
+<sub>Topics: SQL · Same idea: [LeetCode 181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) (Easy), self join on employees table · Source: [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L314), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L317), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L320), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L321)</sub>
+
+### Q3. JavaScript toggle button
+
+Make a button functional, like a toggle button: clicking it should change the background color.
+
+<sub>Topics: Web Dev · Source: [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L314), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L317), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L320), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L321)</sub>
+
+### Q4. AI assistant based question
+
+One question based on an AI assistant. (Details not given.) Others reported basic ML MCQs and 1 DSA question in other colleges.
+
+<sub>Topics: ML/AI · Source: [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L314), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L317), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L320), [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L321)</sub>
 
 ## 2026-11-08 · NIT Durgapur · FTE
 

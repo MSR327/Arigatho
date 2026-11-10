@@ -1,9 +1,13 @@
 # Graphs
 
-143 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+147 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Count leaf nodes with at most k consecutive bad nodes on path](../companies/juspay.md#q2-count-leaf-nodes-with-at-most-k-consecutive-bad-nodes-on-path) | ≈ [LC 1](https://leetcode.com/problems/two-sum/) Easy |
+| 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Graph update and query (segment tree / Fenwick tree)](../companies/juspay.md#q1-graph-update-and-query-segment-tree--fenwick-tree) | ≈ [LC 307](https://leetcode.com/problems/range-sum-query-mutable/) Medium |
+| 2026-11-09 | [Capgemini](../companies/capgemini.md) | IIT Guwahati | [DSU-based graph question with array input](../companies/capgemini.md#q3-dsu-based-graph-question-with-array-input) | ≈ [LC 547](https://leetcode.com/problems/number-of-provinces/) Medium |
+| 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Bombay | [Safe path to target avoiding enemy in weighted graph](../companies/juspay.md#q1-safe-path-to-target-avoiding-enemy-in-weighted-graph) | ≈ [LC 1631](https://leetcode.com/problems/path-with-minimum-effort/) Medium |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Bellman-Ford](../companies/infoedge.md#q10-bellman-ford) | ≈ [LC 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) Medium |
 | 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Open the Lock](../companies/cars24.md#q3-open-the-lock) | [LC 752](https://leetcode.com/problems/open-the-lock/) Medium |
 | 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Minimum Cost Fleet Relocation](../companies/cars24.md#q1-minimum-cost-fleet-relocation) | ≈ [LC 1135](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) Medium |

@@ -1,9 +1,12 @@
 # Guesstimates & Cases
 
-16 questions from 8 companys, newest first. [← all topics](../README.md#topics)
+19 questions from 8 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal PA interview rounds](../companies/eternal-zomato.md#q1-eternal-pa-interview-rounds) |
+| 2026-11-09 | [ZS](../companies/zs.md) | IIT Indore | [ZS interview topics](../companies/zs.md#q1-zs-interview-topics) |
+| 2026-11-09 | [ZS](../companies/zs.md) | IIT Indore | [ZS DAA interview topics](../companies/zs.md#q1-zs-daa-interview-topics) |
 | 2026-11-09 | [ZS](../companies/zs.md) | VIT Vellore | [Lift usage guesstimate](../companies/zs.md#q2-lift-usage-guesstimate) |
 | 2026-11-07 | [Neighborly](../companies/neighborly.md) | IIT BHU | [Interview format with business case study and guesstimate](../companies/neighborly.md#q1-interview-format-with-business-case-study-and-guesstimate) |
 | 2026-11-07 | [Auxo AI](../companies/auxo-ai.md) | IIT Hyderabad | [Business case study and guesstimate round](../companies/auxo-ai.md#q1-business-case-study-and-guesstimate-round) |

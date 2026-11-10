@@ -106,7 +106,7 @@ What companies ask after the online test, from written first-hand accounts. Ever
 | [Nielsen](nielsen.md) | 1 | 2025-26 season |
 | [NK Securities](nk-securities.md) | 1 | 2025-26 season |
 | [Nomura](nomura.md) | 4 | 2025-26 season |
-| [Nvidia](nvidia.md) | 4 | 2025-26 season |
+| [Nvidia](nvidia.md) | 3 | 2025-26 season |
 | [NXP](nxp.md) | 1 | 2025-26 season |
 | [NxtWave](nxtwave.md) | 1 | 2025-26 season |
 | [Nykaa](nykaa.md) | 1 | 29 Sep 2026 |

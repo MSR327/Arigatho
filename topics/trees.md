@@ -1,9 +1,10 @@
 # Trees
 
-71 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+72 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Count leaf nodes with at most k consecutive bad nodes on path](../companies/juspay.md#q2-count-leaf-nodes-with-at-most-k-consecutive-bad-nodes-on-path) | ≈ [LC 1](https://leetcode.com/problems/two-sum/) Easy |
 | 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [K-th Smallest Element](../companies/cars24.md#q7-k-th-smallest-element) | [LC 215](https://leetcode.com/problems/kth-largest-element-in-an-array/) Medium |
 | 2026-11-09 | [Juspay](../companies/juspay.md) | NIT Surathkal | [Round 3 design-type tree operations](../companies/juspay.md#q1-round-3-design-type-tree-operations) | [LC 1993](https://leetcode.com/problems/operations-on-tree/) Medium |
 | 2026-11-08 | [Microsoft](../companies/microsoft.md) | IIT Madras | [Parent of a process in a tree](../companies/microsoft.md#q1-parent-of-a-process-in-a-tree) | |

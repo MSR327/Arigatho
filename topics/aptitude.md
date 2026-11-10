@@ -1,9 +1,10 @@
 # Aptitude
 
-240 questions from 31 companys, newest first. [← all topics](../README.md#topics)
+241 questions from 31 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA pattern](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-pattern) |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [DA section: business math](../companies/accordion.md#q4-da-section-business-math) |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Data Science section: recall, handshakes, probability, sampling](../companies/accordion.md#q1-data-science-section-recall-handshakes-probability-sampling) |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | IIT Delhi | [Tables and pie charts numerical result](../companies/accordion.md#q3-tables-and-pie-charts-numerical-result) |
