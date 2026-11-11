@@ -1,6 +1,6 @@
 # Juspay
 
-**23 questions** · 16 drives · latest 9 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**23 questions** · 16 drives · latest 10 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 11 · [Trees](../topics/trees.md) 4 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 3 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +2 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, MNNIT Allahabad +4 more
@@ -180,7 +180,7 @@ Round 1 - Pre-assessment, DSA coding, 1 hour, 3 questions.
 Round 2 - MCQ on Physics, Maths, CS, Systems, 1 hour, 16 questions.
 Round 3 - Hackathon, DSA-based coding, 2.5 hours, 1 question.
 
-<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L247) · Also asked at: NIT Delhi (2026-10-31), IIT Delhi (2026-11-09)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L247) · Also asked at: NIT Delhi (2026-10-31), IIT Delhi (2026-11-09), IIT Guwahati ×2 (last 2026-11-10)</sub>
 
 ### Q2. Juspay 3-round OA format
 
@@ -250,7 +250,7 @@ UPDATE: An UPDATE provid... [message truncated here]
 
 (Pattern: 3 hours, one question.)
 
-<sub>Topics: Trees, Hashing · Source: [chat, 18 Oct](../archive/inter-nit/2026-10.jsonl#L1539), [chat, 18 Oct](../archive/inter-iit/2026-10.jsonl#L560) · Also asked at: MNNIT Allahabad ×3 (last 2026-10-18), IIIT Allahabad ×2 (last 2026-10-23), IIT BHU (2026-10-23)</sub>
+<sub>Topics: Trees, Hashing · Source: [chat, 18 Oct](../archive/inter-nit/2026-10.jsonl#L1539), [chat, 18 Oct](../archive/inter-iit/2026-10.jsonl#L560) · Also asked at: MNNIT Allahabad ×3 (last 2026-10-18), IIIT Allahabad ×2 (last 2026-10-23), IIT BHU ×2 (last 2026-11-10)</sub>
 
 ## 2026-10-17 · MNNIT Allahabad · FTE
 

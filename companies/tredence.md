@@ -1,13 +1,15 @@
 # Tredence
 
-**49 questions** · 17 drives · latest 8 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**50 questions** · 18 drives · latest 10 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [SQL](../topics/sql.md) 6 · [Arrays](../topics/arrays.md) 6 · [Aptitude](../topics/aptitude.md) 6 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +11 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [SQL](../topics/sql.md) 7 · [Arrays](../topics/arrays.md) 6 · [Aptitude](../topics/aptitude.md) 6 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +12 more  
 **Seen at:** IIIT Hyderabad, IIT BHU, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · VNIT Nagpur · FTE · Data Engineer · Interview](#2026-11-10--vnit-nagpur--fte--data-engineer--interview)
+  - [Tredence data engineering interview topics](#q1-tredence-data-engineering-interview-topics)
 - [2026-11-05 · IIT BHU · FTE](#2026-11-05--iit-bhu--fte)
   - [Longest subarray splittable into two parts with sums differing by at most K](#q1-longest-subarray-splittable-into-two-parts-with-sums-differing-by-at-most-k)
   - [SQL self join and group by](#q2-sql-self-join-and-group-by)
@@ -78,6 +80,14 @@
 </details>
 
 ---
+
+## 2026-11-10 · VNIT Nagpur · FTE · Data Engineer · Interview
+
+### Q1. Tredence data engineering interview topics
+
+Interview for data engineering role: mainly AI projects based on the resume, and SQL. DBMS concepts were asked only lightly.
+
+<sub>Topics: SQL, HR & Behavioral, OS/DBMS/CN MCQ · Source: [chat, 10 Nov](../archive/tredence-oa/2026-11.jsonl#L42), [chat, 10 Nov](../archive/tredence-oa/2026-11.jsonl#L44), [chat, 10 Nov](../archive/tredence-oa/2026-11.jsonl#L45), [chat, 10 Nov](../archive/tredence-oa/2026-11.jsonl#L46), [chat, 10 Nov](../archive/tredence-oa/2026-11.jsonl#L47), [chat, 10 Nov](../archive/tredence-oa/2026-11.jsonl#L48)</sub>
 
 ## 2026-11-05 · IIT BHU · FTE
 

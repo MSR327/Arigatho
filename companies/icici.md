@@ -1,8 +1,8 @@
 # ICICI
 
-**21 questions** · 20 drives · latest 9 Nov 2026 · [← all companies](../README.md#companies)
+**34 questions** · 21 drives · latest 10 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 19 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [OOP](../topics/oop.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 6 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · +7 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad, Manipal +6 more
 
 <details>
@@ -45,6 +45,20 @@
   - [ICICI OA format](#q1-icici-oa-format-1)
 - [2026-10-07 · MNNIT Allahabad · FTE · Deputy Manager · Interview](#2026-10-07--mnnit-allahabad--fte--deputy-manager--interview)
   - [ICICI interview questions](#q1-icici-interview-questions)
+- [2026-10-06 · IIT Roorkee · FTE](#2026-10-06--iit-roorkee--fte)
+  - [Python scoping: global and del output](#q1-python-scoping-global-and-del-output)
+  - [CAN remote frame statements](#q2-can-remote-frame-statements)
+  - [C++ BFS maximum level width output](#q3-c-bfs-maximum-level-width-output)
+  - [Purpose of Workstation components in SQL Server](#q4-purpose-of-workstation-components-in-sql-server)
+  - [Pandas function for aggregated display](#q5-pandas-function-for-aggregated-display)
+  - [Swift class inheritance output](#q6-swift-class-inheritance-output)
+  - [Pie chart: difference between B.Ed and MBA students](#q7-pie-chart-difference-between-bed-and-mba-students)
+  - [Networking layer for reliable communication](#q8-networking-layer-for-reliable-communication)
+  - [Python lru_cache Fibonacci output](#q9-python-lru_cache-fibonacci-output)
+  - [Tkinter widget for number entry](#q10-tkinter-widget-for-number-entry)
+  - [Bayes probability: defective cloth from supplier B](#q11-bayes-probability-defective-cloth-from-supplier-b)
+  - [Agile marketing main goal](#q12-agile-marketing-main-goal)
+  - [Python adder1/adder2 varargs output](#q13-python-adder1adder2-varargs-output)
 - [2026-10-01 · NIT Trichy · FTE](#2026-10-01--nit-trichy--fte)
   - [ICICI OA format and topics](#q1-icici-oa-format-and-topics)
 - [2026-09-29 · MNNIT Allahabad · FTE · Deputy Manager](#2026-09-29--mnnit-allahabad--fte--deputy-manager)
@@ -120,7 +134,7 @@ Interview began with a self-introduction (about 1.5 minutes). The interviewer th
 
 This discussion lasted almost 10 minutes, then moved on to club experience (the message was cut off here).
 
-<sub>Topics: HR & Behavioral · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08), NIT Karnataka Surathkal (2026-11-09)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08), NIT Karnataka Surathkal (2026-11-09), NIT Kurukshetra (2026-11-10)</sub>
 
 ## 2026-11-04 · VNIT Nagpur · FTE · Manager-1
 
@@ -234,6 +248,274 @@ The interview was simple, with only HR questions and questions on the resume. Qu
 - Will you relocate?
 
 <sub>Topics: HR & Behavioral · Source: [chat, 7 Oct](../archive/icici-oa/2026-10.jsonl#L77), [chat, 7 Oct](../archive/icici-oa/2026-10.jsonl#L1), [chat, 7 Oct](../archive/icici-oa/2026-10.jsonl#L2)</sub>
+
+## 2026-10-06 · IIT Roorkee · FTE
+
+### Q1. Python scoping: global and del output
+
+Predict the output of the Python code. Only part of the code is visible in the photo.
+```python
+x = 5
+
+def fun():
+    x = pow(3,2)
+
+def fun_2():
+    global x
+    del x
+
+fun()
+print(x)
+fun_2()
+print(x)
+```
+The top of the snippet is cut off, so the initial value of x is unclear.
+
+Options:
+A. 25 / UnboundLocalError: local variable 'x' referenced before assignment
+B. 25 / NameError: name 'x' is not defined
+C. 3 / NameError: name 'x' is not defined
+D. 5 / UnboundLocalError: local variable 'x' referenced before assignment
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q2. CAN remote frame statements
+
+In networking, which of the following statements are valid regarding a remote frame that is available in an automotive ECU with the CAN protocol?
+1. A recessive RTR bit in the arbitration field can be set for a remote frame.
+2. No data must be specified in a remote frame.
+
+A. 1
+B. 2
+C. Both of these
+D. None of these
+
+<sub>Topics: OS/DBMS/CN MCQ, Communication · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q3. C++ BFS maximum level width output
+
+What is the output of the following C++ code? The photo shows it in two parts; some lines are blurry.
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+struct HackNode {
+    char key;
+    HackNode *left;
+    HackNode *right;
+    HackNode(char val) {
+        key = val;
+        left = NULL;
+        right = NULL;
+    }
+};
+int HackerEarth(HackNode *root) {
+    if (root == NULL)
+        return 0;
+    queue<HackNode *> HackQueue;
+    HackQueue.push(root);
+    int Hresult = 0;
+    while (!HackQueue.empty()) {
+        int count = HackQueue.size();
+        Hresult = max(Hresult, count);
+        for (int i = 0; i < count; i++) {
+            HackNode *curr = HackQueue.front();
+            HackQueue.pop();
+            if (curr->left != NULL)
+                HackQueue.push(curr->left);
+            if (curr->right != NULL)
+                HackQueue.push(curr->right);
+        }
+    }
+    return Hresult;
+}
+int main() {
+    HackNode *wroot = new HackNode(0);
+    root->left = new HackNode(1);
+    root->left->left = new HackNode(6);
+    root->left->right = new HackNode(3);
+    root->right = new HackNode(4);
+    root->right->left = new HackNode(2);
+    root->right->right = new HackNode(5);
+    root->right->right->right = new HackNode(9);
+    root->right->right->right->left = new HackNode(8);
+    root->right->right->right->right = new HackNode(7);
+    cout << HackerEarth(root);
+}
+```
+Options: 2, 1, 4, 3 (the order is as shown in the photo).
+
+<sub>Topics: Code Output (C/C++/Java/Python), Trees, Stack/Queue · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q4. Purpose of Workstation components in SQL Server
+
+As a database administrator working on Microsoft SQL Server, John focuses on understanding the key components for efficient management. He is particularly interested in the purpose of Workstation components. What is the purpose of Workstation components in Microsoft SQL Server Database Administration?
+
+A. They manage security privileges.
+B. They handle centralized database operations.
+C. They are interfaces to interact with Server components.
+D. They are services installed on the centralized server.
+
+<sub>Topics: OS/DBMS/CN MCQ, SQL · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q5. Pandas function for aggregated display
+
+Bob is working on data visualization in a company. Since he is new to this technology, he wants to know which function in pandas can be used to display the data in a more aggregated form. Please help him pick the correct option.
+
+A. Summarizeby
+B. Groupby
+C. Aggregatedby
+D. Rollingby
+
+<sub>Topics: Python & Pandas · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q6. Swift class inheritance output
+
+What is the output of the following Swift code? Only part of the code is visible.
+```swift
+class Person {
+    var name: String
+    init(name: String) {
+        self.name = name
+    }
+    func getName() -> String {
+        return self.name
+    }
+    func isEmployee() -> Bool {
+        return false
+    }
+}
+
+class Employee: Person {
+    var empID: String
+    init(name: String, empID: String) {
+        self.empID = empID
+        super.init(name: name)
+    }
+    override func isEmployee() -> Bool {
+        return true
+    }
+    ...
+```
+The rest of the code (including the print statements) is cut off.
+
+Options:
+A. true E10021
+B. John true E10021
+C. John false E10021
+D. Error
+
+<sub>Topics: OOP, Code Output (C/C++/Java/Python) · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q7. Pie chart: difference between B.Ed and MBA students
+
+Study the following pie chart, which shows the number of students who took courses in different fields. What is the difference between the number of B.Ed students and the number of MBA students who took courses?
+
+Total students: 34000. The chart legend is B.Ed, B.Tech, Pharmacy, MBA, MBBS, B.Sc. The percentages shown include 18%, 7%, 13%, 25% and 30%, but the photo does not show which slice is which.
+
+Options:
+A. 1336
+B. 4236
+C. 2720
+D. 10472
+
+<sub>Topics: Aptitude · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q8. Networking layer for reliable communication
+
+John is working on Networking. While working on an application, he needs to know about the layer that provides reliable communication. Which of the following layers suits the context?
+
+A. UDP
+B. IP
+C. TCP
+D. All of these
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q9. Python lru_cache Fibonacci output
+
+What is the output of the following Python 3 code?
+```python
+import functools
+@functools.lru_cache()
+def fibonacci(n):
+    if n < 4:
+        return n
+    return fibonacci(n - 1) + fibonacci(n - 2)
+res = fibonacci(10)
+print(res)
+```
+The base case `if n < 4` is hard to read in the photo.
+
+Options:
+A. 55
+B. 89
+C. -55
+D. 17
+
+<sub>Topics: Code Output (C/C++/Java/Python), Recursion/Backtracking · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q10. Tkinter widget for number entry
+
+John is designing a Tkinter application that requires the user to enter a number. Which widget should he use to create the number entry field?
+
+A. Frame
+B. Text
+C. OptionMenu
+D. Spinbox
+
+<sub>Topics: Python & Pandas, Other · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q11. Bayes probability: defective cloth from supplier B
+
+Three clothing brands A, B and C supply 20%, 45% and 35% of the clothes to a store. Previous incidents show that 6%, 7% and 5% of the clothes supplied are defective. A cloth chosen at random was found to be defective. Determine the probability that B supplied that cloth.
+
+Options:
+A. 0.45
+B. 0.51
+C. 0.57
+D. 0.55
+
+<sub>Topics: Math, Aptitude · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q12. Agile marketing main goal
+
+Alice, John and Mary are working on a marketing campaign for a new product launch. The team is using agile marketing methodologies to respond quickly to changes in the market and customer demands. However, there are some challenges the team faces in implementing agile practices and achieving their goals. What is the main goal of agile marketing according to the scenario?
+
+A. To deliver value frequently to different audiences, customers, prospects, and internal stakeholders
+B. To launch a "big-bang" campaign
+C. To focus on breaking down projects into smaller experiments that shorten their feedback loop
+D. To invest more into strategies that work
+
+<sub>Topics: Software Engineering · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
+
+### Q13. Python adder1/adder2 varargs output
+
+What is the output of the following Python code? The photo is blurry and part of it is hard to read.
+```python
+def adder1(*args):
+    print('adder1', end=' ')
+    if type(args[0]) == type(0):
+        sum = 0
+    else:
+        sum = args[0][:0]
+    for arg in args:
+        sum = sum + arg
+    return sum
+
+def adder2(*args):
+    print('adder2', end=' ')
+    sum = args[0]
+    for next in args[1:]:
+        sum += next
+    return sum
+
+for func in (adder1, adder2):
+    print(func('5', '4', '3'))
+    print(func(7, 7, 7))
+```
+Options: the first is `adder1 32 / adder1 ? / adder2 12 / adder2 ?`. The other options (including "Error") are cut off.
+
+<sub>Topics: Code Output (C/C++/Java/Python), OOP · Source: [e33e180d-04c4-4143-b3c8-6560db08322b.pdf](../archive/files/24614-e33e180d-04c4-4143-b3c8-6560db08322b.pdf)</sub>
 
 ## 2026-10-01 · NIT Trichy · FTE
 

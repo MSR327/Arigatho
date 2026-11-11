@@ -1,9 +1,10 @@
 # Hashing
 
-107 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+108 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [Cognizant](../companies/cognizant.md) | IIT Delhi | [Minimum Time to Process Tasks](../companies/cognizant.md#q1-minimum-time-to-process-tasks) | [LC 881](https://leetcode.com/problems/boats-to-save-people/) Medium |
 | 2026-11-09 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Count pairs whose concatenation can form a palindrome](../companies/microsoft.md#q1-count-pairs-whose-concatenation-can-form-a-palindrome) | ≈ [LC 1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) Medium |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [First missing positive](../companies/infoedge.md#q1-first-missing-positive) | [LC 41](https://leetcode.com/problems/first-missing-positive/) Hard |
 | 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Online Election](../companies/cars24.md#q5-online-election) | [LC 911](https://leetcode.com/problems/online-election/) Medium |

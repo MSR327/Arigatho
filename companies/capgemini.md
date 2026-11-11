@@ -1,9 +1,9 @@
 # Capgemini
 
-**12 questions** · 4 drives · latest 9 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**12 questions** · 4 drives · latest 10 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +1 more  
-**Seen at:** IIT Delhi, IIT Guwahati, MNNIT Allahabad, NIT Kurukshetra, NIT Trichy
+**Seen at:** IIT BHU, IIT Bhilai, IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur, MNNIT Allahabad, NIT Kurukshetra, NIT Trichy
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -43,19 +43,19 @@ The first round is a game based round and English comprehension. If you qualify,
 
 The OA had MCQs and 2 DSA questions. The DSA questions were long but easy, mostly implementation based. MCQs were based on aptitude and some CS fundamentals.
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L18)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L18) · Also asked at: IIT Guwahati ×2 (last 2026-11-10)</sub>
 
 ### Q2. Binary search on answer with helper function
 
 First DSA question was a binary search on the answer problem; the helper (feasibility check) function was the tough part to write. The full problem statement was not shared.
 
-<sub>Topics: Binary Search · Same idea: [LeetCode 1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) (Medium), binary search on answer with feasibility helper · Source: [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L18)</sub>
+<sub>Topics: Binary Search · Same idea: [LeetCode 1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) (Medium), binary search on answer with feasibility helper · Source: [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L18) · Also asked at: IIT Guwahati ×2 (last 2026-11-10)</sub>
 
 ### Q3. DSU-based graph question with array input
 
 Second DSA question was a graph problem solvable with DSU (Disjoint Set Union). It was difficult to recognise it as DSU because an array was given in the question. The full problem statement was not shared.
 
-<sub>Topics: Graphs, Arrays · Same idea: [LeetCode 547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) (Medium), DSU connected components from array input · Source: [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L18)</sub>
+<sub>Topics: Graphs, Arrays · Same idea: [LeetCode 547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) (Medium), DSU connected components from array input · Source: [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L18) · Also asked at: IIT Guwahati ×2 (last 2026-11-10)</sub>
 
 ## 2026-10-20 · IIT Delhi · FTE · SDE
 
@@ -72,7 +72,7 @@ In both the bug fixing and feature implementation parts, you choose your stack (
 
 The 11 LPA pattern isn't known, and the report was cut off at the bottom, so there may be more.
 
-<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11) · Also asked at: MNNIT Allahabad ×3 (last 2026-11-09), NIT Kurukshetra (2026-11-09)</sub>
+<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11) · Also asked at: NIT Kurukshetra (2026-11-09), MNNIT Allahabad ×7 (last 2026-11-10), IIT BHU (2026-11-10), IIT Bhilai (2026-11-10), IIT Kharagpur/Kanpur ×2 (last 2026-11-10), Unknown (2026-11-10), IIT Guwahati (2026-11-10)</sub>
 
 ### Q2. Run-length compression of a string
 

@@ -1,9 +1,13 @@
 # Aptitude
 
-241 questions from 31 companys, newest first. [← all topics](../README.md#topics)
+247 questions from 31 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA logical reasoning questions](../companies/iqvia.md#q5-iqvia-logical-reasoning-questions) |
+| 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA quantitative aptitude questions](../companies/iqvia.md#q4-iqvia-quantitative-aptitude-questions) |
+| 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [Logical Reasoning questions](../companies/iqvia.md#q2-logical-reasoning-questions) |
+| 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [Quantitative Aptitude questions](../companies/iqvia.md#q1-quantitative-aptitude-questions) |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA pattern](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-pattern) |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [DA section: business math](../companies/accordion.md#q4-da-section-business-math) |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Data Science section: recall, handshakes, probability, sampling](../companies/accordion.md#q1-data-science-section-recall-handshakes-probability-sampling) |
@@ -223,6 +227,8 @@
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | [HACKER arrangements with vowels together](../companies/eternal-zomato.md#q9-hacker-arrangements-with-vowels-together) |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | [Relative performance using normal distribution](../companies/eternal-zomato.md#q6-relative-performance-using-normal-distribution) |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | [Cube painted green cut into 1000 cubes](../companies/eternal-zomato.md#q1-cube-painted-green-cut-into-1000-cubes) |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Bayes probability: defective cloth from supplier B](../companies/icici.md#q11-bayes-probability-defective-cloth-from-supplier-b) |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Pie chart: difference between B.Ed and MBA students](../companies/icici.md#q7-pie-chart-difference-between-bed-and-mba-students) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Logical Reasoning: Friday Prime](../companies/infoedge.md#q8-logical-reasoning-friday-prime) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Logical Reasoning: Circle Map (seating)](../companies/infoedge.md#q7-logical-reasoning-circle-map-seating) |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Simple interest capital](../companies/infoedge.md#q6-simple-interest-capital) |

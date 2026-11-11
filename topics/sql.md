@@ -1,9 +1,10 @@
 # SQL
 
-104 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+106 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [Tredence](../companies/tredence.md) | VNIT Nagpur | [Tredence data engineering interview topics](../companies/tredence.md#q1-tredence-data-engineering-interview-topics) | |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal PA interview rounds](../companies/eternal-zomato.md#q1-eternal-pa-interview-rounds) | |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA pattern](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-pattern) | |
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Indore | [SQL joins with DATEDIFF condition](../companies/accenture.md#q2-sql-joins-with-datediff-condition) | ≈ [LC 197](https://leetcode.com/problems/rising-temperature/) Easy |
@@ -88,6 +89,7 @@
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Anonymous vs subscribed viewers watch time](../companies/eternal-zomato.md#q4-anonymous-vs-subscribed-viewers-watch-time) | |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Duplicate bid detection](../companies/eternal-zomato.md#q3-duplicate-bid-detection) | ≈ [LC 182](https://leetcode.com/problems/duplicate-emails/) Easy |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Cities having more customers than average](../companies/eternal-zomato.md#q2-cities-having-more-customers-than-average) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Purpose of Workstation components in SQL Server](../companies/icici.md#q4-purpose-of-workstation-components-in-sql-server) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [SQL NULL handling in aggregates](../companies/squarepoint.md#q4-sql-null-handling-in-aggregates) | |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Rows in A LEFT JOIN B](../companies/infoedge.md#q2-rows-in-a-left-join-b) | |
 | 2026-10-02 | [Tredence](../companies/tredence.md) | IIT Dhanbad | [SQL mid-level using sort operations](../companies/tredence.md#q2-sql-mid-level-using-sort-operations) | |

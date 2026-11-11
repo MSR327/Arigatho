@@ -1,9 +1,10 @@
 # Heaps
 
-35 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+36 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Kharagpur | [Max transactions keeping balance non-negative](../companies/microsoft.md#q1-max-transactions-keeping-balance-non-negative) | [CF 1526C2](https://codeforces.com/problemset/problem/1526/C2) rated 1600 |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Sliding window maximum](../companies/infoedge.md#q7-sliding-window-maximum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [K-th Smallest Element](../companies/cars24.md#q7-k-th-smallest-element) | [LC 215](https://leetcode.com/problems/kth-largest-element-in-an-array/) Medium |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIIT Delhi | [Minimum cost to make array elements distinct](../companies/blackrock.md#q2-minimum-cost-to-make-array-elements-distinct) | |

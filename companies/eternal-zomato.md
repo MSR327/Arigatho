@@ -1,13 +1,15 @@
 # Eternal (Zomato)
 
-**180 questions** · 85 drives · latest 9 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**181 questions** · 86 drives · latest 10 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 60 · [SQL](../topics/sql.md) 26 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 13 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
-**Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +11 more
+**Asks about:** [OA Format](../topics/oa-format.md) 61 · [SQL](../topics/sql.md) 26 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 13 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
+**Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +12 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · VNIT Nagpur · FTE · ML](#2026-11-10--vnit-nagpur--fte--ml)
+  - [Eternal ML OA pattern](#q1-eternal-ml-oa-pattern)
 - [2026-11-09 · NIT Delhi · FTE · SDE](#2026-11-09--nit-delhi--fte--sde)
   - [Task Scheduling](#q1-task-scheduling)
 - [2026-11-09 · MNNIT Allahabad · FTE · SDE](#2026-11-09--mnnit-allahabad--fte--sde)
@@ -278,6 +280,14 @@
 
 ---
 
+## 2026-11-10 · VNIT Nagpur · FTE · ML
+
+### Q1. Eternal ML OA pattern
+
+The OA has a data-science style question and a DSA question. Some MCQs on core subjects can be expected.
+
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/inter-nit/2026-11.jsonl#L1101) · Also asked at: IIT BHU (2026-11-10)</sub>
+
 ## 2026-11-09 · NIT Delhi · FTE · SDE
 
 ### Q1. Task Scheduling
@@ -300,13 +310,13 @@ Eternal SDE OA questions are reported to repeat; at NIT Delhi the question "Task
 
 21 MCQs based on aptitude, SQL and easy stuff, followed by 3 SQL coding questions. Difficulty was easy to medium.
 
-<sub>Topics: OA Format, SQL, Aptitude · Source: [chat, 9 Nov](../archive/eternal-oa/2026-11.jsonl#L48)</sub>
+<sub>Topics: OA Format, SQL, Aptitude · Source: [chat, 9 Nov](../archive/eternal-oa/2026-11.jsonl#L48) · Also asked at: IIT Roorkee (2026-11-10)</sub>
 
 ### Q2. Eternal Product Analyst OA pattern
 
 Mostly aptitude questions, a few Python MCQs, and 3 SQL coding questions (two basic joins and one requiring a window function). No DSA. Easy, very doable paper overall. (Individual questions not shared.)
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1037), [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1038)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1037), [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1038) · Also asked at: NIT Surathkal (2026-11-10)</sub>
 
 ## 2026-11-09 · IIT Indore · FTE · Product Analyst · Interview
 
@@ -673,7 +683,7 @@ Interview discussion of the OA problem "Fruit Selection with Discount Coupons" (
 
 The interview had three rounds and was mostly case-based questions; practising case studies would help a lot. No specific questions given.
 
-<sub>Topics: Guesstimates & Cases, OA Format · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L14) · Also asked at: IIT BHU (2026-10-27)</sub>
+<sub>Topics: Guesstimates & Cases, OA Format · Source: [chat, 27 Oct](../archive/eternal-oa/2026-10.jsonl#L14) · Also asked at: IIT BHU ×2 (last 2026-11-10)</sub>
 
 ## 2026-10-26 · IIT Guwahati · FTE · SDE
 
@@ -1456,7 +1466,7 @@ Your task is to assign values to all unassigned nodes such that:
 
 (The message is cut off here. Going by the title, the goal is to minimise the sum of all assigned values.)
 
-<sub>Topics: Trees, Graphs, Greedy · Same idea: [LeetCode 785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) (Medium), parity coloring across tree edges · Source: [chat, 2 Oct](../archive/inter-nit/2026-10.jsonl#L1193) · Also asked at: IIT Dhanbad ×3 (last 2026-10-21)</sub>
+<sub>Topics: Trees, Graphs, Greedy · Same idea: [LeetCode 785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) (Medium), parity coloring across tree edges · Source: [chat, 2 Oct](../archive/inter-nit/2026-10.jsonl#L1193) · Also asked at: IIT Dhanbad ×3 (last 2026-10-21), IIT Madras (2026-11-10)</sub>
 
 ## 2026-10-02 · IIT Dhanbad · FTE · SDE
 

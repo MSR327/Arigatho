@@ -1,13 +1,17 @@
 # ZS
 
-**12 questions** · 8 drives · latest 9 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**14 questions** · 10 drives · latest 10 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 5 · [OA Format](../topics/oa-format.md) 4 · [HR & Behavioral](../topics/hr-behavioral.md) 4 · [Arrays](../topics/arrays.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [Verbal](../topics/verbal.md) 1 · [SQL](../topics/sql.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · +1 more  
-**Seen at:** IIT BHU, IIT Indore, VIT Vellore
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 6 · [HR & Behavioral](../topics/hr-behavioral.md) 5 · [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [Verbal](../topics/verbal.md) 1 · [SQL](../topics/sql.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · +1 more  
+**Seen at:** IIT BHU, IIT Indore, NIT Rourkela, VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · Unknown · FTE · DAA · Interview](#2026-11-10--unknown--fte--daa--interview)
+  - [ZS DAA communication round](#q1-zs-daa-communication-round)
+- [2026-11-10 · NIT Rourkela · FTE · Interview](#2026-11-10--nit-rourkela--fte--interview)
+  - [ZS case study round format](#q1-zs-case-study-round-format)
 - [2026-11-09 · VIT Vellore · FTE · DAA · Interview](#2026-11-09--vit-vellore--fte--daa--interview)
   - [Move zeroes to end](#q1-move-zeroes-to-end)
   - [Lift usage guesstimate](#q2-lift-usage-guesstimate)
@@ -32,6 +36,22 @@
 </details>
 
 ---
+
+## 2026-11-10 · Unknown · FTE · DAA · Interview
+
+### Q1. ZS DAA communication round
+
+The communication round asked behavioral questions and STAR-based questions. No specific questions given.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L491)</sub>
+
+## 2026-11-10 · NIT Rourkela · FTE · Interview
+
+### Q1. ZS case study round format
+
+The case study is presented offline. The interviewer asks you to solve it one question at a time, then discusses your solution and the intuition behind each answer. This year there is a small change: 2 case questions in hardcopy and 2 on an AI-based case round, all in front of the interviewer.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 10 Nov](../archive/campus-nit-durgapur-placements/2026-11.jsonl#L4)</sub>
 
 ## 2026-11-09 · VIT Vellore · FTE · DAA · Interview
 
@@ -140,4 +160,4 @@ Verbal assessment round had three parts:
 
 The actual sentences, audio questions and topics were not shared.
 
-<sub>Topics: OA Format, Verbal · Source: [chat, 17 Oct](../archive/campus-nit-rourkela-placements/2026-10.jsonl#L14)</sub>
+<sub>Topics: OA Format, Verbal · Source: [chat, 17 Oct](../archive/campus-nit-rourkela-placements/2026-10.jsonl#L14) · Also asked at: Unknown (2026-11-10)</sub>

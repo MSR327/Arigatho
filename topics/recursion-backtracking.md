@@ -1,6 +1,6 @@
 # Recursion/Backtracking
 
-31 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+32 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
@@ -28,6 +28,7 @@
 | 2026-10-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Guwahati | [N queens in a row (DSA question)](../companies/deutsche-bank.md#q1-n-queens-in-a-row-dsa-question) | [LC 51](https://leetcode.com/problems/n-queens/) Hard |
 | 2026-10-14 | [InMobi](../companies/inmobi.md) | IIT BHU | [Recursion + backtracking problem](../companies/inmobi.md#q2-recursion--backtracking-problem) | ≈ [LC 51](https://leetcode.com/problems/n-queens/) Hard |
 | 2026-10-11 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Morse Code Dictionary (Set 1)](../companies/accenture.md#q2-morse-code-dictionary-set-1) | [LC 804](https://leetcode.com/problems/unique-morse-code-words/) Easy |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Python lru_cache Fibonacci output](../companies/icici.md#q9-python-lru_cache-fibonacci-output) | |
 | 2026-10-05 | [InMobi](../companies/inmobi.md) | IIT BHU | [Circular Defense](../companies/inmobi.md#q1-circular-defense) | ≈ [LC 1326](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) Hard |
 | 2026-09-21 | [Blinkit](../companies/blinkit.md) | Unknown | [Binary tree path-sum variants](../companies/blinkit.md#q1-binary-tree-path-sum-variants) | [LC 437](https://leetcode.com/problems/path-sum-iii/) Medium |
 | 2026-09-21 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Constrained selection and combination generation](../companies/eternal-zomato.md#q2-constrained-selection-and-combination-generation) | ≈ [LC 77](https://leetcode.com/problems/combinations/) Medium |

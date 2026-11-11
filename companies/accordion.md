@@ -1,6 +1,6 @@
 # Accordion
 
-**33 questions** · 10 drives · latest 9 Nov 2026 · [← all companies](../README.md#companies)
+**33 questions** · 10 drives · latest 10 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 24 · [OA Format](../topics/oa-format.md) 9 · [Finance](../topics/finance.md) 9 · [Math](../topics/math.md) 6 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
@@ -66,25 +66,25 @@ Data Science section (5 questions / 7 minutes):
 3. One basic probability question.
 4. A theoretical sampling question.
 
-<sub>Topics: Math, Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi ×4 (last 2026-11-09), NIT Warangal ×4 (last 2026-11-09)</sub>
+<sub>Topics: Math, Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi ×4 (last 2026-11-09), NIT Warangal ×4 (last 2026-11-09), IIT BHU ×7 (last 2026-11-10), Unknown ×4 (last 2026-11-10)</sub>
 
 ### Q2. Smallest number whose digits multiply to N
 
 Given a number N (e.g. 36), decompose it into a number whose digits multiply to give N (e.g. 49 and 94 both give 4x9 = 36). Find the smallest such number.
 
-<sub>Topics: Greedy, Math · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi (2026-11-09), NIT Warangal (2026-11-09), IIT BHU ×2 (last 2026-11-09)</sub>
+<sub>Topics: Greedy, Math · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi (2026-11-09), NIT Warangal (2026-11-09), IIT BHU ×5 (last 2026-11-10), Unknown (2026-11-10)</sub>
 
 ### Q3. Matrix traversal maximum wedges
 
 An m x n matrix is given. A person enters from the top right, makes two left turns, and exits from the right side of the matrix. In this traversal, find the maximum number of wedges collected. (Poster's recollection is unclear; exact rules are missing.)
 
-<sub>Topics: DP, Arrays · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi (2026-11-09), NIT Warangal (2026-11-09)</sub>
+<sub>Topics: DP, Arrays · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi (2026-11-09), NIT Warangal (2026-11-09), IIT BHU ×3 (last 2026-11-10), Unknown (2026-11-10)</sub>
 
 ### Q4. DA section: business math
 
 DA section (15 questions / 20 minutes): very tough and long business math questions. The poster says they repeat.
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi (2026-11-09), NIT Warangal (2026-11-09)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L58) · Also asked at: IIT Delhi (2026-11-09), NIT Warangal (2026-11-09), IIT BHU ×2 (last 2026-11-10)</sub>
 
 ## 2026-11-09 · IIT Delhi · FTE · Data and AI Analyst
 
@@ -393,7 +393,7 @@ AI/ML Engineer 2: 3 sections:
 
 PST: multiple-choice business problem-solving questions, 20 minutes, 15 problem-solving questions. Focus: numerical reasoning, structured thinking, basic business math. Marking: +1 for each correct answer, -0.5 for each wrong answer.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT Dhanbad (2026-11-07), IIT Roorkee ×3 (last 2026-11-08), IIT BHU ×7 (last 2026-11-09)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT Dhanbad (2026-11-07), IIT Roorkee ×3 (last 2026-11-08), IIT BHU ×8 (last 2026-11-10), Unknown (2026-11-10)</sub>
 
 ## 2026-11-06 · IIT Bhubaneswar · FTE · Data Engineer
 
@@ -406,7 +406,7 @@ PST: multiple-choice business problem-solving questions, 20 minutes, 15 problem-
 - Hashmaps
 - No coding
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L43)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L43) · Also asked at: Unknown (2026-11-10), IIT Guwahati (2026-11-10)</sub>
 
 ## 2026-11-05 · IIT BHU · FTE · AI/ML Engineer
 

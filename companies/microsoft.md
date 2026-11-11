@@ -1,13 +1,23 @@
 # Microsoft
 
-**15 questions** · 10 drives · latest 9 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**21 questions** · 14 drives · latest 10 Nov 2026 · [9 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Arrays](../topics/arrays.md) 4 · [Hashing](../topics/hashing.md) 3 · [Strings](../topics/strings.md) 3 · [Sorting](../topics/sorting.md) 2 · [Greedy](../topics/greedy.md) 2 · [Python & Pandas](../topics/python-pandas.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +5 more  
-**Seen at:** BITS Pilani, IIT Delhi, IIT Guwahati, IIT Madras, NIT Allahabad (MNNIT), NIT Kurukshetra
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 6 · [Greedy](../topics/greedy.md) 4 · [Sorting](../topics/sorting.md) 3 · [Hashing](../topics/hashing.md) 3 · [Strings](../topics/strings.md) 3 · [Python & Pandas](../topics/python-pandas.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +7 more  
+**Seen at:** BITS Pilani, IIT Delhi, IIT Guwahati, IIT Kharagpur, IIT Madras, NIT Allahabad (MNNIT), NIT Kurukshetra
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · Unknown · FTE](#2026-11-10--unknown--fte)
+  - [Microsoft OA: 2 easy DSA questions](#q1-microsoft-oa-2-easy-dsa-questions)
+- [2026-11-10 · IIT Kharagpur · FTE](#2026-11-10--iit-kharagpur--fte)
+  - [Max transactions keeping balance non-negative](#q1-max-transactions-keeping-balance-non-negative)
+- [2026-11-10 · IIT Guwahati · FTE](#2026-11-10--iit-guwahati--fte)
+  - [Microsoft OA format](#q1-microsoft-oa-format)
+  - [Total cost with first smaller element to the right](#q2-total-cost-with-first-smaller-element-to-the-right)
+  - [Partition array into k sectors, min and max total cost](#q3-partition-array-into-k-sectors-min-and-max-total-cost)
+- [2026-11-10 · IIT Delhi · FTE](#2026-11-10--iit-delhi--fte)
+  - [Microsoft OA difficulty](#q1-microsoft-oa-difficulty)
 - [2026-11-09 · Unknown · FTE · SDE](#2026-11-09--unknown--fte--sde)
   - [Minimum replacements to make k-complete word](#q1-minimum-replacements-to-make-k-complete-word)
 - [2026-11-09 · IIT Guwahati · FTE](#2026-11-09--iit-guwahati--fte)
@@ -38,6 +48,56 @@
 
 ---
 
+## 2026-11-10 · Unknown · FTE
+
+### Q1. Microsoft OA: 2 easy DSA questions
+
+2 DSA questions on HackerRank, mostly easy. Different sets were given. Topics included a standard BFS question from (0,0) to (n-1,n-1), binary search, DP, and some implementation-based problems. Exact statements not given.
+
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L364), [chat, 10 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L366), [chat, 10 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L368)</sub>
+
+## 2026-11-10 · IIT Kharagpur · FTE
+
+### Q1. Max transactions keeping balance non-negative
+
+You are given a series of transactions (+/-). Pick the maximum number of transactions such that the total value never goes below 0.
+
+(OA had 2 questions in 75 minutes. Exact constraints and examples not given.)
+
+<sub>Topics: Greedy, Heaps · Same problem: [Codeforces 1526C2. Potions (Hard Version)](https://codeforces.com/problemset/problem/1526/C2) (rated 1600), max picks keeping prefix sum non-negative, min-heap greedy · Source: [chat, 10 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L221) · Also asked at: IIT Kharagpur (2026-11-10)</sub>
+
+## 2026-11-10 · IIT Guwahati · FTE
+
+### Q1. Microsoft OA format
+
+75 minutes, 2 questions, conducted on HackerRank. The actual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L339), [chat, 10 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L340)</sub>
+
+### Q2. Total cost with first smaller element to the right
+
+You are given an array and need to find the total cost. The cost of an element is the element itself minus the first smaller element to its right. If there is no smaller element to its right, the cost is the element itself.
+
+(Exact constraints and examples were not given.)
+
+<sub>Topics: Arrays, Stack/Queue · Similar: [LeetCode 1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) (Easy) · Source: [chat, 10 Nov](../archive/microsoft-oa/2026-11.jsonl#L29) · Also asked at: Unknown (2026-11-10)</sub>
+
+### Q3. Partition array into k sectors, min and max total cost
+
+You are given an array and an integer k. Partition the array into k sectors and find the minimum and maximum total cost over the sectors. The cost of a sector is the first element of the sector plus the last element of the sector.
+
+(Exact constraints and examples were not given.)
+
+<sub>Topics: Arrays, Greedy, Sorting · Similar: [LeetCode 2551. Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) (Hard) · Source: [chat, 10 Nov](../archive/microsoft-oa/2026-11.jsonl#L29) · Also asked at: Unknown (2026-11-10)</sub>
+
+## 2026-11-10 · IIT Delhi · FTE
+
+### Q1. Microsoft OA difficulty
+
+The Microsoft OA had LeetCode Hard level problems. (No further details given.)
+
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L289)</sub>
+
 ## 2026-11-09 · Unknown · FTE · SDE
 
 ### Q1. Minimum replacements to make k-complete word
@@ -60,7 +120,7 @@ Constraints:
 
 Shared approach: keep a 26-bit parity mask per string; a pair works if the XOR of masks has at most one set bit. Use a hashmap of seen masks and check the same mask and `mask ^ (1<<k)` for k in 0..25.
 
-<sub>Topics: Hashing, Bit Manipulation, Strings · Same idea: [LeetCode 1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) (Medium), letter parity bitmask for palindrome checks · Source: [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L16), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L18)</sub>
+<sub>Topics: Hashing, Bit Manipulation, Strings · Same idea: [LeetCode 1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) (Medium), letter parity bitmask for palindrome checks · Source: [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L16), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L18) · Also asked at: IIT Guwahati ×2 (last 2026-11-10)</sub>
 
 ### Q2. Maximize number of valleys after rearranging
 
@@ -74,7 +134,7 @@ Find the maximum number of valleys possible after rearranging the array.
 
 Shared approach: sorting + greedy.
 
-<sub>Topics: Sorting, Greedy, Arrays · Same idea: [LeetCode 324. Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) (Medium), sort then interleave to create valleys · Source: [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L16), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L18)</sub>
+<sub>Topics: Sorting, Greedy, Arrays · Same idea: [LeetCode 324. Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) (Medium), sort then interleave to create valleys · Source: [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L16), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/microsoft-oa/2026-11.jsonl#L18) · Also asked at: IIT Guwahati ×2 (last 2026-11-10)</sub>
 
 ### Q3. Microsoft OA pattern
 
@@ -118,7 +178,7 @@ Usually about 2 coding questions in 60-90 minutes (pattern may vary). Topics: ar
 
 Given a list of words and a list of phrases, count how many distinct phrases can be generated by replacing each word with any of its anagrams. Return a long[m] array, where m = len(phrases), containing one count per phrase.
 
-<sub>Topics: Hashing, Strings · Same idea: [LeetCode 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) (Medium), group words by sorted-letter anagram key · Source: [chat, 21 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L92)</sub>
+<sub>Topics: Hashing, Strings · Same idea: [LeetCode 49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) (Medium), group words by sorted-letter anagram key · Source: [chat, 21 Oct](../archive/campus-iit-madras-placements/2026-10.jsonl#L92) · Also asked at: IIT Kharagpur ×2 (last 2026-11-10)</sub>
 
 ### Q2. Minimum total cost to complete all projects from bids
 

@@ -1,9 +1,10 @@
 # DP
 
-139 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+140 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [MathWorks](../companies/mathworks.md) | IIT Guwahati | [MathWorks interview focus: CP-style problems](../companies/mathworks.md#q1-mathworks-interview-focus-cp-style-problems) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT BHU | [Round 2 DSA (hard, probably DP)](../companies/capital-one.md#q1-round-2-dsa-hard-probably-dp) | |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Matrix traversal maximum wedges](../companies/accordion.md#q3-matrix-traversal-maximum-wedges) | |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Wildcard pattern matching](../companies/infoedge.md#q9-wildcard-pattern-matching) | [LC 44](https://leetcode.com/problems/wildcard-matching/) Hard |

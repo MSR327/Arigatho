@@ -1,13 +1,15 @@
 # Amazon
 
-**17 questions** · 14 drives · latest 9 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**18 questions** · 15 drives · latest 10 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 14 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1  
-**Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Madras, MNNIT Allahabad +3 more
+**Asks about:** [OA Format](../topics/oa-format.md) 15 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1 · +1 more  
+**Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Madras, IIT Roorkee +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · IIT Roorkee · FTE](#2026-11-10--iit-roorkee--fte)
+  - [Backend code debugging question (repo)](#q1-backend-code-debugging-question-repo)
 - [2026-11-09 · MNNIT Allahabad · FTE](#2026-11-09--mnnit-allahabad--fte)
   - [Amazon AI-assisted coding round](#q1-amazon-ai-assisted-coding-round)
 - [2026-11-09 · IIT Madras · FTE · SDE-1](#2026-11-09--iit-madras--fte--sde-1)
@@ -43,6 +45,16 @@
 </details>
 
 ---
+
+## 2026-11-10 · IIT Roorkee · FTE
+
+### Q1. Backend code debugging question (repo)
+
+The OA has a repo/backend code debugging question. Most probably it involves fixing bugs in an already implemented solution rather than implementing a feature, and the backend is usually Express.js.
+
+The actual bugs or problem statement were not shared.
+
+<sub>Topics: OA Format, Web Dev · Source: [chat, 10 Nov](../archive/amazon-oa/2026-11.jsonl#L124), [chat, 10 Nov](../archive/amazon-oa/2026-11.jsonl#L125)</sub>
 
 ## 2026-11-09 · MNNIT Allahabad · FTE
 
@@ -168,7 +180,7 @@ Same as the off-campus application:
 - 1 debugging question (backend)
 - then a psychometric test including mail replies and your behaviour
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L5), [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L6)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L5), [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L6) · Also asked at: IIT Roorkee ×4 (last 2026-11-10), IIT Delhi (2026-11-10)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE
 

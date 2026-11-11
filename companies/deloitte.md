@@ -1,13 +1,17 @@
 # Deloitte
 
-**69 questions** · 16 drives · latest 5 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**71 questions** · 18 drives · latest 10 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 11 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +14 more  
-**Seen at:** IIT BHU, IIT Dhanbad, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, MNNIT Allahabad, NIT Raipur +2 more
+**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 13 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +14 more  
+**Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, MNNIT Allahabad +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · VNIT Nagpur · FTE · Other round](#2026-11-10--vnit-nagpur--fte--other-round)
+  - [Deloitte South Asia hiring process](#q1-deloitte-south-asia-hiring-process)
+- [2026-11-10 · IIT Guwahati · FTE](#2026-11-10--iit-guwahati--fte)
+  - [Deloitte SA vibe coding round format](#q1-deloitte-sa-vibe-coding-round-format)
 - [2026-11-04 · IIT Hyderabad · FTE](#2026-11-04--iit-hyderabad--fte)
   - [Job scheduling with dependencies](#q1-job-scheduling-with-dependencies)
 - [2026-11-03 · IIT Roorkee · FTE](#2026-11-03--iit-roorkee--fte)
@@ -97,6 +101,24 @@
 </details>
 
 ---
+
+## 2026-11-10 · VNIT Nagpur · FTE · Other round
+
+### Q1. Deloitte South Asia hiring process
+
+Hiring process for FTE roles: an online OA followed by a technical + HR interview round. (Question contents not given.)
+
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/inter-nit/2026-11.jsonl#L1102)</sub>
+
+## 2026-11-10 · IIT Guwahati · FTE
+
+### Q1. Deloitte SA vibe coding round format
+
+Deloitte SA round is a vibe coding round. You have only 30 minutes. You need to solve a question completely using AI: the AI writes the code and you have to debug it without the use of AI. Overall time is 30 minutes only.
+
+The actual problem statement was not shared.
+
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/deloitte-oa/2026-11.jsonl#L95), [chat, 10 Nov](../archive/deloitte-oa/2026-11.jsonl#L96)</sub>
 
 ## 2026-11-04 · IIT Hyderabad · FTE
 

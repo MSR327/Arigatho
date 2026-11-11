@@ -1,9 +1,9 @@
 # Navi
 
-**46 questions** · 24 drives · latest 7 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**46 questions** · 24 drives · latest 10 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 12 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 10 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Math](../topics/math.md) 4 · +5 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Mandi +2 more
+**Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -395,7 +395,7 @@ Given a grid of characters, find the count of a specific word in the grid, searc
 
 30 minute test, marking +3 / -1, 25 questions: 6-7 DI/LR, 2-3 permutation and combination, and the rest basic aptitude.
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L15)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L15) · Also asked at: IIT Madras (2026-11-10), IIT Roorkee (2026-11-10)</sub>
 
 ### Q2. Arrangements of 10 letters with gap between A and B and CD together
 
@@ -447,7 +447,7 @@ A pattern finding question. The poster gave no details.
 
 25 MCQs, marking +3 / -1. Topics: quantitative aptitude and probability.
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 1 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L8) · Also asked at: IIT Roorkee (2026-11-04)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 1 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L8) · Also asked at: IIT Roorkee (2026-11-04), IIT Madras (2026-11-10)</sub>
 
 ## 2026-10-31 · IIT Delhi · FTE · SDE
 

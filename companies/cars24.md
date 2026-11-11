@@ -1,13 +1,17 @@
 # Cars24
 
-**24 questions** · 3 drives · latest 9 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**26 questions** · 5 drives · latest 10 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Graphs](../topics/graphs.md) 5 · [Arrays](../topics/arrays.md) 4 · [Sorting](../topics/sorting.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · [Trees](../topics/trees.md) 3 · [Hashing](../topics/hashing.md) 3 · [Sliding Window](../topics/sliding-window.md) 2 · +8 more  
+**Asks about:** [Graphs](../topics/graphs.md) 5 · [Arrays](../topics/arrays.md) 4 · [OA Format](../topics/oa-format.md) 3 · [Sorting](../topics/sorting.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · [Trees](../topics/trees.md) 3 · [Hashing](../topics/hashing.md) 3 · +9 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · Unknown · FTE](#2026-11-10--unknown--fte)
+  - [Cars24 OA structure](#q1-cars24-oa-structure)
+- [2026-11-10 · IIT Roorkee · FTE](#2026-11-10--iit-roorkee--fte)
+  - [Cars24 OA pattern](#q1-cars24-oa-pattern)
 - [2026-11-09 · Unknown · FTE](#2026-11-09--unknown--fte)
   - [Minimum Cost Fleet Relocation](#q1-minimum-cost-fleet-relocation)
   - [Merge Intervals](#q2-merge-intervals)
@@ -39,6 +43,22 @@
 </details>
 
 ---
+
+## 2026-11-10 · Unknown · FTE
+
+### Q1. Cars24 OA structure
+
+Duration: usually around 60 to 90 minutes. Sections: generally a mix of Coding/DSA problems, SQL/Database queries, and multiple-choice questions on core Computer Science and Java/Spring.
+
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L113)</sub>
+
+## 2026-11-10 · IIT Roorkee · FTE
+
+### Q1. Cars24 OA pattern
+
+Cars24 OA: mostly AI/ML MCQs and 2 DSA questions in Python.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 10 Nov](../archive/thorogood-oa/2026-11.jsonl#L8), [chat, 10 Nov](../archive/thorogood-oa/2026-11.jsonl#L9)</sub>
 
 ## 2026-11-09 · Unknown · FTE
 

@@ -1,6 +1,6 @@
 # Trees
 
-72 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+73 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
@@ -66,6 +66,7 @@
 | 2026-10-08 | [Pace Stock](../companies/pace-stock.md) | IIT Delhi | [Shortest walk through required vertices in a tree](../companies/pace-stock.md#q1-shortest-walk-through-required-vertices-in-a-tree) | [CF 1675F](https://codeforces.com/problemset/problem/1675/F) rated 1800 |
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Codeforces 1324F (tree problem)](../companies/eternal-zomato.md#q1-codeforces-1324f-tree-problem) | [CF 1324F](https://codeforces.com/problemset/problem/1324/F) rated 1800 |
 | 2026-10-06 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Maximum connected value for every node in a tree](../companies/eternal-zomato.md#q2-maximum-connected-value-for-every-node-in-a-tree) | [CF 1324F](https://codeforces.com/problemset/problem/1324/F) rated 1800 |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [C++ BFS maximum level width output](../companies/icici.md#q3-c-bfs-maximum-level-width-output) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Roorkee | [Tree: visit all required nodes, start at 1 and end at n](../companies/squarepoint.md#q1-tree-visit-all-required-nodes-start-at-1-and-end-at-n) | ≈ [LC 1443](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) Medium |
 | 2026-10-03 | [Amazon](../companies/amazon.md) | IIT BHU | [Internal implementation of map, set, unordered_map, unordered_set](../companies/amazon.md#q1-internal-implementation-of-map-set-unordered_map-unordered_set) | |
 | 2026-10-02 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Minimum Sum Assignment on a Tree](../companies/eternal-zomato.md#q1-minimum-sum-assignment-on-a-tree-2) | ≈ [LC 785](https://leetcode.com/problems/is-graph-bipartite/) Medium |

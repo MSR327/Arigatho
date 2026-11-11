@@ -1,13 +1,15 @@
 # Unknown
 
-**42 questions** · 26 drives · latest 8 Nov 2026 · [14 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**43 questions** · 27 drives · latest 10 Nov 2026 · [14 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 18 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Arrays](../topics/arrays.md) 5 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +14 more  
-**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +3 more
+**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Arrays](../topics/arrays.md) 5 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +14 more  
+**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · NIT Kurukshetra · FTE](#2026-11-10--nit-kurukshetra--fte)
+  - [ICICI Bank OA topics](#q1-icici-bank-oa-topics)
 - [2026-11-08 · Unknown · FTE · Quant Analyst · Other round](#2026-11-08--unknown--fte--quant-analyst--other-round)
   - [Goldman Sachs Quant Analyst hiring process pattern](#q1-goldman-sachs-quant-analyst-hiring-process-pattern)
 - [2026-11-07 · Unknown · FTE](#2026-11-07--unknown--fte)
@@ -80,6 +82,25 @@
 </details>
 
 ---
+
+## 2026-11-10 · NIT Kurukshetra · FTE
+
+### Q1. ICICI Bank OA topics
+
+The ICICI Bank process has 3 rounds: resume shortlisting, an online assessment, and a personal interview. The OA covers:
+
+- OOPs concepts
+- Computer Networking
+- Operating System
+- Programming Language (C/C++/Python/Java)
+- Machine Learning
+- Natural Language Processing
+- Quantitative Mathematics
+- Project Management
+- Software Engineering
+- DBMS
+
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L104)</sub>
 
 ## 2026-11-08 · Unknown · FTE · Quant Analyst · Other round
 

@@ -1,9 +1,11 @@
 # Math
 
-204 questions from 53 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+207 questions from 54 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA quantitative aptitude questions](../companies/iqvia.md#q4-iqvia-quantitative-aptitude-questions) | |
+| 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [Quantitative Aptitude questions](../companies/iqvia.md#q1-quantitative-aptitude-questions) | |
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Indore | [Count elements whose first and last digit sum to 9](../companies/accenture.md#q1-count-elements-whose-first-and-last-digit-sum-to-9) | |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Smallest number whose digits multiply to N](../companies/accordion.md#q2-smallest-number-whose-digits-multiply-to-n) | |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Data Science section: recall, handshakes, probability, sampling](../companies/accordion.md#q1-data-science-section-recall-handshakes-probability-sampling) | |
@@ -176,6 +178,7 @@
 | 2026-10-07 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Madras | [Newton's Law of Cooling approach](../companies/eternal-zomato.md#q3-newtons-law-of-cooling-approach) | |
 | 2026-10-06 | [Pace Stock](../companies/pace-stock.md) | IIT Kharagpur | [Server connectivity via GCD > 1](../companies/pace-stock.md#q4-server-connectivity-via-gcd--1) | [LC 952](https://leetcode.com/problems/largest-component-size-by-common-factor/) Hard |
 | 2026-10-06 | [Pace Stock](../companies/pace-stock.md) | IIT Kharagpur | [Maximum pairs with non-perfect-square product after K changes](../companies/pace-stock.md#q2-maximum-pairs-with-non-perfect-square-product-after-k-changes) | ≈ [CF 1497E1](https://codeforces.com/problemset/problem/1497/E1) rated 1700 |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Bayes probability: defective cloth from supplier B](../companies/icici.md#q11-bayes-probability-defective-cloth-from-supplier-b) | |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Nature of x^3 - 3x at x = 1](../companies/infoedge.md#q6-nature-of-x3---3x-at-x--1) | |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Correlation from covariance and variances](../companies/infoedge.md#q5-correlation-from-covariance-and-variances) | |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Bayes: disease probability after two positive tests](../companies/infoedge.md#q4-bayes-disease-probability-after-two-positive-tests) | |

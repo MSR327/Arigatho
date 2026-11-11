@@ -1,6 +1,6 @@
 # Code Output (C/C++/Java/Python)
 
-66 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+71 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
@@ -50,6 +50,11 @@
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [Microcontroller loop count](../companies/texas-instruments.md#q50-microcontroller-loop-count) | |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [C program output (digit-weighted sum)](../companies/texas-instruments.md#q42-c-program-output-digit-weighted-sum) | |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Hyderabad | [C macro/shift operator output](../companies/texas-instruments.md#q40-c-macroshift-operator-output) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Python adder1/adder2 varargs output](../companies/icici.md#q13-python-adder1adder2-varargs-output) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Python lru_cache Fibonacci output](../companies/icici.md#q9-python-lru_cache-fibonacci-output) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Swift class inheritance output](../companies/icici.md#q6-swift-class-inheritance-output) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [C++ BFS maximum level width output](../companies/icici.md#q3-c-bfs-maximum-level-width-output) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Python scoping: global and del output](../companies/icici.md#q1-python-scoping-global-and-del-output) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [C++ virtual functions by value vs reference](../companies/squarepoint.md#q6-c-virtual-functions-by-value-vs-reference) | |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Python set operations](../companies/infoedge.md#q10-python-set-operations) | |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Python list comprehension output](../companies/infoedge.md#q9-python-list-comprehension-output) | |

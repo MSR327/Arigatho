@@ -1,19 +1,39 @@
 # Samsung
 
-**1 question** · 1 drive · latest 13 Oct 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 10 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Heaps](../topics/heaps.md) 1 · [Hashing](../topics/hashing.md) 1 · [Sorting](../topics/sorting.md) 1  
-**Seen at:** IIT Delhi
+**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Circuits](../topics/circuits.md) 2 · [Heaps](../topics/heaps.md) 1 · [Hashing](../topics/hashing.md) 1 · [Sorting](../topics/sorting.md) 1  
+**Seen at:** IIT Delhi, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · Unknown · FTE · Semiconductor (Embedded Software)](#2026-11-10--unknown--fte--semiconductor-embedded-software)
+  - [Samsung Semiconductor OA pattern](#q1-samsung-semiconductor-oa-pattern)
+- [2026-11-10 · IIT Roorkee · FTE](#2026-11-10--iit-roorkee--fte)
+  - [Samsung OA pattern](#q1-samsung-oa-pattern)
 - [2026-10-13 · IIT Delhi · FTE](#2026-10-13--iit-delhi--fte)
   - [Machine manufacturing time: initialize, add, subtract, calculate](#q1-machine-manufacturing-time-initialize-add-subtract-calculate)
 
 </details>
 
 ---
+
+## 2026-11-10 · Unknown · FTE · Semiconductor (Embedded Software)
+
+### Q1. Samsung Semiconductor OA pattern
+
+The OA had circuit design MCQs. No further details given.
+
+<sub>Topics: OA Format, Circuits · Source: [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L494)</sub>
+
+## 2026-11-10 · IIT Roorkee · FTE
+
+### Q1. Samsung OA pattern
+
+The OA had circuit design MCQs (for their branch). No further details were given.
+
+<sub>Topics: OA Format, Circuits · Source: [chat, 10 Nov](../archive/entnt-oa/2026-11.jsonl#L4)</sub>
 
 ## 2026-10-13 · IIT Delhi · FTE
 

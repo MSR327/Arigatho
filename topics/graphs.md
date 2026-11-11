@@ -1,9 +1,10 @@
 # Graphs
 
-147 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+148 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [MathWorks](../companies/mathworks.md) | IIT Guwahati | [MathWorks interview focus: CP-style problems](../companies/mathworks.md#q1-mathworks-interview-focus-cp-style-problems) | |
 | 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Count leaf nodes with at most k consecutive bad nodes on path](../companies/juspay.md#q2-count-leaf-nodes-with-at-most-k-consecutive-bad-nodes-on-path) | ≈ [LC 1](https://leetcode.com/problems/two-sum/) Easy |
 | 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Graph update and query (segment tree / Fenwick tree)](../companies/juspay.md#q1-graph-update-and-query-segment-tree--fenwick-tree) | ≈ [LC 307](https://leetcode.com/problems/range-sum-query-mutable/) Medium |
 | 2026-11-09 | [Capgemini](../companies/capgemini.md) | IIT Guwahati | [DSU-based graph question with array input](../companies/capgemini.md#q3-dsu-based-graph-question-with-array-input) | ≈ [LC 547](https://leetcode.com/problems/number-of-provinces/) Medium |

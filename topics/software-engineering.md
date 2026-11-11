@@ -1,9 +1,10 @@
 # Software Engineering
 
-61 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+63 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [Optum](../companies/optum.md) | NIT Warangal | [Optum HR and technical interview](../companies/optum.md#q1-optum-hr-and-technical-interview) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT Delhi | [Design a University Ticketing System](../companies/capital-one.md#q2-design-a-university-ticketing-system) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT BHU | [System design: classes, transactions, race conditions](../companies/capital-one.md#q1-system-design-classes-transactions-race-conditions) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT BHU | [Ticket system design](../companies/capital-one.md#q2-ticket-system-design) | |
@@ -46,6 +47,7 @@
 | 2026-10-14 | [Rystad Energy](../companies/rystad-energy.md) | IIT Delhi | [MCQ: daily import shows exactly 50% fewer records](../companies/rystad-energy.md#q18-mcq-daily-import-shows-exactly-50-fewer-records) | |
 | 2026-10-13 | [Harness](../companies/harness.md) | IIT Guwahati | [10 MCQs on Backend, Testing and SQL](../companies/harness.md#q3-10-mcqs-on-backend-testing-and-sql) | |
 | 2026-10-09 | [ION](../companies/ion.md) | VNIT Nagpur | [Project deep-dive](../companies/ion.md#q5-project-deep-dive) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Agile marketing main goal](../companies/icici.md#q12-agile-marketing-main-goal) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Docker initialization task](../companies/squarepoint.md#q10-docker-initialization-task) | |
 | 2026-09-29 | [Squarepoint](../companies/squarepoint.md) | IIT BHU | [Debugging: order book matching market participants](../companies/squarepoint.md#q2-debugging-order-book-matching-market-participants) | |
 | 2026-09-24 | [Juspay](../companies/juspay.md) | VIT Vellore | [Hackathon LLD problem](../companies/juspay.md#q2-hackathon-lld-problem) | |

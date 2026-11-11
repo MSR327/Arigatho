@@ -1,9 +1,10 @@
 # Two Pointers
 
-21 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+22 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [Cognizant](../companies/cognizant.md) | IIT Delhi | [Minimum Time to Process Tasks](../companies/cognizant.md#q1-minimum-time-to-process-tasks) | [LC 881](https://leetcode.com/problems/boats-to-save-people/) Medium |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [3Sum](../companies/infoedge.md#q4-3sum) | [LC 15](https://leetcode.com/problems/3sum/) Medium |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Container with most water](../companies/infoedge.md#q3-container-with-most-water) | [LC 11](https://leetcode.com/problems/container-with-most-water/) Medium |
 | 2026-11-09 | [ZS](../companies/zs.md) | VIT Vellore | [Move zeroes to end](../companies/zs.md#q1-move-zeroes-to-end) | [LC 283](https://leetcode.com/problems/move-zeroes/) Easy |

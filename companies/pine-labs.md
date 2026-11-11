@@ -1,13 +1,15 @@
 # Pine Labs
 
-**2 questions** · 2 drives · latest 9 Nov 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 10 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2  
-**Seen at:** IIT BHU, IIT Hyderabad, NIT Kurukshetra
+**Asks about:** [OA Format](../topics/oa-format.md) 2 · [ML/AI](../topics/ml-ai.md) 1  
+**Seen at:** IIT BHU, IIT Hyderabad, IIT Kharagpur/Kanpur, NIT Kurukshetra
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · IIT Kharagpur/Kanpur · FTE · AI/ML](#2026-11-10--iit-kharagpurkanpur--fte--aiml)
+  - [Implement max pooling and k-means](#q1-implement-max-pooling-and-k-means)
 - [2026-11-09 · NIT Kurukshetra · FTE · AI/ML](#2026-11-09--nit-kurukshetra--fte--aiml)
   - [Pine Labs AI/ML OA pattern](#q1-pine-labs-aiml-oa-pattern)
 - [2026-11-09 · IIT BHU · FTE](#2026-11-09--iit-bhu--fte)
@@ -16,6 +18,14 @@
 </details>
 
 ---
+
+## 2026-11-10 · IIT Kharagpur/Kanpur · FTE · AI/ML
+
+### Q1. Implement max pooling and k-means
+
+Coding question related to implementing max pooling and k-means. Full statement not provided.
+
+<sub>Topics: ML/AI · Source: [chat, 10 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L105)</sub>
 
 ## 2026-11-09 · NIT Kurukshetra · FTE · AI/ML
 

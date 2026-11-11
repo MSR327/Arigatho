@@ -1,13 +1,15 @@
 # Cognizant
 
-**51 questions** · 18 drives · latest 8 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**52 questions** · 19 drives · latest 11 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 16 · [Greedy](../topics/greedy.md) 8 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 5 · [Arrays](../topics/arrays.md) 5 · [Binary Search](../topics/binary-search.md) 4 · [Sorting](../topics/sorting.md) 4 · [DP](../topics/dp.md) 3 · +13 more  
-**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +2 more
+**Asks about:** [OA Format](../topics/oa-format.md) 16 · [Greedy](../topics/greedy.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 5 · [Arrays](../topics/arrays.md) 5 · [Binary Search](../topics/binary-search.md) 4 · [Sorting](../topics/sorting.md) 4 · [DP](../topics/dp.md) 3 · +13 more  
+**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · IIT Delhi · FTE](#2026-11-10--iit-delhi--fte)
+  - [Minimum Time to Process Tasks](#q1-minimum-time-to-process-tasks)
 - [2026-11-08 · IIT Roorkee · FTE](#2026-11-08--iit-roorkee--fte)
   - [Wind farms optimal control center location](#q1-wind-farms-optimal-control-center-location)
   - [Why not hard-code API keys](#q2-why-not-hard-code-api-keys)
@@ -81,6 +83,42 @@
 </details>
 
 ---
+
+## 2026-11-10 · IIT Delhi · FTE
+
+### Q1. Minimum Time to Process Tasks
+
+Given an array taskMemory of n positive integers representing memory required for each task, an array taskType of n positive integers representing task types, and an integer maxMemory, find the minimum time required to process all tasks.
+
+Each task takes 1 unit of time. The server can process at most two tasks in parallel only if they are the same type and together require no more than maxMemory units.
+
+Function: getMinTime(taskMemory, taskType, maxMemory) returns int.
+
+Constraints:
+- 1 <= n <= 2 * 10^5
+- 1 <= maxMemory <= 10^9
+- 1 <= taskMemory[i] <= maxMemory
+- 1 <= taskType[i] <= 10^9
+
+Example:
+```
+n = 4
+taskMemory = [7, 2, 3, 9]
+taskType = [1, 2, 1, 3]
+maxMemory = 10
+Output: 3
+```
+Tasks 1 and 3 have the same type and combined memory 10, so they run together; the other two run separately.
+
+Sample case 0:
+```
+taskMemory = [1, 2, 3, 4, 2]
+taskType = [1, 2, 1, 2, 3]
+maxMemory = 4
+Output: 4
+```
+
+<sub>Topics: Greedy, Hashing, Two Pointers · Close variant: [LeetCode 881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) (Medium), two-pointer pairing under capacity, done per task type · Source: [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L562), [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L563) · Also asked at: IIT Delhi ×3 (last 2026-11-10), Unknown (2026-11-11)</sub>
 
 ## 2026-11-08 · IIT Roorkee · FTE
 
@@ -401,7 +439,7 @@ Sample Case 0: n = 4, high_priority = [1, 4] (k = 2), normal_time = 1, priority_
 
 The statement was read from blurry photos, so the exact wording and constraints are only partly visible. The cost formula and splitting rule are my best reading of the photos.
 
-<sub>Topics: Recursion/Backtracking, Arrays · Source: [iit_dhanbad_cognizant_oa.pdf](../archive/files/21496-iit_dhanbad_cognizant_oa.pdf)</sub>
+<sub>Topics: Recursion/Backtracking, Arrays · Source: [iit_dhanbad_cognizant_oa.pdf](../archive/files/21496-iit_dhanbad_cognizant_oa.pdf) · Also asked at: IIT Delhi ×2 (last 2026-11-10)</sub>
 
 ## 2026-11-05 · IIT BHU · FTE
 

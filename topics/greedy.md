@@ -1,9 +1,12 @@
 # Greedy
 
-106 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+109 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [Cognizant](../companies/cognizant.md) | IIT Delhi | [Minimum Time to Process Tasks](../companies/cognizant.md#q1-minimum-time-to-process-tasks) | [LC 881](https://leetcode.com/problems/boats-to-save-people/) Medium |
+| 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Kharagpur | [Max transactions keeping balance non-negative](../companies/microsoft.md#q1-max-transactions-keeping-balance-non-negative) | [CF 1526C2](https://codeforces.com/problemset/problem/1526/C2) rated 1600 |
+| 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Partition array into k sectors, min and max total cost](../companies/microsoft.md#q3-partition-array-into-k-sectors-min-and-max-total-cost) | [LC 2551](https://leetcode.com/problems/put-marbles-in-bags/) Hard |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | NIT Delhi | [Task Scheduling](../companies/eternal-zomato.md#q1-task-scheduling) | ≈ [LC 621](https://leetcode.com/problems/task-scheduler/) Medium |
 | 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Add a permutation to maximize equal elements](../companies/juspay.md#q3-add-a-permutation-to-maximize-equal-elements) | |
 | 2026-11-09 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Maximize number of valleys after rearranging](../companies/microsoft.md#q2-maximize-number-of-valleys-after-rearranging) | ≈ [LC 324](https://leetcode.com/problems/wiggle-sort-ii/) Medium |

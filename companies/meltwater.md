@@ -1,13 +1,15 @@
 # Meltwater
 
-**6 questions** · 2 drives · latest 16 Oct 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**7 questions** · 3 drives · latest 10 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [Math](../topics/math.md) 2 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1 · [Sorting](../topics/sorting.md) 1 · [Arrays](../topics/arrays.md) 1  
+**Asks about:** [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [Math](../topics/math.md) 2 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1 · [Sorting](../topics/sorting.md) 1 · [Arrays](../topics/arrays.md) 1 · [OA Format](../topics/oa-format.md) 1  
 **Seen at:** IIT Hyderabad, VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-10 · IIT Hyderabad · FTE](#2026-11-10--iit-hyderabad--fte)
+  - [Meltwater OA pattern](#q1-meltwater-oa-pattern)
 - [2026-10-16 · IIT Hyderabad · FTE](#2026-10-16--iit-hyderabad--fte)
   - [Sum of First N Triangular Numbers](#q1-sum-of-first-n-triangular-numbers)
   - [Kth Character of Concatenated Sorted Unique Substrings](#q2-kth-character-of-concatenated-sorted-unique-substrings)
@@ -20,6 +22,14 @@
 </details>
 
 ---
+
+## 2026-11-10 · IIT Hyderabad · FTE
+
+### Q1. Meltwater OA pattern
+
+3 DSA questions only: 2 medium and 1 hard.
+
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/meltwater-oa/2026-11.jsonl#L2)</sub>
 
 ## 2026-10-16 · IIT Hyderabad · FTE
 

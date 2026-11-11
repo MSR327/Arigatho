@@ -1,9 +1,11 @@
 # ML/AI
 
-136 questions from 23 companys, newest first. [← all topics](../README.md#topics)
+138 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-10 | [Pine Labs](../companies/pine-labs.md) | IIT Kharagpur/Kanpur | [Implement max pooling and k-means](../companies/pine-labs.md#q1-implement-max-pooling-and-k-means) |
+| 2026-11-10 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 OA pattern](../companies/cars24.md#q1-cars24-oa-pattern) |
 | 2026-11-09 | [Qualcomm](../companies/qualcomm.md) | IIT Kharagpur/Kanpur | [Qualcomm software OA content](../companies/qualcomm.md#q1-qualcomm-software-oa-content) |
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [AI assistant based question](../companies/accenture.md#q4-ai-assistant-based-question) |
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Accenture operations OA format](../companies/accenture.md#q1-accenture-operations-oa-format) |

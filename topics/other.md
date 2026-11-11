@@ -1,6 +1,6 @@
 # Other
 
-57 questions from 21 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+58 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Spark filter records born after 1950](../companies/accenture.md#q9-spark-filter-records-born-after-1950) | |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Spark RDD category-count pairs](../companies/accenture.md#q8-spark-rdd-category-count-pairs) | |
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Third coding question (not remembered)](../companies/eternal-zomato.md#q4-third-coding-question-not-remembered) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Tkinter widget for number entry](../companies/icici.md#q10-tkinter-widget-for-number-entry) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Linux: dedupe IPs from latest log file](../companies/squarepoint.md#q2-linux-dedupe-ips-from-latest-log-file) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Roorkee | [Trading Problem](../companies/squarepoint.md#q2-trading-problem) | |
 | 2026-10-04 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [DSA question (Codeforces blog 53849)](../companies/alight-solutions.md#q1-dsa-question-codeforces-blog-53849) | |

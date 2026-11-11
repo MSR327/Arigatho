@@ -1,9 +1,10 @@
 # Sorting
 
-70 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+71 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Partition array into k sectors, min and max total cost](../companies/microsoft.md#q3-partition-array-into-k-sectors-min-and-max-total-cost) | [LC 2551](https://leetcode.com/problems/put-marbles-in-bags/) Hard |
 | 2026-11-09 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Maximize number of valleys after rearranging](../companies/microsoft.md#q2-maximize-number-of-valleys-after-rearranging) | ≈ [LC 324](https://leetcode.com/problems/wiggle-sort-ii/) Medium |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [3Sum](../companies/infoedge.md#q4-3sum) | [LC 15](https://leetcode.com/problems/3sum/) Medium |
 | 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [Merge Intervals](../companies/cars24.md#q2-merge-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |

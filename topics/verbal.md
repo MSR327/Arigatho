@@ -1,9 +1,12 @@
 # Verbal
 
-46 questions from 8 companys, newest first. [← all topics](../README.md#topics)
+49 questions from 8 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [English: synonym, antonym, preposition, passages](../companies/iqvia.md#q7-english-synonym-antonym-preposition-passages) |
+| 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA English and critical reasoning](../companies/iqvia.md#q6-iqvia-english-and-critical-reasoning) |
+| 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [English and Critical Reasoning questions](../companies/iqvia.md#q3-english-and-critical-reasoning-questions) |
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Accenture ETE communication and email writing round](../companies/accenture.md#q1-accenture-ete-communication-and-email-writing-round) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Main argument of fasting passage](../companies/iqvia.md#q14-main-argument-of-fasting-passage) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [What makes meetings successful?](../companies/iqvia.md#q13-what-makes-meetings-successful) |

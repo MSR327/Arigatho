@@ -1,9 +1,10 @@
 # OS/DBMS/CN MCQ
 
-117 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+121 questions from 23 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [Tredence](../companies/tredence.md) | VNIT Nagpur | [Tredence data engineering interview topics](../companies/tredence.md#q1-tredence-data-engineering-interview-topics) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Concurrent execution](../companies/cognizant.md#q4-concurrent-execution) | |
 | 2026-11-05 | [ICICI](../companies/icici.md) | IIT BHU | [ICICI Manager OA topics](../companies/icici.md#q1-icici-manager-oa-topics) | |
 | 2026-10-30 | [Nvidia](../companies/nvidia.md) | MNNIT Allahabad | [Fork and copy-on-write](../companies/nvidia.md#q8-fork-and-copy-on-write) | |
@@ -82,6 +83,9 @@
 | 2026-10-09 | [Warner Music Group](../companies/warner-music-group.md) | IIT Dhanbad | [Core Fundamentals MCQ section](../companies/warner-music-group.md#q1-core-fundamentals-mcq-section) | |
 | 2026-10-09 | [ION](../companies/ion.md) | VNIT Nagpur | [OS and Computer Networks basics](../companies/ion.md#q4-os-and-computer-networks-basics) | |
 | 2026-10-09 | [ION](../companies/ion.md) | VNIT Nagpur | [DBMS and SQL](../companies/ion.md#q3-dbms-and-sql) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Networking layer for reliable communication](../companies/icici.md#q8-networking-layer-for-reliable-communication) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Purpose of Workstation components in SQL Server](../companies/icici.md#q4-purpose-of-workstation-components-in-sql-server) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [CAN remote frame statements](../companies/icici.md#q2-can-remote-frame-statements) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Counting semaphores vs mutexes](../companies/squarepoint.md#q8-counting-semaphores-vs-mutexes) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Process in D state ignores kill -9](../companies/squarepoint.md#q7-process-in-d-state-ignores-kill--9) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Highest normal form of R(A,B,C,D)](../companies/squarepoint.md#q5-highest-normal-form-of-rabcd) | |

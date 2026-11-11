@@ -1,6 +1,6 @@
 # Accenture
 
-**305 questions** · 114 drives · latest 9 Nov 2026 · [52 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**305 questions** · 114 drives · latest 10 Nov 2026 · [52 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 88 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 31 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 24 · [Arrays](../topics/arrays.md) 23 · [Software Engineering](../topics/software-engineering.md) 19 · [ML/AI](../topics/ml-ai.md) 17 · +18 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +17 more
@@ -530,7 +530,7 @@ The poster gave no further details.
 
 The OA had 3 questions: 1 Python backend question, 1 SQL question and 1 AI assistant based ML question. Question details were not given.
 
-<sub>Topics: OA Format, SQL, ML/AI · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L975)</sub>
+<sub>Topics: OA Format, SQL, ML/AI · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L975) · Also asked at: IIT Guwahati (2026-11-10)</sub>
 
 ## 2026-11-09 · IIT Guwahati · FTE · AI and Data role
 
@@ -572,7 +572,7 @@ Describing the Accenture OA coding round: C++ is not allowed. Only Python, C# an
 
 The OA had MCQs on aptitude, Python and SQL. (Exact questions, number of questions and difficulty were not shared.)
 
-<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L241)</sub>
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L241) · Also asked at: NIT Surathkal (2026-11-10)</sub>
 
 ## 2026-11-06 · IIT Hyderabad · FTE · S&C Analyst
 
@@ -630,7 +630,7 @@ The OA for the ETE role had 1 DSA question, 1 SQL question and 1 frontend questi
 
 Interview is mostly resume based: questions about your projects (what you built and why), some basic leadership questions and extra-curricular activities. Not much technical.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L29) · Also asked at: NIT Raipur (2026-11-05)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L29) · Also asked at: NIT Raipur (2026-11-05), NIT Surathkal (2026-11-10)</sub>
 
 ## 2026-11-02 · IIT Roorkee · FTE · Management Consulting
 

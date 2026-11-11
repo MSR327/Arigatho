@@ -1,6 +1,6 @@
 # Python & Pandas
 
-52 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+54 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
@@ -48,6 +48,8 @@
 | 2026-10-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Dhanbad | [Python / Pandas section (3 MCQs + 2 coding)](../companies/eternal-zomato.md#q7-python--pandas-section-3-mcqs--2-coding) | |
 | 2026-10-10 | [Deloitte](../companies/deloitte.md) | VNIT Nagpur | [Deloitte interview: Python/SQL and resume](../companies/deloitte.md#q1-deloitte-interview-pythonsql-and-resume) | |
 | 2026-10-06 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Product Analyst OA: pandas coding and MCQs](../companies/eternal-zomato.md#q1-product-analyst-oa-pandas-coding-and-mcqs) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Tkinter widget for number entry](../companies/icici.md#q10-tkinter-widget-for-number-entry) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Pandas function for aggregated display](../companies/icici.md#q5-pandas-function-for-aggregated-display) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [REST API: Energy Bar chocolate](../companies/squarepoint.md#q9-rest-api-energy-bar-chocolate) | |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Python set operations](../companies/infoedge.md#q10-python-set-operations) | |
 | 2026-10-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [Python list comprehension output](../companies/infoedge.md#q9-python-list-comprehension-output) | |

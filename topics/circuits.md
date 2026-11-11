@@ -1,9 +1,11 @@
 # Circuits
 
-31 questions from 3 companys, newest first. [← all topics](../README.md#topics)
+33 questions from 4 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-10 | [Samsung](../companies/samsung.md) | IIT Roorkee | [Samsung OA pattern](../companies/samsung.md#q1-samsung-oa-pattern) |
+| 2026-11-10 | [Samsung](../companies/samsung.md) | Unknown | [Samsung Semiconductor OA pattern](../companies/samsung.md#q1-samsung-semiconductor-oa-pattern) |
 | 2026-11-07 | [SEDEMAC](../companies/sedemac.md) | IIT Indore | [SEDEMAC Round 3 technical interview](../companies/sedemac.md#q2-sedemac-round-3-technical-interview) |
 | 2026-11-07 | [SEDEMAC](../companies/sedemac.md) | IIT Indore | [SEDEMAC Round 2 technical MCQ test format](../companies/sedemac.md#q1-sedemac-round-2-technical-mcq-test-format) |
 | 2026-10-29 | [Texas Instruments](../companies/texas-instruments.md) | IIT BHU | [Diode clipper with 1V and 2V sources, output waveform](../companies/texas-instruments.md#q3-diode-clipper-with-1v-and-2v-sources-output-waveform) |

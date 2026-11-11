@@ -1,6 +1,6 @@
 # BlackRock
 
-**77 questions** · 32 drives · latest 9 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**77 questions** · 32 drives · latest 10 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [ML/AI](../topics/ml-ai.md) 36 · [OA Format](../topics/oa-format.md) 34 · [Math](../topics/math.md) 15 · [Greedy](../topics/greedy.md) 8 · [Heaps](../topics/heaps.md) 7 · [Sorting](../topics/sorting.md) 5 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · +9 more  
 **Seen at:** BITS, BITS Pilani, IIIT Delhi, IIT BHU, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kharagpur/Kanpur +5 more
@@ -287,7 +287,7 @@ Python only. 1) RAG pipeline implementation: cleaning strings, tokenizing, etc. 
 
 (Exact statements not given.)
 
-<sub>Topics: ML/AI, Strings, OA Format · Source: [chat, 7 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L222)</sub>
+<sub>Topics: ML/AI, Strings, OA Format · Source: [chat, 7 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L222) · Also asked at: IIT Roorkee (2026-11-10)</sub>
 
 ### Q2. BlackRock AI/ML OA topics
 

@@ -1,9 +1,10 @@
 # Stack/Queue
 
-33 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+35 questions from 21 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Total cost with first smaller element to the right](../companies/microsoft.md#q2-total-cost-with-first-smaller-element-to-the-right) | [LC 1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) Easy |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Sliding window maximum](../companies/infoedge.md#q7-sliding-window-maximum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Minimum parentheses](../companies/infoedge.md#q2-minimum-parentheses) | [LC 921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) Medium |
 | 2026-11-07 | [Capital One](../companies/capital-one.md) | MNNIT Allahabad | [Simplify Path](../companies/capital-one.md#q12-simplify-path) | [LC 71](https://leetcode.com/problems/simplify-path/) Medium |
@@ -26,6 +27,7 @@
 | 2026-10-09 | [Squarepoint](../companies/squarepoint.md) | IIT Madras | [Text Editor](../companies/squarepoint.md#q1-text-editor) | [LC 2296](https://leetcode.com/problems/design-a-text-editor/) Hard |
 | 2026-10-07 | [InMobi](../companies/inmobi.md) | IIT Roorkee | [Maximum Sum of Subarray Maximums](../companies/inmobi.md#q1-maximum-sum-of-subarray-maximums) | [LC 907](https://leetcode.com/problems/sum-of-subarray-minimums/) Medium |
 | 2026-10-06 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [First greater element anywhere in the array](../companies/eternal-zomato.md#q1-first-greater-element-anywhere-in-the-array) | ≈ [LC 496](https://leetcode.com/problems/next-greater-element-i/) Easy |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [C++ BFS maximum level width output](../companies/icici.md#q3-c-bfs-maximum-level-width-output) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [Design a text editor with cursor](../companies/squarepoint.md#q2-design-a-text-editor-with-cursor) | [LC 2296](https://leetcode.com/problems/design-a-text-editor/) Hard |
 | 2026-09-30 | [Squarepoint](../companies/squarepoint.md) | IIT BHU | [Process queues with add, update, remove and print queries](../companies/squarepoint.md#q3-process-queues-with-add-update-remove-and-print-queries) | ≈ [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
 | 2026-09-29 | [InMobi](../companies/inmobi.md) | MNNIT Allahabad | [Longest valid parentheses](../companies/inmobi.md#q1-longest-valid-parentheses) | [LC 32](https://leetcode.com/problems/longest-valid-parentheses/) Hard |

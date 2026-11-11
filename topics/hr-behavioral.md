@@ -1,9 +1,12 @@
 # HR & Behavioral
 
-36 questions from 18 companys, newest first. [← all topics](../README.md#topics)
+39 questions from 19 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-10 | [Optum](../companies/optum.md) | NIT Warangal | [Optum HR and technical interview](../companies/optum.md#q1-optum-hr-and-technical-interview) |
+| 2026-11-10 | [Tredence](../companies/tredence.md) | VNIT Nagpur | [Tredence data engineering interview topics](../companies/tredence.md#q1-tredence-data-engineering-interview-topics) |
+| 2026-11-10 | [ZS](../companies/zs.md) | Unknown | [ZS DAA communication round](../companies/zs.md#q1-zs-daa-communication-round) |
 | 2026-11-09 | [ZS](../companies/zs.md) | IIT Indore | [ZS interview topics](../companies/zs.md#q1-zs-interview-topics) |
 | 2026-11-09 | [ZS](../companies/zs.md) | IIT Indore | [ZS DAA interview topics](../companies/zs.md#q1-zs-daa-interview-topics) |
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture ETE interview process](../companies/accenture.md#q1-accenture-ete-interview-process) |

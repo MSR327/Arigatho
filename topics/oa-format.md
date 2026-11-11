@@ -1,9 +1,27 @@
 # OA Format
 
-664 questions from 125 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+682 questions from 128 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Meltwater OA pattern](../companies/meltwater.md#q1-meltwater-oa-pattern) | |
+| 2026-11-10 | [Amazon](../companies/amazon.md) | IIT Roorkee | [Backend code debugging question (repo)](../companies/amazon.md#q1-backend-code-debugging-question-repo) | |
+| 2026-11-10 | [Axxela](../companies/axxela.md) | IIT BHU | [Axxela game round format](../companies/axxela.md#q1-axxela-game-round-format) | |
+| 2026-11-10 | [BNY](../companies/bny.md) | IIT BHU | [BNY OA pattern](../companies/bny.md#q1-bny-oa-pattern) | |
+| 2026-11-10 | [Microsoft](../companies/microsoft.md) | Unknown | [Microsoft OA: 2 easy DSA questions](../companies/microsoft.md#q1-microsoft-oa-2-easy-dsa-questions) | |
+| 2026-11-10 | [Deloitte](../companies/deloitte.md) | IIT Guwahati | [Deloitte SA vibe coding round format](../companies/deloitte.md#q1-deloitte-sa-vibe-coding-round-format) | |
+| 2026-11-10 | [MathWorks](../companies/mathworks.md) | IIT Guwahati | [MathWorks interview focus: CP-style problems](../companies/mathworks.md#q1-mathworks-interview-focus-cp-style-problems) | |
+| 2026-11-10 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 OA structure](../companies/cars24.md#q1-cars24-oa-structure) | |
+| 2026-11-10 | [Deloitte](../companies/deloitte.md) | VNIT Nagpur | [Deloitte South Asia hiring process](../companies/deloitte.md#q1-deloitte-south-asia-hiring-process) | |
+| 2026-11-10 | [Eternal (Zomato)](../companies/eternal-zomato.md) | VNIT Nagpur | [Eternal ML OA pattern](../companies/eternal-zomato.md#q1-eternal-ml-oa-pattern) | |
+| 2026-11-10 | [Optum](../companies/optum.md) | NIT Warangal | [Optum AI-assisted coding OA](../companies/optum.md#q1-optum-ai-assisted-coding-oa) | |
+| 2026-11-10 | [PhyAgent](../companies/phyagent.md) | IIT Bombay | [PhyAgent OA format](../companies/phyagent.md#q1-phyagent-oa-format) | |
+| 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Delhi | [Microsoft OA difficulty](../companies/microsoft.md#q1-microsoft-oa-difficulty) | |
+| 2026-11-10 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 OA pattern](../companies/cars24.md#q1-cars24-oa-pattern) | |
+| 2026-11-10 | [Samsung](../companies/samsung.md) | IIT Roorkee | [Samsung OA pattern](../companies/samsung.md#q1-samsung-oa-pattern) | |
+| 2026-11-10 | [Unknown](../companies/unknown.md) | NIT Kurukshetra | [ICICI Bank OA topics](../companies/unknown.md#q1-icici-bank-oa-topics) | |
+| 2026-11-10 | [Samsung](../companies/samsung.md) | Unknown | [Samsung Semiconductor OA pattern](../companies/samsung.md#q1-samsung-semiconductor-oa-pattern) | |
+| 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Microsoft OA format](../companies/microsoft.md#q1-microsoft-oa-format) | |
 | 2026-11-09 | [Qualcomm](../companies/qualcomm.md) | IIT Kharagpur/Kanpur | [Qualcomm software OA content](../companies/qualcomm.md#q1-qualcomm-software-oa-content) | |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA pattern](../companies/eternal-zomato.md#q2-eternal-product-analyst-oa-pattern) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT BHU | [Second test: 3 DSA questions](../companies/capital-one.md#q3-second-test-3-dsa-questions) | |
@@ -58,7 +76,7 @@
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock Aladin data role OA format](../companies/blackrock.md#q1-blackrock-aladin-data-role-oa-format) | |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Guwahati | [BlackRock AI/ML OA format](../companies/blackrock.md#q1-blackrock-aiml-oa-format) | |
 | 2026-11-07 | [Denso](../companies/denso.md) | IIT Guwahati | [Denso AI coding round](../companies/denso.md#q1-denso-ai-coding-round) | |
-| 2026-11-07 | [BNY](../companies/bny.md) | MNNIT Allahabad | [BNY OA pattern](../companies/bny.md#q1-bny-oa-pattern) | |
+| 2026-11-07 | [BNY](../companies/bny.md) | MNNIT Allahabad | [BNY OA pattern](../companies/bny.md#q1-bny-oa-pattern-1) | |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | Unknown | [OA MCQ section: RAG, LLMs, Responsible AI](../companies/blackrock.md#q3-oa-mcq-section-rag-llms-responsible-ai) | |
 | 2026-11-07 | [Unknown](../companies/unknown.md) | IIT Hyderabad | [Sirion Labs OA pattern](../companies/unknown.md#q1-sirion-labs-oa-pattern) | |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock AI/ML OA topics](../companies/blackrock.md#q3-blackrock-aiml-oa-topics) | |

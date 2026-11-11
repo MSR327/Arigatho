@@ -1,9 +1,11 @@
 # Puzzles
 
-27 questions from 10 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+29 questions from 11 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA logical reasoning questions](../companies/iqvia.md#q5-iqvia-logical-reasoning-questions) | |
+| 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [Logical Reasoning questions](../companies/iqvia.md#q2-logical-reasoning-questions) | |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal PA interview rounds](../companies/eternal-zomato.md#q1-eternal-pa-interview-rounds) | |
 | 2026-11-09 | [ZS](../companies/zs.md) | IIT Indore | [ZS interview topics](../companies/zs.md#q1-zs-interview-topics) | |
 | 2026-11-09 | [ZS](../companies/zs.md) | IIT Indore | [ZS DAA interview topics](../companies/zs.md#q1-zs-daa-interview-topics) | |

@@ -1,9 +1,11 @@
 # Arrays
 
-245 questions from 65 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+247 questions from 65 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Partition array into k sectors, min and max total cost](../companies/microsoft.md#q3-partition-array-into-k-sectors-min-and-max-total-cost) | [LC 2551](https://leetcode.com/problems/put-marbles-in-bags/) Hard |
+| 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Total cost with first smaller element to the right](../companies/microsoft.md#q2-total-cost-with-first-smaller-element-to-the-right) | [LC 1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) Easy |
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Indore | [Count elements whose first and last digit sum to 9](../companies/accenture.md#q1-count-elements-whose-first-and-last-digit-sum-to-9) | |
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Average of numbers in ith row of grid](../companies/accenture.md#q1-average-of-numbers-in-ith-row-of-grid) | |
 | 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Add a permutation to maximize equal elements](../companies/juspay.md#q3-add-a-permutation-to-maximize-equal-elements) | |

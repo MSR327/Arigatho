@@ -1,6 +1,6 @@
 # OOP
 
-33 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+35 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
@@ -24,6 +24,8 @@
 | 2026-10-15 | [Cashfree](../companies/cashfree.md) | Unknown | [OA pattern: CS fundamentals MCQs + one Python and one Java question](../companies/cashfree.md#q1-oa-pattern-cs-fundamentals-mcqs--one-python-and-one-java-question) | |
 | 2026-10-14 | [Accenture](../companies/accenture.md) | Unknown | [Python class with incorrect __init__ method](../companies/accenture.md#q12-python-class-with-incorrect-__init__-method) | |
 | 2026-10-09 | [ION](../companies/ion.md) | VNIT Nagpur | [OOPs concepts](../companies/ion.md#q2-oops-concepts) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Python adder1/adder2 varargs output](../companies/icici.md#q13-python-adder1adder2-varargs-output) | |
+| 2026-10-06 | [ICICI](../companies/icici.md) | IIT Roorkee | [Swift class inheritance output](../companies/icici.md#q6-swift-class-inheritance-output) | |
 | 2026-10-05 | [Squarepoint](../companies/squarepoint.md) | IIT Delhi | [C++ virtual functions by value vs reference](../companies/squarepoint.md#q6-c-virtual-functions-by-value-vs-reference) | |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Public Derivation (diamond problem)](../companies/infoedge.md#q5-public-derivation-diamond-problem) | |
 | 2026-10-03 | [InfoEdge](../companies/infoedge.md) | NIT Patna | [Attribute Behaviour (OOP)](../companies/infoedge.md#q4-attribute-behaviour-oop) | |
