@@ -1,13 +1,19 @@
 # Amazon
 
-**18 questions** · 15 drives · latest 10 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**21 questions** · 18 drives · latest 11 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 15 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1 · +1 more  
-**Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Madras, IIT Roorkee +4 more
+**Asks about:** [OA Format](../topics/oa-format.md) 17 · [Arrays](../topics/arrays.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +3 more  
+**Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +7 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · VNIT Nagpur · FTE](#2026-11-11--vnit-nagpur--fte)
+  - [Amazon OA debugging questions overview](#q1-amazon-oa-debugging-questions-overview)
+- [2026-11-11 · Unknown · FTE · SDE · Interview](#2026-11-11--unknown--fte--sde--interview)
+  - [Selection process and final round focus](#q1-selection-process-and-final-round-focus)
+- [2026-11-11 · IIT Kharagpur/Kanpur · FTE](#2026-11-11--iit-kharagpurkanpur--fte)
+  - [Lexicographically maximum array after sorting K-sized subarrays](#q1-lexicographically-maximum-array-after-sorting-k-sized-subarrays)
 - [2026-11-10 · IIT Roorkee · FTE](#2026-11-10--iit-roorkee--fte)
   - [Backend code debugging question (repo)](#q1-backend-code-debugging-question-repo)
 - [2026-11-09 · MNNIT Allahabad · FTE](#2026-11-09--mnnit-allahabad--fte)
@@ -45,6 +51,51 @@
 </details>
 
 ---
+
+## 2026-11-11 · VNIT Nagpur · FTE
+
+### Q1. Amazon OA debugging questions overview
+
+The debugging questions were mostly about identifying logical errors and fixing implementation issues in the given code: incorrect loop conditions, boundary cases, wrong variable initialization, improper handling of edge cases, incorrect if-else conditions, off-by-one errors and array indexing issues. In a few cases the overall approach was correct but small implementation mistakes caused incorrect outputs. Suggested revision: arrays, strings, loops, sorting, searching and edge-case handling.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/amazon-oa/2026-11.jsonl#L130)</sub>
+
+## 2026-11-11 · Unknown · FTE · SDE · Interview
+
+### Q1. Selection process and final round focus
+
+In their college, 100 students were shortlisted for the OA and 6 were taken to the final round. The final round focused more on AI systems and RAGs. Actual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1194)</sub>
+
+## 2026-11-11 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Lexicographically maximum array after sorting K-sized subarrays
+
+You are given an integer array arr of size N and an integer K.
+
+You can perform the following operation any number of times:
+1. Choose an index i such that 0 ≤ i ≤ N-K.
+2. Select K consecutive elements starting from index i, i.e. arr[i...i+K-1].
+3. Sort these K elements in increasing (ascending) order.
+4. Replace the selected subarray with its sorted version.
+
+Each operation may produce a different arrangement of the array. Return the lexicographically maximum array obtainable by performing zero or more such operations.
+
+Example 1:
+```
+Input:
+N = 5
+K = 3
+arr = [3, 5, 1, 4, 2]
+
+Output: [3, 5, 1, 4, 2]
+```
+Possible operations: sort indices 0 to 2 gives [1, 3, 5, 4, 2]; sort indices 1 to 3 gives [3, 1, 4, 5, 2]; sort indices 2 to 4 gives [3, 5, 1, 2, 4].
+
+Explanation: Since zero operations are allowed, the original array is already the lexicographically maximum possible arrangement. Sorting any subarray in ascending order cannot make the array lexicographically larger.
+
+<sub>Topics: Arrays, Sorting, Greedy · Source: [chat, 11 Nov](../archive/amazon-oa/2026-11.jsonl#L140) · Also asked at: IIT Kharagpur ×2 (last 2026-11-11), IIT Kharagpur/Kanpur (2026-11-11)</sub>
 
 ## 2026-11-10 · IIT Roorkee · FTE
 

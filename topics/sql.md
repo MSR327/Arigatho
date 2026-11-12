@@ -1,9 +1,13 @@
 # SQL
 
-106 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+110 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Bloomberg interview rounds overview](../companies/bloomberg.md#q1-bloomberg-interview-rounds-overview) | |
+| 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Delete stored procedure in BigQuery](../companies/icici.md#q11-delete-stored-procedure-in-bigquery) | |
+| 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Average marks with word 'one'](../companies/icici.md#q10-average-marks-with-word-one) | |
+| 2026-11-11 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal PA OA pattern](../companies/eternal-zomato.md#q1-eternal-pa-oa-pattern) | |
 | 2026-11-10 | [Tredence](../companies/tredence.md) | VNIT Nagpur | [Tredence data engineering interview topics](../companies/tredence.md#q1-tredence-data-engineering-interview-topics) | |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal PA interview rounds](../companies/eternal-zomato.md#q1-eternal-pa-interview-rounds) | |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA pattern](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-pattern) | |

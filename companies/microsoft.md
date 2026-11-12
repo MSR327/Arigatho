@@ -1,13 +1,20 @@
 # Microsoft
 
-**21 questions** · 14 drives · latest 10 Nov 2026 · [9 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**25 questions** · 17 drives · latest 11 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 6 · [Greedy](../topics/greedy.md) 4 · [Sorting](../topics/sorting.md) 3 · [Hashing](../topics/hashing.md) 3 · [Strings](../topics/strings.md) 3 · [Python & Pandas](../topics/python-pandas.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +7 more  
-**Seen at:** BITS Pilani, IIT Delhi, IIT Guwahati, IIT Kharagpur, IIT Madras, NIT Allahabad (MNNIT), NIT Kurukshetra
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 4 · [Greedy](../topics/greedy.md) 4 · [Sorting](../topics/sorting.md) 3 · [Hashing](../topics/hashing.md) 3 · [DP](../topics/dp.md) 3 · [Math](../topics/math.md) 2 · +8 more  
+**Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · IIT Kharagpur/Kanpur · FTE](#2026-11-11--iit-kharagpurkanpur--fte)
+  - [2D prefix sum grid](#q1-2d-prefix-sum-grid)
+- [2026-11-11 · IIT Bombay · FTE](#2026-11-11--iit-bombay--fte)
+  - [Blue line-red line cost question](#q1-blue-line-red-line-cost-question)
+  - [Longest palindromic subsequence](#q2-longest-palindromic-subsequence)
+- [2026-11-11 · IIT BHU · FTE](#2026-11-11--iit-bhu--fte)
+  - [Compute n*(n-1)^m mod M](#q1-compute-nn-1m-mod-m)
 - [2026-11-10 · Unknown · FTE](#2026-11-10--unknown--fte)
   - [Microsoft OA: 2 easy DSA questions](#q1-microsoft-oa-2-easy-dsa-questions)
 - [2026-11-10 · IIT Kharagpur · FTE](#2026-11-10--iit-kharagpur--fte)
@@ -47,6 +54,56 @@
 </details>
 
 ---
+
+## 2026-11-11 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. 2D prefix sum grid
+
+Given a grid:
+
+```
+1 2 3
+4 5 6
+7 8 9
+```
+
+produce this grid:
+
+```
+1   3   6
+5  12  21
+12 32  45
+```
+
+Value of b[i][j] = sum of all elements a[u][v] where 1<=u<=i, 1<=v<=j.
+
+(The grid shown in the message is as the poster wrote it.)
+
+<sub>Topics: Arrays, DP · Same idea: [LeetCode 304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) (Medium), 2D prefix sum grid construction · Source: [chat, 11 Nov](../archive/microsoft-oa/2026-11.jsonl#L37)</sub>
+
+## 2026-11-11 · IIT Bombay · FTE
+
+### Q1. Blue line-red line cost question
+
+A 'blue line - red line - blue cost' question (source: Paytm OA helper). Full statement not given.
+
+<sub>Topics: Other · Source: [chat, 11 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L144)</sub>
+
+### Q2. Longest palindromic subsequence
+
+Find the longest palindromic subsequence (source: LeetCode).
+
+<sub>Topics: DP, Strings · Similar: [LeetCode 516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) (Medium) · Source: [chat, 11 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L144)</sub>
+
+## 2026-11-11 · IIT BHU · FTE
+
+### Q1. Compute n*(n-1)^m mod M
+
+Calculate n*(n-1)^m % M.
+
+(Only the expression was recalled; input constraints and format are missing.)
+
+<sub>Topics: Math · Same idea: [LeetCode 50. Pow(x, n)](https://leetcode.com/problems/powx-n/) (Medium), fast modular exponentiation by squaring · Source: [chat, 11 Nov](../archive/microsoft-oa/2026-11.jsonl#L36)</sub>
 
 ## 2026-11-10 · Unknown · FTE
 

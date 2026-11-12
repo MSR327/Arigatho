@@ -1,9 +1,19 @@
 # Arrays
 
-247 questions from 65 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+257 questions from 66 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically maximum array after sorting K-sized subarrays](../companies/amazon.md#q1-lexicographically-maximum-array-after-sorting-k-sized-subarrays) | |
+| 2026-11-11 | [BNY](../companies/bny.md) | IIT BHU | [Minimum makespan to process requests across servers](../companies/bny.md#q2-minimum-makespan-to-process-requests-across-servers) | ≈ [LC 1723](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) Hard |
+| 2026-11-11 | [Microsoft](../companies/microsoft.md) | IIT Kharagpur/Kanpur | [2D prefix sum grid](../companies/microsoft.md#q1-2d-prefix-sum-grid) | ≈ [LC 304](https://leetcode.com/problems/range-sum-query-2d-immutable/) Medium |
+| 2026-11-11 | [BNY](../companies/bny.md) | VNIT Nagpur | [BNY OA topics](../companies/bny.md#q1-bny-oa-topics) | ≈ [LC 46](https://leetcode.com/problems/permutations/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Merge overlapping intervals](../companies/cognizant.md#q9-merge-overlapping-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Rotate array by K positions](../companies/cognizant.md#q8-rotate-array-by-k-positions) | [LC 189](https://leetcode.com/problems/rotate-array/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Move all zeros to end](../companies/cognizant.md#q5-move-all-zeros-to-end) | [LC 283](https://leetcode.com/problems/move-zeroes/) Easy |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Maximum subarray sum](../companies/cognizant.md#q4-maximum-subarray-sum) | [LC 53](https://leetcode.com/problems/maximum-subarray/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Maximum product subarray](../companies/cognizant.md#q2-maximum-product-subarray) | [LC 152](https://leetcode.com/problems/maximum-product-subarray/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Two Sum](../companies/cognizant.md#q1-two-sum) | [LC 1](https://leetcode.com/problems/two-sum/) Easy |
 | 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Partition array into k sectors, min and max total cost](../companies/microsoft.md#q3-partition-array-into-k-sectors-min-and-max-total-cost) | [LC 2551](https://leetcode.com/problems/put-marbles-in-bags/) Hard |
 | 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Total cost with first smaller element to the right](../companies/microsoft.md#q2-total-cost-with-first-smaller-element-to-the-right) | [LC 1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) Easy |
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Indore | [Count elements whose first and last digit sum to 9](../companies/accenture.md#q1-count-elements-whose-first-and-last-digit-sum-to-9) | |

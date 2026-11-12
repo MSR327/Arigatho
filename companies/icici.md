@@ -1,13 +1,27 @@
 # ICICI
 
-**34 questions** · 21 drives · latest 10 Nov 2026 · [← all companies](../README.md#companies)
+**46 questions** · 23 drives · latest 11 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 6 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · +7 more  
-**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad, Manipal +6 more
+**Asks about:** [OA Format](../topics/oa-format.md) 20 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 14 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [SQL](../topics/sql.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · +7 more  
+**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad +7 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · MNNIT Allahabad · FTE](#2026-11-11--mnnit-allahabad--fte)
+  - [ICICI OA difficulty](#q1-icici-oa-difficulty)
+- [2026-11-11 · IIT Roorkee · FTE](#2026-11-11--iit-roorkee--fte)
+  - [nslookup purpose](#q1-nslookup-purpose)
+  - [SQL Server secondary data file extension](#q2-sql-server-secondary-data-file-extension)
+  - [Kanban bottleneck prevention](#q3-kanban-bottleneck-prevention)
+  - [Dynamic DNS record](#q4-dynamic-dns-record)
+  - [Broadcast address of network](#q5-broadcast-address-of-network)
+  - [Linux command for hostname from IP](#q6-linux-command-for-hostname-from-ip)
+  - [OSPF external routers process](#q7-ospf-external-routers-process)
+  - [Telnet syntax](#q8-telnet-syntax)
+  - [Automatic IP assignment protocol](#q9-automatic-ip-assignment-protocol)
+  - [Average marks with word 'one'](#q10-average-marks-with-word-one)
+  - [Delete stored procedure in BigQuery](#q11-delete-stored-procedure-in-bigquery)
 - [2026-11-08 · IIT Roorkee · FTE · Manager](#2026-11-08--iit-roorkee--fte--manager)
   - [ICICI Bank Manager OA pattern](#q1-icici-bank-manager-oa-pattern)
 - [2026-11-08 · IIT Roorkee · FTE · Deputy Manager II](#2026-11-08--iit-roorkee--fte--deputy-manager-ii)
@@ -68,6 +82,88 @@
 
 ---
 
+## 2026-11-11 · MNNIT Allahabad · FTE
+
+### Q1. ICICI OA difficulty
+
+Exact questions not remembered. The OA had simple MCQs and easy DSA questions.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/campus-manit-bhopal-placements/2026-11.jsonl#L11)</sub>
+
+## 2026-11-11 · IIT Roorkee · FTE
+
+### Q1. nslookup purpose
+
+In Networking, what is the nslookup command used for?
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
+### Q2. SQL Server secondary data file extension
+
+What is the recommended file extension for Secondary Data Files in SQL Server?
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
+### Q3. Kanban bottleneck prevention
+
+Mary is a product owner of a Kanban team concerned about bottlenecks. Which actions help prevent bottlenecks?
+1. Increase Work in Progress (WIP).
+2. Limit Work in Progress (WIP)
+
+(Message truncated; remaining options missing.)
+
+<sub>Topics: Software Engineering · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
+### Q4. Dynamic DNS record
+
+Which DNS record permits customers to refresh their DNS entry as their IP address changes?
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
+### Q5. Broadcast address of network
+
+In Networking, which of these is the broadcast address for the given network?
+
+(Options and the network are missing; the poster could not read them from the screenshot.)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
+### Q6. Linux command for hostname from IP
+
+Alice is working on Linux DNS servers. Which command helps find the hostname by providing an IP address?
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
+### Q7. OSPF external routers process
+
+Bob is working on routing algorithms and wants to introduce external routers into an OSPF network. What is this process called?
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
+### Q8. Telnet syntax
+
+Which is the correct syntax to telnet to www.google.com?
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
+### Q9. Automatic IP assignment protocol
+
+Which convention allows a network administrator to circulate IP addresses from a central point and automatically assign them when a PC connects?
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
+### Q10. Average marks with word 'one'
+
+Alice calculates the average marks of students but notices that some marks contain the word 'one' instead of the numeric value 1. Which SQL query helps calculate the correct average?
+
+<sub>Topics: SQL · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
+### Q11. Delete stored procedure in BigQuery
+
+John wants to delete a stored procedure in BigQuery. Which DDL statement should be used?
+
+<sub>Topics: SQL · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
 ## 2026-11-08 · IIT Roorkee · FTE · Manager
 
 ### Q1. ICICI Bank Manager OA pattern
@@ -121,7 +217,7 @@ English, reasoning, maths, operating systems and more, a bit of everything.
 
 Selection process: resume shortlisting, online assessment, personal interview. The OA consists of: OOPs concepts, Computer Networking, Operating System, Programming Language (C/C++/Python/Java), Machine Learning, Natural Language Processing, Quantitative Mathematics, Project Management, Software Engineering, DBMS.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Guwahati (2026-11-06), IIT Kanpur (2026-11-06), IIT BHU ×4 (last 2026-11-09), NIT Karnataka Surathkal (2026-11-09)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Guwahati (2026-11-06), IIT Kanpur (2026-11-06), IIT BHU ×4 (last 2026-11-09), NIT Karnataka Surathkal (2026-11-09), IIT Kharagpur/Kanpur (2026-11-11)</sub>
 
 ### Q2. ICICI interview: Placement Coordinator role questions
 
@@ -134,7 +230,7 @@ Interview began with a self-introduction (about 1.5 minutes). The interviewer th
 
 This discussion lasted almost 10 minutes, then moved on to club experience (the message was cut off here).
 
-<sub>Topics: HR & Behavioral · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08), NIT Karnataka Surathkal (2026-11-09), NIT Kurukshetra (2026-11-10)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08), NIT Karnataka Surathkal (2026-11-09), NIT Kurukshetra (2026-11-10), IIT Kharagpur/Kanpur (2026-11-11)</sub>
 
 ## 2026-11-04 · VNIT Nagpur · FTE · Manager-1
 

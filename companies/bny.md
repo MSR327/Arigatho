@@ -1,13 +1,18 @@
 # BNY
 
-**3 questions** · 3 drives · latest 10 Nov 2026 · [← all companies](../README.md#companies)
+**6 questions** · 5 drives · latest 12 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3  
-**Seen at:** IIT BHU, MNNIT Allahabad, Thapar Institute of Engineering and Technology
+**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 2 · [Binary Search](../topics/binary-search.md) 2 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 1 · [DP](../topics/dp.md) 1 · [Sorting](../topics/sorting.md) 1 · [Greedy](../topics/greedy.md) 1  
+**Seen at:** IIT BHU, IIT Bombay, MNNIT Allahabad, Thapar Institute of Engineering and Technology, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · VNIT Nagpur · FTE](#2026-11-11--vnit-nagpur--fte)
+  - [BNY OA topics](#q1-bny-oa-topics)
+- [2026-11-11 · IIT BHU · FTE · Quant Analytics / SDE](#2026-11-11--iit-bhu--fte--quant-analytics--sde)
+  - [Maximize call volume with non-overlapping calls](#q1-maximize-call-volume-with-non-overlapping-calls)
+  - [Minimum makespan to process requests across servers](#q2-minimum-makespan-to-process-requests-across-servers)
 - [2026-11-10 · IIT BHU · FTE · Quant Analytics and Risk Compliance](#2026-11-10--iit-bhu--fte--quant-analytics-and-risk-compliance)
   - [BNY OA pattern](#q1-bny-oa-pattern)
 - [2026-11-09 · Thapar Institute of Engineering and Technology · FTE · Quant Analytics (Risk and Compliance)](#2026-11-09--thapar-institute-of-engineering-and-technology--fte--quant-analytics-risk-and-compliance)
@@ -19,13 +24,50 @@
 
 ---
 
+## 2026-11-11 · VNIT Nagpur · FTE
+
+### Q1. BNY OA topics
+
+BNY mostly asks medium-level array and string questions, and focuses more on recursion and backtracking, as such questions might appear.
+
+<sub>Topics: OA Format, Arrays, Recursion/Backtracking · Same idea: [LeetCode 46. Permutations](https://leetcode.com/problems/permutations/) (Medium), recursion and backtracking basics · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L589)</sub>
+
+## 2026-11-11 · IIT BHU · FTE · Quant Analytics / SDE
+
+### Q1. Maximize call volume with non-overlapping calls
+
+You are given three arrays:
+- Start[i] = starting time of call i
+- Duration[i] = duration of call i
+- Volume[i] = profit/volume obtained by selecting call i
+
+You can select multiple calls, but no two selected calls can overlap.
+
+The objective is to maximize the total volume.
+
+<sub>Topics: DP, Sorting, Binary Search · Similar: [LeetCode 1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) (Hard) · Source: [chat, 11 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L329)</sub>
+
+### Q2. Minimum makespan to process requests across servers
+
+1. There are N servers and M requests.
+2. cache[i] tells us which server has the data for request i.
+3. Processing request i:
+   - On its cached server: 1 unit.
+   - On any other server: 2 units.
+4. Multiple servers can process requests simultaneously.
+5. Each server can process only one request at a time.
+
+Determine the minimum total time (makespan) to process all requests.
+
+<sub>Topics: Greedy, Binary Search, Arrays · Same idea: [LeetCode 1723. Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) (Hard), minimize maximum load assigning tasks to workers · Source: [chat, 11 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L329)</sub>
+
 ## 2026-11-10 · IIT BHU · FTE · Quant Analytics and Risk Compliance
 
 ### Q1. BNY OA pattern
 
 OA pattern: 2 DSA questions + 1 debugging question.
 
-<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L542) · Also asked at: IIT BHU (2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L542) · Also asked at: IIT BHU ×2 (last 2026-11-11), MNNIT Allahabad (2026-11-11), IIT Bombay (2026-11-12)</sub>
 
 ## 2026-11-09 · Thapar Institute of Engineering and Technology · FTE · Quant Analytics (Risk and Compliance)
 
@@ -41,4 +83,4 @@ OA contained aptitude and ML MCQs (reported second-hand by a Thapar friend). No 
 
 The OA had 3 DSA questions, all of medium to hard difficulty. The actual questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L105)</sub>
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L105) · Also asked at: MNNIT Allahabad (2026-11-11)</sub>

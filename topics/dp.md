@@ -1,9 +1,19 @@
 # DP
 
-140 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+150 questions from 53 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [Media.net](../companies/media-net.md) | VNIT Nagpur | [Media.net OA: 2 medium DSA questions](../companies/media-net.md#q1-medianet-oa-2-medium-dsa-questions) | |
+| 2026-11-11 | [BNY](../companies/bny.md) | IIT BHU | [Maximize call volume with non-overlapping calls](../companies/bny.md#q1-maximize-call-volume-with-non-overlapping-calls) | [LC 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) Hard |
+| 2026-11-11 | [Microsoft](../companies/microsoft.md) | IIT Kharagpur/Kanpur | [2D prefix sum grid](../companies/microsoft.md#q1-2d-prefix-sum-grid) | ≈ [LC 304](https://leetcode.com/problems/range-sum-query-2d-immutable/) Medium |
+| 2026-11-11 | [Optum](../companies/optum.md) | Unknown | [Digit DP question](../companies/optum.md#q1-digit-dp-question) | |
+| 2026-11-11 | [Microsoft](../companies/microsoft.md) | IIT Bombay | [Longest palindromic subsequence](../companies/microsoft.md#q2-longest-palindromic-subsequence) | [LC 516](https://leetcode.com/problems/longest-palindromic-subsequence/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Count ways to allocate images across filters within max time](../companies/cognizant.md#q1-count-ways-to-allocate-images-across-filters-within-max-time) | ≈ [LC 518](https://leetcode.com/problems/coin-change-ii/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Maximize profit with XOR less than K](../companies/cognizant.md#q3-maximize-profit-with-xor-less-than-k) | ≈ [LC 421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Longest palindromic substring](../companies/cognizant.md#q7-longest-palindromic-substring) | [LC 5](https://leetcode.com/problems/longest-palindromic-substring/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Maximum subarray sum](../companies/cognizant.md#q4-maximum-subarray-sum) | [LC 53](https://leetcode.com/problems/maximum-subarray/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Maximum product subarray](../companies/cognizant.md#q2-maximum-product-subarray) | [LC 152](https://leetcode.com/problems/maximum-product-subarray/) Medium |
 | 2026-11-10 | [MathWorks](../companies/mathworks.md) | IIT Guwahati | [MathWorks interview focus: CP-style problems](../companies/mathworks.md#q1-mathworks-interview-focus-cp-style-problems) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT BHU | [Round 2 DSA (hard, probably DP)](../companies/capital-one.md#q1-round-2-dsa-hard-probably-dp) | |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Matrix traversal maximum wedges](../companies/accordion.md#q3-matrix-traversal-maximum-wedges) | |

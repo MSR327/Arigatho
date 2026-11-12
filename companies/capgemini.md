@@ -1,13 +1,17 @@
 # Capgemini
 
-**12 questions** · 4 drives · latest 10 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**14 questions** · 6 drives · latest 12 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +1 more  
-**Seen at:** IIT BHU, IIT Bhilai, IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur, MNNIT Allahabad, NIT Kurukshetra, NIT Trichy
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +1 more  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Bhilai, IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur, MNNIT Allahabad, NIT Kurukshetra +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · NIT Patna · FTE · SDE (Exceller)](#2026-11-12--nit-patna--fte--sde-exceller)
+  - [Capgemini Exceller 2027 OA pattern](#q1-capgemini-exceller-2027-oa-pattern)
+- [2026-11-11 · IIIT Allahabad · FTE](#2026-11-11--iiit-allahabad--fte)
+  - [Capgemini OA expected format](#q1-capgemini-oa-expected-format)
 - [2026-11-09 · MNNIT Allahabad · FTE · SDE · Other round](#2026-11-09--mnnit-allahabad--fte--sde--other-round)
   - [Capgemini hiring process](#q1-capgemini-hiring-process)
 - [2026-11-09 · IIT Guwahati · FTE](#2026-11-09--iit-guwahati--fte)
@@ -28,6 +32,36 @@
 </details>
 
 ---
+
+## 2026-11-12 · NIT Patna · FTE · SDE (Exceller)
+
+### Q1. Capgemini Exceller 2027 OA pattern
+
+1. English Communication (~30 min): listening, speaking, reading, writing
+2. AI + Technical Assessment (~40–50 min): 20 AI literacy MCQs (Generative AI, LLM, RAG, prompt engineering) and 20 technical MCQs (DBMS & SQL, OOPs, DSA & programming logic)
+3. Debugging Round (~20–25 min): C / C++ / Java, find and fix bugs, arrays, loops, conditions, circular array problems
+4. AI-Assisted Coding (~45 min): coding using an AI assistant, array & string problems, DSA, prompt engineering
+5. Cognitive Assessment (~20–30 min): Motion Challenge, Grid Challenge, logical reasoning, behavioural questions
+6. Technical Interview: DSA, OOPs, DBMS, OS, CN, projects and resume
+7. HR Interview: introduction, strengths & weaknesses, situational questions
+
+Reported coding questions: Circular Array Movement, Matrix Colouring, Minimum Array Replacements, Array Manipulation, debugging programs.
+Difficulty: Medium (varies by drive). Recommended languages: C, C++, Java.
+
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1301)</sub>
+
+## 2026-11-11 · IIIT Allahabad · FTE
+
+### Q1. Capgemini OA expected format
+
+- Coding: 2–3 DSA problems
+- Difficulty: Medium–Hard
+- Duration: depends on hiring drive
+- Platform: online coding assessment
+- Languages: C++, Java, Python
+- Topics: DP, Graphs, Trees, Arrays, Hashing
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/campus-iiit-allahabad-placements/2026-11.jsonl#L27)</sub>
 
 ## 2026-11-09 · MNNIT Allahabad · FTE · SDE · Other round
 
@@ -72,7 +106,7 @@ In both the bug fixing and feature implementation parts, you choose your stack (
 
 The 11 LPA pattern isn't known, and the report was cut off at the bottom, so there may be more.
 
-<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11) · Also asked at: NIT Kurukshetra (2026-11-09), MNNIT Allahabad ×7 (last 2026-11-10), IIT BHU (2026-11-10), IIT Bhilai (2026-11-10), IIT Kharagpur/Kanpur ×2 (last 2026-11-10), Unknown (2026-11-10), IIT Guwahati (2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11) · Also asked at: NIT Kurukshetra (2026-11-09), IIT BHU (2026-11-10), IIT Bhilai (2026-11-10), IIT Kharagpur/Kanpur ×2 (last 2026-11-10), Unknown (2026-11-10), IIT Guwahati (2026-11-10), MNNIT Allahabad ×8 (last 2026-11-11), IIT Delhi (2026-11-11)</sub>
 
 ### Q2. Run-length compression of a string
 

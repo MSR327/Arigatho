@@ -1,9 +1,10 @@
 # Python & Pandas
 
-54 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+55 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Bloomberg interview rounds overview](../companies/bloomberg.md#q1-bloomberg-interview-rounds-overview) | |
 | 2026-11-09 | [ZS](../companies/zs.md) | VIT Vellore | [Project-based Python questions](../companies/zs.md#q3-project-based-python-questions) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Python key-value data type](../companies/cognizant.md#q14-python-key-value-data-type) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Python memory management](../companies/cognizant.md#q10-python-memory-management) | |

@@ -1,9 +1,10 @@
 # Bit Manipulation
 
-40 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+41 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Maximize profit with XOR less than K](../companies/cognizant.md#q3-maximize-profit-with-xor-less-than-k) | ≈ [LC 421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) Medium |
 | 2026-11-09 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Count pairs whose concatenation can form a palindrome](../companies/microsoft.md#q1-count-pairs-whose-concatenation-can-form-a-palindrome) | ≈ [LC 1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) Medium |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Maximum profit with bitwise OR constraint](../companies/cognizant.md#q12-maximum-profit-with-bitwise-or-constraint) | |
 | 2026-11-05 | [MathWorks](../companies/mathworks.md) | IIT Bombay | [Count subarrays rearrangeable into palindromes](../companies/mathworks.md#q2-count-subarrays-rearrangeable-into-palindromes) | [LC 1915](https://leetcode.com/problems/number-of-wonderful-substrings/) Medium |

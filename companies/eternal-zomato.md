@@ -1,13 +1,17 @@
 # Eternal (Zomato)
 
-**181 questions** · 86 drives · latest 10 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**183 questions** · 88 drives · latest 11 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 61 · [SQL](../topics/sql.md) 26 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 13 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 63 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 13 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +12 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · Unknown · FTE](#2026-11-11--unknown--fte)
+  - [Eternal PA OA format](#q1-eternal-pa-oa-format)
+- [2026-11-11 · IIT Roorkee · FTE · Product Analyst](#2026-11-11--iit-roorkee--fte--product-analyst)
+  - [Eternal PA OA pattern](#q1-eternal-pa-oa-pattern)
 - [2026-11-10 · VNIT Nagpur · FTE · ML](#2026-11-10--vnit-nagpur--fte--ml)
   - [Eternal ML OA pattern](#q1-eternal-ml-oa-pattern)
 - [2026-11-09 · NIT Delhi · FTE · SDE](#2026-11-09--nit-delhi--fte--sde)
@@ -279,6 +283,22 @@
 </details>
 
 ---
+
+## 2026-11-11 · Unknown · FTE
+
+### Q1. Eternal PA OA format
+
+No direct Python coding questions. Around 3 SQL questions, quite easy. Python was tested indirectly through MCQs, mainly aptitude, some with code snippets where you predict or understand the behaviour. Aptitude had no permutations and combinations but had basic probability.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/eternal-oa/2026-11.jsonl#L112), [chat, 11 Nov](../archive/eternal-oa/2026-11.jsonl#L115), [chat, 11 Nov](../archive/eternal-oa/2026-11.jsonl#L116)</sub>
+
+## 2026-11-11 · IIT Roorkee · FTE · Product Analyst
+
+### Q1. Eternal PA OA pattern
+
+The online assessment had about 24 questions, mostly MCQs on Machine Learning, Data Science and other technical fundamentals, mostly conceptual. The last 2-3 questions were SQL-based, with straightforward queries and basic database operations. Overall easy to moderate. The poster does not recall the exact questions.
+
+<sub>Topics: OA Format, ML/AI, SQL · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L577)</sub>
 
 ## 2026-11-10 · VNIT Nagpur · FTE · ML
 

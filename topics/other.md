@@ -1,9 +1,10 @@
 # Other
 
-58 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+59 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [Microsoft](../companies/microsoft.md) | IIT Bombay | [Blue line-red line cost question](../companies/microsoft.md#q1-blue-line-red-line-cost-question) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT Delhi | [Codeforces 360B](../companies/capital-one.md#q1-codeforces-360b) | |
 | 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Graph update and query (segment tree / Fenwick tree)](../companies/juspay.md#q1-graph-update-and-query-segment-tree--fenwick-tree) | ≈ [LC 307](https://leetcode.com/problems/range-sum-query-mutable/) Medium |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Refurbishment Hub Inspection Pipeline](../companies/iqvia.md#q16-refurbishment-hub-inspection-pipeline) | |

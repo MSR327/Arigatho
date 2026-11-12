@@ -1,9 +1,12 @@
 # Aptitude
 
-247 questions from 31 companys, newest first. [← all topics](../README.md#topics)
+250 questions from 32 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-11 | [Urban Company](../companies/urban-company.md) | IIT Kharagpur | [Urban Company OA pattern](../companies/urban-company.md#q1-urban-company-oa-pattern) |
+| 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Estimate households interested in streaming service in two years](../companies/accordion.md#q2-estimate-households-interested-in-streaming-service-in-two-years) |
+| 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Streaming service households: decrease in movies streamed](../companies/accordion.md#q1-streaming-service-households-decrease-in-movies-streamed) |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA logical reasoning questions](../companies/iqvia.md#q5-iqvia-logical-reasoning-questions) |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA quantitative aptitude questions](../companies/iqvia.md#q4-iqvia-quantitative-aptitude-questions) |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [Logical Reasoning questions](../companies/iqvia.md#q2-logical-reasoning-questions) |

@@ -1,9 +1,17 @@
 # OS/DBMS/CN MCQ
 
-121 questions from 23 companys, newest first. [← all topics](../README.md#topics)
+129 questions from 23 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Automatic IP assignment protocol](../companies/icici.md#q9-automatic-ip-assignment-protocol) | |
+| 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Telnet syntax](../companies/icici.md#q8-telnet-syntax) | |
+| 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [OSPF external routers process](../companies/icici.md#q7-ospf-external-routers-process) | |
+| 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Linux command for hostname from IP](../companies/icici.md#q6-linux-command-for-hostname-from-ip) | |
+| 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Broadcast address of network](../companies/icici.md#q5-broadcast-address-of-network) | |
+| 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Dynamic DNS record](../companies/icici.md#q4-dynamic-dns-record) | |
+| 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [SQL Server secondary data file extension](../companies/icici.md#q2-sql-server-secondary-data-file-extension) | |
+| 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [nslookup purpose](../companies/icici.md#q1-nslookup-purpose) | |
 | 2026-11-10 | [Tredence](../companies/tredence.md) | VNIT Nagpur | [Tredence data engineering interview topics](../companies/tredence.md#q1-tredence-data-engineering-interview-topics) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Concurrent execution](../companies/cognizant.md#q4-concurrent-execution) | |
 | 2026-11-05 | [ICICI](../companies/icici.md) | IIT BHU | [ICICI Manager OA topics](../companies/icici.md#q1-icici-manager-oa-topics) | |

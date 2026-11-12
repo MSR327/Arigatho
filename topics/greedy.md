@@ -1,9 +1,11 @@
 # Greedy
 
-109 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+111 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically maximum array after sorting K-sized subarrays](../companies/amazon.md#q1-lexicographically-maximum-array-after-sorting-k-sized-subarrays) | |
+| 2026-11-11 | [BNY](../companies/bny.md) | IIT BHU | [Minimum makespan to process requests across servers](../companies/bny.md#q2-minimum-makespan-to-process-requests-across-servers) | ≈ [LC 1723](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) Hard |
 | 2026-11-10 | [Cognizant](../companies/cognizant.md) | IIT Delhi | [Minimum Time to Process Tasks](../companies/cognizant.md#q1-minimum-time-to-process-tasks) | [LC 881](https://leetcode.com/problems/boats-to-save-people/) Medium |
 | 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Kharagpur | [Max transactions keeping balance non-negative](../companies/microsoft.md#q1-max-transactions-keeping-balance-non-negative) | [CF 1526C2](https://codeforces.com/problemset/problem/1526/C2) rated 1600 |
 | 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Partition array into k sectors, min and max total cost](../companies/microsoft.md#q3-partition-array-into-k-sectors-min-and-max-total-cost) | [LC 2551](https://leetcode.com/problems/put-marbles-in-bags/) Hard |

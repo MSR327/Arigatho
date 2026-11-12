@@ -1,6 +1,6 @@
 # IQVIA
 
-**47 questions** · 5 drives · latest 10 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**47 questions** · 5 drives · latest 11 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 19 · [Verbal](../topics/verbal.md) 11 · [Math](../topics/math.md) 5 · [Arrays](../topics/arrays.md) 4 · [Graphs](../topics/graphs.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · [Sorting](../topics/sorting.md) 2 · +10 more  
 **Seen at:** BITS, IIT BHU, IIT Bombay, IIT Delhi, MANIT Bhopal
@@ -77,7 +77,7 @@ Questions and answers shared:
 - Successive discounts 10%, 15% after 35% increase -> 3.275% gain
 - Mother's age word problem -> 50 years
 
-<sub>Topics: Aptitude, Math · Source: [chat, 10 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L281)</sub>
+<sub>Topics: Aptitude, Math · Source: [chat, 10 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L281) · Also asked at: IIT Bombay (2026-11-11)</sub>
 
 ### Q2. Logical Reasoning questions
 
@@ -90,7 +90,7 @@ Questions and answers shared:
 - Facing North, turn 110 degrees left, then 155 degrees right -> North-East
 - Arrange wheat, flour, water, kneading, baking -> 5, 3, 1, 2, 4
 
-<sub>Topics: Aptitude, Puzzles · Source: [chat, 10 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L281)</sub>
+<sub>Topics: Aptitude, Puzzles · Source: [chat, 10 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L281) · Also asked at: IIT Bombay (2026-11-11)</sub>
 
 ### Q3. English and Critical Reasoning questions
 
@@ -104,7 +104,7 @@ Questions and answers shared:
 - What makes meetings successful? -> Open participation
 - Main argument of fasting passage -> Occasional abstinence renews appreciation
 
-<sub>Topics: Verbal · Source: [chat, 10 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L281)</sub>
+<sub>Topics: Verbal · Source: [chat, 10 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L281) · Also asked at: IIT Bombay (2026-11-11)</sub>
 
 ### Q4. IQVIA quantitative aptitude questions
 
@@ -417,4 +417,4 @@ Answer given: 15
 
 IQVIA analyst OA consisted of normal aptitude, verbal ability (VA) and logical reasoning questions.
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L206) · Also asked at: BITS (2026-11-07), IIT Delhi ×2 (last 2026-11-08), IIT Bombay (2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L206) · Also asked at: BITS (2026-11-07), IIT Delhi ×2 (last 2026-11-08), IIT Bombay (2026-11-10), IIT BHU (2026-11-11)</sub>

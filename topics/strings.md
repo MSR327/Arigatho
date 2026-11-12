@@ -1,9 +1,13 @@
 # Strings
 
-117 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+121 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [Microsoft](../companies/microsoft.md) | IIT Bombay | [Longest palindromic subsequence](../companies/microsoft.md#q2-longest-palindromic-subsequence) | [LC 516](https://leetcode.com/problems/longest-palindromic-subsequence/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [First non-repeating character](../companies/cognizant.md#q10-first-non-repeating-character) | [LC 387](https://leetcode.com/problems/first-unique-character-in-a-string/) Easy |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Longest palindromic substring](../companies/cognizant.md#q7-longest-palindromic-substring) | [LC 5](https://leetcode.com/problems/longest-palindromic-substring/) Medium |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Longest substring without repeating characters](../companies/cognizant.md#q3-longest-substring-without-repeating-characters) | [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
 | 2026-11-09 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Count pairs whose concatenation can form a palindrome](../companies/microsoft.md#q1-count-pairs-whose-concatenation-can-form-a-palindrome) | ≈ [LC 1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) Medium |
 | 2026-11-09 | [Microsoft](../companies/microsoft.md) | Unknown | [Minimum replacements to make k-complete word](../companies/microsoft.md#q1-minimum-replacements-to-make-k-complete-word) | [CF 1332C](https://codeforces.com/problemset/problem/1332/C) rated 1500 |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Wildcard pattern matching](../companies/infoedge.md#q9-wildcard-pattern-matching) | [LC 44](https://leetcode.com/problems/wildcard-matching/) Hard |

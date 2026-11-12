@@ -1,13 +1,15 @@
 # Tredence
 
-**50 questions** · 18 drives · latest 10 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**51 questions** · 19 drives · latest 11 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [SQL](../topics/sql.md) 7 · [Arrays](../topics/arrays.md) 6 · [Aptitude](../topics/aptitude.md) 6 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +12 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [SQL](../topics/sql.md) 7 · [Arrays](../topics/arrays.md) 6 · [Aptitude](../topics/aptitude.md) 6 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +12 more  
 **Seen at:** IIIT Hyderabad, IIT BHU, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · IIT BHU · FTE](#2026-11-11--iit-bhu--fte)
+  - [Tredence OA pattern](#q1-tredence-oa-pattern)
 - [2026-11-10 · VNIT Nagpur · FTE · Data Engineer · Interview](#2026-11-10--vnit-nagpur--fte--data-engineer--interview)
   - [Tredence data engineering interview topics](#q1-tredence-data-engineering-interview-topics)
 - [2026-11-05 · IIT BHU · FTE](#2026-11-05--iit-bhu--fte)
@@ -80,6 +82,14 @@
 </details>
 
 ---
+
+## 2026-11-11 · IIT BHU · FTE
+
+### Q1. Tredence OA pattern
+
+DSA was easy to medium and depends on the set: some got graphs, others were as easy as heaps. SQL was easy: working with dates and joining tables multiple times. Shortlisting is points based; some people were shortlisted even without solving one SQL question.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/tredence-oa/2026-11.jsonl#L52), [chat, 11 Nov](../archive/tredence-oa/2026-11.jsonl#L53), [chat, 11 Nov](../archive/tredence-oa/2026-11.jsonl#L55), [chat, 11 Nov](../archive/tredence-oa/2026-11.jsonl#L57)</sub>
 
 ## 2026-11-10 · VNIT Nagpur · FTE · Data Engineer · Interview
 

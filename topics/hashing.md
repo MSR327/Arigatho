@@ -1,9 +1,15 @@
 # Hashing
 
-108 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+114 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Sync engine: queries affected by writes](../companies/accenture.md#q1-sync-engine-queries-affected-by-writes) | |
+| 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Sync engine: queries affected by writes](../companies/bloomberg.md#q1-sync-engine-queries-affected-by-writes) | |
+| 2026-11-11 | [Unknown](../companies/unknown.md) | IIT Bombay | [Sync engine: queries affected by each write](../companies/unknown.md#q1-sync-engine-queries-affected-by-each-write) | |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [First non-repeating character](../companies/cognizant.md#q10-first-non-repeating-character) | [LC 387](https://leetcode.com/problems/first-unique-character-in-a-string/) Easy |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Count frequency of elements](../companies/cognizant.md#q6-count-frequency-of-elements) | |
+| 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Two Sum](../companies/cognizant.md#q1-two-sum) | [LC 1](https://leetcode.com/problems/two-sum/) Easy |
 | 2026-11-10 | [Cognizant](../companies/cognizant.md) | IIT Delhi | [Minimum Time to Process Tasks](../companies/cognizant.md#q1-minimum-time-to-process-tasks) | [LC 881](https://leetcode.com/problems/boats-to-save-people/) Medium |
 | 2026-11-09 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Count pairs whose concatenation can form a palindrome](../companies/microsoft.md#q1-count-pairs-whose-concatenation-can-form-a-palindrome) | ≈ [LC 1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) Medium |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [First missing positive](../companies/infoedge.md#q1-first-missing-positive) | [LC 41](https://leetcode.com/problems/first-missing-positive/) Hard |

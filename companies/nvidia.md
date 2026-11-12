@@ -1,13 +1,17 @@
 # Nvidia
 
-**33 questions** · 16 drives · latest 7 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**35 questions** · 18 drives · latest 11 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Stack/Queue](../topics/stack-queue.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Trees](../topics/trees.md) 4 · [Bit Manipulation](../topics/bit-manipulation.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Math](../topics/math.md) 2 · +10 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 14 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Stack/Queue](../topics/stack-queue.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Trees](../topics/trees.md) 4 · [Bit Manipulation](../topics/bit-manipulation.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Math](../topics/math.md) 2 · +10 more  
 **Seen at:** IIT Delhi, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, NIT Rourkela, Thapar Institute, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · IIT Delhi · FTE · Software](#2026-11-11--iit-delhi--fte--software)
+  - [Software test format](#q1-software-test-format)
+- [2026-11-11 · IIT Delhi · FTE · Hardware](#2026-11-11--iit-delhi--fte--hardware)
+  - [Hardware test format](#q1-hardware-test-format)
 - [2026-11-06 · IIT Hyderabad · FTE · System Software](#2026-11-06--iit-hyderabad--fte--system-software)
   - [Questions reported from the August 2026 NVIDIA assessment](#q1-questions-reported-from-the-august-2026-nvidia-assessment)
 - [2026-11-05 · Thapar Institute · FTE](#2026-11-05--thapar-institute--fte)
@@ -61,6 +65,22 @@
 </details>
 
 ---
+
+## 2026-11-11 · IIT Delhi · FTE · Software
+
+### Q1. Software test format
+
+25 MCQs with negative marking, 40 minutes. Topics: computer architecture, OS, networking, problem solving and logical reasoning. (Another member disputed this.)
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/nvidia-oa/2026-11.jsonl#L93), [chat, 11 Nov](../archive/nvidia-oa/2026-11.jsonl#L94)</sub>
+
+## 2026-11-11 · IIT Delhi · FTE · Hardware
+
+### Q1. Hardware test format
+
+31 fill-in-the-blank questions to be attempted in 40 minutes. Topics: computer architecture, digital design, VLSI, logical and analytical thinking.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/nvidia-oa/2026-11.jsonl#L95)</sub>
 
 ## 2026-11-06 · IIT Hyderabad · FTE · System Software
 

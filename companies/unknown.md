@@ -1,13 +1,19 @@
 # Unknown
 
-**43 questions** · 27 drives · latest 10 Nov 2026 · [14 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**46 questions** · 30 drives · latest 12 Nov 2026 · [14 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Arrays](../topics/arrays.md) 5 · [Math](../topics/math.md) 4 · [DP](../topics/dp.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · +14 more  
-**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +4 more
+**Asks about:** [OA Format](../topics/oa-format.md) 21 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Arrays](../topics/arrays.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [Trees](../topics/trees.md) 2 · +14 more  
+**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · NIT Patna · FTE · Probationary Engineer (CSE)](#2026-11-12--nit-patna--fte--probationary-engineer-cse)
+  - [BEL CSE OA pattern](#q1-bel-cse-oa-pattern)
+- [2026-11-11 · Unknown · FTE](#2026-11-11--unknown--fte)
+  - [Typeface OA pattern](#q1-typeface-oa-pattern)
+- [2026-11-11 · IIT Bombay · FTE](#2026-11-11--iit-bombay--fte)
+  - [Sync engine: queries affected by each write](#q1-sync-engine-queries-affected-by-each-write)
 - [2026-11-10 · NIT Kurukshetra · FTE](#2026-11-10--nit-kurukshetra--fte)
   - [ICICI Bank OA topics](#q1-icici-bank-oa-topics)
 - [2026-11-08 · Unknown · FTE · Quant Analyst · Other round](#2026-11-08--unknown--fte--quant-analyst--other-round)
@@ -82,6 +88,50 @@
 </details>
 
 ---
+
+## 2026-11-12 · NIT Patna · FTE · Probationary Engineer (CSE)
+
+### Q1. BEL CSE OA pattern
+
+BEL (Bharat Electronics Limited) – CSE OA pattern (2025 Probationary Engineer):
+- Technical: 100 questions
+- Aptitude & Reasoning: 25 questions
+- Total: 125 questions, 120 minutes, MCQ-based CBT
+
+Topics: DBMS (SQL, normalization, transactions), OS (scheduling, deadlocks, paging), CN (TCP/IP, OSI, routing), Data Structures, Algorithms (sorting, searching, DP), C programming (pointers, output questions), OOPs, COA (cache, pipeline), Digital Logic, Compiler Design, Software Engineering, Aptitude & Logical Reasoning. Candidate-reported: DBMS, OS, CN, CO, AI/ML basics.
+
+Difficulty: Moderate–Hard. Selection: CBT followed by Interview.
+
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1300)</sub>
+
+## 2026-11-11 · Unknown · FTE
+
+### Q1. Typeface OA pattern
+
+Codeforces 1500+ level problems along with some CS-based MCQs; one question on digit DP. Another report: 2–3 DSA problems, Medium–Hard, C++/Java/Python, topics DP, Graphs, Trees, Arrays, Hashing.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L329), [chat, 11 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L333)</sub>
+
+## 2026-11-11 · IIT Bombay · FTE
+
+### Q1. Sync engine: queries affected by each write
+
+Variant of the "sync engine" question (ticketing system variant).
+
+Input format:
+- First line has 2 integers `n`, `q`.
+- `n` query blocks follow (numbered 1 to n in input order). Each block is: a line with the table name, a line with an integer `T` (number of nodes in the condition tree), then `T` lines describing nodes 1 to T, where node 1 is the root.
+- Each node line is one of:
+  - `AND k c1 c2 …`
+  - `OR k c1 c2 …`
+  - `COND column= value`
+- Then `q` write blocks follow. Each starts with the write type and table name (for example INSERT, DELETE, UPDATE), then a row: an integer `c` followed by `c` lines of `column value`.
+
+Output: print `q` lines. Line `i` contains the ids of the queries affected by the i-th write, in increasing order, space separated. If no query is affected, print `-1`.
+
+Note: the poster only gave the input/output format; the exact matching rules for when a write affects a query are not stated.
+
+<sub>Topics: Trees, Hashing, Recursion/Backtracking · Source: [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1250), [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1268), [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1271)</sub>
 
 ## 2026-11-10 · NIT Kurukshetra · FTE
 

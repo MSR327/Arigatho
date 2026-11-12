@@ -1,13 +1,17 @@
 # IDFC First Bank
 
-**4 questions** · 4 drives · latest 9 Nov 2026 · [← all companies](../README.md#companies)
+**6 questions** · 6 drives · latest 12 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 4  
-**Seen at:** IIT Delhi, IIT Guwahati, MNNIT Allahabad
+**Asks about:** [OA Format](../topics/oa-format.md) 6  
+**Seen at:** IIIT Allahabad, IIT Delhi, IIT Guwahati, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · IIIT Allahabad · FTE · Associate Data Scientist - AI Labs](#2026-11-12--iiit-allahabad--fte--associate-data-scientist---ai-labs)
+  - [IDFC AI Labs OA pattern](#q1-idfc-ai-labs-oa-pattern)
+- [2026-11-11 · IIT Guwahati · FTE · Data Scientist / Data Analyst](#2026-11-11--iit-guwahati--fte--data-scientist--data-analyst)
+  - [IDFC Bank Data Scientist/Analyst OA rounds](#q1-idfc-bank-data-scientistanalyst-oa-rounds)
 - [2026-11-09 · IIT Guwahati · FTE](#2026-11-09--iit-guwahati--fte)
   - [Round 2: AI vibe coding round](#q1-round-2-ai-vibe-coding-round)
 - [2026-11-08 · IIT Guwahati · FTE · Data Engineer](#2026-11-08--iit-guwahati--fte--data-engineer)
@@ -20,6 +24,29 @@
 </details>
 
 ---
+
+## 2026-11-12 · IIIT Allahabad · FTE · Associate Data Scientist - AI Labs
+
+### Q1. IDFC AI Labs OA pattern
+
+OA structure:
+
+A. Aptitude: 15 MCQs, 20 min
+B. Technical MCQs: 25 MCQs, 25 min
+C. Coding: 2 problems, 45 min
+
+Total: 42 questions, 90 min. The actual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-iit/2026-11.jsonl#L657)</sub>
+
+## 2026-11-11 · IIT Guwahati · FTE · Data Scientist / Data Analyst
+
+### Q1. IDFC Bank Data Scientist/Analyst OA rounds
+
+Round 1: aptitude.
+Round 2: data engineering + SQL.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L426)</sub>
 
 ## 2026-11-09 · IIT Guwahati · FTE
 
@@ -45,7 +72,7 @@ Assessment consists of 2 back-to-back tests (chain assessment):
 1. Aptitude Test - 50 minutes
 2. Psychometric Test - 15 minutes
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L1), [chat, 2 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L2) · Also asked at: IIT Delhi (2026-11-09)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L1), [chat, 2 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L2) · Also asked at: IIT Delhi (2026-11-09), IIT Guwahati ×2 (last 2026-11-11)</sub>
 
 ## 2026-10-28 · MNNIT Allahabad · FTE
 

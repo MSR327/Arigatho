@@ -1,13 +1,34 @@
 # Cognizant
 
-**52 questions** · 19 drives · latest 11 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**68 questions** · 24 drives · latest 11 Nov 2026 · [25 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 16 · [Greedy](../topics/greedy.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 5 · [Arrays](../topics/arrays.md) 5 · [Binary Search](../topics/binary-search.md) 4 · [Sorting](../topics/sorting.md) 4 · [DP](../topics/dp.md) 3 · +13 more  
-**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +3 more
+**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Arrays](../topics/arrays.md) 11 · [Greedy](../topics/greedy.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [DP](../topics/dp.md) 8 · [Hashing](../topics/hashing.md) 6 · [Sorting](../topics/sorting.md) 5 · +14 more  
+**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · VNIT Nagpur · FTE](#2026-11-11--vnit-nagpur--fte)
+  - [Cognizant process and OA pattern](#q1-cognizant-process-and-oa-pattern)
+- [2026-11-11 · Unknown · FTE](#2026-11-11--unknown--fte)
+  - [Cognizant OA format](#q1-cognizant-oa-format)
+- [2026-11-11 · IIT Roorkee · FTE](#2026-11-11--iit-roorkee--fte)
+  - [Cognizant OA pattern](#q1-cognizant-oa-pattern)
+  - [Numbers up to n with exactly 3 factors](#q2-numbers-up-to-n-with-exactly-3-factors)
+  - [Maximize profit with XOR less than K](#q3-maximize-profit-with-xor-less-than-k)
+- [2026-11-11 · IIT Guwahati · FTE](#2026-11-11--iit-guwahati--fte)
+  - [Count ways to allocate images across filters within max time](#q1-count-ways-to-allocate-images-across-filters-within-max-time)
+- [2026-11-11 · IIIT Allahabad · FTE](#2026-11-11--iiit-allahabad--fte)
+  - [Two Sum](#q1-two-sum)
+  - [Maximum product subarray](#q2-maximum-product-subarray)
+  - [Longest substring without repeating characters](#q3-longest-substring-without-repeating-characters)
+  - [Maximum subarray sum](#q4-maximum-subarray-sum)
+  - [Move all zeros to end](#q5-move-all-zeros-to-end)
+  - [Count frequency of elements](#q6-count-frequency-of-elements)
+  - [Longest palindromic substring](#q7-longest-palindromic-substring)
+  - [Rotate array by K positions](#q8-rotate-array-by-k-positions)
+  - [Merge overlapping intervals](#q9-merge-overlapping-intervals)
+  - [First non-repeating character](#q10-first-non-repeating-character)
 - [2026-11-10 · IIT Delhi · FTE](#2026-11-10--iit-delhi--fte)
   - [Minimum Time to Process Tasks](#q1-minimum-time-to-process-tasks)
 - [2026-11-08 · IIT Roorkee · FTE](#2026-11-08--iit-roorkee--fte)
@@ -52,7 +73,7 @@
   - [Priority scheduling with binary search](#q2-priority-scheduling-with-binary-search)
   - [Bipartite graph application](#q3-bipartite-graph-application)
 - [2026-11-02 · IIIT Allahabad · FTE](#2026-11-02--iiit-allahabad--fte)
-  - [Cognizant OA pattern](#q1-cognizant-oa-pattern)
+  - [Cognizant OA pattern](#q1-cognizant-oa-pattern-1)
 - [2026-11-01 · NIT Raipur · FTE](#2026-11-01--nit-raipur--fte)
   - [OA format: DSA, prompt engineering, RAG, full stack debugging](#q1-oa-format-dsa-prompt-engineering-rag-full-stack-debugging)
 - [2026-10-31 · Unknown · FTE · ACE Frontier Engineer · Other round](#2026-10-31--unknown--fte--ace-frontier-engineer--other-round)
@@ -83,6 +104,144 @@
 </details>
 
 ---
+
+## 2026-11-11 · VNIT Nagpur · FTE
+
+### Q1. Cognizant process and OA pattern
+
+An online assessment round with MCQs plus an easy DSA question, followed by a technical round and an HR round.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L567) · Also asked at: VNIT Nagpur (2026-11-11)</sub>
+
+## 2026-11-11 · Unknown · FTE
+
+### Q1. Cognizant OA format
+
+Only DSA coding questions plus MCQs on RAG, LLM and CS fundamentals. The MCQs were quite easy. No prompt engineering or React task.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/cognizant-oa/2026-11.jsonl#L108)</sub>
+
+## 2026-11-11 · IIT Roorkee · FTE
+
+### Q1. Cognizant OA pattern
+
+The OA had 3 medium DSA questions (90 minutes) and 10 very easy basic Gen AI MCQs.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/cognizant-oa/2026-11.jsonl#L101)</sub>
+
+### Q2. Numbers up to n with exactly 3 factors
+
+Find the numbers from 1 to n that have exactly 3 factors.
+
+Exact constraints and examples were not shared.
+
+<sub>Topics: Math · Same idea: [LeetCode 1952. Three Divisors](https://leetcode.com/problems/three-divisors/) (Easy), exactly 3 divisors means square of a prime · Source: [chat, 11 Nov](../archive/alphonso-oa/2026-11.jsonl#L4) · Also asked at: IIT BHU ×7 (last 2026-11-11), IIT Roorkee ×3 (last 2026-11-11), IIT Delhi (2026-11-11)</sub>
+
+### Q3. Maximize profit with XOR less than K
+
+Each element has a value (profit). Select elements to maximize profit such that the XOR of the selected values is less than a given K.
+
+The poster only remembered this roughly; exact input format and constraints are missing.
+
+<sub>Topics: Bit Manipulation, DP · Same idea: [LeetCode 421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) (Medium), binary trie for XOR bounded selection · Source: [chat, 11 Nov](../archive/alphonso-oa/2026-11.jsonl#L4) · Also asked at: IIT BHU ×7 (last 2026-11-11), IIT Roorkee ×3 (last 2026-11-11), IIT Delhi (2026-11-11)</sub>
+
+## 2026-11-11 · IIT Guwahati · FTE
+
+### Q1. Count ways to allocate images across filters within max time
+
+Determine how many different ways you can allocate m images across n filters while keeping the total processing time at or below a maximum limit.
+
+Each filter i takes `time[i]` seconds to process one image. When you assign `imagesAssigned[i]` images to filter i, that filter takes `imagesAssigned[i] * time[i]` seconds. The total processing time is the sum over all filters.
+
+Count all configurations where:
+- Each filter is assigned 0 or more images
+- The total number of assigned images equals m
+- The total processing time does not exceed `maxTime`
+
+Return the result modulo (10^9 + 7).
+
+**Example**
+`n = 3, m = 3, maxTime = 3, time = [1, 1, 1]`
+All 10 distributions of 3 images over 3 filters are valid (e.g. [1,1,1], [2,1,0], [3,0,0], [0,0,3]), each taking 3 seconds.
+
+Function: `getNumConfigurations(int time[n], int m, int maxTime)` returns int.
+
+**Constraints**
+- 1 ≤ n, m ≤ 300
+- 0 ≤ maxTime, time[i] ≤ 300
+
+**Sample Case 0**
+```
+time = [0, 1, 0]
+m = 3
+maxTime = 0
+Output: 4
+```
+The configurations are [3,0,0], [2,0,1], [1,0,2] and [0,0,3], each taking 0 seconds.
+
+<sub>Topics: DP, Math · Same idea: [LeetCode 518. Coin Change II](https://leetcode.com/problems/coin-change-ii/) (Medium), unbounded knapsack counting ways, with extra dimension · Source: [all_chat_images (1).pdf](../archive/files/25479-all_chat_images_1_.pdf)</sub>
+
+## 2026-11-11 · IIIT Allahabad · FTE
+
+### Q1. Two Sum
+
+Two Sum (Hashing, Easy).
+
+<sub>Topics: Hashing, Arrays · Similar: [LeetCode 1. Two Sum](https://leetcode.com/problems/two-sum/) (Easy) · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L571)</sub>
+
+### Q2. Maximum product subarray
+
+Maximum Product Subarray (DP, Medium).
+
+<sub>Topics: DP, Arrays · Similar: [LeetCode 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) (Medium) · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L571)</sub>
+
+### Q3. Longest substring without repeating characters
+
+Longest Substring Without Repeating Characters (Sliding Window, Medium).
+
+<sub>Topics: Sliding Window, Strings · Similar: [LeetCode 3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium) · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L571)</sub>
+
+### Q4. Maximum subarray sum
+
+Maximum Subarray Sum (Kadane's Algorithm, Medium).
+
+<sub>Topics: Arrays, DP · Similar: [LeetCode 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) (Medium) · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L571)</sub>
+
+### Q5. Move all zeros to end
+
+Move All Zeros to End (Arrays, Easy).
+
+<sub>Topics: Arrays, Two Pointers · Similar: [LeetCode 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) (Easy) · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L571)</sub>
+
+### Q6. Count frequency of elements
+
+Count Frequency of Elements (Hashing, Easy).
+
+<sub>Topics: Hashing · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L571)</sub>
+
+### Q7. Longest palindromic substring
+
+Longest Palindromic Substring (Strings, Medium).
+
+<sub>Topics: Strings, DP · Similar: [LeetCode 5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (Medium) · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L571)</sub>
+
+### Q8. Rotate array by K positions
+
+Rotate Array by K Positions (Arrays, Medium).
+
+<sub>Topics: Arrays · Similar: [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/) (Medium) · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L571)</sub>
+
+### Q9. Merge overlapping intervals
+
+Merge Overlapping Intervals (Sorting, Medium).
+
+<sub>Topics: Sorting, Arrays · Similar: [LeetCode 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Medium) · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L571)</sub>
+
+### Q10. First non-repeating character
+
+First Non-Repeating Character (Hashing, Easy).
+
+<sub>Topics: Hashing, Strings · Similar: [LeetCode 387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) (Easy) · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L571)</sub>
 
 ## 2026-11-10 · IIT Delhi · FTE
 
@@ -118,7 +277,7 @@ maxMemory = 4
 Output: 4
 ```
 
-<sub>Topics: Greedy, Hashing, Two Pointers · Close variant: [LeetCode 881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) (Medium), two-pointer pairing under capacity, done per task type · Source: [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L562), [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L563) · Also asked at: IIT Delhi ×3 (last 2026-11-10), Unknown (2026-11-11)</sub>
+<sub>Topics: Greedy, Hashing, Two Pointers · Close variant: [LeetCode 881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) (Medium), two-pointer pairing under capacity, done per task type · Source: [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L562), [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L563) · Also asked at: IIT Delhi ×3 (last 2026-11-10), Unknown (2026-11-11), IIT Guwahati (2026-11-11)</sub>
 
 ## 2026-11-08 · IIT Roorkee · FTE
 
@@ -223,7 +382,7 @@ B. They are two names for exactly the same thing in Python
 C. A class stores only data, and an object stores only functions
 D. A class is a blueprint, and an object is an instance created from it
 
-<sub>Topics: OOP · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+<sub>Topics: OOP · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf) · Also asked at: IIT Guwahati (2026-11-11)</sub>
 
 ### Q9. Purpose of a Python decorator
 
@@ -245,7 +404,7 @@ B. Only the programmer using free()
 C. The operating system user
 D. The text editor
 
-<sub>Topics: Python & Pandas · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf)</sub>
+<sub>Topics: Python & Pandas · Source: [Cognizant-IITR.pdf](../archive/files/23357-Cognizant-IITR.pdf) · Also asked at: IIT Guwahati (2026-11-11)</sub>
 
 ### Q11. Valid encryption keys with exactly 3 divisors
 
@@ -439,7 +598,7 @@ Sample Case 0: n = 4, high_priority = [1, 4] (k = 2), normal_time = 1, priority_
 
 The statement was read from blurry photos, so the exact wording and constraints are only partly visible. The cost formula and splitting rule are my best reading of the photos.
 
-<sub>Topics: Recursion/Backtracking, Arrays · Source: [iit_dhanbad_cognizant_oa.pdf](../archive/files/21496-iit_dhanbad_cognizant_oa.pdf) · Also asked at: IIT Delhi ×2 (last 2026-11-10)</sub>
+<sub>Topics: Recursion/Backtracking, Arrays · Source: [iit_dhanbad_cognizant_oa.pdf](../archive/files/21496-iit_dhanbad_cognizant_oa.pdf) · Also asked at: IIT Delhi ×2 (last 2026-11-10), IIT Guwahati (2026-11-11)</sub>
 
 ## 2026-11-05 · IIT BHU · FTE
 

@@ -1,9 +1,9 @@
 # ZS
 
-**14 questions** · 10 drives · latest 10 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**14 questions** · 10 drives · latest 11 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 6 · [HR & Behavioral](../topics/hr-behavioral.md) 5 · [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [Verbal](../topics/verbal.md) 1 · [SQL](../topics/sql.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · +1 more  
-**Seen at:** IIT BHU, IIT Indore, NIT Rourkela, VIT Vellore
+**Seen at:** BMS College of Engineering, IIT BHU, IIT Indore, NIT Rourkela, VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -43,7 +43,7 @@
 
 The communication round asked behavioral questions and STAR-based questions. No specific questions given.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L491)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 10 Nov](../archive/inter-iit/2026-11.jsonl#L491) · Also asked at: BMS College of Engineering (2026-11-11)</sub>
 
 ## 2026-11-10 · NIT Rourkela · FTE · Interview
 
@@ -160,4 +160,4 @@ Verbal assessment round had three parts:
 
 The actual sentences, audio questions and topics were not shared.
 
-<sub>Topics: OA Format, Verbal · Source: [chat, 17 Oct](../archive/campus-nit-rourkela-placements/2026-10.jsonl#L14) · Also asked at: Unknown (2026-11-10)</sub>
+<sub>Topics: OA Format, Verbal · Source: [chat, 17 Oct](../archive/campus-nit-rourkela-placements/2026-10.jsonl#L14) · Also asked at: Unknown (2026-11-10), IIT BHU (2026-11-11)</sub>

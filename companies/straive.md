@@ -1,9 +1,9 @@
 # Straive
 
-**1 question** · 1 drive · latest 5 Nov 2026 · [← all companies](../README.md#companies)
+**1 question** · 1 drive · latest 11 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 1  
-**Seen at:** IIT BHU, IIT Guwahati
+**Seen at:** IIT BHU, IIT Guwahati, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -21,4 +21,4 @@
 
 Straive OA had 5 sections: 1 SQL question, 1 Python DSA question, 18 ability (aptitude) questions, 5 Gen AI questions, and 15 ML/DL MCQs.
 
-<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L510) · Also asked at: IIT Guwahati ×3 (last 2026-10-23), IIT BHU ×2 (last 2026-11-05)</sub>
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L510) · Also asked at: IIT Guwahati ×3 (last 2026-10-23), IIT BHU ×5 (last 2026-11-11), MNNIT Allahabad (2026-11-11)</sub>

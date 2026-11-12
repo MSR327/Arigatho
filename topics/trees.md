@@ -1,9 +1,12 @@
 # Trees
 
-73 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+76 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Sync engine: queries affected by writes](../companies/accenture.md#q1-sync-engine-queries-affected-by-writes) | |
+| 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Sync engine: queries affected by writes](../companies/bloomberg.md#q1-sync-engine-queries-affected-by-writes) | |
+| 2026-11-11 | [Unknown](../companies/unknown.md) | IIT Bombay | [Sync engine: queries affected by each write](../companies/unknown.md#q1-sync-engine-queries-affected-by-each-write) | |
 | 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Count leaf nodes with at most k consecutive bad nodes on path](../companies/juspay.md#q2-count-leaf-nodes-with-at-most-k-consecutive-bad-nodes-on-path) | ≈ [LC 1](https://leetcode.com/problems/two-sum/) Easy |
 | 2026-11-09 | [Cars24](../companies/cars24.md) | Unknown | [K-th Smallest Element](../companies/cars24.md#q7-k-th-smallest-element) | [LC 215](https://leetcode.com/problems/kth-largest-element-in-an-array/) Medium |
 | 2026-11-09 | [Juspay](../companies/juspay.md) | NIT Surathkal | [Round 3 design-type tree operations](../companies/juspay.md#q1-round-3-design-type-tree-operations) | [LC 1993](https://leetcode.com/problems/operations-on-tree/) Medium |

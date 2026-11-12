@@ -1,9 +1,10 @@
 # Software Engineering
 
-63 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+64 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Kanban bottleneck prevention](../companies/icici.md#q3-kanban-bottleneck-prevention) | |
 | 2026-11-10 | [Optum](../companies/optum.md) | NIT Warangal | [Optum HR and technical interview](../companies/optum.md#q1-optum-hr-and-technical-interview) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT Delhi | [Design a University Ticketing System](../companies/capital-one.md#q2-design-a-university-ticketing-system) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT BHU | [System design: classes, transactions, race conditions](../companies/capital-one.md#q1-system-design-classes-transactions-race-conditions) | |

@@ -1,6 +1,6 @@
 # Juspay
 
-**23 questions** · 16 drives · latest 10 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**23 questions** · 16 drives · latest 11 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 11 · [Trees](../topics/trees.md) 4 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 3 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +2 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, MNNIT Allahabad +4 more
@@ -113,7 +113,7 @@ Edge weight update queries in a tree. The poster gave only the name; the stateme
 
 Juspay round 3 (2-hour window test) included Part A: "Ticketing System", a heavy implementation-type problem. The problem was sent by mail; the full statement was not included in the message.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L3), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L4), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L6)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L3), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L4), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L6) · Also asked at: IIT Bombay (2026-11-11)</sub>
 
 ## 2026-10-27 · IIT Delhi · FTE
 
@@ -250,7 +250,7 @@ UPDATE: An UPDATE provid... [message truncated here]
 
 (Pattern: 3 hours, one question.)
 
-<sub>Topics: Trees, Hashing · Source: [chat, 18 Oct](../archive/inter-nit/2026-10.jsonl#L1539), [chat, 18 Oct](../archive/inter-iit/2026-10.jsonl#L560) · Also asked at: MNNIT Allahabad ×3 (last 2026-10-18), IIIT Allahabad ×2 (last 2026-10-23), IIT BHU ×2 (last 2026-11-10)</sub>
+<sub>Topics: Trees, Hashing · Source: [chat, 18 Oct](../archive/inter-nit/2026-10.jsonl#L1539), [chat, 18 Oct](../archive/inter-iit/2026-10.jsonl#L560) · Also asked at: MNNIT Allahabad ×3 (last 2026-10-18), IIIT Allahabad ×2 (last 2026-10-23), IIT BHU ×2 (last 2026-11-10), IIT Bombay ×8 (last 2026-11-11)</sub>
 
 ## 2026-10-17 · MNNIT Allahabad · FTE
 

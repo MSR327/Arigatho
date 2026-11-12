@@ -1,19 +1,29 @@
 # NoBroker
 
-**1 question** · 1 drive · latest 13 Oct 2026 · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 11 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 1  
-**Seen at:** IIT Guwahati
+**Asks about:** [OA Format](../topics/oa-format.md) 2  
+**Seen at:** IIT Guwahati, IIT Madras
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · IIT Madras · FTE · SDE](#2026-11-11--iit-madras--fte--sde)
+  - [SDE OA format](#q1-sde-oa-format)
 - [2026-10-13 · IIT Guwahati · FTE · Data Scientist](#2026-10-13--iit-guwahati--fte--data-scientist)
   - [NoBroker OA format](#q1-nobroker-oa-format)
 
 </details>
 
 ---
+
+## 2026-11-11 · IIT Madras · FTE · SDE
+
+### Q1. SDE OA format
+
+3 questions in 90 minutes, plus some CS core questions.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/nobroker-oa/2026-11.jsonl#L24)</sub>
 
 ## 2026-10-13 · IIT Guwahati · FTE · Data Scientist
 

@@ -1,13 +1,17 @@
 # Media.net
 
-**7 questions** · 5 drives · latest 9 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 7 drives · latest 12 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 4 · [OA Format](../topics/oa-format.md) 2 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Math](../topics/math.md) 1 · [Trees](../topics/trees.md) 1  
+**Asks about:** [Arrays](../topics/arrays.md) 4 · [OA Format](../topics/oa-format.md) 3 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Math](../topics/math.md) 1 · [Trees](../topics/trees.md) 1 · +2 more  
 **Seen at:** Delhi Technological University, IIT BHU, MNNIT Allahabad, Netaji Subhas University of Technology, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · VNIT Nagpur · FTE](#2026-11-12--vnit-nagpur--fte)
+  - [Media.net OA: 2 medium DSA questions](#q1-medianet-oa-2-medium-dsa-questions)
+- [2026-11-11 · IIT BHU · FTE · Senior Product Analyst](#2026-11-11--iit-bhu--fte--senior-product-analyst)
+  - [Media.net Senior Product Analyst OA pattern](#q1-medianet-senior-product-analyst-oa-pattern)
 - [2026-11-07 · MNNIT Allahabad · FTE · Product Analyst](#2026-11-07--mnnit-allahabad--fte--product-analyst)
   - [Media.net Product Analyst OA sections](#q1-medianet-product-analyst-oa-sections)
 - [2026-10-19 · VNIT Nagpur · FTE · SDE · Interview](#2026-10-19--vnit-nagpur--fte--sde--interview)
@@ -25,6 +29,27 @@
 
 ---
 
+## 2026-11-12 · VNIT Nagpur · FTE
+
+### Q1. Media.net OA: 2 medium DSA questions
+
+The OA had 2 medium-level DSA questions: one was DP and the other was (probably) binary search. Exact problems not given.
+
+<sub>Topics: DP, Binary Search · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1308), [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1309)</sub>
+
+## 2026-11-11 · IIT BHU · FTE · Senior Product Analyst
+
+### Q1. Media.net Senior Product Analyst OA pattern
+
+The OA has four parts:
+
+* **Technical MCQs & Pseudocode:** about 40 questions, 40 to 50 minutes. Topics: programming logic, pseudocode tracing, DSA, OOP, DBMS & SQL, Operating Systems, Computer Networks, and AI literacy (Generative AI, LLMs, prompts, RAG).
+* **English / Communication Test:** about 30 questions, about 30 minutes. Covers grammar, reading comprehension, writing, vocabulary and listening/spoken modules depending on the platform.
+* **Game-Based Cognitive Assessment:** interactive logic and attention-based mini-games (typically 4 selected from a larger pool), 20 to 30 minutes.
+* **Behavioral / PowerSkills Assessment:** personality and workplace-behavior rating questions (about 100 questions), 20 to 25 minutes.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/media-net-oa/2026-11.jsonl#L23), [chat, 11 Nov](../archive/media-net-oa/2026-11.jsonl#L24) · Also asked at: Unknown (2026-11-11), IIT BHU (2026-11-11)</sub>
+
 ## 2026-11-07 · MNNIT Allahabad · FTE · Product Analyst
 
 ### Q1. Media.net Product Analyst OA sections
@@ -38,7 +63,7 @@ OA sections and topics:
 - Verbal Ability: Comprehension, grammar
 - Programming: Basic Python, coding logic
 
-<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L85) · Also asked at: IIT BHU (2026-11-09)</sub>
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L85) · Also asked at: IIT BHU (2026-11-09), MNNIT Allahabad (2026-11-11)</sub>
 
 ## 2026-10-19 · VNIT Nagpur · FTE · SDE · Interview
 

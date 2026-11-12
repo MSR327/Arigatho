@@ -1,9 +1,12 @@
 # Guesstimates & Cases
 
-20 questions from 8 companys, newest first. [← all topics](../README.md#topics)
+23 questions from 8 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Ben Carpet new technology investment case](../companies/accordion.md#q3-ben-carpet-new-technology-investment-case) |
+| 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Estimate households interested in streaming service in two years](../companies/accordion.md#q2-estimate-households-interested-in-streaming-service-in-two-years) |
+| 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Streaming service households: decrease in movies streamed](../companies/accordion.md#q1-streaming-service-households-decrease-in-movies-streamed) |
 | 2026-11-10 | [ZS](../companies/zs.md) | NIT Rourkela | [ZS case study round format](../companies/zs.md#q1-zs-case-study-round-format) |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal PA interview rounds](../companies/eternal-zomato.md#q1-eternal-pa-interview-rounds) |
 | 2026-11-09 | [ZS](../companies/zs.md) | IIT Indore | [ZS interview topics](../companies/zs.md#q1-zs-interview-topics) |

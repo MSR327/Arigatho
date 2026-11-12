@@ -1,9 +1,11 @@
 # Recursion/Backtracking
 
-32 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+34 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-11 | [Unknown](../companies/unknown.md) | IIT Bombay | [Sync engine: queries affected by each write](../companies/unknown.md#q1-sync-engine-queries-affected-by-each-write) | |
+| 2026-11-11 | [BNY](../companies/bny.md) | VNIT Nagpur | [BNY OA topics](../companies/bny.md#q1-bny-oa-topics) | ≈ [LC 46](https://leetcode.com/problems/permutations/) Medium |
 | 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT Dhanbad | [Minimum Execution Time - Process Scheduling](../companies/cognizant.md#q3-minimum-execution-time---process-scheduling) | |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [String + game story implementation](../companies/navi.md#q1-string--game-story-implementation) | |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Hyderabad | [Navi OA: 2048 game (hard)](../companies/navi.md#q1-navi-oa-2048-game-hard) | |

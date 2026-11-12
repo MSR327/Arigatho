@@ -1,13 +1,17 @@
 # Accordion
 
-**33 questions** · 10 drives · latest 10 Nov 2026 · [← all companies](../README.md#companies)
+**36 questions** · 11 drives · latest 11 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 24 · [OA Format](../topics/oa-format.md) 9 · [Finance](../topics/finance.md) 9 · [Math](../topics/math.md) 6 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 26 · [Finance](../topics/finance.md) 10 · [OA Format](../topics/oa-format.md) 9 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · IIT Roorkee · FTE](#2026-11-11--iit-roorkee--fte)
+  - [Streaming service households: decrease in movies streamed](#q1-streaming-service-households-decrease-in-movies-streamed)
+  - [Estimate households interested in streaming service in two years](#q2-estimate-households-interested-in-streaming-service-in-two-years)
+  - [Ben Carpet new technology investment case](#q3-ben-carpet-new-technology-investment-case)
 - [2026-11-09 · MNNIT Allahabad · FTE · Data Analyst](#2026-11-09--mnnit-allahabad--fte--data-analyst)
   - [Data Science section: recall, handshakes, probability, sampling](#q1-data-science-section-recall-handshakes-probability-sampling)
   - [Smallest number whose digits multiply to N](#q2-smallest-number-whose-digits-multiply-to-n)
@@ -55,6 +59,51 @@
 </details>
 
 ---
+
+## 2026-11-11 · IIT Roorkee · FTE
+
+### Q1. Streaming service households: decrease in movies streamed
+
+Consider an online company that offers streaming of movie videos directly to homes over broadband internet in Manhattan. Assume the population of Manhattan is 1.5 million and 2/3rd of households have internet access.
+
+Data:
+- An average of 2 people per household in Manhattan.
+- Of the current Manhattan households with internet access, 10% have expressed an interest in an online movie streaming service, and this number is expected to grow 10% a year for the next two years.
+- The number of households with internet access does not increase and total population does not increase.
+
+Q6. Interested households currently watch 1 movie a month from other channels/sources. They are expected to watch only 8 movies a year in two years' time. Given this data, what is the percentage decrease in the total number of movies streamed from interested households two years from now?
+
+A. 33.33%
+B. 20.33%
+C. 18.00%
+D. 19.33%
+
+<sub>Topics: Guesstimates & Cases, Aptitude · Source: [chat, 11 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L377)</sub>
+
+### Q2. Estimate households interested in streaming service in two years
+
+Using the same Manhattan streaming-service data (population 1.5 million, 2/3rd of households have internet access, 2 people per household, 10% of internet households interested now, growing 10% a year for two years):
+
+Q7. Estimate how many households would be interested in this service in two years' time.
+
+A. 50,000
+B. 55,000
+C. 121,000
+D. 110,000
+E. 60,500
+
+<sub>Topics: Guesstimates & Cases, Aptitude · Source: [chat, 11 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L377)</sub>
+
+### Q3. Ben Carpet new technology investment case
+
+Ben Carpet is a manufacturer and seller of residential and commercial carpet. It sells carpets to retailers and in some cases directly to end-users. Ben manufactures 5 days a week, 16 hours a day. Ben is considering new technology which would improve the carpet-making process; the total investment is $25 million. Data:
+- Plant currently produces 10 million yards per year. Assume there are no capacity constraints.
+- The high-end market currently purchases 70 million yards/year. Ben Carpets expects to capture approximately 5% of that segment.
+- Customers representing 30% of revenues would be interested in switching from lower-end carpet to a new higher-end carpet produced by Ben. These purchases are an addition to the high-end market. The remaining customers stick to what they are purchasing now.
+
+The message was cut off here; the remaining data and the actual question were not included.
+
+<sub>Topics: Guesstimates & Cases, Finance · Source: [chat, 11 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L377)</sub>
 
 ## 2026-11-09 · MNNIT Allahabad · FTE · Data Analyst
 
@@ -393,7 +442,7 @@ AI/ML Engineer 2: 3 sections:
 
 PST: multiple-choice business problem-solving questions, 20 minutes, 15 problem-solving questions. Focus: numerical reasoning, structured thinking, basic business math. Marking: +1 for each correct answer, -0.5 for each wrong answer.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT Dhanbad (2026-11-07), IIT Roorkee ×3 (last 2026-11-08), IIT BHU ×8 (last 2026-11-10), Unknown (2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT Dhanbad (2026-11-07), IIT BHU ×8 (last 2026-11-10), Unknown (2026-11-10), IIT Roorkee ×7 (last 2026-11-11)</sub>
 
 ## 2026-11-06 · IIT Bhubaneswar · FTE · Data Engineer
 

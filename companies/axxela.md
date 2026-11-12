@@ -1,6 +1,6 @@
 # Axxela
 
-**8 questions** · 3 drives · latest 10 Nov 2026 · [← all companies](../README.md#companies)
+**8 questions** · 3 drives · latest 11 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 6 · [OA Format](../topics/oa-format.md) 2 · [Math](../topics/math.md) 1  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Roorkee, SVNIT Surat
@@ -30,7 +30,7 @@
 
 In the game round, candidates are made to watch a video first, and then the round starts. (The details of the round itself were not given.)
 
-<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L386)</sub>
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L386) · Also asked at: IIT Roorkee ×2 (last 2026-11-11)</sub>
 
 ## 2026-10-16 · IIT Guwahati · FTE
 

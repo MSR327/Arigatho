@@ -1,9 +1,13 @@
 # Binary Search
 
-51 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+55 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [Media.net](../companies/media-net.md) | VNIT Nagpur | [Media.net OA: 2 medium DSA questions](../companies/media-net.md#q1-medianet-oa-2-medium-dsa-questions) | |
+| 2026-11-11 | [BNY](../companies/bny.md) | IIT BHU | [Minimum makespan to process requests across servers](../companies/bny.md#q2-minimum-makespan-to-process-requests-across-servers) | ≈ [LC 1723](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) Hard |
+| 2026-11-11 | [BNY](../companies/bny.md) | IIT BHU | [Maximize call volume with non-overlapping calls](../companies/bny.md#q1-maximize-call-volume-with-non-overlapping-calls) | [LC 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) Hard |
+| 2026-11-11 | [Optum](../companies/optum.md) | Unknown | [Binary search on answer (harder)](../companies/optum.md#q2-binary-search-on-answer-harder) | |
 | 2026-11-09 | [Capgemini](../companies/capgemini.md) | IIT Guwahati | [Binary search on answer with helper function](../companies/capgemini.md#q2-binary-search-on-answer-with-helper-function) | ≈ [LC 1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) Medium |
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Python backend: binary search on answer](../companies/accenture.md#q1-python-backend-binary-search-on-answer) | ≈ [LC 875](https://leetcode.com/problems/koko-eating-bananas/) Medium |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Search in rotated sorted array](../companies/infoedge.md#q6-search-in-rotated-sorted-array) | [LC 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) Medium |

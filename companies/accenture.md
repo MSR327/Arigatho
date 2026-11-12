@@ -1,13 +1,20 @@
 # Accenture
 
-**305 questions** · 114 drives · latest 10 Nov 2026 · [52 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**309 questions** · 117 drives · latest 11 Nov 2026 · [52 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 88 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 31 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 24 · [Arrays](../topics/arrays.md) 23 · [Software Engineering](../topics/software-engineering.md) 19 · [ML/AI](../topics/ml-ai.md) 17 · +18 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur +17 more
+**Asks about:** [OA Format](../topics/oa-format.md) 91 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 31 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 24 · [Arrays](../topics/arrays.md) 23 · [Software Engineering](../topics/software-engineering.md) 19 · [ML/AI](../topics/ml-ai.md) 17 · +19 more  
+**Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +19 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · NIT Surathkal · FTE · Data & AI](#2026-11-11--nit-surathkal--fte--data--ai)
+  - [Sync engine: queries affected by writes](#q1-sync-engine-queries-affected-by-writes)
+  - [Accenture Data & AI OA topics](#q2-accenture-data--ai-oa-topics)
+- [2026-11-11 · IIT Roorkee · FTE · GN](#2026-11-11--iit-roorkee--fte--gn)
+  - [Accenture OA pattern](#q1-accenture-oa-pattern)
+- [2026-11-11 · IIT BHU · FTE · AI/Data](#2026-11-11--iit-bhu--fte--aidata)
+  - [Accenture AI/Data OA sections](#q1-accenture-aidata-oa-sections)
 - [2026-11-09 · NIT Trichy · FTE · Elite Technology Engineer · Interview](#2026-11-09--nit-trichy--fte--elite-technology-engineer--interview)
   - [Accenture ETE interview: project discussion](#q1-accenture-ete-interview-project-discussion)
 - [2026-11-09 · IIT Indore · FTE · ETE](#2026-11-09--iit-indore--fte--ete)
@@ -228,7 +235,7 @@
   - [AI & Data Tech Grad OA: DSA + AI/ML MCQs](#q1-ai--data-tech-grad-oa-dsa--aiml-mcqs)
   - [Elite Technology Engineer OA: allowed languages](#q2-elite-technology-engineer-oa-allowed-languages)
 - [2026-10-17 · MNNIT Allahabad · FTE · Elite Technology Engineer](#2026-10-17--mnnit-allahabad--fte--elite-technology-engineer)
-  - [Accenture OA pattern](#q1-accenture-oa-pattern)
+  - [Accenture OA pattern](#q1-accenture-oa-pattern-1)
 - [2026-10-17 · IIT Hyderabad · FTE](#2026-10-17--iit-hyderabad--fte)
   - [Count contiguous groups of same-sign elements](#q1-count-contiguous-groups-of-same-sign-elements)
   - [SQL join across three tables](#q2-sql-join-across-three-tables)
@@ -299,7 +306,7 @@
 - [2026-10-14 · IIT Hyderabad · FTE](#2026-10-14--iit-hyderabad--fte)
   - [Accenture Elite Engineering OA pattern](#q1-accenture-elite-engineering-oa-pattern)
 - [2026-10-13 · NIT Raipur · FTE](#2026-10-13--nit-raipur--fte)
-  - [Accenture OA pattern](#q1-accenture-oa-pattern-1)
+  - [Accenture OA pattern](#q1-accenture-oa-pattern-2)
 - [2026-10-13 · IIT Dhanbad · FTE](#2026-10-13--iit-dhanbad--fte)
   - [Minimum cost to visit target cities in a given order](#q1-minimum-cost-to-visit-target-cities-in-a-given-order)
 - [2026-10-12 · MNNIT Allahabad · FTE](#2026-10-12--mnnit-allahabad--fte)
@@ -431,6 +438,68 @@
 </details>
 
 ---
+
+## 2026-11-11 · NIT Surathkal · FTE · Data & AI
+
+### Q1. Sync engine: queries affected by writes
+
+A variant of this question was asked in the technical part of the Accenture Data & AI OA.
+
+Input format:
+- The first line has 2 integers `n` and `q`.
+- Then `n` query blocks follow (numbered 1 to n in input order). Each block is: a line with the table name, a line with integer `T` (the number of nodes in the condition tree), then `T` lines describing nodes 1 to T, where node 1 is the root.
+- Each node line is one of:
+  - `AND k c1 c2 ...`
+  - `OR k c1 c2 ...`
+  - `COND column= value`
+- Then `q` write blocks follow. Each starts with the write type and table name (INSERT, DELETE or UPDATE), then a row given as an integer `c` followed by `c` lines of `column value`.
+
+Output: print `q` lines. Line `i` contains the ids of the queries affected by the i-th write, in increasing order, space separated. If no query is affected, print `-1`.
+
+The poster only remembered a variant, so exact constraints and examples are missing.
+
+<sub>Topics: Trees, Hashing · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L314)</sub>
+
+### Q2. Accenture Data & AI OA topics
+
+The OA consisted of questions from these areas:
+
+- OOPs concepts
+- Computer Networking
+- Operating System
+- Programming Language (C/C++/Python/Java)
+- Machine Learning
+- Natural Language Processing
+- Quantitative Mathematics
+- Project Management
+- Software Engineering
+- DBMS
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L317) · Also asked at: IIT Kharagpur ×2 (last 2026-11-11), IIT Kharagpur/Kanpur ×3 (last 2026-11-11), IIT Bombay (2026-11-11)</sub>
+
+## 2026-11-11 · IIT Roorkee · FTE · GN
+
+### Q1. Accenture OA pattern
+
+Aptitude, data interpretation, puzzles and logical reasoning questions. Time is short and sections cannot be changed, so you have to be quick.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1177), [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1178)</sub>
+
+## 2026-11-11 · IIT BHU · FTE · AI/Data
+
+### Q1. Accenture AI/Data OA sections
+
+The OA generally has five sections:
+
+1. Abstract Reasoning: figure patterns, visual sequences, logical pattern recognition.
+2. Quantitative Aptitude: percentages, averages, ratios, profit and loss.
+3. Logical Reasoning: directions, blood relations, seating arrangements.
+4. Data Interpretation: tables, charts, graphs and related calculations.
+5. Technical: Python (try-except-finally, file handling, lambda, output-based questions), SQL (INNER/LEFT/RIGHT/FULL OUTER JOINs, NULL handling), Hive and Apache Spark (HiveQL basics, RDD transformations vs actions, filtering, sorting), and machine learning (K-Means, SVM, neural networks, regression, evaluation metrics, bias-variance trade-off).
+
+The poster said the technical section should be given the highest priority.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L322) · Also asked at: MNNIT Allahabad (2026-11-11), IIT BHU (2026-11-11), NIT Kurukshetra (2026-11-11)</sub>
 
 ## 2026-11-09 · NIT Trichy · FTE · Elite Technology Engineer · Interview
 

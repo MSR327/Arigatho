@@ -1,13 +1,17 @@
 # Optum
 
-**3 questions** · 3 drives · latest 10 Nov 2026 · [← all companies](../README.md#companies)
+**6 questions** · 4 drives · latest 11 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Software Engineering](../topics/software-engineering.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [DP](../topics/dp.md) 1 · [Binary Search](../topics/binary-search.md) 1  
 **Seen at:** NIT Warangal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-11 · Unknown · FTE](#2026-11-11--unknown--fte)
+  - [Digit DP question](#q1-digit-dp-question)
+  - [Binary search on answer (harder)](#q2-binary-search-on-answer-harder)
+  - [MCQ section](#q3-mcq-section)
 - [2026-11-10 · NIT Warangal · FTE](#2026-11-10--nit-warangal--fte)
   - [Optum AI-assisted coding OA](#q1-optum-ai-assisted-coding-oa)
 - [2026-11-10 · NIT Warangal · FTE · Interview](#2026-11-10--nit-warangal--fte--interview)
@@ -18,6 +22,26 @@
 </details>
 
 ---
+
+## 2026-11-11 · Unknown · FTE
+
+### Q1. Digit DP question
+
+A digit DP problem was asked in the Optum OA. The exact statement was not shared.
+
+<sub>Topics: DP · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L291)</sub>
+
+### Q2. Binary search on answer (harder)
+
+One question was a binary search on the answer, on the harder side. The exact statement was not shared.
+
+<sub>Topics: Binary Search · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L291)</sub>
+
+### Q3. MCQ section
+
+The OA also had some MCQs. Topics were not specified.
+
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L291)</sub>
 
 ## 2026-11-10 · NIT Warangal · FTE
 
