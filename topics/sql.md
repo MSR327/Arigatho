@@ -1,9 +1,11 @@
 # SQL
 
-110 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+112 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [Deloitte](../companies/deloitte.md) | Unknown | [Deloitte technical interview topics](../companies/deloitte.md#q1-deloitte-technical-interview-topics) | |
+| 2026-11-12 | [Kotak Mahindra Bank](../companies/kotak-mahindra-bank.md) | MNNIT Allahabad | [Kotak Data Scientist OA pattern](../companies/kotak-mahindra-bank.md#q2-kotak-data-scientist-oa-pattern) | |
 | 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Bloomberg interview rounds overview](../companies/bloomberg.md#q1-bloomberg-interview-rounds-overview) | |
 | 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Delete stored procedure in BigQuery](../companies/icici.md#q11-delete-stored-procedure-in-bigquery) | |
 | 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Average marks with word 'one'](../companies/icici.md#q10-average-marks-with-word-one) | |

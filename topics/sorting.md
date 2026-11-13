@@ -1,9 +1,11 @@
 # Sorting
 
-74 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+76 questions from 39 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [Unknown](../companies/unknown.md) | IIT BHU | [Players who can still win the trophy](../companies/unknown.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |
+| 2026-11-12 | [NoBroker](../companies/nobroker.md) | IIT Roorkee | [Players who can still win the trophy](../companies/nobroker.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |
 | 2026-11-11 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically maximum array after sorting K-sized subarrays](../companies/amazon.md#q1-lexicographically-maximum-array-after-sorting-k-sized-subarrays) | |
 | 2026-11-11 | [BNY](../companies/bny.md) | IIT BHU | [Maximize call volume with non-overlapping calls](../companies/bny.md#q1-maximize-call-volume-with-non-overlapping-calls) | [LC 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) Hard |
 | 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Merge overlapping intervals](../companies/cognizant.md#q9-merge-overlapping-intervals) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |

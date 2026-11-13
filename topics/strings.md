@@ -1,9 +1,10 @@
 # Strings
 
-121 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+122 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Maximum Number of Strings](../companies/phyagent.md#q2-maximum-number-of-strings) | [LC 474](https://leetcode.com/problems/ones-and-zeroes/) Medium |
 | 2026-11-11 | [Microsoft](../companies/microsoft.md) | IIT Bombay | [Longest palindromic subsequence](../companies/microsoft.md#q2-longest-palindromic-subsequence) | [LC 516](https://leetcode.com/problems/longest-palindromic-subsequence/) Medium |
 | 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [First non-repeating character](../companies/cognizant.md#q10-first-non-repeating-character) | [LC 387](https://leetcode.com/problems/first-unique-character-in-a-string/) Easy |
 | 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Longest palindromic substring](../companies/cognizant.md#q7-longest-palindromic-substring) | [LC 5](https://leetcode.com/problems/longest-palindromic-substring/) Medium |

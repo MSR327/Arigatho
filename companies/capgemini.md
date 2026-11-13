@@ -1,15 +1,17 @@
 # Capgemini
 
-**14 questions** · 6 drives · latest 12 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 7 drives · latest 12 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +1 more  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Bhilai, IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur, MNNIT Allahabad, NIT Kurukshetra +2 more
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +1 more  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Bhilai, IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur, MNNIT Allahabad, NIT Kurukshetra +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-11-12 · NIT Patna · FTE · SDE (Exceller)](#2026-11-12--nit-patna--fte--sde-exceller)
   - [Capgemini Exceller 2027 OA pattern](#q1-capgemini-exceller-2027-oa-pattern)
+- [2026-11-12 · IIT BHU · FTE · Software Development](#2026-11-12--iit-bhu--fte--software-development)
+  - [Capgemini OA pattern at BHU](#q1-capgemini-oa-pattern-at-bhu)
 - [2026-11-11 · IIIT Allahabad · FTE](#2026-11-11--iiit-allahabad--fte)
   - [Capgemini OA expected format](#q1-capgemini-oa-expected-format)
 - [2026-11-09 · MNNIT Allahabad · FTE · SDE · Other round](#2026-11-09--mnnit-allahabad--fte--sde--other-round)
@@ -48,7 +50,19 @@
 Reported coding questions: Circular Array Movement, Matrix Colouring, Minimum Array Replacements, Array Manipulation, debugging programs.
 Difficulty: Medium (varies by drive). Recommended languages: C, C++, Java.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1301)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1301) · Also asked at: NIT Surathkal (2026-11-12)</sub>
+
+## 2026-11-12 · IIT BHU · FTE · Software Development
+
+### Q1. Capgemini OA pattern at BHU
+
+Reported pattern for the software development role at BHU:
+
+- Round 1: Communication round (starts with basic English).
+- Round 2: Cognitive + Behavioural assessment (already held at BHU).
+- DSA questions: not held yet at the time of the message; expected to be simply easy.
+
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L55), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L57), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L58), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L59), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L60) · Also asked at: IIT BHU (2026-11-12)</sub>
 
 ## 2026-11-11 · IIIT Allahabad · FTE
 
@@ -69,7 +83,7 @@ Difficulty: Medium (varies by drive). Recommended languages: C, C++, Java.
 
 The first round is a game based round and English comprehension. If you qualify, there is an online assessment, and after that an interview.
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/amazon-oa/2026-11.jsonl#L87)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/amazon-oa/2026-11.jsonl#L87) · Also asked at: NIT Surathkal (2026-11-12)</sub>
 
 ## 2026-11-09 · IIT Guwahati · FTE
 
@@ -77,7 +91,7 @@ The first round is a game based round and English comprehension. If you qualify,
 
 The OA had MCQs and 2 DSA questions. The DSA questions were long but easy, mostly implementation based. MCQs were based on aptitude and some CS fundamentals.
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L18) · Also asked at: IIT Guwahati ×2 (last 2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L18) · Also asked at: IIT Guwahati ×2 (last 2026-11-10), VNIT Nagpur (2026-11-12), MNNIT Allahabad (2026-11-12)</sub>
 
 ### Q2. Binary search on answer with helper function
 

@@ -1,13 +1,15 @@
 # Cognizant
 
-**68 questions** · 24 drives · latest 11 Nov 2026 · [25 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**69 questions** · 25 drives · latest 12 Nov 2026 · [25 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Arrays](../topics/arrays.md) 11 · [Greedy](../topics/greedy.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [DP](../topics/dp.md) 8 · [Hashing](../topics/hashing.md) 6 · [Sorting](../topics/sorting.md) 5 · +14 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 20 · [Arrays](../topics/arrays.md) 11 · [Greedy](../topics/greedy.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [DP](../topics/dp.md) 8 · [Hashing](../topics/hashing.md) 6 · [Sorting](../topics/sorting.md) 5 · +14 more  
 **Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · IIT Roorkee · FTE · SDE](#2026-11-12--iit-roorkee--fte--sde)
+  - [NoBroker SDE OA pattern](#q1-nobroker-sde-oa-pattern)
 - [2026-11-11 · VNIT Nagpur · FTE](#2026-11-11--vnit-nagpur--fte)
   - [Cognizant process and OA pattern](#q1-cognizant-process-and-oa-pattern)
 - [2026-11-11 · Unknown · FTE](#2026-11-11--unknown--fte)
@@ -104,6 +106,14 @@
 </details>
 
 ---
+
+## 2026-11-12 · IIT Roorkee · FTE · SDE
+
+### Q1. NoBroker SDE OA pattern
+
+NoBroker SDE OA: 15 aptitude MCQs, 10 technical MCQs and 3 DSA problems, total duration 75 minutes. Good speed required.
+
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/cognizant-oa/2026-11.jsonl#L110)</sub>
 
 ## 2026-11-11 · VNIT Nagpur · FTE
 

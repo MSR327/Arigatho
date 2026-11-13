@@ -1,9 +1,10 @@
 # Graphs
 
-149 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+150 questions from 48 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [BNY](../companies/bny.md) | IIT BHU | [Assign tree node values with adjacent difference exactly 1](../companies/bny.md#q1-assign-tree-node-values-with-adjacent-difference-exactly-1) | ≈ [LC 785](https://leetcode.com/problems/is-graph-bipartite/) Medium |
 | 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Sync engine: queries affected by writes](../companies/bloomberg.md#q1-sync-engine-queries-affected-by-writes) | |
 | 2026-11-10 | [MathWorks](../companies/mathworks.md) | IIT Guwahati | [MathWorks interview focus: CP-style problems](../companies/mathworks.md#q1-mathworks-interview-focus-cp-style-problems) | |
 | 2026-11-09 | [Juspay](../companies/juspay.md) | IIT Delhi | [Count leaf nodes with at most k consecutive bad nodes on path](../companies/juspay.md#q2-count-leaf-nodes-with-at-most-k-consecutive-bad-nodes-on-path) | ≈ [LC 1](https://leetcode.com/problems/two-sum/) Easy |

@@ -1,13 +1,15 @@
 # BlackRock
 
-**77 questions** · 32 drives · latest 10 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**78 questions** · 33 drives · latest 12 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [ML/AI](../topics/ml-ai.md) 36 · [OA Format](../topics/oa-format.md) 34 · [Math](../topics/math.md) 15 · [Greedy](../topics/greedy.md) 8 · [Heaps](../topics/heaps.md) 7 · [Sorting](../topics/sorting.md) 5 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · +9 more  
+**Asks about:** [ML/AI](../topics/ml-ai.md) 37 · [OA Format](../topics/oa-format.md) 35 · [Math](../topics/math.md) 15 · [Greedy](../topics/greedy.md) 8 · [Heaps](../topics/heaps.md) 7 · [Sorting](../topics/sorting.md) 5 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · +9 more  
 **Seen at:** BITS, BITS Pilani, IIIT Delhi, IIT BHU, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kharagpur/Kanpur +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · IIT BHU · FTE · AI/ML](#2026-11-12--iit-bhu--fte--aiml)
+  - [BlackRock AI/ML OA format](#q1-blackrock-aiml-oa-format)
 - [2026-11-08 · Unknown · FTE · AI/ML](#2026-11-08--unknown--fte--aiml)
   - [Write ML algorithm code (BM25, TF-IDF)](#q1-write-ml-algorithm-code-bm25-tf-idf)
 - [2026-11-08 · BITS · FTE · Aladdin Data](#2026-11-08--bits--fte--aladdin-data)
@@ -45,7 +47,7 @@
 - [2026-11-07 · IIT Indore · FTE · AI/ML Engineer](#2026-11-07--iit-indore--fte--aiml-engineer)
   - [AI/ML OA pattern](#q1-aiml-oa-pattern)
 - [2026-11-07 · IIT Guwahati · FTE · AI/ML](#2026-11-07--iit-guwahati--fte--aiml)
-  - [BlackRock AI/ML OA format](#q1-blackrock-aiml-oa-format)
+  - [BlackRock AI/ML OA format](#q1-blackrock-aiml-oa-format-1)
 - [2026-11-07 · IIT Delhi · FTE · AI/ML](#2026-11-07--iit-delhi--fte--aiml)
   - [Minimum sum after k halving operations](#q1-minimum-sum-after-k-halving-operations)
   - [Make array distinct with minimum cost](#q2-make-array-distinct-with-minimum-cost)
@@ -121,6 +123,14 @@
 </details>
 
 ---
+
+## 2026-11-12 · IIT BHU · FTE · AI/ML
+
+### Q1. BlackRock AI/ML OA format
+
+2 AI-assisted debugging questions: one on an NLP pipeline and the other on a REST API.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 12 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L21)</sub>
 
 ## 2026-11-08 · Unknown · FTE · AI/ML
 
@@ -265,19 +275,19 @@ Reported answer: 0.20
 
 Python only. Coding question: implement a RAG pipeline, including cleaning strings, tokenizing, etc. (Full statement not given.)
 
-<sub>Topics: Strings, ML/AI · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783) · Also asked at: IIT Roorkee (2026-11-09), Unknown (2026-11-09)</sub>
+<sub>Topics: Strings, ML/AI · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783) · Also asked at: Unknown (2026-11-09), IIT Roorkee ×2 (last 2026-11-12)</sub>
 
 ### Q2. DSU implementation
 
 Poster's set had a DSU (disjoint set union) implementation question; other sets had the RAG one. (Full statement not given.)
 
-<sub>Topics: Graphs · Same idea: [LeetCode 1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) (Easy), DSU find/union/connected check · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783) · Also asked at: IIT Roorkee (2026-11-09), Unknown (2026-11-09)</sub>
+<sub>Topics: Graphs · Same idea: [LeetCode 1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) (Easy), DSU find/union/connected check · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783) · Also asked at: Unknown (2026-11-09), IIT Roorkee ×2 (last 2026-11-12)</sub>
 
 ### Q3. AI/ML MCQs
 
 70+ MCQs on RAG, AI, ML, etc.
 
-<sub>Topics: ML/AI, OA Format · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783) · Also asked at: IIT Roorkee (2026-11-09)</sub>
+<sub>Topics: ML/AI, OA Format · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783) · Also asked at: IIT Roorkee ×2 (last 2026-11-12)</sub>
 
 ## 2026-11-07 · IIT Roorkee · FTE · AI/ML
 
@@ -287,7 +297,7 @@ Python only. 1) RAG pipeline implementation: cleaning strings, tokenizing, etc. 
 
 (Exact statements not given.)
 
-<sub>Topics: ML/AI, Strings, OA Format · Source: [chat, 7 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L222) · Also asked at: IIT Roorkee (2026-11-10)</sub>
+<sub>Topics: ML/AI, Strings, OA Format · Source: [chat, 7 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L222) · Also asked at: IIT Roorkee ×2 (last 2026-11-12)</sub>
 
 ### Q2. BlackRock AI/ML OA topics
 

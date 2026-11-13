@@ -1,13 +1,19 @@
 # Eternal (Zomato)
 
-**183 questions** · 88 drives · latest 11 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**186 questions** · 91 drives · latest 12 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 63 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 13 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 66 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 14 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +12 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · IIT Indore · FTE · Assistant Program Manager](#2026-11-12--iit-indore--fte--assistant-program-manager)
+  - [Eternal APM OA: marketing/sales MCQs on dataset](#q1-eternal-apm-oa-marketingsales-mcqs-on-dataset)
+- [2026-11-12 · IIT Indore · FTE · APM](#2026-11-12--iit-indore--fte--apm)
+  - [Eternal APM OA Excel questions](#q1-eternal-apm-oa-excel-questions)
+- [2026-11-12 · IIT BHU · FTE · APM](#2026-11-12--iit-bhu--fte--apm)
+  - [Eternal APM OA pattern](#q1-eternal-apm-oa-pattern)
 - [2026-11-11 · Unknown · FTE](#2026-11-11--unknown--fte)
   - [Eternal PA OA format](#q1-eternal-pa-oa-format)
 - [2026-11-11 · IIT Roorkee · FTE · Product Analyst](#2026-11-11--iit-roorkee--fte--product-analyst)
@@ -40,7 +46,7 @@
 - [2026-10-31 · Unknown · FTE · Associate Program Manager · Interview](#2026-10-31--unknown--fte--associate-program-manager--interview)
   - [Associate Program Manager interview: case studies](#q1-associate-program-manager-interview-case-studies)
 - [2026-10-30 · Unknown · FTE · Associate Program Manager](#2026-10-30--unknown--fte--associate-program-manager)
-  - [Eternal APM OA pattern](#q1-eternal-apm-oa-pattern)
+  - [Eternal APM OA pattern](#q1-eternal-apm-oa-pattern-1)
 - [2026-10-30 · IIT Indore · FTE · SDE](#2026-10-30--iit-indore--fte--sde)
   - [Most negative balance from transactions](#q1-most-negative-balance-from-transactions)
   - [Hash map DSA question (easy)](#q2-hash-map-dsa-question-easy)
@@ -283,6 +289,30 @@
 </details>
 
 ---
+
+## 2026-11-12 · IIT Indore · FTE · Assistant Program Manager
+
+### Q1. Eternal APM OA: marketing/sales MCQs on dataset
+
+Eternal APM OA is MCQ-based: 30 questions in 1 hour. Excel files (e.g. a WestEnd Theatre assignment dataset) are given and some questions are based on them; you can compute answers in Excel. Remaining questions are sales/marketing reasoning, e.g. "sales decreased from 2022 to 2021, what might be the reason?", where you pick the obvious option. Basic marketing knowledge is enough. Exact questions were not shared.
+
+<sub>Topics: OA Format, Guesstimates & Cases · Source: [Dataset - WestEnd Theatre assignment (1).xlsx](../archive/files/26916-Dataset_-_WestEnd_Theatre_assignment_1_.xlsx), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L129), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L130), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L131), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L132), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L133) · Also asked at: IIT Indore (2026-11-12)</sub>
+
+## 2026-11-12 · IIT Indore · FTE · APM
+
+### Q1. Eternal APM OA Excel questions
+
+Excel questions, such as implementing formulas on large data. Exact questions not shared.
+
+<sub>Topics: OA Format, Other · Source: [chat, 12 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L135)</sub>
+
+## 2026-11-12 · IIT BHU · FTE · APM
+
+### Q1. Eternal APM OA pattern
+
+OA mainly covers MCQs on aptitude, logical and quant reasoning. (Pattern not fully confirmed.)
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 12 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L369)</sub>
 
 ## 2026-11-11 · Unknown · FTE
 

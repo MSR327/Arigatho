@@ -1,9 +1,10 @@
 # OS/DBMS/CN MCQ
 
-129 questions from 23 companys, newest first. [← all topics](../README.md#topics)
+130 questions from 23 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [Deloitte](../companies/deloitte.md) | Unknown | [Deloitte technical interview topics](../companies/deloitte.md#q1-deloitte-technical-interview-topics) | |
 | 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Automatic IP assignment protocol](../companies/icici.md#q9-automatic-ip-assignment-protocol) | |
 | 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Telnet syntax](../companies/icici.md#q8-telnet-syntax) | |
 | 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [OSPF external routers process](../companies/icici.md#q7-ospf-external-routers-process) | |

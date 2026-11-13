@@ -1,9 +1,9 @@
 # IBM
 
-**29 questions** · 20 drives · latest 9 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**29 questions** · 20 drives · latest 12 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 12 · [HR & Behavioral](../topics/hr-behavioral.md) 9 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
-**Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur +3 more
+**Seen at:** IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kanpur +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -208,7 +208,7 @@ AI-based recorded interview: you get 1 minute to prepare for each question and t
 
 The test had MCQs, a Verilog coding question and a Python coding question.
 
-<sub>Topics: OA Format, Digital Electronics · Source: [chat, 27 Oct](../archive/ibm-oa/2026-10.jsonl#L42) · Also asked at: IIT Guwahati (2026-11-06)</sub>
+<sub>Topics: OA Format, Digital Electronics · Source: [chat, 27 Oct](../archive/ibm-oa/2026-10.jsonl#L42) · Also asked at: IIT Guwahati (2026-11-06), IIT Dhanbad (2026-11-12)</sub>
 
 ## 2026-10-27 · IIT Kanpur · FTE · Interview
 

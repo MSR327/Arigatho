@@ -1,6 +1,6 @@
 # Capital One
 
-**40 questions** · 18 drives · latest 9 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**40 questions** · 18 drives · latest 12 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 9 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Software Engineering](../topics/software-engineering.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 3 · [OOP](../topics/oop.md) 3 · +12 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +2 more
@@ -152,7 +152,7 @@ DSA was easy. System design was mostly about building DB schemas and relationshi
 
 The exact questions were not shared.
 
-<sub>Topics: Software Engineering, OA Format · Source: [chat, 8 Nov](../archive/capital-one-oa/2026-11.jsonl#L67), [chat, 8 Nov](../archive/capital-one-oa/2026-11.jsonl#L68), [chat, 8 Nov](../archive/capital-one-oa/2026-11.jsonl#L70) · Also asked at: IIT Kharagpur/Kanpur (2026-11-09)</sub>
+<sub>Topics: Software Engineering, OA Format · Source: [chat, 8 Nov](../archive/capital-one-oa/2026-11.jsonl#L67), [chat, 8 Nov](../archive/capital-one-oa/2026-11.jsonl#L68), [chat, 8 Nov](../archive/capital-one-oa/2026-11.jsonl#L70) · Also asked at: IIT Kharagpur/Kanpur (2026-11-09), IIT BHU (2026-11-12)</sub>
 
 ## 2026-11-07 · MNNIT Allahabad · FTE
 

@@ -1,13 +1,15 @@
 # InMobi
 
-**39 questions** · 21 drives · latest 30 Oct 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**40 questions** · 22 drives · latest 12 Nov 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 13 · [Graphs](../topics/graphs.md) 11 · [DP](../topics/dp.md) 10 · [OA Format](../topics/oa-format.md) 7 · [Binary Search](../topics/binary-search.md) 6 · [Strings](../topics/strings.md) 6 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Greedy](../topics/greedy.md) 2 · +8 more  
+**Asks about:** [Arrays](../topics/arrays.md) 13 · [Graphs](../topics/graphs.md) 11 · [DP](../topics/dp.md) 10 · [OA Format](../topics/oa-format.md) 8 · [Binary Search](../topics/binary-search.md) 6 · [Strings](../topics/strings.md) 6 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Greedy](../topics/greedy.md) 2 · +8 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Mandi +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · IIT Guwahati · FTE](#2026-11-12--iit-guwahati--fte)
+  - [InMobi OA format at IITG](#q1-inmobi-oa-format-at-iitg)
 - [2026-10-28 · Unknown · FTE · Applied Scientist](#2026-10-28--unknown--fte--applied-scientist)
   - [Applied Scientist OA format](#q1-applied-scientist-oa-format)
 - [2026-10-24 · IIT Kharagpur/Kanpur · FTE](#2026-10-24--iit-kharagpurkanpur--fte)
@@ -72,6 +74,14 @@
 </details>
 
 ---
+
+## 2026-11-12 · IIT Guwahati · FTE
+
+### Q1. InMobi OA format at IITG
+
+The OA was offline with 3 coding questions. The questions were very tough, so very few people solved all three. No question statements were shared.
+
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inmobi-oa/2026-11.jsonl#L58)</sub>
 
 ## 2026-10-28 · Unknown · FTE · Applied Scientist
 

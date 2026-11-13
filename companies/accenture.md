@@ -1,9 +1,9 @@
 # Accenture
 
-**309 questions** · 117 drives · latest 11 Nov 2026 · [52 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**309 questions** · 117 drives · latest 12 Nov 2026 · [52 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 91 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 31 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 24 · [Arrays](../topics/arrays.md) 23 · [Software Engineering](../topics/software-engineering.md) 19 · [ML/AI](../topics/ml-ai.md) 17 · +19 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +19 more
+**Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -458,7 +458,7 @@ Output: print `q` lines. Line `i` contains the ids of the queries affected by th
 
 The poster only remembered a variant, so exact constraints and examples are missing.
 
-<sub>Topics: Trees, Hashing · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L314)</sub>
+<sub>Topics: Trees, Hashing · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L314) · Also asked at: NIT Karnataka Surathkal (2026-11-12)</sub>
 
 ### Q2. Accenture Data & AI OA topics
 

@@ -1,9 +1,11 @@
 # Sliding Window
 
-33 questions from 21 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+35 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [Amazon](../companies/amazon.md) | IIT Kharagpur | [Long story reducing to sliding window minimum](../companies/amazon.md#q1-long-story-reducing-to-sliding-window-minimum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
+| 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Fruit Into Baskets](../companies/phyagent.md#q1-fruit-into-baskets) | [LC 904](https://leetcode.com/problems/fruit-into-baskets/) Medium |
 | 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIIT Allahabad | [Longest substring without repeating characters](../companies/cognizant.md#q3-longest-substring-without-repeating-characters) | [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) Medium |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Sliding window maximum](../companies/infoedge.md#q7-sliding-window-maximum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Sliding Window Maximum](../companies/iqvia.md#q10-sliding-window-maximum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |

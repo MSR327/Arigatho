@@ -1,13 +1,15 @@
 # Amazon
 
-**21 questions** · 18 drives · latest 11 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 19 drives · latest 12 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 17 · [Arrays](../topics/arrays.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +3 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 17 · [Arrays](../topics/arrays.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +5 more  
 **Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +7 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · IIT Kharagpur · FTE](#2026-11-12--iit-kharagpur--fte)
+  - [Long story reducing to sliding window minimum](#q1-long-story-reducing-to-sliding-window-minimum)
 - [2026-11-11 · VNIT Nagpur · FTE](#2026-11-11--vnit-nagpur--fte)
   - [Amazon OA debugging questions overview](#q1-amazon-oa-debugging-questions-overview)
 - [2026-11-11 · Unknown · FTE · SDE · Interview](#2026-11-11--unknown--fte--sde--interview)
@@ -52,6 +54,14 @@
 
 ---
 
+## 2026-11-12 · IIT Kharagpur · FTE
+
+### Q1. Long story reducing to sliding window minimum
+
+DSA questions come from a pool of questions. The poster got a long story-based problem that boils down to a monotonic deque (sliding window minimum). Full statement not given.
+
+<sub>Topics: Sliding Window, Stack/Queue · Close variant: [LeetCode 239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard), monotonic deque over a sliding window · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1389)</sub>
+
 ## 2026-11-11 · VNIT Nagpur · FTE
 
 ### Q1. Amazon OA debugging questions overview
@@ -95,7 +105,7 @@ Possible operations: sort indices 0 to 2 gives [1, 3, 5, 4, 2]; sort indices 1 t
 
 Explanation: Since zero operations are allowed, the original array is already the lexicographically maximum possible arrangement. Sorting any subarray in ascending order cannot make the array lexicographically larger.
 
-<sub>Topics: Arrays, Sorting, Greedy · Source: [chat, 11 Nov](../archive/amazon-oa/2026-11.jsonl#L140) · Also asked at: IIT Kharagpur ×2 (last 2026-11-11), IIT Kharagpur/Kanpur (2026-11-11)</sub>
+<sub>Topics: Arrays, Sorting, Greedy · Source: [chat, 11 Nov](../archive/amazon-oa/2026-11.jsonl#L140) · Also asked at: IIT Kharagpur ×2 (last 2026-11-11), IIT Kharagpur/Kanpur (2026-11-11), IIT Delhi (2026-11-12)</sub>
 
 ## 2026-11-10 · IIT Roorkee · FTE
 
@@ -231,7 +241,7 @@ Same as the off-campus application:
 - 1 debugging question (backend)
 - then a psychometric test including mail replies and your behaviour
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L5), [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L6) · Also asked at: IIT Roorkee ×4 (last 2026-11-10), IIT Delhi (2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L5), [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L6) · Also asked at: IIT Delhi (2026-11-10), IIT Roorkee ×5 (last 2026-11-12)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE
 

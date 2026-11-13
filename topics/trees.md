@@ -1,9 +1,10 @@
 # Trees
 
-76 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+77 questions from 36 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [BNY](../companies/bny.md) | IIT BHU | [Assign tree node values with adjacent difference exactly 1](../companies/bny.md#q1-assign-tree-node-values-with-adjacent-difference-exactly-1) | ≈ [LC 785](https://leetcode.com/problems/is-graph-bipartite/) Medium |
 | 2026-11-11 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Sync engine: queries affected by writes](../companies/accenture.md#q1-sync-engine-queries-affected-by-writes) | |
 | 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Sync engine: queries affected by writes](../companies/bloomberg.md#q1-sync-engine-queries-affected-by-writes) | |
 | 2026-11-11 | [Unknown](../companies/unknown.md) | IIT Bombay | [Sync engine: queries affected by each write](../companies/unknown.md#q1-sync-engine-queries-affected-by-each-write) | |

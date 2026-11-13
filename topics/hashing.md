@@ -1,9 +1,10 @@
 # Hashing
 
-114 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+115 questions from 52 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Fruit Into Baskets](../companies/phyagent.md#q1-fruit-into-baskets) | [LC 904](https://leetcode.com/problems/fruit-into-baskets/) Medium |
 | 2026-11-11 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Sync engine: queries affected by writes](../companies/accenture.md#q1-sync-engine-queries-affected-by-writes) | |
 | 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Sync engine: queries affected by writes](../companies/bloomberg.md#q1-sync-engine-queries-affected-by-writes) | |
 | 2026-11-11 | [Unknown](../companies/unknown.md) | IIT Bombay | [Sync engine: queries affected by each write](../companies/unknown.md#q1-sync-engine-queries-affected-by-each-write) | |

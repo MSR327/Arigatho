@@ -1,6 +1,6 @@
 # Juspay
 
-**23 questions** · 16 drives · latest 11 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**23 questions** · 16 drives · latest 12 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 11 · [Trees](../topics/trees.md) 4 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 3 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +2 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, MNNIT Allahabad +4 more
@@ -142,7 +142,7 @@ IIT Delhi Juspay test (on Juspay's own platform) had 3 questions:
 
 Shortlisting for the next round needed about 1.5 questions solved. Exact statements were not remembered.
 
-<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/juspay-oa/2026-10.jsonl#L31), [chat, 26 Oct](../archive/juspay-oa/2026-10.jsonl#L34)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/juspay-oa/2026-10.jsonl#L31), [chat, 26 Oct](../archive/juspay-oa/2026-10.jsonl#L34) · Also asked at: IIT Guwahati (2026-11-12)</sub>
 
 ## 2026-10-24 · IIT BHU · Unknown
 

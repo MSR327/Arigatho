@@ -1,9 +1,11 @@
 # ML/AI
 
-139 questions from 25 companys, newest first. [← all topics](../README.md#topics)
+141 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-12 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock AI/ML OA format](../companies/blackrock.md#q1-blackrock-aiml-oa-format) |
+| 2026-11-12 | [Unknown](../companies/unknown.md) | IIT Guwahati | [Saint Gobain OA pattern](../companies/unknown.md#q1-saint-gobain-oa-pattern) |
 | 2026-11-11 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal PA OA pattern](../companies/eternal-zomato.md#q1-eternal-pa-oa-pattern) |
 | 2026-11-10 | [Pine Labs](../companies/pine-labs.md) | IIT Kharagpur/Kanpur | [Implement max pooling and k-means](../companies/pine-labs.md#q1-implement-max-pooling-and-k-means) |
 | 2026-11-10 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 OA pattern](../companies/cars24.md#q1-cars24-oa-pattern) |

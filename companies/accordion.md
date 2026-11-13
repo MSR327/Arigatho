@@ -1,6 +1,6 @@
 # Accordion
 
-**36 questions** · 11 drives · latest 11 Nov 2026 · [← all companies](../README.md#companies)
+**36 questions** · 11 drives · latest 12 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 26 · [Finance](../topics/finance.md) 10 · [OA Format](../topics/oa-format.md) 9 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
@@ -442,7 +442,7 @@ AI/ML Engineer 2: 3 sections:
 
 PST: multiple-choice business problem-solving questions, 20 minutes, 15 problem-solving questions. Focus: numerical reasoning, structured thinking, basic business math. Marking: +1 for each correct answer, -0.5 for each wrong answer.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT Dhanbad (2026-11-07), IIT BHU ×8 (last 2026-11-10), Unknown (2026-11-10), IIT Roorkee ×7 (last 2026-11-11)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT Dhanbad (2026-11-07), Unknown (2026-11-10), IIT Roorkee ×7 (last 2026-11-11), IIT BHU ×9 (last 2026-11-12)</sub>
 
 ## 2026-11-06 · IIT Bhubaneswar · FTE · Data Engineer
 

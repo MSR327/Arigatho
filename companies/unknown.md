@@ -1,15 +1,19 @@
 # Unknown
 
-**46 questions** · 30 drives · latest 12 Nov 2026 · [14 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**48 questions** · 32 drives · latest 12 Nov 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 21 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Arrays](../topics/arrays.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [Trees](../topics/trees.md) 2 · +14 more  
-**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +5 more
+**Asks about:** [OA Format](../topics/oa-format.md) 22 · [Arrays](../topics/arrays.md) 6 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [ML/AI](../topics/ml-ai.md) 3 · +15 more  
+**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +6 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-11-12 · NIT Patna · FTE · Probationary Engineer (CSE)](#2026-11-12--nit-patna--fte--probationary-engineer-cse)
   - [BEL CSE OA pattern](#q1-bel-cse-oa-pattern)
+- [2026-11-12 · IIT Guwahati · FTE · Research Engineer 1](#2026-11-12--iit-guwahati--fte--research-engineer-1)
+  - [Saint Gobain OA pattern](#q1-saint-gobain-oa-pattern)
+- [2026-11-12 · IIT BHU · FTE · SDE](#2026-11-12--iit-bhu--fte--sde)
+  - [Players who can still win the trophy](#q1-players-who-can-still-win-the-trophy)
 - [2026-11-11 · Unknown · FTE](#2026-11-11--unknown--fte)
   - [Typeface OA pattern](#q1-typeface-oa-pattern)
 - [2026-11-11 · IIT Bombay · FTE](#2026-11-11--iit-bombay--fte)
@@ -104,6 +108,24 @@ Difficulty: Moderate–Hard. Selection: CBT followed by Interview.
 
 <sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1300)</sub>
 
+## 2026-11-12 · IIT Guwahati · FTE · Research Engineer 1
+
+### Q1. Saint Gobain OA pattern
+
+MCQs on CS fundamentals and ML/DL/LLM/NLP concepts.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 12 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L69)</sub>
+
+## 2026-11-12 · IIT BHU · FTE · SDE
+
+### Q1. Players who can still win the trophy
+
+Given an array of size n (n up to 10^5) with the scores of n people before the final race. In the final race the person who comes first gets n points, second n-1, and so on, last gets 1 point (no ties). After the race, all players with the highest score get a trophy. Find the number of people who have a chance of winning the trophy.
+
+Example: n=5, points=[12,14,14,15,15] gives output 4, since player 1 cannot win even if they win the race: max 12+5 = 17, but the highest score would be at least 18.
+
+<sub>Topics: Arrays, Greedy, Sorting · Same idea: [LeetCode 1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) (Easy), add max bonus, compare against maximum of others · Source: [chat, 12 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L358)</sub>
+
 ## 2026-11-11 · Unknown · FTE
 
 ### Q1. Typeface OA pattern
@@ -131,7 +153,7 @@ Output: print `q` lines. Line `i` contains the ids of the queries affected by th
 
 Note: the poster only gave the input/output format; the exact matching rules for when a write affects a query are not stated.
 
-<sub>Topics: Trees, Hashing, Recursion/Backtracking · Source: [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1250), [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1268), [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1271)</sub>
+<sub>Topics: Trees, Hashing, Recursion/Backtracking · Source: [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1250), [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1268), [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1271) · Also asked at: NIT Surathkal (2026-11-12)</sub>
 
 ## 2026-11-10 · NIT Kurukshetra · FTE
 

@@ -1,13 +1,17 @@
 # IDFC First Bank
 
-**6 questions** · 6 drives · latest 12 Nov 2026 · [← all companies](../README.md#companies)
+**8 questions** · 8 drives · latest 12 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6  
-**Seen at:** IIIT Allahabad, IIT Delhi, IIT Guwahati, MNNIT Allahabad
+**Asks about:** [OA Format](../topics/oa-format.md) 8  
+**Seen at:** IIIT Allahabad, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur/Kanpur, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · IIT Hyderabad · FTE · Associate Data Scientist](#2026-11-12--iit-hyderabad--fte--associate-data-scientist)
+  - [IDFC Round 1 format](#q1-idfc-round-1-format)
+- [2026-11-12 · IIT Delhi · FTE](#2026-11-12--iit-delhi--fte)
+  - [IDFC First Bank OA format](#q1-idfc-first-bank-oa-format)
 - [2026-11-12 · IIIT Allahabad · FTE · Associate Data Scientist - AI Labs](#2026-11-12--iiit-allahabad--fte--associate-data-scientist---ai-labs)
   - [IDFC AI Labs OA pattern](#q1-idfc-ai-labs-oa-pattern)
 - [2026-11-11 · IIT Guwahati · FTE · Data Scientist / Data Analyst](#2026-11-11--iit-guwahati--fte--data-scientist--data-analyst)
@@ -24,6 +28,27 @@
 </details>
 
 ---
+
+## 2026-11-12 · IIT Hyderabad · FTE · Associate Data Scientist
+
+### Q1. IDFC Round 1 format
+
+Round 1: 60 minute test, MCQs only, 65 questions.
+
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L38), [chat, 12 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L39)</sub>
+
+## 2026-11-12 · IIT Delhi · FTE
+
+### Q1. IDFC First Bank OA format
+
+Aptitude and English section:
+- 15 MCQs of maths / numerical reasoning / data interpretation
+- 10 MCQs of logical reasoning
+- 10 MCQs of English
+
+Then a behavioral section with 50 questions, agree/disagree type.
+
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1392)</sub>
 
 ## 2026-11-12 · IIIT Allahabad · FTE · Associate Data Scientist - AI Labs
 
@@ -46,7 +71,7 @@ Total: 42 questions, 90 min. The actual questions were not shared.
 Round 1: aptitude.
 Round 2: data engineering + SQL.
 
-<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L426)</sub>
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L426) · Also asked at: IIT Guwahati (2026-11-12)</sub>
 
 ## 2026-11-09 · IIT Guwahati · FTE
 
@@ -72,7 +97,7 @@ Assessment consists of 2 back-to-back tests (chain assessment):
 1. Aptitude Test - 50 minutes
 2. Psychometric Test - 15 minutes
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L1), [chat, 2 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L2) · Also asked at: IIT Delhi (2026-11-09), IIT Guwahati ×2 (last 2026-11-11)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L1), [chat, 2 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L2) · Also asked at: IIT Delhi (2026-11-09), IIT Guwahati ×5 (last 2026-11-12), IIT Kharagpur/Kanpur (2026-11-12)</sub>
 
 ## 2026-10-28 · MNNIT Allahabad · FTE
 

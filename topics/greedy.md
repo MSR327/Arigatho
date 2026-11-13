@@ -1,9 +1,13 @@
 # Greedy
 
-111 questions from 46 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+115 questions from 48 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [Unknown](../companies/unknown.md) | IIT BHU | [Players who can still win the trophy](../companies/unknown.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |
+| 2026-11-12 | [No Broker](../companies/no-broker.md) | IIT BHU | [Players who can still win the trophy](../companies/no-broker.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |
+| 2026-11-12 | [NoBroker](../companies/nobroker.md) | IIT BHU | [Gas station circular tour](../companies/nobroker.md#q1-gas-station-circular-tour) | [LC 134](https://leetcode.com/problems/gas-station/) Medium |
+| 2026-11-12 | [NoBroker](../companies/nobroker.md) | IIT Roorkee | [Players who can still win the trophy](../companies/nobroker.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |
 | 2026-11-11 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically maximum array after sorting K-sized subarrays](../companies/amazon.md#q1-lexicographically-maximum-array-after-sorting-k-sized-subarrays) | |
 | 2026-11-11 | [BNY](../companies/bny.md) | IIT BHU | [Minimum makespan to process requests across servers](../companies/bny.md#q2-minimum-makespan-to-process-requests-across-servers) | ≈ [LC 1723](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) Hard |
 | 2026-11-10 | [Cognizant](../companies/cognizant.md) | IIT Delhi | [Minimum Time to Process Tasks](../companies/cognizant.md#q1-minimum-time-to-process-tasks) | [LC 881](https://leetcode.com/problems/boats-to-save-people/) Medium |

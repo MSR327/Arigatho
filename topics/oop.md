@@ -1,9 +1,10 @@
 # OOP
 
-35 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+36 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [Deloitte](../companies/deloitte.md) | Unknown | [Deloitte technical interview topics](../companies/deloitte.md#q1-deloitte-technical-interview-topics) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT Delhi | [Design a University Ticketing System](../companies/capital-one.md#q2-design-a-university-ticketing-system) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT BHU | [System design: classes, transactions, race conditions](../companies/capital-one.md#q1-system-design-classes-transactions-race-conditions) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Class vs object](../companies/cognizant.md#q8-class-vs-object) | |

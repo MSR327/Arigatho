@@ -1,13 +1,15 @@
 # Deloitte
 
-**71 questions** · 18 drives · latest 10 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**72 questions** · 19 drives · latest 12 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 13 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 8 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [Puzzles](../topics/puzzles.md) 4 · +14 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 13 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [SQL](../topics/sql.md) 5 · +14 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, MNNIT Allahabad +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · Unknown · FTE · Interview](#2026-11-12--unknown--fte--interview)
+  - [Deloitte technical interview topics](#q1-deloitte-technical-interview-topics)
 - [2026-11-10 · VNIT Nagpur · FTE · Other round](#2026-11-10--vnit-nagpur--fte--other-round)
   - [Deloitte South Asia hiring process](#q1-deloitte-south-asia-hiring-process)
 - [2026-11-10 · IIT Guwahati · FTE](#2026-11-10--iit-guwahati--fte)
@@ -101,6 +103,14 @@
 </details>
 
 ---
+
+## 2026-11-12 · Unknown · FTE · Interview
+
+### Q1. Deloitte technical interview topics
+
+Technical interview (on-campus) covers OOPs, SQL (joins, salary queries), CS fundamentals (OS, DBMS), project discussion, and behavioral/situation-based questions. One experience also had Python-specific questions (args vs kwargs), REST API, Agile and SDLC since the resume was AI/ML based.
+
+<sub>Topics: OOP, SQL, OS/DBMS/CN MCQ · Source: [chat, 12 Nov](../archive/deloitte-oa/2026-11.jsonl#L113)</sub>
 
 ## 2026-11-10 · VNIT Nagpur · FTE · Other round
 
@@ -533,7 +543,7 @@ Only those who cleared round 1 were allowed to give the vibe coding round; there
 
 Deloitte Analyst OA on HirePro: 60 MCQs in 60 minutes. Sections seen in the screenshots: Verbal Ability (Q1-10), Reasoning Ability (Q11-20), Quantitative Ability (Q21-30), Technical (Q31 onwards: C++/programming, networking and cyber security, AI fluency, cloud computing basics, SQL). Poster says the questions do not repeat but the MCQ pattern is the same as earlier drives.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: IIT BHU ×2 (last 2026-10-31), IIT Indore (2026-11-05), Thapar Institute (2026-11-05), IIT Dhanbad (2026-11-05)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: IIT BHU ×2 (last 2026-10-31), IIT Indore (2026-11-05), Thapar Institute (2026-11-05), IIT Dhanbad ×2 (last 2026-11-12), Unknown (2026-11-12), IIT Guwahati ×2 (last 2026-11-12)</sub>
 
 ### Q2. Sentence correction: looking up them who have spoken
 

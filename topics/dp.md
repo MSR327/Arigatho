@@ -1,9 +1,11 @@
 # DP
 
-150 questions from 53 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+152 questions from 54 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Maximum Number of Strings](../companies/phyagent.md#q2-maximum-number-of-strings) | [LC 474](https://leetcode.com/problems/ones-and-zeroes/) Medium |
+| 2026-11-12 | [BNY](../companies/bny.md) | IIT BHU | [Paint houses with 3 colors, mirrored houses differ](../companies/bny.md#q2-paint-houses-with-3-colors-mirrored-houses-differ) | ≈ [LC 1411](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) Hard |
 | 2026-11-12 | [Media.net](../companies/media-net.md) | VNIT Nagpur | [Media.net OA: 2 medium DSA questions](../companies/media-net.md#q1-medianet-oa-2-medium-dsa-questions) | |
 | 2026-11-11 | [BNY](../companies/bny.md) | IIT BHU | [Maximize call volume with non-overlapping calls](../companies/bny.md#q1-maximize-call-volume-with-non-overlapping-calls) | [LC 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) Hard |
 | 2026-11-11 | [Microsoft](../companies/microsoft.md) | IIT Kharagpur/Kanpur | [2D prefix sum grid](../companies/microsoft.md#q1-2d-prefix-sum-grid) | ≈ [LC 304](https://leetcode.com/problems/range-sum-query-2d-immutable/) Medium |
