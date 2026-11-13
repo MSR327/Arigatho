@@ -1,6 +1,6 @@
 # Optum
 
-**6 questions** · 4 drives · latest 11 Nov 2026 · [← all companies](../README.md#companies)
+**6 questions** · 4 drives · latest 12 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [DP](../topics/dp.md) 1 · [Binary Search](../topics/binary-search.md) 1  
 **Seen at:** NIT Warangal
@@ -49,7 +49,7 @@ The OA also had some MCQs. Topics were not specified.
 
 The OA was an AI-assisted coding round. A codebase was given. You could choose JS or Python and, using an AI chatbot, implement a few features within an hour. The AI assistant provided almost all of the answers.
 
-<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/campus-nit-warangal-placements/2026-11.jsonl#L19)</sub>
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/campus-nit-warangal-placements/2026-11.jsonl#L19) · Also asked at: NIT Warangal (2026-11-12)</sub>
 
 ## 2026-11-10 · NIT Warangal · FTE · Interview
 

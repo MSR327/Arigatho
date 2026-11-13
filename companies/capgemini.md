@@ -1,8 +1,8 @@
 # Capgemini
 
-**15 questions** · 7 drives · latest 12 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**17 questions** · 9 drives · latest 13 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +1 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [Verbal](../topics/verbal.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1 · +2 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhilai, IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur, MNNIT Allahabad, NIT Kurukshetra +4 more
 
 <details>
@@ -10,8 +10,12 @@
 
 - [2026-11-12 · NIT Patna · FTE · SDE (Exceller)](#2026-11-12--nit-patna--fte--sde-exceller)
   - [Capgemini Exceller 2027 OA pattern](#q1-capgemini-exceller-2027-oa-pattern)
+- [2026-11-12 · MNNIT Allahabad · FTE · Software Engineer](#2026-11-12--mnnit-allahabad--fte--software-engineer)
+  - [Round 1: email, verbal, video recording](#q1-round-1-email-verbal-video-recording)
 - [2026-11-12 · IIT BHU · FTE · Software Development](#2026-11-12--iit-bhu--fte--software-development)
   - [Capgemini OA pattern at BHU](#q1-capgemini-oa-pattern-at-bhu)
+- [2026-11-12 · IIT BHU · FTE](#2026-11-12--iit-bhu--fte)
+  - [Capgemini communication round duration](#q1-capgemini-communication-round-duration)
 - [2026-11-11 · IIIT Allahabad · FTE](#2026-11-11--iiit-allahabad--fte)
   - [Capgemini OA expected format](#q1-capgemini-oa-expected-format)
 - [2026-11-09 · MNNIT Allahabad · FTE · SDE · Other round](#2026-11-09--mnnit-allahabad--fte--sde--other-round)
@@ -52,6 +56,14 @@ Difficulty: Medium (varies by drive). Recommended languages: C, C++, Java.
 
 <sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1301) · Also asked at: NIT Surathkal (2026-11-12)</sub>
 
+## 2026-11-12 · MNNIT Allahabad · FTE · Software Engineer
+
+### Q1. Round 1: email, verbal, video recording
+
+Email writing, verbal questions, and a video recording based on 2 pictures of the same place in different situations.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 12 Nov](../archive/inter-iit/2026-11.jsonl#L721), [chat, 13 Nov](../archive/inter-iit/2026-11.jsonl#L722) · Also asked at: MNNIT Allahabad (2026-11-12)</sub>
+
 ## 2026-11-12 · IIT BHU · FTE · Software Development
 
 ### Q1. Capgemini OA pattern at BHU
@@ -63,6 +75,14 @@ Reported pattern for the software development role at BHU:
 - DSA questions: not held yet at the time of the message; expected to be simply easy.
 
 <sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L55), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L57), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L58), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L59), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L60) · Also asked at: IIT BHU (2026-11-12)</sub>
+
+## 2026-11-12 · IIT BHU · FTE
+
+### Q1. Capgemini communication round duration
+
+Communication round (basic English, comprehension and composition) is a full 1 hour slot, though you can end it whenever you like and don't have to sit through the entire hour. The final assessment is a set of puzzles (e.g. remembering where dots appeared on screen and in which order).
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L73), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L74) · Also asked at: IIT BHU (2026-11-12)</sub>
 
 ## 2026-11-11 · IIIT Allahabad · FTE
 
@@ -120,7 +140,7 @@ In both the bug fixing and feature implementation parts, you choose your stack (
 
 The 11 LPA pattern isn't known, and the report was cut off at the bottom, so there may be more.
 
-<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11) · Also asked at: NIT Kurukshetra (2026-11-09), IIT BHU (2026-11-10), IIT Bhilai (2026-11-10), IIT Kharagpur/Kanpur ×2 (last 2026-11-10), Unknown (2026-11-10), IIT Guwahati (2026-11-10), MNNIT Allahabad ×8 (last 2026-11-11), IIT Delhi (2026-11-11)</sub>
+<sub>Topics: OA Format · Source: [chat, 20 Oct](../archive/capgemini-oa/2026-10.jsonl#L11) · Also asked at: NIT Kurukshetra (2026-11-09), IIT BHU (2026-11-10), IIT Bhilai (2026-11-10), IIT Kharagpur/Kanpur ×2 (last 2026-11-10), Unknown (2026-11-10), IIT Delhi (2026-11-11), MNNIT Allahabad ×9 (last 2026-11-12), IIT Guwahati ×2 (last 2026-11-13)</sub>
 
 ### Q2. Run-length compression of a string
 

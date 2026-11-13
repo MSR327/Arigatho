@@ -1,9 +1,10 @@
 # Stack/Queue
 
-36 questions from 22 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+37 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [KLA](../companies/kla.md) | MNNIT Allahabad | [KLA DSA questions](../companies/kla.md#q1-kla-dsa-questions) | |
 | 2026-11-12 | [Amazon](../companies/amazon.md) | IIT Kharagpur | [Long story reducing to sliding window minimum](../companies/amazon.md#q1-long-story-reducing-to-sliding-window-minimum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Total cost with first smaller element to the right](../companies/microsoft.md#q2-total-cost-with-first-smaller-element-to-the-right) | [LC 1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) Easy |
 | 2026-11-09 | [InfoEdge](../companies/infoedge.md) | Unknown | [Sliding window maximum](../companies/infoedge.md#q7-sliding-window-maximum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |

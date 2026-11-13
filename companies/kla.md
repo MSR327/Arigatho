@@ -1,13 +1,15 @@
 # KLA
 
-**4 questions** · 2 drives · latest 11 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 3 drives · latest 13 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Puzzles](../topics/puzzles.md) 3 · [Math](../topics/math.md) 2 · [OA Format](../topics/oa-format.md) 1  
+**Asks about:** [Puzzles](../topics/puzzles.md) 3 · [Math](../topics/math.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Graphs](../topics/graphs.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1  
 **Seen at:** IIT Bhubaneswar, IIT Indore, IIT Madras, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · MNNIT Allahabad · FTE](#2026-11-13--mnnit-allahabad--fte)
+  - [KLA DSA questions](#q1-kla-dsa-questions)
 - [2026-11-03 · IIT Bhubaneswar · FTE](#2026-11-03--iit-bhubaneswar--fte)
   - [Ball bag reduction: last ball left](#q1-ball-bag-reduction-last-ball-left)
   - [15 x 20 bar breaking game](#q2-15-x-20-bar-breaking-game)
@@ -18,6 +20,14 @@
 </details>
 
 ---
+
+## 2026-11-13 · MNNIT Allahabad · FTE
+
+### Q1. KLA DSA questions
+
+2 DSA questions, including a graph question and a stack question. (Details not given.)
+
+<sub>Topics: Graphs, Stack/Queue · Source: [chat, 13 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L226)</sub>
 
 ## 2026-11-03 · IIT Bhubaneswar · FTE
 
@@ -31,7 +41,7 @@ A bag has 25 white balls and 50 black balls, plus an infinite pile of black ball
 
 At every step the number of balls in the bag decreases by one. What colour is the last ball when only one ball is left?
 
-<sub>Topics: Puzzles, Math · Same idea: [LeetCode 1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) (Easy), repeated pair reduction until one remains · Source: [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L10), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L12), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L13), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L14), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L18), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L19), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L20), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L21)</sub>
+<sub>Topics: Puzzles, Math · Same idea: [LeetCode 1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) (Easy), repeated pair reduction until one remains · Source: [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L10), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L12), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L13), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L14), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L18), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L19), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L20), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L21) · Also asked at: IIT Bhubaneswar (2026-11-03)</sub>
 
 ### Q2. 15 x 20 bar breaking game
 
@@ -39,7 +49,7 @@ There is a 15 x 20 bar. Players A and B play a game. After every break of the ba
 
 (Exact breaking rules were not given by the poster.)
 
-<sub>Topics: Puzzles, Math · Same idea: [LeetCode 292. Nim Game](https://leetcode.com/problems/nim-game/) (Easy), two-player winning strategy analysis · Source: [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L10), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L12), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L13), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L14), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L18), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L19), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L20), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L21)</sub>
+<sub>Topics: Puzzles, Math · Same idea: [LeetCode 292. Nim Game](https://leetcode.com/problems/nim-game/) (Easy), two-player winning strategy analysis · Source: [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L10), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L12), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L13), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L14), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L18), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L19), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L20), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L21) · Also asked at: IIT Bhubaneswar (2026-11-03)</sub>
 
 ### Q3. Minimum races to find top 3 of 25 horses
 
@@ -47,7 +57,7 @@ What is the number of races needed to find exactly the top 3 horses among 25 hor
 
 (The usual constraint, such as 5 horses per race, was not stated by the poster.)
 
-<sub>Topics: Puzzles · Source: [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L10), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L12), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L13), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L14), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L18), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L19), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L20), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L21)</sub>
+<sub>Topics: Puzzles · Source: [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L10), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L12), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L13), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L14), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L18), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L19), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L20), [chat, 3 Nov](../archive/campus-iit-bhubaneswar-placements/2026-11.jsonl#L21) · Also asked at: IIT Bhubaneswar (2026-11-03)</sub>
 
 ## 2026-11-02 · IIT Indore · FTE · AWT
 
@@ -60,4 +70,4 @@ OA pattern for the AWT role:
 - English: around 8 questions
 - Finance: around 8 questions
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L119), [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L122) · Also asked at: IIT Bhubaneswar (2026-11-03), IIT Madras (2026-11-03), MNNIT Allahabad ×2 (last 2026-11-11)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L119), [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L122) · Also asked at: IIT Indore (2026-11-02), IIT Bhubaneswar (2026-11-03), IIT Madras (2026-11-03), MNNIT Allahabad ×2 (last 2026-11-11)</sub>

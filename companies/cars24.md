@@ -110,7 +110,7 @@ K-th Smallest Element (heap / BST). Only the title was shared.
 
 Poster did not have the actual questions, but says the DSA questions are usually on graphs and DP, at LeetCode-hard level.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L652)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L652) · Also asked at: IIT BHU ×2 (last 2026-11-06)</sub>
 
 ## 2026-11-06 · IIT BHU · FTE
 
@@ -118,7 +118,7 @@ Poster did not have the actual questions, but says the DSA questions are usually
 
 Minimum Number of Moves to Seat Everyone. (Only the title was shared.)
 
-<sub>Topics: Greedy, Sorting · Similar: [LeetCode 2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Greedy, Sorting · Similar: [LeetCode 2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU ×3 (last 2026-11-06), IIT Delhi (2026-11-07)</sub>
 
 ### Q2. Multi-city fleet relocation
 
@@ -166,13 +166,13 @@ LRU Cache. (Only the title was shared.)
 
 Longest Subarray with Sum at Most K. (Only the title was shared.)
 
-<sub>Topics: Sliding Window, Arrays · Same idea: [GeeksforGeeks: Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1), sliding window/prefix sums for longest subarray with sum bound · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Sliding Window, Arrays · Same idea: [GeeksforGeeks: Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1), sliding window/prefix sums for longest subarray with sum bound · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU ×3 (last 2026-11-06), IIT Delhi (2026-11-07)</sub>
 
 ### Q10. Sliding window maximum
 
 Sliding Window Maximum. (Only the title was shared.)
 
-<sub>Topics: Sliding Window, Stack/Queue · Similar: [LeetCode 239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), Unknown (2026-11-09)</sub>
+<sub>Topics: Sliding Window, Stack/Queue · Similar: [LeetCode 239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU ×3 (last 2026-11-06), IIT Delhi (2026-11-07), Unknown (2026-11-09)</sub>
 
 ### Q11. Sort 0, 1, 2
 

@@ -1,9 +1,24 @@
 # OA Format
 
-740 questions from 138 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+756 questions from 140 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Coupa Software](../companies/coupa-software.md) | IIT Bombay | [Coupa Software OA structure](../companies/coupa-software.md#q1-coupa-software-oa-structure) | |
+| 2026-11-13 | [Unknown](../companies/unknown.md) | NIT Patna | [FischerJordan selection process](../companies/unknown.md#q1-fischerjordan-selection-process) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | Unknown | [Accenture Data and AI OA pattern](../companies/accenture.md#q1-accenture-data-and-ai-oa-pattern) | |
+| 2026-11-13 | [Kuku FM](../companies/kuku-fm.md) | IIT BHU | [Kuku FM AI Engineer process](../companies/kuku-fm.md#q1-kuku-fm-ai-engineer-process) | |
+| 2026-11-13 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [Goldman Sachs OA format](../companies/goldman-sachs.md#q1-goldman-sachs-oa-format) | |
+| 2026-11-13 | [Kotak Mahindra Bank](../companies/kotak-mahindra-bank.md) | VNIT | [Kotak DS OA pattern](../companies/kotak-mahindra-bank.md#q1-kotak-ds-oa-pattern) | |
+| 2026-11-13 | [Yamaha](../companies/yamaha.md) | MNNIT Allahabad | [Yamaha OA pattern](../companies/yamaha.md#q1-yamaha-oa-pattern) | |
+| 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Kharagpur/Kanpur | [Zomato APM OA MCQ contents](../companies/eternal-zomato.md#q1-zomato-apm-oa-mcq-contents) | |
+| 2026-11-12 | [Capgemini](../companies/capgemini.md) | MNNIT Allahabad | [Round 1: email, verbal, video recording](../companies/capgemini.md#q1-round-1-email-verbal-video-recording) | |
+| 2026-11-12 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Communication round format](../companies/accenture.md#q1-communication-round-format) | |
+| 2026-11-12 | [IDFC First Bank](../companies/idfc-first-bank.md) | NIT Karnataka Surathkal | [IDFC First Bank engineering OA pattern](../companies/idfc-first-bank.md#q1-idfc-first-bank-engineering-oa-pattern) | |
+| 2026-11-12 | [IDFC First Bank](../companies/idfc-first-bank.md) | IIT Kharagpur | [IDFC First Bank OA format (IIT Kharagpur)](../companies/idfc-first-bank.md#q1-idfc-first-bank-oa-format-iit-kharagpur) | |
+| 2026-11-12 | [Capgemini](../companies/capgemini.md) | IIT BHU | [Capgemini communication round duration](../companies/capgemini.md#q1-capgemini-communication-round-duration) | |
+| 2026-11-12 | [Thorogood](../companies/thorogood.md) | MNNIT Allahabad | [OA format: all MCQ](../companies/thorogood.md#q1-oa-format-all-mcq) | |
+| 2026-11-12 | [Capital One](../companies/capital-one.md) | IIT BHU | [Capital One Round 2 format](../companies/capital-one.md#q1-capital-one-round-2-format) | |
 | 2026-11-12 | [IDFC First Bank](../companies/idfc-first-bank.md) | IIT Delhi | [IDFC First Bank OA format](../companies/idfc-first-bank.md#q1-idfc-first-bank-oa-format) | |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal APM OA: marketing/sales MCQs on dataset](../companies/eternal-zomato.md#q1-eternal-apm-oa-marketingsales-mcqs-on-dataset) | |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) | |
@@ -22,6 +37,7 @@
 | 2026-11-12 | [Capgemini](../companies/capgemini.md) | IIT BHU | [Capgemini OA pattern at BHU](../companies/capgemini.md#q1-capgemini-oa-pattern-at-bhu) | |
 | 2026-11-12 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [NoBroker SDE OA pattern](../companies/cognizant.md#q1-nobroker-sde-oa-pattern) | |
 | 2026-11-12 | [Kotak Mahindra Bank](../companies/kotak-mahindra-bank.md) | IIT BHU | [Kotak Data Scientist OA topics](../companies/kotak-mahindra-bank.md#q1-kotak-data-scientist-oa-topics) | |
+| 2026-11-12 | [Paytm](../companies/paytm.md) | IIT Indore | [Case study round](../companies/paytm.md#q1-case-study-round) | |
 | 2026-11-12 | [Kotak Mahindra Bank](../companies/kotak-mahindra-bank.md) | MNNIT Allahabad | [Kotak Data Scientist OA pattern](../companies/kotak-mahindra-bank.md#q2-kotak-data-scientist-oa-pattern) | |
 | 2026-11-12 | [Kotak Mahindra Bank](../companies/kotak-mahindra-bank.md) | IIT BHU | [Kotak Data Scientist OA pattern](../companies/kotak-mahindra-bank.md#q1-kotak-data-scientist-oa-pattern-1) | |
 | 2026-11-12 | [IDFC First Bank](../companies/idfc-first-bank.md) | IIIT Allahabad | [IDFC AI Labs OA pattern](../companies/idfc-first-bank.md#q1-idfc-ai-labs-oa-pattern) | |
@@ -288,7 +304,7 @@
 | 2026-11-01 | [Amazon](../companies/amazon.md) | MNNIT Allahabad | [Amazon OA pattern](../companies/amazon.md#q1-amazon-oa-pattern) | |
 | 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT BHU | [CBA OA content](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-content) | |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Navi APM OA format](../companies/navi.md#q1-navi-apm-oa-format) | |
-| 2026-11-01 | [Accenture](../companies/accenture.md) | IIT Indore | [Communication round format](../companies/accenture.md#q1-communication-round-format) | |
+| 2026-11-01 | [Accenture](../companies/accenture.md) | IIT Indore | [Communication round format](../companies/accenture.md#q1-communication-round-format-1) | |
 | 2026-11-01 | [Cognizant](../companies/cognizant.md) | NIT Raipur | [OA format: DSA, prompt engineering, RAG, full stack debugging](../companies/cognizant.md#q1-oa-format-dsa-prompt-engineering-rag-full-stack-debugging) | |
 | 2026-11-01 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | IIT Guwahati | [JPMC OA paper pattern](../companies/jpmorgan-chase.md#q2-jpmc-oa-paper-pattern) | |
 | 2026-11-01 | [HiLabs](../companies/hilabs.md) | IIT Roorkee | [HiLabs topics covered in tests and interviews](../companies/hilabs.md#q1-hilabs-topics-covered-in-tests-and-interviews) | |

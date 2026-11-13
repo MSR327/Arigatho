@@ -1,9 +1,12 @@
 # Graphs
 
-150 questions from 48 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+153 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [KLA](../companies/kla.md) | MNNIT Allahabad | [KLA DSA questions](../companies/kla.md#q1-kla-dsa-questions) | |
+| 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Number of Provinces](../companies/phyagent.md#q1-number-of-provinces) | [LC 547](https://leetcode.com/problems/number-of-provinces/) Medium |
+| 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Madras | [Safe state graph problem](../companies/phyagent.md#q1-safe-state-graph-problem) | [LC 802](https://leetcode.com/problems/find-eventual-safe-states/) Medium |
 | 2026-11-12 | [BNY](../companies/bny.md) | IIT BHU | [Assign tree node values with adjacent difference exactly 1](../companies/bny.md#q1-assign-tree-node-values-with-adjacent-difference-exactly-1) | ≈ [LC 785](https://leetcode.com/problems/is-graph-bipartite/) Medium |
 | 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Sync engine: queries affected by writes](../companies/bloomberg.md#q1-sync-engine-queries-affected-by-writes) | |
 | 2026-11-10 | [MathWorks](../companies/mathworks.md) | IIT Guwahati | [MathWorks interview focus: CP-style problems](../companies/mathworks.md#q1-mathworks-interview-focus-cp-style-problems) | |

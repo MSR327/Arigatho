@@ -1,9 +1,12 @@
 # Verbal
 
-49 questions from 8 companys, newest first. [← all topics](../README.md#topics)
+52 questions from 9 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-12 | [Capgemini](../companies/capgemini.md) | MNNIT Allahabad | [Round 1: email, verbal, video recording](../companies/capgemini.md#q1-round-1-email-verbal-video-recording) |
+| 2026-11-12 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Communication round format](../companies/accenture.md#q1-communication-round-format) |
+| 2026-11-12 | [Capgemini](../companies/capgemini.md) | IIT BHU | [Capgemini communication round duration](../companies/capgemini.md#q1-capgemini-communication-round-duration) |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [English: synonym, antonym, preposition, passages](../companies/iqvia.md#q7-english-synonym-antonym-preposition-passages) |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA English and critical reasoning](../companies/iqvia.md#q6-iqvia-english-and-critical-reasoning) |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [English and Critical Reasoning questions](../companies/iqvia.md#q3-english-and-critical-reasoning-questions) |
@@ -16,7 +19,7 @@
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Antonym of ADVENT](../companies/iqvia.md#q8-antonym-of-advent) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Meaning of BIFURCATE](../companies/iqvia.md#q7-meaning-of-bifurcate) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Synonym of MUSTY](../companies/iqvia.md#q6-synonym-of-musty) |
-| 2026-11-01 | [Accenture](../companies/accenture.md) | IIT Indore | [Communication round format](../companies/accenture.md#q1-communication-round-format) |
+| 2026-11-01 | [Accenture](../companies/accenture.md) | IIT Indore | [Communication round format](../companies/accenture.md#q1-communication-round-format-1) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence communication round contents](../companies/tredence.md#q1-tredence-communication-round-contents) |
 | 2026-10-29 | [Tredence](../companies/tredence.md) | IIIT Hyderabad | [Pick the synonym of 'detestable'](../companies/tredence.md#q18-pick-the-synonym-of-detestable) |
 | 2026-10-29 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Email writing round](../companies/accenture.md#q1-email-writing-round) |

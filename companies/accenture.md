@@ -1,13 +1,48 @@
 # Accenture
 
-**309 questions** · 117 drives · latest 12 Nov 2026 · [52 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**339 questions** · 122 drives · latest 13 Nov 2026 · [55 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 91 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 31 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 24 · [Arrays](../topics/arrays.md) 23 · [Software Engineering](../topics/software-engineering.md) 19 · [ML/AI](../topics/ml-ai.md) 17 · +19 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 93 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 36 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 25 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · Unknown · FTE · Data and AI](#2026-11-13--unknown--fte--data-and-ai)
+  - [Accenture Data and AI OA pattern](#q1-accenture-data-and-ai-oa-pattern)
+- [2026-11-13 · IIT Roorkee · FTE · AI and Data](#2026-11-13--iit-roorkee--fte--ai-and-data)
+  - [Specificity from confusion matrix](#q1-specificity-from-confusion-matrix)
+  - [Forward selection: number of variables](#q2-forward-selection-number-of-variables)
+  - [Clustering for mixed data types](#q3-clustering-for-mixed-data-types)
+  - [K-means clustering true statements](#q4-k-means-clustering-true-statements)
+  - [sklearn.cluster.KMeans statements](#q5-sklearnclusterkmeans-statements)
+  - [Python tuple unpacking output](#q6-python-tuple-unpacking-output)
+  - [Python tuple, del and len output](#q7-python-tuple-del-and-len-output)
+  - [Python class exception output](#q8-python-class-exception-output)
+  - [SQL: employees whose manager is younger](#q9-sql-employees-whose-manager-is-younger)
+  - [Python reduce and join output](#q10-python-reduce-and-join-output)
+- [2026-11-13 · IIT Roorkee · FTE · I&E AI and Data](#2026-11-13--iit-roorkee--fte--ie-ai-and-data)
+  - [Customers with a single order over $45,000 (SQL)](#q1-customers-with-a-single-order-over-45000-sql)
+  - [Correlation between cool drinks sales and swimming club registrations](#q2-correlation-between-cool-drinks-sales-and-swimming-club-registrations)
+  - [UPDATE with subqueries on EMPLOYEES](#q3-update-with-subqueries-on-employees)
+  - [UPDATE place for worker ID 5](#q4-update-place-for-worker-id-5)
+  - [Effect of lowering threshold in fraud detection model](#q5-effect-of-lowering-threshold-in-fraud-detection-model)
+  - [SQL sort descending by first name](#q6-sql-sort-descending-by-first-name)
+  - [Reverse a string in Python](#q7-reverse-a-string-in-python)
+  - [SVM with quadratic kernel and slack penalty C](#q8-svm-with-quadratic-kernel-and-slack-penalty-c)
+  - [Python method with default argument output](#q9-python-method-with-default-argument-output)
+  - [SAS PROC TRANSPOSE to produce output](#q10-sas-proc-transpose-to-produce-output)
+  - [SAS libname for permanent library](#q11-sas-libname-for-permanent-library)
+  - [SAS PROC PRINT to create output](#q12-sas-proc-print-to-create-output)
+  - [SAS length of empcode after set](#q13-sas-length-of-empcode-after-set)
+  - [SAS PROC PRINT with labels](#q14-sas-proc-print-with-labels)
+  - [Count syntax errors in SAS code](#q15-count-syntax-errors-in-sas-code)
+- [2026-11-12 · NIT Surathkal · FTE · Interview](#2026-11-12--nit-surathkal--fte--interview)
+  - [Accenture HR and behavioural questions](#q1-accenture-hr-and-behavioural-questions)
+  - [Accenture teamwork and leadership questions](#q2-accenture-teamwork-and-leadership-questions)
+  - [Accenture situational questions](#q3-accenture-situational-questions)
+- [2026-11-12 · MNNIT Allahabad · FTE](#2026-11-12--mnnit-allahabad--fte)
+  - [Communication round format](#q1-communication-round-format)
 - [2026-11-11 · NIT Surathkal · FTE · Data & AI](#2026-11-11--nit-surathkal--fte--data--ai)
   - [Sync engine: queries affected by writes](#q1-sync-engine-queries-affected-by-writes)
   - [Accenture Data & AI OA topics](#q2-accenture-data--ai-oa-topics)
@@ -62,7 +97,7 @@
 - [2026-11-02 · IIT BHU · FTE · Management Consulting](#2026-11-02--iit-bhu--fte--management-consulting)
   - [Management consulting OA sections](#q1-management-consulting-oa-sections-1)
 - [2026-11-01 · IIT Indore · FTE · Strategy & Consulting](#2026-11-01--iit-indore--fte--strategy--consulting)
-  - [Communication round format](#q1-communication-round-format)
+  - [Communication round format](#q1-communication-round-format-1)
 - [2026-10-31 · IIT Dhanbad · FTE · GN Consultant](#2026-10-31--iit-dhanbad--fte--gn-consultant)
   - [Accenture GN Consultant test pattern](#q1-accenture-gn-consultant-test-pattern)
 - [2026-10-29 · IIT Indore · FTE](#2026-10-29--iit-indore--fte)
@@ -438,6 +473,634 @@
 </details>
 
 ---
+
+## 2026-11-13 · Unknown · FTE · Data and AI
+
+### Q1. Accenture Data and AI OA pattern
+
+Technical MCQ (45 min): OS, CN, OOPs, pseudocode. Coding section: 1 DSA (easy array) + 1 SQL (basic joins) + 1 frontend (DOM/HTML/CSS/JS). Communication round: reading aloud, grammar, email writing (AI evaluated).
+
+<sub>Topics: OA Format · Source: [chat, 13 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L324), [chat, 13 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L325) · Also asked at: IIT BHU ×2 (last 2026-11-13)</sub>
+
+## 2026-11-13 · IIT Roorkee · FTE · AI and Data
+
+### Q1. Specificity from confusion matrix
+
+The following table shows the 2*2 confusion matrix that describes the performance of a classification model for the classes positive and negative.
+
+| | Positive | Negative |
+|---|---|---|
+| Positive | 70 | 20 |
+| Negative | 30 | 80 |
+
+What is the value of specificity (i.e. actual negative cases that are correctly identified) for the given confusion matrix?
+
+A. 0.8
+B. 0.7
+C. 0.72
+D. 0.85
+
+<sub>Topics: ML/AI · Source: [accenture data&Ai IITR.pdf](../archive/files/27265-accenture_data_Ai_IITR.pdf) · Also asked at: IIT Roorkee (2026-11-13)</sub>
+
+### Q2. Forward selection: number of variables
+
+A user has planned to choose an optimal model that fits the data using the 'Forward selection' technique. In this, he/she will start with the null model (M0) and finally have a set of models up to (Mk) and use the best fit from those models. How many variables are there in the dataset, if he/she created 29 models using the variable to find the best model?
+
+A. 4
+B. 7
+C. 5
+D. 6
+
+<sub>Topics: ML/AI, Math · Source: [accenture data&Ai IITR.pdf](../archive/files/27265-accenture_data_Ai_IITR.pdf) · Also asked at: IIT Roorkee (2026-11-13)</sub>
+
+### Q3. Clustering for mixed data types
+
+Consider that an analyst is tasked with clustering a high-dimensional dataset containing both numerical and categorical features, where traditional distance metrics may fall short. The dataset represents customer profiles from an e-commerce platform. The goal is to identify distinct customer segments based on various attributes such as purchase history, demographics, and product preferences.
+
+Which clustering algorithm will be most appropriate for handling mixed data types and high-dimensional spaces in this challenging scenario?
+
+a) K-Means Clustering
+b) Agglomerative Hierarchical Clustering
+c) Gaussian Mixture Model (GMM)
+d) DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+
+Refer to the given list and select the option with the correct answer.
+
+A. a and b
+B. b and c
+C. a and d
+D. c and d
+
+<sub>Topics: ML/AI · Source: [accenture data&Ai IITR.pdf](../archive/files/27265-accenture_data_Ai_IITR.pdf) · Also asked at: IIT Roorkee (2026-11-13)</sub>
+
+### Q4. K-means clustering true statements
+
+Which of the following statements about K means clustering is/are true?
+
+A. In K-means clustering, each example belongs to at least one of the K clusters.
+B. In K-means clustering, no example belongs to more than one clusters.
+C. In K-means clustering, K's value is set before running the algorithm.
+D. In K-means clustering, K's value can be changed while the algorithm is running.
+
+Options:
+A. Only A
+B. Both A and B
+C. A, B and C
+D. A, B and D
+
+<sub>Topics: ML/AI · Source: [accenture data&Ai IITR.pdf](../archive/files/27265-accenture_data_Ai_IITR.pdf) · Also asked at: IIT Roorkee (2026-11-13)</sub>
+
+### Q5. sklearn.cluster.KMeans statements
+
+Which of the following statements about sklearn.cluster.Kmeans are true?
+
+A. There is a parameter to specify the maximum number of iterations of the k-means algorithm for a single run.
+B. Users are allowed to customize initial centroids.
+C. There is no parameter to specify the maximum number of iterations of the k-means algorithm for a single run.
+D. Users are not allowed to customize initial centroids.
+
+Options:
+A. A and B
+B. A and D
+C. A and B
+D. A and D
+
+(Option labels as transcribed from the screenshot; two options appear to be duplicates.)
+
+<sub>Topics: ML/AI · Source: [accenture data&Ai IITR.pdf](../archive/files/27265-accenture_data_Ai_IITR.pdf) · Also asked at: IIT Roorkee (2026-11-13)</sub>
+
+### Q6. Python tuple unpacking output
+
+What will be the output of the following in Python 3?
+
+```python
+a = tuple('abcde')
+a, b, c, d, e = a
+b = c = '*'
+a = (a, b, c, d, e)
+print(a)
+```
+
+A. ('a', '*', '*', 'd', 'e')
+B. ('a', '*', 'b', '*', 'e')
+C. ('a', 'b', 'b', 'c', '*')
+D. ('*', '*', 'b', 'c', 'c')
+
+(Options partly illegible in screenshot.)
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [accenture data&Ai IITR.pdf](../archive/files/27265-accenture_data_Ai_IITR.pdf) · Also asked at: IIT Roorkee (2026-11-13)</sub>
+
+### Q7. Python tuple, del and len output
+
+What is the output of the given code snippet?
+
+```python
+a=(2,"country",5,"43",12)
+def fetch_my_data(my_data):
+    if isinstance(my_data,tuple):
+        return my_data*2
+def shredder(data):
+    del data
+def len_printer(func):
+    return len(func)
+
+print(len_printer(fetch_my_data(a)))
+shredder(a)
+if a:
+    print(len_printer(fetch_my_data(a)))
+else:
+    print("a does not exist")
+```
+
+A. 10 / 10
+B. 10 / a does not exist
+C. 5 / a does not exist
+D. Error
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [accenture data&Ai IITR.pdf](../archive/files/27265-accenture_data_Ai_IITR.pdf) · Also asked at: IIT Roorkee (2026-11-13)</sub>
+
+### Q8. Python class exception output
+
+What will be the output of the following code?
+
+```python
+class Process_values:
+    def __init__(self):
+        self.mydata=("1",2,"3",4,"5")
+
+    def add_values(self):
+        for i in self.myvalues:
+            if isinstance(i,int):
+                self.mydata.append(i+1)
+            else:
+                self.mydata.append(i)
+
+try:
+    values=Process_values()
+    values.add_values()
+except TypeError:
+    print("TypeError Occurred")
+except IndexError:
+    print("IndexError Occurred")
+except AssertionError:
+    print("AssertionError Occurred")
+except AttributeError:
+    print("AttributeError Occurred")
+```
+
+A. AssertionError Occurred
+B. AttributeError Occurred
+C. TypeError Occurred
+D. IndexError Occurred
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [accenture data&Ai IITR.pdf](../archive/files/27265-accenture_data_Ai_IITR.pdf) · Also asked at: IIT Roorkee (2026-11-13)</sub>
+
+### Q9. SQL: employees whose manager is younger
+
+Which one of the following queries can be used to display EmployeeName of employees whose manager is younger than the employee? Refer table below.
+
+| EmployeeNumber | EmployeeName | Salary | DepartmentCode | DateOfBirth | ManagerEmployeeNumber |
+|---|---|---|---|---|---|
+| 101 | John | 15000 | 123 | 01-01-1995 | 102 |
+| 102 | Deepak | 80000 | 456 | 11-01-1991 | 106 |
+| 103 | Mohit | 70000 | 123 | 09-09-1994 | 106 |
+| 104 | Mike | 60000 | 567 | 11-11-1994 | 102 |
+| 105 | Adam | 40000 | 456 | 27-01-1990 | 102 |
+| 106 | Ankit | 30000 | 123 | 31-11-1994 | 103 |
+| 107 | Raj | 50000 | 567 | 17-07-1995 | 102 |
+
+Four options of the form `SELECT EmployeeName FROM Employee E1 WHERE E1.DateOfBirth < / > (SELECT E2.DateOfBirth FROM Employee E2 WHERE E2.EmployeeNumber = E1.ManagerEmployeeNumber);` (variants differ in the comparison operator and in the join condition, e.g. E2.ManagerEmployeeNumber = E1.ManagerEmployeeNumber, E2.EmployeeNumber = E1.EmployeeNumber, E2.EmployeeNumber = E1.ManagerEmployeeNumber). Exact option text is illegible in the screenshot.
+
+<sub>Topics: SQL · Close variant: [LeetCode 181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) (Easy), self-join employee with manager, compare a column · Source: [accenture data&Ai IITR.pdf](../archive/files/27265-accenture_data_Ai_IITR.pdf) · Also asked at: IIT Roorkee (2026-11-13)</sub>
+
+### Q10. Python reduce and join output
+
+What will be the output of the following code?
+
+```python
+from functools import reduce
+
+final_list = list()
+
+def get_char():
+    try:
+        my_alphas = ["a", "e", "i", "o", "u"]
+        my_alphas2 = ["a", "g", "t", "j", "f"]
+
+        red1 = reduce(lambda x, y: x.join(y), my_alphas)
+        red2 = reduce(lambda x, y: y.join(x), my_alphas2)
+        final_list.extend([red1, red2])
+
+        return reduce(lambda a, b: b.join(a), final_list)
+    except TypeError:
+        print("TypeError Occurred")
+        return None
+
+if __name__ == '__main__':
+    output = get_char()
+    print(output)
+```
+
+A. u
+B. f
+C. a
+D. TypeError Occurred
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [accenture data&Ai IITR.pdf](../archive/files/27265-accenture_data_Ai_IITR.pdf) · Also asked at: IIT Roorkee (2026-11-13)</sub>
+
+## 2026-11-13 · IIT Roorkee · FTE · I&E AI and Data
+
+### Q1. Customers with a single order over $45,000 (SQL)
+
+Which one of the following queries can be used to display CustomerName and PhoneNumber of customers who have placed a single order of over $ 45,000. Refer table below.
+
+Customer Table:
+
+| CustomerId | CustomerName | PhoneNumber |
+|---|---|---|
+| 1001 | Deepak | 12345 |
+| 1002 | Ajay | 54321 |
+| 1003 | Rahul | 87654 |
+
+OrderMaster Table:
+
+| CustomerId | TotalOrderAmount | OrderDate |
+|---|---|---|
+| 1001 | 47000 | 10-Jun-2016 |
+| 1002 | 10000 | 01-Jan-2016 |
+| 1001 | 14000 | 19-Jun-2016 |
+| 1003 | 53000 | 04-Feb-2016 |
+| 1002 | 50000 | 26-Jun-2016 |
+
+A.
+```sql
+SELECT CustomerName,PhoneNumber FROM Customer WHERE
+CustomerId = (SELECT CustomerId FROM OrderMaster WHERE TotalOrderAmount>45000);
+```
+B.
+```sql
+SELECT CustomerName,PhoneNumber FROM Customer WHERE
+CustomerId IN (SELECT CustomerId FROM OrderMaster WHERE TotalOrderAmount>45000);
+```
+C.
+```sql
+SELECT CustomerName,PhoneNumber FROM Customer WHERE
+CustomerId = (SELECT CustomerId FROM Customer WHERE TotalOrderAmount>45000);
+```
+D.
+```sql
+SELECT CustomerName,PhoneNumber FROM Customer WHERE
+CustomerId IN (SELECT CustomerId FROM Customer WHERE TotalOrderAmount>45000);
+```
+
+<sub>Topics: SQL · Same idea: [LeetCode 1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) (Easy), filter customers by order condition using subquery/join · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q2. Correlation between cool drinks sales and swimming club registrations
+
+A research data suggests that as cool drinks sales increases in a state, the rate of registration at swimming clubs also increases. What kind of analytical relation does this Cooldrinks and Swimming club registrations suggest?
+
+A. Causual Relation
+B. Correlation
+C. Probability
+D. Cause and Effect Relation
+
+<sub>Topics: ML/AI, Math · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q3. UPDATE with subqueries on EMPLOYEES
+
+On the EMPLOYEES table, EMPLOYEE_ID is the primary key. MGR_ID is the ID of managers and refers to the EMPLOYEE_ID. On the DEPARTMENTS table, DEPARTMENT_ID is the primary key. What will happen when the following UPDATE statement is executed?
+
+```sql
+UPDATE employees SET mgr_id =
+(SELECT mgr_id FROM employees WHERE dept_id =
+(SELECT department_id FROM departments WHERE department_name = 'Administration')
+), salary = (SELECT salary FROM employees WHERE emp_name = 'Smith') WHERE job_id = 'IT_ADMIN';
+```
+
+A. The statement executes successfully, leaves the manager ID as the existing value and changes the salary to 4000 for the employees with ID 101 and 105.
+B. The statement executes successfully, changes the manager ID to NULL and changes the salary to 4000 for the employees with ID 103 and 105.
+C. The statement executes successfully, changes the manager ID to NULL, and changes the salary to 3000 for the employees with ID 103 and 105.
+D. None of the given options.
+
+(The table data was not visible in the screenshot.)
+
+<sub>Topics: SQL · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q4. UPDATE place for worker ID 5
+
+You are given the following table 'WORKERDETAILS':
+
+| ID | WORKERNAME | AGE | PLACE | WAGE |
+|---|---|---|---|---|
+| 1 | Rophy | 32 | Thrissur | 20000 |
+| 2 | Vimal | 25 | Kannur | 150.00 |
+| 3 | Dravid | 23 | Bengaluru | 200.00 |
+| 4 | George | 25 | Mumbai | 650.00 |
+| 5 | Sony | 27 | Kolkata | 850.00 |
+| 6 | Cleetus | 22 | Indore | 450.00 |
+| 7 | Thilak | 24 | Manipal | 1000.00 |
+
+A worker with ID '5', shifted her/his place to Goa. Which of the following codes will you use to make this change in the table?
+
+A. SQL> UPDATE WORKERDETAILS SET ID=5 PLACE='Goa';
+B. SQL> UPDATE WORKERDETAILS SET PLACE='Goa' WHERE ID = 5;
+C. SQL> UPDATE SET PLACE='Goa' WHERE ID = 5;
+D. SQL> UPDATE WORKERDETAILS SET PLACE='Goa' ID = 5;
+
+<sub>Topics: SQL · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q5. Effect of lowering threshold in fraud detection model
+
+You are developing a threshold-based insurance fraud detection system with an AUROC of 86.42%. What will happen to the efficacy of the model if the threshold is decreased?
+
+A. TN and FN will increase
+B. TP and FP will increase
+C. TN and FN will decrease
+D. TP and FP will decrease
+
+<sub>Topics: ML/AI · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q6. SQL sort descending by first name
+
+Which of the following statements will you use to return all records sorted in a descending order of their first names from a table named 'Persons'?
+
+A. SELECT * FROM Persons ORDER BY FirstName DESC;
+B. SELECT * FROM Persons ORDER FirstName DESC;
+C. SELECT * FROM Persons SORT BY 'FirstName' DESC;
+D. SELECT * FROM Persons SORT 'FirstName' DESC;
+
+<sub>Topics: SQL · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q7. Reverse a string in Python
+
+Choose the correct option which will print the reverse of a given string.
+
+Input: Input string - "There are many great leaders in India"
+Output: Prints reversed characters of string "aidnI ni sredael taerg ynam era erehT"
+
+A.
+```python
+string1 = "There are many great leaders in India"
+p = string1[::-1]
+print(p)
+```
+B.
+```python
+string1 = "There are many great leaders in India"
+p = string1[: 1]
+print(p)
+```
+C.
+```python
+string1 = "There are many great leaders in India"
+p = string1[-1]
+print(p)
+```
+D.
+```python
+string1 = "There are many great leaders in India"
+p = string1[-1::]
+print(p)
+```
+
+<sub>Topics: Strings, Python & Pandas · Close variant: [LeetCode 344. Reverse String](https://leetcode.com/problems/reverse-string/) (Easy), reverse characters of a string · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q8. SVM with quadratic kernel and slack penalty C
+
+Which of the following statements about a support vector machine with a quadratic kernel and slack penalty C is/are true?
+
+A. The decision boundary is a line and large C means high penalty for misclassification.
+B. The decision boundary is a parabola and large C means high penalty for misclassification.
+C. The decision boundary is a line and large C means low penalty for misclassification.
+D. All of the given options.
+
+<sub>Topics: ML/AI · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q9. Python method with default argument output
+
+What is the output of the following code snippet in python 3?
+
+```python
+class myclass:
+    def myfunc( city, city2='Delhi'):
+        print(city)
+        print (city2)
+o1 = myclass()
+o1.myfunc('Chennai', 'Mumbai')
+```
+
+A. Chennai / Mumbai
+B. Chennai / Delhi
+C. Delhi / Mumbai
+D. Type error
+
+<sub>Topics: Code Output (C/C++/Java/Python) · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q10. SAS PROC TRANSPOSE to produce output
+
+Consider the given code for framing the SAS dataset:
+
+```sas
+data sample;
+input Name $ EmployeeId $ Designation;
+datalines;
+Williams 0100 Engineer
+Sandeep 0101 Developer
+Jones 0102 Tester
+Nivin 0112 Developer
+Janes 0231 Engineer
+Stephen 0312 Developer
+;
+run;
+```
+
+In order to frame the below output, which of the given options will you run?
+
+| Column | Emp1 | Emp2 | Emp3 | Emp4 | Emp5 | Emp6 |
+|---|---|---|---|---|---|---|
+| EmployeeId | 96 | 76 | 76 | 50 | 62 | 92 |
+
+Options are variants of `proc transpose data=sample ... prefix=Emp out=newdata; run;` differing in the name/column options (e.g. `name=Column`, `column=Column`, `surname=Column`). The exact option text was not legible.
+
+<sub>Topics: Other · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q11. SAS libname for permanent library
+
+Which of the following statements assigns a reference named DEMAND to a permanent SAS data library?
+
+A. libref DEMAND 'SAS-data-library'
+B. libname DEMAND 'SAS-data-library'
+C. libref DEMAND 'SAS-data-library';
+D. libname DEMAND 'SAS-data-library';
+
+<sub>Topics: Other · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q12. SAS PROC PRINT to create output
+
+Which of the following PROC PRINT steps creates the following output?
+
+| Record | Dep | Flag | Flight |
+|---|---|---|---|
+| 1 | 232 | 18 | 219 |
+| 2 | 231 | 13 | 219 |
+| 3 | 233 | 33 | 219 |
+
+A.
+```sas
+proc print data = flights.laguardia noobs;
+   var Dept Flag flight;
+   where record >= 5;
+run;
+```
+B.
+```sas
+proc print data = flights.laguardia obs = 'flight';
+   var record Dept Flag;
+   where flag > 3;
+run;
+```
+C.
+```sas
+proc print data = flights.laguardia label obs = 'Record';
+   var boarded transferred flight;
+   label boarded = 'Dept' transferred = 'Changed';
+   where flight = '219';
+run;
+```
+D.
+```sas
+proc print DATA=flights.laguardia noobs;
+   var record Dept Flag flight;
+   where flight = '219';
+run;
+```
+
+<sub>Topics: Other · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q13. SAS length of empcode after set
+
+According to the following code, what would be the length of empcode in temp?
+
+```sas
+data temp;
+set tem1.a
+    tem2.b;
+length empcode $12.;
+run;
+```
+
+A. 5
+B. 8
+C. 12
+D. Syntax Error
+
+<sub>Topics: Other · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q14. SAS PROC PRINT with labels
+
+Which of the following PROC PRINT steps correctly prints labels instead of variable names?
+
+A.
+```sas
+proc print data = Empdet.Deptots label;
+   label region8 = 'Region 8 Yearly Deptots';
+run;
+```
+B.
+```sas
+proc print data = Empdet.Deptots label noobs;
+run;
+```
+C.
+```sas
+proc print Empdet.Deptots label;
+   label region8 = 'Region 8 Yearly Deptots';
+run;
+```
+
+<sub>Topics: Other · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+### Q15. Count syntax errors in SAS code
+
+How many syntax errors does the following code contain?
+
+```sas
+data staff_temp;
+  infile 'raw-data-file';
+  input LName $ 1-20
+        FName $ 21-30
+        JTitle $ 36-43
+        Salary 54-59;
+proc print data=staff_temp
+run;
+```
+
+A. 0
+B. 1
+C. 2
+D. 3
+
+<sub>Topics: Other · Source: [accenture data&Ai IITR.pdf](../archive/files/27266-accenture_data_Ai_IITR.pdf)</sub>
+
+## 2026-11-12 · NIT Surathkal · FTE · Interview
+
+### Q1. Accenture HR and behavioural questions
+
+Behavioural questions reported for Accenture interviews (Oct-Nov 2026 campus experiences).
+
+Most important HR questions:
+1. Tell me about yourself.
+2. Why do you want to join Accenture?
+3. Why should we hire you?
+4. Where do you see yourself in five years?
+5. Are you comfortable relocating to another city?
+6. Are you comfortable working in different technologies?
+7. Are you willing to work in rotational shifts?
+8. What are your strengths and weaknesses?
+9. What motivates you?
+10. Do you have plans to pursue higher studies?
+11. What do you know about Accenture?
+12. Do you have any questions for us?
+
+<sub>Topics: HR & Behavioral · Source: [chat, 12 Nov](../archive/accenture-oa/2026-11.jsonl#L350)</sub>
+
+### Q2. Accenture teamwork and leadership questions
+
+1. Tell me about a time you worked in a team.
+2. Have you ever led a team? Explain your experience.
+3. What would you do if a team member wasn't contributing?
+4. How would you handle disagreements with a teammate?
+5. Have you ever faced a conflict with a team member?
+6. What would you do if your team disagreed with your approach?
+7. How do you handle feedback or criticism?
+8. Tell me about a time you helped someone in your team.
+9. What responsibilities have you handled as a leader?
+10. What did you learn from your mentor?
+
+<sub>Topics: HR & Behavioral · Source: [chat, 12 Nov](../archive/accenture-oa/2026-11.jsonl#L350)</sub>
+
+### Q3. Accenture situational questions
+
+1. What would you do if your manager assigned you a task involving a technology you don't know?
+2. What would you do if you couldn't complete a task before the deadline?
+3. How would you handle multiple tasks with the same deadline?
+4. What would you do if your manager criticised your work?
+5. Suppose your teammate makes a mistake that affects the entire project. How would you respond?
+6. What would you do if you disagreed with your manager's decision?
+7. How would you handle a difficult client?
+8. What would you do if you were assigned work outside ...
+
+(Message was cut off here.)
+
+<sub>Topics: HR & Behavioral · Source: [chat, 12 Nov](../archive/accenture-oa/2026-11.jsonl#L350)</sub>
+
+## 2026-11-12 · MNNIT Allahabad · FTE
+
+### Q1. Communication round format
+
+Communication round: email writing, verbal questions, and a video recording based on 2 pictures of the same place in different situations.
+
+<sub>Topics: OA Format, Verbal · Source: [chat, 12 Nov](../archive/accenture-oa/2026-11.jsonl#L351), [chat, 12 Nov](../archive/accenture-oa/2026-11.jsonl#L353)</sub>
 
 ## 2026-11-11 · NIT Surathkal · FTE · Data & AI
 

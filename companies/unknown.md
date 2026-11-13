@@ -1,19 +1,23 @@
 # Unknown
 
-**48 questions** · 32 drives · latest 12 Nov 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**50 questions** · 34 drives · latest 13 Nov 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 22 · [Arrays](../topics/arrays.md) 6 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [ML/AI](../topics/ml-ai.md) 3 · +15 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 23 · [Arrays](../topics/arrays.md) 6 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [ML/AI](../topics/ml-ai.md) 3 · +16 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +6 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · NIT Patna · FTE · Interview](#2026-11-13--nit-patna--fte--interview)
+  - [FischerJordan selection process](#q1-fischerjordan-selection-process)
 - [2026-11-12 · NIT Patna · FTE · Probationary Engineer (CSE)](#2026-11-12--nit-patna--fte--probationary-engineer-cse)
   - [BEL CSE OA pattern](#q1-bel-cse-oa-pattern)
 - [2026-11-12 · IIT Guwahati · FTE · Research Engineer 1](#2026-11-12--iit-guwahati--fte--research-engineer-1)
   - [Saint Gobain OA pattern](#q1-saint-gobain-oa-pattern)
 - [2026-11-12 · IIT BHU · FTE · SDE](#2026-11-12--iit-bhu--fte--sde)
   - [Players who can still win the trophy](#q1-players-who-can-still-win-the-trophy)
+- [2026-11-12 · IIT BHU · FTE](#2026-11-12--iit-bhu--fte)
+  - [Add a missing function to existing code (copyPlaylist)](#q1-add-a-missing-function-to-existing-code-copyplaylist)
 - [2026-11-11 · Unknown · FTE](#2026-11-11--unknown--fte)
   - [Typeface OA pattern](#q1-typeface-oa-pattern)
 - [2026-11-11 · IIT Bombay · FTE](#2026-11-11--iit-bombay--fte)
@@ -93,6 +97,21 @@
 
 ---
 
+## 2026-11-13 · NIT Patna · FTE · Interview
+
+### Q1. FischerJordan selection process
+
+FischerJordan generally does not conduct a traditional OA. Reported process:
+
+1. Resume/CV shortlisting (sometimes video-resume screening)
+2. Round 1 - Technical interview (projects + resume)
+3. Round 2 - Behavioural questions + puzzles
+4. Round 3 - HR/Technical discussion
+
+Process may vary by campus and role.
+
+<sub>Topics: OA Format · Source: [chat, 13 Nov](../archive/inter-nit/2026-11.jsonl#L1444)</sub>
+
 ## 2026-11-12 · NIT Patna · FTE · Probationary Engineer (CSE)
 
 ### Q1. BEL CSE OA pattern
@@ -125,6 +144,14 @@ Given an array of size n (n up to 10^5) with the scores of n people before the f
 Example: n=5, points=[12,14,14,15,15] gives output 4, since player 1 cannot win even if they win the race: max 12+5 = 17, but the highest score would be at least 18.
 
 <sub>Topics: Arrays, Greedy, Sorting · Same idea: [LeetCode 1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) (Easy), add max bonus, compare against maximum of others · Source: [chat, 12 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L358)</sub>
+
+## 2026-11-12 · IIT BHU · FTE
+
+### Q1. Add a missing function to existing code (copyPlaylist)
+
+The OA gave existing code (a Spotify-like playlist app) and the task was to add a function, e.g. a `copyPlaylist` function, rather than only fix logical errors. Full problem statement not given.
+
+<sub>Topics: OOP · Source: [chat, 12 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L384)</sub>
 
 ## 2026-11-11 · Unknown · FTE
 

@@ -1,9 +1,9 @@
 # Media.net
 
-**12 questions** · 10 drives · latest 12 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**12 questions** · 10 drives · latest 13 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 6 · [Arrays](../topics/arrays.md) 4 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Math](../topics/math.md) 1 · [Trees](../topics/trees.md) 1 · +2 more  
-**Seen at:** Delhi Technological University, IIT BHU, IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal, NIT Patna, Netaji Subhas University of Technology +1 more
+**Seen at:** Delhi Technological University, IIT BHU, IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal, NIT Patna, NSUT +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -57,7 +57,7 @@ The OA had 2 medium-level DSA questions: one was DP and the other was (probably)
 
 20 aptitude questions, 6 SQL coding questions and 6 Python coding questions, all in 45 minutes. Difficult for many; not many could finish in time. Questions were repeated ones.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/humming-wave-oa/2026-11.jsonl#L13) · Also asked at: IIT BHU (2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/humming-wave-oa/2026-11.jsonl#L13) · Also asked at: IIT BHU ×2 (last 2026-11-13)</sub>
 
 ## 2026-11-12 · IIT Guwahati · FTE · SDE
 
@@ -78,7 +78,7 @@ The OA has four parts:
 * **Game-Based Cognitive Assessment:** interactive logic and attention-based mini-games (typically 4 selected from a larger pool), 20 to 30 minutes.
 * **Behavioral / PowerSkills Assessment:** personality and workplace-behavior rating questions (about 100 questions), 20 to 25 minutes.
 
-<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/media-net-oa/2026-11.jsonl#L23), [chat, 11 Nov](../archive/media-net-oa/2026-11.jsonl#L24) · Also asked at: Unknown (2026-11-11), IIT BHU ×2 (last 2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/media-net-oa/2026-11.jsonl#L23), [chat, 11 Nov](../archive/media-net-oa/2026-11.jsonl#L24) · Also asked at: Unknown (2026-11-11), IIT BHU ×3 (last 2026-11-13)</sub>
 
 ## 2026-11-07 · MNNIT Allahabad · FTE · Product Analyst
 
@@ -93,7 +93,7 @@ OA sections and topics:
 - Verbal Ability: Comprehension, grammar
 - Programming: Basic Python, coding logic
 
-<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L85) · Also asked at: MNNIT Allahabad (2026-11-11), IIT BHU ×2 (last 2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L85) · Also asked at: IIT BHU ×2 (last 2026-11-12), MNNIT Allahabad ×2 (last 2026-11-12)</sub>
 
 ## 2026-10-19 · VNIT Nagpur · FTE · SDE · Interview
 
@@ -109,7 +109,7 @@ Mainly DSA questions are asked, some questions on core subjects, and the intervi
 
 Trapping Rain Water (LeetCode 42): given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining. (The poster named only the problem, in reply to 'what was asked in media.net'.)
 
-<sub>Topics: Two Pointers, Arrays, Stack/Queue · Similar: [LeetCode 42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) (Hard) · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1594) · Also asked at: MNNIT Allahabad (2026-10-19)</sub>
+<sub>Topics: Two Pointers, Arrays, Stack/Queue · Similar: [LeetCode 42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) (Hard) · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1594) · Also asked at: MNNIT Allahabad (2026-10-19), NSUT ×2 (last 2026-11-12)</sub>
 
 ## 2026-10-19 · MNNIT Allahabad · FTE
 
@@ -137,4 +137,4 @@ One question was a basic 2D matrix operation. Details not given.
 
 Trapping Rain Water II: given an m x n integer matrix heightMap giving the height of each cell in a 2D elevation map, return the volume of water it can trap after raining. (The poster named only the problem as one of the questions in the Media.net OA held recently at DTU. No other details were given.)
 
-<sub>Topics: Heaps, Graphs, Arrays · Similar: [LeetCode 407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) (Hard) · Source: [chat, 17 Oct](../archive/inter-nit/2026-10.jsonl#L1469) · Also asked at: Netaji Subhas University of Technology (2026-10-19), MNNIT Allahabad (2026-10-19)</sub>
+<sub>Topics: Heaps, Graphs, Arrays · Similar: [LeetCode 407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) (Hard) · Source: [chat, 17 Oct](../archive/inter-nit/2026-10.jsonl#L1469) · Also asked at: Netaji Subhas University of Technology (2026-10-19), MNNIT Allahabad (2026-10-19), NSUT (2026-11-12), Delhi Technological University (2026-11-12)</sub>

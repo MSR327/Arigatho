@@ -1,9 +1,15 @@
 # Other
 
-60 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+66 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Count syntax errors in SAS code](../companies/accenture.md#q15-count-syntax-errors-in-sas-code) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SAS PROC PRINT with labels](../companies/accenture.md#q14-sas-proc-print-with-labels) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SAS length of empcode after set](../companies/accenture.md#q13-sas-length-of-empcode-after-set) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SAS PROC PRINT to create output](../companies/accenture.md#q12-sas-proc-print-to-create-output) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SAS libname for permanent library](../companies/accenture.md#q11-sas-libname-for-permanent-library) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SAS PROC TRANSPOSE to produce output](../companies/accenture.md#q10-sas-proc-transpose-to-produce-output) | |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal APM OA Excel questions](../companies/eternal-zomato.md#q1-eternal-apm-oa-excel-questions) | |
 | 2026-11-11 | [Microsoft](../companies/microsoft.md) | IIT Bombay | [Blue line-red line cost question](../companies/microsoft.md#q1-blue-line-red-line-cost-question) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT Delhi | [Codeforces 360B](../companies/capital-one.md#q1-codeforces-360b) | |

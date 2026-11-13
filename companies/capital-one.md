@@ -1,13 +1,15 @@
 # Capital One
 
-**40 questions** · 18 drives · latest 12 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**41 questions** · 19 drives · latest 13 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 9 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Software Engineering](../topics/software-engineering.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 3 · [OOP](../topics/oop.md) 3 · +12 more  
+**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 10 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Software Engineering](../topics/software-engineering.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 3 · [OOP](../topics/oop.md) 3 · +12 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · IIT BHU · FTE · Interview](#2026-11-12--iit-bhu--fte--interview)
+  - [Capital One Round 2 format](#q1-capital-one-round-2-format)
 - [2026-11-09 · IIT Delhi · FTE](#2026-11-09--iit-delhi--fte)
   - [Codeforces 360B](#q1-codeforces-360b)
   - [Design a University Ticketing System](#q2-design-a-university-ticketing-system)
@@ -71,13 +73,21 @@
 
 ---
 
+## 2026-11-12 · IIT BHU · FTE · Interview
+
+### Q1. Capital One Round 2 format
+
+Round 2 had 1 DSA question and 1 LLD (low-level design) question. Specific problems not given.
+
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/capital-one-oa/2026-11.jsonl#L95) · Also asked at: IIT Kharagpur (2026-11-12), IIT BHU ×3 (last 2026-11-13)</sub>
+
 ## 2026-11-09 · IIT Delhi · FTE
 
 ### Q1. Codeforces 360B
 
 Round 2 Q1: Codeforces 360B. The statement was not transcribed in the message.
 
-<sub>Topics: Other · Source: [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L88) · Also asked at: IIT Delhi (2026-11-09), IIT BHU ×3 (last 2026-11-09)</sub>
+<sub>Topics: Other · Source: [chat, 9 Nov](../archive/capital-one-oa/2026-11.jsonl#L88) · Also asked at: IIT Delhi (2026-11-09), IIT BHU ×4 (last 2026-11-13)</sub>
 
 ### Q2. Design a University Ticketing System
 
@@ -125,7 +135,7 @@ Another Capital One second test had 3 DSA questions of medium to hard level. Det
 
 Subjective system design question: design the classes, functionalities, pseudo-code, transactions, handle race conditions, and define database relations and tables. (The specific system was not mentioned.)
 
-<sub>Topics: Software Engineering, OOP · Source: [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L334) · Also asked at: IIT BHU ×2 (last 2026-11-09)</sub>
+<sub>Topics: Software Engineering, OOP · Source: [chat, 9 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L334) · Also asked at: IIT BHU ×3 (last 2026-11-13)</sub>
 
 ## 2026-11-08 · Unknown · FTE · Interview
 

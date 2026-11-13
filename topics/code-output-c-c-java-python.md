@@ -1,9 +1,14 @@
 # Code Output (C/C++/Java/Python)
 
-71 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+76 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Python method with default argument output](../companies/accenture.md#q9-python-method-with-default-argument-output) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Python reduce and join output](../companies/accenture.md#q10-python-reduce-and-join-output) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Python class exception output](../companies/accenture.md#q8-python-class-exception-output) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Python tuple, del and len output](../companies/accenture.md#q7-python-tuple-del-and-len-output) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Python tuple unpacking output](../companies/accenture.md#q6-python-tuple-unpacking-output) | |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Length of a Python set with duplicates](../companies/cognizant.md#q7-length-of-a-python-set-with-duplicates) | |
 | 2026-11-06 | [Nvidia](../companies/nvidia.md) | IIT Hyderabad | [Questions reported from the August 2026 NVIDIA assessment](../companies/nvidia.md#q1-questions-reported-from-the-august-2026-nvidia-assessment) | |
 | 2026-11-06 | [Navi](../companies/navi.md) | IIT Hyderabad | [DP debugging problem](../companies/navi.md#q2-dp-debugging-problem) | |

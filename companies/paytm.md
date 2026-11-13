@@ -1,13 +1,15 @@
 # Paytm
 
-**21 questions** · 7 drives · latest 30 Oct 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 8 drives · latest 12 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · [Greedy](../topics/greedy.md) 2 · +10 more  
-**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU, MNNIT Allahabad
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · [Greedy](../topics/greedy.md) 2 · +11 more  
+**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU, IIT Indore, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-12 · IIT Indore · FTE · PA · Other round](#2026-11-12--iit-indore--fte--pa--other-round)
+  - [Case study round](#q1-case-study-round)
 - [2026-10-30 · Delhi Technological University · FTE · SDE](#2026-10-30--delhi-technological-university--fte--sde)
   - [Maximum even subsequence in an array](#q1-maximum-even-subsequence-in-an-array)
   - [Minimum cost to make two strings equal](#q2-minimum-cost-to-make-two-strings-equal)
@@ -40,6 +42,14 @@
 </details>
 
 ---
+
+## 2026-11-12 · IIT Indore · FTE · PA · Other round
+
+### Q1. Case study round
+
+For the PA role there was a case study round. Case details not given.
+
+<sub>Topics: Guesstimates & Cases, OA Format · Source: [chat, 12 Nov](../archive/inter-iit/2026-11.jsonl#L669)</sub>
 
 ## 2026-10-30 · Delhi Technological University · FTE · SDE
 
@@ -117,7 +127,7 @@ Paytm OA for the software role consisted of:
 
 The actual questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L113) · Also asked at: IIT BHU (2026-10-29), Unknown (2026-10-30), MNNIT Allahabad (2026-10-30)</sub>
+<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L113) · Also asked at: Unknown (2026-10-30), MNNIT Allahabad (2026-10-30), IIT BHU ×2 (last 2026-11-12)</sub>
 
 ## 2026-09-21 · Unknown · Unknown · Other round
 

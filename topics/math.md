@@ -1,9 +1,12 @@
 # Math
 
-211 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+214 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Correlation between cool drinks sales and swimming club registrations](../companies/accenture.md#q2-correlation-between-cool-drinks-sales-and-swimming-club-registrations) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Forward selection: number of variables](../companies/accenture.md#q2-forward-selection-number-of-variables) | |
+| 2026-11-12 | [Cognizant](../companies/cognizant.md) | IIT Kharagpur/Kanpur | [Maximum gain traversing array with prime-ending-3 jumps](../companies/cognizant.md#q1-maximum-gain-traversing-array-with-prime-ending-3-jumps) | ≈ [LC 70](https://leetcode.com/problems/climbing-stairs/) Easy |
 | 2026-11-12 | [BNY](../companies/bny.md) | IIT BHU | [Paint houses with 3 colors, mirrored houses differ](../companies/bny.md#q2-paint-houses-with-3-colors-mirrored-houses-differ) | ≈ [LC 1411](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) Hard |
 | 2026-11-11 | [Microsoft](../companies/microsoft.md) | IIT BHU | [Compute n*(n-1)^m mod M](../companies/microsoft.md#q1-compute-nn-1m-mod-m) | ≈ [LC 50](https://leetcode.com/problems/powx-n/) Medium |
 | 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIT Guwahati | [Count ways to allocate images across filters within max time](../companies/cognizant.md#q1-count-ways-to-allocate-images-across-filters-within-max-time) | ≈ [LC 518](https://leetcode.com/problems/coin-change-ii/) Medium |

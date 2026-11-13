@@ -1,6 +1,6 @@
 # Stripe
 
-**3 questions** · 3 drives · latest 26 Oct 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 12 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 2 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1  
 **Seen at:** BITS Pilani, IIT BHU, IIT Hyderabad
@@ -31,7 +31,7 @@ Second round: two rounds of 45 minutes each, with a 30 minute break in between. 
 
 The third stage and the second 45-minute round are not described.
 
-<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/intern-2028/2026-10.jsonl#L90)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Oct](../archive/intern-2028/2026-10.jsonl#L90) · Also asked at: IIT BHU (2026-11-12)</sub>
 
 ## 2026-10-25 · IIT Hyderabad · FTE · Interview
 

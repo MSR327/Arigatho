@@ -1,6 +1,6 @@
 # Navi
 
-**46 questions** · 24 drives · latest 11 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**46 questions** · 24 drives · latest 12 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 12 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 10 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Math](../topics/math.md) 4 · +5 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +3 more
@@ -332,7 +332,7 @@ Debugging question. Code was given that puts numbers into buckets 0-9 based on t
 
 25 MCQs in 30 minutes (aptitude based).
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L41) · Also asked at: IIT Guwahati (2026-11-05)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 1 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L41) · Also asked at: IIT Guwahati ×2 (last 2026-11-12)</sub>
 
 ## 2026-11-01 · IIT Delhi · FTE · SDE
 

@@ -1,9 +1,11 @@
 # Aptitude
 
-251 questions from 32 companys, newest first. [← all topics](../README.md#topics)
+253 questions from 33 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Kharagpur | [Eternal APM process](../companies/eternal-zomato.md#q1-eternal-apm-process) |
+| 2026-11-12 | [Thorogood](../companies/thorogood.md) | MNNIT Allahabad | [OA format: all MCQ](../companies/thorogood.md#q1-oa-format-all-mcq) |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) |
 | 2026-11-11 | [Urban Company](../companies/urban-company.md) | IIT Kharagpur | [Urban Company OA pattern](../companies/urban-company.md#q1-urban-company-oa-pattern) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Estimate households interested in streaming service in two years](../companies/accordion.md#q2-estimate-households-interested-in-streaming-service-in-two-years) |

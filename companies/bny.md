@@ -99,7 +99,7 @@ OA pattern: 2 DSA questions + 1 debugging question.
 
 OA contained aptitude and ML MCQs (reported second-hand by a Thapar friend). No DSA questions mentioned.
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L988)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L988) · Also asked at: Thapar Institute of Engineering and Technology (2026-11-09)</sub>
 
 ## 2026-11-07 · MNNIT Allahabad · FTE
 

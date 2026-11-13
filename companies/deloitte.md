@@ -543,7 +543,7 @@ Only those who cleared round 1 were allowed to give the vibe coding round; there
 
 Deloitte Analyst OA on HirePro: 60 MCQs in 60 minutes. Sections seen in the screenshots: Verbal Ability (Q1-10), Reasoning Ability (Q11-20), Quantitative Ability (Q21-30), Technical (Q31 onwards: C++/programming, networking and cyber security, AI fluency, cloud computing basics, SQL). Poster says the questions do not repeat but the MCQ pattern is the same as earlier drives.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: IIT BHU ×2 (last 2026-10-31), IIT Indore (2026-11-05), Thapar Institute (2026-11-05), IIT Dhanbad ×2 (last 2026-11-12), Unknown (2026-11-12), IIT Guwahati ×2 (last 2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L25), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L28), [Deloitte.pdf](../archive/files/14105-Deloitte.pdf), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L40) · Also asked at: IIT Indore (2026-11-05), Thapar Institute (2026-11-05), IIT BHU ×3 (last 2026-11-12), IIT Dhanbad ×2 (last 2026-11-12), Unknown (2026-11-12), IIT Guwahati ×2 (last 2026-11-12)</sub>
 
 ### Q2. Sentence correction: looking up them who have spoken
 

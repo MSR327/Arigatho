@@ -38,7 +38,7 @@ output = 4
 ```
 Player 1 cannot win even if he wins the race: max 12+5 = 17, but the highest score would be at least 18.
 
-<sub>Topics: Arrays, Greedy, Sorting · Same idea: [LeetCode 1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) (Easy), add max bonus, compare against maximum of others · Source: [chat, 12 Nov](../archive/entnt-oa/2026-11.jsonl#L12), [chat, 12 Nov](../archive/entnt-oa/2026-11.jsonl#L13) · Also asked at: IIT Roorkee ×2 (last 2026-11-12), IIT BHU ×2 (last 2026-11-12)</sub>
+<sub>Topics: Arrays, Greedy, Sorting · Same idea: [LeetCode 1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) (Easy), add max bonus, compare against maximum of others · Source: [chat, 12 Nov](../archive/entnt-oa/2026-11.jsonl#L12), [chat, 12 Nov](../archive/entnt-oa/2026-11.jsonl#L13) · Also asked at: IIT Roorkee ×2 (last 2026-11-12), IIT BHU ×2 (last 2026-11-12), IIT Madras (2026-11-12)</sub>
 
 ## 2026-11-12 · IIT Roorkee · FTE · Product
 
@@ -48,7 +48,7 @@ Player 1 cannot win even if he wins the race: max 12+5 = 17, but the highest sco
 - 15 MCQs on maths and SQL (20 min)
 - 15 min guesstimate/case study
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/nobroker-oa/2026-11.jsonl#L44)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/nobroker-oa/2026-11.jsonl#L44) · Also asked at: Unknown ×2 (last 2026-11-12)</sub>
 
 ## 2026-11-12 · IIT BHU · FTE · SDE
 
@@ -64,7 +64,7 @@ Given two integer arrays, `gas` and `cost`, representing the fuel available at e
 
 3 questions in 90 minutes, plus some CS core questions.
 
-<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/nobroker-oa/2026-11.jsonl#L24)</sub>
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/nobroker-oa/2026-11.jsonl#L24) · Also asked at: IIT Madras ×3 (last 2026-11-12)</sub>
 
 ## 2026-10-13 · IIT Guwahati · FTE · Data Scientist
 
@@ -72,4 +72,4 @@ Given two integer arrays, `gas` and `cost`, representing the fuel available at e
 
 Sections: one SQL question, 2 DSA questions, and ML/DL MCQs. Duration: 60 to 90 minutes. Typically 2 to 3 coding questions of medium LeetCode level.
 
-<sub>Topics: OA Format · Source: [chat, 13 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L217), [chat, 14 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L223)</sub>
+<sub>Topics: OA Format · Source: [chat, 13 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L217), [chat, 14 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L223) · Also asked at: IIT Guwahati ×2 (last 2026-11-12)</sub>

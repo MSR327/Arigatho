@@ -1,15 +1,19 @@
 # Cognizant
 
-**69 questions** · 25 drives · latest 12 Nov 2026 · [25 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**72 questions** · 26 drives · latest 12 Nov 2026 · [27 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 20 · [Arrays](../topics/arrays.md) 11 · [Greedy](../topics/greedy.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [DP](../topics/dp.md) 8 · [Hashing](../topics/hashing.md) 6 · [Sorting](../topics/sorting.md) 5 · +14 more  
-**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +4 more
+**Asks about:** [OA Format](../topics/oa-format.md) 20 · [Arrays](../topics/arrays.md) 11 · [Greedy](../topics/greedy.md) 10 · [DP](../topics/dp.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [Hashing](../topics/hashing.md) 7 · [Math](../topics/math.md) 6 · +15 more  
+**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-11-12 · IIT Roorkee · FTE · SDE](#2026-11-12--iit-roorkee--fte--sde)
   - [NoBroker SDE OA pattern](#q1-nobroker-sde-oa-pattern)
+- [2026-11-12 · IIT Kharagpur/Kanpur · FTE](#2026-11-12--iit-kharagpurkanpur--fte)
+  - [Maximum gain traversing array with prime-ending-3 jumps](#q1-maximum-gain-traversing-array-with-prime-ending-3-jumps)
+  - [Implement LFU cache](#q2-implement-lfu-cache)
+  - [Scheduling question](#q3-scheduling-question)
 - [2026-11-11 · VNIT Nagpur · FTE](#2026-11-11--vnit-nagpur--fte)
   - [Cognizant process and OA pattern](#q1-cognizant-process-and-oa-pattern)
 - [2026-11-11 · Unknown · FTE](#2026-11-11--unknown--fte)
@@ -114,6 +118,26 @@
 NoBroker SDE OA: 15 aptitude MCQs, 10 technical MCQs and 3 DSA problems, total duration 75 minutes. Good speed required.
 
 <sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/cognizant-oa/2026-11.jsonl#L110)</sub>
+
+## 2026-11-12 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Maximum gain traversing array with prime-ending-3 jumps
+
+Find the maximum gain if you traverse an array from index 0 to n-1. From index i you can move to an adjacent index or to i + x, where x must be a prime number whose last digit is 3. Poster says it is easy and can be done with 1D DP plus some helper functions. (Exact statement, constraints and examples not given.)
+
+<sub>Topics: DP, Math · Same idea: [LeetCode 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) (Easy), 1D DP over index with fixed jump options · Source: [chat, 12 Nov](../archive/cognizant-oa/2026-11.jsonl#L112), [chat, 12 Nov](../archive/cognizant-oa/2026-11.jsonl#L113), [chat, 12 Nov](../archive/cognizant-oa/2026-11.jsonl#L114)</sub>
+
+### Q2. Implement LFU cache
+
+Implement an LFU (Least Frequently Used) cache. (Details not given.)
+
+<sub>Topics: Hashing, Linked List · Similar: [LeetCode 460. LFU Cache](https://leetcode.com/problems/lfu-cache/) (Hard) · Source: [chat, 12 Nov](../archive/cognizant-oa/2026-11.jsonl#L112), [chat, 12 Nov](../archive/cognizant-oa/2026-11.jsonl#L113), [chat, 12 Nov](../archive/cognizant-oa/2026-11.jsonl#L114)</sub>
+
+### Q3. Scheduling question
+
+Some scheduling question (details not remembered).
+
+<sub>Topics: Greedy · Source: [chat, 12 Nov](../archive/cognizant-oa/2026-11.jsonl#L112), [chat, 12 Nov](../archive/cognizant-oa/2026-11.jsonl#L113), [chat, 12 Nov](../archive/cognizant-oa/2026-11.jsonl#L114)</sub>
 
 ## 2026-11-11 · VNIT Nagpur · FTE
 

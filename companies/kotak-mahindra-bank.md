@@ -1,13 +1,15 @@
 # Kotak Mahindra Bank
 
-**6 questions** · 5 drives · latest 12 Nov 2026 · [← all companies](../README.md#companies)
+**7 questions** · 6 drives · latest 13 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [SQL](../topics/sql.md) 1  
-**Seen at:** IIT BHU, IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Kurukshetra, NIT Patna
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [SQL](../topics/sql.md) 1  
+**Seen at:** IIT BHU, IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Kurukshetra, NIT Patna, VNIT
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · VNIT · FTE · Data Science](#2026-11-13--vnit--fte--data-science)
+  - [Kotak DS OA pattern](#q1-kotak-ds-oa-pattern)
 - [2026-11-12 · MNNIT Allahabad · FTE · Data Scientist – Analytics, AI/ML & GenAI](#2026-11-12--mnnit-allahabad--fte--data-scientist--analytics-aiml--genai)
   - [Kotak Data Scientist OA pattern](#q1-kotak-data-scientist-oa-pattern)
   - [Kotak Data Scientist OA pattern](#q2-kotak-data-scientist-oa-pattern)
@@ -24,13 +26,21 @@
 
 ---
 
+## 2026-11-13 · VNIT · FTE · Data Science
+
+### Q1. Kotak DS OA pattern
+
+Expect 2 DSA questions ranging from medium to hard difficulty.
+
+<sub>Topics: OA Format · Source: [chat, 13 Nov](../archive/inter-nit/2026-11.jsonl#L1430)</sub>
+
 ## 2026-11-12 · MNNIT Allahabad · FTE · Data Scientist – Analytics, AI/ML & GenAI
 
 ### Q1. Kotak Data Scientist OA pattern
 
 MCQs based on aptitude, verbal reasoning and core CS, followed by SQL questions.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1290), [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1293)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1290), [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1293) · Also asked at: MNNIT Allahabad (2026-11-12)</sub>
 
 ### Q2. Kotak Data Scientist OA pattern
 
@@ -49,7 +59,7 @@ Sections:
 
 Duration: varies by hiring drive. Some reported coding rounds last approximately 60 minutes.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L162), [chat, 12 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L344) · Also asked at: IIT BHU ×2 (last 2026-11-12), IIT Guwahati (2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L162), [chat, 12 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L344) · Also asked at: IIT BHU ×3 (last 2026-11-12), IIT Guwahati (2026-11-12)</sub>
 
 ## 2026-11-12 · IIT BHU · FTE · Data Scientist
 
@@ -81,7 +91,7 @@ Sections:
 4. GenAI & DL MCQs: RAG vs fine-tuning, tokenization, LLM security (for AI roles).
 5. DSA check (campus/SDE-DS only): 1-2 easy/medium array, string, or stack/queue problems.
 
-<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/campus-nit-patna-placements/2026-11.jsonl#L19)</sub>
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/campus-nit-patna-placements/2026-11.jsonl#L19) · Also asked at: NIT Patna (2026-11-12)</sub>
 
 ## 2026-11-11 · NIT Kurukshetra · FTE · Data Scientist – Analytics, AI/ML & GenAI
 

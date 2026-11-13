@@ -1,6 +1,6 @@
 # Juspay
 
-**23 questions** · 16 drives · latest 12 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**23 questions** · 16 drives · latest 13 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 11 · [Trees](../topics/trees.md) 4 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 3 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +2 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, MNNIT Allahabad +4 more
@@ -113,7 +113,7 @@ Edge weight update queries in a tree. The poster gave only the name; the stateme
 
 Juspay round 3 (2-hour window test) included Part A: "Ticketing System", a heavy implementation-type problem. The problem was sent by mail; the full statement was not included in the message.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L3), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L4), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L6) · Also asked at: IIT Bombay (2026-11-11)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L3), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L4), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L6) · Also asked at: IIT Bombay ×2 (last 2026-11-11), IIT Guwahati (2026-11-13)</sub>
 
 ## 2026-10-27 · IIT Delhi · FTE
 
@@ -180,7 +180,7 @@ Round 1 - Pre-assessment, DSA coding, 1 hour, 3 questions.
 Round 2 - MCQ on Physics, Maths, CS, Systems, 1 hour, 16 questions.
 Round 3 - Hackathon, DSA-based coding, 2.5 hours, 1 question.
 
-<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L247) · Also asked at: NIT Delhi (2026-10-31), IIT Delhi (2026-11-09), IIT Guwahati ×2 (last 2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L247) · Also asked at: NIT Delhi (2026-10-31), IIT Delhi (2026-11-09), IIT Guwahati ×2 (last 2026-11-10), Unknown (2026-11-12)</sub>
 
 ### Q2. Juspay 3-round OA format
 

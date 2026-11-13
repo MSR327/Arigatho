@@ -1,19 +1,29 @@
 # Goldman Sachs
 
-**1 question** · 1 drive · latest 8 Nov 2026 · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 13 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 2  
 **Seen at:** IIT BHU
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · Unknown · FTE](#2026-11-13--unknown--fte)
+  - [Goldman Sachs OA format](#q1-goldman-sachs-oa-format)
 - [2026-11-08 · IIT BHU · FTE · Quant Analyst](#2026-11-08--iit-bhu--fte--quant-analyst)
   - [Goldman Sachs Quant Analyst OA pattern](#q1-goldman-sachs-quant-analyst-oa-pattern)
 
 </details>
 
 ---
+
+## 2026-11-13 · Unknown · FTE
+
+### Q1. Goldman Sachs OA format
+
+As per one shared experience, the OA had 3 questions: 2 DSA questions + 1 code debugging question where a codebase and an AI assistant are given; you must understand/debug it and run it against test cases. Topics mostly: arrays, simulation, math, strings, sorting, greedy, DP, graphs.
+
+<sub>Topics: OA Format · Source: [chat, 13 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L221)</sub>
 
 ## 2026-11-08 · IIT BHU · FTE · Quant Analyst
 

@@ -1,10 +1,13 @@
 # DP
 
-152 questions from 54 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+155 questions from 54 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
-| 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Maximum Number of Strings](../companies/phyagent.md#q2-maximum-number-of-strings) | [LC 474](https://leetcode.com/problems/ones-and-zeroes/) Medium |
+| 2026-11-12 | [Cognizant](../companies/cognizant.md) | IIT Kharagpur/Kanpur | [Maximum gain traversing array with prime-ending-3 jumps](../companies/cognizant.md#q1-maximum-gain-traversing-array-with-prime-ending-3-jumps) | ≈ [LC 70](https://leetcode.com/problems/climbing-stairs/) Easy |
+| 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Maximum Number of Strings](../companies/phyagent.md#q4-maximum-number-of-strings) | [LC 474](https://leetcode.com/problems/ones-and-zeroes/) Medium |
+| 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Number of Dice Rolls With Target Sum](../companies/phyagent.md#q2-number-of-dice-rolls-with-target-sum) | [LC 1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) Medium |
+| 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Madras | [DP problem (JSON input)](../companies/phyagent.md#q2-dp-problem-json-input) | |
 | 2026-11-12 | [BNY](../companies/bny.md) | IIT BHU | [Paint houses with 3 colors, mirrored houses differ](../companies/bny.md#q2-paint-houses-with-3-colors-mirrored-houses-differ) | ≈ [LC 1411](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) Hard |
 | 2026-11-12 | [Media.net](../companies/media-net.md) | VNIT Nagpur | [Media.net OA: 2 medium DSA questions](../companies/media-net.md#q1-medianet-oa-2-medium-dsa-questions) | |
 | 2026-11-11 | [BNY](../companies/bny.md) | IIT BHU | [Maximize call volume with non-overlapping calls](../companies/bny.md#q1-maximize-call-volume-with-non-overlapping-calls) | [LC 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) Hard |

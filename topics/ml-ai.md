@@ -1,9 +1,17 @@
 # ML/AI
 
-141 questions from 25 companys, newest first. [← all topics](../README.md#topics)
+149 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SVM with quadratic kernel and slack penalty C](../companies/accenture.md#q8-svm-with-quadratic-kernel-and-slack-penalty-c) |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Effect of lowering threshold in fraud detection model](../companies/accenture.md#q5-effect-of-lowering-threshold-in-fraud-detection-model) |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Correlation between cool drinks sales and swimming club registrations](../companies/accenture.md#q2-correlation-between-cool-drinks-sales-and-swimming-club-registrations) |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [sklearn.cluster.KMeans statements](../companies/accenture.md#q5-sklearnclusterkmeans-statements) |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [K-means clustering true statements](../companies/accenture.md#q4-k-means-clustering-true-statements) |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Clustering for mixed data types](../companies/accenture.md#q3-clustering-for-mixed-data-types) |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Forward selection: number of variables](../companies/accenture.md#q2-forward-selection-number-of-variables) |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Specificity from confusion matrix](../companies/accenture.md#q1-specificity-from-confusion-matrix) |
 | 2026-11-12 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock AI/ML OA format](../companies/blackrock.md#q1-blackrock-aiml-oa-format) |
 | 2026-11-12 | [Unknown](../companies/unknown.md) | IIT Guwahati | [Saint Gobain OA pattern](../companies/unknown.md#q1-saint-gobain-oa-pattern) |
 | 2026-11-11 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal PA OA pattern](../companies/eternal-zomato.md#q1-eternal-pa-oa-pattern) |

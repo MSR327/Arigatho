@@ -1,9 +1,12 @@
 # HR & Behavioral
 
-40 questions from 20 companys, newest first. [← all topics](../README.md#topics)
+43 questions from 20 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-12 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Accenture situational questions](../companies/accenture.md#q3-accenture-situational-questions) |
+| 2026-11-12 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Accenture teamwork and leadership questions](../companies/accenture.md#q2-accenture-teamwork-and-leadership-questions) |
+| 2026-11-12 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Accenture HR and behavioural questions](../companies/accenture.md#q1-accenture-hr-and-behavioural-questions) |
 | 2026-11-11 | [Urban Company](../companies/urban-company.md) | IIT Kharagpur | [Urban Company OA pattern](../companies/urban-company.md#q1-urban-company-oa-pattern) |
 | 2026-11-10 | [Optum](../companies/optum.md) | NIT Warangal | [Optum HR and technical interview](../companies/optum.md#q1-optum-hr-and-technical-interview) |
 | 2026-11-10 | [Tredence](../companies/tredence.md) | VNIT Nagpur | [Tredence data engineering interview topics](../companies/tredence.md#q1-tredence-data-engineering-interview-topics) |

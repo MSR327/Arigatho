@@ -1,9 +1,10 @@
 # Greedy
 
-115 questions from 48 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+116 questions from 48 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [Cognizant](../companies/cognizant.md) | IIT Kharagpur/Kanpur | [Scheduling question](../companies/cognizant.md#q3-scheduling-question) | |
 | 2026-11-12 | [Unknown](../companies/unknown.md) | IIT BHU | [Players who can still win the trophy](../companies/unknown.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |
 | 2026-11-12 | [No Broker](../companies/no-broker.md) | IIT BHU | [Players who can still win the trophy](../companies/no-broker.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |
 | 2026-11-12 | [NoBroker](../companies/nobroker.md) | IIT BHU | [Gas station circular tour](../companies/nobroker.md#q1-gas-station-circular-tour) | [LC 134](https://leetcode.com/problems/gas-station/) Medium |

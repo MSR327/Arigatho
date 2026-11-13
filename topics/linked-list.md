@@ -1,9 +1,10 @@
 # Linked List
 
-23 questions from 16 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+24 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-12 | [Cognizant](../companies/cognizant.md) | IIT Kharagpur/Kanpur | [Implement LFU cache](../companies/cognizant.md#q2-implement-lfu-cache) | [LC 460](https://leetcode.com/problems/lfu-cache/) Hard |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [LRU Cache](../companies/iqvia.md#q8-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Detect Cycle in a Linked List](../companies/iqvia.md#q5-detect-cycle-in-a-linked-list) | [LC 141](https://leetcode.com/problems/linked-list-cycle/) Easy |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Merge Two Sorted Linked Lists](../companies/iqvia.md#q4-merge-two-sorted-linked-lists) | [LC 21](https://leetcode.com/problems/merge-two-sorted-lists/) Easy |

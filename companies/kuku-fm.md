@@ -1,13 +1,15 @@
 # Kuku FM
 
-**3 questions** · 3 drives · latest 12 Nov 2026 · [← all companies](../README.md#companies)
+**4 questions** · 4 drives · latest 13 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [ML/AI](../topics/ml-ai.md) 1  
-**Seen at:** IIT Gandhinagar, IIT Guwahati, IIT Hyderabad
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [ML/AI](../topics/ml-ai.md) 1  
+**Seen at:** IIT BHU, IIT Gandhinagar, IIT Guwahati, IIT Hyderabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · IIT BHU · FTE · AI Engineer](#2026-11-13--iit-bhu--fte--ai-engineer)
+  - [Kuku FM AI Engineer process](#q1-kuku-fm-ai-engineer-process)
 - [2026-11-12 · IIT Gandhinagar · FTE · AI Generalist · Other round](#2026-11-12--iit-gandhinagar--fte--ai-generalist--other-round)
   - [Kuku FM AI Generalist process](#q1-kuku-fm-ai-generalist-process)
 - [2026-11-07 · IIT Hyderabad · FTE · AI Engineer](#2026-11-07--iit-hyderabad--fte--ai-engineer)
@@ -18,6 +20,14 @@
 </details>
 
 ---
+
+## 2026-11-13 · IIT BHU · FTE · AI Engineer
+
+### Q1. Kuku FM AI Engineer process
+
+No OA at BHU. An assignment related to AI Agents is given instead, and shortlisting is based on the assignment and resume.
+
+<sub>Topics: OA Format · Source: [chat, 13 Nov](../archive/inter-nit/2026-11.jsonl#L1434) · Also asked at: IIT BHU (2026-11-13)</sub>
 
 ## 2026-11-12 · IIT Gandhinagar · FTE · AI Generalist · Other round
 

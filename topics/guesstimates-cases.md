@@ -1,10 +1,12 @@
 # Guesstimates & Cases
 
-24 questions from 8 companys, newest first. [← all topics](../README.md#topics)
+26 questions from 9 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Kharagpur | [Eternal APM process](../companies/eternal-zomato.md#q1-eternal-apm-process) |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal APM OA: marketing/sales MCQs on dataset](../companies/eternal-zomato.md#q1-eternal-apm-oa-marketingsales-mcqs-on-dataset) |
+| 2026-11-12 | [Paytm](../companies/paytm.md) | IIT Indore | [Case study round](../companies/paytm.md#q1-case-study-round) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Ben Carpet new technology investment case](../companies/accordion.md#q3-ben-carpet-new-technology-investment-case) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Estimate households interested in streaming service in two years](../companies/accordion.md#q2-estimate-households-interested-in-streaming-service-in-two-years) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Streaming service households: decrease in movies streamed](../companies/accordion.md#q1-streaming-service-households-decrease-in-movies-streamed) |

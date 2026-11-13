@@ -27,4 +27,4 @@ Three practical rounds plus a final round:
 
 Another student said they had heard a GitHub repo is given.
 
-<sub>Topics: OA Format, Digital Electronics · Source: [chat, 8 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L256)</sub>
+<sub>Topics: OA Format, Digital Electronics · Source: [chat, 8 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L256) · Also asked at: IIT BHU (2026-11-08)</sub>

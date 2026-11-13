@@ -1,9 +1,14 @@
 # SQL
 
-112 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+117 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SQL sort descending by first name](../companies/accenture.md#q6-sql-sort-descending-by-first-name) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [UPDATE place for worker ID 5](../companies/accenture.md#q4-update-place-for-worker-id-5) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [UPDATE with subqueries on EMPLOYEES](../companies/accenture.md#q3-update-with-subqueries-on-employees) | |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Customers with a single order over $45,000 (SQL)](../companies/accenture.md#q1-customers-with-a-single-order-over-45000-sql) | ≈ [LC 1084](https://leetcode.com/problems/sales-analysis-iii/) Easy |
+| 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SQL: employees whose manager is younger](../companies/accenture.md#q9-sql-employees-whose-manager-is-younger) | [LC 181](https://leetcode.com/problems/employees-earning-more-than-their-managers/) Easy |
 | 2026-11-12 | [Deloitte](../companies/deloitte.md) | Unknown | [Deloitte technical interview topics](../companies/deloitte.md#q1-deloitte-technical-interview-topics) | |
 | 2026-11-12 | [Kotak Mahindra Bank](../companies/kotak-mahindra-bank.md) | MNNIT Allahabad | [Kotak Data Scientist OA pattern](../companies/kotak-mahindra-bank.md#q2-kotak-data-scientist-oa-pattern) | |
 | 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Bloomberg interview rounds overview](../companies/bloomberg.md#q1-bloomberg-interview-rounds-overview) | |
