@@ -1,9 +1,22 @@
 # OA Format
 
-756 questions from 140 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+769 questions from 143 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Goldman Sachs](../companies/goldman-sachs.md) | IIT Kharagpur | [Goldman Sachs OA format: 2 DSA + 15 stats](../companies/goldman-sachs.md#q1-goldman-sachs-oa-format-2-dsa--15-stats) | |
+| 2026-11-13 | [Moneyview](../companies/moneyview.md) | NIT Surathkal | [Moneyview two-round Linux/networking assessment](../companies/moneyview.md#q1-moneyview-two-round-linuxnetworking-assessment) | |
+| 2026-11-13 | [MathWorks](../companies/mathworks.md) | IIT Kharagpur | [MathWorks Technical Writer OA pattern](../companies/mathworks.md#q1-mathworks-technical-writer-oa-pattern) | |
+| 2026-11-13 | [Media.net](../companies/media-net.md) | IIT BHU | [Round 1: Linux terminal tasks](../companies/media-net.md#q1-round-1-linux-terminal-tasks) | |
+| 2026-11-13 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Deloitte Analyst OA format](../companies/deloitte.md#q1-deloitte-analyst-oa-format) | |
+| 2026-11-13 | [Unknown](../companies/unknown.md) | IIT Kharagpur | [Airbus OA aptitude format](../companies/unknown.md#q1-airbus-oa-aptitude-format) | |
+| 2026-11-13 | [Avathon](../companies/avathon.md) | IIT Roorkee | [Avathon OA format](../companies/avathon.md#q1-avathon-oa-format) | |
+| 2026-11-13 | [Avathon](../companies/avathon.md) | IIT Kharagpur | [Avathon OA format](../companies/avathon.md#q1-avathon-oa-format-1) | |
+| 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [OA format and difficulty](../companies/urban-company.md#q1-oa-format-and-difficulty) | |
+| 2026-11-13 | [Cars24](../companies/cars24.md) | IIT Kharagpur/Kanpur | [Cars24 OA pattern](../companies/cars24.md#q1-cars24-oa-pattern) | |
+| 2026-11-13 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Futures First written test format](../companies/futures-first.md#q1-futures-first-written-test-format) | |
+| 2026-11-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal aptitude and maths section](../companies/eternal-zomato.md#q1-eternal-aptitude-and-maths-section) | |
+| 2026-11-13 | [No Broker](../companies/no-broker.md) | IIT Roorkee | [No Broker Product Analyst OA pattern](../companies/no-broker.md#q1-no-broker-product-analyst-oa-pattern) | |
 | 2026-11-13 | [Coupa Software](../companies/coupa-software.md) | IIT Bombay | [Coupa Software OA structure](../companies/coupa-software.md#q1-coupa-software-oa-structure) | |
 | 2026-11-13 | [Unknown](../companies/unknown.md) | NIT Patna | [FischerJordan selection process](../companies/unknown.md#q1-fischerjordan-selection-process) | |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | Unknown | [Accenture Data and AI OA pattern](../companies/accenture.md#q1-accenture-data-and-ai-oa-pattern) | |
@@ -91,7 +104,7 @@
 | 2026-11-10 | [Optum](../companies/optum.md) | NIT Warangal | [Optum AI-assisted coding OA](../companies/optum.md#q1-optum-ai-assisted-coding-oa) | |
 | 2026-11-10 | [PhyAgent](../companies/phyagent.md) | IIT Bombay | [PhyAgent OA format](../companies/phyagent.md#q1-phyagent-oa-format) | |
 | 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Delhi | [Microsoft OA difficulty](../companies/microsoft.md#q1-microsoft-oa-difficulty) | |
-| 2026-11-10 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 OA pattern](../companies/cars24.md#q1-cars24-oa-pattern) | |
+| 2026-11-10 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 OA pattern](../companies/cars24.md#q1-cars24-oa-pattern-1) | |
 | 2026-11-10 | [Samsung](../companies/samsung.md) | IIT Roorkee | [Samsung OA pattern](../companies/samsung.md#q1-samsung-oa-pattern) | |
 | 2026-11-10 | [Unknown](../companies/unknown.md) | NIT Kurukshetra | [ICICI Bank OA topics](../companies/unknown.md#q1-icici-bank-oa-topics) | |
 | 2026-11-10 | [Samsung](../companies/samsung.md) | Unknown | [Samsung Semiconductor OA pattern](../companies/samsung.md#q1-samsung-semiconductor-oa-pattern) | |

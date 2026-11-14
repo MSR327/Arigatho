@@ -1,13 +1,15 @@
 # Deloitte
 
-**72 questions** · 19 drives · latest 12 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**73 questions** · 20 drives · latest 13 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 21 · [OA Format](../topics/oa-format.md) 13 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [SQL](../topics/sql.md) 5 · +14 more  
-**Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, MNNIT Allahabad +3 more
+**Asks about:** [Aptitude](../topics/aptitude.md) 22 · [OA Format](../topics/oa-format.md) 14 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [SQL](../topics/sql.md) 5 · +14 more  
+**Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, IIT Ropar +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · IIT BHU · FTE · Analyst](#2026-11-13--iit-bhu--fte--analyst)
+  - [Deloitte Analyst OA format](#q1-deloitte-analyst-oa-format)
 - [2026-11-12 · Unknown · FTE · Interview](#2026-11-12--unknown--fte--interview)
   - [Deloitte technical interview topics](#q1-deloitte-technical-interview-topics)
 - [2026-11-10 · VNIT Nagpur · FTE · Other round](#2026-11-10--vnit-nagpur--fte--other-round)
@@ -103,6 +105,14 @@
 </details>
 
 ---
+
+## 2026-11-13 · IIT BHU · FTE · Analyst
+
+### Q1. Deloitte Analyst OA format
+
+30 MCQs on quantitative ability; some questions were on reasoning ability.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 13 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L132)</sub>
 
 ## 2026-11-12 · Unknown · FTE · Interview
 
@@ -535,7 +545,7 @@ D. Self-attention allows sequence positions to be processed with greater paralle
 
 Only those who cleared round 1 were allowed to give the vibe coding round; there were test cases that needed to be passed. Then a debugging round was also there.
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L80), [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L81) · Also asked at: IIT BHU (2026-11-02)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L80), [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L81) · Also asked at: IIT BHU (2026-11-02), IIT Ropar (2026-11-13)</sub>
 
 ## 2026-10-27 · IIT Kanpur · FTE · Analyst
 

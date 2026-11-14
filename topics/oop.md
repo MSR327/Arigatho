@@ -1,9 +1,10 @@
 # OOP
 
-37 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+38 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Media.net](../companies/media-net.md) | MNNIT Allahabad | [Media.net SDE interview questions](../companies/media-net.md#q1-medianet-sde-interview-questions) | [LC 1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) Medium |
 | 2026-11-12 | [Unknown](../companies/unknown.md) | IIT BHU | [Add a missing function to existing code (copyPlaylist)](../companies/unknown.md#q1-add-a-missing-function-to-existing-code-copyplaylist) | |
 | 2026-11-12 | [Deloitte](../companies/deloitte.md) | Unknown | [Deloitte technical interview topics](../companies/deloitte.md#q1-deloitte-technical-interview-topics) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT Delhi | [Design a University Ticketing System](../companies/capital-one.md#q2-design-a-university-ticketing-system) | |

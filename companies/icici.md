@@ -1,6 +1,6 @@
 # ICICI
 
-**46 questions** · 23 drives · latest 12 Nov 2026 · [← all companies](../README.md#companies)
+**46 questions** · 23 drives · latest 13 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 20 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 14 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [SQL](../topics/sql.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · +7 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad +7 more
@@ -193,7 +193,7 @@ Questions are on SQL + DBMS + OOPs + code snippets in Python. All MCQ. The quest
 
 The OA has 50 questions. A friend reported 20-25 of them were repeated from previous years' questions (PYQs) of other colleges.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L706)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L706) · Also asked at: IIT Roorkee (2026-11-13)</sub>
 
 ## 2026-11-06 · IIT Roorkee · FTE · Manager 1
 
@@ -217,7 +217,7 @@ English, reasoning, maths, operating systems and more, a bit of everything.
 
 Selection process: resume shortlisting, online assessment, personal interview. The OA consists of: OOPs concepts, Computer Networking, Operating System, Programming Language (C/C++/Python/Java), Machine Learning, Natural Language Processing, Quantitative Mathematics, Project Management, Software Engineering, DBMS.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Guwahati (2026-11-06), IIT Kanpur (2026-11-06), IIT BHU ×4 (last 2026-11-09), NIT Karnataka Surathkal (2026-11-09), IIT Kharagpur/Kanpur (2026-11-11)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Guwahati (2026-11-06), IIT Kanpur (2026-11-06), IIT BHU ×4 (last 2026-11-09), NIT Karnataka Surathkal (2026-11-09), IIT Kharagpur/Kanpur (2026-11-11), NIT Kurukshetra (2026-11-13)</sub>
 
 ### Q2. ICICI interview: Placement Coordinator role questions
 
@@ -230,7 +230,7 @@ Interview began with a self-introduction (about 1.5 minutes). The interviewer th
 
 This discussion lasted almost 10 minutes, then moved on to club experience (the message was cut off here).
 
-<sub>Topics: HR & Behavioral · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08), NIT Karnataka Surathkal (2026-11-09), NIT Kurukshetra (2026-11-10), IIT Kharagpur/Kanpur (2026-11-11)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L156) · Also asked at: IIT Kanpur (2026-11-06), IIT BHU ×3 (last 2026-11-08), NIT Karnataka Surathkal (2026-11-09), IIT Kharagpur/Kanpur (2026-11-11), NIT Kurukshetra ×2 (last 2026-11-13)</sub>
 
 ## 2026-11-04 · VNIT Nagpur · FTE · Manager-1
 

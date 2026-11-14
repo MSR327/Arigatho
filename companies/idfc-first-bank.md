@@ -74,7 +74,7 @@ Aptitude and English section:
 
 Then a behavioral section with 50 questions, agree/disagree type.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1392) · Also asked at: IIT Delhi (2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1392) · Also asked at: IIT Delhi (2026-11-12), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ## 2026-11-12 · IIIT Allahabad · FTE · Associate Data Scientist - AI Labs
 

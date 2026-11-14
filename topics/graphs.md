@@ -1,9 +1,11 @@
 # Graphs
 
-153 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+155 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Course Schedule II](../companies/urban-company.md#q5-course-schedule-ii) | [LC 210](https://leetcode.com/problems/course-schedule-ii/) Medium |
+| 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Rotting Oranges](../companies/urban-company.md#q4-rotting-oranges) | [LC 994](https://leetcode.com/problems/rotting-oranges/) Medium |
 | 2026-11-13 | [KLA](../companies/kla.md) | MNNIT Allahabad | [KLA DSA questions](../companies/kla.md#q1-kla-dsa-questions) | |
 | 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Number of Provinces](../companies/phyagent.md#q1-number-of-provinces) | [LC 547](https://leetcode.com/problems/number-of-provinces/) Medium |
 | 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Madras | [Safe state graph problem](../companies/phyagent.md#q1-safe-state-graph-problem) | [LC 802](https://leetcode.com/problems/find-eventual-safe-states/) Medium |

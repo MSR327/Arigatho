@@ -105,7 +105,7 @@ The full input/output format and constraints were not shared.
 
 Edge weight update queries in a tree. The poster gave only the name; the statement is missing.
 
-<sub>Topics: Trees · Source: [chat, 7 Nov](../archive/juspay-oa/2026-11.jsonl#L14), [chat, 8 Nov](../archive/juspay-oa/2026-11.jsonl#L17), [chat, 8 Nov](../archive/juspay-oa/2026-11.jsonl#L18)</sub>
+<sub>Topics: Trees · Source: [chat, 7 Nov](../archive/juspay-oa/2026-11.jsonl#L14), [chat, 8 Nov](../archive/juspay-oa/2026-11.jsonl#L17), [chat, 8 Nov](../archive/juspay-oa/2026-11.jsonl#L18) · Also asked at: IIT Bombay (2026-11-13)</sub>
 
 ## 2026-11-06 · IIT Bombay · FTE
 
@@ -113,7 +113,7 @@ Edge weight update queries in a tree. The poster gave only the name; the stateme
 
 Juspay round 3 (2-hour window test) included Part A: "Ticketing System", a heavy implementation-type problem. The problem was sent by mail; the full statement was not included in the message.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L3), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L4), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L6) · Also asked at: IIT Bombay ×2 (last 2026-11-11), IIT Guwahati (2026-11-13)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L3), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L4), [chat, 6 Nov](../archive/juspay-oa/2026-11.jsonl#L6) · Also asked at: IIT Bombay ×2 (last 2026-11-11), IIT Guwahati ×2 (last 2026-11-13)</sub>
 
 ## 2026-10-27 · IIT Delhi · FTE
 
@@ -150,7 +150,7 @@ Shortlisting for the next round needed about 1.5 questions solved. Exact stateme
 
 Past Juspay OA question recommended for practice. The poster says Juspay OA questions repeat every year, so 1 of the 3 questions will be a repeat. Only the title "Corporate Restructuring" was shared, with no statement.
 
-<sub>Topics: Other · Source: [chat, 24 Oct](../archive/inter-nit/2026-10.jsonl#L2244) · Also asked at: IIT BHU ×3 (last 2026-10-23), IIT Bombay (2026-11-08)</sub>
+<sub>Topics: Other · Source: [chat, 24 Oct](../archive/inter-nit/2026-10.jsonl#L2244) · Also asked at: IIT BHU ×3 (last 2026-10-23), IIT Bombay ×2 (last 2026-11-13)</sub>
 
 ### Q2. Power Grid Management
 
@@ -204,7 +204,7 @@ Constraint: string length up to 1e5.
 
 No examples were given.
 
-<sub>Topics: Strings, Greedy · Source: [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L13) · Also asked at: IIT Bombay (2026-11-08)</sub>
+<sub>Topics: Strings, Greedy · Source: [chat, 23 Oct](../archive/juspay-oa/2026-10.jsonl#L13) · Also asked at: IIT Bombay ×2 (last 2026-11-13)</sub>
 
 ## 2026-10-18 · IIT BHU · FTE
 
@@ -250,7 +250,7 @@ UPDATE: An UPDATE provid... [message truncated here]
 
 (Pattern: 3 hours, one question.)
 
-<sub>Topics: Trees, Hashing · Source: [chat, 18 Oct](../archive/inter-nit/2026-10.jsonl#L1539), [chat, 18 Oct](../archive/inter-iit/2026-10.jsonl#L560) · Also asked at: MNNIT Allahabad ×3 (last 2026-10-18), IIIT Allahabad ×2 (last 2026-10-23), IIT BHU ×2 (last 2026-11-10), IIT Bombay ×8 (last 2026-11-11)</sub>
+<sub>Topics: Trees, Hashing · Source: [chat, 18 Oct](../archive/inter-nit/2026-10.jsonl#L1539), [chat, 18 Oct](../archive/inter-iit/2026-10.jsonl#L560) · Also asked at: MNNIT Allahabad ×3 (last 2026-10-18), IIIT Allahabad ×2 (last 2026-10-23), IIT Bombay ×8 (last 2026-11-11), IIT BHU ×3 (last 2026-11-13)</sub>
 
 ## 2026-10-17 · MNNIT Allahabad · FTE
 

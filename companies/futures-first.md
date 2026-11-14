@@ -1,13 +1,15 @@
 # Futures First
 
-**37 questions** · 8 drives · latest 11 Nov 2026 · [← all companies](../README.md#companies)
+**38 questions** · 9 drives · latest 13 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 35 · [Math](../topics/math.md) 7 · [Puzzles](../topics/puzzles.md) 4 · [OA Format](../topics/oa-format.md) 3  
+**Asks about:** [Aptitude](../topics/aptitude.md) 36 · [Math](../topics/math.md) 7 · [OA Format](../topics/oa-format.md) 4 · [Puzzles](../topics/puzzles.md) 4  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Madras, IIT Mandi, IIT Roorkee, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · IIT Delhi · FTE](#2026-11-13--iit-delhi--fte)
+  - [Futures First written test format](#q1-futures-first-written-test-format)
 - [2026-10-29 · IIT BHU · FTE · International Markets Trainee](#2026-10-29--iit-bhu--fte--international-markets-trainee)
   - [Futures First OA experience](#q1-futures-first-oa-experience)
 - [2026-10-19 · MNNIT Allahabad · FTE](#2026-10-19--mnnit-allahabad--fte)
@@ -57,6 +59,14 @@
 </details>
 
 ---
+
+## 2026-11-13 · IIT Delhi · FTE
+
+### Q1. Futures First written test format
+
+The written test was aptitude. The two roles had separate tests. One role had a round 2 within the same test, based on round 1. The other role had a game round as round 2, which had not happened yet.
+
+<sub>Topics: Aptitude, OA Format · Source: [chat, 13 Nov](../archive/futures-first-oa/2026-11.jsonl#L25)</sub>
 
 ## 2026-10-29 · IIT BHU · FTE · International Markets Trainee
 

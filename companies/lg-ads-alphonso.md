@@ -1,6 +1,6 @@
 # LG Ads (Alphonso)
 
-**7 questions** · 2 drives · latest 22 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**7 questions** · 2 drives · latest 13 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 4 · [Math](../topics/math.md) 3 · [Sliding Window](../topics/sliding-window.md) 2 · [Hashing](../topics/hashing.md) 2 · [Heaps](../topics/heaps.md) 1 · [OA Format](../topics/oa-format.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1  
 **Seen at:** IIT BHU, IIT Madras
@@ -28,7 +28,7 @@
 
 12 MCQs, simple: SQL, OOPs, basic system design. Followed by 3 coding questions. Platform: HackerRank.
 
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-ropar-placements/2026-10.jsonl#L30)</sub>
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-ropar-placements/2026-10.jsonl#L30) · Also asked at: IIT BHU (2026-11-13)</sub>
 
 ### Q2. Assignments with no choice repeated more than k times in a row
 

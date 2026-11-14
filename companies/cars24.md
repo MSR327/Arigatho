@@ -1,17 +1,21 @@
 # Cars24
 
-**26 questions** · 5 drives · latest 10 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**28 questions** · 7 drives · latest 13 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Graphs](../topics/graphs.md) 5 · [Arrays](../topics/arrays.md) 4 · [OA Format](../topics/oa-format.md) 3 · [Sorting](../topics/sorting.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · [Trees](../topics/trees.md) 3 · [Hashing](../topics/hashing.md) 3 · +9 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Hyderabad, IIT Roorkee
+**Asks about:** [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [OA Format](../topics/oa-format.md) 4 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · [Trees](../topics/trees.md) 3 · +9 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Roorkee, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · VNIT Nagpur · FTE · AI/DS](#2026-11-13--vnit-nagpur--fte--aids)
+  - [Cars24 AI/DS OA DSA questions](#q1-cars24-aids-oa-dsa-questions)
+- [2026-11-13 · IIT Kharagpur/Kanpur · FTE](#2026-11-13--iit-kharagpurkanpur--fte)
+  - [Cars24 OA pattern](#q1-cars24-oa-pattern)
 - [2026-11-10 · Unknown · FTE](#2026-11-10--unknown--fte)
   - [Cars24 OA structure](#q1-cars24-oa-structure)
 - [2026-11-10 · IIT Roorkee · FTE](#2026-11-10--iit-roorkee--fte)
-  - [Cars24 OA pattern](#q1-cars24-oa-pattern)
+  - [Cars24 OA pattern](#q1-cars24-oa-pattern-1)
 - [2026-11-09 · Unknown · FTE](#2026-11-09--unknown--fte)
   - [Minimum Cost Fleet Relocation](#q1-minimum-cost-fleet-relocation)
   - [Merge Intervals](#q2-merge-intervals)
@@ -43,6 +47,22 @@
 </details>
 
 ---
+
+## 2026-11-13 · VNIT Nagpur · FTE · AI/DS
+
+### Q1. Cars24 AI/DS OA DSA questions
+
+Reported second-hand: 2 medium DSA questions, one on arrays and one on DP. Statements not given.
+
+<sub>Topics: Arrays, DP · Source: [chat, 13 Nov](../archive/inter-nit/2026-11.jsonl#L1524)</sub>
+
+## 2026-11-13 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Cars24 OA pattern
+
+3 coding questions, medium difficulty, 90 minutes.
+
+<sub>Topics: OA Format · Source: [chat, 13 Nov](../archive/inter-iit/2026-11.jsonl#L738) · Also asked at: IIT BHU (2026-11-13), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ## 2026-11-10 · Unknown · FTE
 
@@ -110,7 +130,7 @@ K-th Smallest Element (heap / BST). Only the title was shared.
 
 Poster did not have the actual questions, but says the DSA questions are usually on graphs and DP, at LeetCode-hard level.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L652) · Also asked at: IIT BHU ×2 (last 2026-11-06)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L652) · Also asked at: IIT BHU ×2 (last 2026-11-06), IIT Roorkee (2026-11-13)</sub>
 
 ## 2026-11-06 · IIT BHU · FTE
 
@@ -118,94 +138,94 @@ Poster did not have the actual questions, but says the DSA questions are usually
 
 Minimum Number of Moves to Seat Everyone. (Only the title was shared.)
 
-<sub>Topics: Greedy, Sorting · Similar: [LeetCode 2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU ×3 (last 2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Greedy, Sorting · Similar: [LeetCode 2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU ×3 (last 2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13), IIT Roorkee (2026-11-13)</sub>
 
 ### Q2. Multi-city fleet relocation
 
 Multi-City Fleet Relocation. (Only the title was shared; statement missing.)
 
-<sub>Topics: Other · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Other · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q3. Intercom bypass
 
 Intercom Bypass. (Only the title was shared; statement missing.)
 
-<sub>Topics: Other · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Other · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q4. Merge two sorted linked lists
 
 Merge Two Sorted Linked Lists. (Only the title was shared.)
 
-<sub>Topics: Linked List · Similar: [LeetCode 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Linked List · Similar: [LeetCode 21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q5. Detect cycle in a linked list
 
 Detect Cycle in a Linked List. (Only the title was shared.)
 
-<sub>Topics: Linked List, Two Pointers · Similar: [LeetCode 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Linked List, Two Pointers · Similar: [LeetCode 141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q6. Bottom view of binary tree
 
 Bottom View of Binary Tree. (Only the title was shared.)
 
-<sub>Topics: Trees · Same problem: [GeeksforGeeks: Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1), horizontal distance level-order traversal, last node per column · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Trees · Same problem: [GeeksforGeeks: Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1), horizontal distance level-order traversal, last node per column · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q7. Distribute coins in binary tree
 
 Distribute Coins in Binary Tree. (Only the title was shared.)
 
-<sub>Topics: Trees · Similar: [LeetCode 979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Trees · Similar: [LeetCode 979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q8. LRU cache
 
 LRU Cache. (Only the title was shared.)
 
-<sub>Topics: Hashing, Linked List · Similar: [LeetCode 146. LRU Cache](https://leetcode.com/problems/lru-cache/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), Unknown (2026-11-09)</sub>
+<sub>Topics: Hashing, Linked List · Similar: [LeetCode 146. LRU Cache](https://leetcode.com/problems/lru-cache/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), Unknown (2026-11-09), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q9. Longest subarray with sum at most K
 
 Longest Subarray with Sum at Most K. (Only the title was shared.)
 
-<sub>Topics: Sliding Window, Arrays · Same idea: [GeeksforGeeks: Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1), sliding window/prefix sums for longest subarray with sum bound · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU ×3 (last 2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Sliding Window, Arrays · Same idea: [GeeksforGeeks: Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1), sliding window/prefix sums for longest subarray with sum bound · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU ×3 (last 2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13), IIT Roorkee (2026-11-13)</sub>
 
 ### Q10. Sliding window maximum
 
 Sliding Window Maximum. (Only the title was shared.)
 
-<sub>Topics: Sliding Window, Stack/Queue · Similar: [LeetCode 239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU ×3 (last 2026-11-06), IIT Delhi (2026-11-07), Unknown (2026-11-09)</sub>
+<sub>Topics: Sliding Window, Stack/Queue · Similar: [LeetCode 239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU ×3 (last 2026-11-06), IIT Delhi (2026-11-07), Unknown (2026-11-09), IIT Kharagpur/Kanpur (2026-11-13), IIT Roorkee (2026-11-13)</sub>
 
 ### Q11. Sort 0, 1, 2
 
 Sort 0, 1, 2. (Only the title was shared.)
 
-<sub>Topics: Arrays, Sorting · Similar: [LeetCode 75. Sort Colors](https://leetcode.com/problems/sort-colors/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Arrays, Sorting · Similar: [LeetCode 75. Sort Colors](https://leetcode.com/problems/sort-colors/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q12. Interleaving string
 
 Interleaving String (LeetCode 97). (Only the title was shared.)
 
-<sub>Topics: DP, Strings · Similar: [LeetCode 97. Interleaving String](https://leetcode.com/problems/interleaving-string/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), Unknown (2026-11-09)</sub>
+<sub>Topics: DP, Strings · Similar: [LeetCode 97. Interleaving String](https://leetcode.com/problems/interleaving-string/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), Unknown (2026-11-09), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q13. Number of islands
 
 Number of Islands. (Only the title was shared.)
 
-<sub>Topics: Graphs · Similar: [LeetCode 200. Number of Islands](https://leetcode.com/problems/number-of-islands/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Graphs · Similar: [LeetCode 200. Number of Islands](https://leetcode.com/problems/number-of-islands/) (Medium) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q14. Topological sorting
 
 Topological Sorting. (Only the title was shared.)
 
-<sub>Topics: Graphs · Same problem: [GeeksforGeeks: Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1), topological ordering of a DAG · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Graphs · Same problem: [GeeksforGeeks: Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1), topological ordering of a DAG · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q15. Find the town judge
 
 Find the Town Judge. (Only the title was shared.)
 
-<sub>Topics: Graphs, Arrays · Similar: [LeetCode 997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Graphs, Arrays · Similar: [LeetCode 997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13)</sub>
 
 ### Q16. Refurbishment hub inspection pipeline
 
 Refurbishment Hub Inspection Pipeline. (Only the title was shared; statement missing.)
 
-<sub>Topics: Other · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: Other · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU (2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13)</sub>

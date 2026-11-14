@@ -1,13 +1,15 @@
 # MathWorks
 
-**14 questions** · 10 drives · latest 10 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 11 drives · latest 13 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Greedy](../topics/greedy.md) 5 · [Arrays](../topics/arrays.md) 4 · [Strings](../topics/strings.md) 3 · [Hashing](../topics/hashing.md) 2 · [DP](../topics/dp.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 1 · +6 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Greedy](../topics/greedy.md) 5 · [Arrays](../topics/arrays.md) 4 · [Strings](../topics/strings.md) 3 · [Hashing](../topics/hashing.md) 2 · [DP](../topics/dp.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 1 · +6 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · IIT Kharagpur · FTE · Technical Writer](#2026-11-13--iit-kharagpur--fte--technical-writer)
+  - [MathWorks Technical Writer OA pattern](#q1-mathworks-technical-writer-oa-pattern)
 - [2026-11-10 · IIT Guwahati · FTE · Interview](#2026-11-10--iit-guwahati--fte--interview)
   - [MathWorks interview focus: CP-style problems](#q1-mathworks-interview-focus-cp-style-problems)
 - [2026-11-07 · IIT BHU · FTE · Engineering track](#2026-11-07--iit-bhu--fte--engineering-track)
@@ -36,6 +38,14 @@
 </details>
 
 ---
+
+## 2026-11-13 · IIT Kharagpur · FTE · Technical Writer
+
+### Q1. MathWorks Technical Writer OA pattern
+
+3 subjective questions and 23 MCQs on C++/MATLAB.
+
+<sub>Topics: OA Format · Source: [chat, 13 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L332)</sub>
 
 ## 2026-11-10 · IIT Guwahati · FTE · Interview
 

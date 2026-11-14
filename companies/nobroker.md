@@ -1,9 +1,9 @@
 # NoBroker
 
-**5 questions** · 5 drives · latest 12 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 5 drives · latest 14 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 3 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [Sorting](../topics/sorting.md) 1  
-**Seen at:** IIT BHU, IIT Guwahati, IIT Madras, IIT Roorkee
+**Seen at:** IIT BHU, IIT Guwahati, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -48,7 +48,7 @@ Player 1 cannot win even if he wins the race: max 12+5 = 17, but the highest sco
 - 15 MCQs on maths and SQL (20 min)
 - 15 min guesstimate/case study
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/nobroker-oa/2026-11.jsonl#L44) · Also asked at: Unknown ×2 (last 2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/nobroker-oa/2026-11.jsonl#L44) · Also asked at: Unknown ×2 (last 2026-11-12), IIT Kharagpur/Kanpur ×2 (last 2026-11-13), IIT BHU (2026-11-14)</sub>
 
 ## 2026-11-12 · IIT BHU · FTE · SDE
 

@@ -1,15 +1,20 @@
 # Unknown
 
-**50 questions** · 34 drives · latest 13 Nov 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**53 questions** · 36 drives · latest 13 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 23 · [Arrays](../topics/arrays.md) 6 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [ML/AI](../topics/ml-ai.md) 3 · +16 more  
-**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Madras +6 more
+**Asks about:** [OA Format](../topics/oa-format.md) 24 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [ML/AI](../topics/ml-ai.md) 3 · +16 more  
+**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur +7 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-11-13 · NIT Patna · FTE · Interview](#2026-11-13--nit-patna--fte--interview)
   - [FischerJordan selection process](#q1-fischerjordan-selection-process)
+- [2026-11-13 · NIT Kurukshetra · FTE](#2026-11-13--nit-kurukshetra--fte)
+  - [Medium DSA question on prefix array](#q1-medium-dsa-question-on-prefix-array)
+  - [Fix add-to-cart code repo and rate limiter](#q2-fix-add-to-cart-code-repo-and-rate-limiter)
+- [2026-11-13 · IIT Kharagpur · FTE](#2026-11-13--iit-kharagpur--fte)
+  - [Airbus OA aptitude format](#q1-airbus-oa-aptitude-format)
 - [2026-11-12 · NIT Patna · FTE · Probationary Engineer (CSE)](#2026-11-12--nit-patna--fte--probationary-engineer-cse)
   - [BEL CSE OA pattern](#q1-bel-cse-oa-pattern)
 - [2026-11-12 · IIT Guwahati · FTE · Research Engineer 1](#2026-11-12--iit-guwahati--fte--research-engineer-1)
@@ -111,6 +116,28 @@ FischerJordan generally does not conduct a traditional OA. Reported process:
 Process may vary by campus and role.
 
 <sub>Topics: OA Format · Source: [chat, 13 Nov](../archive/inter-nit/2026-11.jsonl#L1444)</sub>
+
+## 2026-11-13 · NIT Kurukshetra · FTE
+
+### Q1. Medium DSA question on prefix array
+
+One medium-level DSA question based on a prefix array. Exact statement not given.
+
+<sub>Topics: Arrays · Same idea: [LeetCode 560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (Medium), prefix sums with hashmap counting subarrays · Source: [chat, 13 Nov](../archive/inter-nit/2026-11.jsonl#L1498)</sub>
+
+### Q2. Fix add-to-cart code repo and rate limiter
+
+A code-repository task: fix the addToCart functionality, and also implement/fix a rate limiter. Details not given.
+
+<sub>Topics: Software Engineering · Source: [chat, 13 Nov](../archive/inter-nit/2026-11.jsonl#L1498)</sub>
+
+## 2026-11-13 · IIT Kharagpur · FTE
+
+### Q1. Airbus OA aptitude format
+
+Airbus OA has simple aptitude questions, e.g. percentage and graph interpretation.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 13 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L330)</sub>
 
 ## 2026-11-12 · NIT Patna · FTE · Probationary Engineer (CSE)
 
@@ -266,7 +293,7 @@ Appian OA: Just a standard Bellman-Ford question. Details were not shared.
 
 Sirion Labs OA pattern: 30 to 40 aptitude questions and one DSA question.
 
-<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L815)</sub>
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L815) · Also asked at: VNIT Nagpur (2026-11-13)</sub>
 
 ## 2026-11-05 · IIT Guwahati · FTE
 

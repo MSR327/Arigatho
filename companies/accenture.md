@@ -1162,7 +1162,7 @@ The OA generally has five sections:
 
 The poster said the technical section should be given the highest priority.
 
-<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L322) · Also asked at: MNNIT Allahabad (2026-11-11), IIT BHU (2026-11-11), NIT Kurukshetra (2026-11-11)</sub>
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L322) · Also asked at: MNNIT Allahabad (2026-11-11), IIT BHU (2026-11-11), NIT Kurukshetra (2026-11-11), IIT Kharagpur/Kanpur ×2 (last 2026-11-13), IIT Roorkee (2026-11-13)</sub>
 
 ## 2026-11-09 · NIT Trichy · FTE · Elite Technology Engineer · Interview
 
@@ -1761,7 +1761,7 @@ Held the day after the technical OA for shortlisted candidates.
 
 The communication round has 2 sections, verbal and written. In the verbal section you read some sentences carefully from the screen, listen to some sentences and repeat them aloud properly, and speak on a given topic for 1-2 minutes.
 
-<sub>Topics: Verbal, OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L77) · Also asked at: IIT BHU (2026-10-31)</sub>
+<sub>Topics: Verbal, OA Format · Source: [chat, 26 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L77) · Also asked at: IIT BHU (2026-10-31), IIT Indore (2026-11-13)</sub>
 
 ## 2026-10-26 · IIT BHU · FTE · Elite Technology Engineer · Other round
 
@@ -4037,7 +4037,7 @@ Existing HTML, CSS and JavaScript files were provided, and the task was to make 
 
 **Written communication (for candidates who cleared verbal):** one email-writing task based on the situation or prompt provided.
 
-<sub>Topics: Verbal · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad (2026-10-09), IIT Roorkee (2026-10-21)</sub>
+<sub>Topics: Verbal · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad (2026-10-09), IIT Roorkee ×2 (last 2026-11-13)</sub>
 
 ## 2026-09-25 · Unknown · FTE
 

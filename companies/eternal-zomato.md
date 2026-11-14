@@ -1,13 +1,15 @@
 # Eternal (Zomato)
 
-**188 questions** · 93 drives · latest 12 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**189 questions** · 94 drives · latest 13 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 67 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 15 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 68 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 16 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
 **Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +14 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · IIT Guwahati · FTE](#2026-11-13--iit-guwahati--fte)
+  - [Eternal aptitude and maths section](#q1-eternal-aptitude-and-maths-section)
 - [2026-11-12 · IIT Kharagpur/Kanpur · FTE · APM](#2026-11-12--iit-kharagpurkanpur--fte--apm)
   - [Zomato APM OA MCQ contents](#q1-zomato-apm-oa-mcq-contents)
 - [2026-11-12 · IIT Kharagpur · FTE · Associate Program Manager · Interview](#2026-11-12--iit-kharagpur--fte--associate-program-manager--interview)
@@ -294,6 +296,14 @@
 
 ---
 
+## 2026-11-13 · IIT Guwahati · FTE
+
+### Q1. Eternal aptitude and maths section
+
+15 questions in 25 minutes, basic aptitude and maths. There were no questions based on the Excel sheet.
+
+<sub>Topics: Aptitude, OA Format · Source: [chat, 13 Nov](../archive/eternal-oa/2026-11.jsonl#L138), [chat, 13 Nov](../archive/eternal-oa/2026-11.jsonl#L139)</sub>
+
 ## 2026-11-12 · IIT Kharagpur/Kanpur · FTE · APM
 
 ### Q1. Zomato APM OA MCQ contents
@@ -308,7 +318,7 @@ APM role OA MCQs: aptitude + SQL and Python questions, mostly set theory questio
 
 Mostly resume-based shortlist, then aptitude or GD based round, then a case-based round. Reportedly Excel files with questions related to them were asked (second-hand).
 
-<sub>Topics: Guesstimates & Cases, Aptitude · Source: [chat, 12 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L304) · Also asked at: IIT BHU (2026-11-12)</sub>
+<sub>Topics: Guesstimates & Cases, Aptitude · Source: [chat, 12 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L304) · Also asked at: IIT BHU ×2 (last 2026-11-13)</sub>
 
 ## 2026-11-12 · IIT Indore · FTE · Assistant Program Manager
 
@@ -316,7 +326,7 @@ Mostly resume-based shortlist, then aptitude or GD based round, then a case-base
 
 Eternal APM OA is MCQ-based: 30 questions in 1 hour. Excel files (e.g. a WestEnd Theatre assignment dataset) are given and some questions are based on them; you can compute answers in Excel. Remaining questions are sales/marketing reasoning, e.g. "sales decreased from 2022 to 2021, what might be the reason?", where you pick the obvious option. Basic marketing knowledge is enough. Exact questions were not shared.
 
-<sub>Topics: OA Format, Guesstimates & Cases · Source: [Dataset - WestEnd Theatre assignment (1).xlsx](../archive/files/26916-Dataset_-_WestEnd_Theatre_assignment_1_.xlsx), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L129), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L130), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L131), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L132), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L133) · Also asked at: IIT Indore ×4 (last 2026-11-12)</sub>
+<sub>Topics: OA Format, Guesstimates & Cases · Source: [Dataset - WestEnd Theatre assignment (1).xlsx](../archive/files/26916-Dataset_-_WestEnd_Theatre_assignment_1_.xlsx), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L129), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L130), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L131), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L132), [chat, 12 Nov](../archive/eternal-oa/2026-11.jsonl#L133) · Also asked at: IIT Indore ×5 (last 2026-11-13)</sub>
 
 ## 2026-11-12 · IIT Indore · FTE · APM
 
@@ -985,7 +995,7 @@ The poster noted this question was asked at a different college. Constraints and
 
 SDE OA pattern: 3 DSA questions and 13 MCQs. The MCQs covered OS, networks and system design. The poster did not remember the exact questions.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: NIT Kurukshetra (2026-10-06), IIT Hyderabad (2026-10-16), IIT Indore (2026-10-30), IIT Delhi (2026-11-09)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L166), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L167), [chat, 20 Oct](../archive/eternal-oa/2026-10.jsonl#L170) · Also asked at: NIT Kurukshetra (2026-10-06), IIT Hyderabad (2026-10-16), IIT Indore (2026-10-30), IIT Delhi (2026-11-09), IIT Guwahati (2026-11-13), IIT Roorkee (2026-11-13)</sub>
 
 ## 2026-10-20 · IIT Guwahati · FTE
 

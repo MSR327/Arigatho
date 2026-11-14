@@ -1,9 +1,10 @@
 # Strings
 
-123 questions from 47 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+124 questions from 48 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Longest Common Subsequence](../companies/urban-company.md#q2-longest-common-subsequence) | [LC 1143](https://leetcode.com/problems/longest-common-subsequence/) Medium |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Reverse a string in Python](../companies/accenture.md#q7-reverse-a-string-in-python) | [LC 344](https://leetcode.com/problems/reverse-string/) Easy |
 | 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Maximum Number of Strings](../companies/phyagent.md#q4-maximum-number-of-strings) | [LC 474](https://leetcode.com/problems/ones-and-zeroes/) Medium |
 | 2026-11-11 | [Microsoft](../companies/microsoft.md) | IIT Bombay | [Longest palindromic subsequence](../companies/microsoft.md#q2-longest-palindromic-subsequence) | [LC 516](https://leetcode.com/problems/longest-palindromic-subsequence/) Medium |

@@ -1,9 +1,12 @@
 # DP
 
-155 questions from 54 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+158 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Cars24](../companies/cars24.md) | VNIT Nagpur | [Cars24 AI/DS OA DSA questions](../companies/cars24.md#q1-cars24-aids-oa-dsa-questions) | |
+| 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Count palindromic paths in a binary matrix](../companies/urban-company.md#q6-count-palindromic-paths-in-a-binary-matrix) | ≈ [LC 62](https://leetcode.com/problems/unique-paths/) Medium |
+| 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Longest Common Subsequence](../companies/urban-company.md#q2-longest-common-subsequence) | [LC 1143](https://leetcode.com/problems/longest-common-subsequence/) Medium |
 | 2026-11-12 | [Cognizant](../companies/cognizant.md) | IIT Kharagpur/Kanpur | [Maximum gain traversing array with prime-ending-3 jumps](../companies/cognizant.md#q1-maximum-gain-traversing-array-with-prime-ending-3-jumps) | ≈ [LC 70](https://leetcode.com/problems/climbing-stairs/) Easy |
 | 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Maximum Number of Strings](../companies/phyagent.md#q4-maximum-number-of-strings) | [LC 474](https://leetcode.com/problems/ones-and-zeroes/) Medium |
 | 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Number of Dice Rolls With Target Sum](../companies/phyagent.md#q2-number-of-dice-rolls-with-target-sum) | [LC 1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) Medium |

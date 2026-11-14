@@ -1,19 +1,29 @@
 # No Broker
 
-**1 question** · 1 drive · latest 12 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 13 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 1 · [Greedy](../topics/greedy.md) 1  
-**Seen at:** IIT BHU
+**Asks about:** [Arrays](../topics/arrays.md) 1 · [Greedy](../topics/greedy.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Aptitude](../topics/aptitude.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1  
+**Seen at:** IIT BHU, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-13 · IIT Roorkee · FTE · Product Analyst](#2026-11-13--iit-roorkee--fte--product-analyst)
+  - [No Broker Product Analyst OA pattern](#q1-no-broker-product-analyst-oa-pattern)
 - [2026-11-12 · IIT BHU · FTE · SDE](#2026-11-12--iit-bhu--fte--sde)
   - [Players who can still win the trophy](#q1-players-who-can-still-win-the-trophy)
 
 </details>
 
 ---
+
+## 2026-11-13 · IIT Roorkee · FTE · Product Analyst
+
+### Q1. No Broker Product Analyst OA pattern
+
+35 quant questions, then 15 technical questions, then a 15-mark case study including a guesstimate and product design.
+
+<sub>Topics: OA Format, Aptitude, Guesstimates & Cases · Source: [chat, 13 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L197)</sub>
 
 ## 2026-11-12 · IIT BHU · FTE · SDE
 

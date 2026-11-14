@@ -1,9 +1,14 @@
 # Aptitude
 
-253 questions from 33 companys, newest first. [← all topics](../README.md#topics)
+258 questions from 34 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-13 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Deloitte Analyst OA format](../companies/deloitte.md#q1-deloitte-analyst-oa-format) |
+| 2026-11-13 | [Unknown](../companies/unknown.md) | IIT Kharagpur | [Airbus OA aptitude format](../companies/unknown.md#q1-airbus-oa-aptitude-format) |
+| 2026-11-13 | [Futures First](../companies/futures-first.md) | IIT Delhi | [Futures First written test format](../companies/futures-first.md#q1-futures-first-written-test-format) |
+| 2026-11-13 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal aptitude and maths section](../companies/eternal-zomato.md#q1-eternal-aptitude-and-maths-section) |
+| 2026-11-13 | [No Broker](../companies/no-broker.md) | IIT Roorkee | [No Broker Product Analyst OA pattern](../companies/no-broker.md#q1-no-broker-product-analyst-oa-pattern) |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Kharagpur | [Eternal APM process](../companies/eternal-zomato.md#q1-eternal-apm-process) |
 | 2026-11-12 | [Thorogood](../companies/thorogood.md) | MNNIT Allahabad | [OA format: all MCQ](../companies/thorogood.md#q1-oa-format-all-mcq) |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) |

@@ -1,9 +1,12 @@
 # Software Engineering
 
-64 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+67 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Media.net](../companies/media-net.md) | IIT BHU | [Round 2: Server and networking implementation tasks](../companies/media-net.md#q2-round-2-server-and-networking-implementation-tasks) | |
+| 2026-11-13 | [Media.net](../companies/media-net.md) | IIT BHU | [Round 1: Linux terminal tasks](../companies/media-net.md#q1-round-1-linux-terminal-tasks) | |
+| 2026-11-13 | [Unknown](../companies/unknown.md) | NIT Kurukshetra | [Fix add-to-cart code repo and rate limiter](../companies/unknown.md#q2-fix-add-to-cart-code-repo-and-rate-limiter) | |
 | 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Kanban bottleneck prevention](../companies/icici.md#q3-kanban-bottleneck-prevention) | |
 | 2026-11-10 | [Optum](../companies/optum.md) | NIT Warangal | [Optum HR and technical interview](../companies/optum.md#q1-optum-hr-and-technical-interview) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT Delhi | [Design a University Ticketing System](../companies/capital-one.md#q2-design-a-university-ticketing-system) | |

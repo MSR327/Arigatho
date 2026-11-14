@@ -1,9 +1,10 @@
 # Guesstimates & Cases
 
-26 questions from 9 companys, newest first. [← all topics](../README.md#topics)
+27 questions from 10 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-13 | [No Broker](../companies/no-broker.md) | IIT Roorkee | [No Broker Product Analyst OA pattern](../companies/no-broker.md#q1-no-broker-product-analyst-oa-pattern) |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Kharagpur | [Eternal APM process](../companies/eternal-zomato.md#q1-eternal-apm-process) |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal APM OA: marketing/sales MCQs on dataset](../companies/eternal-zomato.md#q1-eternal-apm-oa-marketingsales-mcqs-on-dataset) |
 | 2026-11-12 | [Paytm](../companies/paytm.md) | IIT Indore | [Case study round](../companies/paytm.md#q1-case-study-round) |

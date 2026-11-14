@@ -1,9 +1,12 @@
 # OS/DBMS/CN MCQ
 
-130 questions from 23 companys, newest first. [← all topics](../README.md#topics)
+133 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Moneyview](../companies/moneyview.md) | NIT Surathkal | [Moneyview two-round Linux/networking assessment](../companies/moneyview.md#q1-moneyview-two-round-linuxnetworking-assessment) | |
+| 2026-11-13 | [Media.net](../companies/media-net.md) | IIT BHU | [Round 2: Server and networking implementation tasks](../companies/media-net.md#q2-round-2-server-and-networking-implementation-tasks) | |
+| 2026-11-13 | [Media.net](../companies/media-net.md) | MNNIT Allahabad | [Media.net SDE interview questions](../companies/media-net.md#q1-medianet-sde-interview-questions) | [LC 1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) Medium |
 | 2026-11-12 | [Deloitte](../companies/deloitte.md) | Unknown | [Deloitte technical interview topics](../companies/deloitte.md#q1-deloitte-technical-interview-topics) | |
 | 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Automatic IP assignment protocol](../companies/icici.md#q9-automatic-ip-assignment-protocol) | |
 | 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Telnet syntax](../companies/icici.md#q8-telnet-syntax) | |

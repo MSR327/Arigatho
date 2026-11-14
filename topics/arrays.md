@@ -1,9 +1,14 @@
 # Arrays
 
-261 questions from 68 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+266 questions from 69 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-13 | [Cars24](../companies/cars24.md) | VNIT Nagpur | [Cars24 AI/DS OA DSA questions](../companies/cars24.md#q1-cars24-aids-oa-dsa-questions) | |
+| 2026-11-13 | [Unknown](../companies/unknown.md) | NIT Kurukshetra | [Medium DSA question on prefix array](../companies/unknown.md#q1-medium-dsa-question-on-prefix-array) | ≈ [LC 560](https://leetcode.com/problems/subarray-sum-equals-k/) Medium |
+| 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Count palindromic paths in a binary matrix](../companies/urban-company.md#q6-count-palindromic-paths-in-a-binary-matrix) | ≈ [LC 62](https://leetcode.com/problems/unique-paths/) Medium |
+| 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Rotting Oranges](../companies/urban-company.md#q4-rotting-oranges) | [LC 994](https://leetcode.com/problems/rotting-oranges/) Medium |
+| 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Array-based problem](../companies/urban-company.md#q3-array-based-problem) | |
 | 2026-11-12 | [Unknown](../companies/unknown.md) | IIT BHU | [Players who can still win the trophy](../companies/unknown.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |
 | 2026-11-12 | [No Broker](../companies/no-broker.md) | IIT BHU | [Players who can still win the trophy](../companies/no-broker.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |
 | 2026-11-12 | [NoBroker](../companies/nobroker.md) | IIT BHU | [Gas station circular tour](../companies/nobroker.md#q1-gas-station-circular-tour) | [LC 134](https://leetcode.com/problems/gas-station/) Medium |
