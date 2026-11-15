@@ -65,7 +65,7 @@
 
 Cars24 DS / AI-ML role OA: about 11 questions, 8 MCQs + 3 coding questions. MCQs cover stats/ML topics such as A/B testing and probability distributions (Poisson type), medium level. Coding topics reported: simulation, design, queue, heap, DP, strings, arrays.
 
-<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L445), [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L446), [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L447) · Also asked at: IIT Kharagpur/Kanpur (2026-11-14)</sub>
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L445), [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L446), [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L447) · Also asked at: IIT Kharagpur/Kanpur (2026-11-14), IIT Roorkee ×2 (last 2026-11-15)</sub>
 
 ## 2026-11-15 · IIT Delhi · FTE · Data Analyst · Other round
 
@@ -89,7 +89,7 @@ Cars24 Data Science role OA: MCQs + 3 coding questions.
 
 15 questions: 12 MCQs, 2 DSA coding questions and 1 SQL question. The MCQs were related to software engineering only.
 
-<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Delhi (2026-11-15)</sub>
 
 ## 2026-11-14 · IIT Delhi · FTE · Data Science / ML
 
@@ -195,7 +195,7 @@ Poster did not have the actual questions, but says the DSA questions are usually
 
 Minimum Number of Moves to Seat Everyone. (Only the title was shared.)
 
-<sub>Topics: Greedy, Sorting · Similar: [LeetCode 2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU ×3 (last 2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13), IIT Roorkee (2026-11-13)</sub>
+<sub>Topics: Greedy, Sorting · Similar: [LeetCode 2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) (Easy) · Source: [chat, 6 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L9) · Also asked at: IIT Hyderabad (2026-11-06), IIT BHU ×3 (last 2026-11-06), IIT Delhi (2026-11-07), IIT Kharagpur/Kanpur (2026-11-13), IIT Roorkee ×2 (last 2026-11-15)</sub>
 
 ### Q2. Multi-city fleet relocation
 

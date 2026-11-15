@@ -98,7 +98,7 @@
 
 At IIT Roorkee, round 2 of the CBA OA was a vibe coding and debugging round. No specific questions were shared.
 
-<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L191) · Also asked at: IIT Guwahati ×5 (last 2026-11-06), IIT Roorkee ×7 (last 2026-11-14), IIT Hyderabad ×4 (last 2026-11-14), IIT Kharagpur/Kanpur ×3 (last 2026-11-14), Unknown (2026-11-14), IIT Kharagpur (2026-11-14), IIT BHU ×5 (last 2026-11-15)</sub>
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L191) · Also asked at: IIT Guwahati ×5 (last 2026-11-06), IIT Roorkee ×7 (last 2026-11-14), IIT Kharagpur/Kanpur ×3 (last 2026-11-14), Unknown (2026-11-14), IIT Kharagpur (2026-11-14), IIT BHU ×6 (last 2026-11-15), IIT Hyderabad ×5 (last 2026-11-15)</sub>
 
 ## 2026-11-02 · IIT Guwahati · FTE · Graduate Engineering
 

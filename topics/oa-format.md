@@ -1,10 +1,12 @@
 # OA Format
 
-790 questions from 146 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+792 questions from 147 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [LPL Financial](../companies/lpl-financial.md) | VNIT Nagpur | [LPL Financial GCC OA pattern](../companies/lpl-financial.md#q1-lpl-financial-gcc-oa-pattern) | |
 | 2026-11-15 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [OA format: CS and statistics MCQs](../companies/goldman-sachs.md#q1-oa-format-cs-and-statistics-mcqs) | |
+| 2026-11-15 | [Accenture](../companies/accenture.md) | Unknown | [Accenture AI/Data interview: RAG and gen AI](../companies/accenture.md#q2-accenture-aidata-interview-rag-and-gen-ai) | |
 | 2026-11-15 | [Cars24](../companies/cars24.md) | IIT Delhi | [Analytics role hiring process outline](../companies/cars24.md#q1-analytics-role-hiring-process-outline) | |
 | 2026-11-15 | [Cars24](../companies/cars24.md) | IIT BHU | [Cars24 DS OA pattern](../companies/cars24.md#q1-cars24-ds-oa-pattern) | |
 | 2026-11-15 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIIT | [ML Scientist OA pattern](../companies/eternal-zomato.md#q1-ml-scientist-oa-pattern) | |

@@ -1,8 +1,8 @@
 # Accenture
 
-**340 questions** · 123 drives · latest 15 Nov 2026 · [56 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**344 questions** · 124 drives · latest 15 Nov 2026 · [56 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 93 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 25 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 94 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
 
 <details>
@@ -10,6 +10,11 @@
 
 - [2026-11-15 · Unknown · FTE · AI and Data · Interview](#2026-11-15--unknown--fte--ai-and-data--interview)
   - [Second highest salary (SQL)](#q1-second-highest-salary-sql)
+  - [Accenture AI/Data interview: RAG and gen AI](#q2-accenture-aidata-interview-rag-and-gen-ai)
+- [2026-11-15 · Unknown · FTE · Data Analyst · Interview](#2026-11-15--unknown--fte--data-analyst--interview)
+  - [Experience with data analysis](#q1-experience-with-data-analysis)
+  - [Handling missing or incomplete data](#q2-handling-missing-or-incomplete-data)
+  - [Challenging dataset experience](#q3-challenging-dataset-experience)
 - [2026-11-13 · Unknown · FTE · Data and AI](#2026-11-13--unknown--fte--data-and-ai)
   - [Accenture Data and AI OA pattern](#q1-accenture-data-and-ai-oa-pattern)
 - [2026-11-13 · IIT Roorkee · FTE · AI and Data](#2026-11-13--iit-roorkee--fte--ai-and-data)
@@ -483,6 +488,38 @@
 Interview coding question in SQL: find the second highest salary. The interviewer would probably push for a window function solution. The Python coding questions were straightforward (not specified).
 
 <sub>Topics: SQL · Similar: [LeetCode 176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) (Medium) · Source: [chat, 15 Nov](../archive/accenture-oa/2026-11.jsonl#L402)</sub>
+
+### Q2. Accenture AI/Data interview: RAG and gen AI
+
+Interview for the Accenture AI and Data role. The interviewer asked about RAGs (retrieval-augmented generation) in the poster's slot. Some questions were not relevant to the poster's work or the JD, and there were some "twister" questions. Advice: brush up all gen AI and agentic AI topics. Exact questions were not shared.
+
+<sub>Topics: ML/AI, OA Format · Source: [chat, 15 Nov](../archive/accenture-oa/2026-11.jsonl#L406)</sub>
+
+## 2026-11-15 · Unknown · FTE · Data Analyst · Interview
+
+### Q1. Experience with data analysis
+
+Tell us about your experience with data analysis.
+
+Suggested approach: discuss tools and techniques used (Excel, SQL, Python, R) and how you applied them in internships, projects or coursework.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 15 Nov](../archive/accenture-oa/2026-11.jsonl#L413)</sub>
+
+### Q2. Handling missing or incomplete data
+
+How do you handle missing or incomplete data?
+
+Suggested approach: discuss imputation (mean/median, regression imputation), removing or replacing missing values, and finding patterns to predict missing data.
+
+<sub>Topics: Python & Pandas · Source: [chat, 15 Nov](../archive/accenture-oa/2026-11.jsonl#L413)</sub>
+
+### Q3. Challenging dataset experience
+
+Explain a time when you had to work with a challenging dataset. How did you manage it?
+
+Suggested approach: describe a specific situation with noisy, large or unstructured data. The rest of the shared message was cut off.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 15 Nov](../archive/accenture-oa/2026-11.jsonl#L413)</sub>
 
 ## 2026-11-13 · Unknown · FTE · Data and AI
 

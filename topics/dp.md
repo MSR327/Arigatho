@@ -1,9 +1,10 @@
 # DP
 
-163 questions from 56 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+164 questions from 57 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Nutanix](../companies/nutanix.md) | MNNIT Allahabad | [Subarray DP problem](../companies/nutanix.md#q3-subarray-dp-problem) | |
 | 2026-11-15 | [QiCap](../companies/qicap.md) | IIT Delhi | [Supply consolidation on a graph](../companies/qicap.md#q2-supply-consolidation-on-a-graph) | ≈ [LC 847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) Hard |
 | 2026-11-14 | [QiCap](../companies/qicap.md) | IIT BHU | [QiCap Software/Quant Developer OA topics](../companies/qicap.md#q2-qicap-softwarequant-developer-oa-topics) | |
 | 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Max sum negating at most K non-adjacent elements](../companies/tech-mahindra.md#q4-max-sum-negating-at-most-k-non-adjacent-elements) | |

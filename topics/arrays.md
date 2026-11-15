@@ -1,9 +1,10 @@
 # Arrays
 
-269 questions from 69 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+270 questions from 70 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Nutanix](../companies/nutanix.md) | MNNIT Allahabad | [Subarray DP problem](../companies/nutanix.md#q3-subarray-dp-problem) | |
 | 2026-11-15 | [QiCap](../companies/qicap.md) | IIT Delhi | [K-th largest subarray OR](../companies/qicap.md#q1-k-th-largest-subarray-or) | ≈ [LC 378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) Medium |
 | 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Max sum negating at most K non-adjacent elements](../companies/tech-mahindra.md#q4-max-sum-negating-at-most-k-non-adjacent-elements) | |
 | 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Maximize sum of absolute differences of symmetric elements](../companies/tech-mahindra.md#q3-maximize-sum-of-absolute-differences-of-symmetric-elements) | |
