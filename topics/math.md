@@ -1,9 +1,10 @@
 # Math
 
-214 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+215 questions from 56 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-14 | [QiCap](../companies/qicap.md) | IIT BHU | [QiCap Quant/Research OA topics](../companies/qicap.md#q1-qicap-quantresearch-oa-topics) | |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Correlation between cool drinks sales and swimming club registrations](../companies/accenture.md#q2-correlation-between-cool-drinks-sales-and-swimming-club-registrations) | |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Forward selection: number of variables](../companies/accenture.md#q2-forward-selection-number-of-variables) | |
 | 2026-11-12 | [Cognizant](../companies/cognizant.md) | IIT Kharagpur/Kanpur | [Maximum gain traversing array with prime-ending-3 jumps](../companies/cognizant.md#q1-maximum-gain-traversing-array-with-prime-ending-3-jumps) | ≈ [LC 70](https://leetcode.com/problems/climbing-stairs/) Easy |

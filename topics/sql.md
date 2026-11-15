@@ -1,9 +1,10 @@
 # SQL
 
-117 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+118 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Accenture](../companies/accenture.md) | Unknown | [Second highest salary (SQL)](../companies/accenture.md#q1-second-highest-salary-sql) | [LC 176](https://leetcode.com/problems/second-highest-salary/) Medium |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SQL sort descending by first name](../companies/accenture.md#q6-sql-sort-descending-by-first-name) | |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [UPDATE place for worker ID 5](../companies/accenture.md#q4-update-place-for-worker-id-5) | |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [UPDATE with subqueries on EMPLOYEES](../companies/accenture.md#q3-update-with-subqueries-on-employees) | |

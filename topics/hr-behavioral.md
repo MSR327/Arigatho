@@ -1,9 +1,10 @@
 # HR & Behavioral
 
-43 questions from 20 companys, newest first. [← all topics](../README.md#topics)
+44 questions from 21 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-15 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [Java main method and resume-based questions](../companies/goldman-sachs.md#q1-java-main-method-and-resume-based-questions) |
 | 2026-11-12 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Accenture situational questions](../companies/accenture.md#q3-accenture-situational-questions) |
 | 2026-11-12 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Accenture teamwork and leadership questions](../companies/accenture.md#q2-accenture-teamwork-and-leadership-questions) |
 | 2026-11-12 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Accenture HR and behavioural questions](../companies/accenture.md#q1-accenture-hr-and-behavioural-questions) |

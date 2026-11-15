@@ -1,13 +1,15 @@
 # Teradata
 
-**3 questions** · 1 drive · latest 28 Sep 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**4 questions** · 2 drives · latest 14 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Graphs](../topics/graphs.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1  
+**Asks about:** [Graphs](../topics/graphs.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1 · [OA Format](../topics/oa-format.md) 1  
 **Seen at:** IIT BHU
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-14 · Unknown · FTE · Other round](#2026-11-14--unknown--fte--other-round)
+  - [Teradata selection process](#q1-teradata-selection-process)
 - [2026-09-28 · IIT BHU · FTE](#2026-09-28--iit-bhu--fte)
   - [Standard knapsack DP (sum of power of subsequences)](#q1-standard-knapsack-dp-sum-of-power-of-subsequences)
   - [Minimum Jumps to Reach End via Prime Teleportation](#q2-minimum-jumps-to-reach-end-via-prime-teleportation)
@@ -16,6 +18,14 @@
 </details>
 
 ---
+
+## 2026-11-14 · Unknown · FTE · Other round
+
+### Q1. Teradata selection process
+
+Teradata came for both BTech and MTech. They asked LeetCode medium questions, and some candidates got different questions. Advice: do all typical LC mediums first.
+
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/inter-iit/2026-11.jsonl#L805)</sub>
 
 ## 2026-09-28 · IIT BHU · FTE
 

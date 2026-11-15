@@ -1,9 +1,11 @@
 # ML/AI
 
-149 questions from 25 companys, newest first. [← all topics](../README.md#topics)
+151 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-14 | [Cars24](../companies/cars24.md) | IIT Delhi | [House price prediction ML task](../companies/cars24.md#q2-house-price-prediction-ml-task) |
+| 2026-11-14 | [Cars24](../companies/cars24.md) | IIT Delhi | [Cars24 DS/ML OA MCQ section](../companies/cars24.md#q1-cars24-dsml-oa-mcq-section) |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SVM with quadratic kernel and slack penalty C](../companies/accenture.md#q8-svm-with-quadratic-kernel-and-slack-penalty-c) |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Effect of lowering threshold in fraud detection model](../companies/accenture.md#q5-effect-of-lowering-threshold-in-fraud-detection-model) |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Correlation between cool drinks sales and swimming club registrations](../companies/accenture.md#q2-correlation-between-cool-drinks-sales-and-swimming-club-registrations) |

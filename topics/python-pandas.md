@@ -1,9 +1,11 @@
 # Python & Pandas
 
-56 questions from 18 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+58 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-14 | [Cars24](../companies/cars24.md) | IIT Delhi | [House price prediction ML task](../companies/cars24.md#q2-house-price-prediction-ml-task) | |
+| 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Country with highest average rainfall from CSV](../companies/tech-mahindra.md#q2-country-with-highest-average-rainfall-from-csv) | |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Reverse a string in Python](../companies/accenture.md#q7-reverse-a-string-in-python) | [LC 344](https://leetcode.com/problems/reverse-string/) Easy |
 | 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Bloomberg interview rounds overview](../companies/bloomberg.md#q1-bloomberg-interview-rounds-overview) | |
 | 2026-11-09 | [ZS](../companies/zs.md) | VIT Vellore | [Project-based Python questions](../companies/zs.md#q3-project-based-python-questions) | |

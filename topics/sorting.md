@@ -1,9 +1,11 @@
 # Sorting
 
-76 questions from 39 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+78 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [Nearest city sharing x or y coordinate](../companies/goldman-sachs.md#q2-nearest-city-sharing-x-or-y-coordinate) | [LC 1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) Easy |
+| 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Sort dish names by first character, length, lexicographic](../companies/tech-mahindra.md#q1-sort-dish-names-by-first-character-length-lexicographic) | |
 | 2026-11-12 | [Unknown](../companies/unknown.md) | IIT BHU | [Players who can still win the trophy](../companies/unknown.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |
 | 2026-11-12 | [NoBroker](../companies/nobroker.md) | IIT Roorkee | [Players who can still win the trophy](../companies/nobroker.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |
 | 2026-11-11 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically maximum array after sorting K-sized subarrays](../companies/amazon.md#q1-lexicographically-maximum-array-after-sorting-k-sized-subarrays) | |

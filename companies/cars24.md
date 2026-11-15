@@ -1,13 +1,24 @@
 # Cars24
 
-**28 questions** · 7 drives · latest 13 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**34 questions** · 12 drives · latest 15 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [OA Format](../topics/oa-format.md) 4 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · [Trees](../topics/trees.md) 3 · +9 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · [Trees](../topics/trees.md) 3 · +10 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Roorkee, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-15 · IIT Delhi · FTE · Data Science](#2026-11-15--iit-delhi--fte--data-science)
+  - [Cars24 DS/AI-ML OA pattern](#q1-cars24-dsai-ml-oa-pattern)
+- [2026-11-15 · IIT Delhi · FTE · Data Analyst · Other round](#2026-11-15--iit-delhi--fte--data-analyst--other-round)
+  - [Analytics role hiring process outline](#q1-analytics-role-hiring-process-outline)
+- [2026-11-15 · IIT BHU · FTE · Data Scientist](#2026-11-15--iit-bhu--fte--data-scientist)
+  - [Cars24 DS OA pattern](#q1-cars24-ds-oa-pattern)
+- [2026-11-14 · IIT Delhi · FTE · SDE](#2026-11-14--iit-delhi--fte--sde)
+  - [Cars24 SDE OA pattern](#q1-cars24-sde-oa-pattern)
+- [2026-11-14 · IIT Delhi · FTE · Data Science / ML](#2026-11-14--iit-delhi--fte--data-science--ml)
+  - [Cars24 DS/ML OA MCQ section](#q1-cars24-dsml-oa-mcq-section)
+  - [House price prediction ML task](#q2-house-price-prediction-ml-task)
 - [2026-11-13 · VNIT Nagpur · FTE · AI/DS](#2026-11-13--vnit-nagpur--fte--aids)
   - [Cars24 AI/DS OA DSA questions](#q1-cars24-aids-oa-dsa-questions)
 - [2026-11-13 · IIT Kharagpur/Kanpur · FTE](#2026-11-13--iit-kharagpurkanpur--fte)
@@ -47,6 +58,52 @@
 </details>
 
 ---
+
+## 2026-11-15 · IIT Delhi · FTE · Data Science
+
+### Q1. Cars24 DS/AI-ML OA pattern
+
+Cars24 DS / AI-ML role OA: about 11 questions, 8 MCQs + 3 coding questions. MCQs cover stats/ML topics such as A/B testing and probability distributions (Poisson type), medium level. Coding topics reported: simulation, design, queue, heap, DP, strings, arrays.
+
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L445), [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L446), [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L447) · Also asked at: IIT Kharagpur/Kanpur (2026-11-14)</sub>
+
+## 2026-11-15 · IIT Delhi · FTE · Data Analyst · Other round
+
+### Q1. Analytics role hiring process outline
+
+Generic process description: Round 1 resume screening. Round 2 online assessment: SQL queries (beginner to intermediate), logical reasoning, sometimes a short data interpretation problem, 45-90 minutes. Round 3 technical interview: advanced SQL (window functions, CTEs, query optimization), statistics (distributions, hypothesis testing, A/B testing), mini case study. Round 4 managerial/HR: behavioural questions, compensation, culture fit.
+
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L448)</sub>
+
+## 2026-11-15 · IIT BHU · FTE · Data Scientist
+
+### Q1. Cars24 DS OA pattern
+
+Cars24 Data Science role OA: MCQs + 3 coding questions.
+
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L26) · Also asked at: IIT BHU (2026-11-15)</sub>
+
+## 2026-11-14 · IIT Delhi · FTE · SDE
+
+### Q1. Cars24 SDE OA pattern
+
+15 questions: 12 MCQs, 2 DSA coding questions and 1 SQL question. The MCQs were related to software engineering only.
+
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433)</sub>
+
+## 2026-11-14 · IIT Delhi · FTE · Data Science / ML
+
+### Q1. Cars24 DS/ML OA MCQ section
+
+11 MCQs: 2 stats, 3 data science, 2 ML, 2 gen AI, 2 python. No documentation help for libraries was available.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L420), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L425), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L426)</sub>
+
+### Q2. House price prediction ML task
+
+A full ML task: house price prediction dataset. Train data is 1200 × 12, test data is 300 × 11. Regress the prices using an appropriate model and submit predictions on the test data. Any library or framework (scikit-learn, XGBoost, etc.) is allowed.
+
+<sub>Topics: ML/AI, Python & Pandas · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L420), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L425), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L426)</sub>
 
 ## 2026-11-13 · VNIT Nagpur · FTE · AI/DS
 

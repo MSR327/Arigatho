@@ -1,9 +1,12 @@
 # Bit Manipulation
 
-41 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+44 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [QiCap](../companies/qicap.md) | IIT Delhi | [Supply consolidation on a graph](../companies/qicap.md#q2-supply-consolidation-on-a-graph) | ≈ [LC 847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) Hard |
+| 2026-11-15 | [QiCap](../companies/qicap.md) | IIT Delhi | [K-th largest subarray OR](../companies/qicap.md#q1-k-th-largest-subarray-or) | ≈ [LC 378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) Medium |
+| 2026-11-14 | [QiCap](../companies/qicap.md) | IIT BHU | [QiCap Software/Quant Developer OA topics](../companies/qicap.md#q2-qicap-softwarequant-developer-oa-topics) | |
 | 2026-11-11 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Maximize profit with XOR less than K](../companies/cognizant.md#q3-maximize-profit-with-xor-less-than-k) | ≈ [LC 421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) Medium |
 | 2026-11-09 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Count pairs whose concatenation can form a palindrome](../companies/microsoft.md#q1-count-pairs-whose-concatenation-can-form-a-palindrome) | ≈ [LC 1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) Medium |
 | 2026-11-08 | [Cognizant](../companies/cognizant.md) | IIT Roorkee | [Maximum profit with bitwise OR constraint](../companies/cognizant.md#q12-maximum-profit-with-bitwise-or-constraint) | |

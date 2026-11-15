@@ -1,6 +1,6 @@
 # BlackRock
 
-**78 questions** · 33 drives · latest 12 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**78 questions** · 33 drives · latest 14 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [ML/AI](../topics/ml-ai.md) 37 · [OA Format](../topics/oa-format.md) 35 · [Math](../topics/math.md) 15 · [Greedy](../topics/greedy.md) 8 · [Heaps](../topics/heaps.md) 7 · [Sorting](../topics/sorting.md) 5 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · +9 more  
 **Seen at:** BITS, BITS Pilani, IIIT Delhi, IIT BHU, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kharagpur/Kanpur +5 more
@@ -275,7 +275,7 @@ Reported answer: 0.20
 
 Python only. Coding question: implement a RAG pipeline, including cleaning strings, tokenizing, etc. (Full statement not given.)
 
-<sub>Topics: Strings, ML/AI · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783) · Also asked at: Unknown (2026-11-09), IIT Roorkee ×2 (last 2026-11-12)</sub>
+<sub>Topics: Strings, ML/AI · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L783) · Also asked at: Unknown (2026-11-09), IIT Roorkee ×3 (last 2026-11-14)</sub>
 
 ### Q2. DSU implementation
 
@@ -297,7 +297,7 @@ Python only. 1) RAG pipeline implementation: cleaning strings, tokenizing, etc. 
 
 (Exact statements not given.)
 
-<sub>Topics: ML/AI, Strings, OA Format · Source: [chat, 7 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L222) · Also asked at: IIT Roorkee ×2 (last 2026-11-12)</sub>
+<sub>Topics: ML/AI, Strings, OA Format · Source: [chat, 7 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L222) · Also asked at: IIT Roorkee ×3 (last 2026-11-14)</sub>
 
 ### Q2. BlackRock AI/ML OA topics
 

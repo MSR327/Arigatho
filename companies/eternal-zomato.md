@@ -1,13 +1,17 @@
 # Eternal (Zomato)
 
-**189 questions** · 94 drives · latest 13 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**191 questions** · 96 drives · latest 15 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 68 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 16 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
-**Seen at:** Delhi Technological University, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +14 more
+**Asks about:** [OA Format](../topics/oa-format.md) 70 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 16 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
+**Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +15 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-15 · IIIT · FTE · ML Scientist](#2026-11-15--iiit--fte--ml-scientist)
+  - [ML Scientist OA pattern](#q1-ml-scientist-oa-pattern)
+- [2026-11-14 · IIT Kharagpur/Kanpur · FTE](#2026-11-14--iit-kharagpurkanpur--fte)
+  - [Eternal OA difficulty and sections](#q1-eternal-oa-difficulty-and-sections)
 - [2026-11-13 · IIT Guwahati · FTE](#2026-11-13--iit-guwahati--fte)
   - [Eternal aptitude and maths section](#q1-eternal-aptitude-and-maths-section)
 - [2026-11-12 · IIT Kharagpur/Kanpur · FTE · APM](#2026-11-12--iit-kharagpurkanpur--fte--apm)
@@ -295,6 +299,22 @@
 </details>
 
 ---
+
+## 2026-11-15 · IIIT · FTE · ML Scientist
+
+### Q1. ML Scientist OA pattern
+
+Reported topics for the ML Scientist OA: Python, ML/DL fundamentals, statistics, SQL, DSA coding, and practical ML implementation (potentially RAG/LangChain). Pattern varies by hiring drive.
+
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/eternal-oa/2026-11.jsonl#L161)</sub>
+
+## 2026-11-14 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Eternal OA difficulty and sections
+
+Aptitude was very straightforward, with some questions meant to waste time. There were SQL questions: at least 2 were easy-medium and one was challenging. Another poster said the coding level was 1 easy, 1 medium, 1 hard.
+
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/eternal-oa/2026-11.jsonl#L150), [chat, 14 Nov](../archive/eternal-oa/2026-11.jsonl#L154)</sub>
 
 ## 2026-11-13 · IIT Guwahati · FTE
 

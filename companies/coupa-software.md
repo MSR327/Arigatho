@@ -1,6 +1,6 @@
 # Coupa Software
 
-**1 question** · 1 drive · latest 13 Nov 2026 · [← all companies](../README.md#companies)
+**1 question** · 1 drive · latest 14 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 1  
 **Seen at:** IIT Bombay
@@ -21,4 +21,4 @@
 
 Easy aptitude MCQs + basic data-structures MCQs + one easy DSA problem to be solved in 15 minutes. (Actual questions not shared.)
 
-<sub>Topics: OA Format · Source: [chat, 13 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L179)</sub>
+<sub>Topics: OA Format · Source: [chat, 13 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L179) · Also asked at: IIT Bombay (2026-11-14)</sub>

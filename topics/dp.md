@@ -1,9 +1,14 @@
 # DP
 
-158 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+163 questions from 56 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [QiCap](../companies/qicap.md) | IIT Delhi | [Supply consolidation on a graph](../companies/qicap.md#q2-supply-consolidation-on-a-graph) | ≈ [LC 847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) Hard |
+| 2026-11-14 | [QiCap](../companies/qicap.md) | IIT BHU | [QiCap Software/Quant Developer OA topics](../companies/qicap.md#q2-qicap-softwarequant-developer-oa-topics) | |
+| 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Max sum negating at most K non-adjacent elements](../companies/tech-mahindra.md#q4-max-sum-negating-at-most-k-non-adjacent-elements) | |
+| 2026-11-13 | [Goldman Sachs](../companies/goldman-sachs.md) | IIT Kharagpur | [Unique binary search trees](../companies/goldman-sachs.md#q3-unique-binary-search-trees) | [LC 96](https://leetcode.com/problems/unique-binary-search-trees/) Medium |
+| 2026-11-13 | [Goldman Sachs](../companies/goldman-sachs.md) | IIT Kharagpur | [Dice roll simulation](../companies/goldman-sachs.md#q2-dice-roll-simulation) | [LC 1223](https://leetcode.com/problems/dice-roll-simulation/) Hard |
 | 2026-11-13 | [Cars24](../companies/cars24.md) | VNIT Nagpur | [Cars24 AI/DS OA DSA questions](../companies/cars24.md#q1-cars24-aids-oa-dsa-questions) | |
 | 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Count palindromic paths in a binary matrix](../companies/urban-company.md#q6-count-palindromic-paths-in-a-binary-matrix) | ≈ [LC 62](https://leetcode.com/problems/unique-paths/) Medium |
 | 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Longest Common Subsequence](../companies/urban-company.md#q2-longest-common-subsequence) | [LC 1143](https://leetcode.com/problems/longest-common-subsequence/) Medium |

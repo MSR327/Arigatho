@@ -1,13 +1,15 @@
 # SEDEMAC
 
-**2 questions** · 1 drive · latest 7 Nov 2026 · [← all companies](../README.md#companies)
+**3 questions** · 2 drives · latest 14 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Circuits](../topics/circuits.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Mechanical](../topics/mechanical.md) 1 · [Signals & Systems](../topics/signals-systems.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
-**Seen at:** IIT Indore
+**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Circuits](../topics/circuits.md) 2 · [Mechanical](../topics/mechanical.md) 1 · [Signals & Systems](../topics/signals-systems.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
+**Seen at:** IIT Indore, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-14 · IIT Roorkee · FTE · R&D](#2026-11-14--iit-roorkee--fte--rd)
+  - [SEDEMAC R&D process and topics](#q1-sedemac-rd-process-and-topics)
 - [2026-11-07 · IIT Indore · FTE · Interview](#2026-11-07--iit-indore--fte--interview)
   - [SEDEMAC Round 2 technical MCQ test format](#q1-sedemac-round-2-technical-mcq-test-format)
   - [SEDEMAC Round 3 technical interview](#q2-sedemac-round-3-technical-interview)
@@ -15,6 +17,14 @@
 </details>
 
 ---
+
+## 2026-11-14 · IIT Roorkee · FTE · R&D
+
+### Q1. SEDEMAC R&D process and topics
+
+Round 1 is an aptitude test. If qualified, a technical round follows, focused on class 11th/12th concepts with good depth, with topics related to the electrical side. (Specific questions not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L480)</sub>
 
 ## 2026-11-07 · IIT Indore · FTE · Interview
 

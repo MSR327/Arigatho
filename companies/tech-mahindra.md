@@ -1,13 +1,21 @@
 # Tech Mahindra
 
-**5 questions** · 3 drives · latest 4 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**11 questions** · 5 drives · latest 14 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [DP](../topics/dp.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Sorting](../topics/sorting.md) 1 · [Math](../topics/math.md) 1 · [Arrays](../topics/arrays.md) 1 · [Python & Pandas](../topics/python-pandas.md) 1 · [ML/AI](../topics/ml-ai.md) 1  
-**Seen at:** IIT Delhi, NIT Silchar
+**Asks about:** [DP](../topics/dp.md) 3 · [Arrays](../topics/arrays.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Sorting](../topics/sorting.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · [Math](../topics/math.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Strings](../topics/strings.md) 1 · +2 more  
+**Seen at:** Delhi Technological University, IIT Delhi, NIT Karnataka Surathkal, NIT Silchar
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-14 · NIT Karnataka Surathkal · FTE](#2026-11-14--nit-karnataka-surathkal--fte)
+  - [Tech Mahindra aptitude section overview](#q1-tech-mahindra-aptitude-section-overview)
+- [2026-11-14 · Delhi Technological University · FTE](#2026-11-14--delhi-technological-university--fte)
+  - [Sort dish names by first character, length, lexicographic](#q1-sort-dish-names-by-first-character-length-lexicographic)
+  - [Country with highest average rainfall from CSV](#q2-country-with-highest-average-rainfall-from-csv)
+  - [Maximize sum of absolute differences of symmetric elements](#q3-maximize-sum-of-absolute-differences-of-symmetric-elements)
+  - [Max sum negating at most K non-adjacent elements](#q4-max-sum-negating-at-most-k-non-adjacent-elements)
+  - [Ideal paths between vertices](#q5-ideal-paths-between-vertices)
 - [2026-11-04 · Unknown · FTE · Technorise · Interview](#2026-11-04--unknown--fte--technorise--interview)
   - [Tech Mahindra Technorise interview topics](#q1-tech-mahindra-technorise-interview-topics)
 - [2026-10-22 · NIT Silchar · FTE · Other round](#2026-10-22--nit-silchar--fte--other-round)
@@ -20,6 +28,48 @@
 </details>
 
 ---
+
+## 2026-11-14 · NIT Karnataka Surathkal · FTE
+
+### Q1. Tech Mahindra aptitude section overview
+
+Easy aptitude questions related to clock, time, relationship (blood relations), etc.
+
+Individual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-nit-surathkal-placements/2026-11.jsonl#L39)</sub>
+
+## 2026-11-14 · Delhi Technological University · FTE
+
+### Q1. Sort dish names by first character, length, lexicographic
+
+Sort dish names by first character, then length, then lexicographically (custom sorting). Full statement not given.
+
+<sub>Topics: Sorting, Strings · Source: [chat, 14 Nov](../archive/campus-dtu-placements/2026-11.jsonl#L36)</sub>
+
+### Q2. Country with highest average rainfall from CSV
+
+Find the country with the highest average rainfall from a CSV dataset (Python, Pandas). Full statement not given.
+
+<sub>Topics: Python & Pandas · Source: [chat, 14 Nov](../archive/campus-dtu-placements/2026-11.jsonl#L36)</sub>
+
+### Q3. Maximize sum of absolute differences of symmetric elements
+
+Maximize the sum of absolute differences between symmetric array elements (Greedy / DSA). Full statement not given.
+
+<sub>Topics: Greedy, Arrays · Source: [chat, 14 Nov](../archive/campus-dtu-placements/2026-11.jsonl#L36)</sub>
+
+### Q4. Max sum negating at most K non-adjacent elements
+
+Maximum sum by negating at most K non-adjacent array elements (DP). Full statement not given.
+
+<sub>Topics: DP, Arrays · Source: [chat, 14 Nov](../archive/campus-dtu-placements/2026-11.jsonl#L36)</sub>
+
+### Q5. Ideal paths between vertices
+
+Find ideal paths between vertices (similar to LC 2421, Graph, DSU). Full statement not given.
+
+<sub>Topics: Graphs · Similar: [LeetCode 2421. Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) (Hard) · Source: [chat, 14 Nov](../archive/campus-dtu-placements/2026-11.jsonl#L36)</sub>
 
 ## 2026-11-04 · Unknown · FTE · Technorise · Interview
 

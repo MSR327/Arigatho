@@ -1,13 +1,19 @@
 # QiCap
 
-**9 questions** · 4 drives · latest 30 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**13 questions** · 6 drives · latest 15 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Bit Manipulation](../topics/bit-manipulation.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Arrays](../topics/arrays.md) 2 · [Sorting](../topics/sorting.md) 1 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · [Hashing](../topics/hashing.md) 1 · +3 more  
+**Asks about:** [Bit Manipulation](../topics/bit-manipulation.md) 6 · [DP](../topics/dp.md) 5 · [Graphs](../topics/graphs.md) 4 · [Arrays](../topics/arrays.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Sorting](../topics/sorting.md) 1 · [Strings](../topics/strings.md) 1 · [Trees](../topics/trees.md) 1 · +5 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Kharagpur, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-15 · IIT Delhi · FTE](#2026-11-15--iit-delhi--fte)
+  - [K-th largest subarray OR](#q1-k-th-largest-subarray-or)
+  - [Supply consolidation on a graph](#q2-supply-consolidation-on-a-graph)
+- [2026-11-14 · IIT BHU · FTE](#2026-11-14--iit-bhu--fte)
+  - [QiCap Quant/Research OA topics](#q1-qicap-quantresearch-oa-topics)
+  - [QiCap Software/Quant Developer OA topics](#q2-qicap-softwarequant-developer-oa-topics)
 - [2026-10-30 · MNNIT Allahabad · FTE](#2026-10-30--mnnit-allahabad--fte)
   - [QiCap OA pattern](#q1-qicap-oa-pattern)
 - [2026-10-29 · IIT Kharagpur · FTE](#2026-10-29--iit-kharagpur--fte)
@@ -26,13 +32,59 @@
 
 ---
 
+## 2026-11-15 · IIT Delhi · FTE
+
+### Q1. K-th largest subarray OR
+
+Given an array (n ≤ 10^5), find the K-th largest subarray bitwise OR.
+
+Intended solution: binary search on the answer with a Sparse Table for range OR queries while counting valid subarrays.
+
+<sub>Topics: Binary Search, Bit Manipulation, Arrays · Same idea: [LeetCode 378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) (Medium), binary search on answer, counting values at most mid · Source: [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L449)</sub>
+
+### Q2. Supply consolidation on a graph
+
+You are given a graph with n ≤ 18 nodes. Initially every node contains supplies. Moving all supplies from node i to node j costs cost[i][j] (matrix given directly, not necessarily shortest path distances). Consolidate all supplies into at most K nodes while minimizing the total movement cost.
+
+Suggested solution: bitmask DP.
+
+<sub>Topics: DP, Bit Manipulation, Graphs · Same idea: [LeetCode 847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) (Hard), bitmask DP over subsets of small graph · Source: [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L449)</sub>
+
+## 2026-11-14 · IIT BHU · FTE
+
+### Q1. QiCap Quant/Research OA topics
+
+Quant / Research OA:
+- Probability and statistics puzzles.
+- Expected value and recurrences.
+- Combinatorics and geometry.
+- Brainstellar medium-hard probability problems.
+- Olympiad-level mathematics questions.
+
+<sub>Topics: OA Format, Math · Source: [chat, 14 Nov](../archive/inter-nit/2026-11.jsonl#L1676)</sub>
+
+### Q2. QiCap Software/Quant Developer OA topics
+
+Software / Quant Developer OA:
+- K-th largest subarray bitwise OR.
+- Graph supply consolidation using Bitmask DP.
+- 3 competitive programming questions.
+- C++ and Python OOPs.
+- Singleton class implementation.
+- Low-level design.
+- Linux scripting.
+
+Full problem statements were not given.
+
+<sub>Topics: OA Format, Bit Manipulation, DP · Source: [chat, 14 Nov](../archive/inter-nit/2026-11.jsonl#L1676)</sub>
+
 ## 2026-10-30 · MNNIT Allahabad · FTE
 
 ### Q1. QiCap OA pattern
 
 3 hard DSA questions and MCQs on behavioural, probability and statistics.
 
-<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L434)</sub>
+<sub>Topics: OA Format · Source: [chat, 30 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L434) · Also asked at: IIT Delhi (2026-11-15)</sub>
 
 ## 2026-10-29 · IIT Kharagpur · FTE
 

@@ -1,13 +1,15 @@
 # NoBroker
 
-**5 questions** · 5 drives · latest 14 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 6 drives · latest 14 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [Sorting](../topics/sorting.md) 1  
-**Seen at:** IIT BHU, IIT Guwahati, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee
+**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [Sorting](../topics/sorting.md) 1  
+**Seen at:** IIT BHU, IIT Guwahati, IIT Indore, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-14 · IIT Kharagpur · FTE · Product Analyst](#2026-11-14--iit-kharagpur--fte--product-analyst)
+  - [NoBroker PA OA format](#q1-nobroker-pa-oa-format)
 - [2026-11-12 · IIT Roorkee · FTE · SDE](#2026-11-12--iit-roorkee--fte--sde)
   - [Players who can still win the trophy](#q1-players-who-can-still-win-the-trophy)
 - [2026-11-12 · IIT Roorkee · FTE · Product](#2026-11-12--iit-roorkee--fte--product)
@@ -22,6 +24,14 @@
 </details>
 
 ---
+
+## 2026-11-14 · IIT Kharagpur · FTE · Product Analyst
+
+### Q1. NoBroker PA OA format
+
+MCQs on aptitude, SQL, Python, plus 2 guesstimate questions.
+
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L491)</sub>
 
 ## 2026-11-12 · IIT Roorkee · FTE · SDE
 
@@ -48,7 +58,7 @@ Player 1 cannot win even if he wins the race: max 12+5 = 17, but the highest sco
 - 15 MCQs on maths and SQL (20 min)
 - 15 min guesstimate/case study
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/nobroker-oa/2026-11.jsonl#L44) · Also asked at: Unknown ×2 (last 2026-11-12), IIT Kharagpur/Kanpur ×2 (last 2026-11-13), IIT BHU (2026-11-14)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/nobroker-oa/2026-11.jsonl#L44) · Also asked at: Unknown ×2 (last 2026-11-12), IIT BHU (2026-11-14), IIT Kharagpur/Kanpur ×4 (last 2026-11-14), IIT Roorkee ×3 (last 2026-11-14), IIT Indore (2026-11-14)</sub>
 
 ## 2026-11-12 · IIT BHU · FTE · SDE
 

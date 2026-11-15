@@ -1,9 +1,9 @@
 # KLA
 
-**5 questions** · 3 drives · latest 13 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 3 drives · latest 14 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Puzzles](../topics/puzzles.md) 3 · [Math](../topics/math.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Graphs](../topics/graphs.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1  
-**Seen at:** IIT Bhubaneswar, IIT Indore, IIT Madras, MNNIT Allahabad
+**Seen at:** IIT Bhubaneswar, IIT Indore, IIT Kharagpur, IIT Madras, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -70,4 +70,4 @@ OA pattern for the AWT role:
 - English: around 8 questions
 - Finance: around 8 questions
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L119), [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L122) · Also asked at: IIT Indore (2026-11-02), IIT Bhubaneswar (2026-11-03), IIT Madras (2026-11-03), MNNIT Allahabad ×2 (last 2026-11-11)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L119), [chat, 2 Nov](../archive/inter-nit/2026-11.jsonl#L122) · Also asked at: IIT Indore (2026-11-02), IIT Bhubaneswar (2026-11-03), IIT Madras (2026-11-03), MNNIT Allahabad ×2 (last 2026-11-11), IIT Kharagpur (2026-11-14)</sub>

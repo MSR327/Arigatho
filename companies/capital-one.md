@@ -1,6 +1,6 @@
 # Capital One
 
-**41 questions** · 19 drives · latest 13 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**41 questions** · 19 drives · latest 14 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 10 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Software Engineering](../topics/software-engineering.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 3 · [OOP](../topics/oop.md) 3 · +12 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +2 more
@@ -79,7 +79,7 @@
 
 Round 2 had 1 DSA question and 1 LLD (low-level design) question. Specific problems not given.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/capital-one-oa/2026-11.jsonl#L95) · Also asked at: IIT Kharagpur (2026-11-12), IIT BHU ×3 (last 2026-11-13)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/capital-one-oa/2026-11.jsonl#L95) · Also asked at: IIT Kharagpur (2026-11-12), IIT BHU ×4 (last 2026-11-14)</sub>
 
 ## 2026-11-09 · IIT Delhi · FTE
 

@@ -1,6 +1,6 @@
 # Renesas Electronics
 
-**1 question** · 1 drive · latest 12 Nov 2026 · [← all companies](../README.md#companies)
+**1 question** · 1 drive · latest 15 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 1  
 **Seen at:** NIT Allahabad, NIT Patna
@@ -24,4 +24,4 @@
 3. Question types: technical MCQs, output-based C questions, coding questions, digital logic problems, aptitude questions
 4. Difficulty: overall moderate to difficult; C programming moderate; Digital Electronics moderate–difficult; aptitude moderate.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1295) · Also asked at: NIT Allahabad (2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1295) · Also asked at: NIT Allahabad (2026-11-12), Unknown (2026-11-15)</sub>

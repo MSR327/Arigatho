@@ -1,13 +1,15 @@
 # Accenture
 
-**339 questions** · 122 drives · latest 13 Nov 2026 · [55 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**340 questions** · 123 drives · latest 15 Nov 2026 · [56 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 93 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 36 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 25 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 93 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 25 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-15 · Unknown · FTE · AI and Data · Interview](#2026-11-15--unknown--fte--ai-and-data--interview)
+  - [Second highest salary (SQL)](#q1-second-highest-salary-sql)
 - [2026-11-13 · Unknown · FTE · Data and AI](#2026-11-13--unknown--fte--data-and-ai)
   - [Accenture Data and AI OA pattern](#q1-accenture-data-and-ai-oa-pattern)
 - [2026-11-13 · IIT Roorkee · FTE · AI and Data](#2026-11-13--iit-roorkee--fte--ai-and-data)
@@ -473,6 +475,14 @@
 </details>
 
 ---
+
+## 2026-11-15 · Unknown · FTE · AI and Data · Interview
+
+### Q1. Second highest salary (SQL)
+
+Interview coding question in SQL: find the second highest salary. The interviewer would probably push for a window function solution. The Python coding questions were straightforward (not specified).
+
+<sub>Topics: SQL · Similar: [LeetCode 176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) (Medium) · Source: [chat, 15 Nov](../archive/accenture-oa/2026-11.jsonl#L402)</sub>
 
 ## 2026-11-13 · Unknown · FTE · Data and AI
 
@@ -1204,7 +1214,7 @@ Note from the poster: only Python, Java and C# are allowed for the DSA question.
 
 A very simple interview of around 10-15 minutes. They don't ask anything much, just a simple HR interview with a project overview.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L221)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L221) · Also asked at: MNNIT Allahabad (2026-11-14)</sub>
 
 ## 2026-11-09 · IIT Guwahati · FTE · AI and Data (AI/ML)
 
@@ -1304,7 +1314,7 @@ Describing the Accenture OA coding round: C++ is not allowed. Only Python, C# an
 
 The OA had MCQs on aptitude, Python and SQL. (Exact questions, number of questions and difficulty were not shared.)
 
-<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L241) · Also asked at: NIT Surathkal (2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L241) · Also asked at: NIT Surathkal (2026-11-10), IIT BHU (2026-11-15)</sub>
 
 ## 2026-11-06 · IIT Hyderabad · FTE · S&C Analyst
 

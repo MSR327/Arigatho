@@ -1,6 +1,6 @@
 # Media.net
 
-**15 questions** · 12 drives · latest 14 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 12 drives · latest 15 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 7 · [Arrays](../topics/arrays.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · +6 more  
 **Seen at:** Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal, NIT Patna +3 more
@@ -54,7 +54,7 @@ CS fundamentals first: hashing vs encryption, 32-bit vs 64-bit OS, overloading v
 
 Practical Linux-based tasks done directly in the terminal: changing a server's port number when misconfigured, identifying and fixing missing port configurations, editing files exclusively through the terminal, and correcting syntax errors in Python files using command-line tools. Around sixty candidates advanced.
 
-<sub>Topics: Software Engineering, OA Format · Source: [chat, 13 Nov](../archive/inter-nit/2026-11.jsonl#L1518)</sub>
+<sub>Topics: Software Engineering, OA Format · Source: [chat, 13 Nov](../archive/inter-nit/2026-11.jsonl#L1518) · Also asked at: IIT Guwahati ×2 (last 2026-11-14)</sub>
 
 ### Q2. Round 2: Server and networking implementation tasks
 
@@ -84,7 +84,7 @@ The OA had 2 medium-level DSA questions: one was DP and the other was (probably)
 
 20 aptitude questions, 6 SQL coding questions and 6 Python coding questions, all in 45 minutes. Difficult for many; not many could finish in time. Questions were repeated ones.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/humming-wave-oa/2026-11.jsonl#L13) · Also asked at: IIT Guwahati (2026-11-13), IIT Delhi (2026-11-13), IIT BHU ×4 (last 2026-11-14)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/humming-wave-oa/2026-11.jsonl#L13) · Also asked at: IIT Guwahati (2026-11-13), IIT Delhi (2026-11-13), IIT BHU ×5 (last 2026-11-14)</sub>
 
 ## 2026-11-12 · IIT Guwahati · FTE · SDE
 
@@ -105,7 +105,7 @@ The OA has four parts:
 * **Game-Based Cognitive Assessment:** interactive logic and attention-based mini-games (typically 4 selected from a larger pool), 20 to 30 minutes.
 * **Behavioral / PowerSkills Assessment:** personality and workplace-behavior rating questions (about 100 questions), 20 to 25 minutes.
 
-<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/media-net-oa/2026-11.jsonl#L23), [chat, 11 Nov](../archive/media-net-oa/2026-11.jsonl#L24) · Also asked at: Unknown (2026-11-11), IIT BHU ×3 (last 2026-11-13), IIT Delhi (2026-11-13)</sub>
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/media-net-oa/2026-11.jsonl#L23), [chat, 11 Nov](../archive/media-net-oa/2026-11.jsonl#L24) · Also asked at: Unknown (2026-11-11), IIT Delhi (2026-11-13), IIT BHU ×5 (last 2026-11-15)</sub>
 
 ## 2026-11-07 · MNNIT Allahabad · FTE · Product Analyst
 

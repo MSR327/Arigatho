@@ -1,13 +1,17 @@
 # Paytm
 
-**22 questions** · 8 drives · latest 12 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**25 questions** · 9 drives · latest 14 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Strings](../topics/strings.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · [Greedy](../topics/greedy.md) 2 · +11 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Strings](../topics/strings.md) 4 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · +11 more  
 **Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU, IIT Indore, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-14 · IIT Indore · FTE · Product Analyst · Other round](#2026-11-14--iit-indore--fte--product-analyst--other-round)
+  - [Soundbox enhancements](#q1-soundbox-enhancements)
+  - [Recharge engagement](#q2-recharge-engagement)
+  - [Credit card spends analyzer](#q3-credit-card-spends-analyzer)
 - [2026-11-12 · IIT Indore · FTE · PA · Other round](#2026-11-12--iit-indore--fte--pa--other-round)
   - [Case study round](#q1-case-study-round)
 - [2026-10-30 · Delhi Technological University · FTE · SDE](#2026-10-30--delhi-technological-university--fte--sde)
@@ -43,13 +47,33 @@
 
 ---
 
+## 2026-11-14 · IIT Indore · FTE · Product Analyst · Other round
+
+### Q1. Soundbox enhancements
+
+Case Study 1: Paytm has millions of Soundbox devices in kirana stores across India; today the device only announces payments. As PM for merchant products, what would you build on top of the existing Soundbox offering to help merchants run their business better? Cover: the merchants and problems you would solve; what you would build and why it belongs on the device; how it helps the merchant and Paytm, including who pays; how you would measure success; trade-offs.
+
+<sub>Topics: Guesstimates & Cases · Source: [Product Campus Case Studies_IIT Indore (1).pdf](../archive/files/28281-Product_Campus_Case_Studies_IIT_Indore_1_.pdf)</sub>
+
+### Q2. Recharge engagement
+
+Case Study 2: Paytm users do mobile recharges and bill payments (electricity, LPG, broadband, DTH, water), but most stick to one category. Design a strategy to get existing single-category users to discover, try and regularly transact in other categories. Cover: barriers, user segments and triggers, success measurement, trade-offs.
+
+<sub>Topics: Guesstimates & Cases · Source: [Product Campus Case Studies_IIT Indore (1).pdf](../archive/files/28281-Product_Campus_Case_Studies_IIT_Indore_1_.pdf)</sub>
+
+### Q3. Credit card spends analyzer
+
+Case Study 3: Paytm lets users pay credit card bills and apply for cards. Design a credit card analytics and optimisation product that helps users understand spending, discover and use card benefits, track rewards, milestones and vouchers, and make better decisions. Cover: user problems, data needed and how to get it, design factors (trust, privacy, regulation, monetisation), tie-in with Paytm's existing card offerings, success metrics, trade-offs.
+
+<sub>Topics: Guesstimates & Cases · Source: [Product Campus Case Studies_IIT Indore (1).pdf](../archive/files/28281-Product_Campus_Case_Studies_IIT_Indore_1_.pdf)</sub>
+
 ## 2026-11-12 · IIT Indore · FTE · PA · Other round
 
 ### Q1. Case study round
 
 For the PA role there was a case study round. Case details not given.
 
-<sub>Topics: Guesstimates & Cases, OA Format · Source: [chat, 12 Nov](../archive/inter-iit/2026-11.jsonl#L669)</sub>
+<sub>Topics: Guesstimates & Cases, OA Format · Source: [chat, 12 Nov](../archive/inter-iit/2026-11.jsonl#L669) · Also asked at: IIT Indore ×2 (last 2026-11-14)</sub>
 
 ## 2026-10-30 · Delhi Technological University · FTE · SDE
 

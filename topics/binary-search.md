@@ -1,9 +1,11 @@
 # Binary Search
 
-55 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+57 questions from 34 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [Nearest city sharing x or y coordinate](../companies/goldman-sachs.md#q2-nearest-city-sharing-x-or-y-coordinate) | [LC 1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) Easy |
+| 2026-11-15 | [QiCap](../companies/qicap.md) | IIT Delhi | [K-th largest subarray OR](../companies/qicap.md#q1-k-th-largest-subarray-or) | ≈ [LC 378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) Medium |
 | 2026-11-12 | [Media.net](../companies/media-net.md) | VNIT Nagpur | [Media.net OA: 2 medium DSA questions](../companies/media-net.md#q1-medianet-oa-2-medium-dsa-questions) | |
 | 2026-11-11 | [BNY](../companies/bny.md) | IIT BHU | [Minimum makespan to process requests across servers](../companies/bny.md#q2-minimum-makespan-to-process-requests-across-servers) | ≈ [LC 1723](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) Hard |
 | 2026-11-11 | [BNY](../companies/bny.md) | IIT BHU | [Maximize call volume with non-overlapping calls](../companies/bny.md#q1-maximize-call-volume-with-non-overlapping-calls) | [LC 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) Hard |

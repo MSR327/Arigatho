@@ -1,9 +1,11 @@
 # Graphs
 
-155 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+157 questions from 52 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [QiCap](../companies/qicap.md) | IIT Delhi | [Supply consolidation on a graph](../companies/qicap.md#q2-supply-consolidation-on-a-graph) | ≈ [LC 847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) Hard |
+| 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Ideal paths between vertices](../companies/tech-mahindra.md#q5-ideal-paths-between-vertices) | [LC 2421](https://leetcode.com/problems/number-of-good-paths/) Hard |
 | 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Course Schedule II](../companies/urban-company.md#q5-course-schedule-ii) | [LC 210](https://leetcode.com/problems/course-schedule-ii/) Medium |
 | 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Rotting Oranges](../companies/urban-company.md#q4-rotting-oranges) | [LC 994](https://leetcode.com/problems/rotting-oranges/) Medium |
 | 2026-11-13 | [KLA](../companies/kla.md) | MNNIT Allahabad | [KLA DSA questions](../companies/kla.md#q1-kla-dsa-questions) | |

@@ -1,13 +1,15 @@
 # ICICI
 
-**46 questions** · 23 drives · latest 13 Nov 2026 · [← all companies](../README.md#companies)
+**47 questions** · 24 drives · latest 14 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 20 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 14 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [SQL](../topics/sql.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · +7 more  
-**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNIT Jaipur, MNNIT Allahabad +7 more
+**Asks about:** [OA Format](../topics/oa-format.md) 21 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 14 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [SQL](../topics/sql.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · +7 more  
+**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNIT Jaipur +8 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-14 · IIT Indore · FTE](#2026-11-14--iit-indore--fte)
+  - [ICICI OA format](#q1-icici-oa-format)
 - [2026-11-11 · MNNIT Allahabad · FTE](#2026-11-11--mnnit-allahabad--fte)
   - [ICICI OA difficulty](#q1-icici-oa-difficulty)
 - [2026-11-11 · IIT Roorkee · FTE](#2026-11-11--iit-roorkee--fte)
@@ -31,7 +33,7 @@
 - [2026-11-06 · IIT Roorkee · FTE · Manager 1](#2026-11-06--iit-roorkee--fte--manager-1)
   - [ICICI Manager 1 and Lombard Full Stack test content](#q1-icici-manager-1-and-lombard-full-stack-test-content)
 - [2026-11-05 · IIT Guwahati · FTE](#2026-11-05--iit-guwahati--fte)
-  - [ICICI OA format](#q1-icici-oa-format)
+  - [ICICI OA format](#q1-icici-oa-format-1)
 - [2026-11-05 · IIT BHU · FTE · Manager 1 · Other round](#2026-11-05--iit-bhu--fte--manager-1--other-round)
   - [ICICI Manager OA topics](#q1-icici-manager-oa-topics)
   - [ICICI interview: Placement Coordinator role questions](#q2-icici-interview-placement-coordinator-role-questions)
@@ -56,7 +58,7 @@
 - [2026-10-13 · MNIT Jaipur · FTE](#2026-10-13--mnit-jaipur--fte)
   - [ICICI DP OA overall pattern](#q1-icici-dp-oa-overall-pattern)
 - [2026-10-08 · Manipal · FTE](#2026-10-08--manipal--fte)
-  - [ICICI OA format](#q1-icici-oa-format-1)
+  - [ICICI OA format](#q1-icici-oa-format-2)
 - [2026-10-07 · MNNIT Allahabad · FTE · Deputy Manager · Interview](#2026-10-07--mnnit-allahabad--fte--deputy-manager--interview)
   - [ICICI interview questions](#q1-icici-interview-questions)
 - [2026-10-06 · IIT Roorkee · FTE](#2026-10-06--iit-roorkee--fte)
@@ -81,6 +83,14 @@
 </details>
 
 ---
+
+## 2026-11-14 · IIT Indore · FTE
+
+### Q1. ICICI OA format
+
+Heard from other colleges: 50 MCQs that do not repeat, and for most colleges the OA is taken from the room itself.
+
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/icici-oa/2026-11.jsonl#L121)</sub>
 
 ## 2026-11-11 · MNNIT Allahabad · FTE
 

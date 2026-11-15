@@ -1,13 +1,15 @@
 # Futures First
 
-**38 questions** · 9 drives · latest 13 Nov 2026 · [← all companies](../README.md#companies)
+**39 questions** · 10 drives · latest 14 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 36 · [Math](../topics/math.md) 7 · [OA Format](../topics/oa-format.md) 4 · [Puzzles](../topics/puzzles.md) 4  
+**Asks about:** [Aptitude](../topics/aptitude.md) 36 · [Math](../topics/math.md) 7 · [OA Format](../topics/oa-format.md) 5 · [Puzzles](../topics/puzzles.md) 4  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Madras, IIT Mandi, IIT Roorkee, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-14 · Unknown · FTE](#2026-11-14--unknown--fte)
+  - [Futures First OA and interview format](#q1-futures-first-oa-and-interview-format)
 - [2026-11-13 · IIT Delhi · FTE](#2026-11-13--iit-delhi--fte)
   - [Futures First written test format](#q1-futures-first-written-test-format)
 - [2026-10-29 · IIT BHU · FTE · International Markets Trainee](#2026-10-29--iit-bhu--fte--international-markets-trainee)
@@ -59,6 +61,14 @@
 </details>
 
 ---
+
+## 2026-11-14 · Unknown · FTE
+
+### Q1. Futures First OA and interview format
+
+OA has aptitude + speed maths (quant, mental maths, percentages, ratios, DI, logical reasoning). One experience mentions 16 questions split into 4 sections with game-style scoring (+1/-1, +2/-2 and so on). Interview round had puzzles and projects.
+
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L31)</sub>
 
 ## 2026-11-13 · IIT Delhi · FTE
 

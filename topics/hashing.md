@@ -1,9 +1,10 @@
 # Hashing
 
-116 questions from 52 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+117 questions from 53 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [Nearest city sharing x or y coordinate](../companies/goldman-sachs.md#q2-nearest-city-sharing-x-or-y-coordinate) | [LC 1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) Easy |
 | 2026-11-12 | [Cognizant](../companies/cognizant.md) | IIT Kharagpur/Kanpur | [Implement LFU cache](../companies/cognizant.md#q2-implement-lfu-cache) | [LC 460](https://leetcode.com/problems/lfu-cache/) Hard |
 | 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Fruit Into Baskets](../companies/phyagent.md#q3-fruit-into-baskets) | [LC 904](https://leetcode.com/problems/fruit-into-baskets/) Medium |
 | 2026-11-11 | [Accenture](../companies/accenture.md) | NIT Surathkal | [Sync engine: queries affected by writes](../companies/accenture.md#q1-sync-engine-queries-affected-by-writes) | |

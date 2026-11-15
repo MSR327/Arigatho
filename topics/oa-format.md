@@ -1,9 +1,30 @@
 # OA Format
 
-769 questions from 143 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+790 questions from 146 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [OA format: CS and statistics MCQs](../companies/goldman-sachs.md#q1-oa-format-cs-and-statistics-mcqs) | |
+| 2026-11-15 | [Cars24](../companies/cars24.md) | IIT Delhi | [Analytics role hiring process outline](../companies/cars24.md#q1-analytics-role-hiring-process-outline) | |
+| 2026-11-15 | [Cars24](../companies/cars24.md) | IIT BHU | [Cars24 DS OA pattern](../companies/cars24.md#q1-cars24-ds-oa-pattern) | |
+| 2026-11-15 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIIT | [ML Scientist OA pattern](../companies/eternal-zomato.md#q1-ml-scientist-oa-pattern) | |
+| 2026-11-15 | [Cars24](../companies/cars24.md) | IIT Delhi | [Cars24 DS/AI-ML OA pattern](../companies/cars24.md#q1-cars24-dsai-ml-oa-pattern) | |
+| 2026-11-14 | [QiCap](../companies/qicap.md) | IIT BHU | [QiCap Software/Quant Developer OA topics](../companies/qicap.md#q2-qicap-softwarequant-developer-oa-topics) | |
+| 2026-11-14 | [QiCap](../companies/qicap.md) | IIT BHU | [QiCap Quant/Research OA topics](../companies/qicap.md#q1-qicap-quantresearch-oa-topics) | |
+| 2026-11-14 | [Cars24](../companies/cars24.md) | IIT Delhi | [Cars24 DS/ML OA MCQ section](../companies/cars24.md#q1-cars24-dsml-oa-mcq-section) | |
+| 2026-11-14 | [Nvidia](../companies/nvidia.md) | Unknown | [Formal verification interview process and topics](../companies/nvidia.md#q1-formal-verification-interview-process-and-topics) | |
+| 2026-11-14 | [Teradata](../companies/teradata.md) | Unknown | [Teradata selection process](../companies/teradata.md#q1-teradata-selection-process) | |
+| 2026-11-14 | [Futures First](../companies/futures-first.md) | Unknown | [Futures First OA and interview format](../companies/futures-first.md#q1-futures-first-oa-and-interview-format) | |
+| 2026-11-14 | [Cars24](../companies/cars24.md) | IIT Delhi | [Cars24 SDE OA pattern](../companies/cars24.md#q1-cars24-sde-oa-pattern) | |
+| 2026-11-14 | [SEDEMAC](../companies/sedemac.md) | IIT Roorkee | [SEDEMAC R&D process and topics](../companies/sedemac.md#q1-sedemac-rd-process-and-topics) | |
+| 2026-11-14 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Kharagpur/Kanpur | [Eternal OA difficulty and sections](../companies/eternal-zomato.md#q1-eternal-oa-difficulty-and-sections) | |
+| 2026-11-14 | [Ola](../companies/ola.md) | IIT Kanpur | [Ola GET Product Engineer OA pattern (hearsay)](../companies/ola.md#q1-ola-get-product-engineer-oa-pattern-hearsay) | |
+| 2026-11-14 | [Yamaha](../companies/yamaha.md) | IIT Kharagpur/Kanpur | [Yamaha OA pattern (second-hand)](../companies/yamaha.md#q1-yamaha-oa-pattern-second-hand) | |
+| 2026-11-14 | [NoBroker](../companies/nobroker.md) | IIT Kharagpur | [NoBroker PA OA format](../companies/nobroker.md#q1-nobroker-pa-oa-format) | |
+| 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | NIT Karnataka Surathkal | [Tech Mahindra aptitude section overview](../companies/tech-mahindra.md#q1-tech-mahindra-aptitude-section-overview) | |
+| 2026-11-14 | [ICICI](../companies/icici.md) | IIT Indore | [ICICI OA format](../companies/icici.md#q1-icici-oa-format) | |
+| 2026-11-14 | [Nutanix](../companies/nutanix.md) | IIT Madras | [Nutanix MTS 2 OA format](../companies/nutanix.md#q1-nutanix-mts-2-oa-format) | |
+| 2026-11-14 | [Goldman Sachs](../companies/goldman-sachs.md) | MNNIT Allahabad | [OA format](../companies/goldman-sachs.md#q1-oa-format) | |
 | 2026-11-13 | [Goldman Sachs](../companies/goldman-sachs.md) | IIT Kharagpur | [Goldman Sachs OA format: 2 DSA + 15 stats](../companies/goldman-sachs.md#q1-goldman-sachs-oa-format-2-dsa--15-stats) | |
 | 2026-11-13 | [Moneyview](../companies/moneyview.md) | NIT Surathkal | [Moneyview two-round Linux/networking assessment](../companies/moneyview.md#q1-moneyview-two-round-linuxnetworking-assessment) | |
 | 2026-11-13 | [MathWorks](../companies/mathworks.md) | IIT Kharagpur | [MathWorks Technical Writer OA pattern](../companies/mathworks.md#q1-mathworks-technical-writer-oa-pattern) | |
@@ -210,7 +231,7 @@
 | 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Vibe coding backend API assignment](../companies/denso.md#q4-vibe-coding-backend-api-assignment) | |
 | 2026-11-05 | [BlackRock](../companies/blackrock.md) | IIT Indore | [BlackRock AD OA format](../companies/blackrock.md#q1-blackrock-ad-oa-format) | |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Guwahati | [Navi Data Science OA topics](../companies/navi.md#q1-navi-data-science-oa-topics) | |
-| 2026-11-05 | [ICICI](../companies/icici.md) | IIT Guwahati | [ICICI OA format](../companies/icici.md#q1-icici-oa-format) | |
+| 2026-11-05 | [ICICI](../companies/icici.md) | IIT Guwahati | [ICICI OA format](../companies/icici.md#q1-icici-oa-format-1) | |
 | 2026-11-05 | [Plutus Research](../companies/plutus-research.md) | IIT Kharagpur | [Plutus quant OA topics](../companies/plutus-research.md#q1-plutus-quant-oa-topics) | |
 | 2026-11-05 | [IQVIA](../companies/iqvia.md) | IIT Bombay | [IQVIA analyst OA contents](../companies/iqvia.md#q1-iqvia-analyst-oa-contents) | |
 | 2026-11-05 | [Unknown](../companies/unknown.md) | IIT Guwahati | [OA format: DSA, aptitude, SQL, behavioural](../companies/unknown.md#q1-oa-format-dsa-aptitude-sql-behavioural) | |
@@ -699,7 +720,7 @@
 | 2026-10-09 | [ION](../companies/ion.md) | IIT BHU | [ION hiring process rounds](../companies/ion.md#q1-ion-hiring-process-rounds) | |
 | 2026-10-09 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [MCQ section size (Elite Technology Engineer OA)](../companies/accenture.md#q2-mcq-section-size-elite-technology-engineer-oa) | |
 | 2026-10-08 | [Texas Instruments](../companies/texas-instruments.md) | IIT Bombay | [Rest of the 60-question paper](../companies/texas-instruments.md#q1-rest-of-the-60-question-paper) | |
-| 2026-10-08 | [ICICI](../companies/icici.md) | Manipal | [ICICI OA format](../companies/icici.md#q1-icici-oa-format-1) | |
+| 2026-10-08 | [ICICI](../companies/icici.md) | Manipal | [ICICI OA format](../companies/icici.md#q1-icici-oa-format-2) | |
 | 2026-10-08 | [Eternal (Zomato)](../companies/eternal-zomato.md) | NIT Karnataka Surathkal | [SDE OA format: 13 MCQs plus DSA](../companies/eternal-zomato.md#q1-sde-oa-format-13-mcqs-plus-dsa) | |
 | 2026-10-08 | [Accenture](../companies/accenture.md) | NIT Silchar | [Accenture ATE role OA pattern](../companies/accenture.md#q1-accenture-ate-role-oa-pattern) | |
 | 2026-10-08 | [Squarepoint](../companies/squarepoint.md) | IIT BHU | [OA format: bash and bug fix rounds](../companies/squarepoint.md#q1-oa-format-bash-and-bug-fix-rounds) | |

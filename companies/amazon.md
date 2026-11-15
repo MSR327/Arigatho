@@ -1,6 +1,6 @@
 # Amazon
 
-**22 questions** · 19 drives · latest 12 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**22 questions** · 19 drives · latest 14 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 17 · [Arrays](../topics/arrays.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +5 more  
 **Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +7 more
@@ -181,7 +181,7 @@ One medium-level DSA question and one Node.js debugging task along with an AI as
 
 One DSA question and one code repo debugging task.
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L66)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L66) · Also asked at: MNNIT Allahabad (2026-11-14)</sub>
 
 ## 2026-11-05 · IIT Delhi · FTE
 

@@ -1,9 +1,10 @@
 # Strings
 
-124 questions from 48 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+125 questions from 49 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Sort dish names by first character, length, lexicographic](../companies/tech-mahindra.md#q1-sort-dish-names-by-first-character-length-lexicographic) | |
 | 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Longest Common Subsequence](../companies/urban-company.md#q2-longest-common-subsequence) | [LC 1143](https://leetcode.com/problems/longest-common-subsequence/) Medium |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Reverse a string in Python](../companies/accenture.md#q7-reverse-a-string-in-python) | [LC 344](https://leetcode.com/problems/reverse-string/) Easy |
 | 2026-11-12 | [PhyAgent](../companies/phyagent.md) | IIT Guwahati | [Maximum Number of Strings](../companies/phyagent.md#q4-maximum-number-of-strings) | [LC 474](https://leetcode.com/problems/ones-and-zeroes/) Medium |

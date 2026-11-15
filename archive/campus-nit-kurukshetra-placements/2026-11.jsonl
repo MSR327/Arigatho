@@ -151,3 +151,4 @@
 {"id": 27720, "group": "campus-nit-kurukshetra-placements", "sent_at": "2026-11-13T17:54:20.693694+00:00", "text": "ivycap anyone", "author_tag": "IITK", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 27860, "group": "campus-nit-kurukshetra-placements", "sent_at": "2026-11-13T21:26:32.888856+00:00", "text": "", "author_tag": "NITK", "reply_to": null, "attachment": null, "deleted": true}
 {"id": 27875, "group": "campus-nit-kurukshetra-placements", "sent_at": "2026-11-13T22:23:08.176681+00:00", "text": "", "author_tag": "IITH", "reply_to": null, "attachment": null, "deleted": true}
+{"id": 28106, "group": "campus-nit-kurukshetra-placements", "sent_at": "2026-11-14T06:27:07.600756+00:00", "text": "NIT Hamirpur ig, saw someone asking for it", "author_tag": "NITK", "reply_to": {"id": 27720, "text": "ivycap anyone", "author_tag": "IITK"}, "attachment": null, "deleted": false}
