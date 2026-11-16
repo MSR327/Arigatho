@@ -1,6 +1,6 @@
 # IDFC First Bank
 
-**10 questions** · 10 drives · latest 13 Nov 2026 · [← all companies](../README.md#companies)
+**10 questions** · 10 drives · latest 16 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 10  
 **Seen at:** IIIT Allahabad, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, MNNIT Allahabad +2 more
@@ -131,4 +131,4 @@ Assessment consists of 2 back-to-back tests (chain assessment):
 
 There were 2 coding questions and 15-20 MCQs. The topics and the questions themselves were not given.
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L395)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L395) · Also asked at: MNNIT Allahabad (2026-11-16)</sub>

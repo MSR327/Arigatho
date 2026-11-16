@@ -1,9 +1,13 @@
 # OS/DBMS/CN MCQ
 
-133 questions from 25 companys, newest first. [← all topics](../README.md#topics)
+137 questions from 26 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Teradata](../companies/teradata.md) | Unknown | [Teradata OA topics: ETL, channel driver, RDBMS](../companies/teradata.md#q4-teradata-oa-topics-etl-channel-driver-rdbms) | |
+| 2026-11-15 | [Teradata](../companies/teradata.md) | Unknown | [Caching in Teradata](../companies/teradata.md#q3-caching-in-teradata) | |
+| 2026-11-15 | [Teradata](../companies/teradata.md) | Unknown | [Importance of using Teradata](../companies/teradata.md#q2-importance-of-using-teradata) | |
+| 2026-11-15 | [Teradata](../companies/teradata.md) | Unknown | [Explain channel driver in Teradata](../companies/teradata.md#q1-explain-channel-driver-in-teradata) | |
 | 2026-11-13 | [Moneyview](../companies/moneyview.md) | NIT Surathkal | [Moneyview two-round Linux/networking assessment](../companies/moneyview.md#q1-moneyview-two-round-linuxnetworking-assessment) | |
 | 2026-11-13 | [Media.net](../companies/media-net.md) | IIT BHU | [Round 2: Server and networking implementation tasks](../companies/media-net.md#q2-round-2-server-and-networking-implementation-tasks) | |
 | 2026-11-13 | [Media.net](../companies/media-net.md) | MNNIT Allahabad | [Media.net SDE interview questions](../companies/media-net.md#q1-medianet-sde-interview-questions) | [LC 1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) Medium |

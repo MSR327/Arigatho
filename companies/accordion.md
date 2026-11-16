@@ -1,13 +1,15 @@
 # Accordion
 
-**36 questions** · 11 drives · latest 12 Nov 2026 · [← all companies](../README.md#companies)
+**37 questions** · 12 drives · latest 15 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 26 · [Finance](../topics/finance.md) 10 · [OA Format](../topics/oa-format.md) 9 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 26 · [OA Format](../topics/oa-format.md) 10 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-15 · IIT Guwahati · FTE · AI/ML Engineer](#2026-11-15--iit-guwahati--fte--aiml-engineer)
+  - [Accordion OA pattern](#q1-accordion-oa-pattern)
 - [2026-11-11 · IIT Roorkee · FTE](#2026-11-11--iit-roorkee--fte)
   - [Streaming service households: decrease in movies streamed](#q1-streaming-service-households-decrease-in-movies-streamed)
   - [Estimate households interested in streaming service in two years](#q2-estimate-households-interested-in-streaming-service-in-two-years)
@@ -24,7 +26,7 @@
 - [2026-11-09 · IIIT Allahabad · FTE](#2026-11-09--iiit-allahabad--fte)
   - [Accordion OA sections](#q1-accordion-oa-sections)
 - [2026-11-08 · MNNIT Allahabad · FTE · Data and AI Analyst](#2026-11-08--mnnit-allahabad--fte--data-and-ai-analyst)
-  - [Accordion OA pattern](#q1-accordion-oa-pattern)
+  - [Accordion OA pattern](#q1-accordion-oa-pattern-1)
 - [2026-11-07 · IIT Delhi · FTE · Data and AI Analyst](#2026-11-07--iit-delhi--fte--data-and-ai-analyst)
   - [OA structure](#q1-oa-structure)
   - [Market share change for printer maker](#q2-market-share-change-for-printer-maker)
@@ -46,9 +48,9 @@
   - [Expected surgeries from Beyonce's leads](#q18-expected-surgeries-from-beyonces-leads)
   - [Expected return on acquiring a digital customer](#q19-expected-return-on-acquiring-a-digital-customer)
 - [2026-11-07 · IIT Bombay · FTE · Data and AI Analyst](#2026-11-07--iit-bombay--fte--data-and-ai-analyst)
-  - [Accordion OA pattern](#q1-accordion-oa-pattern-1)
-- [2026-11-06 · IIT Roorkee · FTE · Data & AI Analyst 2 / AI/ML Engineer 2](#2026-11-06--iit-roorkee--fte--data--ai-analyst-2--aiml-engineer-2)
   - [Accordion OA pattern](#q1-accordion-oa-pattern-2)
+- [2026-11-06 · IIT Roorkee · FTE · Data & AI Analyst 2 / AI/ML Engineer 2](#2026-11-06--iit-roorkee--fte--data--ai-analyst-2--aiml-engineer-2)
+  - [Accordion OA pattern](#q1-accordion-oa-pattern-3)
 - [2026-11-06 · IIT Bhubaneswar · FTE · Data Engineer](#2026-11-06--iit-bhubaneswar--fte--data-engineer)
   - [Accordion Data Engineer OA pattern](#q1-accordion-data-engineer-oa-pattern)
 - [2026-11-05 · IIT BHU · FTE · AI/ML Engineer](#2026-11-05--iit-bhu--fte--aiml-engineer)
@@ -59,6 +61,14 @@
 </details>
 
 ---
+
+## 2026-11-15 · IIT Guwahati · FTE · AI/ML Engineer
+
+### Q1. Accordion OA pattern
+
+For the AI/ML engineer role: aptitude, PST and 2 DSA questions. For all other roles: only PST.
+
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L513)</sub>
 
 ## 2026-11-11 · IIT Roorkee · FTE
 

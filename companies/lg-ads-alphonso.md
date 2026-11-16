@@ -1,9 +1,9 @@
 # LG Ads (Alphonso)
 
-**7 questions** · 2 drives · latest 14 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**7 questions** · 2 drives · latest 15 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 4 · [Math](../topics/math.md) 3 · [Sliding Window](../topics/sliding-window.md) 2 · [Hashing](../topics/hashing.md) 2 · [Heaps](../topics/heaps.md) 1 · [OA Format](../topics/oa-format.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1  
-**Seen at:** IIT BHU, IIT Indore, IIT Madras, IIT Ropar
+**Seen at:** IIT BHU, IIT Indore, IIT Madras, IIT Roorkee, IIT Ropar
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -28,7 +28,7 @@
 
 12 MCQs, simple: SQL, OOPs, basic system design. Followed by 3 coding questions. Platform: HackerRank.
 
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-ropar-placements/2026-10.jsonl#L30) · Also asked at: IIT BHU ×2 (last 2026-11-14), IIT Ropar (2026-11-14)</sub>
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-ropar-placements/2026-10.jsonl#L30) · Also asked at: IIT BHU ×2 (last 2026-11-14), IIT Ropar (2026-11-14), IIT Roorkee (2026-11-15)</sub>
 
 ### Q2. Assignments with no choice repeated more than k times in a row
 
@@ -76,7 +76,7 @@ An array is given. Find the maximum sum of a valid subarray, where a valid subar
 
 Find the maximum length of a subarray where the difference between the maximum and the minimum of that subarray is <= a given value D, and the sum of that subarray is <= a given value B.
 
-<sub>Topics: Sliding Window, Arrays, Heaps · Same idea: [LeetCode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) (Medium), monotonic deques tracking window max and min · Source: [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L203), [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L212) · Also asked at: IIT Ropar (2026-11-14), IIT Indore (2026-11-14), IIT BHU (2026-11-14)</sub>
+<sub>Topics: Sliding Window, Arrays, Heaps · Same idea: [LeetCode 1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) (Medium), monotonic deques tracking window max and min · Source: [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L203), [chat, 21 Oct](../archive/campus-iit-bhu-placements/2026-10.jsonl#L212) · Also asked at: IIT Ropar (2026-11-14), IIT Indore (2026-11-14), IIT BHU (2026-11-14), IIT Roorkee (2026-11-15)</sub>
 
 ### Q3. Towers receiving a field in D-dimensional space
 

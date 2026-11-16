@@ -1,6 +1,6 @@
 # Deloitte
 
-**73 questions** · 20 drives · latest 14 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**73 questions** · 20 drives · latest 15 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 22 · [OA Format](../topics/oa-format.md) 14 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [SQL](../topics/sql.md) 5 · +14 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, IIT Ropar +4 more
@@ -288,7 +288,7 @@ D. 73:100
 
 Round 1: 60 MCQs on HirePro covering aptitude (verbal, quantitative, logical reasoning), CS fundamentals, SQL and code snippets. Each aptitude section gives 10 minutes for 10 questions; the last technical section gives 30 minutes for 30 questions. The quant section takes the longest. The poster left 4 questions unattempted and still cleared round 1. Round 2 is a vibe coding round (only if round 1 is cleared); the poster says the last 2 questions in the shared PDF are prompt engineering. What exactly was asked in vibe coding is not mentioned.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L43), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L45), [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L49), [ChatGPT Image Oct 27, 2026, 04_12_36 PM.pdf](../archive/files/15299-ChatGPT_Image_Oct_27_2026_04_12_36_PM.pdf) · Also asked at: IIT Hyderabad (2026-11-05)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L43), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L45), [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L49), [ChatGPT Image Oct 27, 2026, 04_12_36 PM.pdf](../archive/files/15299-ChatGPT_Image_Oct_27_2026_04_12_36_PM.pdf) · Also asked at: IIT Hyderabad ×2 (last 2026-11-15)</sub>
 
 ### Q2. Pseudocode: average marks after adding 5 to those below 40
 

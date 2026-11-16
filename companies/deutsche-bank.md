@@ -1,13 +1,15 @@
 # Deutsche Bank
 
-**18 questions** · 9 drives · latest 31 Oct 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**19 questions** · 10 drives · latest 15 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Strings](../topics/strings.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · [Sorting](../topics/sorting.md) 2 · +5 more  
+**Asks about:** [Arrays](../topics/arrays.md) 6 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Strings](../topics/strings.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Greedy](../topics/greedy.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · +5 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-15 · IIT BHU · FTE](#2026-11-15--iit-bhu--fte)
+  - [Make adjacent differences at most 1](#q1-make-adjacent-differences-at-most-1)
 - [2026-10-31 · IIT Kharagpur/Kanpur · FTE](#2026-10-31--iit-kharagpurkanpur--fte)
   - [Deutsche Bank first-stage form and shortlisting](#q1-deutsche-bank-first-stage-form-and-shortlisting)
 - [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
@@ -39,6 +41,14 @@
 </details>
 
 ---
+
+## 2026-11-15 · IIT BHU · FTE
+
+### Q1. Make adjacent differences at most 1
+
+Make the absolute difference between adjacent elements <= 1 in the minimum number of moves. (Poster did not remember the exact statement or move definition; the other two questions were not recalled.)
+
+<sub>Topics: Arrays, Greedy · Same idea: [LeetCode 2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/) (Medium), adjacent difference constraint · Source: [chat, 15 Nov](../archive/deutsche-bank-oa/2026-11.jsonl#L7), [chat, 15 Nov](../archive/deutsche-bank-oa/2026-11.jsonl#L8), [chat, 15 Nov](../archive/deutsche-bank-oa/2026-11.jsonl#L9)</sub>
 
 ## 2026-10-31 · IIT Kharagpur/Kanpur · FTE
 
@@ -152,7 +162,7 @@ A "frog jump 2" type question. Exact statement not given.
 
 Deutsche Bank OA (IIT Kharagpur) had 3 DSA questions: 1 tough and 2 easy-to-medium.
 
-<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508) · Also asked at: IIT BHU (2026-10-30), IIT Guwahati ×3 (last 2026-10-31), Unknown ×2 (last 2026-10-31)</sub>
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508) · Also asked at: IIT Guwahati ×3 (last 2026-10-31), Unknown ×2 (last 2026-10-31), IIT BHU ×2 (last 2026-11-15)</sub>
 
 ## 2026-10-16 · IIT Kanpur · FTE
 

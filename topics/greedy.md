@@ -1,9 +1,10 @@
 # Greedy
 
-117 questions from 49 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+118 questions from 49 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT BHU | [Make adjacent differences at most 1](../companies/deutsche-bank.md#q1-make-adjacent-differences-at-most-1) | ≈ [LC 2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) Medium |
 | 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Maximize sum of absolute differences of symmetric elements](../companies/tech-mahindra.md#q3-maximize-sum-of-absolute-differences-of-symmetric-elements) | |
 | 2026-11-12 | [Cognizant](../companies/cognizant.md) | IIT Kharagpur/Kanpur | [Scheduling question](../companies/cognizant.md#q3-scheduling-question) | |
 | 2026-11-12 | [Unknown](../companies/unknown.md) | IIT BHU | [Players who can still win the trophy](../companies/unknown.md#q1-players-who-can-still-win-the-trophy) | ≈ [LC 1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) Easy |

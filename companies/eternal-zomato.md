@@ -1365,13 +1365,13 @@ Choose the correct goodness of fit test with corresponding distributions. (Optio
 
 Codeforces problem 1324F. Only the problem reference was given, not the statement.
 
-<sub>Topics: Trees, DP · Same problem: [Codeforces 1324F. Maximum White Subtree](https://codeforces.com/problemset/problem/1324/F) (rated 1800), the named Codeforces problem · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati ×2 (last 2026-11-01)</sub>
+<sub>Topics: Trees, DP · Same problem: [Codeforces 1324F. Maximum White Subtree](https://codeforces.com/problemset/problem/1324/F) (rated 1800), the named Codeforces problem · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati ×2 (last 2026-11-01), IIT BHU (2026-11-15)</sub>
 
 ### Q2. LeetCode 924 (infection spread problem)
 
 LeetCode problem 924. Only the problem reference was given, not the statement.
 
-<sub>Topics: Graphs · Similar: [LeetCode 924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) (Hard) · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati ×2 (last 2026-11-01)</sub>
+<sub>Topics: Graphs · Similar: [LeetCode 924. Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/) (Hard) · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati ×2 (last 2026-11-01), IIT BHU (2026-11-15)</sub>
 
 ### Q3. Index of first greater element in another array
 
@@ -1379,7 +1379,7 @@ Given two arrays a and b. For each element in a (a[i]), you have to find the ind
 
 You have to return the vector of indices.
 
-<sub>Topics: Arrays, Binary Search · Same idea: [LeetCode 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) (Easy), binary search first greater element · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati ×2 (last 2026-11-01)</sub>
+<sub>Topics: Arrays, Binary Search · Same idea: [LeetCode 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) (Easy), binary search first greater element · Source: [chat, 7 Oct](../archive/eternal-oa/2026-10.jsonl#L335) · Also asked at: IIT Guwahati ×2 (last 2026-11-01), IIT BHU (2026-11-15)</sub>
 
 ## 2026-10-07 · IIT Guwahati · FTE · Product Analyst
 

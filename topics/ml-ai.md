@@ -1,9 +1,20 @@
 # ML/AI
 
-152 questions from 25 companys, newest first. [← all topics](../README.md#topics)
+163 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [EDA approach on a given dataset](../companies/cars24.md#q9-eda-approach-on-a-given-dataset) |
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [Feature importance](../companies/cars24.md#q8-feature-importance) |
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [Evaluating a regression model](../companies/cars24.md#q7-evaluating-a-regression-model) |
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [L1 and L2 regularization](../companies/cars24.md#q6-l1-and-l2-regularization) |
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [Handling overfitting](../companies/cars24.md#q5-handling-overfitting) |
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [Anomaly detection and reduction techniques](../companies/cars24.md#q4-anomaly-detection-and-reduction-techniques) |
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [Linear Regression vs PCA](../companies/cars24.md#q2-linear-regression-vs-pca) |
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [Regression algorithms and loss functions](../companies/cars24.md#q1-regression-algorithms-and-loss-functions) |
+| 2026-11-15 | [Cars24](../companies/cars24.md) | IIT Delhi | [Cars24 GenAI OA format](../companies/cars24.md#q1-cars24-genai-oa-format) |
+| 2026-11-15 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 DS OA format](../companies/cars24.md#q1-cars24-ds-oa-format) |
+| 2026-11-15 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 Gen AI OA emphasis](../companies/cars24.md#q1-cars24-gen-ai-oa-emphasis) |
 | 2026-11-15 | [Accenture](../companies/accenture.md) | Unknown | [Accenture AI/Data interview: RAG and gen AI](../companies/accenture.md#q2-accenture-aidata-interview-rag-and-gen-ai) |
 | 2026-11-14 | [Cars24](../companies/cars24.md) | IIT Delhi | [House price prediction ML task](../companies/cars24.md#q2-house-price-prediction-ml-task) |
 | 2026-11-14 | [Cars24](../companies/cars24.md) | IIT Delhi | [Cars24 DS/ML OA MCQ section](../companies/cars24.md#q1-cars24-dsml-oa-mcq-section) |

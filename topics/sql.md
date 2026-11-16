@@ -1,9 +1,11 @@
 # SQL
 
-118 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+120 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Revolut](../companies/revolut.md) | NIT Surathkal | [Revolut SQL join questions on 3 tables](../companies/revolut.md#q1-revolut-sql-join-questions-on-3-tables) | |
+| 2026-11-15 | [Media.net](../companies/media-net.md) | IIT BHU | [Media.net OA: SQL and Python coding](../companies/media-net.md#q1-medianet-oa-sql-and-python-coding) | |
 | 2026-11-15 | [Accenture](../companies/accenture.md) | Unknown | [Second highest salary (SQL)](../companies/accenture.md#q1-second-highest-salary-sql) | [LC 176](https://leetcode.com/problems/second-highest-salary/) Medium |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SQL sort descending by first name](../companies/accenture.md#q6-sql-sort-descending-by-first-name) | |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [UPDATE place for worker ID 5](../companies/accenture.md#q4-update-place-for-worker-id-5) | |

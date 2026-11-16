@@ -1,13 +1,17 @@
 # Media.net
 
-**15 questions** · 12 drives · latest 15 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**17 questions** · 14 drives · latest 15 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Arrays](../topics/arrays.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · +6 more  
-**Seen at:** Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal, NIT Patna +3 more
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Arrays](../topics/arrays.md) 4 · [Trees](../topics/trees.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · +9 more  
+**Seen at:** Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal, NIT Patna +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-15 · NIT Surathkal · FTE](#2026-11-15--nit-surathkal--fte)
+  - [Sync engine: queries affected by writes](#q1-sync-engine-queries-affected-by-writes)
+- [2026-11-15 · IIT BHU · FTE · Senior Product Analyst](#2026-11-15--iit-bhu--fte--senior-product-analyst)
+  - [Media.net OA: SQL and Python coding](#q1-medianet-oa-sql-and-python-coding)
 - [2026-11-13 · MNNIT Allahabad · FTE · SDE · Interview](#2026-11-13--mnnit-allahabad--fte--sde--interview)
   - [Media.net SDE interview questions](#q1-medianet-sde-interview-questions)
 - [2026-11-13 · IIT BHU · FTE · Senior Product Analyst](#2026-11-13--iit-bhu--fte--senior-product-analyst)
@@ -39,6 +43,32 @@
 </details>
 
 ---
+
+## 2026-11-15 · NIT Surathkal · FTE
+
+### Q1. Sync engine: queries affected by writes
+
+A variant of the "sync engine" question.
+
+Input:
+- First line: two integers n, q.
+- n query blocks follow (numbered 1 to n in input order). Each block has a line with the table name, a line with integer T (number of nodes in the condition tree), then T lines describing nodes 1 to T where node 1 is the root.
+- Each node line is one of: `AND k c1 c2 ...`, `OR k c1 c2 ...`, or `COND column= value`.
+- Then q write blocks follow. Each starts with the write type and table name (INSERT, DELETE, UPDATE), then a row as an integer c followed by c lines of column value.
+
+Output: print q lines. Line i contains the ids of the queries affected by the i-th write, in increasing order, space separated. If no query is affected print -1.
+
+Examples and constraints were not given.
+
+<sub>Topics: Trees, Hashing · Source: [chat, 15 Nov](../archive/inter-nit/2026-11.jsonl#L1789)</sub>
+
+## 2026-11-15 · IIT BHU · FTE · Senior Product Analyst
+
+### Q1. Media.net OA: SQL and Python coding
+
+OA for Senior Product Analyst at IIT BHU. Previous years' questions were repeated for all the SQL and Python coding questions. No specific questions given.
+
+<sub>Topics: OA Format, SQL, Python & Pandas · Source: [chat, 15 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L345)</sub>
 
 ## 2026-11-13 · MNNIT Allahabad · FTE · SDE · Interview
 

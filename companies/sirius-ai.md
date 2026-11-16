@@ -1,6 +1,6 @@
 # Sirius AI
 
-**2 questions** · 2 drives · latest 8 Nov 2026 · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 15 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 2  
 **Seen at:** IIT BHU, MNNIT Allahabad
@@ -40,4 +40,4 @@ Rounds and topics:
 3. Technical: DSA, OOP, DBMS
 4. Panel discussion: Technical and company-related questions
 
-<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L87)</sub>
+<sub>Topics: OA Format · Source: [chat, 7 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L87) · Also asked at: Unknown ×4 (last 2026-11-15)</sub>

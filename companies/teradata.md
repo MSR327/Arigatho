@@ -1,13 +1,18 @@
 # Teradata
 
-**4 questions** · 2 drives · latest 14 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 3 drives · latest 15 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Graphs](../topics/graphs.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1 · [OA Format](../topics/oa-format.md) 1  
+**Asks about:** [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [OA Format](../topics/oa-format.md) 2 · [Graphs](../topics/graphs.md) 1 · [Math](../topics/math.md) 1 · [Heaps](../topics/heaps.md) 1 · [Greedy](../topics/greedy.md) 1 · [Sorting](../topics/sorting.md) 1 · [DP](../topics/dp.md) 1  
 **Seen at:** IIT BHU
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-15 · Unknown · FTE · Other round](#2026-11-15--unknown--fte--other-round)
+  - [Explain channel driver in Teradata](#q1-explain-channel-driver-in-teradata)
+  - [Importance of using Teradata](#q2-importance-of-using-teradata)
+  - [Caching in Teradata](#q3-caching-in-teradata)
+  - [Teradata OA topics: ETL, channel driver, RDBMS](#q4-teradata-oa-topics-etl-channel-driver-rdbms)
 - [2026-11-14 · Unknown · FTE · Other round](#2026-11-14--unknown--fte--other-round)
   - [Teradata selection process](#q1-teradata-selection-process)
 - [2026-09-28 · IIT BHU · FTE](#2026-09-28--iit-bhu--fte)
@@ -18,6 +23,38 @@
 </details>
 
 ---
+
+## 2026-11-15 · Unknown · FTE · Other round
+
+### Q1. Explain channel driver in Teradata
+
+Explain channel driver.
+
+Answer given: a channel driver acts as a means of communication between PEs (Parsing Engines) and the applications that run on channels connected to clients. The Teradata Gateway acts much the same way, as a conduit between the Parse Engine and applications connected to network clients.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 15 Nov](../archive/squarepoint-oa/2026-11.jsonl#L23), [chat, 15 Nov](../archive/squarepoint-oa/2026-11.jsonl#L24)</sub>
+
+### Q2. Importance of using Teradata
+
+What is the importance of using Teradata?
+
+Answer given: handles very large data volumes (50+ petabytes), integrates with BI tools, supports OLAP, offers full data warehousing services, supports SQL, and is based on Massive Parallel Processing (MPP).
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 15 Nov](../archive/squarepoint-oa/2026-11.jsonl#L23), [chat, 15 Nov](../archive/squarepoint-oa/2026-11.jsonl#L24)</sub>
+
+### Q3. Caching in Teradata
+
+What do you mean by caching in Teradata?
+
+Answer given: caching stores frequently used data in cache memory so it can be retrieved directly instead of being regenerated. (The message was cut off.)
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 15 Nov](../archive/squarepoint-oa/2026-11.jsonl#L23), [chat, 15 Nov](../archive/squarepoint-oa/2026-11.jsonl#L24)</sub>
+
+### Q4. Teradata OA topics: ETL, channel driver, RDBMS
+
+Poster says Teradata-related questions include ETL, channel driver and RDBMS principles.
+
+<sub>Topics: OS/DBMS/CN MCQ, OA Format · Source: [chat, 15 Nov](../archive/squarepoint-oa/2026-11.jsonl#L23), [chat, 15 Nov](../archive/squarepoint-oa/2026-11.jsonl#L24)</sub>
 
 ## 2026-11-14 · Unknown · FTE · Other round
 

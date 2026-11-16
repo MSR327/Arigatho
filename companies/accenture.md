@@ -1,8 +1,8 @@
 # Accenture
 
-**344 questions** · 124 drives · latest 15 Nov 2026 · [56 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**345 questions** · 125 drives · latest 15 Nov 2026 · [56 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 94 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 95 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
 
 <details>
@@ -15,6 +15,8 @@
   - [Experience with data analysis](#q1-experience-with-data-analysis)
   - [Handling missing or incomplete data](#q2-handling-missing-or-incomplete-data)
   - [Challenging dataset experience](#q3-challenging-dataset-experience)
+- [2026-11-15 · IIT Roorkee · FTE · Other round](#2026-11-15--iit-roorkee--fte--other-round)
+  - [Accenture process pattern](#q1-accenture-process-pattern)
 - [2026-11-13 · Unknown · FTE · Data and AI](#2026-11-13--unknown--fte--data-and-ai)
   - [Accenture Data and AI OA pattern](#q1-accenture-data-and-ai-oa-pattern)
 - [2026-11-13 · IIT Roorkee · FTE · AI and Data](#2026-11-13--iit-roorkee--fte--ai-and-data)
@@ -487,7 +489,7 @@
 
 Interview coding question in SQL: find the second highest salary. The interviewer would probably push for a window function solution. The Python coding questions were straightforward (not specified).
 
-<sub>Topics: SQL · Similar: [LeetCode 176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) (Medium) · Source: [chat, 15 Nov](../archive/accenture-oa/2026-11.jsonl#L402)</sub>
+<sub>Topics: SQL · Similar: [LeetCode 176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) (Medium) · Source: [chat, 15 Nov](../archive/accenture-oa/2026-11.jsonl#L402) · Also asked at: NIT Surathkal ×2 (last 2026-11-15)</sub>
 
 ### Q2. Accenture AI/Data interview: RAG and gen AI
 
@@ -520,6 +522,14 @@ Explain a time when you had to work with a challenging dataset. How did you mana
 Suggested approach: describe a specific situation with noisy, large or unstructured data. The rest of the shared message was cut off.
 
 <sub>Topics: HR & Behavioral · Source: [chat, 15 Nov](../archive/accenture-oa/2026-11.jsonl#L413)</sub>
+
+## 2026-11-15 · IIT Roorkee · FTE · Other round
+
+### Q1. Accenture process pattern
+
+General pattern: OA (DSA + SQL + frontend), then a communication round, then an HR round. Topics asked across processes include OOPs, OS, CN, DSA, projects and cloud/AI basics.
+
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L539)</sub>
 
 ## 2026-11-13 · Unknown · FTE · Data and AI
 
@@ -1209,7 +1219,7 @@ The OA generally has five sections:
 
 The poster said the technical section should be given the highest priority.
 
-<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L322) · Also asked at: MNNIT Allahabad (2026-11-11), IIT BHU (2026-11-11), NIT Kurukshetra (2026-11-11), IIT Kharagpur/Kanpur ×2 (last 2026-11-13), IIT Roorkee (2026-11-13)</sub>
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/accenture-oa/2026-11.jsonl#L322) · Also asked at: MNNIT Allahabad (2026-11-11), IIT BHU (2026-11-11), NIT Kurukshetra (2026-11-11), IIT Kharagpur/Kanpur ×2 (last 2026-11-13), IIT Roorkee (2026-11-13), NIT Surathkal (2026-11-15)</sub>
 
 ## 2026-11-09 · NIT Trichy · FTE · Elite Technology Engineer · Interview
 

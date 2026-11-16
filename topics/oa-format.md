@@ -1,9 +1,23 @@
 # OA Format
 
-792 questions from 147 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+806 questions from 148 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Accordion](../companies/accordion.md) | IIT Guwahati | [Accordion OA pattern](../companies/accordion.md#q1-accordion-oa-pattern) | |
+| 2026-11-15 | [Ola](../companies/ola.md) | IIT Kharagpur/Kanpur | [Ola GET Chemical OA content](../companies/ola.md#q1-ola-get-chemical-oa-content) | |
+| 2026-11-15 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 OA patterns by role](../companies/cars24.md#q1-cars24-oa-patterns-by-role) | |
+| 2026-11-15 | [Cars24](../companies/cars24.md) | IIT Delhi | [Cars24 GenAI OA format](../companies/cars24.md#q1-cars24-genai-oa-format) | |
+| 2026-11-15 | [Cars24](../companies/cars24.md) | IIT BHU | [Cars24 GenAI OA pattern](../companies/cars24.md#q1-cars24-genai-oa-pattern) | |
+| 2026-11-15 | [Nielsen](../companies/nielsen.md) | NIT Kurukshetra | [Nielsen OA format](../companies/nielsen.md#q1-nielsen-oa-format) | |
+| 2026-11-15 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 DS OA format](../companies/cars24.md#q1-cars24-ds-oa-format) | |
+| 2026-11-15 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI Manager 1 OA pattern](../companies/icici.md#q1-icici-manager-1-oa-pattern) | |
+| 2026-11-15 | [Teradata](../companies/teradata.md) | Unknown | [Teradata OA topics: ETL, channel driver, RDBMS](../companies/teradata.md#q4-teradata-oa-topics-etl-channel-driver-rdbms) | |
+| 2026-11-15 | [LPL Financial](../companies/lpl-financial.md) | IIT Gandhinagar | [LPL Financial process (hearsay)](../companies/lpl-financial.md#q1-lpl-financial-process-hearsay) | |
+| 2026-11-15 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Accenture process pattern](../companies/accenture.md#q1-accenture-process-pattern) | |
+| 2026-11-15 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 Gen AI OA emphasis](../companies/cars24.md#q1-cars24-gen-ai-oa-emphasis) | |
+| 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Ola GET Round 1 OA format](../companies/ola.md#q1-ola-get-round-1-oa-format) | |
+| 2026-11-15 | [Media.net](../companies/media-net.md) | IIT BHU | [Media.net OA: SQL and Python coding](../companies/media-net.md#q1-medianet-oa-sql-and-python-coding) | |
 | 2026-11-15 | [LPL Financial](../companies/lpl-financial.md) | VNIT Nagpur | [LPL Financial GCC OA pattern](../companies/lpl-financial.md#q1-lpl-financial-gcc-oa-pattern) | |
 | 2026-11-15 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [OA format: CS and statistics MCQs](../companies/goldman-sachs.md#q1-oa-format-cs-and-statistics-mcqs) | |
 | 2026-11-15 | [Accenture](../companies/accenture.md) | Unknown | [Accenture AI/Data interview: RAG and gen AI](../companies/accenture.md#q2-accenture-aidata-interview-rag-and-gen-ai) | |
@@ -172,7 +186,7 @@
 | 2026-11-08 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI Bank Manager OA pattern](../companies/icici.md#q1-icici-bank-manager-oa-pattern) | |
 | 2026-11-08 | [Texas Instruments](../companies/texas-instruments.md) | MNNIT Allahabad | [SDE interview focus areas](../companies/texas-instruments.md#q1-sde-interview-focus-areas) | |
 | 2026-11-08 | [BlackRock](../companies/blackrock.md) | BITS | [Aladdin Data OA pattern](../companies/blackrock.md#q1-aladdin-data-oa-pattern) | |
-| 2026-11-08 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Accordion OA pattern](../companies/accordion.md#q1-accordion-oa-pattern) | |
+| 2026-11-08 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Accordion OA pattern](../companies/accordion.md#q1-accordion-oa-pattern-1) | |
 | 2026-11-08 | [Unknown](../companies/unknown.md) | Unknown | [Goldman Sachs Quant Analyst hiring process pattern](../companies/unknown.md#q1-goldman-sachs-quant-analyst-hiring-process-pattern) | |
 | 2026-11-07 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture Data and AI OA format](../companies/accenture.md#q1-accenture-data-and-ai-oa-format) | |
 | 2026-11-07 | [Kuku FM](../companies/kuku-fm.md) | IIT Hyderabad | [Kuku FM AI Engineer selection process](../companies/kuku-fm.md#q1-kuku-fm-ai-engineer-selection-process) | |
@@ -193,7 +207,7 @@
 | 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [OA structure](../companies/accordion.md#q1-oa-structure) | |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | NIT Kurukshetra | [BlackRock AI/ML OA pattern](../companies/blackrock.md#q1-blackrock-aiml-oa-pattern) | |
 | 2026-11-07 | [SEDEMAC](../companies/sedemac.md) | IIT Indore | [SEDEMAC Round 2 technical MCQ test format](../companies/sedemac.md#q1-sedemac-round-2-technical-mcq-test-format) | |
-| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Bombay | [Accordion OA pattern](../companies/accordion.md#q1-accordion-oa-pattern-1) | |
+| 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Bombay | [Accordion OA pattern](../companies/accordion.md#q1-accordion-oa-pattern-2) | |
 | 2026-11-07 | [Bajaj](../companies/bajaj.md) | IIT Kanpur | [Bajaj OA format](../companies/bajaj.md#q1-bajaj-oa-format) | |
 | 2026-11-07 | [BlackRock](../companies/blackrock.md) | IIT Delhi | [OA structure](../companies/blackrock.md#q1-oa-structure) | |
 | 2026-11-07 | [IBM](../companies/ibm.md) | IIT Kharagpur/Kanpur | [IBM OA format: typed answers, non-proctored](../companies/ibm.md#q1-ibm-oa-format-typed-answers-non-proctored) | |
@@ -219,7 +233,7 @@
 | 2026-11-06 | [MathWorks](../companies/mathworks.md) | IIT Hyderabad | [MathWorks OA pattern](../companies/mathworks.md#q1-mathworks-oa-pattern) | |
 | 2026-11-06 | [Kanini](../companies/kanini.md) | Unknown | [Kanini OA and LWS round format](../companies/kanini.md#q1-kanini-oa-and-lws-round-format) | |
 | 2026-11-06 | [Accordion](../companies/accordion.md) | IIT Bhubaneswar | [Accordion Data Engineer OA pattern](../companies/accordion.md#q1-accordion-data-engineer-oa-pattern) | |
-| 2026-11-06 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Accordion OA pattern](../companies/accordion.md#q1-accordion-oa-pattern-2) | |
+| 2026-11-06 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Accordion OA pattern](../companies/accordion.md#q1-accordion-oa-pattern-3) | |
 | 2026-11-06 | [ICICI](../companies/icici.md) | NIT Trichy | [ICICI Manager-1 OA format](../companies/icici.md#q1-icici-manager-1-oa-format) | |
 | 2026-11-06 | [Juspay](../companies/juspay.md) | IIT Bombay | [Ticketing System (Part A)](../companies/juspay.md#q1-ticketing-system-part-a) | |
 | 2026-11-06 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 OA DSA topics](../companies/cars24.md#q1-cars24-oa-dsa-topics) | |
@@ -272,14 +286,14 @@
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [String problem (first DSA question)](../companies/cognizant.md#q5-string-problem-first-dsa-question) | |
 | 2026-11-04 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Roorkee | [CBA OA round 2 format](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-round-2-format) | |
 | 2026-11-04 | [Accenture](../companies/accenture.md) | IIT Kharagpur/Kanpur | [Accenture ETE role OA structure](../companies/accenture.md#q1-accenture-ete-role-oa-structure) | |
-| 2026-11-04 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI Manager 1 OA pattern](../companies/icici.md#q1-icici-manager-1-oa-pattern) | |
+| 2026-11-04 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI Manager 1 OA pattern](../companies/icici.md#q1-icici-manager-1-oa-pattern-1) | |
 | 2026-11-04 | [ICICI](../companies/icici.md) | VNIT Nagpur | [ICICI Manager-1 OA and interview format](../companies/icici.md#q1-icici-manager-1-oa-and-interview-format) | |
 | 2026-11-04 | [Porter](../companies/porter.md) | VNIT Nagpur | [Porter OA pattern](../companies/porter.md#q1-porter-oa-pattern-1) | |
 | 2026-11-04 | [NPCI](../companies/npci.md) | VNIT Nagpur | [NPCI AI round contents](../companies/npci.md#q1-npci-ai-round-contents) | |
 | 2026-11-04 | [Visa](../companies/visa.md) | IIIT Allahabad | [Visa OA structure](../companies/visa.md#q1-visa-oa-structure) | |
 | 2026-11-04 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Cognizant OA DSA difficulty](../companies/cognizant.md#q1-cognizant-oa-dsa-difficulty) | |
 | 2026-11-04 | [Accordion](../companies/accordion.md) | IIT Hyderabad | [Accordion Data & AI Analyst pattern](../companies/accordion.md#q1-accordion-data--ai-analyst-pattern) | |
-| 2026-11-04 | [ICICI](../companies/icici.md) | IIT Hyderabad | [ICICI Manager 1 OA pattern](../companies/icici.md#q1-icici-manager-1-oa-pattern-1) | |
+| 2026-11-04 | [ICICI](../companies/icici.md) | IIT Hyderabad | [ICICI Manager 1 OA pattern](../companies/icici.md#q1-icici-manager-1-oa-pattern-2) | |
 | 2026-11-04 | [NPCI](../companies/npci.md) | IIT Bombay | [NPCI OA pattern](../companies/npci.md#q1-npci-oa-pattern) | |
 | 2026-11-04 | [Unknown](../companies/unknown.md) | IIT Roorkee | [Aptitude OA topics and difficulty](../companies/unknown.md#q1-aptitude-oa-topics-and-difficulty) | |
 | 2026-11-04 | [ICICI](../companies/icici.md) | NIT Surathkal | [ICICI OA pattern at NIT Surathkal](../companies/icici.md#q1-icici-oa-pattern-at-nit-surathkal) | |

@@ -1,9 +1,13 @@
 # Arrays
 
-270 questions from 70 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+274 questions from 71 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Merge k sorted arrays](../companies/ola.md#q1-merge-k-sorted-arrays) | [GfG](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) |
+| 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Ola OA: medium array question](../companies/ola.md#q2-ola-oa-medium-array-question) | |
+| 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Merge k sorted arrays](../companies/ola.md#q2-merge-k-sorted-arrays) | [GfG](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) |
+| 2026-11-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT BHU | [Make adjacent differences at most 1](../companies/deutsche-bank.md#q1-make-adjacent-differences-at-most-1) | ≈ [LC 2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) Medium |
 | 2026-11-15 | [Nutanix](../companies/nutanix.md) | MNNIT Allahabad | [Subarray DP problem](../companies/nutanix.md#q3-subarray-dp-problem) | |
 | 2026-11-15 | [QiCap](../companies/qicap.md) | IIT Delhi | [K-th largest subarray OR](../companies/qicap.md#q1-k-th-largest-subarray-or) | ≈ [LC 378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) Medium |
 | 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Max sum negating at most K non-adjacent elements](../companies/tech-mahindra.md#q4-max-sum-negating-at-most-k-non-adjacent-elements) | |

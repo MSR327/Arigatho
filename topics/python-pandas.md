@@ -1,9 +1,11 @@
 # Python & Pandas
 
-59 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+61 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [EDA approach on a given dataset](../companies/cars24.md#q9-eda-approach-on-a-given-dataset) | |
+| 2026-11-15 | [Media.net](../companies/media-net.md) | IIT BHU | [Media.net OA: SQL and Python coding](../companies/media-net.md#q1-medianet-oa-sql-and-python-coding) | |
 | 2026-11-15 | [Accenture](../companies/accenture.md) | Unknown | [Handling missing or incomplete data](../companies/accenture.md#q2-handling-missing-or-incomplete-data) | |
 | 2026-11-14 | [Cars24](../companies/cars24.md) | IIT Delhi | [House price prediction ML task](../companies/cars24.md#q2-house-price-prediction-ml-task) | |
 | 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Country with highest average rainfall from CSV](../companies/tech-mahindra.md#q2-country-with-highest-average-rainfall-from-csv) | |

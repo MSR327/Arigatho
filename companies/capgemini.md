@@ -1,9 +1,9 @@
 # Capgemini
 
-**17 questions** · 9 drives · latest 13 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**17 questions** · 9 drives · latest 15 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [Verbal](../topics/verbal.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1 · +2 more  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Bhilai, IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur, MNNIT Allahabad, NIT Kurukshetra +4 more
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Bhilai, IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur, IIT Roorkee, MNNIT Allahabad +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -74,7 +74,7 @@ Reported pattern for the software development role at BHU:
 - Round 2: Cognitive + Behavioural assessment (already held at BHU).
 - DSA questions: not held yet at the time of the message; expected to be simply easy.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L55), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L57), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L58), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L59), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L60) · Also asked at: IIT BHU (2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L55), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L57), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L58), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L59), [chat, 12 Nov](../archive/capgemini-oa/2026-11.jsonl#L60) · Also asked at: IIT BHU (2026-11-12), IIT Roorkee ×2 (last 2026-11-15)</sub>
 
 ## 2026-11-12 · IIT BHU · FTE
 
@@ -111,7 +111,7 @@ The first round is a game based round and English comprehension. If you qualify,
 
 The OA had MCQs and 2 DSA questions. The DSA questions were long but easy, mostly implementation based. MCQs were based on aptitude and some CS fundamentals.
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L18) · Also asked at: IIT Guwahati ×2 (last 2026-11-10), VNIT Nagpur (2026-11-12), MNNIT Allahabad (2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L17), [chat, 9 Nov](../archive/capgemini-oa/2026-11.jsonl#L18) · Also asked at: IIT Guwahati ×2 (last 2026-11-10), MNNIT Allahabad (2026-11-12), VNIT Nagpur ×2 (last 2026-11-15)</sub>
 
 ### Q2. Binary search on answer with helper function
 

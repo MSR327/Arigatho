@@ -1,13 +1,15 @@
 # Nielsen
 
-**5 questions** · 1 drive · latest 13 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 2 drives · latest 15 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Strings](../topics/strings.md) 2 · [Graphs](../topics/graphs.md) 2 · [Stack/Queue](../topics/stack-queue.md) 1 · [Arrays](../topics/arrays.md) 1 · [DP](../topics/dp.md) 1 · [Hashing](../topics/hashing.md) 1  
-**Seen at:** VIT Vellore
+**Asks about:** [Strings](../topics/strings.md) 2 · [Graphs](../topics/graphs.md) 2 · [Stack/Queue](../topics/stack-queue.md) 1 · [Arrays](../topics/arrays.md) 1 · [DP](../topics/dp.md) 1 · [Hashing](../topics/hashing.md) 1 · [OA Format](../topics/oa-format.md) 1  
+**Seen at:** NIT Kurukshetra, VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-15 · NIT Kurukshetra · FTE](#2026-11-15--nit-kurukshetra--fte)
+  - [Nielsen OA format](#q1-nielsen-oa-format)
 - [2026-10-13 · VIT Vellore · FTE](#2026-10-13--vit-vellore--fte)
   - [Kth next largest element](#q1-kth-next-largest-element)
   - [Edit Distance](#q2-edit-distance)
@@ -18,6 +20,14 @@
 </details>
 
 ---
+
+## 2026-11-15 · NIT Kurukshetra · FTE
+
+### Q1. Nielsen OA format
+
+The OA had a DSA coding question, MCQs on CS fundamentals, and some AI-based MCQs. No specific questions given.
+
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/inter-iit/2026-11.jsonl#L853)</sub>
 
 ## 2026-10-13 · VIT Vellore · FTE
 

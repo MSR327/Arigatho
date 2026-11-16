@@ -1,9 +1,10 @@
 # Software Engineering
 
-67 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+68 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [LPL Financial](../companies/lpl-financial.md) | IIT Gandhinagar | [LPL Financial process (hearsay)](../companies/lpl-financial.md#q1-lpl-financial-process-hearsay) | |
 | 2026-11-13 | [Media.net](../companies/media-net.md) | IIT BHU | [Round 2: Server and networking implementation tasks](../companies/media-net.md#q2-round-2-server-and-networking-implementation-tasks) | |
 | 2026-11-13 | [Media.net](../companies/media-net.md) | IIT BHU | [Round 1: Linux terminal tasks](../companies/media-net.md#q1-round-1-linux-terminal-tasks) | |
 | 2026-11-13 | [Unknown](../companies/unknown.md) | NIT Kurukshetra | [Fix add-to-cart code repo and rate limiter](../companies/unknown.md#q2-fix-add-to-cart-code-repo-and-rate-limiter) | |

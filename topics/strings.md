@@ -1,9 +1,10 @@
 # Strings
 
-126 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+127 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Ola OA: easy string question](../companies/ola.md#q1-ola-oa-easy-string-question) | |
 | 2026-11-15 | [Nutanix](../companies/nutanix.md) | MNNIT Allahabad | [String implementation problem](../companies/nutanix.md#q2-string-implementation-problem) | |
 | 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Sort dish names by first character, length, lexicographic](../companies/tech-mahindra.md#q1-sort-dish-names-by-first-character-length-lexicographic) | |
 | 2026-11-13 | [Urban Company](../companies/urban-company.md) | NIT Kurukshetra | [Longest Common Subsequence](../companies/urban-company.md#q2-longest-common-subsequence) | [LC 1143](https://leetcode.com/problems/longest-common-subsequence/) Medium |

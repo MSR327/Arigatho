@@ -1,6 +1,6 @@
 # Unknown
 
-**53 questions** · 36 drives · latest 13 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**53 questions** · 36 drives · latest 15 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 24 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [ML/AI](../topics/ml-ai.md) 3 · +16 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur +7 more
@@ -152,7 +152,7 @@ Topics: DBMS (SQL, normalization, transactions), OS (scheduling, deadlocks, pagi
 
 Difficulty: Moderate–Hard. Selection: CBT followed by Interview.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1300)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1300) · Also asked at: Unknown (2026-11-15)</sub>
 
 ## 2026-11-12 · IIT Guwahati · FTE · Research Engineer 1
 

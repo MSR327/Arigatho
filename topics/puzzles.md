@@ -1,9 +1,10 @@
 # Puzzles
 
-30 questions from 12 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+31 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [Probability via Russian Roulette problem](../companies/cars24.md#q3-probability-via-russian-roulette-problem) | |
 | 2026-11-14 | [Nvidia](../companies/nvidia.md) | Unknown | [Formal verification interview process and topics](../companies/nvidia.md#q1-formal-verification-interview-process-and-topics) | |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA logical reasoning questions](../companies/iqvia.md#q5-iqvia-logical-reasoning-questions) | |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [Logical Reasoning questions](../companies/iqvia.md#q2-logical-reasoning-questions) | |

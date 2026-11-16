@@ -1,13 +1,15 @@
 # ICICI
 
-**47 questions** · 24 drives · latest 14 Nov 2026 · [← all companies](../README.md#companies)
+**48 questions** · 25 drives · latest 15 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 21 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 14 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [SQL](../topics/sql.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · +7 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 22 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 14 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [SQL](../topics/sql.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · +7 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNIT Jaipur +8 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-15 · IIT Roorkee · FTE · Manager 1](#2026-11-15--iit-roorkee--fte--manager-1)
+  - [ICICI Manager 1 OA pattern](#q1-icici-manager-1-oa-pattern)
 - [2026-11-14 · IIT Indore · FTE](#2026-11-14--iit-indore--fte)
   - [ICICI OA format](#q1-icici-oa-format)
 - [2026-11-11 · MNNIT Allahabad · FTE](#2026-11-11--mnnit-allahabad--fte)
@@ -42,9 +44,9 @@
 - [2026-11-04 · NIT Surathkal · FTE · Manager-1](#2026-11-04--nit-surathkal--fte--manager-1)
   - [ICICI OA pattern at NIT Surathkal](#q1-icici-oa-pattern-at-nit-surathkal)
 - [2026-11-04 · IIT Roorkee · FTE · Manager 1](#2026-11-04--iit-roorkee--fte--manager-1)
-  - [ICICI Manager 1 OA pattern](#q1-icici-manager-1-oa-pattern)
-- [2026-11-04 · IIT Hyderabad · FTE · Manager 1](#2026-11-04--iit-hyderabad--fte--manager-1)
   - [ICICI Manager 1 OA pattern](#q1-icici-manager-1-oa-pattern-1)
+- [2026-11-04 · IIT Hyderabad · FTE · Manager 1](#2026-11-04--iit-hyderabad--fte--manager-1)
+  - [ICICI Manager 1 OA pattern](#q1-icici-manager-1-oa-pattern-2)
 - [2026-10-27 · VNIT Nagpur · FTE](#2026-10-27--vnit-nagpur--fte)
   - [ICICI Lombard OA pattern](#q1-icici-lombard-oa-pattern)
 - [2026-10-20 · IIT Hyderabad · FTE](#2026-10-20--iit-hyderabad--fte)
@@ -83,6 +85,20 @@
 </details>
 
 ---
+
+## 2026-11-15 · IIT Roorkee · FTE · Manager 1
+
+### Q1. ICICI Manager 1 OA pattern
+
+About 50 questions, all MCQs. Distribution:
+- At least 10 questions from CS fundamentals
+- 2-3 questions from data interpretation
+- 5 questions from aptitude
+- 3-5 questions from SQL
+- 3-5 language-specific questions (Java and C++ in this set)
+- 2 questions from MS Excel VLOOKUP
+
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L142), [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L143), [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L146), [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L148)</sub>
 
 ## 2026-11-14 · IIT Indore · FTE
 

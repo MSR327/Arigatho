@@ -1,9 +1,11 @@
 # Stack/Queue
 
-37 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+39 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Special stack with popMin and popMax in O(1)](../companies/ola.md#q2-special-stack-with-popmin-and-popmax-in-o1) | ≈ [LC 155](https://leetcode.com/problems/min-stack/) Medium |
+| 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Special stack with popMin and popMax in O(1)](../companies/ola.md#q3-special-stack-with-popmin-and-popmax-in-o1) | ≈ [LC 155](https://leetcode.com/problems/min-stack/) Medium |
 | 2026-11-13 | [KLA](../companies/kla.md) | MNNIT Allahabad | [KLA DSA questions](../companies/kla.md#q1-kla-dsa-questions) | |
 | 2026-11-12 | [Amazon](../companies/amazon.md) | IIT Kharagpur | [Long story reducing to sliding window minimum](../companies/amazon.md#q1-long-story-reducing-to-sliding-window-minimum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Total cost with first smaller element to the right](../companies/microsoft.md#q2-total-cost-with-first-smaller-element-to-the-right) | [LC 1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) Easy |
