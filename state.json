@@ -22,7 +22,7 @@
   },
   "alight-solutions-oa": {
    "oldest_id": 17499,
-   "newest_id": 20652,
+   "newest_id": 29641,
    "backfill_done": true
   },
   "alphonso-oa": {
@@ -62,7 +62,7 @@
   },
   "axxela-oa": {
    "oldest_id": 18396,
-   "newest_id": 29031,
+   "newest_id": 29599,
    "backfill_done": true
   },
   "being-infinity-oa": {
@@ -27817,6 +27817,9 @@
   29298,
   29310,
   29312,
-  29343
+  29343,
+  29599,
+  29638,
+  29641
  ]
 }
