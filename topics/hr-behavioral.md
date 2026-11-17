@@ -1,9 +1,10 @@
 # HR & Behavioral
 
-48 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+49 questions from 23 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [Favorite product and how to improve it](../companies/groww.md#q3-favorite-product-and-how-to-improve-it) |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Ola HR round](../companies/ola.md#q3-ola-hr-round) |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Ola HR round questions](../companies/ola.md#q4-ola-hr-round-questions) |
 | 2026-11-15 | [Accenture](../companies/accenture.md) | Unknown | [Challenging dataset experience](../companies/accenture.md#q3-challenging-dataset-experience) |

@@ -1,6 +1,6 @@
 # Eternal (Zomato)
 
-**191 questions** · 96 drives · latest 15 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**191 questions** · 96 drives · latest 16 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 70 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 16 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
 **Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +15 more
@@ -306,7 +306,7 @@
 
 Reported topics for the ML Scientist OA: Python, ML/DL fundamentals, statistics, SQL, DSA coding, and practical ML implementation (potentially RAG/LangChain). Pattern varies by hiring drive.
 
-<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/eternal-oa/2026-11.jsonl#L161)</sub>
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/eternal-oa/2026-11.jsonl#L161) · Also asked at: IIT BHU (2026-11-16)</sub>
 
 ## 2026-11-14 · IIT Kharagpur/Kanpur · FTE
 

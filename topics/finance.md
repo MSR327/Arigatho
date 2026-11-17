@@ -1,9 +1,10 @@
 # Finance
 
-15 questions from 6 companys, newest first. [← all topics](../README.md#topics)
+16 questions from 7 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [How the payment industry works](../companies/groww.md#q5-how-the-payment-industry-works) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Ben Carpet new technology investment case](../companies/accordion.md#q3-ben-carpet-new-technology-investment-case) |
 | 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Expected return on acquiring a digital customer](../companies/accordion.md#q19-expected-return-on-acquiring-a-digital-customer) |
 | 2026-11-07 | [Accordion](../companies/accordion.md) | IIT Delhi | [Insurance subscribers additional revenue](../companies/accordion.md#q14-insurance-subscribers-additional-revenue) |

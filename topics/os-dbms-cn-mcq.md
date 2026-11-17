@@ -1,9 +1,11 @@
 # OS/DBMS/CN MCQ
 
-137 questions from 26 companys, newest first. [← all topics](../README.md#topics)
+139 questions from 26 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 2: Multithreading and node communication](../companies/accenture.md#q4-round-2-multithreading-and-node-communication) | |
+| 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 2: UDP echo server](../companies/accenture.md#q2-round-2-udp-echo-server) | |
 | 2026-11-15 | [Teradata](../companies/teradata.md) | Unknown | [Teradata OA topics: ETL, channel driver, RDBMS](../companies/teradata.md#q4-teradata-oa-topics-etl-channel-driver-rdbms) | |
 | 2026-11-15 | [Teradata](../companies/teradata.md) | Unknown | [Caching in Teradata](../companies/teradata.md#q3-caching-in-teradata) | |
 | 2026-11-15 | [Teradata](../companies/teradata.md) | Unknown | [Importance of using Teradata](../companies/teradata.md#q2-importance-of-using-teradata) | |

@@ -1,13 +1,18 @@
 # Accenture
 
-**345 questions** · 125 drives · latest 15 Nov 2026 · [56 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**349 questions** · 126 drives · latest 16 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 95 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 62 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 96 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-16 · NIT Kurukshetra · FTE · ATE](#2026-11-16--nit-kurukshetra--fte--ate)
+  - [Round 1: Linux terminal tasks](#q1-round-1-linux-terminal-tasks)
+  - [Round 2: UDP echo server](#q2-round-2-udp-echo-server)
+  - [Round 2: Key-value store](#q3-round-2-key-value-store)
+  - [Round 2: Multithreading and node communication](#q4-round-2-multithreading-and-node-communication)
 - [2026-11-15 · Unknown · FTE · AI and Data · Interview](#2026-11-15--unknown--fte--ai-and-data--interview)
   - [Second highest salary (SQL)](#q1-second-highest-salary-sql)
   - [Accenture AI/Data interview: RAG and gen AI](#q2-accenture-aidata-interview-rag-and-gen-ai)
@@ -482,6 +487,39 @@
 </details>
 
 ---
+
+## 2026-11-16 · NIT Kurukshetra · FTE · ATE
+
+### Q1. Round 1: Linux terminal tasks
+
+The first round was practical Linux-based tasks done directly through the terminal. Questions were server- and protocol-oriented:
+
+- Change a server's port number when it was misconfigured
+- Identify and fix missing port configurations
+- Edit files exclusively through the terminal
+- Correct syntax errors in Python files using command-line tools
+
+Requires comfort with basic Linux commands, file editing and system administration. Around sixty candidates advanced to the next stage.
+
+<sub>Topics: OA Format, Other · Source: [chat, 16 Nov](../archive/accenture-oa/2026-11.jsonl#L445)</sub>
+
+### Q2. Round 2: UDP echo server
+
+Second online assessment, done in a Linux environment (WSL/Linux on a personal machine or lab computers). Entirely server-focused, implementing practical networking applications. Task 1: build a UDP echo server. Detailed documentation was provided for each task; solid understanding of socket programming was essential, and the choice of language was not a big hurdle. Interviewers afterwards asked each candidate about their implementation and approach.
+
+<sub>Topics: Other, OS/DBMS/CN MCQ · Source: [chat, 16 Nov](../archive/accenture-oa/2026-11.jsonl#L445)</sub>
+
+### Q3. Round 2: Key-value store
+
+Build a key-value store supporting operations such as setting, retrieving and updating values (part of the Linux/networking second-round assessment).
+
+<sub>Topics: Other, Hashing · Same idea: [LeetCode 981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) (Medium), key-value store with set and get operations · Source: [chat, 16 Nov](../archive/accenture-oa/2026-11.jsonl#L445)</sub>
+
+### Q4. Round 2: Multithreading and node communication
+
+Additional tasks covered multithreading concepts, and one of the later problems involved communication between nodes, likely using a gossip-based mechanism. (Exact problem statements not given.)
+
+<sub>Topics: Other, OS/DBMS/CN MCQ · Source: [chat, 16 Nov](../archive/accenture-oa/2026-11.jsonl#L445)</sub>
 
 ## 2026-11-15 · Unknown · FTE · AI and Data · Interview
 

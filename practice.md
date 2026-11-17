@@ -440,5 +440,6 @@ For each OA coding question, the nearest problem on a practice site (LeetCode, G
 | [LeetCode 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Navi](companies/navi.md#q2-inorder-traversal-of-nodes-with-at-least-one-child-from-level-order) (IIT Guwahati) | 1 |
 | [LeetCode 957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | Medium | [NatWest](companies/natwest.md#q2-binary-array-xor-of-neighbours-after-k-operations) (IIT BHU) | 1 |
 | [LeetCode 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Cisco](companies/cisco.md#q1-sde-interview-bst-validation-traversals-and-project-feature) (Unknown) | 1 |
+| [LeetCode 981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | [Accenture](companies/accenture.md#q3-round-2-key-value-store) (NIT Kurukshetra) | 1 |
 | [LeetCode 991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | Medium | [ThoughtSpot](companies/thoughtspot.md#q3-minimum-operations-to-make-x-equal-to-y) (IIT Roorkee) | 1 |
 | [LeetCode 994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | [Unknown](companies/unknown.md#q1-infected-node-spread) (IIT Roorkee) | 1 |

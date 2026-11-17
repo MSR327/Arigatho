@@ -1,13 +1,17 @@
 # Cars24
 
-**48 questions** · 18 drives · latest 16 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**50 questions** · 20 drives · latest 16 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 14 · [ML/AI](../topics/ml-ai.md) 14 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · +12 more  
+**Asks about:** [ML/AI](../topics/ml-ai.md) 16 · [OA Format](../topics/oa-format.md) 15 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · +12 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Roorkee, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-16 · IIT Roorkee · FTE · Data Science](#2026-11-16--iit-roorkee--fte--data-science)
+  - [Multilingual sentiment analysis using DistilBERT](#q1-multilingual-sentiment-analysis-using-distilbert)
+- [2026-11-16 · IIT Delhi · FTE · AI/GenAI](#2026-11-16--iit-delhi--fte--aigenai)
+  - [Cars24 GenAI role OA format](#q1-cars24-genai-role-oa-format)
 - [2026-11-16 · IIT BHU · FTE · Data Science · Other round](#2026-11-16--iit-bhu--fte--data-science--other-round)
   - [Regression algorithms and loss functions](#q1-regression-algorithms-and-loss-functions)
   - [Linear Regression vs PCA](#q2-linear-regression-vs-pca)
@@ -78,6 +82,28 @@
 </details>
 
 ---
+
+## 2026-11-16 · IIT Roorkee · FTE · Data Science
+
+### Q1. Multilingual sentiment analysis using DistilBERT
+
+Python / GenAI Coding Question: Multilingual Sentiment Analysis Using DistilBERT.
+
+You were required to develop a Python program to analyze multilingual customer feedback stored in CSV files.
+
+(The rest of the problem statement was not shared.)
+
+<sub>Topics: ML/AI, Python & Pandas · Source: [chat, 16 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L522)</sub>
+
+## 2026-11-16 · IIT Delhi · FTE · AI/GenAI
+
+### Q1. Cars24 GenAI role OA format
+
+OA for the AI/GenAI role contained 10 MCQs plus 1 ML coding question. In the ML coding question a function description was given and you had to implement it step by step, e.g. loading a CSV, building a model, etc.
+
+The exact MCQ topics and the specific ML task were not shared.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L258), [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L260)</sub>
 
 ## 2026-11-16 · IIT BHU · FTE · Data Science · Other round
 
@@ -159,7 +185,7 @@ SDE role: 12 MCQs, 2 coding, 1 SQL.
 GenAI role: 10 MCQs, 1 debugging-type question.
 DS role: MCQs and a debugging question (like model training).
 
-<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L157)</sub>
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L157) · Also asked at: IIT BHU (2026-11-16)</sub>
 
 ## 2026-11-15 · IIT Delhi · FTE · Data Science
 
@@ -207,7 +233,7 @@ Pattern: 1. MCQ on ML / data science, 2. Coding, 3. Aptitude.
 
 15 questions: 12 MCQs, 2 DSA coding questions and 1 SQL question. The MCQs were related to software engineering only.
 
-<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Delhi ×2 (last 2026-11-15)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Delhi ×2 (last 2026-11-15), IIT Kharagpur/Kanpur (2026-11-16)</sub>
 
 ## 2026-11-14 · IIT Delhi · FTE · Data Science / ML
 

@@ -1,9 +1,13 @@
 # Guesstimates & Cases
 
-30 questions from 10 companys, newest first. [← all topics](../README.md#topics)
+34 questions from 11 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [People giving an interview right now worldwide](../companies/groww.md#q4-people-giving-an-interview-right-now-worldwide) |
+| 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [Favorite product and how to improve it](../companies/groww.md#q3-favorite-product-and-how-to-improve-it) |
+| 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [Swiggy drop in average revenue per user](../companies/groww.md#q2-swiggy-drop-in-average-revenue-per-user) |
+| 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [Estimate emails sent on Gmail daily](../companies/groww.md#q1-estimate-emails-sent-on-gmail-daily) |
 | 2026-11-14 | [Paytm](../companies/paytm.md) | IIT Indore | [Credit card spends analyzer](../companies/paytm.md#q3-credit-card-spends-analyzer) |
 | 2026-11-14 | [Paytm](../companies/paytm.md) | IIT Indore | [Recharge engagement](../companies/paytm.md#q2-recharge-engagement) |
 | 2026-11-14 | [Paytm](../companies/paytm.md) | IIT Indore | [Soundbox enhancements](../companies/paytm.md#q1-soundbox-enhancements) |

@@ -1,13 +1,17 @@
 # Unknown
 
-**53 questions** · 36 drives · latest 15 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**55 questions** · 38 drives · latest 16 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 24 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [ML/AI](../topics/ml-ai.md) 3 · +16 more  
-**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur +7 more
+**Asks about:** [OA Format](../topics/oa-format.md) 25 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · +16 more  
+**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur +9 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-16 · MNNIT Allahabad · FTE · Interview](#2026-11-16--mnnit-allahabad--fte--interview)
+  - [Fetching logs from an unreliable range API](#q1-fetching-logs-from-an-unreliable-range-api)
+- [2026-11-16 · IIT Indore · FTE · APM](#2026-11-16--iit-indore--fte--apm)
+  - [APM OA format: Excel-sheet based](#q1-apm-oa-format-excel-sheet-based)
 - [2026-11-13 · NIT Patna · FTE · Interview](#2026-11-13--nit-patna--fte--interview)
   - [FischerJordan selection process](#q1-fischerjordan-selection-process)
 - [2026-11-13 · NIT Kurukshetra · FTE](#2026-11-13--nit-kurukshetra--fte)
@@ -101,6 +105,30 @@
 </details>
 
 ---
+
+## 2026-11-16 · MNNIT Allahabad · FTE · Interview
+
+### Q1. Fetching logs from an unreliable range API
+
+Assume you have a backend system that relies on an external API. This API provides logs within an L to R range.
+
+Here's the catch: since we can send only limited-sized packets over the network, we're not sure whether every request will succeed. It may or may not. If it succeeds, it provides us with the response; otherwise, it throws an error.
+
+We can't change the internal mechanism of their API. We can only handle the business logic of our application.
+
+So, how would you solve this problem?
+
+<sub>Topics: Software Engineering · Source: [chat, 16 Nov](../archive/inter-nit/2026-11.jsonl#L1824), [chat, 16 Nov](../archive/inter-nit/2026-11.jsonl#L1825)</sub>
+
+## 2026-11-16 · IIT Indore · FTE · APM
+
+### Q1. APM OA format: Excel-sheet based
+
+The APM OA was entirely Excel-sheet based: one Excel sheet was given and all 30 questions were based on it only. No separate aptitude section was mentioned.
+
+The specific questions and the company name were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 16 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L177), [chat, 16 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L178), [chat, 16 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L179), [chat, 16 Nov](../archive/campus-iit-indore-placements/2026-11.jsonl#L180)</sub>
 
 ## 2026-11-13 · NIT Patna · FTE · Interview
 

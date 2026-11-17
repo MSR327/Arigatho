@@ -1,9 +1,10 @@
 # Python & Pandas
 
-61 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+62 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Multilingual sentiment analysis using DistilBERT](../companies/cars24.md#q1-multilingual-sentiment-analysis-using-distilbert) | |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [EDA approach on a given dataset](../companies/cars24.md#q9-eda-approach-on-a-given-dataset) | |
 | 2026-11-15 | [Media.net](../companies/media-net.md) | IIT BHU | [Media.net OA: SQL and Python coding](../companies/media-net.md#q1-medianet-oa-sql-and-python-coding) | |
 | 2026-11-15 | [Accenture](../companies/accenture.md) | Unknown | [Handling missing or incomplete data](../companies/accenture.md#q2-handling-missing-or-incomplete-data) | |

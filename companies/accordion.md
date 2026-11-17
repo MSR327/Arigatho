@@ -1,6 +1,6 @@
 # Accordion
 
-**37 questions** · 12 drives · latest 15 Nov 2026 · [← all companies](../README.md#companies)
+**37 questions** · 12 drives · latest 16 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 26 · [OA Format](../topics/oa-format.md) 10 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
@@ -68,7 +68,7 @@
 
 For the AI/ML engineer role: aptitude, PST and 2 DSA questions. For all other roles: only PST.
 
-<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L513)</sub>
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L513) · Also asked at: IIT BHU (2026-11-16), IIT Roorkee (2026-11-16)</sub>
 
 ## 2026-11-11 · IIT Roorkee · FTE
 

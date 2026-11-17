@@ -1,0 +1,62 @@
+# Groww
+
+**6 questions** · 2 drives · latest 17 Nov 2026 · [← all companies](../README.md#companies)
+
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [OA Format](../topics/oa-format.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Finance](../topics/finance.md) 1 · [Other](../topics/other.md) 1  
+**Seen at:** IIT Guwahati
+
+<details>
+<summary><b>Contents</b>: every drive and question, newest first</summary>
+
+- [2026-11-17 · Unknown · FTE · APM · Other round](#2026-11-17--unknown--fte--apm--other-round)
+  - [Estimate emails sent on Gmail daily](#q1-estimate-emails-sent-on-gmail-daily)
+  - [Swiggy drop in average revenue per user](#q2-swiggy-drop-in-average-revenue-per-user)
+  - [Favorite product and how to improve it](#q3-favorite-product-and-how-to-improve-it)
+  - [People giving an interview right now worldwide](#q4-people-giving-an-interview-right-now-worldwide)
+  - [How the payment industry works](#q5-how-the-payment-industry-works)
+- [2026-11-16 · IIT Guwahati · FTE · APM](#2026-11-16--iit-guwahati--fte--apm)
+  - [Groww APM OA pattern](#q1-groww-apm-oa-pattern)
+
+</details>
+
+---
+
+## 2026-11-17 · Unknown · FTE · APM · Other round
+
+### Q1. Estimate emails sent on Gmail daily
+
+Estimate how many emails are sent on Gmail daily. (Question 1 as recalled; the poster's answer used a top-down approach on global internet access and user behavior, ~10.8 billion emails per day.)
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 17 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L535)</sub>
+
+### Q2. Swiggy drop in average revenue per user
+
+Swiggy is observing a drop in average revenue per user. What could be the reason for it?
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 17 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L535)</sub>
+
+### Q3. Favorite product and how to improve it
+
+What's your favorite product and how would you improve it?
+
+<sub>Topics: HR & Behavioral, Guesstimates & Cases · Source: [chat, 17 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L535)</sub>
+
+### Q4. People giving an interview right now worldwide
+
+How many people in the world do you think would be giving an interview now?
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 17 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L535)</sub>
+
+### Q5. How the payment industry works
+
+How does the payment industry work?
+
+<sub>Topics: Finance, Other · Source: [chat, 17 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L535)</sub>
+
+## 2026-11-16 · IIT Guwahati · FTE · APM
+
+### Q1. Groww APM OA pattern
+
+Groww APM OA: 20 aptitude questions, 2 SQL questions and 1 case study. (Details of the SQL and case study questions not given.)
+
+<sub>Topics: OA Format · Source: [chat, 16 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L235)</sub>

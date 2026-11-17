@@ -113,7 +113,7 @@ A 30-minute AI vibe coding round. Candidates were asked to find the solution usi
 
 Round 2 (technical OA): 3 Python questions and 1 SQL question (hard). The Python questions were somewhat project-oriented, using pandas and numpy. One of the Python questions was a normal DSA question of medium to hard level.
 
-<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L13), [chat, 8 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L14) · Also asked at: IIT Guwahati (2026-11-12), IIT Hyderabad (2026-11-12), IIT Kanpur (2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L13), [chat, 8 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L14) · Also asked at: IIT Hyderabad (2026-11-12), IIT Kanpur (2026-11-12), IIT Guwahati ×2 (last 2026-11-16)</sub>
 
 ## 2026-11-02 · IIT Guwahati · FTE · Data Engineer
 

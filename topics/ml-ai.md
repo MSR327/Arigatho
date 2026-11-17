@@ -1,9 +1,11 @@
 # ML/AI
 
-163 questions from 25 companys, newest first. [← all topics](../README.md#topics)
+165 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT Delhi | [Cars24 GenAI role OA format](../companies/cars24.md#q1-cars24-genai-role-oa-format) |
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Multilingual sentiment analysis using DistilBERT](../companies/cars24.md#q1-multilingual-sentiment-analysis-using-distilbert) |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [EDA approach on a given dataset](../companies/cars24.md#q9-eda-approach-on-a-given-dataset) |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [Feature importance](../companies/cars24.md#q8-feature-importance) |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [Evaluating a regression model](../companies/cars24.md#q7-evaluating-a-regression-model) |

@@ -1,9 +1,13 @@
 # OA Format
 
-806 questions from 148 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+810 questions from 149 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 1: Linux terminal tasks](../companies/accenture.md#q1-round-1-linux-terminal-tasks) | |
+| 2026-11-16 | [Cars24](../companies/cars24.md) | IIT Delhi | [Cars24 GenAI role OA format](../companies/cars24.md#q1-cars24-genai-role-oa-format) | |
+| 2026-11-16 | [Unknown](../companies/unknown.md) | IIT Indore | [APM OA format: Excel-sheet based](../companies/unknown.md#q1-apm-oa-format-excel-sheet-based) | |
+| 2026-11-16 | [Groww](../companies/groww.md) | IIT Guwahati | [Groww APM OA pattern](../companies/groww.md#q1-groww-apm-oa-pattern) | |
 | 2026-11-15 | [Accordion](../companies/accordion.md) | IIT Guwahati | [Accordion OA pattern](../companies/accordion.md#q1-accordion-oa-pattern) | |
 | 2026-11-15 | [Ola](../companies/ola.md) | IIT Kharagpur/Kanpur | [Ola GET Chemical OA content](../companies/ola.md#q1-ola-get-chemical-oa-content) | |
 | 2026-11-15 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 OA patterns by role](../companies/cars24.md#q1-cars24-oa-patterns-by-role) | |

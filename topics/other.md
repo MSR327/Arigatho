@@ -1,9 +1,14 @@
 # Other
 
-66 questions from 23 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+71 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [How the payment industry works](../companies/groww.md#q5-how-the-payment-industry-works) | |
+| 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 2: Multithreading and node communication](../companies/accenture.md#q4-round-2-multithreading-and-node-communication) | |
+| 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 2: Key-value store](../companies/accenture.md#q3-round-2-key-value-store) | ≈ [LC 981](https://leetcode.com/problems/time-based-key-value-store/) Medium |
+| 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 2: UDP echo server](../companies/accenture.md#q2-round-2-udp-echo-server) | |
+| 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 1: Linux terminal tasks](../companies/accenture.md#q1-round-1-linux-terminal-tasks) | |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Count syntax errors in SAS code](../companies/accenture.md#q15-count-syntax-errors-in-sas-code) | |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SAS PROC PRINT with labels](../companies/accenture.md#q14-sas-proc-print-with-labels) | |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [SAS length of empcode after set](../companies/accenture.md#q13-sas-length-of-empcode-after-set) | |
