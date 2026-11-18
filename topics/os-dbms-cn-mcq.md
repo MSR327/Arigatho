@@ -1,9 +1,13 @@
 # OS/DBMS/CN MCQ
 
-139 questions from 26 companys, newest first. [← all topics](../README.md#topics)
+143 questions from 28 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 SDE OA: Networking server tasks (round 2)](../companies/cars24.md#q2-cars24-sde-oa-networking-server-tasks-round-2) | |
+| 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 SDE OA: Linux terminal tasks (round 1)](../companies/cars24.md#q1-cars24-sde-oa-linux-terminal-tasks-round-1) | |
+| 2026-11-18 | [Cognizant](../companies/cognizant.md) | NIT Surathkal | [Cognizant OA: Linux, networking and server-side rounds](../companies/cognizant.md#q1-cognizant-oa-linux-networking-and-server-side-rounds) | |
+| 2026-11-18 | [HCLTech](../companies/hcltech.md) | Unknown | [HCLTech interview topics](../companies/hcltech.md#q1-hcltech-interview-topics) | |
 | 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 2: Multithreading and node communication](../companies/accenture.md#q4-round-2-multithreading-and-node-communication) | |
 | 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 2: UDP echo server](../companies/accenture.md#q2-round-2-udp-echo-server) | |
 | 2026-11-15 | [Teradata](../companies/teradata.md) | Unknown | [Teradata OA topics: ETL, channel driver, RDBMS](../companies/teradata.md#q4-teradata-oa-topics-etl-channel-driver-rdbms) | |

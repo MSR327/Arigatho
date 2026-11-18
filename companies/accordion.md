@@ -1,13 +1,15 @@
 # Accordion
 
-**37 questions** · 12 drives · latest 16 Nov 2026 · [← all companies](../README.md#companies)
+**38 questions** · 13 drives · latest 18 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 26 · [OA Format](../topics/oa-format.md) 10 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 26 · [OA Format](../topics/oa-format.md) 11 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-17 · IIT Roorkee · FTE](#2026-11-17--iit-roorkee--fte)
+  - [Accordion technical OA pattern](#q1-accordion-technical-oa-pattern)
 - [2026-11-15 · IIT Guwahati · FTE · AI/ML Engineer](#2026-11-15--iit-guwahati--fte--aiml-engineer)
   - [Accordion OA pattern](#q1-accordion-oa-pattern)
 - [2026-11-11 · IIT Roorkee · FTE](#2026-11-11--iit-roorkee--fte)
@@ -61,6 +63,17 @@
 </details>
 
 ---
+
+## 2026-11-17 · IIT Roorkee · FTE
+
+### Q1. Accordion technical OA pattern
+
+Total 30 questions in 30 minutes.
+
+- Aptitude: 15 questions. Topics: Probability, P&C, directions, family relations, percentages, profit & loss
+- Technical MCQs: 15 questions. Topics: Python, SQL, Java, OOP, DBMS
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/alphonso-oa/2026-11.jsonl#L22) · Also asked at: IIT Roorkee ×2 (last 2026-11-17), Unknown (2026-11-17)</sub>
 
 ## 2026-11-15 · IIT Guwahati · FTE · AI/ML Engineer
 
@@ -452,7 +465,7 @@ AI/ML Engineer 2: 3 sections:
 
 PST: multiple-choice business problem-solving questions, 20 minutes, 15 problem-solving questions. Focus: numerical reasoning, structured thinking, basic business math. Marking: +1 for each correct answer, -0.5 for each wrong answer.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT Dhanbad (2026-11-07), Unknown (2026-11-10), IIT Roorkee ×7 (last 2026-11-11), IIT BHU ×10 (last 2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT Dhanbad (2026-11-07), Unknown (2026-11-10), IIT Roorkee ×7 (last 2026-11-11), IIT BHU ×11 (last 2026-11-18), IIT Guwahati (2026-11-18)</sub>
 
 ## 2026-11-06 · IIT Bhubaneswar · FTE · Data Engineer
 

@@ -1,13 +1,20 @@
 # Cars24
 
-**50 questions** · 20 drives · latest 16 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**54 questions** · 23 drives · latest 18 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [ML/AI](../topics/ml-ai.md) 16 · [OA Format](../topics/oa-format.md) 15 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · [Linked List](../topics/linked-list.md) 3 · +12 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Roorkee, VNIT Nagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 19 · [ML/AI](../topics/ml-ai.md) 17 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · +13 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-18 · Unknown · FTE · SDE](#2026-11-18--unknown--fte--sde)
+  - [Cars24 SDE OA: Linux terminal tasks (round 1)](#q1-cars24-sde-oa-linux-terminal-tasks-round-1)
+  - [Cars24 SDE OA: Networking server tasks (round 2)](#q2-cars24-sde-oa-networking-server-tasks-round-2)
+- [2026-11-18 · IIT Kanpur · FTE · GenAI](#2026-11-18--iit-kanpur--fte--genai)
+  - [Cars24 GenAI OA: TF-IDF](#q1-cars24-genai-oa-tf-idf)
+- [2026-11-18 · IIT BHU · FTE · Data Science](#2026-11-18--iit-bhu--fte--data-science)
+  - [Cars24 OA pattern and monthly sales coding](#q1-cars24-oa-pattern-and-monthly-sales-coding)
 - [2026-11-16 · IIT Roorkee · FTE · Data Science](#2026-11-16--iit-roorkee--fte--data-science)
   - [Multilingual sentiment analysis using DistilBERT](#q1-multilingual-sentiment-analysis-using-distilbert)
 - [2026-11-16 · IIT Delhi · FTE · AI/GenAI](#2026-11-16--iit-delhi--fte--aigenai)
@@ -82,6 +89,48 @@
 </details>
 
 ---
+
+## 2026-11-18 · Unknown · FTE · SDE
+
+### Q1. Cars24 SDE OA: Linux terminal tasks (round 1)
+
+The first round involved practical Linux-based tasks done directly through the terminal. Questions were server- and protocol-oriented, including:
+- changing a server's port number when it was misconfigured
+- identifying and fixing missing port configurations
+- editing files exclusively through the terminal
+- correcting syntax errors in Python files using command-line tools
+
+Around sixty candidates advanced to the next stage.
+
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 18 Nov](../archive/inter-iit/2026-11.jsonl#L993)</sub>
+
+### Q2. Cars24 SDE OA: Networking server tasks (round 2)
+
+The second round was another online assessment; participants had to set up a Linux environment (WSL/Linux on personal machines or lab computers). It was entirely server-focused and involved implementing practical networking applications:
+- Task 1: build a UDP echo server
+- Task 2: create a key-value store supporting set, get and update operations
+- Additional tasks on multithreading concepts
+- One of the later problems involved communication between nodes, likely using a gossip-based mechanism
+
+Detailed documentation was provided for each task. Solid understanding of socket programming was essential; the programming language choice was not a hurdle. After the assessment, interviewers individually asked about each candidate's implementation and problem-solving approach.
+
+<sub>Topics: OS/DBMS/CN MCQ, OA Format · Source: [chat, 18 Nov](../archive/inter-iit/2026-11.jsonl#L993)</sub>
+
+## 2026-11-18 · IIT Kanpur · FTE · GenAI
+
+### Q1. Cars24 GenAI OA: TF-IDF
+
+10 MCQs and 1 coding question on TF-IDF: train on a dataset and use TF-IDF to calculate some accuracy. (Exact details not shared.)
+
+<sub>Topics: ML/AI, OA Format · Source: [chat, 18 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L590)</sub>
+
+## 2026-11-18 · IIT BHU · FTE · Data Science
+
+### Q1. Cars24 OA pattern and monthly sales coding
+
+10 MCQs and 1 coding question in Python using a given CSV file: find the monthly sales of a company and save it. To be done in a Jupyter notebook/script (reported for the DS role).
+
+<sub>Topics: OA Format, Python & Pandas · Source: [chat, 18 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L392) · Also asked at: IIT Kanpur ×2 (last 2026-11-18)</sub>
 
 ## 2026-11-16 · IIT Roorkee · FTE · Data Science
 
@@ -233,7 +282,7 @@ Pattern: 1. MCQ on ML / data science, 2. Coding, 3. Aptitude.
 
 15 questions: 12 MCQs, 2 DSA coding questions and 1 SQL question. The MCQs were related to software engineering only.
 
-<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Delhi ×2 (last 2026-11-15), IIT Kharagpur/Kanpur (2026-11-16)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Delhi ×2 (last 2026-11-15), IIT Kharagpur/Kanpur (2026-11-16), IIT Kharagpur (2026-11-17)</sub>
 
 ## 2026-11-14 · IIT Delhi · FTE · Data Science / ML
 

@@ -1,19 +1,29 @@
 # HCLTech
 
-**1 question** · 1 drive · latest 12 Nov 2026 · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 18 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 1 · [OOP](../topics/oop.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
 **Seen at:** NIT Patna
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-18 · Unknown · FTE · Interview](#2026-11-18--unknown--fte--interview)
+  - [HCLTech interview topics](#q1-hcltech-interview-topics)
 - [2026-11-12 · NIT Patna · FTE](#2026-11-12--nit-patna--fte)
   - [HCLTech 2027 batch OA and hackathon format](#q1-hcltech-2027-batch-oa-and-hackathon-format)
 
 </details>
 
 ---
+
+## 2026-11-18 · Unknown · FTE · Interview
+
+### Q1. HCLTech interview topics
+
+Interviews mostly asked OOPs and core CS questions (per one account); another account said the interview is based mostly on HR questions only.
+
+<sub>Topics: OOP, OS/DBMS/CN MCQ, HR & Behavioral · Source: [chat, 18 Nov](../archive/inter-iit/2026-11.jsonl#L976), [chat, 18 Nov](../archive/inter-iit/2026-11.jsonl#L983)</sub>
 
 ## 2026-11-12 · NIT Patna · FTE
 

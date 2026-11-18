@@ -1,9 +1,23 @@
 # Python & Pandas
 
-62 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+76 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-18 | [Cars24](../companies/cars24.md) | IIT BHU | [Cars24 OA pattern and monthly sales coding](../companies/cars24.md#q1-cars24-oa-pattern-and-monthly-sales-coding) | |
+| 2026-11-18 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence data science OA pattern](../companies/tredence.md#q1-tredence-data-science-oa-pattern) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Dataset summary function](../companies/tredence.md#q15-dataset-summary-function) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Fill in blanks in data cleaning snippet](../companies/tredence.md#q14-fill-in-blanks-in-data-cleaning-snippet) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Write dataset summary function](../companies/tredence.md#q12-write-dataset-summary-function) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Fill in blanks in data cleaning code](../companies/tredence.md#q11-fill-in-blanks-in-data-cleaning-code) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Dataset summary function](../companies/tredence.md#q9-dataset-summary-function) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Fill in the blanks in data cleaning snippet](../companies/tredence.md#q8-fill-in-the-blanks-in-data-cleaning-snippet) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Fill in blanks in data cleaning snippet](../companies/tredence.md#q6-fill-in-blanks-in-data-cleaning-snippet) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Dataset summary function in pandas](../companies/tredence.md#q5-dataset-summary-function-in-pandas) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Dataset summary function](../companies/tredence.md#q3-dataset-summary-function) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Fill in the blanks in data cleaning code](../companies/tredence.md#q2-fill-in-the-blanks-in-data-cleaning-code) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Guwahati | [EDA function on dataset](../companies/tredence.md#q3-eda-function-on-dataset) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Guwahati | [Fill in blanks in data cleaning code](../companies/tredence.md#q2-fill-in-blanks-in-data-cleaning-code) | |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Multilingual sentiment analysis using DistilBERT](../companies/cars24.md#q1-multilingual-sentiment-analysis-using-distilbert) | |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [EDA approach on a given dataset](../companies/cars24.md#q9-eda-approach-on-a-given-dataset) | |
 | 2026-11-15 | [Media.net](../companies/media-net.md) | IIT BHU | [Media.net OA: SQL and Python coding](../companies/media-net.md#q1-medianet-oa-sql-and-python-coding) | |

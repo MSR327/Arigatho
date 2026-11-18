@@ -1,13 +1,15 @@
 # Amazon
 
-**22 questions** · 19 drives · latest 14 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**23 questions** · 20 drives · latest 18 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 17 · [Arrays](../topics/arrays.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +5 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 18 · [Arrays](../topics/arrays.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +5 more  
 **Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +7 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-17 · IIT Roorkee · FTE](#2026-11-17--iit-roorkee--fte)
+  - [Amazon OA pattern](#q1-amazon-oa-pattern)
 - [2026-11-12 · IIT Kharagpur · FTE](#2026-11-12--iit-kharagpur--fte)
   - [Long story reducing to sliding window minimum](#q1-long-story-reducing-to-sliding-window-minimum)
 - [2026-11-11 · VNIT Nagpur · FTE](#2026-11-11--vnit-nagpur--fte)
@@ -41,7 +43,7 @@
 - [2026-11-04 · IIT Madras · FTE](#2026-11-04--iit-madras--fte)
   - [Amazon OA overview: DSA and debugging sections](#q1-amazon-oa-overview-dsa-and-debugging-sections)
 - [2026-11-01 · MNNIT Allahabad · FTE](#2026-11-01--mnnit-allahabad--fte)
-  - [Amazon OA pattern](#q1-amazon-oa-pattern)
+  - [Amazon OA pattern](#q1-amazon-oa-pattern-1)
 - [2026-10-30 · IIT Guwahati · FTE](#2026-10-30--iit-guwahati--fte)
   - [Amazon on-campus OA format](#q1-amazon-on-campus-oa-format)
 - [2026-10-29 · BITS · FTE · SDE](#2026-10-29--bits--fte--sde)
@@ -53,6 +55,14 @@
 </details>
 
 ---
+
+## 2026-11-17 · IIT Roorkee · FTE
+
+### Q1. Amazon OA pattern
+
+1 DSA question and 1 full stack question.
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L382) · Also asked at: IIT Delhi (2026-11-17), IIT Hyderabad (2026-11-17)</sub>
 
 ## 2026-11-12 · IIT Kharagpur · FTE
 
@@ -157,7 +167,7 @@ Exact statement not given.
 
 The OA had 1 DSA question and 1 back-end web development question. (Details not given.)
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-nit/2026-11.jsonl#L465)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/inter-nit/2026-11.jsonl#L465) · Also asked at: IIT Roorkee (2026-11-17)</sub>
 
 ## 2026-11-05 · IIT Madras · FTE
 
@@ -220,7 +230,7 @@ Constraints:
 - N, M <= 500
 - Matrix contains only 0 and 1
 
-<sub>Topics: Graphs, Binary Search, Arrays · Same idea: [LeetCode 1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) (Medium), multi-source BFS grid distance maximizing minimum distance · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L173)</sub>
+<sub>Topics: Graphs, Binary Search, Arrays · Same idea: [LeetCode 1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) (Medium), multi-source BFS grid distance maximizing minimum distance · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L173) · Also asked at: IIT Roorkee (2026-11-17)</sub>
 
 ## 2026-11-04 · IIT Madras · FTE
 
@@ -229,7 +239,7 @@ Constraints:
 1. DSA questions were random; some were weird DP problems, but many were standard problems, e.g. longest subarray of 1s with at most k swaps of 0s.
 2. Debugging section (AI-assisted): choose a stack you are at least familiar with. The AI will not generate code unless you figure out the problematic part. The problem description gives enough information, so read it properly.
 
-<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/amazon-oa/2026-11.jsonl#L32) · Also asked at: Thapar Institute (2026-11-04), NIT Surathkal (2026-11-04), IIT Hyderabad (2026-11-04), IIT Delhi (2026-11-07)</sub>
+<sub>Topics: OA Format · Source: [chat, 4 Nov](../archive/amazon-oa/2026-11.jsonl#L32) · Also asked at: Thapar Institute (2026-11-04), NIT Surathkal (2026-11-04), IIT Hyderabad (2026-11-04), IIT Delhi (2026-11-07), IIT Roorkee (2026-11-18)</sub>
 
 ## 2026-11-01 · MNNIT Allahabad · FTE
 

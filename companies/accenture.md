@@ -1,6 +1,6 @@
 # Accenture
 
-**349 questions** · 126 drives · latest 16 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**349 questions** · 126 drives · latest 17 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 96 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
@@ -1299,7 +1299,7 @@ Note from the poster: only Python, Java and C# are allowed for the DSA question.
 
 A very simple interview of around 10-15 minutes. They don't ask anything much, just a simple HR interview with a project overview.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L221) · Also asked at: MNNIT Allahabad (2026-11-14)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 9 Nov](../archive/accenture-oa/2026-11.jsonl#L221) · Also asked at: MNNIT Allahabad (2026-11-14), IIT Hyderabad (2026-11-17)</sub>
 
 ## 2026-11-09 · IIT Guwahati · FTE · AI and Data (AI/ML)
 
@@ -4100,7 +4100,7 @@ n = 9:  the next number greater than 9 with persistence 1 is 10.
 
 A multiplicative-persistence question was also present in another question set within the same assessment.
 
-<sub>Topics: Math · Same idea: [LeetCode 258. Add Digits](https://leetcode.com/problems/add-digits/) (Easy), repeated digit operation until single digit · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-10)</sub>
+<sub>Topics: Math · Same idea: [LeetCode 258. Add Digits](https://leetcode.com/problems/add-digits/) (Easy), repeated digit operation until single digit · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×3 (last 2026-11-17)</sub>
 
 ### Q3. Car rental: cars that were never rented
 
@@ -4112,7 +4112,7 @@ This can be done with a JOIN plus NOT EXISTS, or an equivalent anti-join such as
 
 *Exact table and column names were not shared.*
 
-<sub>Topics: SQL · Same idea: [LeetCode 183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) (Easy), anti-join to find never-referenced rows · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-10)</sub>
+<sub>Topics: SQL · Same idea: [LeetCode 183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) (Easy), anti-join to find never-referenced rows · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×3 (last 2026-11-17)</sub>
 
 ### Q4. Edit given HTML/CSS/JS files (tag change, font-size, if/else innerText)
 
@@ -4121,7 +4121,7 @@ Existing HTML, CSS and JavaScript files were provided, and the task was to make 
 - **CSS:** add or modify a style property for an element identified by a class, such as `font-size`.
 - **JavaScript:** an `addEventListener` and function were already present; add the appropriate if/else logic to change `innerText` according to specified conditions.
 
-<sub>Topics: Web Dev · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad ×2 (last 2026-10-10), NIT Patna (2026-10-17), Unknown (2026-10-21)</sub>
+<sub>Topics: Web Dev · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: NIT Patna (2026-10-17), Unknown (2026-10-21), IIT Dhanbad ×3 (last 2026-11-17)</sub>
 
 ### Q5. Next-day verbal and written communication assessment
 
@@ -4132,7 +4132,7 @@ Existing HTML, CSS and JavaScript files were provided, and the task was to make 
 
 **Written communication (for candidates who cleared verbal):** one email-writing task based on the situation or prompt provided.
 
-<sub>Topics: Verbal · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Dhanbad (2026-10-09), IIT Roorkee ×2 (last 2026-11-13)</sub>
+<sub>Topics: Verbal · Source: [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4439-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf), [Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf](../archive/files/4513-Accenture_Elite_Technology_Engineer_IIT_Dhanbad_OA_Process.pdf) · Also asked at: IIT Roorkee ×2 (last 2026-11-13), IIT Dhanbad ×2 (last 2026-11-17)</sub>
 
 ## 2026-09-25 · Unknown · FTE
 

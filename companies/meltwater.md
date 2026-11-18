@@ -1,13 +1,15 @@
 # Meltwater
 
-**7 questions** · 3 drives · latest 10 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 4 drives · latest 17 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [Math](../topics/math.md) 2 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1 · [Sorting](../topics/sorting.md) 1 · [Arrays](../topics/arrays.md) 1 · [OA Format](../topics/oa-format.md) 1  
+**Asks about:** [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [Math](../topics/math.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1 · [Sorting](../topics/sorting.md) 1 · [Arrays](../topics/arrays.md) 1  
 **Seen at:** IIT Hyderabad, VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-17 · IIT Hyderabad · FTE](#2026-11-17--iit-hyderabad--fte)
+  - [Meltwater round 2 format](#q1-meltwater-round-2-format)
 - [2026-11-10 · IIT Hyderabad · FTE](#2026-11-10--iit-hyderabad--fte)
   - [Meltwater OA pattern](#q1-meltwater-oa-pattern)
 - [2026-10-16 · IIT Hyderabad · FTE](#2026-10-16--iit-hyderabad--fte)
@@ -22,6 +24,14 @@
 </details>
 
 ---
+
+## 2026-11-17 · IIT Hyderabad · FTE
+
+### Q1. Meltwater round 2 format
+
+Round 2 had 3 DSA questions and some MCQs. (Questions themselves not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L275)</sub>
 
 ## 2026-11-10 · IIT Hyderabad · FTE
 

@@ -1,9 +1,14 @@
 # ML/AI
 
-165 questions from 25 companys, newest first. [← all topics](../README.md#topics)
+170 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-18 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence data science OA pattern](../companies/tredence.md#q1-tredence-data-science-oa-pattern) |
+| 2026-11-18 | [Cars24](../companies/cars24.md) | IIT Kanpur | [Cars24 GenAI OA: TF-IDF](../companies/cars24.md#q1-cars24-genai-oa-tf-idf) |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Write dataset summary function](../companies/tredence.md#q12-write-dataset-summary-function) |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Fill in blanks in data cleaning code](../companies/tredence.md#q11-fill-in-blanks-in-data-cleaning-code) |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Fill in blanks in data cleaning snippet](../companies/tredence.md#q6-fill-in-blanks-in-data-cleaning-snippet) |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT Delhi | [Cars24 GenAI role OA format](../companies/cars24.md#q1-cars24-genai-role-oa-format) |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Multilingual sentiment analysis using DistilBERT](../companies/cars24.md#q1-multilingual-sentiment-analysis-using-distilbert) |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [EDA approach on a given dataset](../companies/cars24.md#q9-eda-approach-on-a-given-dataset) |

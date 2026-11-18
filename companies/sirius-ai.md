@@ -1,13 +1,15 @@
 # Sirius AI
 
-**2 questions** · 2 drives · latest 15 Nov 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 18 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2  
-**Seen at:** IIT BHU, MNNIT Allahabad
+**Asks about:** [OA Format](../topics/oa-format.md) 3  
+**Seen at:** IIT BHU, MNNIT Allahabad, NIT Kurukshetra
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-18 · NIT Kurukshetra · FTE · Interview](#2026-11-18--nit-kurukshetra--fte--interview)
+  - [Interview: GenAI basics and one DSA question](#q1-interview-genai-basics-and-one-dsa-question)
 - [2026-11-08 · IIT BHU · FTE · Interview](#2026-11-08--iit-bhu--fte--interview)
   - [Sirius AI interview rounds](#q1-sirius-ai-interview-rounds)
 - [2026-11-07 · MNNIT Allahabad · FTE · Interview](#2026-11-07--mnnit-allahabad--fte--interview)
@@ -16,6 +18,16 @@
 </details>
 
 ---
+
+## 2026-11-18 · NIT Kurukshetra · FTE · Interview
+
+### Q1. Interview: GenAI basics and one DSA question
+
+The interview asked GenAI basics questions and one DSA question.
+
+The specific questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 18 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L180)</sub>
 
 ## 2026-11-08 · IIT BHU · FTE · Interview
 

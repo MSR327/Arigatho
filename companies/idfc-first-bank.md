@@ -1,9 +1,9 @@
 # IDFC First Bank
 
-**10 questions** · 10 drives · latest 16 Nov 2026 · [← all companies](../README.md#companies)
+**10 questions** · 10 drives · latest 18 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 10  
-**Seen at:** IIIT Allahabad, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, MNNIT Allahabad +2 more
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -45,7 +45,7 @@ Reported OA pattern for IDFC FIRST Bank, Deputy Manager II (Engineer) campus rec
 
 Topics: Programming (C, Java, Python basics, output prediction), OOP (inheritance, polymorphism, abstraction, encapsulation), DBMS (normalisation, keys, transactions, ACID), SQL (joins, GROUP BY, HAVING, subqueries), DSA (arrays, strings, sorting, searching, complexity), Operating Systems (processes, threads, deadlocks, scheduling), Computer Networks (TCP/UDP, HTTP, DNS, OSI, IP), Security (encryption, hashing, authentication), Cloud (basics, AWS concepts), Python libraries (Pandas, NumPy basics).
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1407) · Also asked at: NIT Kurukshetra (2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1407) · Also asked at: NIT Kurukshetra (2026-11-12), IIT BHU (2026-11-17)</sub>
 
 ## 2026-11-12 · IIT Kharagpur · FTE
 
@@ -74,7 +74,7 @@ Aptitude and English section:
 
 Then a behavioral section with 50 questions, agree/disagree type.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1392) · Also asked at: IIT Delhi (2026-11-12), IIT Kharagpur/Kanpur (2026-11-13)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1392) · Also asked at: IIT Delhi (2026-11-12), IIT Kharagpur/Kanpur (2026-11-13), NIT Surathkal (2026-11-18), IIT Hyderabad (2026-11-18)</sub>
 
 ## 2026-11-12 · IIIT Allahabad · FTE · Associate Data Scientist - AI Labs
 
@@ -113,7 +113,7 @@ A 30-minute AI vibe coding round. Candidates were asked to find the solution usi
 
 Round 2 (technical OA): 3 Python questions and 1 SQL question (hard). The Python questions were somewhat project-oriented, using pandas and numpy. One of the Python questions was a normal DSA question of medium to hard level.
 
-<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L13), [chat, 8 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L14) · Also asked at: IIT Hyderabad (2026-11-12), IIT Kanpur (2026-11-12), IIT Guwahati ×2 (last 2026-11-16)</sub>
+<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L13), [chat, 8 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L14) · Also asked at: IIT Hyderabad (2026-11-12), IIT Kanpur (2026-11-12), IIT Guwahati ×7 (last 2026-11-18)</sub>
 
 ## 2026-11-02 · IIT Guwahati · FTE · Data Engineer
 

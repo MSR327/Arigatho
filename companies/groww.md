@@ -3,7 +3,7 @@
 **6 questions** · 2 drives · latest 17 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [OA Format](../topics/oa-format.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Finance](../topics/finance.md) 1 · [Other](../topics/other.md) 1  
-**Seen at:** IIT Guwahati
+**Seen at:** IIT Guwahati, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -59,4 +59,4 @@ How does the payment industry work?
 
 Groww APM OA: 20 aptitude questions, 2 SQL questions and 1 case study. (Details of the SQL and case study questions not given.)
 
-<sub>Topics: OA Format · Source: [chat, 16 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L235)</sub>
+<sub>Topics: OA Format · Source: [chat, 16 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L235) · Also asked at: VNIT Nagpur (2026-11-17)</sub>

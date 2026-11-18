@@ -1,15 +1,44 @@
 # Tredence
 
-**51 questions** · 19 drives · latest 11 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**74 questions** · 25 drives · latest 18 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Math](../topics/math.md) 11 · [ML/AI](../topics/ml-ai.md) 11 · [SQL](../topics/sql.md) 7 · [Arrays](../topics/arrays.md) 6 · [Aptitude](../topics/aptitude.md) 6 · [Python & Pandas](../topics/python-pandas.md) 4 · [Hashing](../topics/hashing.md) 3 · +12 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 23 · [Python & Pandas](../topics/python-pandas.md) 17 · [ML/AI](../topics/ml-ai.md) 15 · [Math](../topics/math.md) 11 · [SQL](../topics/sql.md) 7 · [Arrays](../topics/arrays.md) 6 · [Aptitude](../topics/aptitude.md) 6 · [Hashing](../topics/hashing.md) 3 · +12 more  
 **Seen at:** IIIT Hyderabad, IIT BHU, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-11-11 · IIT BHU · FTE](#2026-11-11--iit-bhu--fte)
+- [2026-11-18 · IIT Hyderabad · FTE · Data Science](#2026-11-18--iit-hyderabad--fte--data-science)
+  - [Tredence data science OA pattern](#q1-tredence-data-science-oa-pattern)
+- [2026-11-17 · Unknown · FTE · Data Engineer](#2026-11-17--unknown--fte--data-engineer)
   - [Tredence OA pattern](#q1-tredence-oa-pattern)
+- [2026-11-17 · IIT Kharagpur/Kanpur · FTE](#2026-11-17--iit-kharagpurkanpur--fte)
+  - [Tredence technical OA pattern](#q1-tredence-technical-oa-pattern)
+  - [Tredence technical OA pattern](#q2-tredence-technical-oa-pattern)
+- [2026-11-17 · IIT Kanpur · FTE](#2026-11-17--iit-kanpur--fte)
+  - [Tredence OA pattern](#q1-tredence-oa-pattern-1)
+- [2026-11-17 · IIT Hyderabad · FTE · Data Science](#2026-11-17--iit-hyderabad--fte--data-science)
+  - [Tredence data science OA pattern](#q1-tredence-data-science-oa-pattern-1)
+  - [Fill in the blanks in data cleaning code](#q2-fill-in-the-blanks-in-data-cleaning-code)
+  - [Dataset summary function](#q3-dataset-summary-function)
+  - [Tredence data science OA pattern](#q4-tredence-data-science-oa-pattern)
+  - [Dataset summary function in pandas](#q5-dataset-summary-function-in-pandas)
+  - [Fill in blanks in data cleaning snippet](#q6-fill-in-blanks-in-data-cleaning-snippet)
+  - [Tredence OA format (data science)](#q7-tredence-oa-format-data-science)
+  - [Fill in the blanks in data cleaning snippet](#q8-fill-in-the-blanks-in-data-cleaning-snippet)
+  - [Dataset summary function](#q9-dataset-summary-function)
+  - [Tredence data science OA pattern](#q10-tredence-data-science-oa-pattern)
+  - [Fill in blanks in data cleaning code](#q11-fill-in-blanks-in-data-cleaning-code)
+  - [Write dataset summary function](#q12-write-dataset-summary-function)
+  - [Tredence data science OA pattern](#q13-tredence-data-science-oa-pattern)
+  - [Fill in blanks in data cleaning snippet](#q14-fill-in-blanks-in-data-cleaning-snippet)
+  - [Dataset summary function](#q15-dataset-summary-function)
+- [2026-11-17 · IIT Guwahati · FTE · Data Engineer](#2026-11-17--iit-guwahati--fte--data-engineer)
+  - [Tredence OA pattern](#q1-tredence-oa-pattern-2)
+  - [Fill in blanks in data cleaning code](#q2-fill-in-blanks-in-data-cleaning-code)
+  - [EDA function on dataset](#q3-eda-function-on-dataset)
+- [2026-11-11 · IIT BHU · FTE](#2026-11-11--iit-bhu--fte)
+  - [Tredence OA pattern](#q1-tredence-oa-pattern-3)
 - [2026-11-10 · VNIT Nagpur · FTE · Data Engineer · Interview](#2026-11-10--vnit-nagpur--fte--data-engineer--interview)
   - [Tredence data engineering interview topics](#q1-tredence-data-engineering-interview-topics)
 - [2026-11-05 · IIT BHU · FTE](#2026-11-05--iit-bhu--fte)
@@ -82,6 +111,185 @@
 </details>
 
 ---
+
+## 2026-11-18 · IIT Hyderabad · FTE · Data Science
+
+### Q1. Tredence data science OA pattern
+
+Data science pattern for Tredence:
+1. DSA
+2. SQL
+3. MCQ
+
+Along with this there were 34 MCQs and 2 questions were Python ML related.
+
+In one of those 2 questions, a data cleaning code snippet was given with some blanks, and candidates had to write the appropriate function name for each blank.
+
+In the other question, they asked to write a function for getting the shape of the dataset, the data type of all columns, the count and percent of null values, and the mean, median and mode of numeric columns.
+
+<sub>Topics: OA Format, Python & Pandas, ML/AI · Source: [chat, 18 Nov](../archive/inter-iit/2026-11.jsonl#L991)</sub>
+
+## 2026-11-17 · Unknown · FTE · Data Engineer
+
+### Q1. Tredence OA pattern
+
+Usually 1 OA round: core CSE MCQs and a couple of DSA questions.
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/inter-iit/2026-11.jsonl#L945), [chat, 17 Nov](../archive/inter-iit/2026-11.jsonl#L946)</sub>
+
+## 2026-11-17 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Tredence technical OA pattern
+
+34 MCQs, 2 subjective questions, 1 coding question, 1 SQL question.
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/accenture-oa/2026-11.jsonl#L462)</sub>
+
+### Q2. Tredence technical OA pattern
+
+34 MCQs, 2 subjective questions, 1 coding question, 1 SQL question.
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/inter-nit/2026-11.jsonl#L1890)</sub>
+
+## 2026-11-17 · IIT Kanpur · FTE
+
+### Q1. Tredence OA pattern
+
+34 MCQs, 2 subjective questions, 1 coding question, 1 SQL question.
+
+Topics of the MCQs were not mentioned.
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L341)</sub>
+
+## 2026-11-17 · IIT Hyderabad · FTE · Data Science
+
+### Q1. Tredence data science OA pattern
+
+Sections: DSA, SQL, MCQ. There were 34 MCQs and 2 Python ML-related questions.
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L363)</sub>
+
+### Q2. Fill in the blanks in data cleaning code
+
+A data cleaning code snippet was given with some blanks; candidates had to write the appropriate function name for each blank. (The actual snippet was not shared.)
+
+<sub>Topics: Python & Pandas · Source: [chat, 17 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L363)</sub>
+
+### Q3. Dataset summary function
+
+Write a function that returns: the shape of the dataset, the data type of all columns, the count and percent of null values, and the mean, median and mode of numeric columns.
+
+<sub>Topics: Python & Pandas · Source: [chat, 17 Nov](../archive/campus-iit-kanpur-placements/2026-11.jsonl#L363)</sub>
+
+### Q4. Tredence data science OA pattern
+
+Sections: 1. DSA, 2. SQL, 3. MCQ.
+
+Along with this there were 34 MCQs and 2 Python ML questions.
+
+- In one, a data cleaning code snippet was given with some blanks; write the appropriate function name for each blank.
+- In the other, write a function to get the shape of the dataset, the data type of all columns, the count and percent of null values, and the mean, median and mode of numeric columns.
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L272), [chat, 17 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L184)</sub>
+
+### Q5. Dataset summary function in pandas
+
+Write a function that, for a given dataset, returns: the shape of the dataset, the data type of all columns, the count and percent of null values, and the mean, median and mode of numeric columns.
+
+<sub>Topics: Python & Pandas · Source: [chat, 17 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L272), [chat, 17 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L184)</sub>
+
+### Q6. Fill in blanks in data cleaning snippet
+
+A data cleaning code snippet was given with some blanks; write the appropriate function name for each blank. (The actual snippet was not shared.)
+
+<sub>Topics: Python & Pandas, ML/AI · Source: [chat, 17 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L272), [chat, 17 Nov](../archive/campus-iit-ism-dhanbad-placements/2026-11.jsonl#L184)</sub>
+
+### Q7. Tredence OA format (data science)
+
+Pattern: 1. DSA, 2. SQL, 3. MCQ. Along with this there were 34 MCQs and 2 Python ML-related questions.
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L565)</sub>
+
+### Q8. Fill in the blanks in data cleaning snippet
+
+A data cleaning code snippet was given with some blanks; candidates had to write the appropriate function name for each blank. (Snippet not shared.)
+
+<sub>Topics: Python & Pandas · Source: [chat, 17 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L565)</sub>
+
+### Q9. Dataset summary function
+
+Write a function that gets the shape of a dataset, the data type of all columns, the count and percent of null values, and the mean, median and mode of numeric columns.
+
+<sub>Topics: Python & Pandas · Source: [chat, 17 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L565)</sub>
+
+### Q10. Tredence data science OA pattern
+
+Data science pattern for Tredence:
+
+1. DSA
+2. SQL
+3. MCQ
+
+Along with this there were 34 MCQs, and 2 questions were Python ML related.
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/campus-nit-warangal-placements/2026-11.jsonl#L26), [chat, 17 Nov](../archive/campus-vnit-nagpur-placements/2026-11.jsonl#L36)</sub>
+
+### Q11. Fill in blanks in data cleaning code
+
+A data cleaning code snippet was given with some blanks. You need to write the appropriate function name for each blank.
+
+(The actual snippet was not shared.)
+
+<sub>Topics: Python & Pandas, ML/AI · Source: [chat, 17 Nov](../archive/campus-nit-warangal-placements/2026-11.jsonl#L26), [chat, 17 Nov](../archive/campus-vnit-nagpur-placements/2026-11.jsonl#L36)</sub>
+
+### Q12. Write dataset summary function
+
+Write a function that returns, for a dataset:
+
+- the shape of the dataset
+- the data type of all columns
+- the count and percent of null values
+- the mean, median and mode of numeric columns
+
+<sub>Topics: Python & Pandas, ML/AI · Source: [chat, 17 Nov](../archive/campus-nit-warangal-placements/2026-11.jsonl#L26), [chat, 17 Nov](../archive/campus-vnit-nagpur-placements/2026-11.jsonl#L36)</sub>
+
+### Q13. Tredence data science OA pattern
+
+Sections: DSA, SQL, MCQ. Along with this there were 34 MCQs.
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L575)</sub>
+
+### Q14. Fill in blanks in data cleaning snippet
+
+A data cleaning code snippet (Python ML) was given with some blanks; write the appropriate function name for each blank. The snippet itself was not recalled.
+
+<sub>Topics: Python & Pandas · Source: [chat, 17 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L575)</sub>
+
+### Q15. Dataset summary function
+
+Write a function that returns: the shape of the dataset, the data type of all columns, the count and percent of null values, and the mean, median and mode of numeric columns.
+
+<sub>Topics: Python & Pandas · Source: [chat, 17 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L575)</sub>
+
+## 2026-11-17 · IIT Guwahati · FTE · Data Engineer
+
+### Q1. Tredence OA pattern
+
+Sections: DSA, SQL, MCQ. There were 34 MCQs, and 2 questions were Python/ML related.
+
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L384)</sub>
+
+### Q2. Fill in blanks in data cleaning code
+
+A data cleaning code snippet was given with some blanks; write the appropriate function name for each blank.
+
+<sub>Topics: Python & Pandas · Source: [chat, 17 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L384)</sub>
+
+### Q3. EDA function on dataset
+
+Write a function that gets the shape of the dataset, the data type of all columns, the count and percent of null values, and the mean, median and mode of numeric columns.
+
+<sub>Topics: Python & Pandas · Source: [chat, 17 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L384)</sub>
 
 ## 2026-11-11 · IIT BHU · FTE
 

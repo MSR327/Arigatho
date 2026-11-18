@@ -1,9 +1,32 @@
 # OA Format
 
-810 questions from 149 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+833 questions from 151 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-18 | [Sirius AI](../companies/sirius-ai.md) | NIT Kurukshetra | [Interview: GenAI basics and one DSA question](../companies/sirius-ai.md#q1-interview-genai-basics-and-one-dsa-question) | |
+| 2026-11-18 | [Cars24](../companies/cars24.md) | IIT BHU | [Cars24 OA pattern and monthly sales coding](../companies/cars24.md#q1-cars24-oa-pattern-and-monthly-sales-coding) | |
+| 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 SDE OA: Networking server tasks (round 2)](../companies/cars24.md#q2-cars24-sde-oa-networking-server-tasks-round-2) | |
+| 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 SDE OA: Linux terminal tasks (round 1)](../companies/cars24.md#q1-cars24-sde-oa-linux-terminal-tasks-round-1) | |
+| 2026-11-18 | [Cognizant](../companies/cognizant.md) | NIT Surathkal | [Cognizant OA: Linux, networking and server-side rounds](../companies/cognizant.md#q1-cognizant-oa-linux-networking-and-server-side-rounds) | |
+| 2026-11-18 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence data science OA pattern](../companies/tredence.md#q1-tredence-data-science-oa-pattern) | |
+| 2026-11-18 | [Cars24](../companies/cars24.md) | IIT Kanpur | [Cars24 GenAI OA: TF-IDF](../companies/cars24.md#q1-cars24-genai-oa-tf-idf) | |
+| 2026-11-17 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Meltwater round 2 format](../companies/meltwater.md#q1-meltwater-round-2-format) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence data science OA pattern](../companies/tredence.md#q13-tredence-data-science-oa-pattern) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence data science OA pattern](../companies/tredence.md#q10-tredence-data-science-oa-pattern) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence OA format (data science)](../companies/tredence.md#q7-tredence-oa-format-data-science) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence data science OA pattern](../companies/tredence.md#q4-tredence-data-science-oa-pattern) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence data science OA pattern](../companies/tredence.md#q1-tredence-data-science-oa-pattern-1) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Guwahati | [Tredence OA pattern](../companies/tredence.md#q1-tredence-oa-pattern-2) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | Unknown | [Tredence OA pattern](../companies/tredence.md#q1-tredence-oa-pattern) | |
+| 2026-11-17 | [Wells Fargo](../companies/wells-fargo.md) | IIT BHU | [Wells Fargo OA pattern](../companies/wells-fargo.md#q1-wells-fargo-oa-pattern) | |
+| 2026-11-17 | [Amazon](../companies/amazon.md) | IIT Roorkee | [Amazon OA pattern](../companies/amazon.md#q1-amazon-oa-pattern) | |
+| 2026-11-17 | [NoBroker](../companies/nobroker.md) | IIT Madras | [NoBroker OA pattern](../companies/nobroker.md#q1-nobroker-oa-pattern) | |
+| 2026-11-17 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Accordion technical OA pattern](../companies/accordion.md#q1-accordion-technical-oa-pattern) | |
+| 2026-11-17 | [Alphonso](../companies/alphonso.md) | IIT Roorkee | [Cars24 DS OA pattern](../companies/alphonso.md#q1-cars24-ds-oa-pattern) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Kanpur | [Tredence OA pattern](../companies/tredence.md#q1-tredence-oa-pattern-1) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Kharagpur/Kanpur | [Tredence technical OA pattern](../companies/tredence.md#q2-tredence-technical-oa-pattern) | |
+| 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Kharagpur/Kanpur | [Tredence technical OA pattern](../companies/tredence.md#q1-tredence-technical-oa-pattern) | |
 | 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 1: Linux terminal tasks](../companies/accenture.md#q1-round-1-linux-terminal-tasks) | |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT Delhi | [Cars24 GenAI role OA format](../companies/cars24.md#q1-cars24-genai-role-oa-format) | |
 | 2026-11-16 | [Unknown](../companies/unknown.md) | IIT Indore | [APM OA format: Excel-sheet based](../companies/unknown.md#q1-apm-oa-format-excel-sheet-based) | |
@@ -113,7 +136,7 @@
 | 2026-11-11 | [ICICI](../companies/icici.md) | MNNIT Allahabad | [ICICI OA difficulty](../companies/icici.md#q1-icici-oa-difficulty) | |
 | 2026-11-11 | [Cognizant](../companies/cognizant.md) | Unknown | [Cognizant OA format](../companies/cognizant.md#q1-cognizant-oa-format) | |
 | 2026-11-11 | [IDFC First Bank](../companies/idfc-first-bank.md) | IIT Guwahati | [IDFC Bank Data Scientist/Analyst OA rounds](../companies/idfc-first-bank.md#q1-idfc-bank-data-scientistanalyst-oa-rounds) | |
-| 2026-11-11 | [Tredence](../companies/tredence.md) | IIT BHU | [Tredence OA pattern](../companies/tredence.md#q1-tredence-oa-pattern) | |
+| 2026-11-11 | [Tredence](../companies/tredence.md) | IIT BHU | [Tredence OA pattern](../companies/tredence.md#q1-tredence-oa-pattern-3) | |
 | 2026-11-11 | [Media.net](../companies/media-net.md) | IIT BHU | [Media.net Senior Product Analyst OA pattern](../companies/media-net.md#q1-medianet-senior-product-analyst-oa-pattern) | |
 | 2026-11-11 | [Urban Company](../companies/urban-company.md) | NIT Surathkal | [Urban Company OA format](../companies/urban-company.md#q1-urban-company-oa-format) | |
 | 2026-11-11 | [Amazon](../companies/amazon.md) | Unknown | [Selection process and final round focus](../companies/amazon.md#q1-selection-process-and-final-round-focus) | |
@@ -355,7 +378,7 @@
 | 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Kharagpur | [MCQ section](../companies/commonwealth-bank-of-australia.md#q3-mcq-section) | |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Navi BA/APM OA format](../companies/navi.md#q1-navi-baapm-oa-format) | |
 | 2026-11-01 | [EXL](../companies/exl.md) | IIT BHU | [EXL test pattern](../companies/exl.md#q1-exl-test-pattern) | |
-| 2026-11-01 | [Amazon](../companies/amazon.md) | MNNIT Allahabad | [Amazon OA pattern](../companies/amazon.md#q1-amazon-oa-pattern) | |
+| 2026-11-01 | [Amazon](../companies/amazon.md) | MNNIT Allahabad | [Amazon OA pattern](../companies/amazon.md#q1-amazon-oa-pattern-1) | |
 | 2026-11-01 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT BHU | [CBA OA content](../companies/commonwealth-bank-of-australia.md#q1-cba-oa-content) | |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Navi APM OA format](../companies/navi.md#q1-navi-apm-oa-format) | |
 | 2026-11-01 | [Accenture](../companies/accenture.md) | IIT Indore | [Communication round format](../companies/accenture.md#q1-communication-round-format-1) | |

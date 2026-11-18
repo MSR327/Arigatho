@@ -1,13 +1,15 @@
 # Cognizant
 
-**72 questions** · 26 drives · latest 12 Nov 2026 · [27 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**73 questions** · 27 drives · latest 18 Nov 2026 · [27 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 20 · [Arrays](../topics/arrays.md) 11 · [Greedy](../topics/greedy.md) 10 · [DP](../topics/dp.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [Hashing](../topics/hashing.md) 7 · [Math](../topics/math.md) 6 · +15 more  
-**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +5 more
+**Asks about:** [OA Format](../topics/oa-format.md) 21 · [Arrays](../topics/arrays.md) 11 · [Greedy](../topics/greedy.md) 10 · [DP](../topics/dp.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [Hashing](../topics/hashing.md) 7 · [Math](../topics/math.md) 6 · +15 more  
+**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +6 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-18 · NIT Surathkal · FTE · Associate / Sr. Associate](#2026-11-18--nit-surathkal--fte--associate--sr-associate)
+  - [Cognizant OA: Linux, networking and server-side rounds](#q1-cognizant-oa-linux-networking-and-server-side-rounds)
 - [2026-11-12 · IIT Roorkee · FTE · SDE](#2026-11-12--iit-roorkee--fte--sde)
   - [NoBroker SDE OA pattern](#q1-nobroker-sde-oa-pattern)
 - [2026-11-12 · IIT Kharagpur/Kanpur · FTE](#2026-11-12--iit-kharagpurkanpur--fte)
@@ -110,6 +112,30 @@
 </details>
 
 ---
+
+## 2026-11-18 · NIT Surathkal · FTE · Associate / Sr. Associate
+
+### Q1. Cognizant OA: Linux, networking and server-side rounds
+
+The online assessment had two rounds focused heavily on Linux, systems, networking and server-side concepts.
+
+**Round 1:** Practical Linux tasks done directly in the terminal (basic Linux commands, file editing, system administration). Tasks included:
+- Changing a server's port number when it was misconfigured
+- Identifying and fixing missing port configurations
+- Editing files exclusively through the terminal
+- Correcting syntax errors in Python files using command-line tools
+
+Around sixty candidates advanced to the next stage.
+
+**Round 2:** Another online assessment; candidates had to set up a Linux environment (WSL/Linux on a personal machine or lab computers). Entirely server-focused, implementing practical networking applications:
+- Build a UDP echo server
+- Create a key-value store supporting set, get and update operations
+- Additional tasks on multithreading
+- A later problem on communication between nodes, likely a gossip-based mechanism
+
+Detailed documentation was provided for each task, but a solid understanding of socket programming was essential. Programming language choice was not a big hurdle. After the assessment, interviewers spoke to candidates individually about their implementations and problem-solving approaches.
+
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 18 Nov](../archive/inter-nit/2026-11.jsonl#L1985)</sub>
 
 ## 2026-11-12 · IIT Roorkee · FTE · SDE
 
