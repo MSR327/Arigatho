@@ -1,9 +1,11 @@
 # Bit Manipulation
 
-44 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+46 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [XOR-based single element](../companies/schlumberger.md#q7-xor-based-single-element) | [LC 136](https://leetcode.com/problems/single-number/) Easy |
+| 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Decimal to binary](../companies/schlumberger.md#q2-decimal-to-binary) | ≈ [LC 1009](https://leetcode.com/problems/complement-of-base-10-integer/) Easy |
 | 2026-11-15 | [QiCap](../companies/qicap.md) | IIT Delhi | [Supply consolidation on a graph](../companies/qicap.md#q2-supply-consolidation-on-a-graph) | ≈ [LC 847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) Hard |
 | 2026-11-15 | [QiCap](../companies/qicap.md) | IIT Delhi | [K-th largest subarray OR](../companies/qicap.md#q1-k-th-largest-subarray-or) | ≈ [LC 378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) Medium |
 | 2026-11-14 | [QiCap](../companies/qicap.md) | IIT BHU | [QiCap Software/Quant Developer OA topics](../companies/qicap.md#q2-qicap-softwarequant-developer-oa-topics) | |

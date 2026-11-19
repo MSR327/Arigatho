@@ -1,9 +1,10 @@
 # OOP
 
-40 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+41 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-18 | [Prodigal](../companies/prodigal.md) | Unknown | [Low-level design: restaurant management system](../companies/prodigal.md#q2-low-level-design-restaurant-management-system) | |
 | 2026-11-18 | [HCLTech](../companies/hcltech.md) | Unknown | [HCLTech interview topics](../companies/hcltech.md#q1-hcltech-interview-topics) | |
 | 2026-11-15 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [Java main method and resume-based questions](../companies/goldman-sachs.md#q1-java-main-method-and-resume-based-questions) | |
 | 2026-11-13 | [Media.net](../companies/media-net.md) | MNNIT Allahabad | [Media.net SDE interview questions](../companies/media-net.md#q1-medianet-sde-interview-questions) | [LC 1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) Medium |

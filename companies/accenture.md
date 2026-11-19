@@ -1,13 +1,19 @@
 # Accenture
 
-**349 questions** · 126 drives · latest 17 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**353 questions** · 128 drives · latest 18 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 96 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 97 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-18 · Unknown · FTE](#2026-11-18--unknown--fte)
+  - [Accenture OA and interview technical topics](#q1-accenture-oa-and-interview-technical-topics)
+- [2026-11-18 · NIT Surathkal · FTE · Elite Technology Engineer (ETE) · Interview](#2026-11-18--nit-surathkal--fte--elite-technology-engineer-ete--interview)
+  - [ETE interview experience 1](#q1-ete-interview-experience-1)
+  - [ETE interview experience 2 (selected, Oct 2026)](#q2-ete-interview-experience-2-selected-oct-2026)
+  - [ETE interview experience 3](#q3-ete-interview-experience-3)
 - [2026-11-16 · NIT Kurukshetra · FTE · ATE](#2026-11-16--nit-kurukshetra--fte--ate)
   - [Round 1: Linux terminal tasks](#q1-round-1-linux-terminal-tasks)
   - [Round 2: UDP echo server](#q2-round-2-udp-echo-server)
@@ -487,6 +493,52 @@
 </details>
 
 ---
+
+## 2026-11-18 · Unknown · FTE
+
+### Q1. Accenture OA and interview technical topics
+
+Technical side from shared experiences:
+
+- OA: MCQs on OS, CN, OOPs, pseudocode (1 experience), plus easy array DSA, SQL joins, frontend DOM (2 experiences)
+- Interview: DSA (graphs, queues, binary search), OOPs, OS, CN, plus project explanation (1 experience)
+
+<sub>Topics: OA Format · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L518)</sub>
+
+## 2026-11-18 · NIT Surathkal · FTE · Elite Technology Engineer (ETE) · Interview
+
+### Q1. ETE interview experience 1
+
+Candidate reported:
+
+- Introduce yourself (2–3 minutes).
+- Explain your projects.
+- Questions about extracurricular activities and sports.
+- Questions about cloud and agentic AI.
+- General HR discussion.
+
+The interviewer encouraged the candidate to speak at length about their background.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531)</sub>
+
+### Q2. ETE interview experience 2 (selected, Oct 2026)
+
+A candidate from an IIT reported:
+
+- Introduction and hobbies.
+- What do you do in your free time?
+- How are you finding South India?
+- What is the importance of innovation and collaboration in an organisation?
+
+The interview lasted approximately 15 minutes with no technical questions.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531)</sub>
+
+### Q3. ETE interview experience 3
+
+One candidate reported the interview was relatively easy and focused mainly on common HR questions and projects.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531)</sub>
 
 ## 2026-11-16 · NIT Kurukshetra · FTE · ATE
 
@@ -1157,7 +1209,7 @@ Most important HR questions:
 11. What do you know about Accenture?
 12. Do you have any questions for us?
 
-<sub>Topics: HR & Behavioral · Source: [chat, 12 Nov](../archive/accenture-oa/2026-11.jsonl#L350)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 12 Nov](../archive/accenture-oa/2026-11.jsonl#L350) · Also asked at: NIT Delhi (2026-11-18)</sub>
 
 ### Q2. Accenture teamwork and leadership questions
 
@@ -1172,7 +1224,7 @@ Most important HR questions:
 9. What responsibilities have you handled as a leader?
 10. What did you learn from your mentor?
 
-<sub>Topics: HR & Behavioral · Source: [chat, 12 Nov](../archive/accenture-oa/2026-11.jsonl#L350)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 12 Nov](../archive/accenture-oa/2026-11.jsonl#L350) · Also asked at: NIT Delhi (2026-11-18)</sub>
 
 ### Q3. Accenture situational questions
 
@@ -1187,7 +1239,7 @@ Most important HR questions:
 
 (Message was cut off here.)
 
-<sub>Topics: HR & Behavioral · Source: [chat, 12 Nov](../archive/accenture-oa/2026-11.jsonl#L350)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 12 Nov](../archive/accenture-oa/2026-11.jsonl#L350) · Also asked at: NIT Delhi (2026-11-18)</sub>
 
 ## 2026-11-12 · MNNIT Allahabad · FTE
 

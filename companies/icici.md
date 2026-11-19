@@ -1,13 +1,15 @@
 # ICICI
 
-**48 questions** · 25 drives · latest 18 Nov 2026 · [← all companies](../README.md#companies)
+**49 questions** · 26 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 22 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 14 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [SQL](../topics/sql.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · +7 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 23 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 14 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [SQL](../topics/sql.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · +7 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNIT Jaipur +8 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-19 · Unknown · FTE](#2026-11-19--unknown--fte)
+  - [OA platform and proctoring details](#q1-oa-platform-and-proctoring-details)
 - [2026-11-15 · IIT Roorkee · FTE · Manager 1](#2026-11-15--iit-roorkee--fte--manager-1)
   - [ICICI Manager 1 OA pattern](#q1-icici-manager-1-oa-pattern)
 - [2026-11-14 · IIT Indore · FTE](#2026-11-14--iit-indore--fte)
@@ -85,6 +87,14 @@
 </details>
 
 ---
+
+## 2026-11-19 · Unknown · FTE
+
+### Q1. OA platform and proctoring details
+
+ICICI OA is on HackerEarth using a smart browser. Camera is not on during the test. Switching applications during the test is not allowed. The login is one-time. No actual questions were shared.
+
+<sub>Topics: OA Format · Source: [chat, 18 Nov](../archive/icici-oa/2026-11.jsonl#L155), [chat, 19 Nov](../archive/icici-oa/2026-11.jsonl#L156), [chat, 19 Nov](../archive/icici-oa/2026-11.jsonl#L157), [chat, 19 Nov](../archive/icici-oa/2026-11.jsonl#L162)</sub>
 
 ## 2026-11-15 · IIT Roorkee · FTE · Manager 1
 

@@ -1,13 +1,15 @@
 # Tredence
 
-**74 questions** · 25 drives · latest 18 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**75 questions** · 26 drives · latest 18 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 23 · [Python & Pandas](../topics/python-pandas.md) 17 · [ML/AI](../topics/ml-ai.md) 15 · [Math](../topics/math.md) 11 · [SQL](../topics/sql.md) 7 · [Arrays](../topics/arrays.md) 6 · [Aptitude](../topics/aptitude.md) 6 · [Hashing](../topics/hashing.md) 3 · +12 more  
-**Seen at:** IIIT Hyderabad, IIT BHU, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +3 more
+**Asks about:** [OA Format](../topics/oa-format.md) 24 · [Python & Pandas](../topics/python-pandas.md) 17 · [ML/AI](../topics/ml-ai.md) 15 · [Math](../topics/math.md) 11 · [SQL](../topics/sql.md) 7 · [Arrays](../topics/arrays.md) 6 · [Aptitude](../topics/aptitude.md) 6 · [Hashing](../topics/hashing.md) 3 · +12 more  
+**Seen at:** IIIT Hyderabad, IIT BHU, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-18 · Unknown · FTE](#2026-11-18--unknown--fte)
+  - [Tredence OA and SpeechX process](#q1-tredence-oa-and-speechx-process)
 - [2026-11-18 · IIT Hyderabad · FTE · Data Science](#2026-11-18--iit-hyderabad--fte--data-science)
   - [Tredence data science OA pattern](#q1-tredence-data-science-oa-pattern)
 - [2026-11-17 · Unknown · FTE · Data Engineer](#2026-11-17--unknown--fte--data-engineer)
@@ -112,6 +114,14 @@
 
 ---
 
+## 2026-11-18 · Unknown · FTE
+
+### Q1. Tredence OA and SpeechX process
+
+OA had 2 easy DSA questions plus some aptitude, followed by SpeechX (a speaking and communication assessment, fairly straightforward, mainly clear communication and confident responses), then a technical interview.
+
+<sub>Topics: OA Format · Source: [chat, 18 Nov](../archive/tredence-oa/2026-11.jsonl#L74)</sub>
+
 ## 2026-11-18 · IIT Hyderabad · FTE · Data Science
 
 ### Q1. Tredence data science OA pattern
@@ -135,7 +145,7 @@ In the other question, they asked to write a function for getting the shape of t
 
 Usually 1 OA round: core CSE MCQs and a couple of DSA questions.
 
-<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/inter-iit/2026-11.jsonl#L945), [chat, 17 Nov](../archive/inter-iit/2026-11.jsonl#L946)</sub>
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/inter-iit/2026-11.jsonl#L945), [chat, 17 Nov](../archive/inter-iit/2026-11.jsonl#L946) · Also asked at: IIT Indore (2026-11-18), MNNIT Allahabad (2026-11-18)</sub>
 
 ## 2026-11-17 · IIT Kharagpur/Kanpur · FTE
 

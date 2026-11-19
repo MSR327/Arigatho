@@ -1,13 +1,15 @@
 # IDFC First Bank
 
-**10 questions** · 10 drives · latest 18 Nov 2026 · [← all companies](../README.md#companies)
+**11 questions** · 11 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10  
+**Asks about:** [OA Format](../topics/oa-format.md) 11  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-19 · Unknown · FTE](#2026-11-19--unknown--fte)
+  - [IDFC First Bank coding test pattern](#q1-idfc-first-bank-coding-test-pattern)
 - [2026-11-12 · NIT Karnataka Surathkal · FTE · Deputy Manager II (Engineer)](#2026-11-12--nit-karnataka-surathkal--fte--deputy-manager-ii-engineer)
   - [IDFC First Bank engineering OA pattern](#q1-idfc-first-bank-engineering-oa-pattern)
 - [2026-11-12 · IIT Kharagpur · FTE](#2026-11-12--iit-kharagpur--fte)
@@ -32,6 +34,14 @@
 </details>
 
 ---
+
+## 2026-11-19 · Unknown · FTE
+
+### Q1. IDFC First Bank coding test pattern
+
+Coding questions are LeetCode easy and medium level. There are heavy questions on SQL basics in the OA, so prepare SQL.
+
+<sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/inter-iit/2026-11.jsonl#L1046)</sub>
 
 ## 2026-11-12 · NIT Karnataka Surathkal · FTE · Deputy Manager II (Engineer)
 

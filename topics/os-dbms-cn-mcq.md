@@ -1,9 +1,10 @@
 # OS/DBMS/CN MCQ
 
-143 questions from 28 companys, newest first. [← all topics](../README.md#topics)
+144 questions from 29 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-19 | [Finarb](../companies/finarb.md) | IIT BHU | [Finarb OA format: Linux terminal tasks](../companies/finarb.md#q1-finarb-oa-format-linux-terminal-tasks) | |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 SDE OA: Networking server tasks (round 2)](../companies/cars24.md#q2-cars24-sde-oa-networking-server-tasks-round-2) | |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 SDE OA: Linux terminal tasks (round 1)](../companies/cars24.md#q1-cars24-sde-oa-linux-terminal-tasks-round-1) | |
 | 2026-11-18 | [Cognizant](../companies/cognizant.md) | NIT Surathkal | [Cognizant OA: Linux, networking and server-side rounds](../companies/cognizant.md#q1-cognizant-oa-linux-networking-and-server-side-rounds) | |

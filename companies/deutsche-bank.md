@@ -1,13 +1,15 @@
 # Deutsche Bank
 
-**19 questions** · 10 drives · latest 15 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**20 questions** · 11 drives · latest 19 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 6 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Strings](../topics/strings.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Greedy](../topics/greedy.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · +5 more  
+**Asks about:** [Arrays](../topics/arrays.md) 6 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [OA Format](../topics/oa-format.md) 4 · [Strings](../topics/strings.md) 3 · [Greedy](../topics/greedy.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · +5 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-19 · IIT BHU · FTE](#2026-11-19--iit-bhu--fte)
+  - [Deutsche Bank OA difficulty](#q1-deutsche-bank-oa-difficulty)
 - [2026-11-15 · IIT BHU · FTE](#2026-11-15--iit-bhu--fte)
   - [Make adjacent differences at most 1](#q1-make-adjacent-differences-at-most-1)
 - [2026-10-31 · IIT Kharagpur/Kanpur · FTE](#2026-10-31--iit-kharagpurkanpur--fte)
@@ -41,6 +43,14 @@
 </details>
 
 ---
+
+## 2026-11-19 · IIT BHU · FTE
+
+### Q1. Deutsche Bank OA difficulty
+
+The OA was done at BHU; DSA questions were very easy. (No specific questions shared.)
+
+<sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/inter-nit/2026-11.jsonl#L2086)</sub>
 
 ## 2026-11-15 · IIT BHU · FTE
 

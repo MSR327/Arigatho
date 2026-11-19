@@ -1,9 +1,14 @@
 # ML/AI
 
-170 questions from 25 companys, newest first. [← all topics](../README.md#topics)
+175 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-19 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [ML OA topics: RL, transformers, MLOps](../companies/eternal-zomato.md#q2-ml-oa-topics-rl-transformers-mlops) |
+| 2026-11-19 | [Cars24](../companies/cars24.md) | IIT Kharagpur/Kanpur | [Transformer/BERT CSV encode-decode pipeline](../companies/cars24.md#q1-transformerbert-csv-encode-decode-pipeline) |
+| 2026-11-19 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Eternal ML Scientist OA topics](../companies/eternal-zomato.md#q1-eternal-ml-scientist-oa-topics) |
+| 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Technical round 1: assignment discussion](../companies/cars24.md#q3-technical-round-1-assignment-discussion) |
+| 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Home assignment: Predicting engine rating](../companies/cars24.md#q1-home-assignment-predicting-engine-rating) |
 | 2026-11-18 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence data science OA pattern](../companies/tredence.md#q1-tredence-data-science-oa-pattern) |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | IIT Kanpur | [Cars24 GenAI OA: TF-IDF](../companies/cars24.md#q1-cars24-genai-oa-tf-idf) |
 | 2026-11-17 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Write dataset summary function](../companies/tredence.md#q12-write-dataset-summary-function) |

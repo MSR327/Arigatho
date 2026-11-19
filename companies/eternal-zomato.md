@@ -1,13 +1,23 @@
 # Eternal (Zomato)
 
-**191 questions** · 96 drives · latest 16 Nov 2026 · [58 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**198 questions** · 99 drives · latest 19 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 70 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 23 · [Arrays](../topics/arrays.md) 19 · [Graphs](../topics/graphs.md) 17 · [Aptitude](../topics/aptitude.md) 16 · [Hashing](../topics/hashing.md) 12 · [Math](../topics/math.md) 12 · +23 more  
-**Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +15 more
+**Asks about:** [OA Format](../topics/oa-format.md) 71 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
+**Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +16 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-19 · Unknown · FTE · ML Scientist](#2026-11-19--unknown--fte--ml-scientist)
+  - [Eternal ML Scientist OA topics](#q1-eternal-ml-scientist-oa-topics)
+  - [ML OA topics: RL, transformers, MLOps](#q2-ml-oa-topics-rl-transformers-mlops)
+- [2026-11-18 · Unknown · FTE · PA](#2026-11-18--unknown--fte--pa)
+  - [Minimum swaps to sort non-zeros](#q1-minimum-swaps-to-sort-non-zeros)
+  - [Minimize longest run after flipping](#q2-minimize-longest-run-after-flipping)
+  - [Max score of substrings of length k](#q3-max-score-of-substrings-of-length-k)
+- [2026-11-18 · PES University · FTE](#2026-11-18--pes-university--fte)
+  - [Digit DP using tabulation](#q1-digit-dp-using-tabulation)
+  - [BFS grid question similar to number of islands](#q2-bfs-grid-question-similar-to-number-of-islands)
 - [2026-11-15 · IIIT · FTE · ML Scientist](#2026-11-15--iiit--fte--ml-scientist)
   - [ML Scientist OA pattern](#q1-ml-scientist-oa-pattern)
 - [2026-11-14 · IIT Kharagpur/Kanpur · FTE](#2026-11-14--iit-kharagpurkanpur--fte)
@@ -299,6 +309,80 @@
 </details>
 
 ---
+
+## 2026-11-19 · Unknown · FTE · ML Scientist
+
+### Q1. Eternal ML Scientist OA topics
+
+Deep questions related to RAG systems and also reinforcement learning were asked. (Specific questions not given.)
+
+<sub>Topics: ML/AI · Source: [chat, 19 Nov](../archive/eternal-oa/2026-11.jsonl#L204)</sub>
+
+### Q2. ML OA topics: RL, transformers, MLOps
+
+The ML OA was heavily based on RL concepts and emerging transformer architecture variations, plus some questions on MLOps. Format (MCQ vs coding) not stated and specific questions not given.
+
+<sub>Topics: ML/AI, OA Format · Source: [chat, 19 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L629)</sub>
+
+## 2026-11-18 · Unknown · FTE · PA
+
+### Q1. Minimum swaps to sort non-zeros
+
+**Problem 1: Minimum Swaps to Sort Non-Zeros (100 points)**
+
+You are given an array of integers, where some elements are zeros and others are non-zero integers. Find the minimum number of swaps required to sort the non-zero elements in ascending order, while keeping all zeros at the end of the array.
+
+Rules:
+- You can only swap a non-zero element with a zero.
+
+<sub>Topics: Arrays, Greedy · Source: [chat, 18 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L607)</sub>
+
+### Q2. Minimize longest run after flipping
+
+**Problem 2: Minimize Longest Continuous Sequence After Flipping (60 points)**
+
+You are given a string consisting only of the characters 'a' and 'b'. You can flip characters ('a' to 'b' and vice versa) at most k times.
+
+Minimize the length of the longest continuous sequence of the same character (either 'a' or 'b') in the string, after performing at most k flips.
+
+<sub>Topics: Strings, Binary Search, Greedy · Source: [chat, 18 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L607)</sub>
+
+### Q3. Max score of substrings of length k
+
+**Problem 3: Max Score of Substrings (50 points)**
+
+You are given a string s and a number k. Calculate the maximum score of any substring of length k in the string. The score of a substring: for each character in the substring, its "character value" raised to the power of its frequency in the substring. Character values: 'a' = 1, 'b' = 2, ..., 'z' = 26.
+
+Return the maximum score among all substrings of length k, modulo 10^9+7.
+
+Example 1:
+
+```
+Input: s = "abaab", k = 2
+Output: 3
+Explanation: substrings of length 2:
+"ab" -> 1^1 + 2^1 = 3
+"ba" -> 2^1 + 1^1 = 3
+"aa" -> 1^2 = 1
+"ab" -> 1^1 + 2^1 = 3
+Maximum score is 3.
+```
+
+<sub>Topics: Sliding Window, Strings, Math · Same idea: [LeetCode 1100. Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) (Medium), fixed-size sliding window with frequency counts · Source: [chat, 18 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L607)</sub>
+
+## 2026-11-18 · PES University · FTE
+
+### Q1. Digit DP using tabulation
+
+One question was a digit DP problem that had to be solved using tabulation. The exact statement was not shared.
+
+<sub>Topics: DP · Source: [chat, 18 Nov](../archive/natwest-oa/2026-11.jsonl#L63)</sub>
+
+### Q2. BFS grid question similar to number of islands
+
+A BFS-based question, similar to Number of Islands but a bit harder. The exact statement was not shared.
+
+<sub>Topics: Graphs · Same idea: [LeetCode 200. Number of Islands](https://leetcode.com/problems/number-of-islands/) (Medium), BFS over grid components · Source: [chat, 18 Nov](../archive/natwest-oa/2026-11.jsonl#L63)</sub>
 
 ## 2026-11-15 · IIIT · FTE · ML Scientist
 
@@ -1171,31 +1255,31 @@ Missing: the whole problem.
 
 Product Analyst OA (90 minutes total: 20 aptitude/probability/statistics/quant/electrical-core MCQs, 2 SQL queries, 3 Python/Pandas MCQs and 2 Python/Pandas coding questions). If the probability that an archer strikes the target is 30% and the archer makes 10 attempts, what are the mean and variance of the number of successful attempts? Options: 3, 2.1; 3, 2.4; 7, 2.1; 7, 2.4.
 
-<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×5 (last 2026-11-09)</sub>
+<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×6 (last 2026-11-18)</sub>
 
 ### Q2. Highest power of 24 dividing 150!
 
 What is the highest power of 24 that divides 150! exactly? Options: 42, 44, 46, 48.
 
-<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×5 (last 2026-11-09)</sub>
+<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×6 (last 2026-11-18)</sub>
 
 ### Q3. Normal distribution: P(mean > 55)
 
 A dataset is normally distributed with mean 50 and standard deviation 5. What is the probability of selecting a sample with a mean greater than 55? Options: approximately 2.28%, 15.87%, 50%, 97.72%.
 
-<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×5 (last 2026-11-09)</sub>
+<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×6 (last 2026-11-18)</sub>
 
 ### Q4. Painted cube: red and blue faces
 
 A cube of side 18 cm has two opposite faces coloured red and the other four faces coloured blue. It is cut into 729 equal smaller cubes. How many of the smaller cubes have at least one red face and at least one blue face?
 
-<sub>Topics: Aptitude · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×5 (last 2026-11-09)</sub>
+<sub>Topics: Aptitude · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×6 (last 2026-11-18)</sub>
 
 ### Q5. Bayes: did it snow last night?
 
 A girl knows the probability that it snows on any given night is 1/8. Her father tells her that it snowed last night. Her second daughter says the father lies with probability 5/6. Based on this, what is the probability that it actually snowed last night?
 
-<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×5 (last 2026-11-09)</sub>
+<sub>Topics: Aptitude, Math · Source: [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/5876-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [chat, 13 Oct](../archive/inter-nit/2026-10.jsonl#L330) · Also asked at: IIT BHU (2026-10-17), IIT Roorkee (2026-10-23), IIT Dhanbad ×6 (last 2026-11-18)</sub>
 
 ### Q6. SQL: email campaign analysis
 
@@ -1735,7 +1819,7 @@ Aptitude topics: mean, variance, standard deviation, normal distribution/z-score
 
 Python/Pandas topics: DataFrame creation/selection, loc/iloc, Boolean filtering, column operations, missing values, groupby/aggregation, transform/filter, data-type conversion, dates, categorical data, `pd.cut()`. One coding question was on pandas; coding questions were practical tabular-data manipulation and considered easy.
 
-<sub>Topics: OA Format · Source: [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L35), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L39), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1944-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1988-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Hyderabad (2026-10-21), IIT BHU ×3 (last 2026-10-28), IIT Dhanbad ×3 (last 2026-11-09)</sub>
+<sub>Topics: OA Format · Source: [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L35), [chat, 29 Sep](../archive/eternal-oa/2026-09.jsonl#L39), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1944-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf), [Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf](../archive/files/1988-Eternal_Product_Analyst_OA_IIT_Dhanbad.pdf) · Also asked at: IIT Hyderabad (2026-10-21), IIT BHU ×3 (last 2026-10-28), IIT Dhanbad ×4 (last 2026-11-18)</sub>
 
 ### Q2. Device traffic and cost for May per MAC
 

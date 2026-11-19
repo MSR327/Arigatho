@@ -1,16 +1,22 @@
 # Cars24
 
-**54 questions** · 23 drives · latest 18 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**58 questions** · 25 drives · latest 19 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 19 · [ML/AI](../topics/ml-ai.md) 17 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [Python & Pandas](../topics/python-pandas.md) 4 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · +13 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 20 · [ML/AI](../topics/ml-ai.md) 20 · [Graphs](../topics/graphs.md) 6 · [Arrays](../topics/arrays.md) 5 · [Python & Pandas](../topics/python-pandas.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · +15 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-19 · IIT Kharagpur/Kanpur · FTE · Gen AI](#2026-11-19--iit-kharagpurkanpur--fte--gen-ai)
+  - [Transformer/BERT CSV encode-decode pipeline](#q1-transformerbert-csv-encode-decode-pipeline)
 - [2026-11-18 · Unknown · FTE · SDE](#2026-11-18--unknown--fte--sde)
   - [Cars24 SDE OA: Linux terminal tasks (round 1)](#q1-cars24-sde-oa-linux-terminal-tasks-round-1)
   - [Cars24 SDE OA: Networking server tasks (round 2)](#q2-cars24-sde-oa-networking-server-tasks-round-2)
+- [2026-11-18 · Unknown · FTE · Data Scientist · Interview](#2026-11-18--unknown--fte--data-scientist--interview)
+  - [Home assignment: Predicting engine rating](#q1-home-assignment-predicting-engine-rating)
+  - [Home assignment: Flights-to-trip mapping](#q2-home-assignment-flights-to-trip-mapping)
+  - [Technical round 1: assignment discussion](#q3-technical-round-1-assignment-discussion)
 - [2026-11-18 · IIT Kanpur · FTE · GenAI](#2026-11-18--iit-kanpur--fte--genai)
   - [Cars24 GenAI OA: TF-IDF](#q1-cars24-genai-oa-tf-idf)
 - [2026-11-18 · IIT BHU · FTE · Data Science](#2026-11-18--iit-bhu--fte--data-science)
@@ -90,6 +96,16 @@
 
 ---
 
+## 2026-11-19 · IIT Kharagpur/Kanpur · FTE · Gen AI
+
+### Q1. Transformer/BERT CSV encode-decode pipeline
+
+The OA had 10 MCQs and 1 coding question on Transformers. A CSV file was given and around 5–6 functions had to be implemented in a single file. The task: load the CSV and extract the required columns, encode sentences using BERT, decode them, combine the results and write the output into a JSON file. This had to be done for every row in the CSV. One error-handling function also had to be implemented.
+
+(The MCQ contents were not shared.)
+
+<sub>Topics: ML/AI, OA Format · Source: [chat, 19 Nov](../archive/inter-nit/2026-11.jsonl#L2078) · Also asked at: IIT Kharagpur/Kanpur (2026-11-18)</sub>
+
 ## 2026-11-18 · Unknown · FTE · SDE
 
 ### Q1. Cars24 SDE OA: Linux terminal tasks (round 1)
@@ -102,7 +118,7 @@ The first round involved practical Linux-based tasks done directly through the t
 
 Around sixty candidates advanced to the next stage.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 18 Nov](../archive/inter-iit/2026-11.jsonl#L993)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 18 Nov](../archive/inter-iit/2026-11.jsonl#L993) · Also asked at: IIT BHU (2026-11-19)</sub>
 
 ### Q2. Cars24 SDE OA: Networking server tasks (round 2)
 
@@ -115,6 +131,37 @@ The second round was another online assessment; participants had to set up a Lin
 Detailed documentation was provided for each task. Solid understanding of socket programming was essential; the programming language choice was not a hurdle. After the assessment, interviewers individually asked about each candidate's implementation and problem-solving approach.
 
 <sub>Topics: OS/DBMS/CN MCQ, OA Format · Source: [chat, 18 Nov](../archive/inter-iit/2026-11.jsonl#L993)</sub>
+
+## 2026-11-18 · Unknown · FTE · Data Scientist · Interview
+
+### Q1. Home assignment: Predicting engine rating
+
+Home assignment (3-4 days) part 1: a machine learning use case, **Predicting Engine Rating**. Submit code files and Jupyter notebook.
+
+<sub>Topics: ML/AI, Python & Pandas · Source: [chat, 18 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L608)</sub>
+
+### Q2. Home assignment: Flights-to-trip mapping
+
+Home assignment part 2: a coding question, **Flights-to-Trip Mapping using Genetic Code**, which must handle any number of connecting flights (i.e., recursive merges).
+
+Full statement not given.
+
+<sub>Topics: Recursion/Backtracking, Graphs · Source: [chat, 18 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L608)</sub>
+
+### Q3. Technical round 1: assignment discussion
+
+Started with "Tell me about yourself", then discussion of the assignment:
+- Briefly describe your approach to solving these problems.
+- How well does your model perform?
+- How do you validate its performance?
+- What statistical metrics did you use, and why?
+- What challenges did you encounter?
+- What insights did you gain from the data? (important features, helpful visualizations)
+- What improvements would you have made with more time?
+
+Then some general machine learning questions (the message is cut off here).
+
+<sub>Topics: ML/AI, HR & Behavioral · Source: [chat, 18 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L608)</sub>
 
 ## 2026-11-18 · IIT Kanpur · FTE · GenAI
 
@@ -152,7 +199,7 @@ OA for the AI/GenAI role contained 10 MCQs plus 1 ML coding question. In the ML 
 
 The exact MCQ topics and the specific ML task were not shared.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L258), [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L260)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L258), [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L260) · Also asked at: IIT Kharagpur (2026-11-19)</sub>
 
 ## 2026-11-16 · IIT BHU · FTE · Data Science · Other round
 
@@ -258,7 +305,7 @@ Generic process description: Round 1 resume screening. Round 2 online assessment
 
 90 minutes. 10 MCQs on Python, stats and Gen AI (LLMs). 1 project with different sets for each candidate, in a VS Code-type setup. Tasks included writing code to do classification or regression with XGBoost, or tokenization and then training BERT. An AI helper was provided in the project.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L491), [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L492)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L491), [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L492) · Also asked at: IIT Kanpur (2026-11-19)</sub>
 
 ## 2026-11-15 · IIT BHU · FTE · Data Scientist
 
@@ -282,7 +329,7 @@ Pattern: 1. MCQ on ML / data science, 2. Coding, 3. Aptitude.
 
 15 questions: 12 MCQs, 2 DSA coding questions and 1 SQL question. The MCQs were related to software engineering only.
 
-<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Delhi ×2 (last 2026-11-15), IIT Kharagpur/Kanpur (2026-11-16), IIT Kharagpur (2026-11-17)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Delhi ×2 (last 2026-11-15), IIT Kharagpur/Kanpur (2026-11-16), IIT Kharagpur (2026-11-17), IIT BHU (2026-11-19)</sub>
 
 ## 2026-11-14 · IIT Delhi · FTE · Data Science / ML
 

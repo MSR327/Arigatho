@@ -1,13 +1,15 @@
 # Amazon
 
-**23 questions** · 20 drives · latest 18 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**24 questions** · 21 drives · latest 18 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 18 · [Arrays](../topics/arrays.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Graphs](../topics/graphs.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +5 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 18 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +6 more  
 **Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +7 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-18 · IIT Kharagpur/Kanpur · FTE](#2026-11-18--iit-kharagpurkanpur--fte)
+  - [Lexicographically largest identifier from key](#q1-lexicographically-largest-identifier-from-key)
 - [2026-11-17 · IIT Roorkee · FTE](#2026-11-17--iit-roorkee--fte)
   - [Amazon OA pattern](#q1-amazon-oa-pattern)
 - [2026-11-12 · IIT Kharagpur · FTE](#2026-11-12--iit-kharagpur--fte)
@@ -55,6 +57,27 @@
 </details>
 
 ---
+
+## 2026-11-18 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Lexicographically largest identifier from key
+
+There is a key given which is a string. Now I have to generate an identifier. Initially l=0 and r=n-1 (n is the size of the key).
+
+Now you have to select an index i and add the character present at that index to the resulting identifier string. Then you discard one part, either [l to i-1] or [i+1 to r], and continue with the other.
+
+Repeat the same procedure until l>r.
+
+Return the lexicographically largest identifier.
+
+```
+Input: adcdb
+Output: ddc
+```
+
+Constraint: Size of the key ≤ 10^5
+
+<sub>Topics: Strings, Greedy, Stack/Queue · Source: [chat, 18 Nov](../archive/inter-nit/2026-11.jsonl#L2051)</sub>
 
 ## 2026-11-17 · IIT Roorkee · FTE
 

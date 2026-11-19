@@ -1,13 +1,15 @@
 # Accordion
 
-**38 questions** · 13 drives · latest 18 Nov 2026 · [← all companies](../README.md#companies)
+**39 questions** · 14 drives · latest 18 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 26 · [OA Format](../topics/oa-format.md) 11 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 27 · [OA Format](../topics/oa-format.md) 12 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-18 · IIT Roorkee · FTE](#2026-11-18--iit-roorkee--fte)
+  - [Accordion OA format: aptitude test](#q1-accordion-oa-format-aptitude-test)
 - [2026-11-17 · IIT Roorkee · FTE](#2026-11-17--iit-roorkee--fte)
   - [Accordion technical OA pattern](#q1-accordion-technical-oa-pattern)
 - [2026-11-15 · IIT Guwahati · FTE · AI/ML Engineer](#2026-11-15--iit-guwahati--fte--aiml-engineer)
@@ -63,6 +65,14 @@
 </details>
 
 ---
+
+## 2026-11-18 · IIT Roorkee · FTE
+
+### Q1. Accordion OA format: aptitude test
+
+15 aptitude questions in 20 minutes, mostly repeated from previous-year questions.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 18 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L198)</sub>
 
 ## 2026-11-17 · IIT Roorkee · FTE
 

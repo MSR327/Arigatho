@@ -1,9 +1,26 @@
 # OA Format
 
-833 questions from 151 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+850 questions from 155 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-19 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT BHU | [Deutsche Bank OA difficulty](../companies/deutsche-bank.md#q1-deutsche-bank-oa-difficulty) | |
+| 2026-11-19 | [Finarb](../companies/finarb.md) | IIT BHU | [Finarb OA format: Linux terminal tasks](../companies/finarb.md#q1-finarb-oa-format-linux-terminal-tasks) | |
+| 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [IDFC First Bank coding test pattern](../companies/idfc-first-bank.md#q1-idfc-first-bank-coding-test-pattern) | |
+| 2026-11-19 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [ML OA topics: RL, transformers, MLOps](../companies/eternal-zomato.md#q2-ml-oa-topics-rl-transformers-mlops) | |
+| 2026-11-19 | [NatWest](../companies/natwest.md) | Unknown | [NatWest process overview](../companies/natwest.md#q1-natwest-process-overview) | |
+| 2026-11-19 | [Cars24](../companies/cars24.md) | IIT Kharagpur/Kanpur | [Transformer/BERT CSV encode-decode pipeline](../companies/cars24.md#q1-transformerbert-csv-encode-decode-pipeline) | |
+| 2026-11-19 | [Cisco](../companies/cisco.md) | VNIT Nagpur | [Cisco VLSI question topics](../companies/cisco.md#q1-cisco-vlsi-question-topics) | |
+| 2026-11-19 | [ICICI](../companies/icici.md) | Unknown | [OA platform and proctoring details](../companies/icici.md#q1-oa-platform-and-proctoring-details) | |
+| 2026-11-18 | [Wabtec](../companies/wabtec.md) | NIT Surathkal | [Wabtec OA structure](../companies/wabtec.md#q1-wabtec-oa-structure) | |
+| 2026-11-18 | [Rackspace Technology](../companies/rackspace-technology.md) | IIT Roorkee | [Rackspace OA format](../companies/rackspace-technology.md#q2-rackspace-oa-format) | |
+| 2026-11-18 | [Tredence](../companies/tredence.md) | Unknown | [Tredence OA and SpeechX process](../companies/tredence.md#q1-tredence-oa-and-speechx-process) | |
+| 2026-11-18 | [Rackspace Technology](../companies/rackspace-technology.md) | IIT Roorkee | [Rackspace OA pattern](../companies/rackspace-technology.md#q1-rackspace-oa-pattern) | |
+| 2026-11-18 | [Accenture](../companies/accenture.md) | Unknown | [Accenture OA and interview technical topics](../companies/accenture.md#q1-accenture-oa-and-interview-technical-topics) | |
+| 2026-11-18 | [Prodigal](../companies/prodigal.md) | Unknown | [OA: two simple questions](../companies/prodigal.md#q1-oa-two-simple-questions) | |
+| 2026-11-18 | [Flipkart](../companies/flipkart.md) | IIT Delhi | [Flipkart round 2 format](../companies/flipkart.md#q1-flipkart-round-2-format) | |
+| 2026-11-18 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Accordion OA format: aptitude test](../companies/accordion.md#q1-accordion-oa-format-aptitude-test) | |
+| 2026-11-18 | [Cisco](../companies/cisco.md) | NIT Surathkal | [Cisco VLSI OA contents](../companies/cisco.md#q1-cisco-vlsi-oa-contents) | |
 | 2026-11-18 | [Sirius AI](../companies/sirius-ai.md) | NIT Kurukshetra | [Interview: GenAI basics and one DSA question](../companies/sirius-ai.md#q1-interview-genai-basics-and-one-dsa-question) | |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | IIT BHU | [Cars24 OA pattern and monthly sales coding](../companies/cars24.md#q1-cars24-oa-pattern-and-monthly-sales-coding) | |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 SDE OA: Networking server tasks (round 2)](../companies/cars24.md#q2-cars24-sde-oa-networking-server-tasks-round-2) | |

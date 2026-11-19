@@ -1,12 +1,17 @@
 # Cisco
 
-**3 questions** · 2 drives · latest 21 Sep 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 4 drives · latest 19 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Trees](../topics/trees.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Digital Electronics](../topics/digital-electronics.md) 2 · [Trees](../topics/trees.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [OOP](../topics/oop.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1  
+**Seen at:** NIT Kurukshetra, NIT Surathkal, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-19 · VNIT Nagpur · FTE · VLSI · Other round](#2026-11-19--vnit-nagpur--fte--vlsi--other-round)
+  - [Cisco VLSI question topics](#q1-cisco-vlsi-question-topics)
+- [2026-11-18 · NIT Surathkal · FTE · VLSI](#2026-11-18--nit-surathkal--fte--vlsi)
+  - [Cisco VLSI OA contents](#q1-cisco-vlsi-oa-contents)
 - [2026-09-21 · Unknown · FTE · SDE](#2026-09-21--unknown--fte--sde)
   - [SDE OA format: 2 DSA tasks and 40 MCQs](#q1-sde-oa-format-2-dsa-tasks-and-40-mcqs)
 - [2026-09-21 · Unknown · FTE · SDE · Interview](#2026-09-21--unknown--fte--sde--interview)
@@ -16,6 +21,22 @@
 </details>
 
 ---
+
+## 2026-11-19 · VNIT Nagpur · FTE · VLSI · Other round
+
+### Q1. Cisco VLSI question topics
+
+Cisco mainly asks core questions and some computer architecture questions. No specific questions were given.
+
+<sub>Topics: Digital Electronics, OA Format · Source: [chat, 19 Nov](../archive/campus-vnit-nagpur-placements/2026-11.jsonl#L40)</sub>
+
+## 2026-11-18 · NIT Surathkal · FTE · VLSI
+
+### Q1. Cisco VLSI OA contents
+
+The OA included digital design questions, Verilog code, and RTL questions.
+
+<sub>Topics: OA Format, Digital Electronics · Source: [chat, 18 Nov](../archive/inter-iit/2026-11.jsonl#L1002) · Also asked at: NIT Kurukshetra (2026-11-18)</sub>
 
 ## 2026-09-21 · Unknown · FTE · SDE
 

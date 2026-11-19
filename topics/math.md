@@ -1,9 +1,14 @@
 # Math
 
-216 questions from 57 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+221 questions from 59 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Prime number](../companies/schlumberger.md#q4-prime-number) | ≈ [LC 204](https://leetcode.com/problems/count-primes/) Medium |
+| 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Fibonacci number check](../companies/schlumberger.md#q3-fibonacci-number-check) | ≈ [LC 509](https://leetcode.com/problems/fibonacci-number/) Easy |
+| 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Decimal to binary](../companies/schlumberger.md#q2-decimal-to-binary) | ≈ [LC 1009](https://leetcode.com/problems/complement-of-base-10-integer/) Easy |
+| 2026-11-18 | [Wabtec](../companies/wabtec.md) | NIT Surathkal | [Bishop attacks on chessboard in k moves](../companies/wabtec.md#q2-bishop-attacks-on-chessboard-in-k-moves) | ≈ [LC 1958](https://leetcode.com/problems/check-if-move-is-legal/) Medium |
+| 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Max score of substrings of length k](../companies/eternal-zomato.md#q3-max-score-of-substrings-of-length-k) | ≈ [LC 1100](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) Medium |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [Probability via Russian Roulette problem](../companies/cars24.md#q3-probability-via-russian-roulette-problem) | |
 | 2026-11-14 | [QiCap](../companies/qicap.md) | IIT BHU | [QiCap Quant/Research OA topics](../companies/qicap.md#q1-qicap-quantresearch-oa-topics) | |
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Correlation between cool drinks sales and swimming club registrations](../companies/accenture.md#q2-correlation-between-cool-drinks-sales-and-swimming-club-registrations) | |

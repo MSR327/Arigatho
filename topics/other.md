@@ -1,9 +1,10 @@
 # Other
 
-71 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+72 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-19 | [Nation with NaMo](../companies/nation-with-namo.md) | Unknown | [Political awareness and current affairs](../companies/nation-with-namo.md#q2-political-awareness-and-current-affairs) | |
 | 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [How the payment industry works](../companies/groww.md#q5-how-the-payment-industry-works) | |
 | 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 2: Multithreading and node communication](../companies/accenture.md#q4-round-2-multithreading-and-node-communication) | |
 | 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 2: Key-value store](../companies/accenture.md#q3-round-2-key-value-store) | ≈ [LC 981](https://leetcode.com/problems/time-based-key-value-store/) Medium |

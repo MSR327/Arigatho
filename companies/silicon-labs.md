@@ -1,12 +1,15 @@
 # Silicon Labs
 
-**4 questions** · 2 drives · latest 21 Sep 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 3 drives · latest 18 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Sorting](../topics/sorting.md) 2 · [Arrays](../topics/arrays.md) 2 · [Heaps](../topics/heaps.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Digital Electronics](../topics/digital-electronics.md) 1 · [OA Format](../topics/oa-format.md) 1  
+**Asks about:** [Sorting](../topics/sorting.md) 2 · [Arrays](../topics/arrays.md) 2 · [Heaps](../topics/heaps.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Digital Electronics](../topics/digital-electronics.md) 1 · [OA Format](../topics/oa-format.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
+**Seen at:** IIT Hyderabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-18 · IIT Hyderabad · FTE · SWE · Interview](#2026-11-18--iit-hyderabad--fte--swe--interview)
+  - [Silicon Labs SWE interview focus](#q1-silicon-labs-swe-interview-focus)
 - [2026-09-21 · Unknown · FTE · SDE-1 · Interview](#2026-09-21--unknown--fte--sde-1--interview)
   - [Kth largest element](#q1-kth-largest-element)
   - [Next greater element](#q2-next-greater-element)
@@ -17,6 +20,14 @@
 </details>
 
 ---
+
+## 2026-11-18 · IIT Hyderabad · FTE · SWE · Interview
+
+### Q1. Silicon Labs SWE interview focus
+
+Interviewers discuss the candidate's projects in depth.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/silicon-labs-oa/2026-11.jsonl#L5)</sub>
 
 ## 2026-09-21 · Unknown · FTE · SDE-1 · Interview
 

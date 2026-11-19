@@ -1,9 +1,13 @@
 # Strings
 
-127 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+131 questions from 53 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Palindrome check](../companies/schlumberger.md#q1-palindrome-check) | [LC 9](https://leetcode.com/problems/palindrome-number/) Easy |
+| 2026-11-18 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically largest identifier from key](../companies/amazon.md#q1-lexicographically-largest-identifier-from-key) | |
+| 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Max score of substrings of length k](../companies/eternal-zomato.md#q3-max-score-of-substrings-of-length-k) | ≈ [LC 1100](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) Medium |
+| 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Minimize longest run after flipping](../companies/eternal-zomato.md#q2-minimize-longest-run-after-flipping) | |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Ola OA: easy string question](../companies/ola.md#q1-ola-oa-easy-string-question) | |
 | 2026-11-15 | [Nutanix](../companies/nutanix.md) | MNNIT Allahabad | [String implementation problem](../companies/nutanix.md#q2-string-implementation-problem) | |
 | 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Sort dish names by first character, length, lexicographic](../companies/tech-mahindra.md#q1-sort-dish-names-by-first-character-length-lexicographic) | |

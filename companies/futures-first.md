@@ -1,9 +1,9 @@
 # Futures First
 
-**39 questions** · 10 drives · latest 14 Nov 2026 · [← all companies](../README.md#companies)
+**39 questions** · 10 drives · latest 18 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 36 · [Math](../topics/math.md) 7 · [OA Format](../topics/oa-format.md) 5 · [Puzzles](../topics/puzzles.md) 4  
-**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Madras, IIT Mandi, IIT Roorkee, MNNIT Allahabad
+**Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Madras, IIT Mandi, IIT Roorkee, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -184,7 +184,7 @@ Compute (45.6)^2 − (44.4)^2 = ? (Answer given: 108)
 
 Futures First OA had 2 sections: (1) Aptitude: 51 questions in 35 minutes; (2) Speed math: 15 questions in 5 minutes. No question details were shared.
 
-<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1601) · Also asked at: Unknown (2026-10-27), IIT Guwahati (2026-10-28), IIT BHU ×3 (last 2026-10-30), IIT Roorkee ×6 (last 2026-10-30), MNNIT Allahabad (2026-11-11)</sub>
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1601) · Also asked at: Unknown (2026-10-27), IIT Guwahati (2026-10-28), IIT BHU ×3 (last 2026-10-30), IIT Roorkee ×6 (last 2026-10-30), MNNIT Allahabad (2026-11-11), IIT Dhanbad (2026-11-18)</sub>
 
 ## 2026-10-14 · IIT Madras · FTE
 

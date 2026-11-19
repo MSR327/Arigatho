@@ -1,13 +1,15 @@
 # Flipkart
 
-**34 questions** · 15 drives · latest 3 Nov 2026 · [17 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**35 questions** · 16 drives · latest 18 Nov 2026 · [17 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Strings](../topics/strings.md) 6 · [Math](../topics/math.md) 6 · [Graphs](../topics/graphs.md) 6 · [DP](../topics/dp.md) 5 · [Arrays](../topics/arrays.md) 4 · [Trees](../topics/trees.md) 3 · [Binary Search](../topics/binary-search.md) 2 · +6 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Strings](../topics/strings.md) 6 · [Math](../topics/math.md) 6 · [Graphs](../topics/graphs.md) 6 · [DP](../topics/dp.md) 5 · [Arrays](../topics/arrays.md) 4 · [Trees](../topics/trees.md) 3 · [Binary Search](../topics/binary-search.md) 2 · +6 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-18 · IIT Delhi · FTE · Interview](#2026-11-18--iit-delhi--fte--interview)
+  - [Flipkart round 2 format](#q1-flipkart-round-2-format)
 - [2026-11-03 · IIT Madras · FTE · AI Engineer](#2026-11-03--iit-madras--fte--ai-engineer)
   - [Simple backtracking problem](#q1-simple-backtracking-problem)
   - [LCA in a binary tree given as root paths](#q2-lca-in-a-binary-tree-given-as-root-paths)
@@ -61,6 +63,14 @@
 </details>
 
 ---
+
+## 2026-11-18 · IIT Delhi · FTE · Interview
+
+### Q1. Flipkart round 2 format
+
+Round 2 is a machine coding round, as mentioned in their JNF.
+
+<sub>Topics: OA Format · Source: [chat, 18 Nov](../archive/flipkart-oa/2026-11.jsonl#L36)</sub>
 
 ## 2026-11-03 · IIT Madras · FTE · AI Engineer
 

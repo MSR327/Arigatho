@@ -1,9 +1,11 @@
 # Guesstimates & Cases
 
-34 questions from 11 companys, newest first. [← all topics](../README.md#topics)
+36 questions from 12 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-19 | [Nation with NaMo](../companies/nation-with-namo.md) | Unknown | [Case studies and campaign strategy](../companies/nation-with-namo.md#q3-case-studies-and-campaign-strategy) |
+| 2026-11-19 | [Nation with NaMo](../companies/nation-with-namo.md) | Unknown | [Guesstimates and analytical puzzles](../companies/nation-with-namo.md#q1-guesstimates-and-analytical-puzzles) |
 | 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [People giving an interview right now worldwide](../companies/groww.md#q4-people-giving-an-interview-right-now-worldwide) |
 | 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [Favorite product and how to improve it](../companies/groww.md#q3-favorite-product-and-how-to-improve-it) |
 | 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [Swiggy drop in average revenue per user](../companies/groww.md#q2-swiggy-drop-in-average-revenue-per-user) |

@@ -1,13 +1,15 @@
 # NatWest
 
-**46 questions** · 22 drives · latest 9 Nov 2026 · [19 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**47 questions** · 23 drives · latest 19 Nov 2026 · [19 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Arrays](../topics/arrays.md) 10 · [Graphs](../topics/graphs.md) 7 · [Greedy](../topics/greedy.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · +8 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Arrays](../topics/arrays.md) 10 · [Graphs](../topics/graphs.md) 7 · [Greedy](../topics/greedy.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · +8 more  
 **Seen at:** Delhi Technological University, Delhi Technological University (DTU), IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-19 · Unknown · FTE · Other round](#2026-11-19--unknown--fte--other-round)
+  - [NatWest process overview](#q1-natwest-process-overview)
 - [2026-11-09 · IIT Guwahati · FTE](#2026-11-09--iit-guwahati--fte)
   - [NatWest OA pattern](#q1-natwest-oa-pattern)
 - [2026-10-31 · IIT Roorkee · FTE](#2026-10-31--iit-roorkee--fte)
@@ -80,6 +82,14 @@
 </details>
 
 ---
+
+## 2026-11-19 · Unknown · FTE · Other round
+
+### Q1. NatWest process overview
+
+OA had LeetCode easy-to-medium questions. The interview had project-based questions, followed by an HR round. (No specific questions shared.)
+
+<sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/inter-nit/2026-11.jsonl#L2080)</sub>
 
 ## 2026-11-09 · IIT Guwahati · FTE
 

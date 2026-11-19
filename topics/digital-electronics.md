@@ -1,9 +1,11 @@
 # Digital Electronics
 
-29 questions from 5 companys, newest first. [← all topics](../README.md#topics)
+31 questions from 6 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-19 | [Cisco](../companies/cisco.md) | VNIT Nagpur | [Cisco VLSI question topics](../companies/cisco.md#q1-cisco-vlsi-question-topics) |
+| 2026-11-18 | [Cisco](../companies/cisco.md) | NIT Surathkal | [Cisco VLSI OA contents](../companies/cisco.md#q1-cisco-vlsi-oa-contents) |
 | 2026-11-14 | [Nvidia](../companies/nvidia.md) | Unknown | [Formal verification interview process and topics](../companies/nvidia.md#q1-formal-verification-interview-process-and-topics) |
 | 2026-11-08 | [Ixana](../companies/ixana.md) | IIT BHU | [Ixana embedded hiring process](../companies/ixana.md#q1-ixana-embedded-hiring-process) |
 | 2026-11-06 | [Nvidia](../companies/nvidia.md) | IIT Hyderabad | [Questions reported from the August 2026 NVIDIA assessment](../companies/nvidia.md#q1-questions-reported-from-the-august-2026-nvidia-assessment) |

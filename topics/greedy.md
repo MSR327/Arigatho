@@ -1,9 +1,12 @@
 # Greedy
 
-118 questions from 49 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+121 questions from 49 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-18 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically largest identifier from key](../companies/amazon.md#q1-lexicographically-largest-identifier-from-key) | |
+| 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Minimize longest run after flipping](../companies/eternal-zomato.md#q2-minimize-longest-run-after-flipping) | |
+| 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Minimum swaps to sort non-zeros](../companies/eternal-zomato.md#q1-minimum-swaps-to-sort-non-zeros) | |
 | 2026-11-15 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT BHU | [Make adjacent differences at most 1](../companies/deutsche-bank.md#q1-make-adjacent-differences-at-most-1) | ≈ [LC 2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) Medium |
 | 2026-11-14 | [Tech Mahindra](../companies/tech-mahindra.md) | Delhi Technological University | [Maximize sum of absolute differences of symmetric elements](../companies/tech-mahindra.md#q3-maximize-sum-of-absolute-differences-of-symmetric-elements) | |
 | 2026-11-12 | [Cognizant](../companies/cognizant.md) | IIT Kharagpur/Kanpur | [Scheduling question](../companies/cognizant.md#q3-scheduling-question) | |

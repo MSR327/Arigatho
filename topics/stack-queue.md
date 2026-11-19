@@ -1,9 +1,12 @@
 # Stack/Queue
 
-39 questions from 24 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+42 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-18 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically largest identifier from key](../companies/amazon.md#q1-lexicographically-largest-identifier-from-key) | |
+| 2026-11-18 | [Prodigal](../companies/prodigal.md) | Unknown | [Min element from a queue](../companies/prodigal.md#q4-min-element-from-a-queue) | [LC 155](https://leetcode.com/problems/min-stack/) Medium |
+| 2026-11-18 | [Prodigal](../companies/prodigal.md) | Unknown | [Min element from a stack](../companies/prodigal.md#q3-min-element-from-a-stack) | [LC 155](https://leetcode.com/problems/min-stack/) Medium |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Special stack with popMin and popMax in O(1)](../companies/ola.md#q2-special-stack-with-popmin-and-popmax-in-o1) | ≈ [LC 155](https://leetcode.com/problems/min-stack/) Medium |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Special stack with popMin and popMax in O(1)](../companies/ola.md#q3-special-stack-with-popmin-and-popmax-in-o1) | ≈ [LC 155](https://leetcode.com/problems/min-stack/) Medium |
 | 2026-11-13 | [KLA](../companies/kla.md) | MNNIT Allahabad | [KLA DSA questions](../companies/kla.md#q1-kla-dsa-questions) | |

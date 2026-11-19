@@ -1,9 +1,13 @@
 # Arrays
 
-274 questions from 71 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+278 questions from 73 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Find second largest element](../companies/schlumberger.md#q6-find-second-largest-element) | ≈ [LC 414](https://leetcode.com/problems/third-maximum-number/) Easy |
+| 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Remove duplicates from array](../companies/schlumberger.md#q5-remove-duplicates-from-array) | [LC 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) Easy |
+| 2026-11-18 | [Wabtec](../companies/wabtec.md) | NIT Surathkal | [Bishop attacks on chessboard in k moves](../companies/wabtec.md#q2-bishop-attacks-on-chessboard-in-k-moves) | ≈ [LC 1958](https://leetcode.com/problems/check-if-move-is-legal/) Medium |
+| 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Minimum swaps to sort non-zeros](../companies/eternal-zomato.md#q1-minimum-swaps-to-sort-non-zeros) | |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Merge k sorted arrays](../companies/ola.md#q1-merge-k-sorted-arrays) | [GfG](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Ola OA: medium array question](../companies/ola.md#q2-ola-oa-medium-array-question) | |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Merge k sorted arrays](../companies/ola.md#q2-merge-k-sorted-arrays) | [GfG](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) |

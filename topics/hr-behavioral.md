@@ -1,9 +1,15 @@
 # HR & Behavioral
 
-50 questions from 24 companys, newest first. [← all topics](../README.md#topics)
+56 questions from 27 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-18 | [Silicon Labs](../companies/silicon-labs.md) | IIT Hyderabad | [Silicon Labs SWE interview focus](../companies/silicon-labs.md#q1-silicon-labs-swe-interview-focus) |
+| 2026-11-18 | [Accenture](../companies/accenture.md) | NIT Surathkal | [ETE interview experience 3](../companies/accenture.md#q3-ete-interview-experience-3) |
+| 2026-11-18 | [Accenture](../companies/accenture.md) | NIT Surathkal | [ETE interview experience 2 (selected, Oct 2026)](../companies/accenture.md#q2-ete-interview-experience-2-selected-oct-2026) |
+| 2026-11-18 | [Accenture](../companies/accenture.md) | NIT Surathkal | [ETE interview experience 1](../companies/accenture.md#q1-ete-interview-experience-1) |
+| 2026-11-18 | [Prodigal](../companies/prodigal.md) | Unknown | [Interview rounds: project and assignment discussion](../companies/prodigal.md#q5-interview-rounds-project-and-assignment-discussion) |
+| 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Technical round 1: assignment discussion](../companies/cars24.md#q3-technical-round-1-assignment-discussion) |
 | 2026-11-18 | [HCLTech](../companies/hcltech.md) | Unknown | [HCLTech interview topics](../companies/hcltech.md#q1-hcltech-interview-topics) |
 | 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [Favorite product and how to improve it](../companies/groww.md#q3-favorite-product-and-how-to-improve-it) |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Ola HR round](../companies/ola.md#q3-ola-hr-round) |
