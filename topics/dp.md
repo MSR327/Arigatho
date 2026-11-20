@@ -1,9 +1,10 @@
 # DP
 
-166 questions from 58 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+167 questions from 59 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Number of Dice Rolls With Target Sum](../companies/idfc-first-bank.md#q4-number-of-dice-rolls-with-target-sum) | [LC 1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) Medium |
 | 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | PES University | [Digit DP using tabulation](../companies/eternal-zomato.md#q1-digit-dp-using-tabulation) | |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Knapsack with unlimited item picks](../companies/ola.md#q3-knapsack-with-unlimited-item-picks) | [GfG](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) |
 | 2026-11-15 | [Nutanix](../companies/nutanix.md) | MNNIT Allahabad | [Subarray DP problem](../companies/nutanix.md#q3-subarray-dp-problem) | |

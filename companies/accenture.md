@@ -1,6 +1,6 @@
 # Accenture
 
-**353 questions** · 128 drives · latest 18 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**353 questions** · 128 drives · latest 19 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 97 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
@@ -532,7 +532,7 @@ A candidate from an IIT reported:
 
 The interview lasted approximately 15 minutes with no technical questions.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531) · Also asked at: Unknown (2026-11-19)</sub>
 
 ### Q3. ETE interview experience 3
 

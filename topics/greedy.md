@@ -1,9 +1,10 @@
 # Greedy
 
-121 questions from 49 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+122 questions from 50 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Maximum Number of Strings](../companies/idfc-first-bank.md#q2-maximum-number-of-strings) | [LC 1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) Easy |
 | 2026-11-18 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically largest identifier from key](../companies/amazon.md#q1-lexicographically-largest-identifier-from-key) | |
 | 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Minimize longest run after flipping](../companies/eternal-zomato.md#q2-minimize-longest-run-after-flipping) | |
 | 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Minimum swaps to sort non-zeros](../companies/eternal-zomato.md#q1-minimum-swaps-to-sort-non-zeros) | |

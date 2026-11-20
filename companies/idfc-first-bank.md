@@ -1,8 +1,8 @@
 # IDFC First Bank
 
-**11 questions** · 11 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
+**15 questions** · 12 drives · latest 19 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11  
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur +4 more
 
 <details>
@@ -10,6 +10,11 @@
 
 - [2026-11-19 · Unknown · FTE](#2026-11-19--unknown--fte)
   - [IDFC First Bank coding test pattern](#q1-idfc-first-bank-coding-test-pattern)
+- [2026-11-19 · Unknown · FTE · Associate Data Scientist / Associate Data Analyst](#2026-11-19--unknown--fte--associate-data-scientist--associate-data-analyst)
+  - [Fruit Into Baskets](#q1-fruit-into-baskets)
+  - [Maximum Number of Strings](#q2-maximum-number-of-strings)
+  - [Number of Provinces](#q3-number-of-provinces)
+  - [Number of Dice Rolls With Target Sum](#q4-number-of-dice-rolls-with-target-sum)
 - [2026-11-12 · NIT Karnataka Surathkal · FTE · Deputy Manager II (Engineer)](#2026-11-12--nit-karnataka-surathkal--fte--deputy-manager-ii-engineer)
   - [IDFC First Bank engineering OA pattern](#q1-idfc-first-bank-engineering-oa-pattern)
 - [2026-11-12 · IIT Kharagpur · FTE](#2026-11-12--iit-kharagpur--fte)
@@ -42,6 +47,32 @@
 Coding questions are LeetCode easy and medium level. There are heavy questions on SQL basics in the OA, so prepare SQL.
 
 <sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/inter-iit/2026-11.jsonl#L1046)</sub>
+
+## 2026-11-19 · Unknown · FTE · Associate Data Scientist / Associate Data Analyst
+
+### Q1. Fruit Into Baskets
+
+Fruit Into Baskets (reported as LC 904, Sliding Window). Full statement not given.
+
+<sub>Topics: Sliding Window · Similar: [LeetCode 904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (Medium) · Source: [chat, 19 Nov](../archive/accenture-oa/2026-11.jsonl#L572)</sub>
+
+### Q2. Maximum Number of Strings
+
+Maximum Number of Strings (reported as LC 1422*, Strings / Greedy). Full statement not given.
+
+<sub>Topics: Strings, Greedy · Close variant: [LeetCode 1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) (Easy), split binary string, maximize count via prefix/suffix counts · Source: [chat, 19 Nov](../archive/accenture-oa/2026-11.jsonl#L572)</sub>
+
+### Q3. Number of Provinces
+
+Number of Provinces (reported as LC 547, Graph / DFS / DSU). Full statement not given.
+
+<sub>Topics: Graphs · Similar: [LeetCode 547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) (Medium) · Source: [chat, 19 Nov](../archive/accenture-oa/2026-11.jsonl#L572)</sub>
+
+### Q4. Number of Dice Rolls With Target Sum
+
+Number of Dice Rolls With Target Sum (reported as LC 1155, Dynamic Programming). Full statement not given.
+
+<sub>Topics: DP · Similar: [LeetCode 1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) (Medium) · Source: [chat, 19 Nov](../archive/accenture-oa/2026-11.jsonl#L572)</sub>
 
 ## 2026-11-12 · NIT Karnataka Surathkal · FTE · Deputy Manager II (Engineer)
 
