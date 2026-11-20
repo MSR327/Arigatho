@@ -1,9 +1,12 @@
 # HR & Behavioral
 
-56 questions from 27 companys, newest first. [← all topics](../README.md#topics)
+59 questions from 28 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-20 | [Groww](../companies/groww.md) | Unknown | [Groww APM AI voice interview](../companies/groww.md#q1-groww-apm-ai-voice-interview) |
+| 2026-11-19 | [ICICI](../companies/icici.md) | Unknown | [ICICI data analyst interview: HR, projects and SQL](../companies/icici.md#q1-icici-data-analyst-interview-hr-projects-and-sql) |
+| 2026-11-19 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Accordion Data & AI engineer interview experiences](../companies/accordion.md#q1-accordion-data--ai-engineer-interview-experiences) |
 | 2026-11-18 | [Silicon Labs](../companies/silicon-labs.md) | IIT Hyderabad | [Silicon Labs SWE interview focus](../companies/silicon-labs.md#q1-silicon-labs-swe-interview-focus) |
 | 2026-11-18 | [Accenture](../companies/accenture.md) | NIT Surathkal | [ETE interview experience 3](../companies/accenture.md#q3-ete-interview-experience-3) |
 | 2026-11-18 | [Accenture](../companies/accenture.md) | NIT Surathkal | [ETE interview experience 2 (selected, Oct 2026)](../companies/accenture.md#q2-ete-interview-experience-2-selected-oct-2026) |

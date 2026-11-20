@@ -1,15 +1,18 @@
 # Cars24
 
-**58 questions** · 25 drives · latest 19 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**60 questions** · 26 drives · latest 20 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 20 · [ML/AI](../topics/ml-ai.md) 20 · [Graphs](../topics/graphs.md) 6 · [Arrays](../topics/arrays.md) 5 · [Python & Pandas](../topics/python-pandas.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · +15 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee, VNIT Nagpur
+**Asks about:** [ML/AI](../topics/ml-ai.md) 22 · [OA Format](../topics/oa-format.md) 21 · [Graphs](../topics/graphs.md) 6 · [Python & Pandas](../topics/python-pandas.md) 6 · [Arrays](../topics/arrays.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · +15 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-11-19 · IIT Kharagpur/Kanpur · FTE · Gen AI](#2026-11-19--iit-kharagpurkanpur--fte--gen-ai)
   - [Transformer/BERT CSV encode-decode pipeline](#q1-transformerbert-csv-encode-decode-pipeline)
+- [2026-11-19 · IIT Guwahati · FTE · Data Scientist](#2026-11-19--iit-guwahati--fte--data-scientist)
+  - [Binary classification from scratch in Python](#q1-binary-classification-from-scratch-in-python)
+  - [Classical ML MCQs](#q2-classical-ml-mcqs)
 - [2026-11-18 · Unknown · FTE · SDE](#2026-11-18--unknown--fte--sde)
   - [Cars24 SDE OA: Linux terminal tasks (round 1)](#q1-cars24-sde-oa-linux-terminal-tasks-round-1)
   - [Cars24 SDE OA: Networking server tasks (round 2)](#q2-cars24-sde-oa-networking-server-tasks-round-2)
@@ -105,6 +108,20 @@ The OA had 10 MCQs and 1 coding question on Transformers. A CSV file was given a
 (The MCQ contents were not shared.)
 
 <sub>Topics: ML/AI, OA Format · Source: [chat, 19 Nov](../archive/inter-nit/2026-11.jsonl#L2078) · Also asked at: IIT Kharagpur/Kanpur (2026-11-18)</sub>
+
+## 2026-11-19 · IIT Guwahati · FTE · Data Scientist
+
+### Q1. Binary classification from scratch in Python
+
+Implement binary classification in Python from scratch. (Details not given.)
+
+<sub>Topics: ML/AI, Python & Pandas · Source: [chat, 19 Nov](../archive/inter-iit/2026-11.jsonl#L1062) · Also asked at: IIT Roorkee (2026-11-19)</sub>
+
+### Q2. Classical ML MCQs
+
+10 MCQs about classical ML.
+
+<sub>Topics: ML/AI, OA Format · Source: [chat, 19 Nov](../archive/inter-iit/2026-11.jsonl#L1062) · Also asked at: IIT Roorkee (2026-11-19)</sub>
 
 ## 2026-11-18 · Unknown · FTE · SDE
 
@@ -263,7 +280,7 @@ Explain your approach to EDA on a given dataset.
 
 The OA had more questions on RAG systems, and especially on agentic AI systems. (Whether there were coding questions was not stated.)
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L457)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 15 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L457) · Also asked at: Unknown (2026-11-20)</sub>
 
 ## 2026-11-15 · IIT Roorkee · FTE · Data Science
 
@@ -329,7 +346,7 @@ Pattern: 1. MCQ on ML / data science, 2. Coding, 3. Aptitude.
 
 15 questions: 12 MCQs, 2 DSA coding questions and 1 SQL question. The MCQs were related to software engineering only.
 
-<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Delhi ×2 (last 2026-11-15), IIT Kharagpur/Kanpur (2026-11-16), IIT Kharagpur (2026-11-17), IIT BHU (2026-11-19)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Kharagpur/Kanpur (2026-11-16), IIT Kharagpur (2026-11-17), IIT Delhi ×3 (last 2026-11-19), IIT BHU ×3 (last 2026-11-19), IIT Guwahati (2026-11-19)</sub>
 
 ## 2026-11-14 · IIT Delhi · FTE · Data Science / ML
 

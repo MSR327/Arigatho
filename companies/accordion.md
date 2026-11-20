@@ -1,13 +1,17 @@
 # Accordion
 
-**39 questions** · 14 drives · latest 18 Nov 2026 · [← all companies](../README.md#companies)
+**41 questions** · 16 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 27 · [OA Format](../topics/oa-format.md) 12 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +1 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 27 · [OA Format](../topics/oa-format.md) 13 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +2 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-19 · MNNIT Allahabad · FTE · Data & AI Engineer · Interview](#2026-11-19--mnnit-allahabad--fte--data--ai-engineer--interview)
+  - [Accordion Data & AI engineer interview experiences](#q1-accordion-data--ai-engineer-interview-experiences)
+- [2026-11-19 · IIT Roorkee · FTE · Data & AI Engineer](#2026-11-19--iit-roorkee--fte--data--ai-engineer)
+  - [Accordion Data & AI Engineer OA pattern](#q1-accordion-data--ai-engineer-oa-pattern)
 - [2026-11-18 · IIT Roorkee · FTE](#2026-11-18--iit-roorkee--fte)
   - [Accordion OA format: aptitude test](#q1-accordion-oa-format-aptitude-test)
 - [2026-11-17 · IIT Roorkee · FTE](#2026-11-17--iit-roorkee--fte)
@@ -66,13 +70,48 @@
 
 ---
 
+## 2026-11-19 · MNNIT Allahabad · FTE · Data & AI Engineer · Interview
+
+### Q1. Accordion Data & AI engineer interview experiences
+
+Experience 1: 
+- Introduce yourself (2–3 minutes).
+- Explain your projects.
+- Questions about extracurricular activities and sports.
+- Questions about cloud and agentic AI.
+- General HR discussion.
+
+The interviewer encouraged the candidate to speak at length about their background.
+
+Experience 2 – Selected (October 2026), candidate from an IIT:
+- Introduction and hobbies.
+- What do you do in your free time?
+- How are you finding South India?
+- What is the importance of innovation and collaboration in an organisation?
+
+The interview lasted approximately 15 minutes. No technical questions were reported.
+
+Experience 3 – ETE interview discussion (October 2026): the interview was relatively easy and focused mainly on common HR questions and projects.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 19 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L614)</sub>
+
+## 2026-11-19 · IIT Roorkee · FTE · Data & AI Engineer
+
+### Q1. Accordion Data & AI Engineer OA pattern
+
+1. MCQ - Aptitude
+2. MCQ - Python and Data
+3. Coding
+
+<sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/inter-iit/2026-11.jsonl#L1057)</sub>
+
 ## 2026-11-18 · IIT Roorkee · FTE
 
 ### Q1. Accordion OA format: aptitude test
 
 15 aptitude questions in 20 minutes, mostly repeated from previous-year questions.
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 18 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L198)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 18 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L198) · Also asked at: IIT Hyderabad (2026-11-19)</sub>
 
 ## 2026-11-17 · IIT Roorkee · FTE
 
@@ -83,7 +122,7 @@ Total 30 questions in 30 minutes.
 - Aptitude: 15 questions. Topics: Probability, P&C, directions, family relations, percentages, profit & loss
 - Technical MCQs: 15 questions. Topics: Python, SQL, Java, OOP, DBMS
 
-<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/alphonso-oa/2026-11.jsonl#L22) · Also asked at: IIT Roorkee ×2 (last 2026-11-17), Unknown (2026-11-17)</sub>
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/alphonso-oa/2026-11.jsonl#L22) · Also asked at: IIT Roorkee ×2 (last 2026-11-17), Unknown (2026-11-17), IIT BHU (2026-11-19)</sub>
 
 ## 2026-11-15 · IIT Guwahati · FTE · AI/ML Engineer
 
@@ -174,7 +213,7 @@ DA section (15 questions / 20 minutes): very tough and long business math questi
 
 A numerical question based on a table. Answer given: 9.9 million. Table and wording missing.
 
-<sub>Topics: Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L29), [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L30) · Also asked at: NIT Karnataka Surathkal (2026-11-09)</sub>
+<sub>Topics: Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L29), [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L30) · Also asked at: NIT Karnataka Surathkal ×2 (last 2026-11-19)</sub>
 
 ### Q2. Acceptance and denial rate
 
@@ -182,7 +221,7 @@ Calculate the acceptance rate and denial rate from the given data.
 
 Answer given: Acceptance 96.28%, Denial 3.72%. Data missing.
 
-<sub>Topics: Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L29), [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L30) · Also asked at: NIT Karnataka Surathkal (2026-11-09)</sub>
+<sub>Topics: Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L29), [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L30) · Also asked at: NIT Karnataka Surathkal ×2 (last 2026-11-19)</sub>
 
 ### Q3. Tables and pie charts numerical result
 
@@ -190,7 +229,7 @@ A question based on tables and pie charts.
 
 Answer given: 61.67. Data missing; the message was cut off after this.
 
-<sub>Topics: Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L29), [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L30) · Also asked at: NIT Karnataka Surathkal (2026-11-09)</sub>
+<sub>Topics: Aptitude · Source: [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L29), [chat, 9 Nov](../archive/campus-iit-ropar-placements/2026-11.jsonl#L30) · Also asked at: NIT Karnataka Surathkal ×2 (last 2026-11-19)</sub>
 
 ## 2026-11-09 · IIIT Allahabad · FTE
 
@@ -372,7 +411,7 @@ D. Customer split becomes 30% SUV and 70% Sedan
 
 Answer given: B (second case). Revenues: A 158.4, B 226.8, C 180.0, D 154.8 crores.
 
-<sub>Topics: Aptitude, Guesstimates & Cases · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375) · Also asked at: IIT Delhi (2026-11-09), NIT Karnataka Surathkal (2026-11-09)</sub>
+<sub>Topics: Aptitude, Guesstimates & Cases · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375) · Also asked at: IIT Delhi (2026-11-09), NIT Karnataka Surathkal ×2 (last 2026-11-19)</sub>
 
 ### Q14. Insurance subscribers additional revenue
 
@@ -412,7 +451,7 @@ D. Decrease by 5.2 percentage points
 
 Answer given: decrease by 4.8 percentage points (given rate 5.5, required rate 2/3).
 
-<sub>Topics: Aptitude, Math · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375) · Also asked at: IIT Delhi (2026-11-09), NIT Karnataka Surathkal (2026-11-09)</sub>
+<sub>Topics: Aptitude, Math · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375) · Also asked at: IIT Delhi (2026-11-09), NIT Karnataka Surathkal ×2 (last 2026-11-19)</sub>
 
 ### Q17. Most effective advertising medium
 
@@ -425,7 +464,7 @@ D. Radio
 
 Answer given: Radio. The table values are not legible.
 
-<sub>Topics: Aptitude, Guesstimates & Cases · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375) · Also asked at: IIT Delhi (2026-11-09), NIT Karnataka Surathkal (2026-11-09)</sub>
+<sub>Topics: Aptitude, Guesstimates & Cases · Source: [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L373), [Accordion.pdf](../archive/files/22967-Accordion.pdf), [chat, 7 Nov](../archive/inter-iit/2026-11.jsonl#L375) · Also asked at: IIT Delhi (2026-11-09), NIT Karnataka Surathkal ×2 (last 2026-11-19)</sub>
 
 ### Q18. Expected surgeries from Beyonce's leads
 

@@ -1,6 +1,6 @@
 # Dassault Systemes: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**1 written experience**, newest first · [OA questions](../companies/dassault-systemes.md) · [← all companies](README.md)
 
 ## 2025-26 season · Engineer · IIT Kanpur · on-campus
 

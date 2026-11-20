@@ -1,8 +1,8 @@
 # Eternal (Zomato)
 
-**198 questions** · 99 drives · latest 19 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**201 questions** · 102 drives · latest 19 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 71 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 74 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
 **Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +16 more
 
 <details>
@@ -11,6 +11,12 @@
 - [2026-11-19 · Unknown · FTE · ML Scientist](#2026-11-19--unknown--fte--ml-scientist)
   - [Eternal ML Scientist OA topics](#q1-eternal-ml-scientist-oa-topics)
   - [ML OA topics: RL, transformers, MLOps](#q2-ml-oa-topics-rl-transformers-mlops)
+- [2026-11-19 · IIT Kharagpur/Kanpur · FTE · PA](#2026-11-19--iit-kharagpurkanpur--fte--pa)
+  - [Eternal PA OA pattern](#q1-eternal-pa-oa-pattern)
+- [2026-11-19 · IIT BHU · FTE · ML Scientist](#2026-11-19--iit-bhu--fte--ml-scientist)
+  - [Eternal ML Scientist OA pattern](#q1-eternal-ml-scientist-oa-pattern)
+- [2026-11-19 · IIT BHU · FTE · ML](#2026-11-19--iit-bhu--fte--ml)
+  - [Eternal ML role OA format](#q1-eternal-ml-role-oa-format)
 - [2026-11-18 · Unknown · FTE · PA](#2026-11-18--unknown--fte--pa)
   - [Minimum swaps to sort non-zeros](#q1-minimum-swaps-to-sort-non-zeros)
   - [Minimize longest run after flipping](#q2-minimize-longest-run-after-flipping)
@@ -37,7 +43,7 @@
 - [2026-11-11 · Unknown · FTE](#2026-11-11--unknown--fte)
   - [Eternal PA OA format](#q1-eternal-pa-oa-format)
 - [2026-11-11 · IIT Roorkee · FTE · Product Analyst](#2026-11-11--iit-roorkee--fte--product-analyst)
-  - [Eternal PA OA pattern](#q1-eternal-pa-oa-pattern)
+  - [Eternal PA OA pattern](#q1-eternal-pa-oa-pattern-1)
 - [2026-11-10 · VNIT Nagpur · FTE · ML](#2026-11-10--vnit-nagpur--fte--ml)
   - [Eternal ML OA pattern](#q1-eternal-ml-oa-pattern)
 - [2026-11-09 · NIT Delhi · FTE · SDE](#2026-11-09--nit-delhi--fte--sde)
@@ -324,6 +330,35 @@ The ML OA was heavily based on RL concepts and emerging transformer architecture
 
 <sub>Topics: ML/AI, OA Format · Source: [chat, 19 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L629)</sub>
 
+## 2026-11-19 · IIT Kharagpur/Kanpur · FTE · PA
+
+### Q1. Eternal PA OA pattern
+
+Total 27 questions: 2 Python coding questions, 2 ML coding questions, and probability and Python MCQs.
+
+Individual question statements were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/eternal-oa/2026-11.jsonl#L228)</sub>
+
+## 2026-11-19 · IIT BHU · FTE · ML Scientist
+
+### Q1. Eternal ML Scientist OA pattern
+
+90 mins.
+- 10 MCQs on Python, stats and Gen AI (LLMs).
+- 1 project, different sets for everyone, VS Code-type setup provided, with tasks like writing code to do classification or regression with XGBoost, or tokenization and then training BERT for the Gen AI role.
+- DSA questions for the SDE role.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 19 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L417)</sub>
+
+## 2026-11-19 · IIT BHU · FTE · ML
+
+### Q1. Eternal ML role OA format
+
+The ML role OA had Python coding. (No further details given.)
+
+<sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L601)</sub>
+
 ## 2026-11-18 · Unknown · FTE · PA
 
 ### Q1. Minimum swaps to sort non-zeros
@@ -500,7 +535,7 @@ Eternal SDE OA questions are reported to repeat; at NIT Delhi the question "Task
 
 Mostly aptitude questions, a few Python MCQs, and 3 SQL coding questions (two basic joins and one requiring a window function). No DSA. Easy, very doable paper overall. (Individual questions not shared.)
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1037), [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1038) · Also asked at: NIT Surathkal (2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1037), [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1038) · Also asked at: NIT Surathkal ×2 (last 2026-11-19), IIT Roorkee (2026-11-19), NIT Kurukshetra (2026-11-19)</sub>
 
 ## 2026-11-09 · IIT Indore · FTE · Product Analyst · Interview
 

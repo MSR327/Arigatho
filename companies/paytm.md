@@ -1,13 +1,15 @@
 # Paytm
 
-**25 questions** · 9 drives · latest 14 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**26 questions** · 10 drives · latest 20 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Strings](../topics/strings.md) 4 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · +11 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Strings](../topics/strings.md) 4 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · +11 more  
 **Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU, IIT Indore, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · IIT Indore · FTE · SDE · Interview](#2026-11-20--iit-indore--fte--sde--interview)
+  - [Paytm SDE interview structure](#q1-paytm-sde-interview-structure)
 - [2026-11-14 · IIT Indore · FTE · Product Analyst · Other round](#2026-11-14--iit-indore--fte--product-analyst--other-round)
   - [Soundbox enhancements](#q1-soundbox-enhancements)
   - [Recharge engagement](#q2-recharge-engagement)
@@ -46,6 +48,14 @@
 </details>
 
 ---
+
+## 2026-11-20 · IIT Indore · FTE · SDE · Interview
+
+### Q1. Paytm SDE interview structure
+
+Interview covered: projects, HLD (high-level design), and 1-2 DSA questions. They prefer ML/GenAI projects over web dev projects (some students were reportedly rejected due to this).
+
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/paytm-oa/2026-11.jsonl#L30)</sub>
 
 ## 2026-11-14 · IIT Indore · FTE · Product Analyst · Other round
 

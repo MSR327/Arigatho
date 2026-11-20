@@ -1,8 +1,8 @@
 # ICICI
 
-**49 questions** · 26 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
+**50 questions** · 27 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 23 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 14 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [SQL](../topics/sql.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · +7 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 23 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [SQL](../topics/sql.md) 4 · [HR & Behavioral](../topics/hr-behavioral.md) 3 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [Python & Pandas](../topics/python-pandas.md) 2 · +7 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNIT Jaipur +8 more
 
 <details>
@@ -10,6 +10,8 @@
 
 - [2026-11-19 · Unknown · FTE](#2026-11-19--unknown--fte)
   - [OA platform and proctoring details](#q1-oa-platform-and-proctoring-details)
+- [2026-11-19 · Unknown · FTE · Data Analyst · Interview](#2026-11-19--unknown--fte--data-analyst--interview)
+  - [ICICI data analyst interview: HR, projects and SQL](#q1-icici-data-analyst-interview-hr-projects-and-sql)
 - [2026-11-15 · IIT Roorkee · FTE · Manager 1](#2026-11-15--iit-roorkee--fte--manager-1)
   - [ICICI Manager 1 OA pattern](#q1-icici-manager-1-oa-pattern)
 - [2026-11-14 · IIT Indore · FTE](#2026-11-14--iit-indore--fte)
@@ -95,6 +97,20 @@
 ICICI OA is on HackerEarth using a smart browser. Camera is not on during the test. Switching applications during the test is not allowed. The login is one-time. No actual questions were shared.
 
 <sub>Topics: OA Format · Source: [chat, 18 Nov](../archive/icici-oa/2026-11.jsonl#L155), [chat, 19 Nov](../archive/icici-oa/2026-11.jsonl#L156), [chat, 19 Nov](../archive/icici-oa/2026-11.jsonl#L157), [chat, 19 Nov](../archive/icici-oa/2026-11.jsonl#L162)</sub>
+
+## 2026-11-19 · Unknown · FTE · Data Analyst · Interview
+
+### Q1. ICICI data analyst interview: HR, projects and SQL
+
+Reported by one shared experience (Data Analyst, on-campus, 1 round):
+
+- HR questions: background, hobbies, why ICICI
+- Projects from the resume
+- SQL queries, SQL vs NoSQL, relational vs non-relational databases
+
+Exact questions were not given.
+
+<sub>Topics: HR & Behavioral, SQL, OS/DBMS/CN MCQ · Source: [chat, 19 Nov](../archive/campus-nit-warangal-placements/2026-11.jsonl#L38)</sub>
 
 ## 2026-11-15 · IIT Roorkee · FTE · Manager 1
 

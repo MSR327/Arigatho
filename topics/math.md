@@ -1,9 +1,10 @@
 # Math
 
-221 questions from 59 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+222 questions from 59 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-19 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur | [Cosine similarity](../companies/blackrock.md#q2-cosine-similarity) | |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Prime number](../companies/schlumberger.md#q4-prime-number) | ≈ [LC 204](https://leetcode.com/problems/count-primes/) Medium |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Fibonacci number check](../companies/schlumberger.md#q3-fibonacci-number-check) | ≈ [LC 509](https://leetcode.com/problems/fibonacci-number/) Easy |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Decimal to binary](../companies/schlumberger.md#q2-decimal-to-binary) | ≈ [LC 1009](https://leetcode.com/problems/complement-of-base-10-integer/) Easy |

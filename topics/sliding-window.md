@@ -1,10 +1,11 @@
 # Sliding Window
 
-38 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+39 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Fruit Into Baskets](../companies/idfc-first-bank.md#q1-fruit-into-baskets) | [LC 904](https://leetcode.com/problems/fruit-into-baskets/) Medium |
+| 2026-11-19 | [Walt Disney](../companies/walt-disney.md) | NIT Surathkal | [Fruit Into Baskets](../companies/walt-disney.md#q1-fruit-into-baskets) | [LC 904](https://leetcode.com/problems/fruit-into-baskets/) Medium |
 | 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Max score of substrings of length k](../companies/eternal-zomato.md#q3-max-score-of-substrings-of-length-k) | ≈ [LC 1100](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) Medium |
 | 2026-11-13 | [Media.net](../companies/media-net.md) | MNNIT Allahabad | [Media.net SDE interview questions](../companies/media-net.md#q1-medianet-sde-interview-questions) | [LC 1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) Medium |
 | 2026-11-12 | [Amazon](../companies/amazon.md) | IIT Kharagpur | [Long story reducing to sliding window minimum](../companies/amazon.md#q1-long-story-reducing-to-sliding-window-minimum) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |

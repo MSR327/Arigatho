@@ -1,13 +1,17 @@
 # Groww
 
-**6 questions** · 2 drives · latest 17 Nov 2026 · [← all companies](../README.md#companies)
+**8 questions** · 4 drives · latest 20 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [OA Format](../topics/oa-format.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Finance](../topics/finance.md) 1 · [Other](../topics/other.md) 1  
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [OA Format](../topics/oa-format.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Finance](../topics/finance.md) 1 · [Other](../topics/other.md) 1  
 **Seen at:** IIT Guwahati, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · Unknown · FTE · APM · Interview](#2026-11-20--unknown--fte--apm--interview)
+  - [Groww APM AI voice interview](#q1-groww-apm-ai-voice-interview)
+- [2026-11-19 · Unknown · FTE · APM](#2026-11-19--unknown--fte--apm)
+  - [Groww OA section breakdown](#q1-groww-oa-section-breakdown)
 - [2026-11-17 · Unknown · FTE · APM · Other round](#2026-11-17--unknown--fte--apm--other-round)
   - [Estimate emails sent on Gmail daily](#q1-estimate-emails-sent-on-gmail-daily)
   - [Swiggy drop in average revenue per user](#q2-swiggy-drop-in-average-revenue-per-user)
@@ -20,6 +24,28 @@
 </details>
 
 ---
+
+## 2026-11-20 · Unknown · FTE · APM · Interview
+
+### Q1. Groww APM AI voice interview
+
+The round is an interview taken by an AI; the candidate's voice is recognised and parsed simultaneously. Questions are mostly behavioural and easy enough to answer. (No specific questions given.)
+
+<sub>Topics: HR & Behavioral · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2143)</sub>
+
+## 2026-11-19 · Unknown · FTE · APM
+
+### Q1. Groww OA section breakdown
+
+Poster's set had:
+- at least 10 questions from CS fundamentals
+- 2-3 from data interpretation
+- 5 from aptitude
+- 3-5 from SQL
+- 3-5 language-specific (Java and C++ in their set)
+- 2 from MS Excel VLOOKUP
+
+<sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/inter-nit/2026-11.jsonl#L2129)</sub>
 
 ## 2026-11-17 · Unknown · FTE · APM · Other round
 

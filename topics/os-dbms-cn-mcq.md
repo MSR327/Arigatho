@@ -1,9 +1,11 @@
 # OS/DBMS/CN MCQ
 
-144 questions from 29 companys, newest first. [← all topics](../README.md#topics)
+146 questions from 30 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-20 | [Walt Disney](../companies/walt-disney.md) | NIT Kurukshetra | [Walt Disney MCQ topics to prepare](../companies/walt-disney.md#q1-walt-disney-mcq-topics-to-prepare) | |
+| 2026-11-19 | [ICICI](../companies/icici.md) | Unknown | [ICICI data analyst interview: HR, projects and SQL](../companies/icici.md#q1-icici-data-analyst-interview-hr-projects-and-sql) | |
 | 2026-11-19 | [Finarb](../companies/finarb.md) | IIT BHU | [Finarb OA format: Linux terminal tasks](../companies/finarb.md#q1-finarb-oa-format-linux-terminal-tasks) | |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 SDE OA: Networking server tasks (round 2)](../companies/cars24.md#q2-cars24-sde-oa-networking-server-tasks-round-2) | |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Cars24 SDE OA: Linux terminal tasks (round 1)](../companies/cars24.md#q1-cars24-sde-oa-linux-terminal-tasks-round-1) | |

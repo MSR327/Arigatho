@@ -1,13 +1,15 @@
 # Juspay
 
-**23 questions** · 16 drives · latest 18 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**24 questions** · 17 drives · latest 19 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Trees](../topics/trees.md) 4 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 3 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +2 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Trees](../topics/trees.md) 4 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 3 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +2 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, MNNIT Allahabad +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-19 · Unknown · FTE · Interview](#2026-11-19--unknown--fte--interview)
+  - [Juspay interview round topics](#q1-juspay-interview-round-topics)
 - [2026-11-09 · NIT Surathkal · FTE](#2026-11-09--nit-surathkal--fte)
   - [Round 3 design-type tree operations](#q1-round-3-design-type-tree-operations)
 - [2026-11-09 · IIT Delhi · FTE](#2026-11-09--iit-delhi--fte)
@@ -51,6 +53,14 @@
 </details>
 
 ---
+
+## 2026-11-19 · Unknown · FTE · Interview
+
+### Q1. Juspay interview round topics
+
+Interview asked LeetCode medium-level problems, plus system design basics such as what is sharding.
+
+<sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/juspay-oa/2026-11.jsonl#L128)</sub>
 
 ## 2026-11-09 · NIT Surathkal · FTE
 

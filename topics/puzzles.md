@@ -1,9 +1,11 @@
 # Puzzles
 
-31 questions from 13 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+33 questions from 14 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-19 | [Takshashila Consulting](../companies/takshashila-consulting.md) | IIT Kharagpur | [Takshashila Consulting OA format](../companies/takshashila-consulting.md#q2-takshashila-consulting-oa-format) | |
+| 2026-11-19 | [Takshashila Consulting](../companies/takshashila-consulting.md) | IIT Kharagpur | [Takshashila Consulting Analyst aptitude test pattern](../companies/takshashila-consulting.md#q1-takshashila-consulting-analyst-aptitude-test-pattern) | |
 | 2026-11-16 | [Cars24](../companies/cars24.md) | IIT BHU | [Probability via Russian Roulette problem](../companies/cars24.md#q3-probability-via-russian-roulette-problem) | |
 | 2026-11-14 | [Nvidia](../companies/nvidia.md) | Unknown | [Formal verification interview process and topics](../companies/nvidia.md#q1-formal-verification-interview-process-and-topics) | |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA logical reasoning questions](../companies/iqvia.md#q5-iqvia-logical-reasoning-questions) | |

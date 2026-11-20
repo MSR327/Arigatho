@@ -1,9 +1,10 @@
 # SQL
 
-120 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+121 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-19 | [ICICI](../companies/icici.md) | Unknown | [ICICI data analyst interview: HR, projects and SQL](../companies/icici.md#q1-icici-data-analyst-interview-hr-projects-and-sql) | |
 | 2026-11-15 | [Revolut](../companies/revolut.md) | NIT Surathkal | [Revolut SQL join questions on 3 tables](../companies/revolut.md#q1-revolut-sql-join-questions-on-3-tables) | |
 | 2026-11-15 | [Media.net](../companies/media-net.md) | IIT BHU | [Media.net OA: SQL and Python coding](../companies/media-net.md#q1-medianet-oa-sql-and-python-coding) | |
 | 2026-11-15 | [Accenture](../companies/accenture.md) | Unknown | [Second highest salary (SQL)](../companies/accenture.md#q1-second-highest-salary-sql) | [LC 176](https://leetcode.com/problems/second-highest-salary/) Medium |
@@ -17,7 +18,7 @@
 | 2026-11-11 | [Bloomberg](../companies/bloomberg.md) | IIT BHU | [Bloomberg interview rounds overview](../companies/bloomberg.md#q1-bloomberg-interview-rounds-overview) | |
 | 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Delete stored procedure in BigQuery](../companies/icici.md#q11-delete-stored-procedure-in-bigquery) | |
 | 2026-11-11 | [ICICI](../companies/icici.md) | IIT Roorkee | [Average marks with word 'one'](../companies/icici.md#q10-average-marks-with-word-one) | |
-| 2026-11-11 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal PA OA pattern](../companies/eternal-zomato.md#q1-eternal-pa-oa-pattern) | |
+| 2026-11-11 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal PA OA pattern](../companies/eternal-zomato.md#q1-eternal-pa-oa-pattern-1) | |
 | 2026-11-10 | [Tredence](../companies/tredence.md) | VNIT Nagpur | [Tredence data engineering interview topics](../companies/tredence.md#q1-tredence-data-engineering-interview-topics) | |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal PA interview rounds](../companies/eternal-zomato.md#q1-eternal-pa-interview-rounds) | |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA pattern](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-pattern) | |

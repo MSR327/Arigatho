@@ -1,10 +1,11 @@
 # Strings
 
-132 questions from 54 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+133 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Maximum Number of Strings](../companies/idfc-first-bank.md#q2-maximum-number-of-strings) | [LC 1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) Easy |
+| 2026-11-19 | [Walt Disney](../companies/walt-disney.md) | NIT Surathkal | [Maximum Number of Strings](../companies/walt-disney.md#q2-maximum-number-of-strings) | |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Palindrome check](../companies/schlumberger.md#q1-palindrome-check) | [LC 9](https://leetcode.com/problems/palindrome-number/) Easy |
 | 2026-11-18 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically largest identifier from key](../companies/amazon.md#q1-lexicographically-largest-identifier-from-key) | |
 | 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Max score of substrings of length k](../companies/eternal-zomato.md#q3-max-score-of-substrings-of-length-k) | ≈ [LC 1100](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) Medium |

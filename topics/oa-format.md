@@ -1,9 +1,26 @@
 # OA Format
 
-850 questions from 155 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+867 questions from 160 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-20 | [Paytm](../companies/paytm.md) | IIT Indore | [Paytm SDE interview structure](../companies/paytm.md#q1-paytm-sde-interview-structure) | |
+| 2026-11-20 | [Walt Disney](../companies/walt-disney.md) | NIT Kurukshetra | [Walt Disney MCQ topics to prepare](../companies/walt-disney.md#q1-walt-disney-mcq-topics-to-prepare) | |
+| 2026-11-20 | [Atlassian](../companies/atlassian.md) | Unknown | [Atlassian OA format](../companies/atlassian.md#q1-atlassian-oa-format) | |
+| 2026-11-19 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Kharagpur/Kanpur | [Eternal PA OA pattern](../companies/eternal-zomato.md#q1-eternal-pa-oa-pattern) | |
+| 2026-11-19 | [Dassault Systemes](../companies/dassault-systemes.md) | Unknown | [Dassault Systemes OA pattern](../companies/dassault-systemes.md#q1-dassault-systemes-oa-pattern) | |
+| 2026-11-19 | [Takshashila Consulting](../companies/takshashila-consulting.md) | IIT Kharagpur | [Takshashila Consulting OA format](../companies/takshashila-consulting.md#q2-takshashila-consulting-oa-format) | |
+| 2026-11-19 | [Takshashila Consulting](../companies/takshashila-consulting.md) | IIT Kharagpur | [Takshashila Consulting Analyst aptitude test pattern](../companies/takshashila-consulting.md#q1-takshashila-consulting-analyst-aptitude-test-pattern) | |
+| 2026-11-19 | [Walt Disney](../companies/walt-disney.md) | MNNIT Allahabad | [Walt Disney SDE OA pattern](../companies/walt-disney.md#q1-walt-disney-sde-oa-pattern) | |
+| 2026-11-19 | [Groww](../companies/groww.md) | Unknown | [Groww OA section breakdown](../companies/groww.md#q1-groww-oa-section-breakdown) | |
+| 2026-11-19 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal ML Scientist OA pattern](../companies/eternal-zomato.md#q1-eternal-ml-scientist-oa-pattern) | |
+| 2026-11-19 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal ML role OA format](../companies/eternal-zomato.md#q1-eternal-ml-role-oa-format) | |
+| 2026-11-19 | [Trademo](../companies/trademo.md) | IIT BHU | [Trademo OA pattern and sections](../companies/trademo.md#q1-trademo-oa-pattern-and-sections) | |
+| 2026-11-19 | [Auronova Consulting](../companies/auronova-consulting.md) | IIT BHU | [AURO Group Data Analyst OA pattern](../companies/auronova-consulting.md#q1-auro-group-data-analyst-oa-pattern) | |
+| 2026-11-19 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Classical ML MCQs](../companies/cars24.md#q2-classical-ml-mcqs) | |
+| 2026-11-19 | [Moneyview](../companies/moneyview.md) | IIT Kharagpur | [Moneyview OA pattern](../companies/moneyview.md#q1-moneyview-oa-pattern) | |
+| 2026-11-19 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Accordion Data & AI Engineer OA pattern](../companies/accordion.md#q1-accordion-data--ai-engineer-oa-pattern) | |
+| 2026-11-19 | [Juspay](../companies/juspay.md) | Unknown | [Juspay interview round topics](../companies/juspay.md#q1-juspay-interview-round-topics) | |
 | 2026-11-19 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT BHU | [Deutsche Bank OA difficulty](../companies/deutsche-bank.md#q1-deutsche-bank-oa-difficulty) | |
 | 2026-11-19 | [Finarb](../companies/finarb.md) | IIT BHU | [Finarb OA format: Linux terminal tasks](../companies/finarb.md#q1-finarb-oa-format-linux-terminal-tasks) | |
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [IDFC First Bank coding test pattern](../companies/idfc-first-bank.md#q1-idfc-first-bank-coding-test-pattern) | |
@@ -164,7 +181,7 @@
 | 2026-11-11 | [Urban Company](../companies/urban-company.md) | IIT Kharagpur | [Urban Company OA pattern](../companies/urban-company.md#q1-urban-company-oa-pattern) | |
 | 2026-11-11 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Accenture OA pattern](../companies/accenture.md#q1-accenture-oa-pattern) | |
 | 2026-11-11 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Eternal PA OA format](../companies/eternal-zomato.md#q1-eternal-pa-oa-format) | |
-| 2026-11-11 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal PA OA pattern](../companies/eternal-zomato.md#q1-eternal-pa-oa-pattern) | |
+| 2026-11-11 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal PA OA pattern](../companies/eternal-zomato.md#q1-eternal-pa-oa-pattern-1) | |
 | 2026-11-11 | [NPS Prism](../companies/nps-prism.md) | IIT Roorkee | [NPS Prism hiring process for Analyst roles](../companies/nps-prism.md#q1-nps-prism-hiring-process-for-analyst-roles) | |
 | 2026-11-11 | [NoBroker](../companies/nobroker.md) | IIT Madras | [SDE OA format](../companies/nobroker.md#q1-sde-oa-format) | |
 | 2026-11-11 | [Capgemini](../companies/capgemini.md) | IIIT Allahabad | [Capgemini OA expected format](../companies/capgemini.md#q1-capgemini-oa-expected-format) | |

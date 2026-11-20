@@ -1,13 +1,16 @@
 # BlackRock
 
-**78 questions** · 33 drives · latest 14 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**80 questions** · 34 drives · latest 19 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [ML/AI](../topics/ml-ai.md) 37 · [OA Format](../topics/oa-format.md) 35 · [Math](../topics/math.md) 15 · [Greedy](../topics/greedy.md) 8 · [Heaps](../topics/heaps.md) 7 · [Sorting](../topics/sorting.md) 5 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · +9 more  
-**Seen at:** BITS, BITS Pilani, IIIT Delhi, IIT BHU, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kharagpur/Kanpur +5 more
+**Asks about:** [ML/AI](../topics/ml-ai.md) 39 · [OA Format](../topics/oa-format.md) 35 · [Math](../topics/math.md) 16 · [Greedy](../topics/greedy.md) 8 · [Heaps](../topics/heaps.md) 7 · [Sorting](../topics/sorting.md) 5 · [Strings](../topics/strings.md) 4 · [Graphs](../topics/graphs.md) 4 · +9 more  
+**Seen at:** BITS, BITS Pilani, IIIT Delhi, IIT BHU, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kharagpur +6 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-19 · IIT Kharagpur · FTE · AI ML Engineer](#2026-11-19--iit-kharagpur--fte--ai-ml-engineer)
+  - [Complete a transformer function](#q1-complete-a-transformer-function)
+  - [Cosine similarity](#q2-cosine-similarity)
 - [2026-11-12 · IIT BHU · FTE · AI/ML](#2026-11-12--iit-bhu--fte--aiml)
   - [BlackRock AI/ML OA format](#q1-blackrock-aiml-oa-format)
 - [2026-11-08 · Unknown · FTE · AI/ML](#2026-11-08--unknown--fte--aiml)
@@ -124,6 +127,20 @@
 
 ---
 
+## 2026-11-19 · IIT Kharagpur · FTE · AI ML Engineer
+
+### Q1. Complete a transformer function
+
+Python only, AI-assisted coding round: complete a transformer function. (Full statement not given.)
+
+<sub>Topics: ML/AI · Source: [chat, 19 Nov](../archive/inter-iit/2026-11.jsonl#L1084)</sub>
+
+### Q2. Cosine similarity
+
+Python only, AI-assisted coding round: implement cosine similarity. (Full statement not given.)
+
+<sub>Topics: ML/AI, Math · Source: [chat, 19 Nov](../archive/inter-iit/2026-11.jsonl#L1084)</sub>
+
 ## 2026-11-12 · IIT BHU · FTE · AI/ML
 
 ### Q1. BlackRock AI/ML OA format
@@ -166,7 +183,7 @@ Question 1 (40 mins): Candidates were required to implement multiple classes bas
 
 The exact class specifications were not shared.
 
-<sub>Topics: OOP · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L816) · Also asked at: IIT BHU (2026-11-08)</sub>
+<sub>Topics: OOP · Source: [chat, 7 Nov](../archive/inter-nit/2026-11.jsonl#L816) · Also asked at: IIT BHU (2026-11-08), IIT Kharagpur (2026-11-19)</sub>
 
 ### Q2. Disjoint Set Union implementation
 

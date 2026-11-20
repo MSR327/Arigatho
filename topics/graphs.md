@@ -1,10 +1,11 @@
 # Graphs
 
-161 questions from 54 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+162 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Number of Provinces](../companies/idfc-first-bank.md#q3-number-of-provinces) | [LC 547](https://leetcode.com/problems/number-of-provinces/) Medium |
+| 2026-11-19 | [Walt Disney](../companies/walt-disney.md) | NIT Surathkal | [Number of Provinces](../companies/walt-disney.md#q3-number-of-provinces) | [LC 547](https://leetcode.com/problems/number-of-provinces/) Medium |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Home assignment: Flights-to-trip mapping](../companies/cars24.md#q2-home-assignment-flights-to-trip-mapping) | |
 | 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | PES University | [BFS grid question similar to number of islands](../companies/eternal-zomato.md#q2-bfs-grid-question-similar-to-number-of-islands) | ≈ [LC 200](https://leetcode.com/problems/number-of-islands/) Medium |
 | 2026-11-15 | [Nutanix](../companies/nutanix.md) | MNNIT Allahabad | [Multi-state Dijkstra](../companies/nutanix.md#q1-multi-state-dijkstra) | ≈ [LC 787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) Medium |

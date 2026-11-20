@@ -1,9 +1,10 @@
 # Python & Pandas
 
-77 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+78 questions from 20 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-19 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Binary classification from scratch in Python](../companies/cars24.md#q1-binary-classification-from-scratch-in-python) | |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Home assignment: Predicting engine rating](../companies/cars24.md#q1-home-assignment-predicting-engine-rating) | |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | IIT BHU | [Cars24 OA pattern and monthly sales coding](../companies/cars24.md#q1-cars24-oa-pattern-and-monthly-sales-coding) | |
 | 2026-11-18 | [Tredence](../companies/tredence.md) | IIT Hyderabad | [Tredence data science OA pattern](../companies/tredence.md#q1-tredence-data-science-oa-pattern) | |

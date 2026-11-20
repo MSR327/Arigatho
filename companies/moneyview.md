@@ -1,19 +1,29 @@
 # Moneyview
 
-**1 question** · 1 drive · latest 14 Nov 2026 · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1  
-**Seen at:** IIT BHU, NIT Surathkal
+**Asks about:** [OA Format](../topics/oa-format.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1  
+**Seen at:** IIT BHU, IIT Kharagpur, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-19 · IIT Kharagpur · FTE](#2026-11-19--iit-kharagpur--fte)
+  - [Moneyview OA pattern](#q1-moneyview-oa-pattern)
 - [2026-11-13 · NIT Surathkal · FTE](#2026-11-13--nit-surathkal--fte)
   - [Moneyview two-round Linux/networking assessment](#q1-moneyview-two-round-linuxnetworking-assessment)
 
 </details>
 
 ---
+
+## 2026-11-19 · IIT Kharagpur · FTE
+
+### Q1. Moneyview OA pattern
+
+All MCQs. Topics: statistics, some ML questions, and logical reasoning (LR).
+
+<sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L407)</sub>
 
 ## 2026-11-13 · NIT Surathkal · FTE
 

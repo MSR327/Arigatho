@@ -1,9 +1,14 @@
 # ML/AI
 
-175 questions from 25 companys, newest first. [← all topics](../README.md#topics)
+180 questions from 25 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-19 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur | [Cosine similarity](../companies/blackrock.md#q2-cosine-similarity) |
+| 2026-11-19 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur | [Complete a transformer function](../companies/blackrock.md#q1-complete-a-transformer-function) |
+| 2026-11-19 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal ML Scientist OA pattern](../companies/eternal-zomato.md#q1-eternal-ml-scientist-oa-pattern) |
+| 2026-11-19 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Classical ML MCQs](../companies/cars24.md#q2-classical-ml-mcqs) |
+| 2026-11-19 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Binary classification from scratch in Python](../companies/cars24.md#q1-binary-classification-from-scratch-in-python) |
 | 2026-11-19 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [ML OA topics: RL, transformers, MLOps](../companies/eternal-zomato.md#q2-ml-oa-topics-rl-transformers-mlops) |
 | 2026-11-19 | [Cars24](../companies/cars24.md) | IIT Kharagpur/Kanpur | [Transformer/BERT CSV encode-decode pipeline](../companies/cars24.md#q1-transformerbert-csv-encode-decode-pipeline) |
 | 2026-11-19 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Eternal ML Scientist OA topics](../companies/eternal-zomato.md#q1-eternal-ml-scientist-oa-topics) |
@@ -40,7 +45,7 @@
 | 2026-11-13 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Specificity from confusion matrix](../companies/accenture.md#q1-specificity-from-confusion-matrix) |
 | 2026-11-12 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock AI/ML OA format](../companies/blackrock.md#q1-blackrock-aiml-oa-format) |
 | 2026-11-12 | [Unknown](../companies/unknown.md) | IIT Guwahati | [Saint Gobain OA pattern](../companies/unknown.md#q1-saint-gobain-oa-pattern) |
-| 2026-11-11 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal PA OA pattern](../companies/eternal-zomato.md#q1-eternal-pa-oa-pattern) |
+| 2026-11-11 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal PA OA pattern](../companies/eternal-zomato.md#q1-eternal-pa-oa-pattern-1) |
 | 2026-11-10 | [Pine Labs](../companies/pine-labs.md) | IIT Kharagpur/Kanpur | [Implement max pooling and k-means](../companies/pine-labs.md#q1-implement-max-pooling-and-k-means) |
 | 2026-11-10 | [Cars24](../companies/cars24.md) | IIT Roorkee | [Cars24 OA pattern](../companies/cars24.md#q1-cars24-oa-pattern-1) |
 | 2026-11-09 | [Qualcomm](../companies/qualcomm.md) | IIT Kharagpur/Kanpur | [Qualcomm software OA content](../companies/qualcomm.md#q1-qualcomm-software-oa-content) |

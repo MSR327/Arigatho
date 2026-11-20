@@ -1,9 +1,11 @@
 # Aptitude
 
-259 questions from 34 companys, newest first. [← all topics](../README.md#topics)
+261 questions from 35 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-19 | [Takshashila Consulting](../companies/takshashila-consulting.md) | IIT Kharagpur | [Takshashila Consulting OA format](../companies/takshashila-consulting.md#q2-takshashila-consulting-oa-format) |
+| 2026-11-19 | [Takshashila Consulting](../companies/takshashila-consulting.md) | IIT Kharagpur | [Takshashila Consulting Analyst aptitude test pattern](../companies/takshashila-consulting.md#q1-takshashila-consulting-analyst-aptitude-test-pattern) |
 | 2026-11-18 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Accordion OA format: aptitude test](../companies/accordion.md#q1-accordion-oa-format-aptitude-test) |
 | 2026-11-13 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Deloitte Analyst OA format](../companies/deloitte.md#q1-deloitte-analyst-oa-format) |
 | 2026-11-13 | [Unknown](../companies/unknown.md) | IIT Kharagpur | [Airbus OA aptitude format](../companies/unknown.md#q1-airbus-oa-aptitude-format) |
