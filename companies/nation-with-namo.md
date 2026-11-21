@@ -1,12 +1,15 @@
 # Nation with NaMo
 
-**3 questions** · 1 drive · latest 19 Nov 2026 · [← all companies](../README.md#companies)
+**4 questions** · 2 drives · latest 20 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 2 · [Other](../topics/other.md) 1  
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 2 · [Other](../topics/other.md) 1 · [OA Format](../topics/oa-format.md) 1  
+**Seen at:** IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · IIT Roorkee · FTE](#2026-11-20--iit-roorkee--fte)
+  - [Nation with NaMo assessment pattern](#q1-nation-with-namo-assessment-pattern)
 - [2026-11-19 · Unknown · FTE · Consulting / Associate · Interview](#2026-11-19--unknown--fte--consulting--associate--interview)
   - [Guesstimates and analytical puzzles](#q1-guesstimates-and-analytical-puzzles)
   - [Political awareness and current affairs](#q2-political-awareness-and-current-affairs)
@@ -15,6 +18,16 @@
 </details>
 
 ---
+
+## 2026-11-20 · IIT Roorkee · FTE
+
+### Q1. Nation with NaMo assessment pattern
+
+The assessment was related to current affairs.
+
+The actual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2204)</sub>
 
 ## 2026-11-19 · Unknown · FTE · Consulting / Associate · Interview
 

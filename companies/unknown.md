@@ -1,13 +1,17 @@
 # Unknown
 
-**55 questions** · 38 drives · latest 16 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**57 questions** · 40 drives · latest 20 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 25 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · +16 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 27 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · +17 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur +9 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · MNNIT Allahabad · FTE](#2026-11-20--mnnit-allahabad--fte)
+  - [Tescra OA pattern](#q1-tescra-oa-pattern)
+- [2026-11-20 · IIT BHU · FTE](#2026-11-20--iit-bhu--fte)
+  - [Nexus One OA pattern](#q1-nexus-one-oa-pattern)
 - [2026-11-16 · MNNIT Allahabad · FTE · Interview](#2026-11-16--mnnit-allahabad--fte--interview)
   - [Fetching logs from an unreliable range API](#q1-fetching-logs-from-an-unreliable-range-api)
 - [2026-11-16 · IIT Indore · FTE · APM](#2026-11-16--iit-indore--fte--apm)
@@ -105,6 +109,24 @@
 </details>
 
 ---
+
+## 2026-11-20 · MNNIT Allahabad · FTE
+
+### Q1. Tescra OA pattern
+
+MCQ only, no coding. Topics: OS, OOPs, DBMS, data structures and some aptitude.
+
+The actual questions were not shared.
+
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2188)</sub>
+
+## 2026-11-20 · IIT BHU · FTE
+
+### Q1. Nexus One OA pattern
+
+Nexus One OA: 2 coding questions and 18 computer fundamentals MCQs.
+
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L623)</sub>
 
 ## 2026-11-16 · MNNIT Allahabad · FTE · Interview
 

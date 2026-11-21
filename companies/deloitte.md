@@ -1,13 +1,16 @@
 # Deloitte
 
-**73 questions** · 20 drives · latest 17 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**75 questions** · 21 drives · latest 20 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 22 · [OA Format](../topics/oa-format.md) 14 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [SQL](../topics/sql.md) 5 · +14 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 22 · [OA Format](../topics/oa-format.md) 14 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [SQL](../topics/sql.md) 6 · +14 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, IIT Ropar +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · Unknown · FTE · Analyst · Interview](#2026-11-20--unknown--fte--analyst--interview)
+  - [Reverse a string](#q1-reverse-a-string)
+  - [SQL highest salary](#q2-sql-highest-salary)
 - [2026-11-13 · IIT BHU · FTE · Analyst](#2026-11-13--iit-bhu--fte--analyst)
   - [Deloitte Analyst OA format](#q1-deloitte-analyst-oa-format)
 - [2026-11-12 · Unknown · FTE · Interview](#2026-11-12--unknown--fte--interview)
@@ -106,6 +109,20 @@
 
 ---
 
+## 2026-11-20 · Unknown · FTE · Analyst · Interview
+
+### Q1. Reverse a string
+
+Reverse a string (coding).
+
+<sub>Topics: Strings · Same problem: [LeetCode 344. Reverse String](https://leetcode.com/problems/reverse-string/) (Easy), reverse a string in place · Source: [chat, 20 Nov](../archive/deloitte-oa/2026-11.jsonl#L131)</sub>
+
+### Q2. SQL highest salary
+
+Write a SQL query for the highest salary.
+
+<sub>Topics: SQL · Close variant: [LeetCode 176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) (Medium), SQL salary ranking query · Source: [chat, 20 Nov](../archive/deloitte-oa/2026-11.jsonl#L131)</sub>
+
 ## 2026-11-13 · IIT BHU · FTE · Analyst
 
 ### Q1. Deloitte Analyst OA format
@@ -120,7 +137,7 @@
 
 Technical interview (on-campus) covers OOPs, SQL (joins, salary queries), CS fundamentals (OS, DBMS), project discussion, and behavioral/situation-based questions. One experience also had Python-specific questions (args vs kwargs), REST API, Agile and SDLC since the resume was AI/ML based.
 
-<sub>Topics: OOP, SQL, OS/DBMS/CN MCQ · Source: [chat, 12 Nov](../archive/deloitte-oa/2026-11.jsonl#L113)</sub>
+<sub>Topics: OOP, SQL, OS/DBMS/CN MCQ · Source: [chat, 12 Nov](../archive/deloitte-oa/2026-11.jsonl#L113) · Also asked at: Unknown ×2 (last 2026-11-20)</sub>
 
 ## 2026-11-10 · VNIT Nagpur · FTE · Other round
 

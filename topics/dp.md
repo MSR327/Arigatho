@@ -1,9 +1,10 @@
 # DP
 
-168 questions from 60 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+169 questions from 61 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-20 | [Axtria](../companies/axtria.md) | Unknown | [Highest partition score under a block cost ceiling](../companies/axtria.md#q1-highest-partition-score-under-a-block-cost-ceiling) | ≈ [LC 410](https://leetcode.com/problems/split-array-largest-sum/) Hard |
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Number of Dice Rolls With Target Sum](../companies/idfc-first-bank.md#q4-number-of-dice-rolls-with-target-sum) | [LC 1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) Medium |
 | 2026-11-19 | [Walt Disney](../companies/walt-disney.md) | NIT Surathkal | [Number of Dice Rolls With Target Sum](../companies/walt-disney.md#q4-number-of-dice-rolls-with-target-sum) | [LC 1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) Medium |
 | 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | PES University | [Digit DP using tabulation](../companies/eternal-zomato.md#q1-digit-dp-using-tabulation) | |

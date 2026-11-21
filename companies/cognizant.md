@@ -1,13 +1,17 @@
 # Cognizant
 
-**73 questions** · 27 drives · latest 18 Nov 2026 · [27 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**76 questions** · 28 drives · latest 20 Nov 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 21 · [Arrays](../topics/arrays.md) 11 · [Greedy](../topics/greedy.md) 10 · [DP](../topics/dp.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [Hashing](../topics/hashing.md) 7 · [Math](../topics/math.md) 6 · +15 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 21 · [Arrays](../topics/arrays.md) 13 · [Greedy](../topics/greedy.md) 10 · [DP](../topics/dp.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [Hashing](../topics/hashing.md) 7 · [Math](../topics/math.md) 6 · +15 more  
 **Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +6 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · Unknown · FTE · Interview](#2026-11-20--unknown--fte--interview)
+  - [Merge common elements from 2 arrays](#q1-merge-common-elements-from-2-arrays)
+  - [Second largest in array](#q2-second-largest-in-array)
+  - [Java exception handling and hierarchy](#q3-java-exception-handling-and-hierarchy)
 - [2026-11-18 · NIT Surathkal · FTE · Associate / Sr. Associate](#2026-11-18--nit-surathkal--fte--associate--sr-associate)
   - [Cognizant OA: Linux, networking and server-side rounds](#q1-cognizant-oa-linux-networking-and-server-side-rounds)
 - [2026-11-12 · IIT Roorkee · FTE · SDE](#2026-11-12--iit-roorkee--fte--sde)
@@ -112,6 +116,26 @@
 </details>
 
 ---
+
+## 2026-11-20 · Unknown · FTE · Interview
+
+### Q1. Merge common elements from 2 arrays
+
+Merge common elements from 2 arrays, coded in Java. Exact statement not given.
+
+<sub>Topics: Arrays · Close variant: [LeetCode 349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) (Easy), common elements of two arrays via set · Source: [chat, 20 Nov](../archive/cognizant-oa/2026-11.jsonl#L134)</sub>
+
+### Q2. Second largest in array
+
+Find the second largest element in an array, coded in Java.
+
+<sub>Topics: Arrays · Source: [chat, 20 Nov](../archive/cognizant-oa/2026-11.jsonl#L134)</sub>
+
+### Q3. Java exception handling and hierarchy
+
+Java concepts such as exception handling and the exception hierarchy. The interview began with an intro and project explanation, and had 2 rounds with 2 interviewers (one offline, one online).
+
+<sub>Topics: OOP · Source: [chat, 20 Nov](../archive/cognizant-oa/2026-11.jsonl#L134)</sub>
 
 ## 2026-11-18 · NIT Surathkal · FTE · Associate / Sr. Associate
 

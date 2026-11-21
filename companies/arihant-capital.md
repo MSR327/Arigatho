@@ -1,13 +1,15 @@
 # Arihant Capital
 
-**2 questions** · 2 drives · latest 30 Oct 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 20 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2  
+**Asks about:** [OA Format](../topics/oa-format.md) 3  
 **Seen at:** IIT Guwahati
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · IIT Guwahati · FTE](#2026-11-20--iit-guwahati--fte)
+  - [Arihant Capital OA format](#q1-arihant-capital-oa-format)
 - [2026-10-30 · IIT Guwahati · FTE · DS/ML](#2026-10-30--iit-guwahati--fte--dsml)
   - [Arihant Capital DS/ML assessment topics](#q1-arihant-capital-dsml-assessment-topics)
 - [2026-10-29 · IIT Guwahati · FTE](#2026-10-29--iit-guwahati--fte)
@@ -16,6 +18,14 @@
 </details>
 
 ---
+
+## 2026-11-20 · IIT Guwahati · FTE
+
+### Q1. Arihant Capital OA format
+
+Round 1 is entirely descriptive, with around 20–30 questions depending on the profile chosen.
+
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/inter-iit/2026-11.jsonl#L1103) · Also asked at: IIT Guwahati (2026-11-20)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE · DS/ML
 

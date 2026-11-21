@@ -1,13 +1,15 @@
 # Qualcomm
 
-**6 questions** · 6 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
+**7 questions** · 7 drives · latest 20 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [ML/AI](../topics/ml-ai.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [ML/AI](../topics/ml-ai.md) 1  
 **Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · IIT Kharagpur/Kanpur · FTE · Multimedia](#2026-11-20--iit-kharagpurkanpur--fte--multimedia)
+  - [Qualcomm multimedia OA pattern](#q1-qualcomm-multimedia-oa-pattern)
 - [2026-11-09 · IIT Kharagpur/Kanpur · FTE · Software](#2026-11-09--iit-kharagpurkanpur--fte--software)
   - [Qualcomm software OA content](#q1-qualcomm-software-oa-content)
 - [2026-11-07 · IIT Roorkee · FTE · SDE](#2026-11-07--iit-roorkee--fte--sde)
@@ -24,6 +26,14 @@
 </details>
 
 ---
+
+## 2026-11-20 · IIT Kharagpur/Kanpur · FTE · Multimedia
+
+### Q1. Qualcomm multimedia OA pattern
+
+Candidates chose one of three tracks: ML, Digital, or Communication. The rest of the test was aptitude, plus a section based on the chosen track. The ML section asked basic ML and some DL/RL.
+
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2219)</sub>
 
 ## 2026-11-09 · IIT Kharagpur/Kanpur · FTE · Software
 

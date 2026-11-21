@@ -1,9 +1,10 @@
 # Strings
 
-133 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+134 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-20 | [Deloitte](../companies/deloitte.md) | Unknown | [Reverse a string](../companies/deloitte.md#q1-reverse-a-string) | [LC 344](https://leetcode.com/problems/reverse-string/) Easy |
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Maximum Number of Strings](../companies/idfc-first-bank.md#q2-maximum-number-of-strings) | [LC 1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) Easy |
 | 2026-11-19 | [Walt Disney](../companies/walt-disney.md) | NIT Surathkal | [Maximum Number of Strings](../companies/walt-disney.md#q2-maximum-number-of-strings) | |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Palindrome check](../companies/schlumberger.md#q1-palindrome-check) | [LC 9](https://leetcode.com/problems/palindrome-number/) Easy |

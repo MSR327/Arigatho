@@ -1,13 +1,17 @@
 # Eternal (Zomato)
 
-**201 questions** · 102 drives · latest 19 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**203 questions** · 104 drives · latest 20 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 74 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 76 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
 **Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +16 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · Unknown · FTE · SDE · Interview](#2026-11-20--unknown--fte--sde--interview)
+  - [Eternal SDE interview rounds](#q1-eternal-sde-interview-rounds)
+- [2026-11-20 · IIT BHU · FTE · SDE](#2026-11-20--iit-bhu--fte--sde)
+  - [Zomato SDE OA difficulty](#q1-zomato-sde-oa-difficulty)
 - [2026-11-19 · Unknown · FTE · ML Scientist](#2026-11-19--unknown--fte--ml-scientist)
   - [Eternal ML Scientist OA topics](#q1-eternal-ml-scientist-oa-topics)
   - [ML OA topics: RL, transformers, MLOps](#q2-ml-oa-topics-rl-transformers-mlops)
@@ -316,13 +320,29 @@
 
 ---
 
+## 2026-11-20 · Unknown · FTE · SDE · Interview
+
+### Q1. Eternal SDE interview rounds
+
+2 rounds. Round 1: DSA and problem solving (arrays, strings, linked lists, trees, hashing), plus OOPs, DBMS, OS basics. Round 2: project deep dive, fundamentals and HR.
+
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/eternal-oa/2026-11.jsonl#L238)</sub>
+
+## 2026-11-20 · IIT BHU · FTE · SDE
+
+### Q1. Zomato SDE OA difficulty
+
+Secondhand (from a friend): the Zomato SDE DSA questions are very tough, and the OA consists of Codeforces questions rated around 1600. Specific questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/zomato-sde-1/2026-11.jsonl#L40)</sub>
+
 ## 2026-11-19 · Unknown · FTE · ML Scientist
 
 ### Q1. Eternal ML Scientist OA topics
 
 Deep questions related to RAG systems and also reinforcement learning were asked. (Specific questions not given.)
 
-<sub>Topics: ML/AI · Source: [chat, 19 Nov](../archive/eternal-oa/2026-11.jsonl#L204)</sub>
+<sub>Topics: ML/AI · Source: [chat, 19 Nov](../archive/eternal-oa/2026-11.jsonl#L204) · Also asked at: NIT Surathkal (2026-11-20)</sub>
 
 ### Q2. ML OA topics: RL, transformers, MLOps
 
@@ -535,7 +555,7 @@ Eternal SDE OA questions are reported to repeat; at NIT Delhi the question "Task
 
 Mostly aptitude questions, a few Python MCQs, and 3 SQL coding questions (two basic joins and one requiring a window function). No DSA. Easy, very doable paper overall. (Individual questions not shared.)
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1037), [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1038) · Also asked at: NIT Surathkal ×2 (last 2026-11-19), IIT Roorkee (2026-11-19), NIT Kurukshetra (2026-11-19)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1037), [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1038) · Also asked at: NIT Surathkal ×2 (last 2026-11-19), IIT Roorkee (2026-11-19), NIT Kurukshetra ×2 (last 2026-11-20)</sub>
 
 ## 2026-11-09 · IIT Indore · FTE · Product Analyst · Interview
 

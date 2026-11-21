@@ -1,9 +1,10 @@
 # OOP
 
-41 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+42 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-20 | [Cognizant](../companies/cognizant.md) | Unknown | [Java exception handling and hierarchy](../companies/cognizant.md#q3-java-exception-handling-and-hierarchy) | |
 | 2026-11-18 | [Prodigal](../companies/prodigal.md) | Unknown | [Low-level design: restaurant management system](../companies/prodigal.md#q2-low-level-design-restaurant-management-system) | |
 | 2026-11-18 | [HCLTech](../companies/hcltech.md) | Unknown | [HCLTech interview topics](../companies/hcltech.md#q1-hcltech-interview-topics) | |
 | 2026-11-15 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [Java main method and resume-based questions](../companies/goldman-sachs.md#q1-java-main-method-and-resume-based-questions) | |

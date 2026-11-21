@@ -1,13 +1,15 @@
 # Commonwealth Bank of Australia
 
-**58 questions** · 21 drives · latest 17 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**59 questions** · 22 drives · latest 20 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 21 · [Aptitude](../topics/aptitude.md) 16 · [ML/AI](../topics/ml-ai.md) 12 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [SQL](../topics/sql.md) 2 · +6 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 22 · [Aptitude](../topics/aptitude.md) 16 · [ML/AI](../topics/ml-ai.md) 12 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [SQL](../topics/sql.md) 2 · +6 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · IIT Hyderabad · FTE](#2026-11-20--iit-hyderabad--fte)
+  - [CBA second round test case requirement](#q1-cba-second-round-test-case-requirement)
 - [2026-11-04 · IIT Roorkee · FTE](#2026-11-04--iit-roorkee--fte)
   - [CBA OA round 2 format](#q1-cba-oa-round-2-format)
 - [2026-11-02 · IIT Guwahati · FTE · Graduate Engineering](#2026-11-02--iit-guwahati--fte--graduate-engineering)
@@ -91,6 +93,14 @@
 </details>
 
 ---
+
+## 2026-11-20 · IIT Hyderabad · FTE
+
+### Q1. CBA second round test case requirement
+
+For the second round, all test cases need to pass. (No other details given.)
+
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2223)</sub>
 
 ## 2026-11-04 · IIT Roorkee · FTE
 

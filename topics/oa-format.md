@@ -1,9 +1,20 @@
 # OA Format
 
-867 questions from 160 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+878 questions from 162 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-21 | [Meesho](../companies/meesho.md) | IIT Roorkee | [Meesho AI interview round contents](../companies/meesho.md#q1-meesho-ai-interview-round-contents) | |
+| 2026-11-20 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Hyderabad | [CBA second round test case requirement](../companies/commonwealth-bank-of-australia.md#q1-cba-second-round-test-case-requirement) | |
+| 2026-11-20 | [Qualcomm](../companies/qualcomm.md) | IIT Kharagpur/Kanpur | [Qualcomm multimedia OA pattern](../companies/qualcomm.md#q1-qualcomm-multimedia-oa-pattern) | |
+| 2026-11-20 | [Ola](../companies/ola.md) | IIT Delhi | [Ola GET OA format](../companies/ola.md#q1-ola-get-oa-format) | |
+| 2026-11-20 | [Nation with NaMo](../companies/nation-with-namo.md) | IIT Roorkee | [Nation with NaMo assessment pattern](../companies/nation-with-namo.md#q1-nation-with-namo-assessment-pattern) | |
+| 2026-11-20 | [Amazon](../companies/amazon.md) | Unknown | [Amazon OA format](../companies/amazon.md#q1-amazon-oa-format) | |
+| 2026-11-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Eternal SDE interview rounds](../companies/eternal-zomato.md#q1-eternal-sde-interview-rounds) | |
+| 2026-11-20 | [Unknown](../companies/unknown.md) | MNNIT Allahabad | [Tescra OA pattern](../companies/unknown.md#q1-tescra-oa-pattern) | |
+| 2026-11-20 | [Unknown](../companies/unknown.md) | IIT BHU | [Nexus One OA pattern](../companies/unknown.md#q1-nexus-one-oa-pattern) | |
+| 2026-11-20 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Zomato SDE OA difficulty](../companies/eternal-zomato.md#q1-zomato-sde-oa-difficulty) | |
+| 2026-11-20 | [Arihant Capital](../companies/arihant-capital.md) | IIT Guwahati | [Arihant Capital OA format](../companies/arihant-capital.md#q1-arihant-capital-oa-format) | |
 | 2026-11-20 | [Paytm](../companies/paytm.md) | IIT Indore | [Paytm SDE interview structure](../companies/paytm.md#q1-paytm-sde-interview-structure) | |
 | 2026-11-20 | [Walt Disney](../companies/walt-disney.md) | NIT Kurukshetra | [Walt Disney MCQ topics to prepare](../companies/walt-disney.md#q1-walt-disney-mcq-topics-to-prepare) | |
 | 2026-11-20 | [Atlassian](../companies/atlassian.md) | Unknown | [Atlassian OA format](../companies/atlassian.md#q1-atlassian-oa-format) | |
@@ -322,7 +333,7 @@
 | 2026-11-05 | [IBM](../companies/ibm.md) | IIT Kharagpur | [IBM SWE/SDE OA duration and format](../companies/ibm.md#q1-ibm-swesde-oa-duration-and-format) | |
 | 2026-11-05 | [Texas Instruments](../companies/texas-instruments.md) | IIT Roorkee | [TI OA topics: STA, C programming, 8085](../companies/texas-instruments.md#q1-ti-oa-topics-sta-c-programming-8085) | |
 | 2026-11-05 | [InfoEdge](../companies/infoedge.md) | IIT Guwahati | [InfoEdge OA pattern](../companies/infoedge.md#q1-infoedge-oa-pattern-1) | |
-| 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Guwahati | [Amazon OA format](../companies/amazon.md#q1-amazon-oa-format-2) | |
+| 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Guwahati | [Amazon OA format](../companies/amazon.md#q1-amazon-oa-format-3) | |
 | 2026-11-05 | [Denso](../companies/denso.md) | IIT Guwahati | [Denso OA: development with AI assistant](../companies/denso.md#q2-denso-oa-development-with-ai-assistant) | |
 | 2026-11-05 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | IIT Guwahati | [JPMC Research & Analytics OA pattern](../companies/jpmorgan-chase.md#q1-jpmc-research--analytics-oa-pattern) | |
 | 2026-11-05 | [Accordion](../companies/accordion.md) | IIT BHU | [Accordion AI/ML Engineer OA format](../companies/accordion.md#q1-accordion-aiml-engineer-oa-format) | |
@@ -335,10 +346,10 @@
 | 2026-11-05 | [Auxo AI](../companies/auxo-ai.md) | IIT Guwahati | [Auxo AI OA format](../companies/auxo-ai.md#q1-auxo-ai-oa-format) | |
 | 2026-11-05 | [Cognizant](../companies/cognizant.md) | IIT BHU | [Cognizant OA topics](../companies/cognizant.md#q1-cognizant-oa-topics) | |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Delhi | [Amazon OA format: coding and debugging](../companies/amazon.md#q2-amazon-oa-format-coding-and-debugging) | |
-| 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Madras | [Amazon OA format](../companies/amazon.md#q1-amazon-oa-format) | |
+| 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Madras | [Amazon OA format](../companies/amazon.md#q1-amazon-oa-format-1) | |
 | 2026-11-05 | [Nvidia](../companies/nvidia.md) | Thapar Institute | [Nvidia OA contents](../companies/nvidia.md#q1-nvidia-oa-contents) | |
 | 2026-11-05 | [Navi](../companies/navi.md) | IIT Kharagpur/Kanpur | [Navi non-tech OA pattern](../companies/navi.md#q1-navi-non-tech-oa-pattern) | |
-| 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Hyderabad | [Amazon OA format](../companies/amazon.md#q1-amazon-oa-format-1) | |
+| 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Hyderabad | [Amazon OA format](../companies/amazon.md#q1-amazon-oa-format-2) | |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | IIT Delhi | [Amazon OA format: AI-assisted backend debugging](../companies/amazon.md#q1-amazon-oa-format-ai-assisted-backend-debugging) | |
 | 2026-11-05 | [Amazon](../companies/amazon.md) | NIT Raipur | [Amazon SDE OA pattern](../companies/amazon.md#q1-amazon-sde-oa-pattern) | |
 | 2026-11-05 | [Capital One](../companies/capital-one.md) | Unknown | [Capital One round 2 pattern](../companies/capital-one.md#q1-capital-one-round-2-pattern) | |

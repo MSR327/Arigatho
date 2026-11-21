@@ -1,13 +1,15 @@
 # Amazon
 
-**24 questions** · 21 drives · latest 19 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**25 questions** · 22 drives · latest 20 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 18 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +6 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +6 more  
 **Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +7 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · Unknown · FTE](#2026-11-20--unknown--fte)
+  - [Amazon OA format](#q1-amazon-oa-format)
 - [2026-11-18 · IIT Kharagpur/Kanpur · FTE](#2026-11-18--iit-kharagpurkanpur--fte)
   - [Lexicographically largest identifier from key](#q1-lexicographically-largest-identifier-from-key)
 - [2026-11-17 · IIT Roorkee · FTE](#2026-11-17--iit-roorkee--fte)
@@ -33,11 +35,11 @@
 - [2026-11-05 · NIT Raipur · FTE · SDE](#2026-11-05--nit-raipur--fte--sde)
   - [Amazon SDE OA pattern](#q1-amazon-sde-oa-pattern)
 - [2026-11-05 · IIT Madras · FTE](#2026-11-05--iit-madras--fte)
-  - [Amazon OA format](#q1-amazon-oa-format)
-- [2026-11-05 · IIT Hyderabad · FTE](#2026-11-05--iit-hyderabad--fte)
   - [Amazon OA format](#q1-amazon-oa-format-1)
-- [2026-11-05 · IIT Guwahati · FTE](#2026-11-05--iit-guwahati--fte)
+- [2026-11-05 · IIT Hyderabad · FTE](#2026-11-05--iit-hyderabad--fte)
   - [Amazon OA format](#q1-amazon-oa-format-2)
+- [2026-11-05 · IIT Guwahati · FTE](#2026-11-05--iit-guwahati--fte)
+  - [Amazon OA format](#q1-amazon-oa-format-3)
 - [2026-11-05 · IIT Delhi · FTE](#2026-11-05--iit-delhi--fte)
   - [Amazon OA format: AI-assisted backend debugging](#q1-amazon-oa-format-ai-assisted-backend-debugging)
   - [Amazon OA format: coding and debugging](#q2-amazon-oa-format-coding-and-debugging)
@@ -57,6 +59,14 @@
 </details>
 
 ---
+
+## 2026-11-20 · Unknown · FTE
+
+### Q1. Amazon OA format
+
+One shared OA had 1 medium DSA question, 1 code-repository based question, a behavioral section and a work style assessment. Top topics: arrays, greedy, sorting, hash table.
+
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/amazon-oa/2026-11.jsonl#L215)</sub>
 
 ## 2026-11-18 · IIT Kharagpur/Kanpur · FTE
 

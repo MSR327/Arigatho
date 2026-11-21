@@ -1,6 +1,6 @@
 # IDFC First Bank
 
-**15 questions** · 12 drives · latest 19 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 12 drives · latest 20 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 11 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur +4 more
@@ -115,7 +115,7 @@ Aptitude and English section:
 
 Then a behavioral section with 50 questions, agree/disagree type.
 
-<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1392) · Also asked at: IIT Delhi (2026-11-12), IIT Kharagpur/Kanpur (2026-11-13), IIT Hyderabad (2026-11-18), NIT Surathkal ×2 (last 2026-11-19)</sub>
+<sub>Topics: OA Format · Source: [chat, 12 Nov](../archive/inter-nit/2026-11.jsonl#L1392) · Also asked at: IIT Delhi (2026-11-12), IIT Kharagpur/Kanpur (2026-11-13), IIT Hyderabad (2026-11-18), NIT Surathkal ×3 (last 2026-11-20)</sub>
 
 ## 2026-11-12 · IIIT Allahabad · FTE · Associate Data Scientist - AI Labs
 

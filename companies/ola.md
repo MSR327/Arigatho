@@ -1,13 +1,15 @@
 # Ola
 
-**12 questions** · 5 drives · latest 15 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**13 questions** · 6 drives · latest 20 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Arrays](../topics/arrays.md) 3 · [Heaps](../topics/heaps.md) 2 · [Sorting](../topics/sorting.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Strings](../topics/strings.md) 1 · [DP](../topics/dp.md) 1  
-**Seen at:** IIT BHU, IIT Kanpur, IIT Kharagpur/Kanpur, NIT Surathkal
+**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 3 · [Heaps](../topics/heaps.md) 2 · [Sorting](../topics/sorting.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Strings](../topics/strings.md) 1 · [DP](../topics/dp.md) 1  
+**Seen at:** IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur/Kanpur, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-20 · IIT Delhi · FTE · GET - Software, Cloud Engineering & AI](#2026-11-20--iit-delhi--fte--get---software-cloud-engineering--ai)
+  - [Ola GET OA format](#q1-ola-get-oa-format)
 - [2026-11-15 · Unknown · FTE · GET Software](#2026-11-15--unknown--fte--get-software)
   - [Ola OA: easy string question](#q1-ola-oa-easy-string-question)
   - [Ola OA: medium array question](#q2-ola-oa-medium-array-question)
@@ -29,6 +31,14 @@
 </details>
 
 ---
+
+## 2026-11-20 · IIT Delhi · FTE · GET - Software, Cloud Engineering & AI
+
+### Q1. Ola GET OA format
+
+45 minutes, 30 MCQs based on backend and basic data structures, and system design principles.
+
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2206)</sub>
 
 ## 2026-11-15 · Unknown · FTE · GET Software
 

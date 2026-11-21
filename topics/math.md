@@ -1,9 +1,10 @@
 # Math
 
-222 questions from 59 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+223 questions from 60 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-20 | [Axtria](../companies/axtria.md) | Unknown | [Highest partition score under a block cost ceiling](../companies/axtria.md#q1-highest-partition-score-under-a-block-cost-ceiling) | ≈ [LC 410](https://leetcode.com/problems/split-array-largest-sum/) Hard |
 | 2026-11-19 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur | [Cosine similarity](../companies/blackrock.md#q2-cosine-similarity) | |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Prime number](../companies/schlumberger.md#q4-prime-number) | ≈ [LC 204](https://leetcode.com/problems/count-primes/) Medium |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Fibonacci number check](../companies/schlumberger.md#q3-fibonacci-number-check) | ≈ [LC 509](https://leetcode.com/problems/fibonacci-number/) Easy |

@@ -1,9 +1,10 @@
 # OS/DBMS/CN MCQ
 
-146 questions from 30 companys, newest first. [← all topics](../README.md#topics)
+147 questions from 31 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-20 | [Unknown](../companies/unknown.md) | MNNIT Allahabad | [Tescra OA pattern](../companies/unknown.md#q1-tescra-oa-pattern) | |
 | 2026-11-20 | [Walt Disney](../companies/walt-disney.md) | NIT Kurukshetra | [Walt Disney MCQ topics to prepare](../companies/walt-disney.md#q1-walt-disney-mcq-topics-to-prepare) | |
 | 2026-11-19 | [ICICI](../companies/icici.md) | Unknown | [ICICI data analyst interview: HR, projects and SQL](../companies/icici.md#q1-icici-data-analyst-interview-hr-projects-and-sql) | |
 | 2026-11-19 | [Finarb](../companies/finarb.md) | IIT BHU | [Finarb OA format: Linux terminal tasks](../companies/finarb.md#q1-finarb-oa-format-linux-terminal-tasks) | |

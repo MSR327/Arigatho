@@ -1,9 +1,12 @@
 # Arrays
 
-278 questions from 73 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+281 questions from 74 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-20 | [Cognizant](../companies/cognizant.md) | Unknown | [Second largest in array](../companies/cognizant.md#q2-second-largest-in-array) | |
+| 2026-11-20 | [Cognizant](../companies/cognizant.md) | Unknown | [Merge common elements from 2 arrays](../companies/cognizant.md#q1-merge-common-elements-from-2-arrays) | [LC 349](https://leetcode.com/problems/intersection-of-two-arrays/) Easy |
+| 2026-11-20 | [Axtria](../companies/axtria.md) | Unknown | [Highest partition score under a block cost ceiling](../companies/axtria.md#q1-highest-partition-score-under-a-block-cost-ceiling) | ≈ [LC 410](https://leetcode.com/problems/split-array-largest-sum/) Hard |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Find second largest element](../companies/schlumberger.md#q6-find-second-largest-element) | ≈ [LC 414](https://leetcode.com/problems/third-maximum-number/) Easy |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Remove duplicates from array](../companies/schlumberger.md#q5-remove-duplicates-from-array) | [LC 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) Easy |
 | 2026-11-18 | [Wabtec](../companies/wabtec.md) | NIT Surathkal | [Bishop attacks on chessboard in k moves](../companies/wabtec.md#q2-bishop-attacks-on-chessboard-in-k-moves) | ≈ [LC 1958](https://leetcode.com/problems/check-if-move-is-legal/) Medium |

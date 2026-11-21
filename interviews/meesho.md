@@ -1,6 +1,6 @@
 # Meesho: interviews
 
-**6 written experiences**, newest first · [← all companies](README.md)
+**6 written experiences**, newest first · [OA questions](../companies/meesho.md) · [← all companies](README.md)
 
 ## 2025-26 season · Data Scientist · IIT Kanpur · on-campus
 

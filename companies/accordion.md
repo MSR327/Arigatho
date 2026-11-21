@@ -1,6 +1,6 @@
 # Accordion
 
-**41 questions** · 16 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
+**41 questions** · 16 drives · latest 20 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 27 · [OA Format](../topics/oa-format.md) 13 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +2 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
@@ -111,7 +111,7 @@ Experience 3 – ETE interview discussion (October 2026): the interview was rela
 
 15 aptitude questions in 20 minutes, mostly repeated from previous-year questions.
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 18 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L198) · Also asked at: IIT Hyderabad (2026-11-19)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 18 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L198) · Also asked at: IIT Hyderabad ×2 (last 2026-11-20)</sub>
 
 ## 2026-11-17 · IIT Roorkee · FTE
 

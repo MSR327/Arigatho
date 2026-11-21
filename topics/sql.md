@@ -1,9 +1,10 @@
 # SQL
 
-121 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+122 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-20 | [Deloitte](../companies/deloitte.md) | Unknown | [SQL highest salary](../companies/deloitte.md#q2-sql-highest-salary) | [LC 176](https://leetcode.com/problems/second-highest-salary/) Medium |
 | 2026-11-19 | [ICICI](../companies/icici.md) | Unknown | [ICICI data analyst interview: HR, projects and SQL](../companies/icici.md#q1-icici-data-analyst-interview-hr-projects-and-sql) | |
 | 2026-11-15 | [Revolut](../companies/revolut.md) | NIT Surathkal | [Revolut SQL join questions on 3 tables](../companies/revolut.md#q1-revolut-sql-join-questions-on-3-tables) | |
 | 2026-11-15 | [Media.net](../companies/media-net.md) | IIT BHU | [Media.net OA: SQL and Python coding](../companies/media-net.md#q1-medianet-oa-sql-and-python-coding) | |
