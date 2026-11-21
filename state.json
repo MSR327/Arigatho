@@ -2,12 +2,12 @@
  "groups": {
   "inter-nit": {
    "oldest_id": 541,
-   "newest_id": 32267,
+   "newest_id": 32303,
    "backfill_done": true
   },
   "inter-iit": {
    "oldest_id": 543,
-   "newest_id": 32254,
+   "newest_id": 32302,
    "backfill_done": true
   },
   "accenture-oa": {
@@ -32,7 +32,7 @@
   },
   "amazon-oa": {
    "oldest_id": 1597,
-   "newest_id": 32246,
+   "newest_id": 32273,
    "backfill_done": true
   },
   "american-express-oa": {
@@ -117,7 +117,7 @@
   },
   "campus-bits-hyderabad-placements": {
    "oldest_id": 2946,
-   "newest_id": 31641,
+   "newest_id": 32197,
    "backfill_done": true
   },
   "campus-bits-pilani-placements": {
@@ -182,7 +182,7 @@
   },
   "campus-iit-bhu-placements": {
    "oldest_id": 2920,
-   "newest_id": 32242,
+   "newest_id": 32319,
    "backfill_done": true
   },
   "campus-iit-bhubaneswar-placements": {
@@ -192,12 +192,12 @@
   },
   "campus-iit-bombay-placements": {
    "oldest_id": 2923,
-   "newest_id": 32192,
+   "newest_id": 32313,
    "backfill_done": true
   },
   "campus-iit-delhi-placements": {
    "oldest_id": 2925,
-   "newest_id": 32245,
+   "newest_id": 32289,
    "backfill_done": true
   },
   "campus-iit-dharwad-placements": {
@@ -212,7 +212,7 @@
   },
   "campus-iit-guwahati-placements": {
    "oldest_id": 2924,
-   "newest_id": 32196,
+   "newest_id": 32286,
    "backfill_done": true
   },
   "campus-iit-hyderabad-placements": {
@@ -222,12 +222,12 @@
   },
   "campus-iit-indore-placements": {
    "oldest_id": 2948,
-   "newest_id": 32152,
+   "newest_id": 32296,
    "backfill_done": true
   },
   "campus-iit-ism-dhanbad-placements": {
    "oldest_id": 2930,
-   "newest_id": 32191,
+   "newest_id": 32290,
    "backfill_done": true
   },
   "campus-iit-jodhpur-placements": {
@@ -237,17 +237,17 @@
   },
   "campus-iit-kanpur-placements": {
    "oldest_id": 2936,
-   "newest_id": 32188,
+   "newest_id": 32297,
    "backfill_done": true
   },
   "campus-iit-kharagpur-placements": {
    "oldest_id": 2928,
-   "newest_id": 31799,
+   "newest_id": 32308,
    "backfill_done": true
   },
   "campus-iit-madras-placements": {
    "oldest_id": 2929,
-   "newest_id": 32119,
+   "newest_id": 32301,
    "backfill_done": true
   },
   "campus-iit-mandi-placements": {
@@ -257,17 +257,17 @@
   },
   "campus-iit-patna-placements": {
    "oldest_id": 2935,
-   "newest_id": 32233,
+   "newest_id": 32299,
    "backfill_done": true
   },
   "campus-iit-roorkee-placements": {
    "oldest_id": 2927,
-   "newest_id": 32185,
+   "newest_id": 32294,
    "backfill_done": true
   },
   "campus-iit-ropar-placements": {
    "oldest_id": 2933,
-   "newest_id": 31848,
+   "newest_id": 32298,
    "backfill_done": true
   },
   "campus-jadavpur-university-placements": {
@@ -302,7 +302,7 @@
   },
   "campus-mnnit-allahabad-placements": {
    "oldest_id": 2921,
-   "newest_id": 31791,
+   "newest_id": 32187,
    "backfill_done": true
   },
   "campus-nit-agartala-placements": {
@@ -347,7 +347,7 @@
   },
   "campus-nit-kurukshetra-placements": {
    "oldest_id": 2942,
-   "newest_id": 32190,
+   "newest_id": 32304,
    "backfill_done": true
   },
   "campus-nit-patna-placements": {
@@ -377,7 +377,7 @@
   },
   "campus-nit-surathkal-placements": {
    "oldest_id": 2951,
-   "newest_id": 32225,
+   "newest_id": 32276,
    "backfill_done": true
   },
   "campus-nit-trichy-placements": {
@@ -572,7 +572,7 @@
   },
   "icici-oa": {
    "oldest_id": 1618,
-   "newest_id": 31330,
+   "newest_id": 32271,
    "backfill_done": true
   },
   "idfc-first-bank-oa": {
@@ -687,7 +687,7 @@
   },
   "natwest-oa": {
    "oldest_id": 1639,
-   "newest_id": 32236,
+   "newest_id": 32318,
    "backfill_done": true
   },
   "navabrava-oa": {
@@ -727,7 +727,7 @@
   },
   "nvidia-oa": {
    "oldest_id": 1615,
-   "newest_id": 32204,
+   "newest_id": 32300,
    "backfill_done": true
   },
   "nxtwave-oa": {
@@ -30506,6 +30506,82 @@
   32190,
   32216,
   32225,
-  32259
+  32259,
+  32288,
+  32293,
+  31851,
+  31867,
+  31882,
+  31950,
+  31969,
+  31977,
+  31978,
+  32058,
+  32074,
+  32128,
+  32134,
+  32154,
+  32195,
+  32197,
+  32248,
+  32269,
+  32270,
+  32271,
+  32273,
+  32274,
+  32275,
+  32277,
+  32278,
+  32279,
+  32282,
+  32283,
+  32285,
+  32287,
+  32300,
+  32302,
+  32303,
+  32307,
+  32308,
+  32311,
+  32312,
+  32315,
+  32316,
+  32317,
+  32318,
+  32319,
+  31807,
+  31822,
+  31843,
+  31856,
+  31875,
+  31877,
+  31888,
+  31910,
+  31926,
+  32017,
+  32035,
+  32054,
+  32061,
+  32092,
+  32093,
+  32107,
+  32118,
+  32162,
+  32187,
+  32260,
+  32276,
+  32284,
+  32286,
+  32289,
+  32290,
+  32294,
+  32295,
+  32296,
+  32297,
+  32298,
+  32299,
+  32301,
+  32304,
+  32313
  ]
 }

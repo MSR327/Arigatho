@@ -1,6 +1,6 @@
 # Ola
 
-**13 questions** · 6 drives · latest 20 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**13 questions** · 6 drives · latest 21 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 3 · [Heaps](../topics/heaps.md) 2 · [Sorting](../topics/sorting.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Strings](../topics/strings.md) 1 · [DP](../topics/dp.md) 1  
 **Seen at:** IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur/Kanpur, NIT Surathkal
@@ -38,7 +38,7 @@
 
 45 minutes, 30 MCQs based on backend and basic data structures, and system design principles.
 
-<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2206)</sub>
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2206) · Also asked at: IIT Delhi (2026-11-21)</sub>
 
 ## 2026-11-15 · Unknown · FTE · GET Software
 
