@@ -1,13 +1,15 @@
 # Groww
 
-**8 questions** · 4 drives · latest 20 Nov 2026 · [← all companies](../README.md#companies)
+**9 questions** · 5 drives · latest 21 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [OA Format](../topics/oa-format.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Finance](../topics/finance.md) 1 · [Other](../topics/other.md) 1  
-**Seen at:** IIT Guwahati, VNIT Nagpur
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [OA Format](../topics/oa-format.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Finance](../topics/finance.md) 1 · [Other](../topics/other.md) 1  
+**Seen at:** IIT Bombay, IIT Guwahati, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-21 · Unknown · FTE · APM · Interview](#2026-11-21--unknown--fte--apm--interview)
+  - [Groww APM interview rounds](#q1-groww-apm-interview-rounds)
 - [2026-11-20 · Unknown · FTE · APM · Interview](#2026-11-20--unknown--fte--apm--interview)
   - [Groww APM AI voice interview](#q1-groww-apm-ai-voice-interview)
 - [2026-11-19 · Unknown · FTE · APM](#2026-11-19--unknown--fte--apm)
@@ -24,6 +26,21 @@
 </details>
 
 ---
+
+## 2026-11-21 · Unknown · FTE · APM · Interview
+
+### Q1. Groww APM interview rounds
+
+Rounds reported for the APM role:
+
+1. Aptitude / OA: logical reasoning, quantitative aptitude, product scenarios
+2. AI Fundamentals: LLMs, RAG, embeddings, agents, hallucinations, prompt engineering
+3. AI Case Study: design an AI feature for Groww, AI use cases in fintech
+4. Product Thinking: metrics, prioritization, user pain points, product strategy
+5. Technical AI Deep Dive: RAG architecture, model selection, evaluation, latency, cost optimization
+6. Behavioral / HR: leadership, ownership, conflict resolution, decision-making
+
+<sub>Topics: OA Format · Source: [chat, 21 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L453) · Also asked at: IIT Bombay (2026-11-21)</sub>
 
 ## 2026-11-20 · Unknown · FTE · APM · Interview
 

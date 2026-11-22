@@ -1,6 +1,6 @@
 # Sliding Window
 
-39 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+40 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
@@ -43,3 +43,4 @@
 | 2026-09-24 | [InMobi](../companies/inmobi.md) | IIT Kanpur | [Swapped Neighbour Scans](../companies/inmobi.md#q1-swapped-neighbour-scans) | ≈ [LC 859](https://leetcode.com/problems/buddy-strings/) Easy |
 | 2026-09-21 | [Chargebee](../companies/chargebee.md) | Unknown | [Minimum window substring](../companies/chargebee.md#q1-minimum-window-substring) | [LC 76](https://leetcode.com/problems/minimum-window-substring/) Hard |
 | 2026-09-21 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Anagram substring search](../companies/eternal-zomato.md#q2-anagram-substring-search) | [LC 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) Medium |
+| 2021-11-21 | [Apple](../companies/apple.md) | IIT BHU | [Smallest subarray with sum greater than x](../companies/apple.md#q1-smallest-subarray-with-sum-greater-than-x) | |

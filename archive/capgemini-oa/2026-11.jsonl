@@ -106,3 +106,6 @@
 {"id": 31104, "group": "capgemini-oa", "sent_at": "2026-11-19T00:12:17.760361+00:00", "text": "", "author_tag": "BHU", "reply_to": null, "attachment": null, "deleted": true}
 {"id": 31105, "group": "capgemini-oa", "sent_at": "2026-11-19T00:12:31.965127+00:00", "text": "", "author_tag": "BHU", "reply_to": null, "attachment": null, "deleted": true}
 {"id": 31838, "group": "capgemini-oa", "sent_at": "2026-11-20T07:58:16.654927+00:00", "text": "Can someone share the capegemini interview experience and number of rounds plzz", "author_tag": "TET", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 32647, "group": "capgemini-oa", "sent_at": "2026-11-21T19:19:39.666572+00:00", "text": "capgemini technical assessment oa pattern pls share", "author_tag": "IITG", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 32648, "group": "capgemini-oa", "sent_at": "2026-11-21T19:20:23.249953+00:00", "text": "", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": true}
+{"id": 32662, "group": "capgemini-oa", "sent_at": "2026-11-21T20:02:23.870771+00:00", "text": "1 dsa, 1 prompt writing, 2 feature implementation with AI", "author_tag": "IITH", "reply_to": {"id": 32647, "text": "capgemini technical assessment oa pattern pls share", "author_tag": "IITG"}, "attachment": null, "deleted": false}

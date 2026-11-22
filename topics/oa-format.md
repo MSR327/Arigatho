@@ -1,9 +1,12 @@
 # OA Format
 
-878 questions from 162 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+881 questions from 163 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-21 | [Capgemini](../companies/capgemini.md) | IIT Hyderabad | [Capgemini technical assessment pattern](../companies/capgemini.md#q1-capgemini-technical-assessment-pattern) | |
+| 2026-11-21 | [Groww](../companies/groww.md) | Unknown | [Groww APM interview rounds](../companies/groww.md#q1-groww-apm-interview-rounds) | |
+| 2026-11-21 | [NexusOne](../companies/nexusone.md) | IIT BHU | [NexusOne OA pattern](../companies/nexusone.md#q1-nexusone-oa-pattern) | |
 | 2026-11-21 | [Meesho](../companies/meesho.md) | IIT Roorkee | [Meesho AI interview round contents](../companies/meesho.md#q1-meesho-ai-interview-round-contents) | |
 | 2026-11-20 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Hyderabad | [CBA second round test case requirement](../companies/commonwealth-bank-of-australia.md#q1-cba-second-round-test-case-requirement) | |
 | 2026-11-20 | [Qualcomm](../companies/qualcomm.md) | IIT Kharagpur/Kanpur | [Qualcomm multimedia OA pattern](../companies/qualcomm.md#q1-qualcomm-multimedia-oa-pattern) | |

@@ -178,6 +178,7 @@ For each OA coding question, the nearest problem on a practice site (LeetCode, G
 | [LeetCode 1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | Medium | [Pace Stock](companies/pace-stock.md#q3-count-exactly-overlapping-regions-in-two-grids) (IIT Delhi) | 1 |
 | [LeetCode 1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) | Medium | [MathWorks](companies/mathworks.md#q2-count-subarrays-rearrangeable-into-palindromes) (IIT Bombay) | 1 |
 | [LeetCode 1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | Medium | [BlackRock](companies/blackrock.md#q4-minimize-array-sum-after-k-operations) (IIT BHU) | 1 |
+| [LeetCode 1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | Hard | [Cars24](companies/cars24.md#q1-last-day-where-you-can-still-cross) (IIT Guwahati) | 1 |
 | [LeetCode 1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Easy | [Sony](companies/sony.md#q2-gcd-of-two-numbers) (IIT Bombay) | 1 |
 | [LeetCode 198. House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Cars24](companies/cars24.md#q6-house-robber) (Unknown) | 1 |
 | [LeetCode 1993. Operations on Tree](https://leetcode.com/problems/operations-on-tree/) | Medium | [Juspay](companies/juspay.md#q1-round-3-design-type-tree-operations) (NIT Surathkal) | 1 |

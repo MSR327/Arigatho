@@ -1,13 +1,15 @@
 # Capgemini
 
-**17 questions** · 9 drives · latest 15 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**18 questions** · 10 drives · latest 21 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [Verbal](../topics/verbal.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1 · +2 more  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Bhilai, IIT Delhi, IIT Guwahati, IIT Kharagpur/Kanpur, IIT Roorkee, MNNIT Allahabad +5 more
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Arrays](../topics/arrays.md) 3 · [Strings](../topics/strings.md) 2 · [Web Dev](../topics/web-dev.md) 2 · [Verbal](../topics/verbal.md) 2 · [Greedy](../topics/greedy.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Hashing](../topics/hashing.md) 1 · +2 more  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Bhilai, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur/Kanpur, IIT Roorkee +6 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-21 · IIT Hyderabad · FTE](#2026-11-21--iit-hyderabad--fte)
+  - [Capgemini technical assessment pattern](#q1-capgemini-technical-assessment-pattern)
 - [2026-11-12 · NIT Patna · FTE · SDE (Exceller)](#2026-11-12--nit-patna--fte--sde-exceller)
   - [Capgemini Exceller 2027 OA pattern](#q1-capgemini-exceller-2027-oa-pattern)
 - [2026-11-12 · MNNIT Allahabad · FTE · Software Engineer](#2026-11-12--mnnit-allahabad--fte--software-engineer)
@@ -38,6 +40,14 @@
 </details>
 
 ---
+
+## 2026-11-21 · IIT Hyderabad · FTE
+
+### Q1. Capgemini technical assessment pattern
+
+Reported pattern of the Capgemini technical assessment: 1 DSA question, 1 prompt writing question, 2 feature implementation questions with AI.
+
+<sub>Topics: OA Format · Source: [chat, 21 Nov](../archive/capgemini-oa/2026-11.jsonl#L111)</sub>
 
 ## 2026-11-12 · NIT Patna · FTE · SDE (Exceller)
 

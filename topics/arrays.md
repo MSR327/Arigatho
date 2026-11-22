@@ -1,6 +1,6 @@
 # Arrays
 
-281 questions from 74 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+282 questions from 74 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
@@ -285,3 +285,4 @@
 | 2024-10-09 | [Accenture](../companies/accenture.md) | IIT Delhi | [Java containConsecutive: fill the blanks](../companies/accenture.md#q12-java-containconsecutive-fill-the-blanks) | |
 | 2024-10-09 | [Accenture](../companies/accenture.md) | IIT Delhi | [Minimum adjacent swaps to sort (fill in)](../companies/accenture.md#q9-minimum-adjacent-swaps-to-sort-fill-in) | |
 | 2024-10-09 | [Accenture](../companies/accenture.md) | IIT Delhi | [Age confirmation of participants (coding)](../companies/accenture.md#q1-age-confirmation-of-participants-coding) | |
+| 2021-11-21 | [Apple](../companies/apple.md) | IIT BHU | [Smallest subarray with sum greater than x](../companies/apple.md#q1-smallest-subarray-with-sum-greater-than-x) | |

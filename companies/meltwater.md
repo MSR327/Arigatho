@@ -1,9 +1,9 @@
 # Meltwater
 
-**8 questions** · 4 drives · latest 17 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 4 drives · latest 21 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [Math](../topics/math.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Greedy](../topics/greedy.md) 1 · [Hashing](../topics/hashing.md) 1 · [Sorting](../topics/sorting.md) 1 · [Arrays](../topics/arrays.md) 1  
-**Seen at:** IIT Hyderabad, VIT Vellore
+**Seen at:** IIIT Hyderabad, IIT Hyderabad, VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -31,7 +31,7 @@
 
 Round 2 had 3 DSA questions and some MCQs. (Questions themselves not shared.)
 
-<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L275)</sub>
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L275) · Also asked at: IIIT Hyderabad (2026-11-21)</sub>
 
 ## 2026-11-10 · IIT Hyderabad · FTE
 

@@ -1,13 +1,15 @@
 # Cars24
 
-**60 questions** · 26 drives · latest 20 Nov 2026 · [20 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**61 questions** · 27 drives · latest 22 Nov 2026 · [21 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [ML/AI](../topics/ml-ai.md) 22 · [OA Format](../topics/oa-format.md) 21 · [Graphs](../topics/graphs.md) 6 · [Python & Pandas](../topics/python-pandas.md) 6 · [Arrays](../topics/arrays.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · +15 more  
+**Asks about:** [ML/AI](../topics/ml-ai.md) 22 · [OA Format](../topics/oa-format.md) 21 · [Graphs](../topics/graphs.md) 7 · [Python & Pandas](../topics/python-pandas.md) 6 · [Arrays](../topics/arrays.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · +15 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-22 · IIT Guwahati · FTE · AI/ML Engineer · Other round](#2026-11-22--iit-guwahati--fte--aiml-engineer--other-round)
+  - [Last day where you can still cross](#q1-last-day-where-you-can-still-cross)
 - [2026-11-19 · IIT Kharagpur/Kanpur · FTE · Gen AI](#2026-11-19--iit-kharagpurkanpur--fte--gen-ai)
   - [Transformer/BERT CSV encode-decode pipeline](#q1-transformerbert-csv-encode-decode-pipeline)
 - [2026-11-19 · IIT Guwahati · FTE · Data Scientist](#2026-11-19--iit-guwahati--fte--data-scientist)
@@ -98,6 +100,16 @@
 </details>
 
 ---
+
+## 2026-11-22 · IIT Guwahati · FTE · AI/ML Engineer · Other round
+
+### Q1. Last day where you can still cross
+
+Shared as a LeetCode link: https://leetcode.com/problems/last-day-where-you-can-still-cross/description/
+
+The poster only gave the link, with no statement or constraints.
+
+<sub>Topics: Graphs, Binary Search · Similar: [LeetCode 1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) (Hard) · Source: [chat, 22 Nov](../archive/campus-nit-trichy-placements/2026-11.jsonl#L61)</sub>
 
 ## 2026-11-19 · IIT Kharagpur/Kanpur · FTE · Gen AI
 
@@ -216,7 +228,7 @@ OA for the AI/GenAI role contained 10 MCQs plus 1 ML coding question. In the ML 
 
 The exact MCQ topics and the specific ML task were not shared.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L258), [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L260) · Also asked at: IIT Kharagpur (2026-11-19)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L258), [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L260) · Also asked at: IIT Kharagpur (2026-11-19), IIT Roorkee (2026-11-21)</sub>
 
 ## 2026-11-16 · IIT BHU · FTE · Data Science · Other round
 
@@ -346,7 +358,7 @@ Pattern: 1. MCQ on ML / data science, 2. Coding, 3. Aptitude.
 
 15 questions: 12 MCQs, 2 DSA coding questions and 1 SQL question. The MCQs were related to software engineering only.
 
-<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Kharagpur/Kanpur (2026-11-16), IIT Kharagpur (2026-11-17), IIT Delhi ×3 (last 2026-11-19), IIT BHU ×3 (last 2026-11-19), IIT Guwahati (2026-11-19)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Kharagpur/Kanpur (2026-11-16), IIT Kharagpur (2026-11-17), IIT BHU ×3 (last 2026-11-19), IIT Guwahati (2026-11-19), IIT Delhi ×4 (last 2026-11-21)</sub>
 
 ## 2026-11-14 · IIT Delhi · FTE · Data Science / ML
 
