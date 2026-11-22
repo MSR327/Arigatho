@@ -1,11 +1,16 @@
 # OA Format
 
-881 questions from 163 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+886 questions from 164 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-22 | [LTM](../companies/ltm.md) | IIT Guwahati | [LTM OA format: behaviour, speaking, coding, essay, rating](../companies/ltm.md#q1-ltm-oa-format-behaviour-speaking-coding-essay-rating) | |
 | 2026-11-21 | [Capgemini](../companies/capgemini.md) | IIT Hyderabad | [Capgemini technical assessment pattern](../companies/capgemini.md#q1-capgemini-technical-assessment-pattern) | |
+| 2026-11-21 | [Stripe](../companies/stripe.md) | Unknown | [Stripe SDE OA and interview pattern](../companies/stripe.md#q1-stripe-sde-oa-and-interview-pattern) | |
+| 2026-11-21 | [Meesho](../companies/meesho.md) | NIT Surathkal | [Meesho AI interview round patterns by role](../companies/meesho.md#q1-meesho-ai-interview-round-patterns-by-role) | |
+| 2026-11-21 | [Futures First](../companies/futures-first.md) | NIT Surathkal | [Futures First group round pattern](../companies/futures-first.md#q1-futures-first-group-round-pattern) | |
 | 2026-11-21 | [Groww](../companies/groww.md) | Unknown | [Groww APM interview rounds](../companies/groww.md#q1-groww-apm-interview-rounds) | |
+| 2026-11-21 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Zomato SDE interview process](../companies/eternal-zomato.md#q1-zomato-sde-interview-process) | |
 | 2026-11-21 | [NexusOne](../companies/nexusone.md) | IIT BHU | [NexusOne OA pattern](../companies/nexusone.md#q1-nexusone-oa-pattern) | |
 | 2026-11-21 | [Meesho](../companies/meesho.md) | IIT Roorkee | [Meesho AI interview round contents](../companies/meesho.md#q1-meesho-ai-interview-round-contents) | |
 | 2026-11-20 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Hyderabad | [CBA second round test case requirement](../companies/commonwealth-bank-of-australia.md#q1-cba-second-round-test-case-requirement) | |

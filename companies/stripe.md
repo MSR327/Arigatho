@@ -1,13 +1,15 @@
 # Stripe
 
-**3 questions** · 3 drives · latest 12 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**4 questions** · 4 drives · latest 21 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1  
 **Seen at:** BITS Pilani, IIT BHU, IIT Hyderabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-21 · Unknown · FTE · SDE · Other round](#2026-11-21--unknown--fte--sde--other-round)
+  - [Stripe SDE OA and interview pattern](#q1-stripe-sde-oa-and-interview-pattern)
 - [2026-10-26 · IIT BHU · FTE · Interview](#2026-10-26--iit-bhu--fte--interview)
   - [Stripe virtual onsite structure](#q1-stripe-virtual-onsite-structure)
 - [2026-10-25 · IIT Hyderabad · FTE · Interview](#2026-10-25--iit-hyderabad--fte--interview)
@@ -18,6 +20,16 @@
 </details>
 
 ---
+
+## 2026-11-21 · Unknown · FTE · SDE · Other round
+
+### Q1. Stripe SDE OA and interview pattern
+
+- OA: one DSA question; 17/19 test cases passed was enough to get the interview call (from 1 shared experience)
+- Interviews: DSA, often multi-part, plus string parsing (from 3 shared experiences)
+- Questions reported are mostly simulation, sorting, string
+
+<sub>Topics: OA Format · Source: [chat, 21 Nov](../archive/inter-nit/2026-11.jsonl#L2261), [chat, 21 Nov](../archive/inter-nit/2026-11.jsonl#L2271)</sub>
 
 ## 2026-10-26 · IIT BHU · FTE · Interview
 

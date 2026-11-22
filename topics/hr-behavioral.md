@@ -1,9 +1,11 @@
 # HR & Behavioral
 
-59 questions from 28 companys, newest first. [← all topics](../README.md#topics)
+61 questions from 30 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-22 | [Meesho](../companies/meesho.md) | IIT BHU | [Meesho AI interview structure for Business Associate](../companies/meesho.md#q1-meesho-ai-interview-structure-for-business-associate) |
+| 2026-11-22 | [Cognizant](../companies/cognizant.md) | IIT Tirupati | [Cognizant interview format and scenario coding](../companies/cognizant.md#q1-cognizant-interview-format-and-scenario-coding) |
 | 2026-11-20 | [Groww](../companies/groww.md) | Unknown | [Groww APM AI voice interview](../companies/groww.md#q1-groww-apm-ai-voice-interview) |
 | 2026-11-19 | [ICICI](../companies/icici.md) | Unknown | [ICICI data analyst interview: HR, projects and SQL](../companies/icici.md#q1-icici-data-analyst-interview-hr-projects-and-sql) |
 | 2026-11-19 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Accordion Data & AI engineer interview experiences](../companies/accordion.md#q1-accordion-data--ai-engineer-interview-experiences) |

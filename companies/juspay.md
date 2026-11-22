@@ -1,13 +1,15 @@
 # Juspay
 
-**24 questions** · 17 drives · latest 19 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**25 questions** · 18 drives · latest 21 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Trees](../topics/trees.md) 4 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 3 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +2 more  
-**Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, MNNIT Allahabad +4 more
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Trees](../topics/trees.md) 5 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 4 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +3 more  
+**Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-21 · IIT Roorkee · FTE](#2026-11-21--iit-roorkee--fte)
+  - [Employee Removal Order](#q1-employee-removal-order)
 - [2026-11-19 · Unknown · FTE · Interview](#2026-11-19--unknown--fte--interview)
   - [Juspay interview round topics](#q1-juspay-interview-round-topics)
 - [2026-11-09 · NIT Surathkal · FTE](#2026-11-09--nit-surathkal--fte)
@@ -53,6 +55,44 @@
 </details>
 
 ---
+
+## 2026-11-21 · IIT Roorkee · FTE
+
+### Q1. Employee Removal Order
+
+A firm has $N$ employees with IDs from $1$ to $N$. Every employee except one reports to exactly one manager; the remaining employee is the head of the firm and reports to nobody. Following managers upward from anyone always ends at the head, so the reporting lines form a single rooted tree.
+
+A subset of $K$ employees has been **flagged** to leave the firm. They leave one at a time according to these rules:
+
+- **Bottom-Up Eligibility:** A flagged employee can leave only when no flagged employee remains in their subtree (direct reports, their reports' reports, and so on).
+- **Tie-Breaking:** Whenever multiple flagged employees are eligible to leave at the same time, the one with the smallest ID leaves next.
+- **Hierarchy Reassignment:** When an employee leaves, each of their direct reports is reassigned to report directly to the leaver's manager. If the leaver was the head, their direct reports simply have no manager from then on.
+- **Retention:** Employees who are not flagged never leave.
+
+(Reassigning reports upward never alters ancestor-descendant relationships among the remaining employees, so the rules define a unique leaving sequence.)
+
+Implement `removalOrder(n, parent, marked)` which returns a list of the IDs of the flagged employees in the exact order they leave.
+
+- `n` ($1 \le N \le 20000$): total number of employees.
+- `parent` (size $N$): `parent[i]` is the manager of employee $i+1$. Exactly one value is `0` (the head); every other value is between $1$ and $N$.
+- `marked` (size $K$, $1 \le K \le \min(N, 2200)$): distinct employee IDs flagged to leave.
+
+Example:
+
+```text
+Input:
+5
+0 1 1 2 2
+3
+1 2 4
+
+Output:
+4 2 1
+```
+
+The message was cut off in the explanation of the example (employee 1 is the head and manages 2...).
+
+<sub>Topics: Trees, Heaps, Graphs · Same idea: [LeetCode 210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (Medium), Kahn topological order; use min-heap for smallest-ID ties · Source: [chat, 21 Nov](../archive/juspay-oa/2026-11.jsonl#L148)</sub>
 
 ## 2026-11-19 · Unknown · FTE · Interview
 

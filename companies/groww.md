@@ -1,13 +1,15 @@
 # Groww
 
-**9 questions** · 5 drives · latest 21 Nov 2026 · [← all companies](../README.md#companies)
+**10 questions** · 6 drives · latest 22 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [OA Format](../topics/oa-format.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Finance](../topics/finance.md) 1 · [Other](../topics/other.md) 1  
-**Seen at:** IIT Bombay, IIT Guwahati, VNIT Nagpur
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 5 · [OA Format](../topics/oa-format.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Finance](../topics/finance.md) 1 · [Other](../topics/other.md) 1  
+**Seen at:** IIT BHU, IIT Bombay, IIT Guwahati, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-22 · IIT Bombay · FTE · Product Manager · Interview](#2026-11-22--iit-bombay--fte--product-manager--interview)
+  - [Product sense: first-time onboarding for Zoho CRM](#q1-product-sense-first-time-onboarding-for-zoho-crm)
 - [2026-11-21 · Unknown · FTE · APM · Interview](#2026-11-21--unknown--fte--apm--interview)
   - [Groww APM interview rounds](#q1-groww-apm-interview-rounds)
 - [2026-11-20 · Unknown · FTE · APM · Interview](#2026-11-20--unknown--fte--apm--interview)
@@ -27,6 +29,18 @@
 
 ---
 
+## 2026-11-22 · IIT Bombay · FTE · Product Manager · Interview
+
+### Q1. Product sense: first-time onboarding for Zoho CRM
+
+Groww AI interview, product sense round (product role, on-campus). The task was to design first-time onboarding for Zoho CRM. Points covered:
+
+- Picking target users: small business owners vs freelancers
+- Importing leads, assigning ownership, tracking follow-ups
+- Which features to leave out at the start
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 22 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L305)</sub>
+
 ## 2026-11-21 · Unknown · FTE · APM · Interview
 
 ### Q1. Groww APM interview rounds
@@ -40,7 +54,7 @@ Rounds reported for the APM role:
 5. Technical AI Deep Dive: RAG architecture, model selection, evaluation, latency, cost optimization
 6. Behavioral / HR: leadership, ownership, conflict resolution, decision-making
 
-<sub>Topics: OA Format · Source: [chat, 21 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L453) · Also asked at: IIT Bombay (2026-11-21)</sub>
+<sub>Topics: OA Format · Source: [chat, 21 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L453) · Also asked at: IIT Bombay (2026-11-21), IIT BHU (2026-11-21)</sub>
 
 ## 2026-11-20 · Unknown · FTE · APM · Interview
 

@@ -1,9 +1,10 @@
 # Aptitude
 
-261 questions from 35 companys, newest first. [← all topics](../README.md#topics)
+262 questions from 35 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-21 | [Futures First](../companies/futures-first.md) | NIT Surathkal | [Futures First group round pattern](../companies/futures-first.md#q1-futures-first-group-round-pattern) |
 | 2026-11-19 | [Takshashila Consulting](../companies/takshashila-consulting.md) | IIT Kharagpur | [Takshashila Consulting OA format](../companies/takshashila-consulting.md#q2-takshashila-consulting-oa-format) |
 | 2026-11-19 | [Takshashila Consulting](../companies/takshashila-consulting.md) | IIT Kharagpur | [Takshashila Consulting Analyst aptitude test pattern](../companies/takshashila-consulting.md#q1-takshashila-consulting-analyst-aptitude-test-pattern) |
 | 2026-11-18 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Accordion OA format: aptitude test](../companies/accordion.md#q1-accordion-oa-format-aptitude-test) |

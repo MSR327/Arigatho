@@ -1,13 +1,15 @@
 # Cognizant
 
-**76 questions** · 28 drives · latest 20 Nov 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**77 questions** · 29 drives · latest 22 Nov 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 21 · [Arrays](../topics/arrays.md) 13 · [Greedy](../topics/greedy.md) 10 · [DP](../topics/dp.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [Hashing](../topics/hashing.md) 7 · [Math](../topics/math.md) 6 · +15 more  
-**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +6 more
+**Asks about:** [OA Format](../topics/oa-format.md) 21 · [Arrays](../topics/arrays.md) 13 · [Greedy](../topics/greedy.md) 10 · [DP](../topics/dp.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [Hashing](../topics/hashing.md) 7 · [Math](../topics/math.md) 6 · +16 more  
+**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +7 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-22 · IIT Tirupati · FTE · Interview](#2026-11-22--iit-tirupati--fte--interview)
+  - [Cognizant interview format and scenario coding](#q1-cognizant-interview-format-and-scenario-coding)
 - [2026-11-20 · Unknown · FTE · Interview](#2026-11-20--unknown--fte--interview)
   - [Merge common elements from 2 arrays](#q1-merge-common-elements-from-2-arrays)
   - [Second largest in array](#q2-second-largest-in-array)
@@ -116,6 +118,16 @@
 </details>
 
 ---
+
+## 2026-11-22 · IIT Tirupati · FTE · Interview
+
+### Q1. Cognizant interview format and scenario coding
+
+Single round with a 2-member panel. Starts with introductions, then you are given a scenario to code in your preferred language (the one mentioned in the application, which can't be changed later) using OOP concepts. Afterwards there are questions on your projects and internship experience. The interview checks breadth rather than depth. Offers are either the 18 LPA or the 12 LPA role, decided by the interviewer.
+
+The exact scenario was not shared.
+
+<sub>Topics: OOP, HR & Behavioral · Source: [chat, 22 Nov](../archive/cognizant-oa/2026-11.jsonl#L136), [chat, 22 Nov](../archive/cognizant-oa/2026-11.jsonl#L137)</sub>
 
 ## 2026-11-20 · Unknown · FTE · Interview
 

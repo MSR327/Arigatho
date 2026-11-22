@@ -1,13 +1,15 @@
 # Eternal (Zomato)
 
-**203 questions** · 104 drives · latest 20 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**204 questions** · 105 drives · latest 21 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 76 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 77 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
 **Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +16 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-21 · IIT Guwahati · FTE · SDE · Interview](#2026-11-21--iit-guwahati--fte--sde--interview)
+  - [Zomato SDE interview process](#q1-zomato-sde-interview-process)
 - [2026-11-20 · Unknown · FTE · SDE · Interview](#2026-11-20--unknown--fte--sde--interview)
   - [Eternal SDE interview rounds](#q1-eternal-sde-interview-rounds)
 - [2026-11-20 · IIT BHU · FTE · SDE](#2026-11-20--iit-bhu--fte--sde)
@@ -319,6 +321,14 @@
 </details>
 
 ---
+
+## 2026-11-21 · IIT Guwahati · FTE · SDE · Interview
+
+### Q1. Zomato SDE interview process
+
+3 rounds of DSA, plus a project grill focused on backend.
+
+<sub>Topics: OA Format · Source: [chat, 21 Nov](../archive/zomato-sde-1/2026-11.jsonl#L48)</sub>
 
 ## 2026-11-20 · Unknown · FTE · SDE · Interview
 

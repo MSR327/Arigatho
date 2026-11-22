@@ -1,13 +1,15 @@
 # ZS
 
-**14 questions** · 10 drives · latest 11 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 11 drives · latest 21 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 6 · [HR & Behavioral](../topics/hr-behavioral.md) 5 · [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [Verbal](../topics/verbal.md) 1 · [SQL](../topics/sql.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · +1 more  
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [HR & Behavioral](../topics/hr-behavioral.md) 5 · [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [Verbal](../topics/verbal.md) 1 · [SQL](../topics/sql.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · +1 more  
 **Seen at:** BMS College of Engineering, IIT BHU, IIT Indore, NIT Rourkela, VIT Vellore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-21 · IIT BHU · FTE · Interview](#2026-11-21--iit-bhu--fte--interview)
+  - [Nova Care case study](#q1-nova-care-case-study)
 - [2026-11-10 · Unknown · FTE · DAA · Interview](#2026-11-10--unknown--fte--daa--interview)
   - [ZS DAA communication round](#q1-zs-daa-communication-round)
 - [2026-11-10 · NIT Rourkela · FTE · Interview](#2026-11-10--nit-rourkela--fte--interview)
@@ -36,6 +38,14 @@
 </details>
 
 ---
+
+## 2026-11-21 · IIT BHU · FTE · Interview
+
+### Q1. Nova Care case study
+
+The interview had a case study on "Nova Care", similar to the "Glowskn" case study that can be found online. (The poster gave no further details of the case.)
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 21 Nov](../archive/inter-iit/2026-11.jsonl#L1182)</sub>
 
 ## 2026-11-10 · Unknown · FTE · DAA · Interview
 

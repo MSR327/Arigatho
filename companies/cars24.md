@@ -109,7 +109,7 @@ Shared as a LeetCode link: https://leetcode.com/problems/last-day-where-you-can-
 
 The poster only gave the link, with no statement or constraints.
 
-<sub>Topics: Graphs, Binary Search · Similar: [LeetCode 1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) (Hard) · Source: [chat, 22 Nov](../archive/campus-nit-trichy-placements/2026-11.jsonl#L61)</sub>
+<sub>Topics: Graphs, Binary Search · Similar: [LeetCode 1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) (Hard) · Source: [chat, 22 Nov](../archive/campus-nit-trichy-placements/2026-11.jsonl#L61) · Also asked at: IIT Guwahati (2026-11-22)</sub>
 
 ## 2026-11-19 · IIT Kharagpur/Kanpur · FTE · Gen AI
 

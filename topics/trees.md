@@ -1,9 +1,10 @@
 # Trees
 
-79 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+80 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-21 | [Juspay](../companies/juspay.md) | IIT Roorkee | [Employee Removal Order](../companies/juspay.md#q1-employee-removal-order) | ≈ [LC 210](https://leetcode.com/problems/course-schedule-ii/) Medium |
 | 2026-11-15 | [Media.net](../companies/media-net.md) | NIT Surathkal | [Sync engine: queries affected by writes](../companies/media-net.md#q1-sync-engine-queries-affected-by-writes) | |
 | 2026-11-13 | [Goldman Sachs](../companies/goldman-sachs.md) | IIT Kharagpur | [Unique binary search trees](../companies/goldman-sachs.md#q3-unique-binary-search-trees) | [LC 96](https://leetcode.com/problems/unique-binary-search-trees/) Medium |
 | 2026-11-12 | [BNY](../companies/bny.md) | IIT BHU | [Assign tree node values with adjacent difference exactly 1](../companies/bny.md#q1-assign-tree-node-values-with-adjacent-difference-exactly-1) | ≈ [LC 785](https://leetcode.com/problems/is-graph-bipartite/) Medium |

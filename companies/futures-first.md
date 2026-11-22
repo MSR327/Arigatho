@@ -1,13 +1,15 @@
 # Futures First
 
-**39 questions** · 10 drives · latest 18 Nov 2026 · [← all companies](../README.md#companies)
+**40 questions** · 11 drives · latest 21 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 36 · [Math](../topics/math.md) 7 · [OA Format](../topics/oa-format.md) 5 · [Puzzles](../topics/puzzles.md) 4  
-**Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Madras, IIT Mandi, IIT Roorkee, MNNIT Allahabad
+**Asks about:** [Aptitude](../topics/aptitude.md) 37 · [Math](../topics/math.md) 7 · [OA Format](../topics/oa-format.md) 6 · [Puzzles](../topics/puzzles.md) 4  
+**Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Madras, IIT Mandi, IIT Roorkee, MNNIT Allahabad +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-21 · NIT Surathkal · FTE · Interview](#2026-11-21--nit-surathkal--fte--interview)
+  - [Futures First group round pattern](#q1-futures-first-group-round-pattern)
 - [2026-11-14 · Unknown · FTE](#2026-11-14--unknown--fte)
   - [Futures First OA and interview format](#q1-futures-first-oa-and-interview-format)
 - [2026-11-13 · IIT Delhi · FTE](#2026-11-13--iit-delhi--fte)
@@ -61,6 +63,23 @@
 </details>
 
 ---
+
+## 2026-11-21 · NIT Surathkal · FTE · Interview
+
+### Q1. Futures First group round pattern
+
+The group round is generally a Fastest Finger First / buzzer-style mental maths and logical reasoning competition, not a conventional GD.
+
+- Group size: 5–6 candidates
+- Questions: around 16–20
+- Type: mental maths, aptitude, logic
+- Format: first candidate to answer
+- Marking: positive and negative marking
+- Evaluation: speed, accuracy, decision-making
+
+One 2026 experience reports scoring of +1/-1 initially, increasing up to +4/-4 as questions get harder.
+
+<sub>Topics: Aptitude, OA Format · Source: [chat, 21 Nov](../archive/inter-nit/2026-11.jsonl#L2259)</sub>
 
 ## 2026-11-14 · Unknown · FTE
 

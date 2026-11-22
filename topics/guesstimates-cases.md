@@ -1,9 +1,12 @@
 # Guesstimates & Cases
 
-36 questions from 12 companys, newest first. [← all topics](../README.md#topics)
+39 questions from 13 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-22 | [Meesho](../companies/meesho.md) | IIT BHU | [Meesho AI interview structure for Business Associate](../companies/meesho.md#q1-meesho-ai-interview-structure-for-business-associate) |
+| 2026-11-22 | [Groww](../companies/groww.md) | IIT Bombay | [Product sense: first-time onboarding for Zoho CRM](../companies/groww.md#q1-product-sense-first-time-onboarding-for-zoho-crm) |
+| 2026-11-21 | [ZS](../companies/zs.md) | IIT BHU | [Nova Care case study](../companies/zs.md#q1-nova-care-case-study) |
 | 2026-11-19 | [Nation with NaMo](../companies/nation-with-namo.md) | Unknown | [Case studies and campaign strategy](../companies/nation-with-namo.md#q3-case-studies-and-campaign-strategy) |
 | 2026-11-19 | [Nation with NaMo](../companies/nation-with-namo.md) | Unknown | [Guesstimates and analytical puzzles](../companies/nation-with-namo.md#q1-guesstimates-and-analytical-puzzles) |
 | 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [People giving an interview right now worldwide](../companies/groww.md#q4-people-giving-an-interview-right-now-worldwide) |

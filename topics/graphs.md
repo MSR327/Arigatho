@@ -1,10 +1,11 @@
 # Graphs
 
-163 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+164 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-22 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Last day where you can still cross](../companies/cars24.md#q1-last-day-where-you-can-still-cross) | [LC 1970](https://leetcode.com/problems/last-day-where-you-can-still-cross/) Hard |
+| 2026-11-21 | [Juspay](../companies/juspay.md) | IIT Roorkee | [Employee Removal Order](../companies/juspay.md#q1-employee-removal-order) | ≈ [LC 210](https://leetcode.com/problems/course-schedule-ii/) Medium |
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Number of Provinces](../companies/idfc-first-bank.md#q3-number-of-provinces) | [LC 547](https://leetcode.com/problems/number-of-provinces/) Medium |
 | 2026-11-19 | [Walt Disney](../companies/walt-disney.md) | NIT Surathkal | [Number of Provinces](../companies/walt-disney.md#q3-number-of-provinces) | [LC 547](https://leetcode.com/problems/number-of-provinces/) Medium |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Home assignment: Flights-to-trip mapping](../companies/cars24.md#q2-home-assignment-flights-to-trip-mapping) | |
