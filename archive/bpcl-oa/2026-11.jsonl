@@ -6,3 +6,5 @@
 {"id": 30764, "group": "bpcl-oa", "sent_at": "2026-11-18T13:22:40.540733+00:00", "text": "not yet", "author_tag": "IITH", "reply_to": {"id": 30124, "text": "When is your OA scheduled ?", "author_tag": "IITK"}, "attachment": null, "deleted": false}
 {"id": 33008, "group": "bpcl-oa", "sent_at": "2026-11-22T19:12:30.595964+00:00", "text": "has it been scheduled now ?", "author_tag": "IITK", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 33053, "group": "bpcl-oa", "sent_at": "2026-11-23T03:36:17.586714+00:00", "text": "bel oa has been schedule or not", "author_tag": "MNNI", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 33131, "group": "bpcl-oa", "sent_at": "2026-11-23T06:15:05.75996+00:00", "text": "as far as i know the BEL process has been completed at IIT Roorkee", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 33132, "group": "bpcl-oa", "sent_at": "2026-11-23T06:15:58.036478+00:00", "text": "at iit ropar it is scheduled for 1st december", "author_tag": "IITR", "reply_to": {"id": 33053, "text": "bel oa has been schedule or not", "author_tag": "MNNI"}, "attachment": null, "deleted": false}

@@ -1,13 +1,17 @@
 # KLA
 
-**5 questions** · 3 drives · latest 14 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 4 drives · latest 22 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Puzzles](../topics/puzzles.md) 3 · [Math](../topics/math.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Graphs](../topics/graphs.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1  
+**Asks about:** [Puzzles](../topics/puzzles.md) 3 · [Math](../topics/math.md) 2 · [Graphs](../topics/graphs.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · [Sliding Window](../topics/sliding-window.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · [Binary Search](../topics/binary-search.md) 1 · +3 more  
 **Seen at:** IIT Bhubaneswar, IIT Indore, IIT Kharagpur, IIT Madras, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-22 · IIT Madras · FTE · Interview](#2026-11-22--iit-madras--fte--interview)
+  - [KLA round 1: sliding window and bit manipulation](#q1-kla-round-1-sliding-window-and-bit-manipulation)
+  - [KLA round 2: binary search on answer and 1D DP](#q2-kla-round-2-binary-search-on-answer-and-1d-dp)
+  - [KLA round 3: project discussion, knight moves BFS, OOPs](#q3-kla-round-3-project-discussion-knight-moves-bfs-oops)
 - [2026-11-13 · MNNIT Allahabad · FTE](#2026-11-13--mnnit-allahabad--fte)
   - [KLA DSA questions](#q1-kla-dsa-questions)
 - [2026-11-03 · IIT Bhubaneswar · FTE](#2026-11-03--iit-bhubaneswar--fte)
@@ -20,6 +24,26 @@
 </details>
 
 ---
+
+## 2026-11-22 · IIT Madras · FTE · Interview
+
+### Q1. KLA round 1: sliding window and bit manipulation
+
+Round 1: 2 DSA questions (one sliding window, one bit manipulation). Specific problems not shared.
+
+<sub>Topics: Sliding Window, Bit Manipulation · Source: [chat, 22 Nov](../archive/inter-nit/2026-11.jsonl#L2309)</sub>
+
+### Q2. KLA round 2: binary search on answer and 1D DP
+
+Round 2: a binary search question (binary search on answer type) and a 1D DP question. Specific problems not shared.
+
+<sub>Topics: Binary Search, DP · Source: [chat, 22 Nov](../archive/inter-nit/2026-11.jsonl#L2309)</sub>
+
+### Q3. KLA round 3: project discussion, knight moves BFS, OOPs
+
+Round 3: project discussion, a BFS problem (knight moves), and basic OOPs questions. There was also an HR round.
+
+<sub>Topics: Graphs, OOP, HR & Behavioral · Same problem: [LeetCode 1197. Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) (Medium), BFS on chessboard with knight moves · Source: [chat, 22 Nov](../archive/inter-nit/2026-11.jsonl#L2309)</sub>
 
 ## 2026-11-13 · MNNIT Allahabad · FTE
 

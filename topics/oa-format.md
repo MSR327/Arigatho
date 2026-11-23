@@ -1,12 +1,19 @@
 # OA Format
 
-889 questions from 164 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+896 questions from 166 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-23 | [Jefferies](../companies/jefferies.md) | IIT Madras | [Jefferies OA pattern](../companies/jefferies.md#q1-jefferies-oa-pattern) | |
+| 2026-11-23 | [Epsilon](../companies/epsilon.md) | Unknown | [Epsilon in-person interview: coding round](../companies/epsilon.md#q1-epsilon-in-person-interview-coding-round) | |
+| 2026-11-22 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [Eternal interview focus](../companies/eternal-zomato.md#q1-eternal-interview-focus) | |
 | 2026-11-22 | [Purplle](../companies/purplle.md) | IIT Kharagpur | [Purplle OA format](../companies/purplle.md#q1-purplle-oa-format) | |
+| 2026-11-22 | [IDFC First Bank](../companies/idfc-first-bank.md) | IIT Hyderabad | [IDFC Associate Data Scientist test sections](../companies/idfc-first-bank.md#q1-idfc-associate-data-scientist-test-sections) | |
 | 2026-11-22 | [Unknown](../companies/unknown.md) | IIT Guwahati | [Future First OA format](../companies/unknown.md#q1-future-first-oa-format) | |
+| 2026-11-22 | [Futures First](../companies/futures-first.md) | BITS Pilani | [Futures First OA pattern](../companies/futures-first.md#q1-futures-first-oa-pattern) | |
+| 2026-11-22 | [Futures First](../companies/futures-first.md) | IIT Bombay | [Futures First OA format](../companies/futures-first.md#q1-futures-first-oa-format) | |
 | 2026-11-22 | [Unknown](../companies/unknown.md) | IIT Kharagpur/Kanpur | [Jefferies OA format](../companies/unknown.md#q1-jefferies-oa-format) | |
+| 2026-11-22 | [LPL Financial](../companies/lpl-financial.md) | IIT Hyderabad | [LPL Financial GCC interview topics](../companies/lpl-financial.md#q1-lpl-financial-gcc-interview-topics) | |
 | 2026-11-22 | [LTM](../companies/ltm.md) | IIT Guwahati | [LTM OA format: behaviour, speaking, coding, essay, rating](../companies/ltm.md#q1-ltm-oa-format-behaviour-speaking-coding-essay-rating) | |
 | 2026-11-21 | [Capgemini](../companies/capgemini.md) | IIT Hyderabad | [Capgemini technical assessment pattern](../companies/capgemini.md#q1-capgemini-technical-assessment-pattern) | |
 | 2026-11-21 | [Stripe](../companies/stripe.md) | Unknown | [Stripe SDE OA and interview pattern](../companies/stripe.md#q1-stripe-sde-oa-and-interview-pattern) | |

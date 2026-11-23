@@ -1,9 +1,9 @@
 # Auxo AI
 
-**2 questions** · 2 drives · latest 7 Nov 2026 · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 23 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
-**Seen at:** IIT Guwahati, IIT Hyderabad
+**Seen at:** IIT Guwahati, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -39,4 +39,4 @@ There was also a guesstimate question to evaluate structured thinking and assump
 
 IIT Guwahati OA had SQL questions and DSA questions (in Python).
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L224)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L224) · Also asked at: IIT Roorkee (2026-11-23)</sub>

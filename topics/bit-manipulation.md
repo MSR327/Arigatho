@@ -1,9 +1,10 @@
 # Bit Manipulation
 
-46 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+47 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 1: sliding window and bit manipulation](../companies/kla.md#q1-kla-round-1-sliding-window-and-bit-manipulation) | |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [XOR-based single element](../companies/schlumberger.md#q7-xor-based-single-element) | [LC 136](https://leetcode.com/problems/single-number/) Easy |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Decimal to binary](../companies/schlumberger.md#q2-decimal-to-binary) | ≈ [LC 1009](https://leetcode.com/problems/complement-of-base-10-integer/) Easy |
 | 2026-11-15 | [QiCap](../companies/qicap.md) | IIT Delhi | [Supply consolidation on a graph](../companies/qicap.md#q2-supply-consolidation-on-a-graph) | ≈ [LC 847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) Hard |

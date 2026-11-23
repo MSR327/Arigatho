@@ -1,9 +1,10 @@
 # OOP
 
-43 questions from 27 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+44 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 3: project discussion, knight moves BFS, OOPs](../companies/kla.md#q3-kla-round-3-project-discussion-knight-moves-bfs-oops) | [LC 1197](https://leetcode.com/problems/minimum-knight-moves/) Medium |
 | 2026-11-22 | [Cognizant](../companies/cognizant.md) | IIT Tirupati | [Cognizant interview format and scenario coding](../companies/cognizant.md#q1-cognizant-interview-format-and-scenario-coding) | |
 | 2026-11-20 | [Cognizant](../companies/cognizant.md) | Unknown | [Java exception handling and hierarchy](../companies/cognizant.md#q3-java-exception-handling-and-hierarchy) | |
 | 2026-11-18 | [Prodigal](../companies/prodigal.md) | Unknown | [Low-level design: restaurant management system](../companies/prodigal.md#q2-low-level-design-restaurant-management-system) | |

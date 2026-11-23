@@ -1,13 +1,15 @@
 # Nutanix
 
-**4 questions** · 2 drives · latest 15 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 3 drives · latest 22 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 1 · [Graphs](../topics/graphs.md) 1 · [Strings](../topics/strings.md) 1 · [DP](../topics/dp.md) 1 · [Arrays](../topics/arrays.md) 1  
-**Seen at:** IIT Madras, MNNIT Allahabad
+**Asks about:** [DP](../topics/dp.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Graphs](../topics/graphs.md) 1 · [Strings](../topics/strings.md) 1 · [Arrays](../topics/arrays.md) 1  
+**Seen at:** IIT Kharagpur, IIT Madras, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-22 · IIT Kharagpur · FTE](#2026-11-22--iit-kharagpur--fte)
+  - [Cherry picker problem](#q1-cherry-picker-problem)
 - [2026-11-15 · MNNIT Allahabad · FTE](#2026-11-15--mnnit-allahabad--fte)
   - [Multi-state Dijkstra](#q1-multi-state-dijkstra)
   - [String implementation problem](#q2-string-implementation-problem)
@@ -18,6 +20,14 @@
 </details>
 
 ---
+
+## 2026-11-22 · IIT Kharagpur · FTE
+
+### Q1. Cherry picker problem
+
+Cherry picker problem (only the name was shared; full statement not given).
+
+<sub>Topics: DP · Similar: [LeetCode 741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) (Hard) · Source: [chat, 22 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L470)</sub>
 
 ## 2026-11-15 · MNNIT Allahabad · FTE
 

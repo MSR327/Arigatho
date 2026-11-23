@@ -1,9 +1,11 @@
 # DP
 
-169 questions from 61 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+171 questions from 62 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-22 | [Nutanix](../companies/nutanix.md) | IIT Kharagpur | [Cherry picker problem](../companies/nutanix.md#q1-cherry-picker-problem) | [LC 741](https://leetcode.com/problems/cherry-pickup/) Hard |
+| 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 2: binary search on answer and 1D DP](../companies/kla.md#q2-kla-round-2-binary-search-on-answer-and-1d-dp) | |
 | 2026-11-20 | [Axtria](../companies/axtria.md) | Unknown | [Highest partition score under a block cost ceiling](../companies/axtria.md#q1-highest-partition-score-under-a-block-cost-ceiling) | ≈ [LC 410](https://leetcode.com/problems/split-array-largest-sum/) Hard |
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Number of Dice Rolls With Target Sum](../companies/idfc-first-bank.md#q4-number-of-dice-rolls-with-target-sum) | [LC 1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) Medium |
 | 2026-11-19 | [Walt Disney](../companies/walt-disney.md) | NIT Surathkal | [Number of Dice Rolls With Target Sum](../companies/walt-disney.md#q4-number-of-dice-rolls-with-target-sum) | [LC 1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) Medium |

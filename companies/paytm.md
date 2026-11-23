@@ -1,9 +1,9 @@
 # Paytm
 
-**26 questions** · 10 drives · latest 20 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**26 questions** · 10 drives · latest 22 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 7 · [Strings](../topics/strings.md) 4 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · +11 more  
-**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU, IIT Indore, MNNIT Allahabad
+**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU, IIT Hyderabad, IIT Indore, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -55,7 +55,7 @@
 
 Interview covered: projects, HLD (high-level design), and 1-2 DSA questions. They prefer ML/GenAI projects over web dev projects (some students were reportedly rejected due to this).
 
-<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/paytm-oa/2026-11.jsonl#L30)</sub>
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/paytm-oa/2026-11.jsonl#L30) · Also asked at: IIT Hyderabad (2026-11-22)</sub>
 
 ## 2026-11-14 · IIT Indore · FTE · Product Analyst · Other round
 

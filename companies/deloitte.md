@@ -1,6 +1,6 @@
 # Deloitte
 
-**75 questions** · 21 drives · latest 20 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**75 questions** · 21 drives · latest 22 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 22 · [OA Format](../topics/oa-format.md) 14 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [SQL](../topics/sql.md) 6 · +14 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, IIT Ropar +4 more
@@ -137,7 +137,7 @@ Write a SQL query for the highest salary.
 
 Technical interview (on-campus) covers OOPs, SQL (joins, salary queries), CS fundamentals (OS, DBMS), project discussion, and behavioral/situation-based questions. One experience also had Python-specific questions (args vs kwargs), REST API, Agile and SDLC since the resume was AI/ML based.
 
-<sub>Topics: OOP, SQL, OS/DBMS/CN MCQ · Source: [chat, 12 Nov](../archive/deloitte-oa/2026-11.jsonl#L113) · Also asked at: Unknown ×2 (last 2026-11-20)</sub>
+<sub>Topics: OOP, SQL, OS/DBMS/CN MCQ · Source: [chat, 12 Nov](../archive/deloitte-oa/2026-11.jsonl#L113) · Also asked at: Unknown ×3 (last 2026-11-22)</sub>
 
 ## 2026-11-10 · VNIT Nagpur · FTE · Other round
 

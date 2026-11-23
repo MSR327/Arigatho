@@ -1,13 +1,15 @@
 # Kotak Mahindra Bank
 
-**7 questions** · 6 drives · latest 13 Nov 2026 · [← all companies](../README.md#companies)
+**8 questions** · 7 drives · latest 22 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [SQL](../topics/sql.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [SQL](../topics/sql.md) 1 · [Arrays](../topics/arrays.md) 1 · [Hashing](../topics/hashing.md) 1 · [Math](../topics/math.md) 1  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Kurukshetra, NIT Patna, VNIT
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-22 · IIT BHU · FTE](#2026-11-22--iit-bhu--fte)
+  - [Longest subarray with sum divisible by k](#q1-longest-subarray-with-sum-divisible-by-k)
 - [2026-11-13 · VNIT · FTE · Data Science](#2026-11-13--vnit--fte--data-science)
   - [Kotak DS OA pattern](#q1-kotak-ds-oa-pattern)
 - [2026-11-12 · MNNIT Allahabad · FTE · Data Scientist – Analytics, AI/ML & GenAI](#2026-11-12--mnnit-allahabad--fte--data-scientist--analytics-aiml--genai)
@@ -25,6 +27,39 @@
 </details>
 
 ---
+
+## 2026-11-22 · IIT BHU · FTE
+
+### Q1. Longest subarray with sum divisible by k
+
+Given an array `arr[]` and a positive integer `k`, find the length of the longest subarray whose sum is divisible by `k`.
+
+Note: If there is no subarray with sum divisible by k, then return 0.
+
+Examples:
+
+```
+Input: arr[] = [2, 7, 6, 1, 4, 5], k = 3
+Output: 4
+Explanation: The subarray [7, 6, 1, 4] has sum = 18, which is divisible by 3.
+```
+```
+Input: arr[] = [-2, 2, -5, 12, -11, -1, 7], k = 3
+Output: 5
+Explanation: The subarray [2, -5, 12, -11, -1] has sum = -3, which is divisible by 3.
+```
+```
+Input: arr[] = [1, 2, -2], k = 2
+Output: 2
+Explanation: The subarray is [2, -2] has sum = 0, which is divisible by 2.
+```
+
+Constraints:
+
+- 1 ≤ arr.size(), k ≤ 10^5
+- -10^5 ≤ arr[i] ≤ 10^5
+
+<sub>Topics: Arrays, Hashing, Math · Same idea: [LeetCode 974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) (Medium), prefix sum modulo k with hashmap of remainders · Source: [chat, 22 Nov](../archive/inter-iit/2026-11.jsonl#L1215)</sub>
 
 ## 2026-11-13 · VNIT · FTE · Data Science
 

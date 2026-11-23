@@ -1,13 +1,17 @@
 # Futures First
 
-**40 questions** · 11 drives · latest 21 Nov 2026 · [← all companies](../README.md#companies)
+**42 questions** · 13 drives · latest 22 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 37 · [Math](../topics/math.md) 7 · [OA Format](../topics/oa-format.md) 6 · [Puzzles](../topics/puzzles.md) 4  
-**Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Madras, IIT Mandi, IIT Roorkee, MNNIT Allahabad +1 more
+**Asks about:** [Aptitude](../topics/aptitude.md) 38 · [OA Format](../topics/oa-format.md) 8 · [Math](../topics/math.md) 7 · [Puzzles](../topics/puzzles.md) 4  
+**Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Madras, IIT Mandi +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-22 · IIT Bombay · FTE](#2026-11-22--iit-bombay--fte)
+  - [Futures First OA format](#q1-futures-first-oa-format)
+- [2026-11-22 · BITS Pilani · FTE](#2026-11-22--bits-pilani--fte)
+  - [Futures First OA pattern](#q1-futures-first-oa-pattern)
 - [2026-11-21 · NIT Surathkal · FTE · Interview](#2026-11-21--nit-surathkal--fte--interview)
   - [Futures First group round pattern](#q1-futures-first-group-round-pattern)
 - [2026-11-14 · Unknown · FTE](#2026-11-14--unknown--fte)
@@ -64,6 +68,24 @@
 
 ---
 
+## 2026-11-22 · IIT Bombay · FTE
+
+### Q1. Futures First OA format
+
+15 MCQs, all aptitude, and 3 coding questions: 1 debugging type and 2 normal DSA. Difficulty easy to medium. Total time: 1 hour 30 minutes.
+
+Individual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 22 Nov](../archive/futures-first-oa/2026-11.jsonl#L60)</sub>
+
+## 2026-11-22 · BITS Pilani · FTE
+
+### Q1. Futures First OA pattern
+
+Lots of MCQs in very little time, with going back to previous questions not allowed. Mostly calculation-heavy: basic maths, some aptitude etc.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 22 Nov](../archive/inter-iit/2026-11.jsonl#L1212), [chat, 22 Nov](../archive/inter-iit/2026-11.jsonl#L1213)</sub>
+
 ## 2026-11-21 · NIT Surathkal · FTE · Interview
 
 ### Q1. Futures First group round pattern
@@ -87,7 +109,7 @@ One 2026 experience reports scoring of +1/-1 initially, increasing up to +4/-4 a
 
 OA has aptitude + speed maths (quant, mental maths, percentages, ratios, DI, logical reasoning). One experience mentions 16 questions split into 4 sections with game-style scoring (+1/-1, +2/-2 and so on). Interview round had puzzles and projects.
 
-<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L31)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L31) · Also asked at: Unknown (2026-11-22)</sub>
 
 ## 2026-11-13 · IIT Delhi · FTE
 

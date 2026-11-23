@@ -1,9 +1,11 @@
 # Arrays
 
-282 questions from 74 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+284 questions from 76 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-23 | [Epsilon](../companies/epsilon.md) | Unknown | [Epsilon in-person interview: coding round](../companies/epsilon.md#q1-epsilon-in-person-interview-coding-round) | |
+| 2026-11-22 | [Kotak Mahindra Bank](../companies/kotak-mahindra-bank.md) | IIT BHU | [Longest subarray with sum divisible by k](../companies/kotak-mahindra-bank.md#q1-longest-subarray-with-sum-divisible-by-k) | ≈ [LC 974](https://leetcode.com/problems/subarray-sums-divisible-by-k/) Medium |
 | 2026-11-20 | [Cognizant](../companies/cognizant.md) | Unknown | [Second largest in array](../companies/cognizant.md#q2-second-largest-in-array) | |
 | 2026-11-20 | [Cognizant](../companies/cognizant.md) | Unknown | [Merge common elements from 2 arrays](../companies/cognizant.md#q1-merge-common-elements-from-2-arrays) | [LC 349](https://leetcode.com/problems/intersection-of-two-arrays/) Easy |
 | 2026-11-20 | [Axtria](../companies/axtria.md) | Unknown | [Highest partition score under a block cost ceiling](../companies/axtria.md#q1-highest-partition-score-under-a-block-cost-ceiling) | ≈ [LC 410](https://leetcode.com/problems/split-array-largest-sum/) Hard |

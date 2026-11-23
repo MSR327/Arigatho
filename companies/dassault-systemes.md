@@ -1,6 +1,6 @@
 # Dassault Systemes
 
-**1 question** · 1 drive · latest 19 Nov 2026 · [← all companies](../README.md#companies)
+**1 question** · 1 drive · latest 23 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 1  
 
@@ -20,4 +20,4 @@
 
 OAHelper has 49 collected questions: 44 MCQ and 5 coding. Recent ones include coding (pair sum, divisible numbers) plus MCQ.
 
-<sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/inter-nit/2026-11.jsonl#L2139)</sub>
+<sub>Topics: OA Format · Source: [chat, 19 Nov](../archive/inter-nit/2026-11.jsonl#L2139) · Also asked at: Unknown (2026-11-23)</sub>

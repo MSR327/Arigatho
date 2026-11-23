@@ -1,6 +1,6 @@
 # Deutsche Bank
 
-**20 questions** · 11 drives · latest 19 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**20 questions** · 11 drives · latest 23 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Arrays](../topics/arrays.md) 6 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [OA Format](../topics/oa-format.md) 4 · [Strings](../topics/strings.md) 3 · [Greedy](../topics/greedy.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · +5 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur
@@ -172,7 +172,7 @@ A "frog jump 2" type question. Exact statement not given.
 
 Deutsche Bank OA (IIT Kharagpur) had 3 DSA questions: 1 tough and 2 easy-to-medium.
 
-<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508) · Also asked at: IIT Guwahati ×3 (last 2026-10-31), Unknown ×2 (last 2026-10-31), IIT BHU ×2 (last 2026-11-15)</sub>
+<sub>Topics: OA Format · Source: [chat, 16 Oct](../archive/inter-iit/2026-10.jsonl#L508) · Also asked at: IIT Guwahati ×3 (last 2026-10-31), Unknown ×2 (last 2026-10-31), IIT BHU ×4 (last 2026-11-23)</sub>
 
 ## 2026-10-16 · IIT Kanpur · FTE
 
@@ -186,7 +186,7 @@ Given a tree, run a DFS on it to compute a result and bring the result up. (Post
 
 A standard BFS problem on a graph. (Poster did not remember the exact statement.)
 
-<sub>Topics: Graphs · Source: [chat, 16 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L106)</sub>
+<sub>Topics: Graphs · Source: [chat, 16 Oct](../archive/campus-iit-kanpur-placements/2026-10.jsonl#L106) · Also asked at: IIT BHU (2026-11-23)</sub>
 
 ### Q3. Single pass over a string checking a condition
 

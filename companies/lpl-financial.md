@@ -1,13 +1,15 @@
 # LPL Financial
 
-**2 questions** · 2 drives · latest 15 Nov 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 22 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Software Engineering](../topics/software-engineering.md) 1  
-**Seen at:** IIT Gandhinagar, VNIT Nagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Software Engineering](../topics/software-engineering.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1  
+**Seen at:** IIT Gandhinagar, IIT Hyderabad, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-22 · IIT Hyderabad · FTE · Interview](#2026-11-22--iit-hyderabad--fte--interview)
+  - [LPL Financial GCC interview topics](#q1-lpl-financial-gcc-interview-topics)
 - [2026-11-15 · VNIT Nagpur · FTE](#2026-11-15--vnit-nagpur--fte)
   - [LPL Financial GCC OA pattern](#q1-lpl-financial-gcc-oa-pattern)
 - [2026-11-15 · IIT Gandhinagar · FTE · Interview](#2026-11-15--iit-gandhinagar--fte--interview)
@@ -16,6 +18,14 @@
 </details>
 
 ---
+
+## 2026-11-22 · IIT Hyderabad · FTE · Interview
+
+### Q1. LPL Financial GCC interview topics
+
+The GCC interview covered DSA and CS fundamentals.
+
+<sub>Topics: OA Format, OS/DBMS/CN MCQ · Source: [chat, 22 Nov](../archive/inter-nit/2026-11.jsonl#L2302)</sub>
 
 ## 2026-11-15 · VNIT Nagpur · FTE
 

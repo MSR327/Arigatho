@@ -127,6 +127,7 @@ For each OA coding question, the nearest problem on a practice site (LeetCode, G
 | [LeetCode 54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Capgemini](companies/capgemini.md#q3-spiral-matrix-traversal) (IIT Delhi), [Capital One](companies/capital-one.md#q4-spiral-matrix) (MNNIT Allahabad) | 2 |
 | [LeetCode 546. Remove Boxes](https://leetcode.com/problems/remove-boxes/) | Hard | [Meltwater](companies/meltwater.md#q1-remove-boxes-leetcode-546) (VIT Vellore), [PeopleStrong](companies/peoplestrong.md#q2-remove-boxes) (IIT Guwahati) | 2 |
 | [LeetCode 740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | Medium | [Microsoft](companies/microsoft.md#q2-maximum-processor-power) (IIT Madras) | 2 |
+| [LeetCode 741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | Hard | [Tech Mahindra](companies/tech-mahindra.md#q2-cherry-pickup-leetcode-741) (IIT Delhi), [Nutanix](companies/nutanix.md#q1-cherry-picker-problem) (IIT Kharagpur) | 2 |
 | [LeetCode 743. Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium | [Pluswealth](companies/pluswealth.md#q5-dijkstras-shortest-path) (Unknown) | 2 |
 | [LeetCode 84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | [Flipkart](companies/flipkart.md#q3-largest-rectangle-in-a-histogram) (IIT Madras), [Capital One](companies/capital-one.md#q10-largest-rectangle-in-histogram) (MNNIT Allahabad) | 2 |
 | [LeetCode 849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | Medium | [Flipkart](companies/flipkart.md#q2-max-distance-from-non-celebrating-house-to-celebrating-house) (IIT BHU) | 2 |
@@ -158,6 +159,7 @@ For each OA coding question, the nearest problem on a practice site (LeetCode, G
 | [LeetCode 115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard | [Eternal (Zomato)](companies/eternal-zomato.md#q2-count-subsequences-of-a-length-3-string) (IIT Delhi) | 1 |
 | [LeetCode 1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | [Texas Instruments](companies/texas-instruments.md#q1-level-with-biggest-odd-sum-in-balanced-binary-tree) (Unknown) | 1 |
 | [LeetCode 1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | Medium | [IBM](companies/ibm.md#q1-minimum-cost-to-merge-array-into-one-element) (IIT Kharagpur/Kanpur) | 1 |
+| [LeetCode 1197. Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | Medium | [KLA](companies/kla.md#q3-kla-round-3-project-discussion-knight-moves-bfs-oops) (IIT Madras) | 1 |
 | [LeetCode 1223. Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | Hard | [Goldman Sachs](companies/goldman-sachs.md#q2-dice-roll-simulation) (IIT Kharagpur) | 1 |
 | [LeetCode 1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | [BNY](companies/bny.md#q1-maximize-call-volume-with-non-overlapping-calls) (IIT BHU) | 1 |
 | [LeetCode 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Paytm](companies/paytm.md#q11-palindrome-check) (Unknown) | 1 |
@@ -234,7 +236,6 @@ For each OA coding question, the nearest problem on a practice site (LeetCode, G
 | [LeetCode 706. Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [Adobe](companies/adobe.md#q6-implement-a-hashmap) (Unknown) | 1 |
 | [LeetCode 71. Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Capital One](companies/capital-one.md#q12-simplify-path) (MNNIT Allahabad) | 1 |
 | [LeetCode 723. Candy Crush](https://leetcode.com/problems/candy-crush/) | Medium | [Capital One](companies/capital-one.md#q9-candy-crush) (MNNIT Allahabad) | 1 |
-| [LeetCode 741. Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | Hard | [Tech Mahindra](companies/tech-mahindra.md#q2-cherry-pickup-leetcode-741) (IIT Delhi) | 1 |
 | [LeetCode 752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | [Cars24](companies/cars24.md#q3-open-the-lock) (Unknown) | 1 |
 | [LeetCode 778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [Commotion](companies/commotion.md#q1-cooling-the-foundry-floor) (IIT Madras) | 1 |
 | [LeetCode 802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [PhyAgent](companies/phyagent.md#q1-safe-state-graph-problem) (IIT Madras) | 1 |
@@ -451,6 +452,7 @@ For each OA coding question, the nearest problem on a practice site (LeetCode, G
 | [LeetCode 881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | [Deutsche Bank](companies/deutsche-bank.md#q2-minimum-cars-to-remove-for-bridge-crossing) (IIT Guwahati) | 1 |
 | [LeetCode 94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Navi](companies/navi.md#q2-inorder-traversal-of-nodes-with-at-least-one-child-from-level-order) (IIT Guwahati) | 1 |
 | [LeetCode 957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | Medium | [NatWest](companies/natwest.md#q2-binary-array-xor-of-neighbours-after-k-operations) (IIT BHU) | 1 |
+| [LeetCode 974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | [Kotak Mahindra Bank](companies/kotak-mahindra-bank.md#q1-longest-subarray-with-sum-divisible-by-k) (IIT BHU) | 1 |
 | [LeetCode 98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Cisco](companies/cisco.md#q1-sde-interview-bst-validation-traversals-and-project-feature) (Unknown) | 1 |
 | [LeetCode 981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | [Accenture](companies/accenture.md#q3-round-2-key-value-store) (NIT Kurukshetra) | 1 |
 | [LeetCode 991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | Medium | [ThoughtSpot](companies/thoughtspot.md#q3-minimum-operations-to-make-x-equal-to-y) (IIT Roorkee) | 1 |

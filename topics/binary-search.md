@@ -1,9 +1,10 @@
 # Binary Search
 
-59 questions from 34 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+60 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 2: binary search on answer and 1D DP](../companies/kla.md#q2-kla-round-2-binary-search-on-answer-and-1d-dp) | |
 | 2026-11-22 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Last day where you can still cross](../companies/cars24.md#q1-last-day-where-you-can-still-cross) | [LC 1970](https://leetcode.com/problems/last-day-where-you-can-still-cross/) Hard |
 | 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Minimize longest run after flipping](../companies/eternal-zomato.md#q2-minimize-longest-run-after-flipping) | |
 | 2026-11-15 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [Nearest city sharing x or y coordinate](../companies/goldman-sachs.md#q2-nearest-city-sharing-x-or-y-coordinate) | [LC 1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) Easy |

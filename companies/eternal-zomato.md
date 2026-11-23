@@ -1,13 +1,15 @@
 # Eternal (Zomato)
 
-**204 questions** · 105 drives · latest 21 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**205 questions** · 106 drives · latest 22 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 77 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 78 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
 **Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +16 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-22 · IIT Hyderabad · FTE · Interview](#2026-11-22--iit-hyderabad--fte--interview)
+  - [Eternal interview focus](#q1-eternal-interview-focus)
 - [2026-11-21 · IIT Guwahati · FTE · SDE · Interview](#2026-11-21--iit-guwahati--fte--sde--interview)
   - [Zomato SDE interview process](#q1-zomato-sde-interview-process)
 - [2026-11-20 · Unknown · FTE · SDE · Interview](#2026-11-20--unknown--fte--sde--interview)
@@ -321,6 +323,14 @@
 </details>
 
 ---
+
+## 2026-11-22 · IIT Hyderabad · FTE · Interview
+
+### Q1. Eternal interview focus
+
+Interview asked hard DSA questions and puzzles. No specific questions given.
+
+<sub>Topics: OA Format · Source: [chat, 22 Nov](../archive/inter-nit/2026-11.jsonl#L2327)</sub>
 
 ## 2026-11-21 · IIT Guwahati · FTE · SDE · Interview
 

@@ -1,6 +1,6 @@
 # Qualcomm
 
-**7 questions** · 7 drives · latest 20 Nov 2026 · [← all companies](../README.md#companies)
+**7 questions** · 7 drives · latest 22 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 7 · [ML/AI](../topics/ml-ai.md) 1  
 **Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal +1 more
@@ -33,7 +33,7 @@
 
 Candidates chose one of three tracks: ML, Digital, or Communication. The rest of the test was aptitude, plus a section based on the chosen track. The ML section asked basic ML and some DL/RL.
 
-<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2219)</sub>
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2219) · Also asked at: Unknown (2026-11-22)</sub>
 
 ## 2026-11-09 · IIT Kharagpur/Kanpur · FTE · Software
 

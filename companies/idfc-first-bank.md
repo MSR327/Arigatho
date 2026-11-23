@@ -1,13 +1,15 @@
 # IDFC First Bank
 
-**15 questions** · 12 drives · latest 20 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**16 questions** · 13 drives · latest 22 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-22 · IIT Hyderabad · FTE · Associate Data Scientist - AI Labs](#2026-11-22--iit-hyderabad--fte--associate-data-scientist---ai-labs)
+  - [IDFC Associate Data Scientist test sections](#q1-idfc-associate-data-scientist-test-sections)
 - [2026-11-19 · Unknown · FTE](#2026-11-19--unknown--fte)
   - [IDFC First Bank coding test pattern](#q1-idfc-first-bank-coding-test-pattern)
 - [2026-11-19 · Unknown · FTE · Associate Data Scientist / Associate Data Analyst](#2026-11-19--unknown--fte--associate-data-scientist--associate-data-analyst)
@@ -39,6 +41,16 @@
 </details>
 
 ---
+
+## 2026-11-22 · IIT Hyderabad · FTE · Associate Data Scientist - AI Labs
+
+### Q1. IDFC Associate Data Scientist test sections
+
+The test had these sections: Quant Aptitude, Logical Reasoning and English, followed by a Psychometric section.
+
+Individual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 22 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L84)</sub>
 
 ## 2026-11-19 · Unknown · FTE
 

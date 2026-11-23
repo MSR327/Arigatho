@@ -1,9 +1,10 @@
 # Graphs
 
-164 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+165 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 3: project discussion, knight moves BFS, OOPs](../companies/kla.md#q3-kla-round-3-project-discussion-knight-moves-bfs-oops) | [LC 1197](https://leetcode.com/problems/minimum-knight-moves/) Medium |
 | 2026-11-22 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Last day where you can still cross](../companies/cars24.md#q1-last-day-where-you-can-still-cross) | [LC 1970](https://leetcode.com/problems/last-day-where-you-can-still-cross/) Hard |
 | 2026-11-21 | [Juspay](../companies/juspay.md) | IIT Roorkee | [Employee Removal Order](../companies/juspay.md#q1-employee-removal-order) | ≈ [LC 210](https://leetcode.com/problems/course-schedule-ii/) Medium |
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Number of Provinces](../companies/idfc-first-bank.md#q3-number-of-provinces) | [LC 547](https://leetcode.com/problems/number-of-provinces/) Medium |
