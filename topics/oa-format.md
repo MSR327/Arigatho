@@ -1,9 +1,12 @@
 # OA Format
 
-886 questions from 164 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+889 questions from 164 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-22 | [Purplle](../companies/purplle.md) | IIT Kharagpur | [Purplle OA format](../companies/purplle.md#q1-purplle-oa-format) | |
+| 2026-11-22 | [Unknown](../companies/unknown.md) | IIT Guwahati | [Future First OA format](../companies/unknown.md#q1-future-first-oa-format) | |
+| 2026-11-22 | [Unknown](../companies/unknown.md) | IIT Kharagpur/Kanpur | [Jefferies OA format](../companies/unknown.md#q1-jefferies-oa-format) | |
 | 2026-11-22 | [LTM](../companies/ltm.md) | IIT Guwahati | [LTM OA format: behaviour, speaking, coding, essay, rating](../companies/ltm.md#q1-ltm-oa-format-behaviour-speaking-coding-essay-rating) | |
 | 2026-11-21 | [Capgemini](../companies/capgemini.md) | IIT Hyderabad | [Capgemini technical assessment pattern](../companies/capgemini.md#q1-capgemini-technical-assessment-pattern) | |
 | 2026-11-21 | [Stripe](../companies/stripe.md) | Unknown | [Stripe SDE OA and interview pattern](../companies/stripe.md#q1-stripe-sde-oa-and-interview-pattern) | |

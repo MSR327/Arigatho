@@ -1,6 +1,6 @@
 # InfoEdge
 
-**39 questions** · 11 drives · latest 17 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**39 questions** · 11 drives · latest 22 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Strings](../topics/strings.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · +11 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Kurukshetra +2 more
@@ -213,7 +213,7 @@ Total time 1 hour. 40 MCQs divided into 4 sections of 10 questions each; candida
 
 InfoEdge OA was MCQ only: 40 MCQs on statistics, machine learning and deep learning core concepts. Difficulty easy to medium. Some basic questions on AI agents were also asked.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L766), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L767), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L772), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L774) · Also asked at: IIT BHU (2026-10-22), IIT Hyderabad (2026-10-25), IIT Guwahati ×3 (last 2026-11-02)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L766), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L767), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L772), [chat, 22 Oct](../archive/inter-iit/2026-10.jsonl#L774) · Also asked at: IIT BHU (2026-10-22), IIT Guwahati ×3 (last 2026-11-02), IIT Hyderabad ×2 (last 2026-11-22), Unknown (2026-11-22)</sub>
 
 ## 2026-10-05 · IIT Guwahati · FTE
 

@@ -1,13 +1,17 @@
 # Unknown
 
-**57 questions** · 40 drives · latest 20 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**59 questions** · 42 drives · latest 22 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 27 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · +17 more  
-**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur +9 more
+**Asks about:** [OA Format](../topics/oa-format.md) 29 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · +17 more  
+**Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur +10 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-22 · IIT Kharagpur/Kanpur · FTE](#2026-11-22--iit-kharagpurkanpur--fte)
+  - [Jefferies OA format](#q1-jefferies-oa-format)
+- [2026-11-22 · IIT Guwahati · FTE · Trainee International Market](#2026-11-22--iit-guwahati--fte--trainee-international-market)
+  - [Future First OA format](#q1-future-first-oa-format)
 - [2026-11-20 · MNNIT Allahabad · FTE](#2026-11-20--mnnit-allahabad--fte)
   - [Tescra OA pattern](#q1-tescra-oa-pattern)
 - [2026-11-20 · IIT BHU · FTE](#2026-11-20--iit-bhu--fte)
@@ -109,6 +113,24 @@
 </details>
 
 ---
+
+## 2026-11-22 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Jefferies OA format
+
+15 MCQs, all aptitude. 3 coding questions: 1 debugging type and 2 normal DSA, difficulty easy and medium. Total time: 1h 30 mins.
+
+The actual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 22 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L695)</sub>
+
+## 2026-11-22 · IIT Guwahati · FTE · Trainee International Market
+
+### Q1. Future First OA format
+
+Role: trainee international market. The test was all MCQs, 100+ questions in 35 minutes. Individual questions were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 22 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L597)</sub>
 
 ## 2026-11-20 · MNNIT Allahabad · FTE
 

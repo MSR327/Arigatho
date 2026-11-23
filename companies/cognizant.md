@@ -3,7 +3,7 @@
 **77 questions** · 29 drives · latest 22 Nov 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 21 · [Arrays](../topics/arrays.md) 13 · [Greedy](../topics/greedy.md) 10 · [DP](../topics/dp.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [Hashing](../topics/hashing.md) 7 · [Math](../topics/math.md) 6 · +16 more  
-**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +7 more
+**Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +8 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -135,7 +135,7 @@ The exact scenario was not shared.
 
 Merge common elements from 2 arrays, coded in Java. Exact statement not given.
 
-<sub>Topics: Arrays · Close variant: [LeetCode 349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) (Easy), common elements of two arrays via set · Source: [chat, 20 Nov](../archive/cognizant-oa/2026-11.jsonl#L134)</sub>
+<sub>Topics: Arrays · Close variant: [LeetCode 349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) (Easy), common elements of two arrays via set · Source: [chat, 20 Nov](../archive/cognizant-oa/2026-11.jsonl#L134) · Also asked at: IIT Patna (2026-11-22)</sub>
 
 ### Q2. Second largest in array
 
