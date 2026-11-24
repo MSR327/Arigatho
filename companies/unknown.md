@@ -1,13 +1,15 @@
 # Unknown
 
-**59 questions** · 42 drives · latest 22 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**60 questions** · 43 drives · latest 24 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 29 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · +17 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 30 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · +17 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur +10 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · IIT Hyderabad · FTE](#2026-11-24--iit-hyderabad--fte)
+  - [Evernorth OA pattern](#q1-evernorth-oa-pattern)
 - [2026-11-22 · IIT Kharagpur/Kanpur · FTE](#2026-11-22--iit-kharagpurkanpur--fte)
   - [Jefferies OA format](#q1-jefferies-oa-format)
 - [2026-11-22 · IIT Guwahati · FTE · Trainee International Market](#2026-11-22--iit-guwahati--fte--trainee-international-market)
@@ -113,6 +115,14 @@
 </details>
 
 ---
+
+## 2026-11-24 · IIT Hyderabad · FTE
+
+### Q1. Evernorth OA pattern
+
+Reply about the Evernorth OA pattern: all questions are MCQs.
+
+<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/campus-nit-raipur-placements/2026-11.jsonl#L48)</sub>
 
 ## 2026-11-22 · IIT Kharagpur/Kanpur · FTE
 

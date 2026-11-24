@@ -1,13 +1,15 @@
 # Paytm
 
-**26 questions** · 10 drives · latest 22 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**27 questions** · 11 drives · latest 23 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Strings](../topics/strings.md) 4 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · +11 more  
-**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU, IIT Hyderabad, IIT Indore, MNNIT Allahabad
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Strings](../topics/strings.md) 4 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · +11 more  
+**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-23 · IIT Kharagpur/Kanpur · FTE](#2026-11-23--iit-kharagpurkanpur--fte)
+  - [Paytm OA format](#q1-paytm-oa-format)
 - [2026-11-20 · IIT Indore · FTE · SDE · Interview](#2026-11-20--iit-indore--fte--sde--interview)
   - [Paytm SDE interview structure](#q1-paytm-sde-interview-structure)
 - [2026-11-14 · IIT Indore · FTE · Product Analyst · Other round](#2026-11-14--iit-indore--fte--product-analyst--other-round)
@@ -48,6 +50,14 @@
 </details>
 
 ---
+
+## 2026-11-23 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Paytm OA format
+
+The test had both coding questions and MCQs. The SQL part was very tough and few people solved it. The poster said the questions were exactly the same as those on oahelper.
+
+<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/paytm-oa/2026-11.jsonl#L40), [chat, 23 Nov](../archive/paytm-oa/2026-11.jsonl#L42)</sub>
 
 ## 2026-11-20 · IIT Indore · FTE · SDE · Interview
 

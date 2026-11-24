@@ -1,9 +1,10 @@
 # Aptitude
 
-264 questions from 36 companys, newest first. [← all topics](../README.md#topics)
+265 questions from 36 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-23 | [ICICI](../companies/icici.md) | IIT BHU | [ICICI Manager OA format](../companies/icici.md#q1-icici-manager-oa-format) |
 | 2026-11-22 | [Purplle](../companies/purplle.md) | IIT Kharagpur | [Purplle OA format](../companies/purplle.md#q1-purplle-oa-format) |
 | 2026-11-22 | [Futures First](../companies/futures-first.md) | BITS Pilani | [Futures First OA pattern](../companies/futures-first.md#q1-futures-first-oa-pattern) |
 | 2026-11-21 | [Futures First](../companies/futures-first.md) | NIT Surathkal | [Futures First group round pattern](../companies/futures-first.md#q1-futures-first-group-round-pattern) |

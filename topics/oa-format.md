@@ -1,9 +1,22 @@
 # OA Format
 
-896 questions from 166 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+909 questions from 167 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-24 | [LG Ads (Alphonso)](../companies/lg-ads-alphonso.md) | Unknown | [LG Ads OA format](../companies/lg-ads-alphonso.md#q1-lg-ads-oa-format) | |
+| 2026-11-24 | [Unknown](../companies/unknown.md) | IIT Hyderabad | [Evernorth OA pattern](../companies/unknown.md#q1-evernorth-oa-pattern) | |
+| 2026-11-23 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format) | |
+| 2026-11-23 | [HP](../companies/hp.md) | IIT Guwahati | [HP OA 2 format: AI-assisted coding](../companies/hp.md#q1-hp-oa-2-format-ai-assisted-coding) | |
+| 2026-11-23 | [Perceptive Analytics](../companies/perceptive-analytics.md) | IIT Dhanbad | [Perceptive Analytics analyst dataset task](../companies/perceptive-analytics.md#q1-perceptive-analytics-analyst-dataset-task) | |
+| 2026-11-23 | [Point72](../companies/point72.md) | Unknown | [Point72 interview rounds](../companies/point72.md#q1-point72-interview-rounds) | |
+| 2026-11-23 | [Paytm](../companies/paytm.md) | IIT Kharagpur/Kanpur | [Paytm OA format](../companies/paytm.md#q1-paytm-oa-format) | |
+| 2026-11-23 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI OA topics: OOPs and computer networks](../companies/icici.md#q1-icici-oa-topics-oops-and-computer-networks) | |
+| 2026-11-23 | [Moneyview](../companies/moneyview.md) | IIT Kharagpur | [Moneyview OA format](../companies/moneyview.md#q1-moneyview-oa-format) | |
+| 2026-11-23 | [ICICI](../companies/icici.md) | IIT BHU | [ICICI Manager OA format](../companies/icici.md#q1-icici-manager-oa-format) | |
+| 2026-11-23 | [Auxo AI](../companies/auxo-ai.md) | IIT Roorkee | [Auxo AI OA pattern](../companies/auxo-ai.md#q1-auxo-ai-oa-pattern) | |
+| 2026-11-23 | [Tredence](../companies/tredence.md) | IIT Madras | [Interview rounds overview](../companies/tredence.md#q1-interview-rounds-overview) | |
+| 2026-11-23 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kharagpur/Kanpur | [Deutsche Bank Global Strategic Analytics OA format](../companies/deutsche-bank.md#q1-deutsche-bank-global-strategic-analytics-oa-format) | |
 | 2026-11-23 | [Jefferies](../companies/jefferies.md) | IIT Madras | [Jefferies OA pattern](../companies/jefferies.md#q1-jefferies-oa-pattern) | |
 | 2026-11-23 | [Epsilon](../companies/epsilon.md) | Unknown | [Epsilon in-person interview: coding round](../companies/epsilon.md#q1-epsilon-in-person-interview-coding-round) | |
 | 2026-11-22 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Hyderabad | [Eternal interview focus](../companies/eternal-zomato.md#q1-eternal-interview-focus) | |
@@ -398,7 +411,7 @@
 | 2026-11-03 | [Outreach](../companies/outreach.md) | IIT Bombay | [Outreach AI OA pattern](../companies/outreach.md#q1-outreach-ai-oa-pattern) | |
 | 2026-11-03 | [EXL](../companies/exl.md) | IIT BHU | [EXL Consultant OA format](../companies/exl.md#q1-exl-consultant-oa-format) | |
 | 2026-11-03 | [HP](../companies/hp.md) | IIT Gandhinagar | [HP Inc GenAI OA rounds and topics](../companies/hp.md#q1-hp-inc-genai-oa-rounds-and-topics) | |
-| 2026-11-03 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format) | |
+| 2026-11-03 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format-1) | |
 | 2026-11-03 | [Aurora Energy Research](../companies/aurora-energy-research.md) | IIT Roorkee | [Aurora OA format: timed game-based aptitude](../companies/aurora-energy-research.md#q1-aurora-oa-format-timed-game-based-aptitude) | |
 | 2026-11-03 | [Unknown](../companies/unknown.md) | VNIT Nagpur | [CSE track OA pattern](../companies/unknown.md#q1-cse-track-oa-pattern) | |
 | 2026-11-03 | [Navi](../companies/navi.md) | IIT Guwahati | [Navi SDE OA pattern](../companies/navi.md#q1-navi-sde-oa-pattern) | |
@@ -656,7 +669,7 @@
 | 2026-10-24 | [NK Securities](../companies/nk-securities.md) | IIT BHU | [NK Securities OA: tree DP, React and Python RAG](../companies/nk-securities.md#q1-nk-securities-oa-tree-dp-react-and-python-rag) | |
 | 2026-10-24 | [Accenture](../companies/accenture.md) | IIT BHU | [Accenture OA format at BHU](../companies/accenture.md#q4-accenture-oa-format-at-bhu) | |
 | 2026-10-24 | [IBM](../companies/ibm.md) | IIT Kharagpur/Kanpur | [IBM SWE OA format (HackerRank)](../companies/ibm.md#q3-ibm-swe-oa-format-hackerrank) | |
-| 2026-10-24 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format-1) | |
+| 2026-10-24 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format-2) | |
 | 2026-10-24 | [Visa](../companies/visa.md) | MNNIT Allahabad | [Visa online test pattern](../companies/visa.md#q1-visa-online-test-pattern) | |
 | 2026-10-24 | [Eternal (Zomato)](../companies/eternal-zomato.md) | VNIT Nagpur | [Eternal/Zomato product analyst OA format](../companies/eternal-zomato.md#q1-eternalzomato-product-analyst-oa-format) | |
 | 2026-10-24 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal SDE OA format](../companies/eternal-zomato.md#q1-eternal-sde-oa-format) | |
@@ -858,13 +871,13 @@
 | 2026-09-29 | [Squarepoint](../companies/squarepoint.md) | IIT BHU | [DQA role OA format](../companies/squarepoint.md#q1-dqa-role-oa-format) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [OA pattern: 15 MCQs on OS, DBMS, SQL, CN, Docker](../companies/eternal-zomato.md#q1-oa-pattern-15-mcqs-on-os-dbms-sql-cn-docker) | |
 | 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [OA format: PA role OA](../companies/eternal-zomato.md#q1-oa-format-pa-role-oa) | |
-| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format-2) | |
+| 2026-09-29 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format-3) | |
 | 2026-09-28 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Bombay | [Eternal SDE OA format (IIT Jodhpur)](../companies/eternal-zomato.md#q1-eternal-sde-oa-format-iit-jodhpur) | |
 | 2026-09-27 | [Accenture](../companies/accenture.md) | IIT BHU | [Accenture ATE hiring process and communication round format](../companies/accenture.md#q4-accenture-ate-hiring-process-and-communication-round-format) | |
 | 2026-09-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [SDE OA description: easy, Striver-sheet style](../companies/eternal-zomato.md#q1-sde-oa-description-easy-striver-sheet-style) | [LC 735](https://leetcode.com/problems/asteroid-collision/) Medium |
 | 2026-09-26 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Elite Technology Engineer OA structure (60 min, DSA + SQL + Web)](../companies/accenture.md#q1-elite-technology-engineer-oa-structure-60-min-dsa--sql--web) | |
 | 2026-09-26 | [Squarepoint](../companies/squarepoint.md) | IIT Kanpur | [OA format: Infra role](../companies/squarepoint.md#q1-oa-format-infra-role) | |
-| 2026-09-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format-3) | |
+| 2026-09-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format-4) | |
 | 2026-09-25 | [Blinkit](../companies/blinkit.md) | NIT Trichy | [Excel data analysis: AOV, CVR, GMV, CAC](../companies/blinkit.md#q1-excel-data-analysis-aov-cvr-gmv-cac) | |
 | 2026-09-25 | [Accenture](../companies/accenture.md) | IIT Madras | [Accenture Elite OA pattern: Gaming, MCQs, Coding](../companies/accenture.md#q1-accenture-elite-oa-pattern-gaming-mcqs-coding) | |
 | 2026-09-25 | [Squarepoint](../companies/squarepoint.md) | IIT BHU | [Squarepoint infrastructure OA content](../companies/squarepoint.md#q1-squarepoint-infrastructure-oa-content) | |

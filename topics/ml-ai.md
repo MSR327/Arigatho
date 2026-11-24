@@ -1,9 +1,12 @@
 # ML/AI
 
-180 questions from 25 companys, newest first. [← all topics](../README.md#topics)
+183 questions from 26 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-23 | [ICICI](../companies/icici.md) | IIT Delhi | [ICICI interview topics](../companies/icici.md#q1-icici-interview-topics) |
+| 2026-11-23 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA DS interview focus and rounds](../companies/commonwealth-bank-of-australia.md#q1-cba-ds-interview-focus-and-rounds) |
+| 2026-11-23 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Project-based text processing and embedding similarity](../companies/cars24.md#q1-project-based-text-processing-and-embedding-similarity) |
 | 2026-11-19 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur | [Cosine similarity](../companies/blackrock.md#q2-cosine-similarity) |
 | 2026-11-19 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur | [Complete a transformer function](../companies/blackrock.md#q1-complete-a-transformer-function) |
 | 2026-11-19 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal ML Scientist OA pattern](../companies/eternal-zomato.md#q1-eternal-ml-scientist-oa-pattern) |

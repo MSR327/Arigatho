@@ -1,13 +1,15 @@
 # Deutsche Bank
 
-**20 questions** · 11 drives · latest 23 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**21 questions** · 12 drives · latest 23 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 6 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [OA Format](../topics/oa-format.md) 4 · [Strings](../topics/strings.md) 3 · [Greedy](../topics/greedy.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · +5 more  
+**Asks about:** [Arrays](../topics/arrays.md) 6 · [OA Format](../topics/oa-format.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Strings](../topics/strings.md) 3 · [Greedy](../topics/greedy.md) 3 · [Two Pointers](../topics/two-pointers.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 2 · +5 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-23 · IIT Kharagpur/Kanpur · FTE · Global Strategic Analytics](#2026-11-23--iit-kharagpurkanpur--fte--global-strategic-analytics)
+  - [Deutsche Bank Global Strategic Analytics OA format](#q1-deutsche-bank-global-strategic-analytics-oa-format)
 - [2026-11-19 · IIT BHU · FTE](#2026-11-19--iit-bhu--fte)
   - [Deutsche Bank OA difficulty](#q1-deutsche-bank-oa-difficulty)
 - [2026-11-15 · IIT BHU · FTE](#2026-11-15--iit-bhu--fte)
@@ -43,6 +45,14 @@
 </details>
 
 ---
+
+## 2026-11-23 · IIT Kharagpur/Kanpur · FTE · Global Strategic Analytics
+
+### Q1. Deutsche Bank Global Strategic Analytics OA format
+
+The test was mostly DSA questions. (Individual questions were not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/deutsche-bank-oa/2026-11.jsonl#L19)</sub>
 
 ## 2026-11-19 · IIT BHU · FTE
 

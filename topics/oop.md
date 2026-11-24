@@ -1,9 +1,10 @@
 # OOP
 
-44 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+45 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-23 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI OA topics: OOPs and computer networks](../companies/icici.md#q1-icici-oa-topics-oops-and-computer-networks) | |
 | 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 3: project discussion, knight moves BFS, OOPs](../companies/kla.md#q3-kla-round-3-project-discussion-knight-moves-bfs-oops) | [LC 1197](https://leetcode.com/problems/minimum-knight-moves/) Medium |
 | 2026-11-22 | [Cognizant](../companies/cognizant.md) | IIT Tirupati | [Cognizant interview format and scenario coding](../companies/cognizant.md#q1-cognizant-interview-format-and-scenario-coding) | |
 | 2026-11-20 | [Cognizant](../companies/cognizant.md) | Unknown | [Java exception handling and hierarchy](../companies/cognizant.md#q3-java-exception-handling-and-hierarchy) | |

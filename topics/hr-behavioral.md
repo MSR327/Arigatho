@@ -1,9 +1,11 @@
 # HR & Behavioral
 
-63 questions from 32 companys, newest first. [← all topics](../README.md#topics)
+65 questions from 32 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-23 | [Ola](../companies/ola.md) | Unknown | [Ola Founder's Office GD/interview questions](../companies/ola.md#q1-ola-founders-office-gdinterview-questions) | |
+| 2026-11-23 | [ICICI](../companies/icici.md) | IIT Delhi | [ICICI interview topics](../companies/icici.md#q1-icici-interview-topics) | |
 | 2026-11-23 | [Epsilon](../companies/epsilon.md) | Unknown | [Epsilon second round: resume deep dive](../companies/epsilon.md#q2-epsilon-second-round-resume-deep-dive) | |
 | 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 3: project discussion, knight moves BFS, OOPs](../companies/kla.md#q3-kla-round-3-project-discussion-knight-moves-bfs-oops) | [LC 1197](https://leetcode.com/problems/minimum-knight-moves/) Medium |
 | 2026-11-22 | [Meesho](../companies/meesho.md) | IIT BHU | [Meesho AI interview structure for Business Associate](../companies/meesho.md#q1-meesho-ai-interview-structure-for-business-associate) | |

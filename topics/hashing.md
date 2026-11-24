@@ -1,9 +1,12 @@
 # Hashing
 
-120 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+123 questions from 56 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-23 | [Stripe](../companies/stripe.md) | IIT Roorkee | [Merchant fraud score from transactions and rules](../companies/stripe.md#q1-merchant-fraud-score-from-transactions-and-rules) | |
+| 2026-11-23 | [Tredence](../companies/tredence.md) | IIT Madras | [Frequency count in a vector](../companies/tredence.md#q3-frequency-count-in-a-vector) | |
+| 2026-11-23 | [Tredence](../companies/tredence.md) | IIT Madras | [Count frequency of each vowel in a string](../companies/tredence.md#q2-count-frequency-of-each-vowel-in-a-string) | |
 | 2026-11-22 | [Kotak Mahindra Bank](../companies/kotak-mahindra-bank.md) | IIT BHU | [Longest subarray with sum divisible by k](../companies/kotak-mahindra-bank.md#q1-longest-subarray-with-sum-divisible-by-k) | ≈ [LC 974](https://leetcode.com/problems/subarray-sums-divisible-by-k/) Medium |
 | 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 2: Key-value store](../companies/accenture.md#q3-round-2-key-value-store) | ≈ [LC 981](https://leetcode.com/problems/time-based-key-value-store/) Medium |
 | 2026-11-15 | [Media.net](../companies/media-net.md) | NIT Surathkal | [Sync engine: queries affected by writes](../companies/media-net.md#q1-sync-engine-queries-affected-by-writes) | |

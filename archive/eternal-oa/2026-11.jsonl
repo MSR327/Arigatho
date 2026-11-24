@@ -239,3 +239,6 @@
 {"id": 32574, "group": "eternal-oa", "sent_at": "2026-11-21T16:42:20.299495+00:00", "text": "How was eternal ML OA?", "author_tag": "IITM", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 32619, "group": "eternal-oa", "sent_at": "2026-11-21T17:47:24.787891+00:00", "text": "What do they ask in eternal PA role?", "author_tag": "BHU", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 33129, "group": "eternal-oa", "sent_at": "2026-11-23T06:00:15.482513+00:00", "text": "Anyone had the test? Please DM", "author_tag": "IITM", "reply_to": {"id": 32574, "text": "How was eternal ML OA?", "author_tag": "IITM"}, "attachment": null, "deleted": false}
+{"id": 33378, "group": "eternal-oa", "sent_at": "2026-11-23T14:07:18.93478+00:00", "text": "eternal Product analyst role, what do they ask?", "author_tag": "IITB", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 33523, "group": "eternal-oa", "sent_at": "2026-11-23T19:42:09.477466+00:00", "text": "apti, 3 sql qs", "author_tag": "IITR", "reply_to": {"id": 33378, "text": "eternal Product analyst role, what do they ask?", "author_tag": "IITB"}, "attachment": null, "deleted": false}
+{"id": 33524, "group": "eternal-oa", "sent_at": "2026-11-23T19:42:17.167734+00:00", "text": "on joins", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": false}

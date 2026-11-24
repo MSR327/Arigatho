@@ -1,6 +1,6 @@
 # Accordion
 
-**41 questions** · 16 drives · latest 20 Nov 2026 · [← all companies](../README.md#companies)
+**41 questions** · 16 drives · latest 23 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 27 · [OA Format](../topics/oa-format.md) 13 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +2 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
@@ -122,7 +122,7 @@ Total 30 questions in 30 minutes.
 - Aptitude: 15 questions. Topics: Probability, P&C, directions, family relations, percentages, profit & loss
 - Technical MCQs: 15 questions. Topics: Python, SQL, Java, OOP, DBMS
 
-<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/alphonso-oa/2026-11.jsonl#L22) · Also asked at: IIT Roorkee ×2 (last 2026-11-17), Unknown (2026-11-17), IIT BHU (2026-11-19)</sub>
+<sub>Topics: OA Format · Source: [chat, 17 Nov](../archive/alphonso-oa/2026-11.jsonl#L22) · Also asked at: IIT Roorkee ×2 (last 2026-11-17), Unknown (2026-11-17), IIT BHU (2026-11-19), IIT Hyderabad (2026-11-23)</sub>
 
 ## 2026-11-15 · IIT Guwahati · FTE · AI/ML Engineer
 
@@ -514,7 +514,7 @@ AI/ML Engineer 2: 3 sections:
 
 PST: multiple-choice business problem-solving questions, 20 minutes, 15 problem-solving questions. Focus: numerical reasoning, structured thinking, basic business math. Marking: +1 for each correct answer, -0.5 for each wrong answer.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT Dhanbad (2026-11-07), Unknown (2026-11-10), IIT Roorkee ×7 (last 2026-11-11), IIT BHU ×11 (last 2026-11-18), IIT Guwahati (2026-11-18)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L331), [chat, 6 Nov](../archive/inter-iit/2026-11.jsonl#L332) · Also asked at: IIT Dhanbad (2026-11-07), Unknown (2026-11-10), IIT Roorkee ×7 (last 2026-11-11), IIT Guwahati (2026-11-18), IIT BHU ×12 (last 2026-11-23)</sub>
 
 ## 2026-11-06 · IIT Bhubaneswar · FTE · Data Engineer
 
@@ -535,7 +535,7 @@ PST: multiple-choice business problem-solving questions, 20 minutes, 15 problem-
 
 Problem solving test, coding and data structures conceptual questions. Duration: 50 minutes.
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L147) · Also asked at: IIT Roorkee (2026-11-08)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L147) · Also asked at: IIT Roorkee ×2 (last 2026-11-23)</sub>
 
 ## 2026-11-04 · IIT Hyderabad · FTE · Data & AI Analyst
 

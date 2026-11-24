@@ -1,13 +1,15 @@
 # Moneyview
 
-**2 questions** · 2 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 23 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1  
 **Seen at:** IIT BHU, IIT Kharagpur, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-23 · IIT Kharagpur · FTE](#2026-11-23--iit-kharagpur--fte)
+  - [Moneyview OA format](#q1-moneyview-oa-format)
 - [2026-11-19 · IIT Kharagpur · FTE](#2026-11-19--iit-kharagpur--fte)
   - [Moneyview OA pattern](#q1-moneyview-oa-pattern)
 - [2026-11-13 · NIT Surathkal · FTE](#2026-11-13--nit-surathkal--fte)
@@ -16,6 +18,14 @@
 </details>
 
 ---
+
+## 2026-11-23 · IIT Kharagpur · FTE
+
+### Q1. Moneyview OA format
+
+30-40 aptitude MCQs and 6 data MCQs. Data MCQ topics included cross entropy, decision trees, etc.
+
+<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L488)</sub>
 
 ## 2026-11-19 · IIT Kharagpur · FTE
 

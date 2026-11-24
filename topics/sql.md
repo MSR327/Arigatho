@@ -52,7 +52,7 @@
 | 2026-10-27 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Car rental: cars never rented](../companies/accenture.md#q2-car-rental-cars-never-rented) | [LC 183](https://leetcode.com/problems/customers-who-never-order/) Easy |
 | 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [DS role OA pattern](../companies/eternal-zomato.md#q1-ds-role-oa-pattern) | |
 | 2026-10-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Product Analyst OA structure](../companies/eternal-zomato.md#q1-product-analyst-oa-structure) | |
-| 2026-10-24 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format-1) | |
+| 2026-10-24 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal Product Analyst OA format](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-format-2) | |
 | 2026-10-24 | [Accenture](../companies/accenture.md) | IIT BHU | [SQL: customers who never made a booking](../companies/accenture.md#q2-sql-customers-who-never-made-a-booking) | [LC 183](https://leetcode.com/problems/customers-who-never-order/) Easy |
 | 2026-10-23 | [Tredence](../companies/tredence.md) | IIT Dhanbad | [SQL: high speed trains](../companies/tredence.md#q2-sql-high-speed-trains) | |
 | 2026-10-22 | [Paytm](../companies/paytm.md) | BIT Mesra | [List Customer and Product Without Sale](../companies/paytm.md#q1-list-customer-and-product-without-sale) | ≈ [LC 183](https://leetcode.com/problems/customers-who-never-order/) Easy |

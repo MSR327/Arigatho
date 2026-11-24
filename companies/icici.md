@@ -1,13 +1,19 @@
 # ICICI
 
-**50 questions** · 27 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
+**53 questions** · 30 drives · latest 23 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 23 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [SQL](../topics/sql.md) 4 · [HR & Behavioral](../topics/hr-behavioral.md) 3 · [Aptitude](../topics/aptitude.md) 3 · [OOP](../topics/oop.md) 3 · [Python & Pandas](../topics/python-pandas.md) 2 · +7 more  
-**Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNIT Jaipur +8 more
+**Asks about:** [OA Format](../topics/oa-format.md) 25 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 16 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [HR & Behavioral](../topics/hr-behavioral.md) 4 · [Aptitude](../topics/aptitude.md) 4 · [OOP](../topics/oop.md) 4 · [SQL](../topics/sql.md) 4 · [Python & Pandas](../topics/python-pandas.md) 2 · +9 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +9 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-23 · IIT Roorkee · FTE · Manager](#2026-11-23--iit-roorkee--fte--manager)
+  - [ICICI OA topics: OOPs and computer networks](#q1-icici-oa-topics-oops-and-computer-networks)
+- [2026-11-23 · IIT Delhi · FTE · Interview](#2026-11-23--iit-delhi--fte--interview)
+  - [ICICI interview topics](#q1-icici-interview-topics)
+- [2026-11-23 · IIT BHU · FTE · Manager I](#2026-11-23--iit-bhu--fte--manager-i)
+  - [ICICI Manager OA format](#q1-icici-manager-oa-format)
 - [2026-11-19 · Unknown · FTE](#2026-11-19--unknown--fte)
   - [OA platform and proctoring details](#q1-oa-platform-and-proctoring-details)
 - [2026-11-19 · Unknown · FTE · Data Analyst · Interview](#2026-11-19--unknown--fte--data-analyst--interview)
@@ -89,6 +95,30 @@
 </details>
 
 ---
+
+## 2026-11-23 · IIT Roorkee · FTE · Manager
+
+### Q1. ICICI OA topics: OOPs and computer networks
+
+Mostly OOPs questions in different languages (C++, Java) and normal questions on computer networks.
+
+<sub>Topics: OOP, OS/DBMS/CN MCQ, OA Format · Source: [chat, 23 Nov](../archive/icici-oa/2026-11.jsonl#L189)</sub>
+
+## 2026-11-23 · IIT Delhi · FTE · Interview
+
+### Q1. ICICI interview topics
+
+Asked ML at a high level, and how ML is used in banking. Asked about projects. Some system design. HR questions covered banking principles. Interviewers come from different ICICI teams and ask about their own area: a risk interviewer asks risk-related questions, a data science/analytics interviewer asks ML. Everyone asks how core banking works.
+
+<sub>Topics: ML/AI, HR & Behavioral, Finance · Source: [chat, 23 Nov](../archive/icici-oa/2026-11.jsonl#L192), [chat, 23 Nov](../archive/icici-oa/2026-11.jsonl#L193)</sub>
+
+## 2026-11-23 · IIT BHU · FTE · Manager I
+
+### Q1. ICICI Manager OA format
+
+The ICICI manager role OA mainly consists of MCQs on aptitude plus technical questions.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 23 Nov](../archive/icici-oa/2026-11.jsonl#L182)</sub>
 
 ## 2026-11-19 · Unknown · FTE
 

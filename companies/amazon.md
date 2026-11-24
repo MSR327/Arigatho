@@ -1,6 +1,6 @@
 # Amazon
 
-**25 questions** · 22 drives · latest 20 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**25 questions** · 22 drives · latest 23 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 19 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +6 more  
 **Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +7 more
@@ -284,7 +284,7 @@ Same as the off-campus application:
 - 1 debugging question (backend)
 - then a psychometric test including mail replies and your behaviour
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L5), [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L6) · Also asked at: IIT Delhi (2026-11-10), IIT Roorkee ×6 (last 2026-11-19)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L5), [chat, 1 Nov](../archive/amazon-oa/2026-11.jsonl#L6) · Also asked at: IIT Delhi (2026-11-10), IIT Roorkee ×6 (last 2026-11-19), Unknown (2026-11-23)</sub>
 
 ## 2026-10-30 · IIT Guwahati · FTE
 

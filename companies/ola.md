@@ -1,13 +1,15 @@
 # Ola
 
-**13 questions** · 6 drives · latest 21 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**14 questions** · 7 drives · latest 23 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 3 · [Heaps](../topics/heaps.md) 2 · [Sorting](../topics/sorting.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Strings](../topics/strings.md) 1 · [DP](../topics/dp.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 3 · [Heaps](../topics/heaps.md) 2 · [Sorting](../topics/sorting.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [Strings](../topics/strings.md) 1 · [DP](../topics/dp.md) 1  
 **Seen at:** IIT BHU, IIT Delhi, IIT Kanpur, IIT Kharagpur/Kanpur, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-23 · Unknown · FTE · Founder's Office (Tech) · Interview](#2026-11-23--unknown--fte--founders-office-tech--interview)
+  - [Ola Founder's Office GD/interview questions](#q1-ola-founders-office-gdinterview-questions)
 - [2026-11-20 · IIT Delhi · FTE · GET - Software, Cloud Engineering & AI](#2026-11-20--iit-delhi--fte--get---software-cloud-engineering--ai)
   - [Ola GET OA format](#q1-ola-get-oa-format)
 - [2026-11-15 · Unknown · FTE · GET Software](#2026-11-15--unknown--fte--get-software)
@@ -31,6 +33,26 @@
 </details>
 
 ---
+
+## 2026-11-23 · Unknown · FTE · Founder's Office (Tech) · Interview
+
+### Q1. Ola Founder's Office GD/interview questions
+
+Questions reported for the Ola Founder's Office (tech) GD/interview:
+
+- Explain your most challenging project and your contribution.
+- Why do you want to join Ola?
+- Why should we hire you?
+- Tell me about a difficult problem you solved.
+- What would you improve in Ola's app or services?
+- Describe a failure or a mistake you made and how you handled it.
+- How do you handle disagreements with teammates?
+- Tell me about a situation where you took ownership without being asked.
+- What would you do if you had a tight deadline and incomplete requirements?
+- How do you prioritize when multiple tasks are urgent?
+- Where do you see yourself in the next 3-5 years?
+
+<sub>Topics: HR & Behavioral · Source: [chat, 23 Nov](../archive/inter-nit/2026-11.jsonl#L2413)</sub>
 
 ## 2026-11-20 · IIT Delhi · FTE · GET - Software, Cloud Engineering & AI
 
@@ -137,7 +159,7 @@ HR round (20 minutes on Zoom):
 
 Second-hand report: the OA had MCQs based on chemical engineering.
 
-<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L551)</sub>
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L551) · Also asked at: IIT Kharagpur/Kanpur (2026-11-23)</sub>
 
 ## 2026-11-14 · IIT Kanpur · FTE · GET Product Engineer
 

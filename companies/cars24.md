@@ -1,13 +1,15 @@
 # Cars24
 
-**61 questions** · 27 drives · latest 22 Nov 2026 · [21 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**62 questions** · 28 drives · latest 23 Nov 2026 · [21 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [ML/AI](../topics/ml-ai.md) 22 · [OA Format](../topics/oa-format.md) 21 · [Graphs](../topics/graphs.md) 7 · [Python & Pandas](../topics/python-pandas.md) 6 · [Arrays](../topics/arrays.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · +15 more  
+**Asks about:** [ML/AI](../topics/ml-ai.md) 23 · [OA Format](../topics/oa-format.md) 21 · [Graphs](../topics/graphs.md) 7 · [Python & Pandas](../topics/python-pandas.md) 6 · [Arrays](../topics/arrays.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · +15 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-23 · IIT Guwahati · FTE · AI/ML](#2026-11-23--iit-guwahati--fte--aiml)
+  - [Project-based text processing and embedding similarity](#q1-project-based-text-processing-and-embedding-similarity)
 - [2026-11-22 · IIT Guwahati · FTE · AI/ML Engineer · Other round](#2026-11-22--iit-guwahati--fte--aiml-engineer--other-round)
   - [Last day where you can still cross](#q1-last-day-where-you-can-still-cross)
 - [2026-11-19 · IIT Kharagpur/Kanpur · FTE · Gen AI](#2026-11-19--iit-kharagpurkanpur--fte--gen-ai)
@@ -100,6 +102,14 @@
 </details>
 
 ---
+
+## 2026-11-23 · IIT Guwahati · FTE · AI/ML
+
+### Q1. Project-based text processing and embedding similarity
+
+Different project-based questions without AI assistance on various topics: text blob processing, text tokenization, and embedding using DistilBERT to calculate a similarity score with the topics given. (Exact problem statements not given.)
+
+<sub>Topics: ML/AI, Strings · Source: [chat, 23 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L727)</sub>
 
 ## 2026-11-22 · IIT Guwahati · FTE · AI/ML Engineer · Other round
 
@@ -228,7 +238,7 @@ OA for the AI/GenAI role contained 10 MCQs plus 1 ML coding question. In the ML 
 
 The exact MCQ topics and the specific ML task were not shared.
 
-<sub>Topics: OA Format, ML/AI · Source: [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L258), [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L260) · Also asked at: IIT Kharagpur (2026-11-19), IIT Roorkee (2026-11-21)</sub>
+<sub>Topics: OA Format, ML/AI · Source: [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L258), [chat, 16 Nov](../archive/campus-iit-hyderabad-placements/2026-11.jsonl#L260) · Also asked at: IIT Kharagpur (2026-11-19), IIT Roorkee ×2 (last 2026-11-23)</sub>
 
 ## 2026-11-16 · IIT BHU · FTE · Data Science · Other round
 

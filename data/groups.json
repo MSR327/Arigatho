@@ -4,6 +4,11 @@
   "name": "Accenture OA",
   "role": "OA preparation"
  },
+ "accordion-oa": {
+  "company": "Accordion",
+  "name": "Accordion OA",
+  "role": "OA preparation"
+ },
  "adobe-oa": {
   "company": "Adobe",
   "name": "Adobe OA",
@@ -64,9 +69,19 @@
   "name": "Birla Pivot OA",
   "role": "OA preparation"
  },
+ "blackrock-oa": {
+  "company": "BlackRock",
+  "name": "BlackRock OA",
+  "role": "OA preparation"
+ },
  "blinkit-oa": {
   "company": "Blinkit",
   "name": "Blinkit OA",
+  "role": "OA preparation"
+ },
+ "bny-oa": {
+  "company": "BNY",
+  "name": "BNY OA",
   "role": "OA preparation"
  },
  "bpcl-oa": {
@@ -444,6 +459,11 @@
   "name": "Capital One OA",
   "role": "OA preparation"
  },
+ "cars24-oa": {
+  "company": "Cars24",
+  "name": "Cars24 OA",
+  "role": "OA preparation"
+ },
  "cashfree-oa": {
   "company": "Cashfree",
   "name": "Cashfree OA",
@@ -472,6 +492,21 @@
  "cohesity-oa": {
   "company": "Cohesity",
   "name": "Cohesity OA",
+  "role": "OA preparation"
+ },
+ "commonwealth-bank-oa": {
+  "company": "Commonwealth Bank of Australia",
+  "name": "Commonwealth Bank of Australia OA",
+  "role": "OA preparation"
+ },
+ "de-shaw-oa": {
+  "company": "D. E. Shaw",
+  "name": "D. E. Shaw OA",
+  "role": "OA preparation"
+ },
+ "dell-oa": {
+  "company": "Dell",
+  "name": "Dell OA",
   "role": "OA preparation"
  },
  "deloitte-oa": {
@@ -517,6 +552,11 @@
  "futures-first-oa": {
   "company": "Futures First",
   "name": "Futures First OA",
+  "role": "OA preparation"
+ },
+ "goldman-sachs-oa": {
+  "company": "Goldman Sachs",
+  "name": "Goldman Sachs OA",
   "role": "OA preparation"
  },
  "google-step-intern": {
@@ -614,6 +654,11 @@
   "name": "2028 Batch Intern",
   "role": "Internship"
  },
+ "iqvia-oa": {
+  "company": "IQVIA",
+  "name": "IQVIA OA",
+  "role": "OA preparation"
+ },
  "ivy-homes-oa": {
   "company": "Ivy Homes",
   "name": "Ivy Homes OA",
@@ -632,6 +677,11 @@
  "kickdrum-oa": {
   "company": "Kickdrum",
   "name": "Kickdrum OA",
+  "role": "OA preparation"
+ },
+ "kotak-mahindra-oa": {
+  "company": "Kotak Mahindra",
+  "name": "Kotak Mahindra OA",
   "role": "OA preparation"
  },
  "kratikal-oa": {
@@ -654,6 +704,11 @@
   "name": "Mastercard OA",
   "role": "OA preparation"
  },
+ "mathworks-oa": {
+  "company": "MathWorks",
+  "name": "MathWorks OA",
+  "role": "OA preparation"
+ },
  "media-net-oa": {
   "company": "Media.net",
   "name": "Media.net OA",
@@ -672,6 +727,11 @@
  "microsoft-oa": {
   "company": "Microsoft",
   "name": "Microsoft OA",
+  "role": "OA preparation"
+ },
+ "moneyview-oa": {
+  "company": "Moneyview",
+  "name": "Moneyview OA",
   "role": "OA preparation"
  },
  "morgan-stanley-oa": {
@@ -697,6 +757,11 @@
  "navabrava-oa": {
   "company": "Navabrava",
   "name": "Navabrava OA",
+  "role": "OA preparation"
+ },
+ "navi-oa": {
+  "company": "Navi",
+  "name": "Navi OA",
   "role": "OA preparation"
  },
  "navratri-challenge": {
@@ -734,6 +799,11 @@
   "name": "NPCI OA",
   "role": "OA preparation"
  },
+ "nutanix-oa": {
+  "company": "Nutanix",
+  "name": "Nutanix OA",
+  "role": "OA preparation"
+ },
  "nvidia-oa": {
   "company": "Nvidia",
   "name": "Nvidia OA",
@@ -748,6 +818,11 @@
   "company": "OAHelper",
   "name": "OAHelper",
   "role": "Team"
+ },
+ "ola-oa": {
+  "company": "Ola",
+  "name": "Ola OA",
+  "role": "OA preparation"
  },
  "paytm-oa": {
   "company": "Paytm",
@@ -864,6 +939,11 @@
   "name": "Straive OA",
   "role": "OA preparation"
  },
+ "stripe-oa": {
+  "company": "Stripe",
+  "name": "Stripe OA",
+  "role": "OA preparation"
+ },
  "tcs-oa": {
   "company": "TCS",
   "name": "TCS OA",
@@ -914,6 +994,11 @@
   "name": "Triology OA",
   "role": "OA preparation"
  },
+ "urban-company-oa": {
+  "company": "Urban Company",
+  "name": "Urban Company OA",
+  "role": "OA preparation"
+ },
  "veraxion-oa": {
   "company": "Veraxion",
   "name": "Veraxion OA",
@@ -934,9 +1019,24 @@
   "name": "Warner Music Group OA",
   "role": "OA preparation"
  },
+ "wells-fargo-oa": {
+  "company": "Wells Fargo",
+  "name": "Wells Fargo OA",
+  "role": "OA preparation"
+ },
+ "wex-oa": {
+  "company": "WEX",
+  "name": "WEX OA",
+  "role": "OA preparation"
+ },
  "zomato-sde-1": {
   "company": "Zomato",
   "name": "Zomato OA",
+  "role": "OA preparation"
+ },
+ "zs-associates-oa": {
+  "company": "ZS Associates",
+  "name": "ZS Associates OA",
   "role": "OA preparation"
  },
  "zscaler-oa": {

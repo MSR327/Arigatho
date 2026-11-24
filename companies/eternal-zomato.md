@@ -1,13 +1,15 @@
 # Eternal (Zomato)
 
-**205 questions** · 106 drives · latest 22 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**206 questions** · 107 drives · latest 23 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 78 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 79 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
 **Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +16 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-23 · IIT Roorkee · FTE · Product Analyst](#2026-11-23--iit-roorkee--fte--product-analyst)
+  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format)
 - [2026-11-22 · IIT Hyderabad · FTE · Interview](#2026-11-22--iit-hyderabad--fte--interview)
   - [Eternal interview focus](#q1-eternal-interview-focus)
 - [2026-11-21 · IIT Guwahati · FTE · SDE · Interview](#2026-11-21--iit-guwahati--fte--sde--interview)
@@ -68,7 +70,7 @@
 - [2026-11-03 · IIT Roorkee · FTE](#2026-11-03--iit-roorkee--fte)
   - [Ride with the highest duration (pandas)](#q1-ride-with-the-highest-duration-pandas)
 - [2026-11-03 · IIT Roorkee · FTE · Product Analyst](#2026-11-03--iit-roorkee--fte--product-analyst)
-  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format)
+  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-1)
 - [2026-11-02 · IIT BHU · FTE · Product Analyst](#2026-11-02--iit-bhu--fte--product-analyst)
   - [OA structure](#q1-oa-structure)
   - [Morse code decode to dictionary word](#q2-morse-code-decode-to-dictionary-word)
@@ -141,7 +143,7 @@
 - [2026-10-24 · VNIT Nagpur · FTE · Product Analyst](#2026-10-24--vnit-nagpur--fte--product-analyst)
   - [Eternal/Zomato product analyst OA format](#q1-eternalzomato-product-analyst-oa-format)
 - [2026-10-24 · IIT Guwahati · FTE · Product Analyst](#2026-10-24--iit-guwahati--fte--product-analyst)
-  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-1)
+  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-2)
 - [2026-10-24 · IIT BHU · FTE · SDE](#2026-10-24--iit-bhu--fte--sde)
   - [Eternal SDE OA format](#q1-eternal-sde-oa-format)
 - [2026-10-23 · IIT Roorkee · FTE · SDE](#2026-10-23--iit-roorkee--fte--sde)
@@ -248,7 +250,7 @@
   - [Total energy of all subsequences (subset sum K)](#q5-total-energy-of-all-subsequences-subset-sum-k)
   - [Minimum steps with prime jumps](#q6-minimum-steps-with-prime-jumps)
 - [2026-09-29 · IIT Guwahati · FTE · Product Analyst](#2026-09-29--iit-guwahati--fte--product-analyst)
-  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-2)
+  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-3)
 - [2026-09-29 · IIT Dhanbad · FTE](#2026-09-29--iit-dhanbad--fte)
   - [Maximize Total Tastiness of Purchased Fruits (LeetCode 2431)](#q1-maximize-total-tastiness-of-purchased-fruits-leetcode-2431)
   - [Snowflake OA graph problem (LeetCode Discuss 4062769)](#q2-snowflake-oa-graph-problem-leetcode-discuss-4062769)
@@ -283,7 +285,7 @@
 - [2026-09-27 · IIT Roorkee · FTE · SDE](#2026-09-27--iit-roorkee--fte--sde)
   - [SDE OA description: easy, Striver-sheet style](#q1-sde-oa-description-easy-striver-sheet-style)
 - [2026-09-26 · IIT BHU · FTE · Product Analyst](#2026-09-26--iit-bhu--fte--product-analyst)
-  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-3)
+  - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format-4)
 - [2026-09-25 · IIT BHU · FTE · Product Analyst](#2026-09-25--iit-bhu--fte--product-analyst)
   - [Product Analyst OA pattern](#q1-product-analyst-oa-pattern)
 - [2026-09-25 · IIT BHU · FTE · SDE](#2026-09-25--iit-bhu--fte--sde)
@@ -323,6 +325,14 @@
 </details>
 
 ---
+
+## 2026-11-23 · IIT Roorkee · FTE · Product Analyst
+
+### Q1. Eternal Product Analyst OA format
+
+Aptitude section plus 3 SQL questions, all on joins. (Individual question statements were not shared.)
+
+<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/eternal-oa/2026-11.jsonl#L243), [chat, 23 Nov](../archive/eternal-oa/2026-11.jsonl#L244)</sub>
 
 ## 2026-11-22 · IIT Hyderabad · FTE · Interview
 

@@ -1,9 +1,10 @@
 # OS/DBMS/CN MCQ
 
-148 questions from 32 companys, newest first. [← all topics](../README.md#topics)
+149 questions from 32 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-23 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI OA topics: OOPs and computer networks](../companies/icici.md#q1-icici-oa-topics-oops-and-computer-networks) | |
 | 2026-11-22 | [LPL Financial](../companies/lpl-financial.md) | IIT Hyderabad | [LPL Financial GCC interview topics](../companies/lpl-financial.md#q1-lpl-financial-gcc-interview-topics) | |
 | 2026-11-20 | [Unknown](../companies/unknown.md) | MNNIT Allahabad | [Tescra OA pattern](../companies/unknown.md#q1-tescra-oa-pattern) | |
 | 2026-11-20 | [Walt Disney](../companies/walt-disney.md) | NIT Kurukshetra | [Walt Disney MCQ topics to prepare](../companies/walt-disney.md#q1-walt-disney-mcq-topics-to-prepare) | |

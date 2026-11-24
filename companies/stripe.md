@@ -1,13 +1,15 @@
 # Stripe
 
-**4 questions** · 4 drives · latest 21 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 5 drives · latest 23 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1  
-**Seen at:** BITS Pilani, IIT BHU, IIT Hyderabad
+**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1 · [Hashing](../topics/hashing.md) 1  
+**Seen at:** BITS Pilani, IIT BHU, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-23 · IIT Roorkee · FTE](#2026-11-23--iit-roorkee--fte)
+  - [Merchant fraud score from transactions and rules](#q1-merchant-fraud-score-from-transactions-and-rules)
 - [2026-11-21 · Unknown · FTE · SDE · Other round](#2026-11-21--unknown--fte--sde--other-round)
   - [Stripe SDE OA and interview pattern](#q1-stripe-sde-oa-and-interview-pattern)
 - [2026-10-26 · IIT BHU · FTE · Interview](#2026-10-26--iit-bhu--fte--interview)
@@ -20,6 +22,31 @@
 </details>
 
 ---
+
+## 2026-11-23 · IIT Roorkee · FTE
+
+### Q1. Merchant fraud score from transactions and rules
+
+The fraud detection team at Stripe aims to reduce merchant fraud risk with minimal pain to good merchants through machine learning. You are to develop a system to assess the fraud risk associated with transactions made to various merchants.
+
+You are given `transactions_list` (transactions for a certain day), `merchants_list` (list of merchants) and `rules_list` (a rule corresponding to each transaction). A transaction is a payment by a customer to a merchant. Each merchant has a `base_score`. Assign each merchant a fraud score:
+
+Initialize a merchant's `current_score` as their `base_score`. For each transaction, update the merchant's `current_score`, in separate passes over the entire list for each step:
+
+1. If the transaction amount is greater than the corresponding rule's `min_transaction_amount`, multiply `current_score` by the rule's `multiplicative_factor`.
+2. If the same `customer_id` has made three or more transactions to that `merchant_id` (including the current one), add all the corresponding rules' `additive_factor`s to `current_score`, cumulatively (e.g. if the score at the third transaction is X, including the first, second and third additive factors, the fourth transaction gives X + the fourth transaction's additive_factor).
+3. If a transaction is the third or more from the same `customer_id` in the same hour for the same `merchant_id` (including the current one):
+   - If the hour is between 12 and 17 (inclusive): add the penalty each time (this includes the first and second transaction as well as all after the third).
+   - If the hour is between 9 and 11, or 18 and 21 (inclusive): subtract the penalty each time (this includes the first and second transaction as well as all after the third).
+   - Otherwise do nothing.
+
+Input (no integer overflows):
+- `transactions_list`: length n (1 ≤ n ≤ 1000), each a comma-separated string: `merchant_id` (string, length > 0), `amount` (integer), `customer_id` (string, length > 0), `hour` (integer, 0 ≤ hour ≤ 23).
+- `rules_list`: length n (1 ≤ n ≤ 1000), each a comma-separated string corresponding to each transaction: `min_transaction_amount` (integer, minimum amount to consider fraudulent), `multiplicative_factor` (integer), ...
+
+The message is cut off here: the remaining rule fields (additive_factor, penalty), merchants_list format, output format and examples are missing.
+
+<sub>Topics: Arrays, Hashing · Source: [chat, 23 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L304), [chat, 23 Nov](../archive/campus-iit-madras-placements/2026-11.jsonl#L305)</sub>
 
 ## 2026-11-21 · Unknown · FTE · SDE · Other round
 

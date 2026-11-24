@@ -1,9 +1,11 @@
 # Arrays
 
-284 questions from 76 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+286 questions from 77 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-23 | [Stripe](../companies/stripe.md) | IIT Roorkee | [Merchant fraud score from transactions and rules](../companies/stripe.md#q1-merchant-fraud-score-from-transactions-and-rules) | |
+| 2026-11-23 | [Tredence](../companies/tredence.md) | IIT Madras | [Frequency count in a vector](../companies/tredence.md#q3-frequency-count-in-a-vector) | |
 | 2026-11-23 | [Epsilon](../companies/epsilon.md) | Unknown | [Epsilon in-person interview: coding round](../companies/epsilon.md#q1-epsilon-in-person-interview-coding-round) | |
 | 2026-11-22 | [Kotak Mahindra Bank](../companies/kotak-mahindra-bank.md) | IIT BHU | [Longest subarray with sum divisible by k](../companies/kotak-mahindra-bank.md#q1-longest-subarray-with-sum-divisible-by-k) | ≈ [LC 974](https://leetcode.com/problems/subarray-sums-divisible-by-k/) Medium |
 | 2026-11-20 | [Cognizant](../companies/cognizant.md) | Unknown | [Second largest in array](../companies/cognizant.md#q2-second-largest-in-array) | |

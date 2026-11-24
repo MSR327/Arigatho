@@ -1,13 +1,17 @@
 # Tredence
 
-**75 questions** · 26 drives · latest 18 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**78 questions** · 27 drives · latest 23 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 24 · [Python & Pandas](../topics/python-pandas.md) 17 · [ML/AI](../topics/ml-ai.md) 15 · [Math](../topics/math.md) 11 · [SQL](../topics/sql.md) 7 · [Arrays](../topics/arrays.md) 6 · [Aptitude](../topics/aptitude.md) 6 · [Hashing](../topics/hashing.md) 3 · +12 more  
-**Seen at:** IIIT Hyderabad, IIT BHU, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur +4 more
+**Asks about:** [OA Format](../topics/oa-format.md) 25 · [Python & Pandas](../topics/python-pandas.md) 17 · [ML/AI](../topics/ml-ai.md) 15 · [Math](../topics/math.md) 11 · [SQL](../topics/sql.md) 7 · [Arrays](../topics/arrays.md) 7 · [Aptitude](../topics/aptitude.md) 6 · [Hashing](../topics/hashing.md) 5 · +12 more  
+**Seen at:** IIIT Hyderabad, IIT BHU, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-23 · IIT Madras · FTE · Interview](#2026-11-23--iit-madras--fte--interview)
+  - [Interview rounds overview](#q1-interview-rounds-overview)
+  - [Count frequency of each vowel in a string](#q2-count-frequency-of-each-vowel-in-a-string)
+  - [Frequency count in a vector](#q3-frequency-count-in-a-vector)
 - [2026-11-18 · Unknown · FTE](#2026-11-18--unknown--fte)
   - [Tredence OA and SpeechX process](#q1-tredence-oa-and-speechx-process)
 - [2026-11-18 · IIT Hyderabad · FTE · Data Science](#2026-11-18--iit-hyderabad--fte--data-science)
@@ -113,6 +117,29 @@
 </details>
 
 ---
+
+## 2026-11-23 · IIT Madras · FTE · Interview
+
+### Q1. Interview rounds overview
+
+Round 1: SQL + 1 DSA question (Python only) + resume projects + some data engineering concepts.
+Round 2: completely on AI/ML (hard; the poster was rejected here).
+Round 3: HR.
+The DSA round language was Python only. The poster's college got 0 offers.
+
+<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/tredence-oa/2026-11.jsonl#L83), [chat, 23 Nov](../archive/tredence-oa/2026-11.jsonl#L85), [chat, 23 Nov](../archive/tredence-oa/2026-11.jsonl#L87)</sub>
+
+### Q2. Count frequency of each vowel in a string
+
+Round 1 DSA question (Python): count the frequency of each vowel in a given string. The poster described it as very easy. Exact statement and examples were not given.
+
+<sub>Topics: Strings, Hashing · Source: [chat, 23 Nov](../archive/tredence-oa/2026-11.jsonl#L83), [chat, 23 Nov](../archive/tredence-oa/2026-11.jsonl#L85), [chat, 23 Nov](../archive/tredence-oa/2026-11.jsonl#L87)</sub>
+
+### Q3. Frequency count in a vector
+
+Round 1 DSA question: count the frequency of elements in a vector/list. The poster described it as very easy. Exact statement was not given.
+
+<sub>Topics: Arrays, Hashing · Source: [chat, 23 Nov](../archive/tredence-oa/2026-11.jsonl#L83), [chat, 23 Nov](../archive/tredence-oa/2026-11.jsonl#L85), [chat, 23 Nov](../archive/tredence-oa/2026-11.jsonl#L87)</sub>
 
 ## 2026-11-18 · Unknown · FTE
 

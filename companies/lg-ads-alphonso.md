@@ -1,13 +1,15 @@
 # LG Ads (Alphonso)
 
-**7 questions** · 2 drives · latest 19 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 3 drives · latest 24 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 4 · [Math](../topics/math.md) 3 · [Sliding Window](../topics/sliding-window.md) 2 · [Hashing](../topics/hashing.md) 2 · [Heaps](../topics/heaps.md) 1 · [OA Format](../topics/oa-format.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1  
+**Asks about:** [Arrays](../topics/arrays.md) 4 · [Math](../topics/math.md) 3 · [Sliding Window](../topics/sliding-window.md) 2 · [Hashing](../topics/hashing.md) 2 · [OA Format](../topics/oa-format.md) 2 · [Heaps](../topics/heaps.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1  
 **Seen at:** IIT BHU, IIT Indore, IIT Madras, IIT Roorkee, IIT Ropar
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · Unknown · FTE](#2026-11-24--unknown--fte)
+  - [LG Ads OA format](#q1-lg-ads-oa-format)
 - [2026-10-22 · IIT Madras · FTE](#2026-10-22--iit-madras--fte)
   - [OA format: MCQs and coding](#q1-oa-format-mcqs-and-coding)
   - [Assignments with no choice repeated more than k times in a row](#q2-assignments-with-no-choice-repeated-more-than-k-times-in-a-row)
@@ -21,6 +23,14 @@
 </details>
 
 ---
+
+## 2026-11-24 · Unknown · FTE
+
+### Q1. LG Ads OA format
+
+OA is usually 2 coding questions (array, DP, greedy or string) + some MCQs on OS/CN/OOPS (from 5 shared experiences). CGPA cutoff 7.0. Specific questions not given.
+
+<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/inter-nit/2026-11.jsonl#L2437)</sub>
 
 ## 2026-10-22 · IIT Madras · FTE
 

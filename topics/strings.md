@@ -1,9 +1,11 @@
 # Strings
 
-134 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+136 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-23 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Project-based text processing and embedding similarity](../companies/cars24.md#q1-project-based-text-processing-and-embedding-similarity) | |
+| 2026-11-23 | [Tredence](../companies/tredence.md) | IIT Madras | [Count frequency of each vowel in a string](../companies/tredence.md#q2-count-frequency-of-each-vowel-in-a-string) | |
 | 2026-11-20 | [Deloitte](../companies/deloitte.md) | Unknown | [Reverse a string](../companies/deloitte.md#q1-reverse-a-string) | [LC 344](https://leetcode.com/problems/reverse-string/) Easy |
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Maximum Number of Strings](../companies/idfc-first-bank.md#q2-maximum-number-of-strings) | [LC 1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) Easy |
 | 2026-11-19 | [Walt Disney](../companies/walt-disney.md) | NIT Surathkal | [Maximum Number of Strings](../companies/walt-disney.md#q2-maximum-number-of-strings) | |
