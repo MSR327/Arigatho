@@ -1,9 +1,12 @@
 # Digital Electronics
 
-31 questions from 6 companys, newest first. [← all topics](../README.md#topics)
+34 questions from 6 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Verilog: overlap-safe memory block copy or shift](../companies/ibm.md#q3-verilog-overlap-safe-memory-block-copy-or-shift) |
+| 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Verilog: sequence detector or bus handshake](../companies/ibm.md#q2-verilog-sequence-detector-or-bus-handshake) |
+| 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Verilog: first non-zero bit or bit reversal](../companies/ibm.md#q1-verilog-first-non-zero-bit-or-bit-reversal) |
 | 2026-11-19 | [Cisco](../companies/cisco.md) | VNIT Nagpur | [Cisco VLSI question topics](../companies/cisco.md#q1-cisco-vlsi-question-topics) |
 | 2026-11-18 | [Cisco](../companies/cisco.md) | NIT Surathkal | [Cisco VLSI OA contents](../companies/cisco.md#q1-cisco-vlsi-oa-contents) |
 | 2026-11-14 | [Nvidia](../companies/nvidia.md) | Unknown | [Formal verification interview process and topics](../companies/nvidia.md#q1-formal-verification-interview-process-and-topics) |

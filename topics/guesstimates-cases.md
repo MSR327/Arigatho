@@ -1,12 +1,20 @@
 # Guesstimates & Cases
 
-39 questions from 13 companys, newest first. [← all topics](../README.md#topics)
+48 questions from 19 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-24 | [American Express](../companies/american-express.md) | Unknown | [Guesstimate: daily revenue of a restaurant](../companies/american-express.md#q2-guesstimate-daily-revenue-of-a-restaurant) |
+| 2026-11-24 | [Slice](../companies/slice.md) | IIT Kharagpur | [Case study on user engagement](../companies/slice.md#q2-case-study-on-user-engagement) |
+| 2026-11-24 | [Slice](../companies/slice.md) | IIT Kharagpur | [Product sense and guesstimates (DAU, payment flow)](../companies/slice.md#q1-product-sense-and-guesstimates-dau-payment-flow) |
+| 2026-11-24 | [Meesho](../companies/meesho.md) | IIT Dhanbad | [Guesstimate: biryanis sold in Hyderabad](../companies/meesho.md#q1-guesstimate-biryanis-sold-in-hyderabad) |
+| 2026-11-24 | [Straive](../companies/straive.md) | NIT Rourkela | [Straive second round: guesstimates, probability, ML/stats](../companies/straive.md#q2-straive-second-round-guesstimates-probability-mlstats) |
+| 2026-11-24 | [Tredence](../companies/tredence.md) | Unknown | [Tredence interview contents (summary of shared experiences)](../companies/tredence.md#q1-tredence-interview-contents-summary-of-shared-experiences) |
+| 2026-11-24 | [Accenture](../companies/accenture.md) | Unknown | [Accenture interview rounds overview](../companies/accenture.md#q1-accenture-interview-rounds-overview) |
 | 2026-11-22 | [Meesho](../companies/meesho.md) | IIT BHU | [Meesho AI interview structure for Business Associate](../companies/meesho.md#q1-meesho-ai-interview-structure-for-business-associate) |
 | 2026-11-22 | [Groww](../companies/groww.md) | IIT Bombay | [Product sense: first-time onboarding for Zoho CRM](../companies/groww.md#q1-product-sense-first-time-onboarding-for-zoho-crm) |
 | 2026-11-21 | [ZS](../companies/zs.md) | IIT BHU | [Nova Care case study](../companies/zs.md#q1-nova-care-case-study) |
+| 2026-11-20 | [Urban Company](../companies/urban-company.md) | IIT Roorkee | [Senior Category Manager interview rounds](../companies/urban-company.md#q1-senior-category-manager-interview-rounds) |
 | 2026-11-19 | [Nation with NaMo](../companies/nation-with-namo.md) | Unknown | [Case studies and campaign strategy](../companies/nation-with-namo.md#q3-case-studies-and-campaign-strategy) |
 | 2026-11-19 | [Nation with NaMo](../companies/nation-with-namo.md) | Unknown | [Guesstimates and analytical puzzles](../companies/nation-with-namo.md#q1-guesstimates-and-analytical-puzzles) |
 | 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [People giving an interview right now worldwide](../companies/groww.md#q4-people-giving-an-interview-right-now-worldwide) |
@@ -20,6 +28,7 @@
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Kharagpur | [Eternal APM process](../companies/eternal-zomato.md#q1-eternal-apm-process) |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal APM OA: marketing/sales MCQs on dataset](../companies/eternal-zomato.md#q1-eternal-apm-oa-marketingsales-mcqs-on-dataset) |
 | 2026-11-12 | [Paytm](../companies/paytm.md) | IIT Indore | [Case study round](../companies/paytm.md#q1-case-study-round) |
+| 2026-11-11 | [Urban Company](../companies/urban-company.md) | IIT Roorkee | [Senior Category Manager OA contents](../companies/urban-company.md#q1-senior-category-manager-oa-contents) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Ben Carpet new technology investment case](../companies/accordion.md#q3-ben-carpet-new-technology-investment-case) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Estimate households interested in streaming service in two years](../companies/accordion.md#q2-estimate-households-interested-in-streaming-service-in-two-years) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Streaming service households: decrease in movies streamed](../companies/accordion.md#q1-streaming-service-households-decrease-in-movies-streamed) |

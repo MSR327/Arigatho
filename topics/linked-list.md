@@ -1,9 +1,11 @@
 # Linked List
 
-24 questions from 17 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+26 questions from 19 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-24 | [Ola](../companies/ola.md) | Unknown | [Reverse a linked list](../companies/ola.md#q2-reverse-a-linked-list) | [LC 206](https://leetcode.com/problems/reverse-linked-list/) Easy |
+| 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Clone linked list with random pointer](../companies/amazon.md#q6-clone-linked-list-with-random-pointer) | [LC 138](https://leetcode.com/problems/copy-list-with-random-pointer/) Medium |
 | 2026-11-12 | [Cognizant](../companies/cognizant.md) | IIT Kharagpur/Kanpur | [Implement LFU cache](../companies/cognizant.md#q2-implement-lfu-cache) | [LC 460](https://leetcode.com/problems/lfu-cache/) Hard |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [LRU Cache](../companies/iqvia.md#q8-lru-cache) | [LC 146](https://leetcode.com/problems/lru-cache/) Medium |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | MANIT Bhopal | [Detect Cycle in a Linked List](../companies/iqvia.md#q5-detect-cycle-in-a-linked-list) | [LC 141](https://leetcode.com/problems/linked-list-cycle/) Easy |

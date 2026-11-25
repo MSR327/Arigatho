@@ -38,7 +38,7 @@ OA is usually 2 coding questions (array, DP, greedy or string) + some MCQs on OS
 
 12 MCQs, simple: SQL, OOPs, basic system design. Followed by 3 coding questions. Platform: HackerRank.
 
-<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-ropar-placements/2026-10.jsonl#L30) · Also asked at: IIT BHU ×2 (last 2026-11-14), IIT Ropar (2026-11-14), IIT Roorkee (2026-11-15), Unknown (2026-11-19)</sub>
+<sub>Topics: OA Format · Source: [chat, 22 Oct](../archive/campus-iit-ropar-placements/2026-10.jsonl#L30) · Also asked at: IIT BHU ×2 (last 2026-11-14), IIT Roorkee (2026-11-15), Unknown (2026-11-19), IIT Ropar ×2 (last 2026-11-24)</sub>
 
 ### Q2. Assignments with no choice repeated more than k times in a row
 

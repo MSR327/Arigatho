@@ -1,13 +1,15 @@
 # Navi
 
-**46 questions** · 24 drives · latest 12 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**47 questions** · 25 drives · latest 25 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 10 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Math](../topics/math.md) 4 · +5 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +3 more
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 10 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Math](../topics/math.md) 4 · +7 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · VNIT Nagpur · FTE · Interview](#2026-11-25--vnit-nagpur--fte--interview)
+  - [Medium DSA, resume and project questions](#q1-medium-dsa-resume-and-project-questions)
 - [2026-11-06 · IIT Hyderabad · FTE](#2026-11-06--iit-hyderabad--fte)
   - [Sum of values of articulation points](#q1-sum-of-values-of-articulation-points)
   - [DP debugging problem](#q2-dp-debugging-problem)
@@ -82,6 +84,14 @@
 </details>
 
 ---
+
+## 2026-11-25 · VNIT Nagpur · FTE · Interview
+
+### Q1. Medium DSA, resume and project questions
+
+Medium-level DSA questions, plus questions about the resume and projects. The specific questions are not given.
+
+<sub>Topics: Other, HR & Behavioral · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2531)</sub>
 
 ## 2026-11-06 · IIT Hyderabad · FTE
 

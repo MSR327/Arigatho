@@ -1,13 +1,15 @@
 # Futures First
 
-**42 questions** · 13 drives · latest 22 Nov 2026 · [← all companies](../README.md#companies)
+**43 questions** · 14 drives · latest 24 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 38 · [OA Format](../topics/oa-format.md) 8 · [Math](../topics/math.md) 7 · [Puzzles](../topics/puzzles.md) 4  
+**Asks about:** [Aptitude](../topics/aptitude.md) 38 · [OA Format](../topics/oa-format.md) 8 · [Math](../topics/math.md) 7 · [Puzzles](../topics/puzzles.md) 4 · [Finance](../topics/finance.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Madras, IIT Mandi +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · IIT Guwahati · FTE · Trainee (International Market) · Interview](#2026-11-24--iit-guwahati--fte--trainee-international-market--interview)
+  - [GD: Impact of AI on global stock markets](#q1-gd-impact-of-ai-on-global-stock-markets)
 - [2026-11-22 · IIT Bombay · FTE](#2026-11-22--iit-bombay--fte)
   - [Futures First OA format](#q1-futures-first-oa-format)
 - [2026-11-22 · BITS Pilani · FTE](#2026-11-22--bits-pilani--fte)
@@ -67,6 +69,16 @@
 </details>
 
 ---
+
+## 2026-11-24 · IIT Guwahati · FTE · Trainee (International Market) · Interview
+
+### Q1. GD: Impact of AI on global stock markets
+
+Group discussion (interview 1) on market trends, for example the impact of AI on global stock markets. 15-minute discussion, followed by a quick one-on-one with the same panel.
+
+Relayed from one shared experience; the one-on-one questions were not given.
+
+<sub>Topics: Finance, HR & Behavioral · Source: [chat, 24 Nov](../archive/futures-first-oa/2026-11.jsonl#L69)</sub>
 
 ## 2026-11-22 · IIT Bombay · FTE
 

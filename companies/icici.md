@@ -1,6 +1,6 @@
 # ICICI
 
-**53 questions** · 30 drives · latest 23 Nov 2026 · [← all companies](../README.md#companies)
+**53 questions** · 30 drives · latest 24 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 25 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 16 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [HR & Behavioral](../topics/hr-behavioral.md) 4 · [Aptitude](../topics/aptitude.md) 4 · [OOP](../topics/oop.md) 4 · [SQL](../topics/sql.md) 4 · [Python & Pandas](../topics/python-pandas.md) 2 · +9 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +9 more
@@ -154,7 +154,7 @@ About 50 questions, all MCQs. Distribution:
 - 3-5 language-specific questions (Java and C++ in this set)
 - 2 questions from MS Excel VLOOKUP
 
-<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L142), [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L143), [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L146), [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L148) · Also asked at: IIT Indore (2026-11-18)</sub>
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L142), [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L143), [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L146), [chat, 15 Nov](../archive/icici-oa/2026-11.jsonl#L148) · Also asked at: IIT Indore (2026-11-18), IIT BHU (2026-11-24)</sub>
 
 ## 2026-11-14 · IIT Indore · FTE
 

@@ -1,13 +1,26 @@
 # Amazon
 
-**25 questions** · 22 drives · latest 23 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**34 questions** · 26 drives · latest 25 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 19 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [Hashing](../topics/hashing.md) 1 · [Trees](../topics/trees.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +6 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 21 · [Arrays](../topics/arrays.md) 6 · [Greedy](../topics/greedy.md) 3 · [Hashing](../topics/hashing.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Binary Search](../topics/binary-search.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [Strings](../topics/strings.md) 2 · +8 more  
 **Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +7 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · IIT BHU · FTE · SDE](#2026-11-25--iit-bhu--fte--sde)
+  - [Amazon on-campus SDE OA pattern and shortlist](#q1-amazon-on-campus-sde-oa-pattern-and-shortlist)
+- [2026-11-24 · Unknown · Unknown · SDE · Other round](#2026-11-24--unknown--unknown--sde--other-round)
+  - [Amazon OA and interview pattern](#q1-amazon-oa-and-interview-pattern)
+- [2026-11-24 · Unknown · Unknown](#2026-11-24--unknown--unknown)
+  - [Make Power Non-decreasing](#q1-make-power-non-decreasing)
+  - [Delivery Logs](#q2-delivery-logs)
+  - [Maximum consecutive 1s after flipping a substring](#q3-maximum-consecutive-1s-after-flipping-a-substring)
+  - [Task scheduling based on worker throughput](#q4-task-scheduling-based-on-worker-throughput)
+  - [Search in a row-wise and column-wise sorted matrix](#q5-search-in-a-row-wise-and-column-wise-sorted-matrix)
+  - [Clone linked list with random pointer](#q6-clone-linked-list-with-random-pointer)
+- [2026-11-24 · IIT Roorkee · FTE · SDE](#2026-11-24--iit-roorkee--fte--sde)
+  - [Development question](#q1-development-question)
 - [2026-11-20 · Unknown · FTE](#2026-11-20--unknown--fte)
   - [Amazon OA format](#q1-amazon-oa-format)
 - [2026-11-18 · IIT Kharagpur/Kanpur · FTE](#2026-11-18--iit-kharagpurkanpur--fte)
@@ -60,13 +73,102 @@
 
 ---
 
+## 2026-11-25 · IIT BHU · FTE · SDE
+
+### Q1. Amazon on-campus SDE OA pattern and shortlist
+
+From shared experiences (on-campus SDE):
+
+- CGPA cutoff was 6.5 (1 shared experience, IIT BHU)
+- OA had 2 medium DSA problems, and passing both got shortlisted (same experience)
+- Around 50 students got shortlisted after the OA (another IIT BHU experience)
+
+Exact questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/amazon-oa/2026-11.jsonl#L251)</sub>
+
+## 2026-11-24 · Unknown · Unknown · SDE · Other round
+
+### Q1. Amazon OA and interview pattern
+
+As per 5 shared experiences:
+
+- OA: 2 coding questions (mostly array + graph, sometimes hard)
+- Then 2 to 3 tech rounds, mostly DSA; LLD/HLD came up in 3 of them
+- Projects and LP questions in the HR/manager round
+- Heaps, linked lists and DP were also asked
+
+Exact questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/amazon-oa/2026-11.jsonl#L237)</sub>
+
+## 2026-11-24 · Unknown · Unknown
+
+### Q1. Make Power Non-decreasing
+
+Recently reported coding question: Make Power Non-decreasing (Greedy / Arrays).
+
+Only the problem name was given; the full statement is missing.
+
+<sub>Topics: Greedy, Arrays · Same idea: [LeetCode 1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) (Hard), Greedy summing adjacent differences for subarray increments · Source: [chat, 24 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L524)</sub>
+
+### Q2. Delivery Logs
+
+Recently reported coding question: Delivery Logs (Array / Simulation).
+
+Only the problem name was given; the full statement is missing.
+
+<sub>Topics: Arrays · Source: [chat, 24 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L524)</sub>
+
+### Q3. Maximum consecutive 1s after flipping a substring
+
+Recently reported coding question: Maximum consecutive 1s after flipping a substring.
+
+Only the problem name was given; the constraints and full statement are missing.
+
+<sub>Topics: Arrays, Strings · Same idea: [LeetCode 1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) (Medium), Sliding window for longest ones run after flips · Source: [chat, 24 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L524)</sub>
+
+### Q4. Task scheduling based on worker throughput
+
+Recently reported coding question: Task Scheduling based on worker throughput.
+
+Only the problem name was given; the full statement is missing.
+
+<sub>Topics: Other · Source: [chat, 24 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L524)</sub>
+
+### Q5. Search in a row-wise and column-wise sorted matrix
+
+Recently reported coding question: Search in a Row-wise and Column-wise Sorted Matrix.
+
+Only the problem name was given; the full statement is missing.
+
+<sub>Topics: Binary Search, Arrays · Similar: [LeetCode 240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) (Medium) · Source: [chat, 24 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L524)</sub>
+
+### Q6. Clone linked list with random pointer
+
+Recently reported coding question: Clone Linked List with Random Pointer.
+
+Only the problem name was given; the full statement is missing.
+
+<sub>Topics: Linked List, Hashing · Similar: [LeetCode 138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) (Medium) · Source: [chat, 24 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L524)</sub>
+
+## 2026-11-24 · IIT Roorkee · FTE · SDE
+
+### Q1. Development question
+
+There was also 1 development question.
+
+Its statement was not given.
+
+<sub>Topics: Software Engineering · Source: [chat, 24 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L336), [chat, 24 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L337)</sub>
+
 ## 2026-11-20 · Unknown · FTE
 
 ### Q1. Amazon OA format
 
 One shared OA had 1 medium DSA question, 1 code-repository based question, a behavioral section and a work style assessment. Top topics: arrays, greedy, sorting, hash table.
 
-<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/amazon-oa/2026-11.jsonl#L215)</sub>
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/amazon-oa/2026-11.jsonl#L215) · Also asked at: Unknown (2026-11-24)</sub>
 
 ## 2026-11-18 · IIT Kharagpur/Kanpur · FTE
 
@@ -148,7 +250,7 @@ Possible operations: sort indices 0 to 2 gives [1, 3, 5, 4, 2]; sort indices 1 t
 
 Explanation: Since zero operations are allowed, the original array is already the lexicographically maximum possible arrangement. Sorting any subarray in ascending order cannot make the array lexicographically larger.
 
-<sub>Topics: Arrays, Sorting, Greedy · Source: [chat, 11 Nov](../archive/amazon-oa/2026-11.jsonl#L140) · Also asked at: IIT Kharagpur ×2 (last 2026-11-11), IIT Kharagpur/Kanpur (2026-11-11), IIT Delhi (2026-11-12)</sub>
+<sub>Topics: Arrays, Sorting, Greedy · Source: [chat, 11 Nov](../archive/amazon-oa/2026-11.jsonl#L140) · Also asked at: IIT Kharagpur ×2 (last 2026-11-11), IIT Kharagpur/Kanpur (2026-11-11), IIT Delhi (2026-11-12), IIT Roorkee (2026-11-24)</sub>
 
 ## 2026-11-10 · IIT Roorkee · FTE
 
@@ -240,7 +342,7 @@ The details of the specific bugs and the DSA questions were not shared.
 
 The OA had 1 coding question and 1 debugging question, in a proper setup with all the files and an inbuilt chatbot. The debugging question could be done in C++. The actual question statements were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L151), [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L163), [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L164)</sub>
+<sub>Topics: OA Format · Source: [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L151), [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L163), [chat, 5 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L164) · Also asked at: IIT Roorkee ×2 (last 2026-11-24)</sub>
 
 ### Q3. Minimize max inconvenience after opening one store
 

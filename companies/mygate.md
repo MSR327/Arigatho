@@ -1,13 +1,17 @@
 # MyGate
 
-**5 questions** · 4 drives · latest 15 Oct 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**7 questions** · 6 drives · latest 24 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 2 · [Arrays](../topics/arrays.md) 2 · [Sliding Window](../topics/sliding-window.md) 2 · [Greedy](../topics/greedy.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · [Strings](../topics/strings.md) 1 · [Hashing](../topics/hashing.md) 1 · [OA Format](../topics/oa-format.md) 1 · +3 more  
-**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati
+**Asks about:** [Arrays](../topics/arrays.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Math](../topics/math.md) 2 · [Sliding Window](../topics/sliding-window.md) 2 · [Greedy](../topics/greedy.md) 1 · [Bit Manipulation](../topics/bit-manipulation.md) 1 · [Strings](../topics/strings.md) 1 · [Hashing](../topics/hashing.md) 1 · +4 more  
+**Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · Unknown · FTE · SDE](#2026-11-24--unknown--fte--sde)
+  - [MyGate SDE OA pattern](#q1-mygate-sde-oa-pattern)
+- [2026-11-24 · IIT Roorkee · FTE · SDE](#2026-11-24--iit-roorkee--fte--sde)
+  - [MyGate SDE OA pattern](#q1-mygate-sde-oa-pattern-1)
 - [2026-10-15 · IIT Guwahati · FTE](#2026-10-15--iit-guwahati--fte)
   - [Sliding Window Maximum (LeetCode 239)](#q1-sliding-window-maximum-leetcode-239)
 - [2026-10-13 · IIT Delhi · FTE](#2026-10-13--iit-delhi--fte)
@@ -21,6 +25,28 @@
 </details>
 
 ---
+
+## 2026-11-24 · Unknown · FTE · SDE
+
+### Q1. MyGate SDE OA pattern
+
+Summary based on 5 shared experiences:
+
+- 2 coding questions: one array-based and one DP
+- Rated medium
+- OAHelper has 4 of their questions, all coding, such as "minimum operations to make an array non-decreasing"
+
+Full question statements are not given.
+
+<sub>Topics: OA Format, Arrays, DP · Same idea: [LeetCode 1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) (Easy), Greedy operation count to enforce array order · Source: [chat, 24 Nov](../archive/inter-nit/2026-11.jsonl#L2447)</sub>
+
+## 2026-11-24 · IIT Roorkee · FTE · SDE
+
+### Q1. MyGate SDE OA pattern
+
+2 DSA questions. The problems themselves were not given.
+
+<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/inter-nit/2026-11.jsonl#L2474)</sub>
 
 ## 2026-10-15 · IIT Guwahati · FTE
 

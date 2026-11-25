@@ -1,13 +1,15 @@
 # NatWest
 
-**47 questions** · 23 drives · latest 19 Nov 2026 · [19 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**48 questions** · 24 drives · latest 24 Nov 2026 · [19 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Arrays](../topics/arrays.md) 10 · [Graphs](../topics/graphs.md) 7 · [Greedy](../topics/greedy.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · +8 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Arrays](../topics/arrays.md) 10 · [Graphs](../topics/graphs.md) 8 · [Greedy](../topics/greedy.md) 6 · [Hashing](../topics/hashing.md) 6 · [SQL](../topics/sql.md) 5 · [Strings](../topics/strings.md) 5 · [Math](../topics/math.md) 5 · +9 more  
 **Seen at:** Delhi Technological University, Delhi Technological University (DTU), IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · Unknown · Unknown · Interview](#2026-11-24--unknown--unknown--interview)
+  - [NatWest interview rounds and topics (summary of 5 experiences)](#q1-natwest-interview-rounds-and-topics-summary-of-5-experiences)
 - [2026-11-19 · Unknown · FTE · Other round](#2026-11-19--unknown--fte--other-round)
   - [NatWest process overview](#q1-natwest-process-overview)
 - [2026-11-09 · IIT Guwahati · FTE](#2026-11-09--iit-guwahati--fte)
@@ -82,6 +84,21 @@
 </details>
 
 ---
+
+## 2026-11-24 · Unknown · Unknown · Interview
+
+### Q1. NatWest interview rounds and topics (summary of 5 experiences)
+
+Summary from 5 shared experiences:
+
+- Most NatWest interviews had 3 rounds (one had just 1).
+- Projects came up in all 5, with deep dives on tech stack and architecture.
+- DSA came up in 4 of them: grid path, pair finding, a hard Dijkstra variation.
+- OS, OOPs, DBMS and HR also came up; system design in 1.
+
+Exact problem statements are not given.
+
+<sub>Topics: OA Format, Graphs, HR & Behavioral · Source: [chat, 24 Nov](../archive/natwest-oa/2026-11.jsonl#L97)</sub>
 
 ## 2026-11-19 · Unknown · FTE · Other round
 

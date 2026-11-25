@@ -1,13 +1,16 @@
 # American Express
 
-**75 questions** · 41 drives · latest 31 Oct 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**77 questions** · 42 drives · latest 24 Nov 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 40 · [ML/AI](../topics/ml-ai.md) 16 · [Hashing](../topics/hashing.md) 6 · [Strings](../topics/strings.md) 5 · [Sliding Window](../topics/sliding-window.md) 5 · [Trees](../topics/trees.md) 5 · [Graphs](../topics/graphs.md) 5 · [Other](../topics/other.md) 4 · +10 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 40 · [ML/AI](../topics/ml-ai.md) 16 · [Hashing](../topics/hashing.md) 6 · [Strings](../topics/strings.md) 5 · [Sliding Window](../topics/sliding-window.md) 5 · [Trees](../topics/trees.md) 5 · [Graphs](../topics/graphs.md) 5 · [Other](../topics/other.md) 4 · +12 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Mandi +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · Unknown · FTE · Data Scientist · Interview](#2026-11-24--unknown--fte--data-scientist--interview)
+  - [Detailed project discussion](#q1-detailed-project-discussion)
+  - [Guesstimate: daily revenue of a restaurant](#q2-guesstimate-daily-revenue-of-a-restaurant)
 - [2026-10-31 · IIT Roorkee · FTE](#2026-10-31--iit-roorkee--fte)
   - [Amex OA proctoring format](#q1-amex-oa-proctoring-format)
 - [2026-10-31 · IIT Guwahati · FTE · AI Engineer / Data Science](#2026-10-31--iit-guwahati--fte--ai-engineer--data-science)
@@ -128,6 +131,24 @@
 </details>
 
 ---
+
+## 2026-11-24 · Unknown · FTE · Data Scientist · Interview
+
+### Q1. Detailed project discussion
+
+The interview starts with your project, followed by a detailed discussion on it.
+
+From 1 shared experience (1 round, approx 20 mins).
+
+<sub>Topics: HR & Behavioral · Source: [chat, 24 Nov](../archive/american-express-oa/2026-11.jsonl#L25) · Also asked at: Unknown (2026-11-24)</sub>
+
+### Q2. Guesstimate: daily revenue of a restaurant
+
+Guesstimate: the revenue of a restaurant in a day.
+
+From 1 shared experience (1 round, approx 20 mins).
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 24 Nov](../archive/american-express-oa/2026-11.jsonl#L25) · Also asked at: Unknown (2026-11-24)</sub>
 
 ## 2026-10-31 · IIT Roorkee · FTE
 

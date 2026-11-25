@@ -1,13 +1,15 @@
 # Meesho
 
-**3 questions** · 3 drives · latest 22 Nov 2026 · [← all companies](../README.md#companies)
+**4 questions** · 4 drives · latest 24 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
-**Seen at:** IIT BHU, IIT Roorkee, NIT Surathkal
+**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
+**Seen at:** IIT BHU, IIT Dhanbad, IIT Roorkee, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · IIT Dhanbad · FTE · Interview](#2026-11-24--iit-dhanbad--fte--interview)
+  - [Guesstimate: biryanis sold in Hyderabad](#q1-guesstimate-biryanis-sold-in-hyderabad)
 - [2026-11-22 · IIT BHU · FTE · Senior Business Associate · Interview](#2026-11-22--iit-bhu--fte--senior-business-associate--interview)
   - [Meesho AI interview structure for Business Associate](#q1-meesho-ai-interview-structure-for-business-associate)
 - [2026-11-21 · NIT Surathkal · FTE · Interview](#2026-11-21--nit-surathkal--fte--interview)
@@ -18,6 +20,14 @@
 </details>
 
 ---
+
+## 2026-11-24 · IIT Dhanbad · FTE · Interview
+
+### Q1. Guesstimate: biryanis sold in Hyderabad
+
+Estimate the number of biryanis sold in Hyderabad.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 24 Nov](../archive/meesho-oa/2026-11.jsonl#L27), [chat, 24 Nov](../archive/meesho-oa/2026-11.jsonl#L28)</sub>
 
 ## 2026-11-22 · IIT BHU · FTE · Senior Business Associate · Interview
 

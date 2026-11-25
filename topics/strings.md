@@ -1,9 +1,16 @@
 # Strings
 
-136 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+143 questions from 58 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: hex/binary register dump bit-fields](../companies/ibm.md#q5-python-hexbinary-register-dump-bit-fields) | ≈ [LC 405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) Easy |
+| 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: parse logs and count events](../companies/ibm.md#q4-python-parse-logs-and-count-events) | ≈ [LC 811](https://leetcode.com/problems/subdomain-visit-count/) Medium |
+| 2026-11-24 | [Dassault Systemes](../companies/dassault-systemes.md) | NIT Warangal | [Easy string coding question](../companies/dassault-systemes.md#q3-easy-string-coding-question) | |
+| 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Maximum consecutive 1s after flipping a substring](../companies/amazon.md#q3-maximum-consecutive-1s-after-flipping-a-substring) | ≈ [LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/) Medium |
+| 2026-11-24 | [Cars24](../companies/cars24.md) | Unknown | [Valid Anagram](../companies/cars24.md#q4-valid-anagram) | [LC 242](https://leetcode.com/problems/valid-anagram/) Easy |
+| 2026-11-24 | [Cars24](../companies/cars24.md) | Unknown | [Longest Common Subsequence](../companies/cars24.md#q2-longest-common-subsequence) | [LC 1143](https://leetcode.com/problems/longest-common-subsequence/) Medium |
+| 2026-11-24 | [AlgoQuant](../companies/algoquant.md) | IIT Bombay | [Count good subsequences](../companies/algoquant.md#q3-count-good-subsequences) | [LC 2539](https://leetcode.com/problems/count-the-number-of-good-subsequences/) Medium |
 | 2026-11-23 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Project-based text processing and embedding similarity](../companies/cars24.md#q1-project-based-text-processing-and-embedding-similarity) | |
 | 2026-11-23 | [Tredence](../companies/tredence.md) | IIT Madras | [Count frequency of each vowel in a string](../companies/tredence.md#q2-count-frequency-of-each-vowel-in-a-string) | |
 | 2026-11-20 | [Deloitte](../companies/deloitte.md) | Unknown | [Reverse a string](../companies/deloitte.md#q1-reverse-a-string) | [LC 344](https://leetcode.com/problems/reverse-string/) Easy |

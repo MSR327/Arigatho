@@ -1,13 +1,17 @@
 # Urban Company
 
-**9 questions** · 4 drives · latest 13 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**12 questions** · 7 drives · latest 24 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Arrays](../topics/arrays.md) 3 · [DP](../topics/dp.md) 2 · [Graphs](../topics/graphs.md) 2 · [Aptitude](../topics/aptitude.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Strings](../topics/strings.md) 1  
-**Seen at:** IIT Kharagpur, IIT Kharagpur/Kanpur, NIT Kurukshetra, NIT Surathkal
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [DP](../topics/dp.md) 3 · [Arrays](../topics/arrays.md) 3 · [Graphs](../topics/graphs.md) 3 · [Aptitude](../topics/aptitude.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 2 · [Strings](../topics/strings.md) 1  
+**Seen at:** IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee, NIT Kurukshetra, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · Unknown · Unknown](#2026-11-24--unknown--unknown)
+  - [Urban Company OA coding round (summary of 3 experiences)](#q1-urban-company-oa-coding-round-summary-of-3-experiences)
+- [2026-11-20 · IIT Roorkee · FTE · Senior Category Manager · Interview](#2026-11-20--iit-roorkee--fte--senior-category-manager--interview)
+  - [Senior Category Manager interview rounds](#q1-senior-category-manager-interview-rounds)
 - [2026-11-13 · NIT Kurukshetra · FTE](#2026-11-13--nit-kurukshetra--fte)
   - [OA format and difficulty](#q1-oa-format-and-difficulty)
   - [Longest Common Subsequence](#q2-longest-common-subsequence)
@@ -17,6 +21,8 @@
   - [Count palindromic paths in a binary matrix](#q6-count-palindromic-paths-in-a-binary-matrix)
 - [2026-11-11 · NIT Surathkal · FTE](#2026-11-11--nit-surathkal--fte)
   - [Urban Company OA format](#q1-urban-company-oa-format)
+- [2026-11-11 · IIT Roorkee · FTE · Senior Category Manager](#2026-11-11--iit-roorkee--fte--senior-category-manager)
+  - [Senior Category Manager OA contents](#q1-senior-category-manager-oa-contents)
 - [2026-11-11 · IIT Kharagpur · FTE](#2026-11-11--iit-kharagpur--fte)
   - [Urban Company OA pattern](#q1-urban-company-oa-pattern)
 - [2026-11-07 · NIT Kurukshetra · FTE](#2026-11-07--nit-kurukshetra--fte)
@@ -25,6 +31,29 @@
 </details>
 
 ---
+
+## 2026-11-24 · Unknown · Unknown
+
+### Q1. Urban Company OA coding round (summary of 3 experiences)
+
+As per 3 shared experiences:
+
+- The OA coding round had a medium DP problem each time, plus an array or graph question.
+- Rotten oranges style problems also came up, one in the OA and one in interviews.
+
+Exact problem statements are not given.
+
+<sub>Topics: OA Format, DP, Graphs · Close variant: [LeetCode 994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) (Medium), Multi-source BFS on a grid, the named rotten oranges style · Source: [chat, 24 Nov](../archive/urban-company-oa/2026-11.jsonl#L3)</sub>
+
+## 2026-11-20 · IIT Roorkee · FTE · Senior Category Manager · Interview
+
+### Q1. Senior Category Manager interview rounds
+
+From 1 shared experience (on campus at IIT Roorkee, Nov 20): case study, guesstimates, product strategy, then HR.
+
+Specific questions are not given.
+
+<sub>Topics: Guesstimates & Cases, HR & Behavioral · Source: [chat, 24 Nov](../archive/urban-company-oa/2026-11.jsonl#L5)</sub>
 
 ## 2026-11-13 · NIT Kurukshetra · FTE
 
@@ -71,6 +100,16 @@ Count paths in a binary matrix where the sequence formed along the path is a pal
 At NITK the OA had only aptitude MCQs and data interpretation.
 
 <sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/inter-iit/2026-11.jsonl#L600) · Also asked at: NIT Surathkal (2026-11-11), NIT Kurukshetra (2026-11-11)</sub>
+
+## 2026-11-11 · IIT Roorkee · FTE · Senior Category Manager
+
+### Q1. Senior Category Manager OA contents
+
+The OA (Nov 11, per calendar) was mostly aptitude + a basic business case.
+
+Specific questions are not given.
+
+<sub>Topics: OA Format, Aptitude, Guesstimates & Cases · Source: [chat, 24 Nov](../archive/urban-company-oa/2026-11.jsonl#L5)</sub>
 
 ## 2026-11-11 · IIT Kharagpur · FTE
 

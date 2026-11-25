@@ -1,9 +1,19 @@
 # OS/DBMS/CN MCQ
 
-149 questions from 32 companys, newest first. [← all topics](../README.md#topics)
+159 questions from 37 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [OS: deadlock, paging, semaphores vs mutex](../companies/kla.md#q2-os-deadlock-paging-semaphores-vs-mutex) | |
+| 2026-11-24 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Application Engineer interview topics](../companies/idfc-first-bank.md#q1-application-engineer-interview-topics) | |
+| 2026-11-24 | [HCLTech](../companies/hcltech.md) | Unknown | [Technical round 2: DBMS, OS and scenario questions](../companies/hcltech.md#q2-technical-round-2-dbms-os-and-scenario-questions) | |
+| 2026-11-24 | [Evernorth](../companies/evernorth.md) | NIT Raipur | [Evernorth OA pattern](../companies/evernorth.md#q1-evernorth-oa-pattern) | |
+| 2026-11-24 | [Ola](../companies/ola.md) | Unknown | [Ola Cloud selection process](../companies/ola.md#q1-ola-cloud-selection-process) | |
+| 2026-11-24 | [Ola](../companies/ola.md) | IIT Kharagpur/Kanpur | [Ola SDE OA MCQ topics](../companies/ola.md#q1-ola-sde-oa-mcq-topics) | |
+| 2026-11-24 | [KLA](../companies/kla.md) | NIT Rourkela | [KLA round 2: OS, CN and projects](../companies/kla.md#q1-kla-round-2-os-cn-and-projects) | |
+| 2026-11-24 | [KLA](../companies/kla.md) | MNNIT Allahabad | [Projects, OS, DBMS and HR discussion](../companies/kla.md#q2-projects-os-dbms-and-hr-discussion) | |
+| 2026-11-24 | [Jio Platforms](../companies/jio-platforms.md) | NIT Raipur | [Jio interview rounds and topics](../companies/jio-platforms.md#q1-jio-interview-rounds-and-topics) | |
+| 2026-11-24 | [Moneyview](../companies/moneyview.md) | Unknown | [Moneyview interview topics](../companies/moneyview.md#q1-moneyview-interview-topics) | |
 | 2026-11-23 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI OA topics: OOPs and computer networks](../companies/icici.md#q1-icici-oa-topics-oops-and-computer-networks) | |
 | 2026-11-22 | [LPL Financial](../companies/lpl-financial.md) | IIT Hyderabad | [LPL Financial GCC interview topics](../companies/lpl-financial.md#q1-lpl-financial-gcc-interview-topics) | |
 | 2026-11-20 | [Unknown](../companies/unknown.md) | MNNIT Allahabad | [Tescra OA pattern](../companies/unknown.md#q1-tescra-oa-pattern) | |

@@ -1,13 +1,15 @@
 # Accordion
 
-**41 questions** · 16 drives · latest 23 Nov 2026 · [← all companies](../README.md#companies)
+**42 questions** · 17 drives · latest 24 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 27 · [OA Format](../topics/oa-format.md) 13 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +2 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 28 · [OA Format](../topics/oa-format.md) 14 · [Finance](../topics/finance.md) 10 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [Math](../topics/math.md) 6 · [SQL](../topics/sql.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +2 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · IIT Dhanbad · FTE](#2026-11-24--iit-dhanbad--fte)
+  - [Accordion test pattern](#q1-accordion-test-pattern)
 - [2026-11-19 · MNNIT Allahabad · FTE · Data & AI Engineer · Interview](#2026-11-19--mnnit-allahabad--fte--data--ai-engineer--interview)
   - [Accordion Data & AI engineer interview experiences](#q1-accordion-data--ai-engineer-interview-experiences)
 - [2026-11-19 · IIT Roorkee · FTE · Data & AI Engineer](#2026-11-19--iit-roorkee--fte--data--ai-engineer)
@@ -69,6 +71,14 @@
 </details>
 
 ---
+
+## 2026-11-24 · IIT Dhanbad · FTE
+
+### Q1. Accordion test pattern
+
+Pattern: business aptitude (given in reply to a request for the Accordion pattern). No further details.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 24 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L92)</sub>
 
 ## 2026-11-19 · MNNIT Allahabad · FTE · Data & AI Engineer · Interview
 

@@ -1,9 +1,13 @@
 # Graphs
 
-165 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+169 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [DSA topics in KLA technical rounds](../companies/kla.md#q1-dsa-topics-in-kla-technical-rounds) | |
+| 2026-11-24 | [KLA](../companies/kla.md) | MNNIT Allahabad | [KLA SDE OA pattern](../companies/kla.md#q1-kla-sde-oa-pattern) | |
+| 2026-11-24 | [Urban Company](../companies/urban-company.md) | Unknown | [Urban Company OA coding round (summary of 3 experiences)](../companies/urban-company.md#q1-urban-company-oa-coding-round-summary-of-3-experiences) | [LC 994](https://leetcode.com/problems/rotting-oranges/) Medium |
+| 2026-11-24 | [NatWest](../companies/natwest.md) | Unknown | [NatWest interview rounds and topics (summary of 5 experiences)](../companies/natwest.md#q1-natwest-interview-rounds-and-topics-summary-of-5-experiences) | |
 | 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 3: project discussion, knight moves BFS, OOPs](../companies/kla.md#q3-kla-round-3-project-discussion-knight-moves-bfs-oops) | [LC 1197](https://leetcode.com/problems/minimum-knight-moves/) Medium |
 | 2026-11-22 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Last day where you can still cross](../companies/cars24.md#q1-last-day-where-you-can-still-cross) | [LC 1970](https://leetcode.com/problems/last-day-where-you-can-still-cross/) Hard |
 | 2026-11-21 | [Juspay](../companies/juspay.md) | IIT Roorkee | [Employee Removal Order](../companies/juspay.md#q1-employee-removal-order) | ≈ [LC 210](https://leetcode.com/problems/course-schedule-ii/) Medium |

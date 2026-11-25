@@ -1,9 +1,18 @@
 # Arrays
 
-286 questions from 77 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+295 questions from 80 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-24 | [Dassault Systemes](../companies/dassault-systemes.md) | NIT Warangal | [Find min/max](../companies/dassault-systemes.md#q1-find-minmax) | [GfG](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) |
+| 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Search in a row-wise and column-wise sorted matrix](../companies/amazon.md#q5-search-in-a-row-wise-and-column-wise-sorted-matrix) | [LC 240](https://leetcode.com/problems/search-a-2d-matrix-ii/) Medium |
+| 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Maximum consecutive 1s after flipping a substring](../companies/amazon.md#q3-maximum-consecutive-1s-after-flipping-a-substring) | ≈ [LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/) Medium |
+| 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Delivery Logs](../companies/amazon.md#q2-delivery-logs) | |
+| 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Make Power Non-decreasing](../companies/amazon.md#q1-make-power-non-decreasing) | ≈ [LC 1526](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) Hard |
+| 2026-11-24 | [Cars24](../companies/cars24.md) | Unknown | [Product of Array Except Self](../companies/cars24.md#q3-product-of-array-except-self) | [LC 238](https://leetcode.com/problems/product-of-array-except-self/) Medium |
+| 2026-11-24 | [KLA](../companies/kla.md) | MNNIT Allahabad | [KLA SDE OA pattern](../companies/kla.md#q1-kla-sde-oa-pattern) | |
+| 2026-11-24 | [Hewlett Packard Enterprise](../companies/hewlett-packard-enterprise.md) | IIT BHU | [Lexicographically smallest four indices with equal pair sums](../companies/hewlett-packard-enterprise.md#q1-lexicographically-smallest-four-indices-with-equal-pair-sums) | |
+| 2026-11-24 | [MyGate](../companies/mygate.md) | Unknown | [MyGate SDE OA pattern](../companies/mygate.md#q1-mygate-sde-oa-pattern) | ≈ [LC 1827](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) Easy |
 | 2026-11-23 | [Stripe](../companies/stripe.md) | IIT Roorkee | [Merchant fraud score from transactions and rules](../companies/stripe.md#q1-merchant-fraud-score-from-transactions-and-rules) | |
 | 2026-11-23 | [Tredence](../companies/tredence.md) | IIT Madras | [Frequency count in a vector](../companies/tredence.md#q3-frequency-count-in-a-vector) | |
 | 2026-11-23 | [Epsilon](../companies/epsilon.md) | Unknown | [Epsilon in-person interview: coding round](../companies/epsilon.md#q1-epsilon-in-person-interview-coding-round) | |

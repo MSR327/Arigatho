@@ -1,13 +1,21 @@
 # IBM
 
-**29 questions** · 20 drives · latest 24 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**35 questions** · 22 drives · latest 25 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [HR & Behavioral](../topics/hr-behavioral.md) 9 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Greedy](../topics/greedy.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Math](../topics/math.md) 1 · +4 more  
-**Seen at:** IIIT, IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +6 more
+**Asks about:** [OA Format](../topics/oa-format.md) 13 · [HR & Behavioral](../topics/hr-behavioral.md) 9 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Digital Electronics](../topics/digital-electronics.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · [Greedy](../topics/greedy.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · +8 more  
+**Seen at:** IIIT, IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +7 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · IIT BHU · FTE](#2026-11-25--iit-bhu--fte)
+  - [Repo task: implement movie pass checks from architecture.md](#q1-repo-task-implement-movie-pass-checks-from-architecturemd)
+- [2026-11-24 · NIT Karnataka Surathkal · Unknown · Hardware](#2026-11-24--nit-karnataka-surathkal--unknown--hardware)
+  - [Verilog: first non-zero bit or bit reversal](#q1-verilog-first-non-zero-bit-or-bit-reversal)
+  - [Verilog: sequence detector or bus handshake](#q2-verilog-sequence-detector-or-bus-handshake)
+  - [Verilog: overlap-safe memory block copy or shift](#q3-verilog-overlap-safe-memory-block-copy-or-shift)
+  - [Python: parse logs and count events](#q4-python-parse-logs-and-count-events)
+  - [Python: hex/binary register dump bit-fields](#q5-python-hexbinary-register-dump-bit-fields)
 - [2026-11-09 · Unknown · FTE](#2026-11-09--unknown--fte)
   - [Complex data analysis situation](#q1-complex-data-analysis-situation)
 - [2026-11-07 · IIT Roorkee · FTE](#2026-11-07--iit-roorkee--fte)
@@ -61,6 +69,50 @@
 </details>
 
 ---
+
+## 2026-11-25 · IIT BHU · FTE
+
+### Q1. Repo task: implement movie pass checks from architecture.md
+
+The OA had DSA plus a partially solved repo.
+
+For the repo question, the instructions are in the `architecture.md` file; you have to implement those checks in the movie pass file.
+
+The exact list of checks is not given.
+
+<sub>Topics: Software Engineering, OA Format · Source: [chat, 25 Nov](../archive/ibm-oa/2026-11.jsonl#L155), [chat, 25 Nov](../archive/ibm-oa/2026-11.jsonl#L159), [chat, 25 Nov](../archive/ibm-oa/2026-11.jsonl#L160)</sub>
+
+## 2026-11-24 · NIT Karnataka Surathkal · Unknown · Hardware
+
+### Q1. Verilog: first non-zero bit or bit reversal
+
+Past OA problem (Verilog): Writing a combinational or sequential module to find the position of the first non-zero bit (leading/trailing zero detector or priority encoder) or reversing bit vectors.
+
+<sub>Topics: Digital Electronics · Source: [chat, 24 Nov](../archive/campus-nit-surathkal-placements/2026-11.jsonl#L80)</sub>
+
+### Q2. Verilog: sequence detector or bus handshake
+
+Past OA problem (Verilog): Implementing a sequence detector (overlapping or non-overlapping) or a simple bus handshake protocol (valid/ready signaling).
+
+<sub>Topics: Digital Electronics · Source: [chat, 24 Nov](../archive/campus-nit-surathkal-placements/2026-11.jsonl#L80)</sub>
+
+### Q3. Verilog: overlap-safe memory block copy or shift
+
+Past OA problem (Verilog): Logic to copy or shift a block of data across memory addresses while safely handling overlapping source and destination ranges.
+
+<sub>Topics: Digital Electronics · Source: [chat, 24 Nov](../archive/campus-nit-surathkal-placements/2026-11.jsonl#L80)</sub>
+
+### Q4. Python: parse logs and count events
+
+Past OA problem (Python): Reading multi-line simulation/error logs, filtering timestamps or error codes, and aggregating event counts using dictionaries or regular expressions.
+
+<sub>Topics: Python & Pandas, Strings, Hashing · Same idea: [LeetCode 811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) (Medium), Parse text records and aggregate counts in dictionary · Source: [chat, 24 Nov](../archive/campus-nit-surathkal-placements/2026-11.jsonl#L80)</sub>
+
+### Q5. Python: hex/binary register dump bit-fields
+
+Past OA problem (Python): Converting register dump strings between hexadecimal and binary formats to extract specific bit-fields or parity flags.
+
+<sub>Topics: Python & Pandas, Bit Manipulation, Strings · Same idea: [LeetCode 405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) (Easy), Hex and binary conversion using bit-field masking · Source: [chat, 24 Nov](../archive/campus-nit-surathkal-placements/2026-11.jsonl#L80)</sub>
 
 ## 2026-11-09 · Unknown · FTE
 

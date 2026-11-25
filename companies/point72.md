@@ -1,13 +1,15 @@
 # Point72
 
-**8 questions** · 5 drives · latest 23 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 6 drives · latest 25 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Greedy](../topics/greedy.md) 4 · [OA Format](../topics/oa-format.md) 3 · [Sorting](../topics/sorting.md) 2 · [Heaps](../topics/heaps.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Math](../topics/math.md) 1 · +2 more  
+**Asks about:** [Greedy](../topics/greedy.md) 4 · [OA Format](../topics/oa-format.md) 4 · [Sorting](../topics/sorting.md) 2 · [Heaps](../topics/heaps.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Math](../topics/math.md) 1 · +2 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Madras
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · Unknown · Unknown](#2026-11-25--unknown--unknown)
+  - [Point72 OA contents (summary of shared experiences)](#q1-point72-oa-contents-summary-of-shared-experiences)
 - [2026-11-23 · Unknown · FTE · Interview](#2026-11-23--unknown--fte--interview)
   - [Point72 interview rounds](#q1-point72-interview-rounds)
 - [2026-11-04 · IIT BHU · FTE](#2026-11-04--iit-bhu--fte)
@@ -26,6 +28,16 @@
 
 ---
 
+## 2026-11-25 · Unknown · Unknown
+
+### Q1. Point72 OA contents (summary of shared experiences)
+
+From 5 shared experiences: the OA was DSA + debugging.
+
+Specific questions are not given.
+
+<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/point72-oa/2026-11.jsonl#L48)</sub>
+
 ## 2026-11-23 · Unknown · FTE · Interview
 
 ### Q1. Point72 interview rounds
@@ -39,7 +51,7 @@ Interviews went 3 to 4 rounds (summary of 4 shared experiences):
 
 Individual questions not given.
 
-<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/inter-nit/2026-11.jsonl#L2410)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/inter-nit/2026-11.jsonl#L2410) · Also asked at: Unknown (2026-11-25)</sub>
 
 ## 2026-11-04 · IIT BHU · FTE
 

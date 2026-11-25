@@ -1,9 +1,15 @@
 # DP
 
-171 questions from 62 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+177 questions from 65 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [DSA topics in KLA technical rounds](../companies/kla.md#q1-dsa-topics-in-kla-technical-rounds) | |
+| 2026-11-24 | [HCLTech](../companies/hcltech.md) | Unknown | [Technical round 1: DSA, projects and DP dry run](../companies/hcltech.md#q1-technical-round-1-dsa-projects-and-dp-dry-run) | |
+| 2026-11-24 | [Cars24](../companies/cars24.md) | Unknown | [Longest Common Subsequence](../companies/cars24.md#q2-longest-common-subsequence) | [LC 1143](https://leetcode.com/problems/longest-common-subsequence/) Medium |
+| 2026-11-24 | [AlgoQuant](../companies/algoquant.md) | IIT Bombay | [Count grid routes in a 0/1 grid](../companies/algoquant.md#q2-count-grid-routes-in-a-01-grid) | [LC 63](https://leetcode.com/problems/unique-paths-ii/) Medium |
+| 2026-11-24 | [Urban Company](../companies/urban-company.md) | Unknown | [Urban Company OA coding round (summary of 3 experiences)](../companies/urban-company.md#q1-urban-company-oa-coding-round-summary-of-3-experiences) | [LC 994](https://leetcode.com/problems/rotting-oranges/) Medium |
+| 2026-11-24 | [MyGate](../companies/mygate.md) | Unknown | [MyGate SDE OA pattern](../companies/mygate.md#q1-mygate-sde-oa-pattern) | ≈ [LC 1827](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) Easy |
 | 2026-11-22 | [Nutanix](../companies/nutanix.md) | IIT Kharagpur | [Cherry picker problem](../companies/nutanix.md#q1-cherry-picker-problem) | [LC 741](https://leetcode.com/problems/cherry-pickup/) Hard |
 | 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 2: binary search on answer and 1D DP](../companies/kla.md#q2-kla-round-2-binary-search-on-answer-and-1d-dp) | |
 | 2026-11-20 | [Axtria](../companies/axtria.md) | Unknown | [Highest partition score under a block cost ceiling](../companies/axtria.md#q1-highest-partition-score-under-a-block-cost-ceiling) | ≈ [LC 410](https://leetcode.com/problems/split-array-largest-sum/) Hard |

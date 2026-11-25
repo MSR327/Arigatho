@@ -2,3 +2,8 @@
 {"id": 33436, "group": "ola-oa", "sent_at": "2026-11-23T16:32:07.231884+00:00", "text": "ola paper?", "author_tag": "IITG", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 33437, "group": "ola-oa", "sent_at": "2026-11-23T16:32:21.670491+00:00", "text": "i have oa tomorrow", "author_tag": "IITG", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 33459, "group": "ola-oa", "sent_at": "2026-11-23T18:03:47.446863+00:00", "text": "Anyone know ola pattern for sde and cloud", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 33621, "group": "ola-oa", "sent_at": "2026-11-24T06:25:33.545754+00:00", "text": "Guyss OLA GET Chemical \nOA ke questions hai ?", "author_tag": "IITK", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 33624, "group": "ola-oa", "sent_at": "2026-11-24T06:40:19.419957+00:00", "text": "code and mcqs", "author_tag": "IITG", "reply_to": {"id": 33459, "text": "Anyone know ola pattern for sde and cloud", "author_tag": "IITR"}, "attachment": null, "deleted": false}
+{"id": 33634, "group": "ola-oa", "sent_at": "2026-11-24T06:46:53.71964+00:00", "text": "mcqs on core cs?", "author_tag": "IITR", "reply_to": {"id": 33624, "text": "code and mcqs", "author_tag": "IITG"}, "attachment": null, "deleted": false}
+{"id": 33721, "group": "ola-oa", "sent_at": "2026-11-24T10:29:39.50962+00:00", "text": "OLA sde questions anyone?", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 33847, "group": "ola-oa", "sent_at": "2026-11-24T13:39:14.749023+00:00", "text": "Mcq's on cloud, DBMS, Networks, Sysdesign", "author_tag": "IITK", "reply_to": {"id": 33721, "text": "OLA sde questions anyone?", "author_tag": "IITR"}, "attachment": null, "deleted": false}

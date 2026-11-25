@@ -1,9 +1,13 @@
 # Hashing
 
-123 questions from 56 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+127 questions from 58 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: parse logs and count events](../companies/ibm.md#q4-python-parse-logs-and-count-events) | ≈ [LC 811](https://leetcode.com/problems/subdomain-visit-count/) Medium |
+| 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Clone linked list with random pointer](../companies/amazon.md#q6-clone-linked-list-with-random-pointer) | [LC 138](https://leetcode.com/problems/copy-list-with-random-pointer/) Medium |
+| 2026-11-24 | [Cars24](../companies/cars24.md) | Unknown | [Valid Anagram](../companies/cars24.md#q4-valid-anagram) | [LC 242](https://leetcode.com/problems/valid-anagram/) Easy |
+| 2026-11-24 | [Hewlett Packard Enterprise](../companies/hewlett-packard-enterprise.md) | IIT BHU | [Lexicographically smallest four indices with equal pair sums](../companies/hewlett-packard-enterprise.md#q1-lexicographically-smallest-four-indices-with-equal-pair-sums) | |
 | 2026-11-23 | [Stripe](../companies/stripe.md) | IIT Roorkee | [Merchant fraud score from transactions and rules](../companies/stripe.md#q1-merchant-fraud-score-from-transactions-and-rules) | |
 | 2026-11-23 | [Tredence](../companies/tredence.md) | IIT Madras | [Frequency count in a vector](../companies/tredence.md#q3-frequency-count-in-a-vector) | |
 | 2026-11-23 | [Tredence](../companies/tredence.md) | IIT Madras | [Count frequency of each vowel in a string](../companies/tredence.md#q2-count-frequency-of-each-vowel-in-a-string) | |

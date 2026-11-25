@@ -1,13 +1,15 @@
 # Deloitte
 
-**75 questions** · 21 drives · latest 22 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**76 questions** · 22 drives · latest 24 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 22 · [OA Format](../topics/oa-format.md) 14 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · [SQL](../topics/sql.md) 6 · +14 more  
-**Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, IIT Ropar +4 more
+**Asks about:** [Aptitude](../topics/aptitude.md) 22 · [OA Format](../topics/oa-format.md) 14 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 7 · [SQL](../topics/sql.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · +14 more  
+**Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, IIT Ropar +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · NIT Rourkela · Unknown · Interview](#2026-11-24--nit-rourkela--unknown--interview)
+  - [SQL joins](#q1-sql-joins)
 - [2026-11-20 · Unknown · FTE · Analyst · Interview](#2026-11-20--unknown--fte--analyst--interview)
   - [Reverse a string](#q1-reverse-a-string)
   - [SQL highest salary](#q2-sql-highest-salary)
@@ -109,6 +111,14 @@
 
 ---
 
+## 2026-11-24 · NIT Rourkela · Unknown · Interview
+
+### Q1. SQL joins
+
+SQL joins came up in 4 experiences. The exact questions are not given.
+
+<sub>Topics: SQL · Source: [chat, 24 Nov](../archive/campus-nit-rourkela-placements/2026-11.jsonl#L31)</sub>
+
 ## 2026-11-20 · Unknown · FTE · Analyst · Interview
 
 ### Q1. Reverse a string
@@ -145,7 +155,7 @@ Technical interview (on-campus) covers OOPs, SQL (joins, salary queries), CS fun
 
 Hiring process for FTE roles: an online OA followed by a technical + HR interview round. (Question contents not given.)
 
-<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/inter-nit/2026-11.jsonl#L1102)</sub>
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/inter-nit/2026-11.jsonl#L1102) · Also asked at: NIT Rourkela (2026-11-24)</sub>
 
 ## 2026-11-10 · IIT Guwahati · FTE
 
@@ -1101,7 +1111,7 @@ The OA has data interpretation and aptitude questions.
 
 No individual questions were given.
 
-<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/deloitte-oa/2026-10.jsonl#L68) · Also asked at: MNNIT Allahabad (2026-10-25)</sub>
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/deloitte-oa/2026-10.jsonl#L68) · Also asked at: MNNIT Allahabad (2026-10-25), NIT Rourkela (2026-11-24)</sub>
 
 ## 2026-10-18 · NIT Raipur · FTE · Data Analyst
 

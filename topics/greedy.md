@@ -1,9 +1,10 @@
 # Greedy
 
-123 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+124 questions from 51 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Make Power Non-decreasing](../companies/amazon.md#q1-make-power-non-decreasing) | ≈ [LC 1526](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) Hard |
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Maximum Number of Strings](../companies/idfc-first-bank.md#q2-maximum-number-of-strings) | [LC 1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) Easy |
 | 2026-11-19 | [Walt Disney](../companies/walt-disney.md) | NIT Surathkal | [Maximum Number of Strings](../companies/walt-disney.md#q2-maximum-number-of-strings) | |
 | 2026-11-18 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically largest identifier from key](../companies/amazon.md#q1-lexicographically-largest-identifier-from-key) | |

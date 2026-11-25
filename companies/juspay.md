@@ -1,13 +1,15 @@
 # Juspay
 
-**25 questions** · 18 drives · latest 21 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**26 questions** · 19 drives · latest 24 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Trees](../topics/trees.md) 5 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 4 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +3 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 13 · [Trees](../topics/trees.md) 5 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 4 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +3 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · IIT Roorkee · FTE](#2026-11-24--iit-roorkee--fte)
+  - [Juspay problem set this year](#q1-juspay-problem-set-this-year)
 - [2026-11-21 · IIT Roorkee · FTE](#2026-11-21--iit-roorkee--fte)
   - [Employee Removal Order](#q1-employee-removal-order)
 - [2026-11-19 · Unknown · FTE · Interview](#2026-11-19--unknown--fte--interview)
@@ -55,6 +57,14 @@
 </details>
 
 ---
+
+## 2026-11-24 · IIT Roorkee · FTE
+
+### Q1. Juspay problem set this year
+
+The poster's understanding is that this year only the Sync Engine and Ticketing System problems were added, apart from the older "Tree of Space" problem.
+
+<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/juspay-oa/2026-11.jsonl#L161), [chat, 24 Nov](../archive/juspay-oa/2026-11.jsonl#L163)</sub>
 
 ## 2026-11-21 · IIT Roorkee · FTE
 
@@ -300,7 +310,7 @@ UPDATE: An UPDATE provid... [message truncated here]
 
 (Pattern: 3 hours, one question.)
 
-<sub>Topics: Trees, Hashing · Source: [chat, 18 Oct](../archive/inter-nit/2026-10.jsonl#L1539), [chat, 18 Oct](../archive/inter-iit/2026-10.jsonl#L560) · Also asked at: MNNIT Allahabad ×3 (last 2026-10-18), IIIT Allahabad ×2 (last 2026-10-23), IIT Bombay ×8 (last 2026-11-11), IIT BHU ×3 (last 2026-11-13)</sub>
+<sub>Topics: Trees, Hashing · Source: [chat, 18 Oct](../archive/inter-nit/2026-10.jsonl#L1539), [chat, 18 Oct](../archive/inter-iit/2026-10.jsonl#L560) · Also asked at: MNNIT Allahabad ×3 (last 2026-10-18), IIIT Allahabad ×2 (last 2026-10-23), IIT Bombay ×8 (last 2026-11-11), IIT BHU ×3 (last 2026-11-13), IIT Roorkee (2026-11-24)</sub>
 
 ## 2026-10-17 · MNNIT Allahabad · FTE
 

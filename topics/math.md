@@ -1,9 +1,14 @@
 # Math
 
-224 questions from 61 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+229 questions from 64 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [Nvidia](../companies/nvidia.md) | IIT Bombay | [Nvidia Formal Verification OA: probability and maths](../companies/nvidia.md#q1-nvidia-formal-verification-oa-probability-and-maths) | |
+| 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [Problems on Mean-Range / Median-Range plots](../companies/kla.md#q4-problems-on-mean-range--median-range-plots) | |
+| 2026-11-24 | [Dassault Systemes](../companies/dassault-systemes.md) | NIT Warangal | [Coding question using modulo 3](../companies/dassault-systemes.md#q2-coding-question-using-modulo-3) | |
+| 2026-11-24 | [Straive](../companies/straive.md) | NIT Rourkela | [Straive second round: guesstimates, probability, ML/stats](../companies/straive.md#q2-straive-second-round-guesstimates-probability-mlstats) | |
+| 2026-11-24 | [AlgoQuant](../companies/algoquant.md) | IIT Bombay | [Count good subsequences](../companies/algoquant.md#q3-count-good-subsequences) | [LC 2539](https://leetcode.com/problems/count-the-number-of-good-subsequences/) Medium |
 | 2026-11-22 | [Kotak Mahindra Bank](../companies/kotak-mahindra-bank.md) | IIT BHU | [Longest subarray with sum divisible by k](../companies/kotak-mahindra-bank.md#q1-longest-subarray-with-sum-divisible-by-k) | ≈ [LC 974](https://leetcode.com/problems/subarray-sums-divisible-by-k/) Medium |
 | 2026-11-20 | [Axtria](../companies/axtria.md) | Unknown | [Highest partition score under a block cost ceiling](../companies/axtria.md#q1-highest-partition-score-under-a-block-cost-ceiling) | ≈ [LC 410](https://leetcode.com/problems/split-array-largest-sum/) Hard |
 | 2026-11-19 | [BlackRock](../companies/blackrock.md) | IIT Kharagpur | [Cosine similarity](../companies/blackrock.md#q2-cosine-similarity) | |

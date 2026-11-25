@@ -1,9 +1,10 @@
 # Bit Manipulation
 
-47 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+48 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: hex/binary register dump bit-fields](../companies/ibm.md#q5-python-hexbinary-register-dump-bit-fields) | ≈ [LC 405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) Easy |
 | 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 1: sliding window and bit manipulation](../companies/kla.md#q1-kla-round-1-sliding-window-and-bit-manipulation) | |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [XOR-based single element](../companies/schlumberger.md#q7-xor-based-single-element) | [LC 136](https://leetcode.com/problems/single-number/) Easy |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [Decimal to binary](../companies/schlumberger.md#q2-decimal-to-binary) | ≈ [LC 1009](https://leetcode.com/problems/complement-of-base-10-integer/) Easy |

@@ -1,13 +1,19 @@
 # Tredence
 
-**78 questions** · 27 drives · latest 23 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**81 questions** · 30 drives · latest 24 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 25 · [Python & Pandas](../topics/python-pandas.md) 17 · [ML/AI](../topics/ml-ai.md) 15 · [Math](../topics/math.md) 11 · [SQL](../topics/sql.md) 7 · [Arrays](../topics/arrays.md) 7 · [Aptitude](../topics/aptitude.md) 6 · [Hashing](../topics/hashing.md) 5 · +12 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 27 · [Python & Pandas](../topics/python-pandas.md) 17 · [ML/AI](../topics/ml-ai.md) 17 · [Math](../topics/math.md) 11 · [SQL](../topics/sql.md) 8 · [Arrays](../topics/arrays.md) 7 · [Aptitude](../topics/aptitude.md) 7 · [Hashing](../topics/hashing.md) 5 · +13 more  
 **Seen at:** IIIT Hyderabad, IIT BHU, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · Unknown · Unknown](#2026-11-24--unknown--unknown)
+  - [Tredence OA contents (summary of 5 experiences)](#q1-tredence-oa-contents-summary-of-5-experiences)
+- [2026-11-24 · Unknown · Unknown · Interview](#2026-11-24--unknown--unknown--interview)
+  - [Tredence interview contents (summary of shared experiences)](#q1-tredence-interview-contents-summary-of-shared-experiences)
+- [2026-11-24 · IIT Madras · FTE · Interview](#2026-11-24--iit-madras--fte--interview)
+  - [Second AI-ML interview round topics](#q1-second-ai-ml-interview-round-topics)
 - [2026-11-23 · IIT Madras · FTE · Interview](#2026-11-23--iit-madras--fte--interview)
   - [Interview rounds overview](#q1-interview-rounds-overview)
   - [Count frequency of each vowel in a string](#q2-count-frequency-of-each-vowel-in-a-string)
@@ -117,6 +123,37 @@
 </details>
 
 ---
+
+## 2026-11-24 · Unknown · Unknown
+
+### Q1. Tredence OA contents (summary of 5 experiences)
+
+From 5 shared experiences: the OA is 2 DSA questions (array, hashmap, string; medium or easy) + aptitude and basic ML/Python MCQs.
+
+Specific questions are not given.
+
+<sub>Topics: OA Format, Aptitude, ML/AI · Source: [chat, 24 Nov](../archive/tredence-oa/2026-11.jsonl#L89)</sub>
+
+## 2026-11-24 · Unknown · Unknown · Interview
+
+### Q1. Tredence interview contents (summary of shared experiences)
+
+- Interviews are about your projects, a medium SQL query (joins, aggregation), and 1 live DSA question (from 4 experiences).
+- Round 2 is scenario or case study based (from 3 experiences).
+
+Specific questions are not given.
+
+<sub>Topics: OA Format, SQL, Guesstimates & Cases · Source: [chat, 24 Nov](../archive/tredence-oa/2026-11.jsonl#L89)</sub>
+
+## 2026-11-24 · IIT Madras · FTE · Interview
+
+### Q1. Second AI-ML interview round topics
+
+The 2nd (AI-ML) round was mainly based on ML systems, RAG, LLMs and agentic AI, with some questions on transformer architecture. The round was only 30 minutes.
+
+Specific questions are not given.
+
+<sub>Topics: ML/AI · Source: [chat, 24 Nov](../archive/tredence-oa/2026-11.jsonl#L91), [chat, 24 Nov](../archive/tredence-oa/2026-11.jsonl#L92)</sub>
 
 ## 2026-11-23 · IIT Madras · FTE · Interview
 

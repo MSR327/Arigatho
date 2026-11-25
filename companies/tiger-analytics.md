@@ -1,6 +1,6 @@
 # Tiger Analytics
 
-**9 questions** · 5 drives · latest 4 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 5 drives · latest 24 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 5 · [Python & Pandas](../topics/python-pandas.md) 2 · [Binary Search](../topics/binary-search.md) 1 · [Sliding Window](../topics/sliding-window.md) 1 · [SQL](../topics/sql.md) 1 · [Aptitude](../topics/aptitude.md) 1  
 **Seen at:** IIIT Allahabad, IIT BHU
@@ -65,7 +65,7 @@ One pandas coding question, which was the most difficult for most people, plus a
 
 The OA had 3 DSA questions and 2 SQL questions. (Specific questions not shared.)
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iiit-allahabad-placements/2026-11.jsonl#L7)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-iiit-allahabad-placements/2026-11.jsonl#L7) · Also asked at: IIT BHU (2026-11-24)</sub>
 
 ## 2026-10-31 · IIT BHU · FTE
 

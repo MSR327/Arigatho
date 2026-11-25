@@ -1,13 +1,15 @@
 # Stripe
 
-**5 questions** · 5 drives · latest 23 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 6 drives · latest 25 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 3 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1 · [Hashing](../topics/hashing.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 4 · [Sorting](../topics/sorting.md) 1 · [Binary Search](../topics/binary-search.md) 1 · [Arrays](../topics/arrays.md) 1 · [Hashing](../topics/hashing.md) 1  
 **Seen at:** BITS Pilani, IIT BHU, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · Unknown · FTE · Interview](#2026-11-25--unknown--fte--interview)
+  - [Stripe technical rounds pattern (summary of shared experiences)](#q1-stripe-technical-rounds-pattern-summary-of-shared-experiences)
 - [2026-11-23 · IIT Roorkee · FTE](#2026-11-23--iit-roorkee--fte)
   - [Merchant fraud score from transactions and rules](#q1-merchant-fraud-score-from-transactions-and-rules)
 - [2026-11-21 · Unknown · FTE · SDE · Other round](#2026-11-21--unknown--fte--sde--other-round)
@@ -22,6 +24,20 @@
 </details>
 
 ---
+
+## 2026-11-25 · Unknown · FTE · Interview
+
+### Q1. Stripe technical rounds pattern (summary of shared experiences)
+
+Summary compiled from 5 shared experiences:
+
+- Stripe had technical rounds after the OA shortlist.
+- Mostly DSA + system design / LLD rounds.
+- Graph, string and hash map problems came up most.
+
+The actual questions are not given.
+
+<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2556)</sub>
 
 ## 2026-11-23 · IIT Roorkee · FTE
 

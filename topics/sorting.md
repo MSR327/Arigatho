@@ -1,9 +1,10 @@
 # Sorting
 
-80 questions from 41 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+81 questions from 42 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-24 | [AlgoQuant](../companies/algoquant.md) | IIT Bombay | [Rank songs by popularity](../companies/algoquant.md#q1-rank-songs-by-popularity) | ≈ [LC 692](https://leetcode.com/problems/top-k-frequent-words/) Medium |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Merge k sorted arrays](../companies/ola.md#q1-merge-k-sorted-arrays) | [GfG](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Merge k sorted arrays](../companies/ola.md#q2-merge-k-sorted-arrays) | [GfG](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) |
 | 2026-11-15 | [Goldman Sachs](../companies/goldman-sachs.md) | Unknown | [Nearest city sharing x or y coordinate](../companies/goldman-sachs.md#q2-nearest-city-sharing-x-or-y-coordinate) | [LC 1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) Easy |

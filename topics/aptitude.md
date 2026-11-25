@@ -1,9 +1,17 @@
 # Aptitude
 
-265 questions from 36 companys, newest first. [← all topics](../README.md#topics)
+276 questions from 39 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-24 | [Evernorth](../companies/evernorth.md) | NIT Raipur | [Evernorth OA pattern](../companies/evernorth.md#q1-evernorth-oa-pattern) |
+| 2026-11-24 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Application Engineer OA pattern](../companies/idfc-first-bank.md#q1-application-engineer-oa-pattern) |
+| 2026-11-24 | [Moneyview](../companies/moneyview.md) | IIT BHU | [Business Analyst OA pattern (previous year)](../companies/moneyview.md#q1-business-analyst-oa-pattern-previous-year) |
+| 2026-11-24 | [Accordion](../companies/accordion.md) | IIT Dhanbad | [Accordion test pattern](../companies/accordion.md#q1-accordion-test-pattern) |
+| 2026-11-24 | [Tredence](../companies/tredence.md) | Unknown | [Tredence OA contents (summary of 5 experiences)](../companies/tredence.md#q1-tredence-oa-contents-summary-of-5-experiences) |
+| 2026-11-24 | [Moneyview](../companies/moneyview.md) | IIT BHU | [Moneyview Data Scientist OA pattern](../companies/moneyview.md#q1-moneyview-data-scientist-oa-pattern) |
+| 2026-11-24 | [Moneyview](../companies/moneyview.md) | NIT Jamshedpur | [Moneyview OA pattern at NIT Jamshedpur](../companies/moneyview.md#q1-moneyview-oa-pattern-at-nit-jamshedpur) |
+| 2026-11-24 | [Moneyview](../companies/moneyview.md) | NIT Trichy | [Moneyview OA pattern at NIT Trichy](../companies/moneyview.md#q1-moneyview-oa-pattern-at-nit-trichy) |
 | 2026-11-23 | [ICICI](../companies/icici.md) | IIT BHU | [ICICI Manager OA format](../companies/icici.md#q1-icici-manager-oa-format) |
 | 2026-11-22 | [Purplle](../companies/purplle.md) | IIT Kharagpur | [Purplle OA format](../companies/purplle.md#q1-purplle-oa-format) |
 | 2026-11-22 | [Futures First](../companies/futures-first.md) | BITS Pilani | [Futures First OA pattern](../companies/futures-first.md#q1-futures-first-oa-pattern) |
@@ -19,6 +27,7 @@
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Kharagpur | [Eternal APM process](../companies/eternal-zomato.md#q1-eternal-apm-process) |
 | 2026-11-12 | [Thorogood](../companies/thorogood.md) | MNNIT Allahabad | [OA format: all MCQ](../companies/thorogood.md#q1-oa-format-all-mcq) |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) |
+| 2026-11-11 | [Urban Company](../companies/urban-company.md) | IIT Roorkee | [Senior Category Manager OA contents](../companies/urban-company.md#q1-senior-category-manager-oa-contents) |
 | 2026-11-11 | [Urban Company](../companies/urban-company.md) | IIT Kharagpur | [Urban Company OA pattern](../companies/urban-company.md#q1-urban-company-oa-pattern) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Estimate households interested in streaming service in two years](../companies/accordion.md#q2-estimate-households-interested-in-streaming-service-in-two-years) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Streaming service households: decrease in movies streamed](../companies/accordion.md#q1-streaming-service-households-decrease-in-movies-streamed) |
@@ -72,6 +81,7 @@
 | 2026-11-03 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Aptitude section: speed-distance, number patterns, coding-decoding](../companies/blackrock.md#q3-aptitude-section-speed-distance-number-patterns-coding-decoding) |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [OA pattern](../companies/tiger-analytics.md#q5-oa-pattern) |
 | 2026-11-02 | [L.E.K. Consulting](../companies/l-e-k-consulting.md) | BITS Pilani | [L.E.K. OA pattern](../companies/l-e-k-consulting.md#q1-lek-oa-pattern) |
+| 2026-11-01 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Eternal SDE OA pattern summary](../companies/eternal-zomato.md#q1-eternal-sde-oa-pattern-summary) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Roorkee | [Navi BA/APM OA format](../companies/navi.md#q1-navi-baapm-oa-format) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi OA format](../companies/navi.md#q1-navi-oa-format-1) |
 | 2026-11-01 | [Navi](../companies/navi.md) | IIT Delhi | [Navi OA pattern](../companies/navi.md#q1-navi-oa-pattern-2) |
@@ -119,6 +129,7 @@
 | 2026-10-27 | [Deloitte](../companies/deloitte.md) | IIT Kanpur | [Attention to details: multiples of 10 in a sequence](../companies/deloitte.md#q3-attention-to-details-multiples-of-10-in-a-sequence) |
 | 2026-10-23 | [Slice](../companies/slice.md) | IIT Bombay | [Minimum salary increase to avoid tax (tax brackets)](../companies/slice.md#q1-minimum-salary-increase-to-avoid-tax-tax-brackets) |
 | 2026-10-23 | [NPCI](../companies/npci.md) | IIT Jodhpur | [NPCI OA aptitude round](../companies/npci.md#q1-npci-oa-aptitude-round) |
+| 2026-10-22 | [Slice](../companies/slice.md) | IIT Kharagpur | [Slice APM OA pattern](../companies/slice.md#q1-slice-apm-oa-pattern) |
 | 2026-10-22 | [Slice](../companies/slice.md) | MNNIT Allahabad | [Aptitude MCQs (finance/business and probability)](../companies/slice.md#q1-aptitude-mcqs-financebusiness-and-probability) |
 | 2026-10-22 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [Four people ordering statements](../companies/alight-solutions.md#q5-four-people-ordering-statements) |
 | 2026-10-22 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [Die with flowers: incorrect opposite pairs](../companies/alight-solutions.md#q4-die-with-flowers-incorrect-opposite-pairs) |

@@ -1,16 +1,15 @@
 # Accenture
 
-**355 questions** · 129 drives · latest 25 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**354 questions** · 129 drives · latest 25 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 97 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 97 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +20 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
-- [2026-11-25 · NIT Delhi · FTE · Elite Technology Engineer (ETE) · Interview](#2026-11-25--nit-delhi--fte--elite-technology-engineer-ete--interview)
-  - [ETE interview: HR and projects](#q1-ete-interview-hr-and-projects)
-  - [ETE interview: selected IIT candidate (Oct 2026)](#q2-ete-interview-selected-iit-candidate-oct-2026)
+- [2026-11-24 · Unknown · FTE · Interview](#2026-11-24--unknown--fte--interview)
+  - [Accenture interview rounds overview](#q1-accenture-interview-rounds-overview)
 - [2026-11-18 · Unknown · FTE](#2026-11-18--unknown--fte)
   - [Accenture OA and interview technical topics](#q1-accenture-oa-and-interview-technical-topics)
 - [2026-11-18 · NIT Surathkal · FTE · Elite Technology Engineer (ETE) · Interview](#2026-11-18--nit-surathkal--fte--elite-technology-engineer-ete--interview)
@@ -497,33 +496,17 @@
 
 ---
 
-## 2026-11-25 · NIT Delhi · FTE · Elite Technology Engineer (ETE) · Interview
+## 2026-11-24 · Unknown · FTE · Interview
 
-### Q1. ETE interview: HR and projects
+### Q1. Accenture interview rounds overview
 
-Reported interview:
+Summary of 5 shared experiences (interviews held between Nov 1 and Nov 17):
 
-- Introduce yourself (2–3 minutes).
-- Explain your projects.
-- Questions about extracurricular activities and sports.
-- General HR discussion.
+- Mostly 3 rounds: case study/guesstimates for consulting, plus technical and HR
 
-The interviewer encouraged the candidate to speak at length about their background. The interview was relatively easy and focused mainly on common HR questions and projects.
+The exact questions were not shared.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 25 Nov](../archive/accenture-oa/2026-11.jsonl#L637)</sub>
-
-### Q2. ETE interview: selected IIT candidate (Oct 2026)
-
-Reported by an IIT candidate (selected, October 2026):
-
-- Introduction and hobbies.
-- What do you do in your free time?
-- How are you finding South India?
-- What is the importance of innovation and collaboration in an organisation?
-
-The interview lasted about 15 minutes, with no technical questions.
-
-<sub>Topics: HR & Behavioral · Source: [chat, 25 Nov](../archive/accenture-oa/2026-11.jsonl#L637)</sub>
+<sub>Topics: Guesstimates & Cases, HR & Behavioral · Source: [chat, 24 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L628)</sub>
 
 ## 2026-11-18 · Unknown · FTE
 
@@ -550,7 +533,7 @@ Candidate reported:
 
 The interviewer encouraged the candidate to speak at length about their background.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531) · Also asked at: NIT Delhi (2026-11-25)</sub>
 
 ### Q2. ETE interview experience 2 (selected, Oct 2026)
 
@@ -563,7 +546,7 @@ A candidate from an IIT reported:
 
 The interview lasted approximately 15 minutes with no technical questions.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531) · Also asked at: Unknown (2026-11-19)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531) · Also asked at: Unknown (2026-11-19), NIT Delhi (2026-11-25)</sub>
 
 ### Q3. ETE interview experience 3
 
@@ -1540,7 +1523,7 @@ The OA for the ETE role had 1 DSA question, 1 SQL question and 1 frontend questi
 
 Interview is mostly resume based: questions about your projects (what you built and why), some basic leadership questions and extra-curricular activities. Not much technical.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L29) · Also asked at: NIT Raipur (2026-11-05), NIT Surathkal (2026-11-10)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 2 Nov](../archive/accenture-oa/2026-11.jsonl#L29) · Also asked at: NIT Raipur (2026-11-05), NIT Surathkal (2026-11-10), VNIT Nagpur (2026-11-24)</sub>
 
 ## 2026-11-02 · IIT Roorkee · FTE · Management Consulting
 

@@ -1,9 +1,11 @@
 # Binary Search
 
-60 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+62 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [DSA topics in KLA technical rounds](../companies/kla.md#q1-dsa-topics-in-kla-technical-rounds) | |
+| 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Search in a row-wise and column-wise sorted matrix](../companies/amazon.md#q5-search-in-a-row-wise-and-column-wise-sorted-matrix) | [LC 240](https://leetcode.com/problems/search-a-2d-matrix-ii/) Medium |
 | 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 2: binary search on answer and 1D DP](../companies/kla.md#q2-kla-round-2-binary-search-on-answer-and-1d-dp) | |
 | 2026-11-22 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Last day where you can still cross](../companies/cars24.md#q1-last-day-where-you-can-still-cross) | [LC 1970](https://leetcode.com/problems/last-day-where-you-can-still-cross/) Hard |
 | 2026-11-18 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Minimize longest run after flipping](../companies/eternal-zomato.md#q2-minimize-longest-run-after-flipping) | |

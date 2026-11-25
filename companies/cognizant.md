@@ -1,13 +1,15 @@
 # Cognizant
 
-**77 questions** · 29 drives · latest 22 Nov 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**78 questions** · 30 drives · latest 24 Nov 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 21 · [Arrays](../topics/arrays.md) 13 · [Greedy](../topics/greedy.md) 10 · [DP](../topics/dp.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [Hashing](../topics/hashing.md) 7 · [Math](../topics/math.md) 6 · +16 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 22 · [Arrays](../topics/arrays.md) 13 · [Greedy](../topics/greedy.md) 10 · [DP](../topics/dp.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [Strings](../topics/strings.md) 8 · [Hashing](../topics/hashing.md) 7 · [Math](../topics/math.md) 6 · +16 more  
 **Seen at:** IIIT, IIIT Allahabad, IIT BHU, IIT Bhubaneswar, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +8 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · Unknown · Unknown · Interview](#2026-11-24--unknown--unknown--interview)
+  - [Cognizant interview rounds and topics](#q1-cognizant-interview-rounds-and-topics)
 - [2026-11-22 · IIT Tirupati · FTE · Interview](#2026-11-22--iit-tirupati--fte--interview)
   - [Cognizant interview format and scenario coding](#q1-cognizant-interview-format-and-scenario-coding)
 - [2026-11-20 · Unknown · FTE · Interview](#2026-11-20--unknown--fte--interview)
@@ -118,6 +120,20 @@
 </details>
 
 ---
+
+## 2026-11-24 · Unknown · Unknown · Interview
+
+### Q1. Cognizant interview rounds and topics
+
+From 5 shared experiences, there were 2 to 3 rounds after the OA:
+
+- Technical: DSA (arrays, strings, trees, graphs) + OOPs + DBMS
+- Projects came up in most rounds, plus HR at the end
+- Business analyst and consultant roles got guesstimates and case studies
+
+Exact questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/cognizant-oa/2026-11.jsonl#L141)</sub>
 
 ## 2026-11-22 · IIT Tirupati · FTE · Interview
 

@@ -1,9 +1,15 @@
 # ML/AI
 
-183 questions from 26 companys, newest first. [← all topics](../README.md#topics)
+189 questions from 29 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-24 | [Ola](../companies/ola.md) | Unknown | [Ola AI/ML assessment pattern](../companies/ola.md#q1-ola-aiml-assessment-pattern) |
+| 2026-11-24 | [Hewlett Packard Enterprise](../companies/hewlett-packard-enterprise.md) | IIT Guwahati | [HPE round 2: LangChain question](../companies/hewlett-packard-enterprise.md#q1-hpe-round-2-langchain-question) |
+| 2026-11-24 | [Hewlett Packard Enterprise](../companies/hewlett-packard-enterprise.md) | Unknown | [HPE OA pattern](../companies/hewlett-packard-enterprise.md#q1-hpe-oa-pattern) |
+| 2026-11-24 | [Straive](../companies/straive.md) | NIT Rourkela | [Straive second round: guesstimates, probability, ML/stats](../companies/straive.md#q2-straive-second-round-guesstimates-probability-mlstats) |
+| 2026-11-24 | [Tredence](../companies/tredence.md) | IIT Madras | [Second AI-ML interview round topics](../companies/tredence.md#q1-second-ai-ml-interview-round-topics) |
+| 2026-11-24 | [Tredence](../companies/tredence.md) | Unknown | [Tredence OA contents (summary of 5 experiences)](../companies/tredence.md#q1-tredence-oa-contents-summary-of-5-experiences) |
 | 2026-11-23 | [ICICI](../companies/icici.md) | IIT Delhi | [ICICI interview topics](../companies/icici.md#q1-icici-interview-topics) |
 | 2026-11-23 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | IIT Guwahati | [CBA DS interview focus and rounds](../companies/commonwealth-bank-of-australia.md#q1-cba-ds-interview-focus-and-rounds) |
 | 2026-11-23 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Project-based text processing and embedding similarity](../companies/cars24.md#q1-project-based-text-processing-and-embedding-similarity) |

@@ -1,9 +1,14 @@
 # Software Engineering
 
-70 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+75 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [IBM](../companies/ibm.md) | IIT BHU | [Repo task: implement movie pass checks from architecture.md](../companies/ibm.md#q1-repo-task-implement-movie-pass-checks-from-architecturemd) | |
+| 2026-11-24 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Application Engineer interview topics](../companies/idfc-first-bank.md#q1-application-engineer-interview-topics) | |
+| 2026-11-24 | [Amazon](../companies/amazon.md) | IIT Roorkee | [Development question](../companies/amazon.md#q1-development-question) | |
+| 2026-11-24 | [Ola](../companies/ola.md) | IIT Kharagpur/Kanpur | [Ola SDE OA MCQ topics](../companies/ola.md#q1-ola-sde-oa-mcq-topics) | |
+| 2026-11-24 | [Moneyview](../companies/moneyview.md) | Unknown | [Moneyview interview topics](../companies/moneyview.md#q1-moneyview-interview-topics) | |
 | 2026-11-18 | [Prodigal](../companies/prodigal.md) | Unknown | [Low-level design: restaurant management system](../companies/prodigal.md#q2-low-level-design-restaurant-management-system) | |
 | 2026-11-16 | [Unknown](../companies/unknown.md) | MNNIT Allahabad | [Fetching logs from an unreliable range API](../companies/unknown.md#q1-fetching-logs-from-an-unreliable-range-api) | |
 | 2026-11-15 | [LPL Financial](../companies/lpl-financial.md) | IIT Gandhinagar | [LPL Financial process (hearsay)](../companies/lpl-financial.md#q1-lpl-financial-process-hearsay) | |

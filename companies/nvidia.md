@@ -1,13 +1,15 @@
 # Nvidia
 
-**36 questions** · 19 drives · latest 14 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**37 questions** · 20 drives · latest 25 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 15 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Stack/Queue](../topics/stack-queue.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Trees](../topics/trees.md) 4 · [Bit Manipulation](../topics/bit-manipulation.md) 4 · [Digital Electronics](../topics/digital-electronics.md) 3 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · +11 more  
-**Seen at:** IIT Delhi, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, NIT Rourkela, Thapar Institute, VNIT Nagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 16 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Stack/Queue](../topics/stack-queue.md) 5 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 4 · [Trees](../topics/trees.md) 4 · [Bit Manipulation](../topics/bit-manipulation.md) 4 · [Math](../topics/math.md) 3 · [Digital Electronics](../topics/digital-electronics.md) 3 · +11 more  
+**Seen at:** IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, MNNIT Allahabad, NIT Rourkela, Thapar Institute, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · IIT Bombay · FTE · Formal Verification Engineer](#2026-11-25--iit-bombay--fte--formal-verification-engineer)
+  - [Nvidia Formal Verification OA: probability and maths](#q1-nvidia-formal-verification-oa-probability-and-maths)
 - [2026-11-14 · Unknown · FTE · Formal Verification Engineer · Interview](#2026-11-14--unknown--fte--formal-verification-engineer--interview)
   - [Formal verification interview process and topics](#q1-formal-verification-interview-process-and-topics)
 - [2026-11-11 · IIT Delhi · FTE · Software](#2026-11-11--iit-delhi--fte--software)
@@ -67,6 +69,14 @@
 </details>
 
 ---
+
+## 2026-11-25 · IIT Bombay · FTE · Formal Verification Engineer
+
+### Q1. Nvidia Formal Verification OA: probability and maths
+
+The OA was probability and maths based. The actual questions are not given.
+
+<sub>Topics: OA Format, Math · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2533)</sub>
 
 ## 2026-11-14 · Unknown · FTE · Formal Verification Engineer · Interview
 

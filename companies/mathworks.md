@@ -1,9 +1,9 @@
 # MathWorks
 
-**15 questions** · 11 drives · latest 13 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**15 questions** · 11 drives · latest 24 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 7 · [Greedy](../topics/greedy.md) 5 · [Arrays](../topics/arrays.md) 4 · [Strings](../topics/strings.md) 3 · [Hashing](../topics/hashing.md) 2 · [DP](../topics/dp.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 1 · +6 more  
-**Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kharagpur +1 more
+**Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -116,7 +116,7 @@ Output
 
 3 DSA questions and 5 aptitude MCQs.
 
-<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L742), [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L743) · Also asked at: IIT Delhi (2026-11-07), IIT Hyderabad ×3 (last 2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L742), [chat, 6 Nov](../archive/inter-nit/2026-11.jsonl#L743) · Also asked at: IIT Delhi (2026-11-07), IIT Hyderabad ×3 (last 2026-11-10), IIT Dhanbad (2026-11-24)</sub>
 
 ## 2026-11-05 · Unknown · FTE
 

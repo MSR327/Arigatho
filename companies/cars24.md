@@ -1,13 +1,19 @@
 # Cars24
 
-**62 questions** · 28 drives · latest 23 Nov 2026 · [21 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**68 questions** · 30 drives · latest 24 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [ML/AI](../topics/ml-ai.md) 23 · [OA Format](../topics/oa-format.md) 21 · [Graphs](../topics/graphs.md) 7 · [Python & Pandas](../topics/python-pandas.md) 6 · [Arrays](../topics/arrays.md) 5 · [Sorting](../topics/sorting.md) 3 · [DP](../topics/dp.md) 3 · [Other](../topics/other.md) 3 · +15 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 23 · [ML/AI](../topics/ml-ai.md) 23 · [Graphs](../topics/graphs.md) 7 · [Arrays](../topics/arrays.md) 6 · [Python & Pandas](../topics/python-pandas.md) 6 · [DP](../topics/dp.md) 4 · [Strings](../topics/strings.md) 4 · [Other](../topics/other.md) 4 · +15 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee +1 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · Unknown · Unknown · SDE](#2026-11-24--unknown--unknown--sde)
+  - [Cars24 SDE OA pattern (candidate-reported)](#q1-cars24-sde-oa-pattern-candidate-reported)
+  - [Longest Common Subsequence](#q2-longest-common-subsequence)
+  - [Product of Array Except Self](#q3-product-of-array-except-self)
+  - [Valid Anagram](#q4-valid-anagram)
+  - [Task scheduling optimisation](#q5-task-scheduling-optimisation)
 - [2026-11-23 · IIT Guwahati · FTE · AI/ML](#2026-11-23--iit-guwahati--fte--aiml)
   - [Project-based text processing and embedding similarity](#q1-project-based-text-processing-and-embedding-similarity)
 - [2026-11-22 · IIT Guwahati · FTE · AI/ML Engineer · Other round](#2026-11-22--iit-guwahati--fte--aiml-engineer--other-round)
@@ -69,6 +75,8 @@
   - [Cars24 OA pattern](#q1-cars24-oa-pattern)
 - [2026-11-10 · Unknown · FTE](#2026-11-10--unknown--fte)
   - [Cars24 OA structure](#q1-cars24-oa-structure)
+- [2026-11-10 · Unknown · Unknown · Other round](#2026-11-10--unknown--unknown--other-round)
+  - [Cars24 OA and interview pattern](#q1-cars24-oa-and-interview-pattern)
 - [2026-11-10 · IIT Roorkee · FTE](#2026-11-10--iit-roorkee--fte)
   - [Cars24 OA pattern](#q1-cars24-oa-pattern-1)
 - [2026-11-09 · Unknown · FTE](#2026-11-09--unknown--fte)
@@ -102,6 +110,51 @@
 </details>
 
 ---
+
+## 2026-11-24 · Unknown · Unknown · SDE
+
+### Q1. Cars24 SDE OA pattern (candidate-reported)
+
+Candidate-reported information for the CARS24 SDE OA (compiled from online sources):
+
+- Duration: approximately 60–90 minutes.
+- Questions: around 2–3 coding problems.
+- Difficulty: Easy to Medium.
+- Reported topics: Arrays, Strings, Dynamic Programming, Simulation, Queues and Heaps.
+
+<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L522)</sub>
+
+### Q2. Longest Common Subsequence
+
+Reported question: Longest Common Subsequence.
+
+Only the problem name was given; the full statement is missing.
+
+<sub>Topics: DP, Strings · Similar: [LeetCode 1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) (Medium) · Source: [chat, 24 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L522)</sub>
+
+### Q3. Product of Array Except Self
+
+Reported question: Product of Array Except Self.
+
+Only the problem name was given; the full statement is missing.
+
+<sub>Topics: Arrays · Similar: [LeetCode 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (Medium) · Source: [chat, 24 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L522)</sub>
+
+### Q4. Valid Anagram
+
+Reported question: Valid Anagram.
+
+Only the problem name was given; the full statement is missing.
+
+<sub>Topics: Strings, Hashing · Similar: [LeetCode 242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (Easy) · Source: [chat, 24 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L522)</sub>
+
+### Q5. Task scheduling optimisation
+
+Reported question: Task Scheduling Optimisation.
+
+Only the problem name was given; the full statement is missing.
+
+<sub>Topics: Other · Source: [chat, 24 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L522)</sub>
 
 ## 2026-11-23 · IIT Guwahati · FTE · AI/ML
 
@@ -137,7 +190,7 @@ The OA had 10 MCQs and 1 coding question on Transformers. A CSV file was given a
 
 Implement binary classification in Python from scratch. (Details not given.)
 
-<sub>Topics: ML/AI, Python & Pandas · Source: [chat, 19 Nov](../archive/inter-iit/2026-11.jsonl#L1062) · Also asked at: IIT Roorkee (2026-11-19)</sub>
+<sub>Topics: ML/AI, Python & Pandas · Source: [chat, 19 Nov](../archive/inter-iit/2026-11.jsonl#L1062) · Also asked at: IIT Roorkee (2026-11-19), IIT Guwahati (2026-11-24)</sub>
 
 ### Q2. Classical ML MCQs
 
@@ -407,6 +460,20 @@ Reported second-hand: 2 medium DSA questions, one on arrays and one on DP. State
 Duration: usually around 60 to 90 minutes. Sections: generally a mix of Coding/DSA problems, SQL/Database queries, and multiple-choice questions on core Computer Science and Java/Spring.
 
 <sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/campus-nit-kurukshetra-placements/2026-11.jsonl#L113)</sub>
+
+## 2026-11-10 · Unknown · Unknown · Other round
+
+### Q1. Cars24 OA and interview pattern
+
+As per 4 shared experiences (OA was on Nov 10 per the calendar):
+
+- OA: 2 coding questions (array, string, DP or graph)
+- Interviews: mostly DSA + projects, with OS in 3 experiences and DBMS/SQL in 2
+- Keep basic HLD and OOPs ready too
+
+Exact questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/cars24-oa/2026-11.jsonl#L3) · Also asked at: Unknown ×2 (last 2026-11-10)</sub>
 
 ## 2026-11-10 · IIT Roorkee · FTE
 

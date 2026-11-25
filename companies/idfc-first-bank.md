@@ -1,13 +1,17 @@
 # IDFC First Bank
 
-**16 questions** · 13 drives · latest 22 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**18 questions** · 15 drives · latest 24 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 13 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1 · [Aptitude](../topics/aptitude.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · +1 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · Unknown · FTE · Application Engineer](#2026-11-24--unknown--fte--application-engineer)
+  - [Application Engineer OA pattern](#q1-application-engineer-oa-pattern)
+- [2026-11-24 · Unknown · FTE · Application Engineer · Interview](#2026-11-24--unknown--fte--application-engineer--interview)
+  - [Application Engineer interview topics](#q1-application-engineer-interview-topics)
 - [2026-11-22 · IIT Hyderabad · FTE · Associate Data Scientist - AI Labs](#2026-11-22--iit-hyderabad--fte--associate-data-scientist---ai-labs)
   - [IDFC Associate Data Scientist test sections](#q1-idfc-associate-data-scientist-test-sections)
 - [2026-11-19 · Unknown · FTE](#2026-11-19--unknown--fte)
@@ -41,6 +45,22 @@
 </details>
 
 ---
+
+## 2026-11-24 · Unknown · FTE · Application Engineer
+
+### Q1. Application Engineer OA pattern
+
+The OA had 3 coding problems plus some quant, so it is mostly tech. This is second-hand, based on one shared experience; the questions themselves are not given.
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 24 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L93), [chat, 24 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L94)</sub>
+
+## 2026-11-24 · Unknown · FTE · Application Engineer · Interview
+
+### Q1. Application Engineer interview topics
+
+Interviews were all technical: DSA, OS, DBMS and system design. This is second-hand, based on one shared experience; specific questions are not given.
+
+<sub>Topics: OS/DBMS/CN MCQ, Software Engineering · Source: [chat, 24 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L94)</sub>
 
 ## 2026-11-22 · IIT Hyderabad · FTE · Associate Data Scientist - AI Labs
 

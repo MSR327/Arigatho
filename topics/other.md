@@ -1,9 +1,15 @@
 # Other
 
-72 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+78 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [Navi](../companies/navi.md) | VNIT Nagpur | [Medium DSA, resume and project questions](../companies/navi.md#q1-medium-dsa-resume-and-project-questions) | |
+| 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [Image-processing algorithm explanation](../companies/kla.md#q3-image-processing-algorithm-explanation) | |
+| 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [Technical round 1: CV, project, KLA, semiconductor market, puzzles](../companies/kla.md#q2-technical-round-1-cv-project-kla-semiconductor-market-puzzles) | |
+| 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Task scheduling based on worker throughput](../companies/amazon.md#q4-task-scheduling-based-on-worker-throughput) | |
+| 2026-11-24 | [Cars24](../companies/cars24.md) | Unknown | [Task scheduling optimisation](../companies/cars24.md#q5-task-scheduling-optimisation) | |
+| 2026-11-24 | [InMobi](../companies/inmobi.md) | IIT Roorkee | [InMobi interview rounds](../companies/inmobi.md#q1-inmobi-interview-rounds) | |
 | 2026-11-19 | [Nation with NaMo](../companies/nation-with-namo.md) | Unknown | [Political awareness and current affairs](../companies/nation-with-namo.md#q2-political-awareness-and-current-affairs) | |
 | 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [How the payment industry works](../companies/groww.md#q5-how-the-payment-industry-works) | |
 | 2026-11-16 | [Accenture](../companies/accenture.md) | NIT Kurukshetra | [Round 2: Multithreading and node communication](../companies/accenture.md#q4-round-2-multithreading-and-node-communication) | |

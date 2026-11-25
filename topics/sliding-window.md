@@ -1,9 +1,10 @@
 # Sliding Window
 
-41 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+42 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-24 | [KLA](../companies/kla.md) | MNNIT Allahabad | [Sliding window and tree diameter coding](../companies/kla.md#q1-sliding-window-and-tree-diameter-coding) | [LC 543](https://leetcode.com/problems/diameter-of-binary-tree/) Easy |
 | 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 1: sliding window and bit manipulation](../companies/kla.md#q1-kla-round-1-sliding-window-and-bit-manipulation) | |
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Fruit Into Baskets](../companies/idfc-first-bank.md#q1-fruit-into-baskets) | [LC 904](https://leetcode.com/problems/fruit-into-baskets/) Medium |
 | 2026-11-19 | [Walt Disney](../companies/walt-disney.md) | NIT Surathkal | [Fruit Into Baskets](../companies/walt-disney.md#q1-fruit-into-baskets) | [LC 904](https://leetcode.com/problems/fruit-into-baskets/) Medium |

@@ -1,17 +1,31 @@
 # HR & Behavioral
 
-67 questions from 32 companys, newest first. [← all topics](../README.md#topics)
+81 questions from 40 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
-| 2026-11-25 | [Accenture](../companies/accenture.md) | NIT Delhi | [ETE interview: selected IIT candidate (Oct 2026)](../companies/accenture.md#q2-ete-interview-selected-iit-candidate-oct-2026) | |
-| 2026-11-25 | [Accenture](../companies/accenture.md) | NIT Delhi | [ETE interview: HR and projects](../companies/accenture.md#q1-ete-interview-hr-and-projects) | |
+| 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [Project discussion, especially image processing](../companies/kla.md#q3-project-discussion-especially-image-processing) | |
+| 2026-11-25 | [Navi](../companies/navi.md) | VNIT Nagpur | [Medium DSA, resume and project questions](../companies/navi.md#q1-medium-dsa-resume-and-project-questions) | |
+| 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [Technical round 1: CV, project, KLA, semiconductor market, puzzles](../companies/kla.md#q2-technical-round-1-cv-project-kla-semiconductor-market-puzzles) | |
+| 2026-11-24 | [American Express](../companies/american-express.md) | Unknown | [Detailed project discussion](../companies/american-express.md#q1-detailed-project-discussion) | |
+| 2026-11-24 | [Slice](../companies/slice.md) | IIT Kharagpur | [Final round with senior PM: behavioral, projects, leadership](../companies/slice.md#q4-final-round-with-senior-pm-behavioral-projects-leadership) | |
+| 2026-11-24 | [HCLTech](../companies/hcltech.md) | Unknown | [HR round](../companies/hcltech.md#q3-hr-round) | |
+| 2026-11-24 | [HCLTech](../companies/hcltech.md) | Unknown | [Technical round 1: DSA, projects and DP dry run](../companies/hcltech.md#q1-technical-round-1-dsa-projects-and-dp-dry-run) | |
+| 2026-11-24 | [Futures First](../companies/futures-first.md) | IIT Guwahati | [GD: Impact of AI on global stock markets](../companies/futures-first.md#q1-gd-impact-of-ai-on-global-stock-markets) | |
+| 2026-11-24 | [Ola](../companies/ola.md) | Unknown | [Ola Cloud selection process](../companies/ola.md#q1-ola-cloud-selection-process) | |
+| 2026-11-24 | [Straive](../companies/straive.md) | NIT Rourkela | [Straive HR round](../companies/straive.md#q3-straive-hr-round) | |
+| 2026-11-24 | [KLA](../companies/kla.md) | MNNIT Allahabad | [Projects, OS, DBMS and HR discussion](../companies/kla.md#q2-projects-os-dbms-and-hr-discussion) | |
+| 2026-11-24 | [InMobi](../companies/inmobi.md) | IIT Roorkee | [InMobi interview rounds](../companies/inmobi.md#q1-inmobi-interview-rounds) | |
+| 2026-11-24 | [Jio Platforms](../companies/jio-platforms.md) | NIT Raipur | [Jio interview rounds and topics](../companies/jio-platforms.md#q1-jio-interview-rounds-and-topics) | |
+| 2026-11-24 | [Accenture](../companies/accenture.md) | Unknown | [Accenture interview rounds overview](../companies/accenture.md#q1-accenture-interview-rounds-overview) | |
+| 2026-11-24 | [NatWest](../companies/natwest.md) | Unknown | [NatWest interview rounds and topics (summary of 5 experiences)](../companies/natwest.md#q1-natwest-interview-rounds-and-topics-summary-of-5-experiences) | |
 | 2026-11-23 | [Ola](../companies/ola.md) | Unknown | [Ola Founder's Office GD/interview questions](../companies/ola.md#q1-ola-founders-office-gdinterview-questions) | |
 | 2026-11-23 | [ICICI](../companies/icici.md) | IIT Delhi | [ICICI interview topics](../companies/icici.md#q1-icici-interview-topics) | |
 | 2026-11-23 | [Epsilon](../companies/epsilon.md) | Unknown | [Epsilon second round: resume deep dive](../companies/epsilon.md#q2-epsilon-second-round-resume-deep-dive) | |
 | 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 3: project discussion, knight moves BFS, OOPs](../companies/kla.md#q3-kla-round-3-project-discussion-knight-moves-bfs-oops) | [LC 1197](https://leetcode.com/problems/minimum-knight-moves/) Medium |
 | 2026-11-22 | [Meesho](../companies/meesho.md) | IIT BHU | [Meesho AI interview structure for Business Associate](../companies/meesho.md#q1-meesho-ai-interview-structure-for-business-associate) | |
 | 2026-11-22 | [Cognizant](../companies/cognizant.md) | IIT Tirupati | [Cognizant interview format and scenario coding](../companies/cognizant.md#q1-cognizant-interview-format-and-scenario-coding) | |
+| 2026-11-20 | [Urban Company](../companies/urban-company.md) | IIT Roorkee | [Senior Category Manager interview rounds](../companies/urban-company.md#q1-senior-category-manager-interview-rounds) | |
 | 2026-11-20 | [Groww](../companies/groww.md) | Unknown | [Groww APM AI voice interview](../companies/groww.md#q1-groww-apm-ai-voice-interview) | |
 | 2026-11-19 | [ICICI](../companies/icici.md) | Unknown | [ICICI data analyst interview: HR, projects and SQL](../companies/icici.md#q1-icici-data-analyst-interview-hr-projects-and-sql) | |
 | 2026-11-19 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Accordion Data & AI engineer interview experiences](../companies/accordion.md#q1-accordion-data--ai-engineer-interview-experiences) | |

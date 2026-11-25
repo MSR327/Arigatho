@@ -1,9 +1,14 @@
 # Python & Pandas
 
-79 questions from 21 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+84 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: hex/binary register dump bit-fields](../companies/ibm.md#q5-python-hexbinary-register-dump-bit-fields) | ≈ [LC 405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) Easy |
+| 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: parse logs and count events](../companies/ibm.md#q4-python-parse-logs-and-count-events) | ≈ [LC 811](https://leetcode.com/problems/subdomain-visit-count/) Medium |
+| 2026-11-24 | [Ola](../companies/ola.md) | Unknown | [Ola AI/ML assessment pattern](../companies/ola.md#q1-ola-aiml-assessment-pattern) | |
+| 2026-11-24 | [Straive](../companies/straive.md) | NIT Rourkela | [Straive tech round: SQL and Python](../companies/straive.md#q1-straive-tech-round-sql-and-python) | |
+| 2026-11-24 | [Moneyview](../companies/moneyview.md) | IIT BHU | [Business Analyst OA pattern (previous year)](../companies/moneyview.md#q1-business-analyst-oa-pattern-previous-year) | |
 | 2026-11-23 | [Perceptive Analytics](../companies/perceptive-analytics.md) | IIT Dhanbad | [Perceptive Analytics analyst dataset task](../companies/perceptive-analytics.md#q1-perceptive-analytics-analyst-dataset-task) | |
 | 2026-11-19 | [Cars24](../companies/cars24.md) | IIT Guwahati | [Binary classification from scratch in Python](../companies/cars24.md#q1-binary-classification-from-scratch-in-python) | |
 | 2026-11-18 | [Cars24](../companies/cars24.md) | Unknown | [Home assignment: Predicting engine rating](../companies/cars24.md#q1-home-assignment-predicting-engine-rating) | |

@@ -1,9 +1,9 @@
 # Nutanix
 
-**5 questions** · 3 drives · latest 22 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**5 questions** · 3 drives · latest 24 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [DP](../topics/dp.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Graphs](../topics/graphs.md) 1 · [Strings](../topics/strings.md) 1 · [Arrays](../topics/arrays.md) 1  
-**Seen at:** IIT Kharagpur, IIT Madras, MNNIT Allahabad
+**Seen at:** IIT Guwahati, IIT Kharagpur, IIT Madras, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -55,4 +55,4 @@ A hard subarray question that was a DP problem. Exact statement not remembered.
 
 3 hard DSA questions. (Questions not given.)
 
-<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/gullak-money-oa/2026-11.jsonl#L13) · Also asked at: MNNIT Allahabad (2026-11-14)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/gullak-money-oa/2026-11.jsonl#L13) · Also asked at: MNNIT Allahabad (2026-11-14), IIT Guwahati (2026-11-24)</sub>

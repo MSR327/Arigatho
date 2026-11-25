@@ -1,9 +1,10 @@
 # Finance
 
-17 questions from 8 companys, newest first. [← all topics](../README.md#topics)
+18 questions from 9 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-24 | [Futures First](../companies/futures-first.md) | IIT Guwahati | [GD: Impact of AI on global stock markets](../companies/futures-first.md#q1-gd-impact-of-ai-on-global-stock-markets) |
 | 2026-11-23 | [ICICI](../companies/icici.md) | IIT Delhi | [ICICI interview topics](../companies/icici.md#q1-icici-interview-topics) |
 | 2026-11-17 | [Groww](../companies/groww.md) | Unknown | [How the payment industry works](../companies/groww.md#q5-how-the-payment-industry-works) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Ben Carpet new technology investment case](../companies/accordion.md#q3-ben-carpet-new-technology-investment-case) |

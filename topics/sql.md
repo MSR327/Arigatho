@@ -1,9 +1,14 @@
 # SQL
 
-122 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+128 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-24 | [Slice](../companies/slice.md) | IIT Kharagpur | [SQL on user data](../companies/slice.md#q3-sql-on-user-data) | |
+| 2026-11-24 | [Straive](../companies/straive.md) | NIT Rourkela | [Straive tech round: SQL and Python](../companies/straive.md#q1-straive-tech-round-sql-and-python) | |
+| 2026-11-24 | [Deloitte](../companies/deloitte.md) | NIT Rourkela | [SQL joins](../companies/deloitte.md#q1-sql-joins) | |
+| 2026-11-24 | [Tredence](../companies/tredence.md) | Unknown | [Tredence interview contents (summary of shared experiences)](../companies/tredence.md#q1-tredence-interview-contents-summary-of-shared-experiences) | |
+| 2026-11-24 | [Jio Platforms](../companies/jio-platforms.md) | NIT Raipur | [Jio interview rounds and topics](../companies/jio-platforms.md#q1-jio-interview-rounds-and-topics) | |
 | 2026-11-20 | [Deloitte](../companies/deloitte.md) | Unknown | [SQL highest salary](../companies/deloitte.md#q2-sql-highest-salary) | [LC 176](https://leetcode.com/problems/second-highest-salary/) Medium |
 | 2026-11-19 | [ICICI](../companies/icici.md) | Unknown | [ICICI data analyst interview: HR, projects and SQL](../companies/icici.md#q1-icici-data-analyst-interview-hr-projects-and-sql) | |
 | 2026-11-15 | [Revolut](../companies/revolut.md) | NIT Surathkal | [Revolut SQL join questions on 3 tables](../companies/revolut.md#q1-revolut-sql-join-questions-on-3-tables) | |
@@ -34,6 +39,7 @@
 | 2026-11-03 | [Capital One](../companies/capital-one.md) | Unknown | [Capital One Business Analyst OA topics](../companies/capital-one.md#q1-capital-one-business-analyst-oa-topics) | |
 | 2026-11-02 | [ZS](../companies/zs.md) | Unknown | [ZS OA structure and maximum product subarray](../companies/zs.md#q1-zs-oa-structure-and-maximum-product-subarray) | [LC 152](https://leetcode.com/problems/maximum-product-subarray/) Medium |
 | 2026-11-02 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [SQL window function question](../companies/tiger-analytics.md#q4-sql-window-function-question) | ≈ [LC 185](https://leetcode.com/problems/department-top-three-salaries/) Hard |
+| 2026-11-01 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Eternal SDE OA pattern summary](../companies/eternal-zomato.md#q1-eternal-sde-oa-pattern-summary) | |
 | 2026-11-01 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [SQL: price of products in stock by country and city](../companies/eternal-zomato.md#q3-sql-price-of-products-in-stock-by-country-and-city) | ≈ [LC 175](https://leetcode.com/problems/combine-two-tables/) Easy |
 | 2026-11-01 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [SQL: failed transactions](../companies/eternal-zomato.md#q2-sql-failed-transactions) | |
 | 2026-10-31 | [Mastercard](../companies/mastercard.md) | IIT Roorkee | [Medicines expiring after 18 May 2018 from large hospitals](../companies/mastercard.md#q2-medicines-expiring-after-18-may-2018-from-large-hospitals) | ≈ [LC 1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) Easy |

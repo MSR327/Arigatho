@@ -1,13 +1,15 @@
 # Eternal (Zomato)
 
-**206 questions** · 107 drives · latest 23 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**208 questions** · 109 drives · latest 24 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 79 · [SQL](../topics/sql.md) 27 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 16 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 81 · [SQL](../topics/sql.md) 28 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 17 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
 **Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +16 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-24 · IIT Dhanbad · FTE · SDE](#2026-11-24--iit-dhanbad--fte--sde)
+  - [Eternal SDE OA format: 3 DSA questions and MCQs](#q1-eternal-sde-oa-format-3-dsa-questions-and-mcqs)
 - [2026-11-23 · IIT Roorkee · FTE · Product Analyst](#2026-11-23--iit-roorkee--fte--product-analyst)
   - [Eternal Product Analyst OA format](#q1-eternal-product-analyst-oa-format)
 - [2026-11-22 · IIT Hyderabad · FTE · Interview](#2026-11-22--iit-hyderabad--fte--interview)
@@ -75,6 +77,8 @@
   - [OA structure](#q1-oa-structure)
   - [Morse code decode to dictionary word](#q2-morse-code-decode-to-dictionary-word)
   - [Minimum dice rolls to reach the end](#q3-minimum-dice-rolls-to-reach-the-end)
+- [2026-11-01 · Unknown · FTE · SDE](#2026-11-01--unknown--fte--sde)
+  - [Eternal SDE OA pattern summary](#q1-eternal-sde-oa-pattern-summary)
 - [2026-11-01 · IIT Roorkee · FTE · Product Analyst](#2026-11-01--iit-roorkee--fte--product-analyst)
   - [Eternal Product Analyst OA overview](#q1-eternal-product-analyst-oa-overview)
   - [SQL: failed transactions](#q2-sql-failed-transactions)
@@ -325,6 +329,16 @@
 </details>
 
 ---
+
+## 2026-11-24 · IIT Dhanbad · FTE · SDE
+
+### Q1. Eternal SDE OA format: 3 DSA questions and MCQs
+
+SDE OA: 3 DSA questions (2 easy + 1 good one, around 1500-1600 Codeforces rating) and MCQs.
+
+The question statements and the number of MCQs were not given.
+
+<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/eternal-oa/2026-11.jsonl#L249)</sub>
 
 ## 2026-11-23 · IIT Roorkee · FTE · Product Analyst
 
@@ -653,6 +667,17 @@ You are given an array A of non-negative integers of size N. You start at index 
 The message was cut off here, so the rest of the statement (output and constraints) is missing. Presumably the goal is the minimum number of dice rolls.
 
 <sub>Topics: DP, Graphs · Same idea: [LeetCode 45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) (Medium), minimum jumps to reach end · Source: [chat, 2 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L45)</sub>
+
+## 2026-11-01 · Unknown · FTE · SDE
+
+### Q1. Eternal SDE OA pattern summary
+
+- The Eternal OA on Nov 1st had decent DSA problems and logical reasoning (from 1 shared experience).
+- Recent questions include medium coding such as a "three depots" routing problem, and a medium SQL question on product prices.
+
+Full problem statements were not given.
+
+<sub>Topics: OA Format, Aptitude, SQL · Source: [chat, 24 Nov](../archive/inter-nit/2026-11.jsonl#L2501)</sub>
 
 ## 2026-11-01 · IIT Roorkee · FTE · Product Analyst
 
