@@ -1,9 +1,11 @@
 # HR & Behavioral
 
-65 questions from 32 companys, newest first. [← all topics](../README.md#topics)
+67 questions from 32 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [Accenture](../companies/accenture.md) | NIT Delhi | [ETE interview: selected IIT candidate (Oct 2026)](../companies/accenture.md#q2-ete-interview-selected-iit-candidate-oct-2026) | |
+| 2026-11-25 | [Accenture](../companies/accenture.md) | NIT Delhi | [ETE interview: HR and projects](../companies/accenture.md#q1-ete-interview-hr-and-projects) | |
 | 2026-11-23 | [Ola](../companies/ola.md) | Unknown | [Ola Founder's Office GD/interview questions](../companies/ola.md#q1-ola-founders-office-gdinterview-questions) | |
 | 2026-11-23 | [ICICI](../companies/icici.md) | IIT Delhi | [ICICI interview topics](../companies/icici.md#q1-icici-interview-topics) | |
 | 2026-11-23 | [Epsilon](../companies/epsilon.md) | Unknown | [Epsilon second round: resume deep dive](../companies/epsilon.md#q2-epsilon-second-round-resume-deep-dive) | |

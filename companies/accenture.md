@@ -1,6 +1,6 @@
 # Accenture
 
-**353 questions** · 128 drives · latest 19 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**355 questions** · 129 drives · latest 25 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 97 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +19 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
@@ -8,6 +8,9 @@
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · NIT Delhi · FTE · Elite Technology Engineer (ETE) · Interview](#2026-11-25--nit-delhi--fte--elite-technology-engineer-ete--interview)
+  - [ETE interview: HR and projects](#q1-ete-interview-hr-and-projects)
+  - [ETE interview: selected IIT candidate (Oct 2026)](#q2-ete-interview-selected-iit-candidate-oct-2026)
 - [2026-11-18 · Unknown · FTE](#2026-11-18--unknown--fte)
   - [Accenture OA and interview technical topics](#q1-accenture-oa-and-interview-technical-topics)
 - [2026-11-18 · NIT Surathkal · FTE · Elite Technology Engineer (ETE) · Interview](#2026-11-18--nit-surathkal--fte--elite-technology-engineer-ete--interview)
@@ -493,6 +496,34 @@
 </details>
 
 ---
+
+## 2026-11-25 · NIT Delhi · FTE · Elite Technology Engineer (ETE) · Interview
+
+### Q1. ETE interview: HR and projects
+
+Reported interview:
+
+- Introduce yourself (2–3 minutes).
+- Explain your projects.
+- Questions about extracurricular activities and sports.
+- General HR discussion.
+
+The interviewer encouraged the candidate to speak at length about their background. The interview was relatively easy and focused mainly on common HR questions and projects.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 25 Nov](../archive/accenture-oa/2026-11.jsonl#L637)</sub>
+
+### Q2. ETE interview: selected IIT candidate (Oct 2026)
+
+Reported by an IIT candidate (selected, October 2026):
+
+- Introduction and hobbies.
+- What do you do in your free time?
+- How are you finding South India?
+- What is the importance of innovation and collaboration in an organisation?
+
+The interview lasted about 15 minutes, with no technical questions.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 25 Nov](../archive/accenture-oa/2026-11.jsonl#L637)</sub>
 
 ## 2026-11-18 · Unknown · FTE
 
