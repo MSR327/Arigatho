@@ -1,9 +1,10 @@
 # OS/DBMS/CN MCQ
 
-159 questions from 37 companys, newest first. [← all topics](../README.md#topics)
+160 questions from 38 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [Dassault Systemes](../companies/dassault-systemes.md) | Unknown | [Dassault Systemes SWE interview rounds and topics](../companies/dassault-systemes.md#q1-dassault-systemes-swe-interview-rounds-and-topics) | |
 | 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [OS: deadlock, paging, semaphores vs mutex](../companies/kla.md#q2-os-deadlock-paging-semaphores-vs-mutex) | |
 | 2026-11-24 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Application Engineer interview topics](../companies/idfc-first-bank.md#q1-application-engineer-interview-topics) | |
 | 2026-11-24 | [HCLTech](../companies/hcltech.md) | Unknown | [Technical round 2: DBMS, OS and scenario questions](../companies/hcltech.md#q2-technical-round-2-dbms-os-and-scenario-questions) | |

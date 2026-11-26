@@ -1,6 +1,6 @@
 # Cars24
 
-**68 questions** · 30 drives · latest 24 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**68 questions** · 30 drives · latest 25 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 23 · [ML/AI](../topics/ml-ai.md) 23 · [Graphs](../topics/graphs.md) 7 · [Arrays](../topics/arrays.md) 6 · [Python & Pandas](../topics/python-pandas.md) 6 · [DP](../topics/dp.md) 4 · [Strings](../topics/strings.md) 4 · [Other](../topics/other.md) 4 · +15 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee +1 more
@@ -269,7 +269,7 @@ Then some general machine learning questions (the message is cut off here).
 
 10 MCQs and 1 coding question in Python using a given CSV file: find the monthly sales of a company and save it. To be done in a Jupyter notebook/script (reported for the DS role).
 
-<sub>Topics: OA Format, Python & Pandas · Source: [chat, 18 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L392) · Also asked at: IIT Kanpur ×2 (last 2026-11-18)</sub>
+<sub>Topics: OA Format, Python & Pandas · Source: [chat, 18 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L392) · Also asked at: IIT Kanpur ×2 (last 2026-11-18), IIT Roorkee (2026-11-25)</sub>
 
 ## 2026-11-16 · IIT Roorkee · FTE · Data Science
 
@@ -421,7 +421,7 @@ Pattern: 1. MCQ on ML / data science, 2. Coding, 3. Aptitude.
 
 15 questions: 12 MCQs, 2 DSA coding questions and 1 SQL question. The MCQs were related to software engineering only.
 
-<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Kharagpur/Kanpur (2026-11-16), IIT Kharagpur (2026-11-17), IIT BHU ×3 (last 2026-11-19), IIT Guwahati (2026-11-19), IIT Delhi ×4 (last 2026-11-21)</sub>
+<sub>Topics: OA Format · Source: [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L417), [chat, 14 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L433) · Also asked at: IIT Kharagpur/Kanpur (2026-11-16), IIT BHU ×3 (last 2026-11-19), IIT Guwahati (2026-11-19), IIT Delhi ×4 (last 2026-11-21), IIT Kharagpur ×2 (last 2026-11-25)</sub>
 
 ## 2026-11-14 · IIT Delhi · FTE · Data Science / ML
 
@@ -473,7 +473,7 @@ As per 4 shared experiences (OA was on Nov 10 per the calendar):
 
 Exact questions were not given.
 
-<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/cars24-oa/2026-11.jsonl#L3) · Also asked at: Unknown ×2 (last 2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/cars24-oa/2026-11.jsonl#L3) · Also asked at: Unknown ×4 (last 2026-11-25)</sub>
 
 ## 2026-11-10 · IIT Roorkee · FTE
 

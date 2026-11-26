@@ -1,6 +1,6 @@
 # IDFC First Bank
 
-**18 questions** · 15 drives · latest 24 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**18 questions** · 15 drives · latest 25 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 13 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1 · [Aptitude](../topics/aptitude.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · +1 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur +4 more
@@ -52,7 +52,7 @@
 
 The OA had 3 coding problems plus some quant, so it is mostly tech. This is second-hand, based on one shared experience; the questions themselves are not given.
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 24 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L93), [chat, 24 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L94)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 24 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L93), [chat, 24 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L94) · Also asked at: Unknown (2026-10-13), IIT Guwahati (2026-11-25)</sub>
 
 ## 2026-11-24 · Unknown · FTE · Application Engineer · Interview
 

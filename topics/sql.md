@@ -1,9 +1,12 @@
 # SQL
 
-128 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+131 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [NoBroker](../companies/nobroker.md) | Unknown | [NoBroker Marketing Analyst rounds](../companies/nobroker.md#q1-nobroker-marketing-analyst-rounds) | |
+| 2026-11-25 | [Navi](../companies/navi.md) | Unknown | [Navi interview topics pattern](../companies/navi.md#q1-navi-interview-topics-pattern) | |
+| 2026-11-25 | [ICICI](../companies/icici.md) | Unknown | [ICICI Manager I technical and HR rounds](../companies/icici.md#q1-icici-manager-i-technical-and-hr-rounds) | |
 | 2026-11-24 | [Slice](../companies/slice.md) | IIT Kharagpur | [SQL on user data](../companies/slice.md#q3-sql-on-user-data) | |
 | 2026-11-24 | [Straive](../companies/straive.md) | NIT Rourkela | [Straive tech round: SQL and Python](../companies/straive.md#q1-straive-tech-round-sql-and-python) | |
 | 2026-11-24 | [Deloitte](../companies/deloitte.md) | NIT Rourkela | [SQL joins](../companies/deloitte.md#q1-sql-joins) | |

@@ -1,9 +1,11 @@
 # OOP
 
-45 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+47 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [Accenture](../companies/accenture.md) | Unknown | [Accenture interview topics (summary of shared experiences)](../companies/accenture.md#q1-accenture-interview-topics-summary-of-shared-experiences) | |
+| 2026-11-25 | [Dassault Systemes](../companies/dassault-systemes.md) | Unknown | [Dassault Systemes SWE interview rounds and topics](../companies/dassault-systemes.md#q1-dassault-systemes-swe-interview-rounds-and-topics) | |
 | 2026-11-23 | [ICICI](../companies/icici.md) | IIT Roorkee | [ICICI OA topics: OOPs and computer networks](../companies/icici.md#q1-icici-oa-topics-oops-and-computer-networks) | |
 | 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 3: project discussion, knight moves BFS, OOPs](../companies/kla.md#q3-kla-round-3-project-discussion-knight-moves-bfs-oops) | [LC 1197](https://leetcode.com/problems/minimum-knight-moves/) Medium |
 | 2026-11-22 | [Cognizant](../companies/cognizant.md) | IIT Tirupati | [Cognizant interview format and scenario coding](../companies/cognizant.md#q1-cognizant-interview-format-and-scenario-coding) | |

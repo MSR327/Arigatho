@@ -1,9 +1,17 @@
 # OA Format
 
-950 questions from 172 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+959 questions from 172 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | Unknown | [CBA interview topics (summary of 5 experiences)](../companies/commonwealth-bank-of-australia.md#q1-cba-interview-topics-summary-of-5-experiences) | |
+| 2026-11-25 | [NoBroker](../companies/nobroker.md) | Unknown | [NoBroker Marketing Analyst rounds](../companies/nobroker.md#q1-nobroker-marketing-analyst-rounds) | |
+| 2026-11-25 | [ICICI](../companies/icici.md) | Unknown | [ICICI Bank OA pattern](../companies/icici.md#q1-icici-bank-oa-pattern) | |
+| 2026-11-25 | [Navi](../companies/navi.md) | Unknown | [Navi interview topics pattern](../companies/navi.md#q1-navi-interview-topics-pattern) | |
+| 2026-11-25 | [Accenture](../companies/accenture.md) | Unknown | [Accenture OA contents (summary of shared experiences)](../companies/accenture.md#q1-accenture-oa-contents-summary-of-shared-experiences) | |
+| 2026-11-25 | [Novartis](../companies/novartis.md) | IIT Hyderabad | [Novartis AI and data OA pattern (hearsay)](../companies/novartis.md#q1-novartis-ai-and-data-oa-pattern-hearsay) | |
+| 2026-11-25 | [Axxela](../companies/axxela.md) | Unknown | [Axxela interview rounds (summary of 5 experiences)](../companies/axxela.md#q1-axxela-interview-rounds-summary-of-5-experiences) | |
+| 2026-11-25 | [Juspay](../companies/juspay.md) | Unknown | [Juspay OA and interview rounds pattern](../companies/juspay.md#q1-juspay-oa-and-interview-rounds-pattern) | |
 | 2026-11-25 | [DE Shaw](../companies/de-shaw.md) | IIT BHU | [DE Shaw OA had three DSA questions](../companies/de-shaw.md#q1-de-shaw-oa-had-three-dsa-questions) | |
 | 2026-11-25 | [IBM](../companies/ibm.md) | IIT BHU | [Repo task: implement movie pass checks from architecture.md](../companies/ibm.md#q1-repo-task-implement-movie-pass-checks-from-architecturemd) | |
 | 2026-11-25 | [Point72](../companies/point72.md) | Unknown | [Point72 OA contents (summary of shared experiences)](../companies/point72.md#q1-point72-oa-contents-summary-of-shared-experiences) | |
@@ -287,6 +295,7 @@
 | 2026-11-10 | [Unknown](../companies/unknown.md) | NIT Kurukshetra | [ICICI Bank OA topics](../companies/unknown.md#q1-icici-bank-oa-topics) | |
 | 2026-11-10 | [Samsung](../companies/samsung.md) | Unknown | [Samsung Semiconductor OA pattern](../companies/samsung.md#q1-samsung-semiconductor-oa-pattern) | |
 | 2026-11-10 | [Microsoft](../companies/microsoft.md) | IIT Guwahati | [Microsoft OA format](../companies/microsoft.md#q1-microsoft-oa-format) | |
+| 2026-11-09 | [ICICI](../companies/icici.md) | Unknown | [ICICI Manager I OA pattern](../companies/icici.md#q1-icici-manager-i-oa-pattern) | |
 | 2026-11-09 | [Qualcomm](../companies/qualcomm.md) | IIT Kharagpur/Kanpur | [Qualcomm software OA content](../companies/qualcomm.md#q1-qualcomm-software-oa-content) | |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA pattern](../companies/eternal-zomato.md#q2-eternal-product-analyst-oa-pattern) | |
 | 2026-11-09 | [Capital One](../companies/capital-one.md) | IIT BHU | [Second test: 3 DSA questions](../companies/capital-one.md#q3-second-test-3-dsa-questions) | |

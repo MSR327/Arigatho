@@ -1,13 +1,19 @@
 # Accenture
 
-**354 questions** · 129 drives · latest 25 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**357 questions** · 132 drives · latest 25 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 97 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +20 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 98 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +20 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · Unknown · Unknown](#2026-11-25--unknown--unknown)
+  - [Accenture OA contents (summary of shared experiences)](#q1-accenture-oa-contents-summary-of-shared-experiences)
+- [2026-11-25 · Unknown · Unknown · Interview](#2026-11-25--unknown--unknown--interview)
+  - [Accenture interview topics (summary of shared experiences)](#q1-accenture-interview-topics-summary-of-shared-experiences)
+- [2026-11-25 · IIT Guwahati · FTE · ETE · Interview](#2026-11-25--iit-guwahati--fte--ete--interview)
+  - [Accenture ETE interview contents](#q1-accenture-ete-interview-contents)
 - [2026-11-24 · Unknown · FTE · Interview](#2026-11-24--unknown--fte--interview)
   - [Accenture interview rounds overview](#q1-accenture-interview-rounds-overview)
 - [2026-11-18 · Unknown · FTE](#2026-11-18--unknown--fte)
@@ -495,6 +501,40 @@
 </details>
 
 ---
+
+## 2026-11-25 · Unknown · Unknown
+
+### Q1. Accenture OA contents (summary of shared experiences)
+
+Summary from shared experiences:
+
+- OA is mostly aptitude (quant, verbal, logical) + pseudocode (from 3 shared experiences)
+- There is also a communication assessment: listening, speaking, email (from 3 experiences)
+- CS fundamentals came up in interviews, not in the OA
+
+Specific questions are not given.
+
+<sub>Topics: OA Format, Aptitude, Verbal · Source: [chat, 25 Nov](../archive/accenture-oa/2026-11.jsonl#L644)</sub>
+
+## 2026-11-25 · Unknown · Unknown · Interview
+
+### Q1. Accenture interview topics (summary of shared experiences)
+
+CS fundamentals came up in interviews, such as OOP and C++ vs Java (1 experience). Also prepare your projects and tech stack.
+
+Specific questions are not given beyond these topics.
+
+<sub>Topics: OOP, HR & Behavioral · Source: [chat, 25 Nov](../archive/accenture-oa/2026-11.jsonl#L644)</sub>
+
+## 2026-11-25 · IIT Guwahati · FTE · ETE · Interview
+
+### Q1. Accenture ETE interview contents
+
+The interview is resume based with some HR questions (as far as the poster knows).
+
+Specific questions are not given.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 25 Nov](../archive/accenture-oa/2026-11.jsonl#L649)</sub>
 
 ## 2026-11-24 · Unknown · FTE · Interview
 

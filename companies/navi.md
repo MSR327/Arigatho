@@ -1,8 +1,8 @@
 # Navi
 
-**47 questions** · 25 drives · latest 25 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**48 questions** · 26 drives · latest 25 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 10 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Math](../topics/math.md) 4 · +7 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 13 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 10 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Math](../topics/math.md) 4 · +9 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +4 more
 
 <details>
@@ -10,6 +10,8 @@
 
 - [2026-11-25 · VNIT Nagpur · FTE · Interview](#2026-11-25--vnit-nagpur--fte--interview)
   - [Medium DSA, resume and project questions](#q1-medium-dsa-resume-and-project-questions)
+- [2026-11-25 · Unknown · Unknown · Interview](#2026-11-25--unknown--unknown--interview)
+  - [Navi interview topics pattern](#q1-navi-interview-topics-pattern)
 - [2026-11-06 · IIT Hyderabad · FTE](#2026-11-06--iit-hyderabad--fte)
   - [Sum of values of articulation points](#q1-sum-of-values-of-articulation-points)
   - [DP debugging problem](#q2-dp-debugging-problem)
@@ -92,6 +94,21 @@
 Medium-level DSA questions, plus questions about the resume and projects. The specific questions are not given.
 
 <sub>Topics: Other, HR & Behavioral · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2531)</sub>
+
+## 2026-11-25 · Unknown · Unknown · Interview
+
+### Q1. Navi interview topics pattern
+
+Summary of 5 shared experiences:
+
+- Mostly guesstimates + case study (guesstimates in 4 of 5)
+- SQL in 3 of them: joins, aggregations and window functions
+- Probability in 2, such as conditional probability
+- DSA, DP and system design came up only in the SDE intern one
+
+Exact questions were not given.
+
+<sub>Topics: OA Format, Guesstimates & Cases, SQL · Source: [chat, 25 Nov](../archive/navi-oa/2026-11.jsonl#L2)</sub>
 
 ## 2026-11-06 · IIT Hyderabad · FTE
 

@@ -1,6 +1,6 @@
 # HiLabs
 
-**23 questions** · 12 drives · latest 6 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**24 questions** · 13 drives · latest 25 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 6 · [Math](../topics/math.md) 5 · [Arrays](../topics/arrays.md) 5 · [Strings](../topics/strings.md) 4 · [Greedy](../topics/greedy.md) 3 · [DP](../topics/dp.md) 3 · [Graphs](../topics/graphs.md) 3 · [Sorting](../topics/sorting.md) 3 · +9 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +2 more
@@ -8,6 +8,8 @@
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · IIT Bombay · FTE · AI Engineer · Other round](#2026-11-25--iit-bombay--fte--ai-engineer--other-round)
+  - [HiLabs AI Engineer question topics](#q1-hilabs-ai-engineer-question-topics)
 - [2026-11-05 · IIT Delhi · FTE](#2026-11-05--iit-delhi--fte)
   - [Trapping rainwater style coding question](#q1-trapping-rainwater-style-coding-question)
 - [2026-11-02 · IIT Guwahati · FTE · SDE](#2026-11-02--iit-guwahati--fte--sde)
@@ -47,6 +49,16 @@
 </details>
 
 ---
+
+## 2026-11-25 · IIT Bombay · FTE · AI Engineer · Other round
+
+### Q1. HiLabs AI Engineer question topics
+
+They ask complex LLM and ML questions.
+
+Specific questions and the round are not given.
+
+<sub>Topics: ML/AI · Source: [chat, 25 Nov](../archive/accenture-oa/2026-11.jsonl#L652)</sub>
 
 ## 2026-11-05 · IIT Delhi · FTE
 

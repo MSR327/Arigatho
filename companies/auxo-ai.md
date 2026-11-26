@@ -1,6 +1,6 @@
 # Auxo AI
 
-**3 questions** · 3 drives · latest 23 Nov 2026 · [← all companies](../README.md#companies)
+**3 questions** · 3 drives · latest 25 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 2 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
 **Seen at:** IIT Guwahati, IIT Hyderabad, IIT Roorkee
@@ -25,7 +25,7 @@
 
 4 DSA questions based on subarrays, plus about 25 MCQs on LLM, ML and DL (poster's recollection, "ig" 25).
 
-<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L671)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L671) · Also asked at: IIT Roorkee (2026-11-25)</sub>
 
 ## 2026-11-07 · IIT Hyderabad · FTE · Interview
 

@@ -1,6 +1,6 @@
 # Urban Company
 
-**12 questions** · 7 drives · latest 24 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**12 questions** · 7 drives · latest 25 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 6 · [DP](../topics/dp.md) 3 · [Arrays](../topics/arrays.md) 3 · [Graphs](../topics/graphs.md) 3 · [Aptitude](../topics/aptitude.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 2 · [Strings](../topics/strings.md) 1  
 **Seen at:** IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee, NIT Kurukshetra, NIT Surathkal
@@ -43,7 +43,7 @@ As per 3 shared experiences:
 
 Exact problem statements are not given.
 
-<sub>Topics: OA Format, DP, Graphs · Close variant: [LeetCode 994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) (Medium), Multi-source BFS on a grid, the named rotten oranges style · Source: [chat, 24 Nov](../archive/urban-company-oa/2026-11.jsonl#L3)</sub>
+<sub>Topics: OA Format, DP, Graphs · Close variant: [LeetCode 994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) (Medium), Multi-source BFS on a grid, the named rotten oranges style · Source: [chat, 24 Nov](../archive/urban-company-oa/2026-11.jsonl#L3) · Also asked at: IIT Kharagpur (2026-11-25)</sub>
 
 ## 2026-11-20 · IIT Roorkee · FTE · Senior Category Manager · Interview
 
@@ -109,7 +109,7 @@ The OA (Nov 11, per calendar) was mostly aptitude + a basic business case.
 
 Specific questions are not given.
 
-<sub>Topics: OA Format, Aptitude, Guesstimates & Cases · Source: [chat, 24 Nov](../archive/urban-company-oa/2026-11.jsonl#L5)</sub>
+<sub>Topics: OA Format, Aptitude, Guesstimates & Cases · Source: [chat, 24 Nov](../archive/urban-company-oa/2026-11.jsonl#L5) · Also asked at: IIT Kharagpur (2026-11-25)</sub>
 
 ## 2026-11-11 · IIT Kharagpur · FTE
 

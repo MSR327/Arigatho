@@ -1,15 +1,17 @@
 # Verbal
 
-52 questions from 9 companys, newest first. [← all topics](../README.md#topics)
+54 questions from 10 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-25 | [Accenture](../companies/accenture.md) | Unknown | [Accenture OA contents (summary of shared experiences)](../companies/accenture.md#q1-accenture-oa-contents-summary-of-shared-experiences) |
 | 2026-11-12 | [Capgemini](../companies/capgemini.md) | MNNIT Allahabad | [Round 1: email, verbal, video recording](../companies/capgemini.md#q1-round-1-email-verbal-video-recording) |
 | 2026-11-12 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Communication round format](../companies/accenture.md#q1-communication-round-format) |
 | 2026-11-12 | [Capgemini](../companies/capgemini.md) | IIT BHU | [Capgemini communication round duration](../companies/capgemini.md#q1-capgemini-communication-round-duration) |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [English: synonym, antonym, preposition, passages](../companies/iqvia.md#q7-english-synonym-antonym-preposition-passages) |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA English and critical reasoning](../companies/iqvia.md#q6-iqvia-english-and-critical-reasoning) |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [English and Critical Reasoning questions](../companies/iqvia.md#q3-english-and-critical-reasoning-questions) |
+| 2026-11-09 | [ICICI](../companies/icici.md) | Unknown | [ICICI Manager I OA pattern](../companies/icici.md#q1-icici-manager-i-oa-pattern) |
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Accenture ETE communication and email writing round](../companies/accenture.md#q1-accenture-ete-communication-and-email-writing-round) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [Main argument of fasting passage](../companies/iqvia.md#q14-main-argument-of-fasting-passage) |
 | 2026-11-07 | [IQVIA](../companies/iqvia.md) | IIT Delhi | [What makes meetings successful?](../companies/iqvia.md#q13-what-makes-meetings-successful) |

@@ -1,13 +1,15 @@
 # Juspay
 
-**26 questions** · 19 drives · latest 24 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**27 questions** · 20 drives · latest 25 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 13 · [Trees](../topics/trees.md) 5 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 4 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +3 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 14 · [Trees](../topics/trees.md) 5 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 4 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +3 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · Unknown · Unknown · Other round](#2026-11-25--unknown--unknown--other-round)
+  - [Juspay OA and interview rounds pattern](#q1-juspay-oa-and-interview-rounds-pattern)
 - [2026-11-24 · IIT Roorkee · FTE](#2026-11-24--iit-roorkee--fte)
   - [Juspay problem set this year](#q1-juspay-problem-set-this-year)
 - [2026-11-21 · IIT Roorkee · FTE](#2026-11-21--iit-roorkee--fte)
@@ -57,6 +59,20 @@
 </details>
 
 ---
+
+## 2026-11-25 · Unknown · Unknown · Other round
+
+### Q1. Juspay OA and interview rounds pattern
+
+Summary of shared experiences:
+
+- Total rounds: 3 as per 4 of 5 experiences; 1 experience lists 4 rounds
+- OA: 3 coding questions
+- Then technical rounds on DSA, LLD, OS and projects
+
+Exact questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/juspay-oa/2026-11.jsonl#L169)</sub>
 
 ## 2026-11-24 · IIT Roorkee · FTE
 

@@ -40,4 +40,4 @@ Summary compiled from shared experiences:
 
 The actual questions are not given.
 
-<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2560)</sub>
+<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2560) · Also asked at: Unknown (2026-11-25)</sub>

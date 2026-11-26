@@ -28,7 +28,7 @@
 - Basic Coding: 15
 - Advanced: 15
 
-<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L717)</sub>
+<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L717) · Also asked at: IIT Roorkee (2026-11-25)</sub>
 
 ## 2026-11-24 · NIT Raipur · FTE
 

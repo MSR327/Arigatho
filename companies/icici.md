@@ -1,13 +1,17 @@
 # ICICI
 
-**53 questions** · 30 drives · latest 24 Nov 2026 · [← all companies](../README.md#companies)
+**56 questions** · 33 drives · latest 25 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 25 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 16 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [HR & Behavioral](../topics/hr-behavioral.md) 4 · [Aptitude](../topics/aptitude.md) 4 · [OOP](../topics/oop.md) 4 · [SQL](../topics/sql.md) 4 · [Python & Pandas](../topics/python-pandas.md) 2 · +9 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 27 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 16 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Aptitude](../topics/aptitude.md) 6 · [HR & Behavioral](../topics/hr-behavioral.md) 5 · [SQL](../topics/sql.md) 5 · [OOP](../topics/oop.md) 4 · [Python & Pandas](../topics/python-pandas.md) 2 · +11 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +9 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · Unknown · FTE · Manager I · Interview](#2026-11-25--unknown--fte--manager-i--interview)
+  - [ICICI Manager I technical and HR rounds](#q1-icici-manager-i-technical-and-hr-rounds)
+- [2026-11-25 · Unknown · Unknown](#2026-11-25--unknown--unknown)
+  - [ICICI Bank OA pattern](#q1-icici-bank-oa-pattern)
 - [2026-11-23 · IIT Roorkee · FTE · Manager](#2026-11-23--iit-roorkee--fte--manager)
   - [ICICI OA topics: OOPs and computer networks](#q1-icici-oa-topics-oops-and-computer-networks)
 - [2026-11-23 · IIT Delhi · FTE · Interview](#2026-11-23--iit-delhi--fte--interview)
@@ -36,6 +40,8 @@
   - [Automatic IP assignment protocol](#q9-automatic-ip-assignment-protocol)
   - [Average marks with word 'one'](#q10-average-marks-with-word-one)
   - [Delete stored procedure in BigQuery](#q11-delete-stored-procedure-in-bigquery)
+- [2026-11-09 · Unknown · FTE · Manager I](#2026-11-09--unknown--fte--manager-i)
+  - [ICICI Manager I OA pattern](#q1-icici-manager-i-oa-pattern)
 - [2026-11-08 · IIT Roorkee · FTE · Manager](#2026-11-08--iit-roorkee--fte--manager)
   - [ICICI Bank Manager OA pattern](#q1-icici-bank-manager-oa-pattern)
 - [2026-11-08 · IIT Roorkee · FTE · Deputy Manager II](#2026-11-08--iit-roorkee--fte--deputy-manager-ii)
@@ -95,6 +101,23 @@
 </details>
 
 ---
+
+## 2026-11-25 · Unknown · FTE · Manager I · Interview
+
+### Q1. ICICI Manager I technical and HR rounds
+
+2 rounds: a tech round (projects, SQL joins, a scenario such as customer churn for a bank), then HR. Reported as medium difficulty, from 1 shared experience. Exact questions were not shared.
+
+<sub>Topics: SQL, Guesstimates & Cases, HR & Behavioral · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2575)</sub>
+
+## 2026-11-25 · Unknown · Unknown
+
+### Q1. ICICI Bank OA pattern
+
+- The OA is mostly MCQs: aptitude, logical reasoning, basic technical and banking MCQs (as per 4 shared experiences).
+- The SDE role had 2 coding questions (medium DP + easy array) plus MCQs (from 1 experience).
+
+<sub>Topics: OA Format, Aptitude · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2623)</sub>
 
 ## 2026-11-23 · IIT Roorkee · FTE · Manager
 
@@ -245,6 +268,14 @@ Alice calculates the average marks of students but notices that some marks conta
 John wants to delete a stored procedure in BigQuery. Which DDL statement should be used?
 
 <sub>Topics: SQL · Source: [chat, 11 Nov](../archive/icici-oa/2026-11.jsonl#L97)</sub>
+
+## 2026-11-09 · Unknown · FTE · Manager I
+
+### Q1. ICICI Manager I OA pattern
+
+Manager I OA (Nov 9th): aptitude, logical reasoning, verbal + some data/banking technical MCQs, nothing too hard. Individual questions were not shared.
+
+<sub>Topics: OA Format, Aptitude, Verbal · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2575)</sub>
 
 ## 2026-11-08 · IIT Roorkee · FTE · Manager
 

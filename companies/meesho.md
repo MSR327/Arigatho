@@ -1,13 +1,17 @@
 # Meesho
 
-**4 questions** · 4 drives · latest 24 Nov 2026 · [← all companies](../README.md#companies)
+**6 questions** · 6 drives · latest 25 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
-**Seen at:** IIT BHU, IIT Dhanbad, IIT Roorkee, NIT Surathkal
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [OA Format](../topics/oa-format.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
+**Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Roorkee, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · IIT Roorkee · FTE · Interview](#2026-11-25--iit-roorkee--fte--interview)
+  - [Guesstimate: arranged marriages in India per year](#q1-guesstimate-arranged-marriages-in-india-per-year)
+- [2026-11-25 · IIT Guwahati · FTE · Interview](#2026-11-25--iit-guwahati--fte--interview)
+  - [Guesstimate: YouTube users in India](#q1-guesstimate-youtube-users-in-india)
 - [2026-11-24 · IIT Dhanbad · FTE · Interview](#2026-11-24--iit-dhanbad--fte--interview)
   - [Guesstimate: biryanis sold in Hyderabad](#q1-guesstimate-biryanis-sold-in-hyderabad)
 - [2026-11-22 · IIT BHU · FTE · Senior Business Associate · Interview](#2026-11-22--iit-bhu--fte--senior-business-associate--interview)
@@ -20,6 +24,22 @@
 </details>
 
 ---
+
+## 2026-11-25 · IIT Roorkee · FTE · Interview
+
+### Q1. Guesstimate: arranged marriages in India per year
+
+Guesstimate: number of arranged marriages in India per year.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 25 Nov](../archive/meesho-oa/2026-11.jsonl#L29)</sub>
+
+## 2026-11-25 · IIT Guwahati · FTE · Interview
+
+### Q1. Guesstimate: YouTube users in India
+
+Guesstimate: number of YouTube users in India ("atp", likely meaning at the present time).
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 25 Nov](../archive/meesho-oa/2026-11.jsonl#L31)</sub>
 
 ## 2026-11-24 · IIT Dhanbad · FTE · Interview
 

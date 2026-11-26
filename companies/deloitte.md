@@ -1,6 +1,6 @@
 # Deloitte
 
-**76 questions** · 22 drives · latest 24 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**76 questions** · 22 drives · latest 25 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 22 · [OA Format](../topics/oa-format.md) 14 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 7 · [SQL](../topics/sql.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · +14 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, IIT Ropar +5 more
@@ -155,7 +155,7 @@ Technical interview (on-campus) covers OOPs, SQL (joins, salary queries), CS fun
 
 Hiring process for FTE roles: an online OA followed by a technical + HR interview round. (Question contents not given.)
 
-<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/inter-nit/2026-11.jsonl#L1102) · Also asked at: NIT Rourkela (2026-11-24)</sub>
+<sub>Topics: OA Format · Source: [chat, 10 Nov](../archive/inter-nit/2026-11.jsonl#L1102) · Also asked at: NIT Rourkela (2026-11-24), Unknown (2026-11-25)</sub>
 
 ## 2026-11-10 · IIT Guwahati · FTE
 

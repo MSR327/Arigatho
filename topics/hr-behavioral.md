@@ -1,9 +1,15 @@
 # HR & Behavioral
 
-81 questions from 40 companys, newest first. [← all topics](../README.md#topics)
+87 questions from 43 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | Unknown | [CBA interview topics (summary of 5 experiences)](../companies/commonwealth-bank-of-australia.md#q1-cba-interview-topics-summary-of-5-experiences) | |
+| 2026-11-25 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Accenture ETE interview contents](../companies/accenture.md#q1-accenture-ete-interview-contents) | |
+| 2026-11-25 | [Accenture](../companies/accenture.md) | Unknown | [Accenture interview topics (summary of shared experiences)](../companies/accenture.md#q1-accenture-interview-topics-summary-of-shared-experiences) | |
+| 2026-11-25 | [Dassault Systemes](../companies/dassault-systemes.md) | Unknown | [Dassault Systemes SWE interview rounds and topics](../companies/dassault-systemes.md#q1-dassault-systemes-swe-interview-rounds-and-topics) | |
+| 2026-11-25 | [Axxela](../companies/axxela.md) | Unknown | [Axxela interview rounds (summary of 5 experiences)](../companies/axxela.md#q1-axxela-interview-rounds-summary-of-5-experiences) | |
+| 2026-11-25 | [ICICI](../companies/icici.md) | Unknown | [ICICI Manager I technical and HR rounds](../companies/icici.md#q1-icici-manager-i-technical-and-hr-rounds) | |
 | 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [Project discussion, especially image processing](../companies/kla.md#q3-project-discussion-especially-image-processing) | |
 | 2026-11-25 | [Navi](../companies/navi.md) | VNIT Nagpur | [Medium DSA, resume and project questions](../companies/navi.md#q1-medium-dsa-resume-and-project-questions) | |
 | 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [Technical round 1: CV, project, KLA, semiconductor market, puzzles](../companies/kla.md#q2-technical-round-1-cv-project-kla-semiconductor-market-puzzles) | |

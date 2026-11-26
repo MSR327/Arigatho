@@ -1,13 +1,15 @@
 # NoBroker
 
-**7 questions** · 7 drives · latest 17 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 8 drives · latest 25 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [Sorting](../topics/sorting.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [Sorting](../topics/sorting.md) 1 · [SQL](../topics/sql.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Indore, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · Unknown · FTE · Marketing Analyst · Interview](#2026-11-25--unknown--fte--marketing-analyst--interview)
+  - [NoBroker Marketing Analyst rounds](#q1-nobroker-marketing-analyst-rounds)
 - [2026-11-17 · IIT Madras · FTE](#2026-11-17--iit-madras--fte)
   - [NoBroker OA pattern](#q1-nobroker-oa-pattern)
 - [2026-11-14 · IIT Kharagpur · FTE · Product Analyst](#2026-11-14--iit-kharagpur--fte--product-analyst)
@@ -26,6 +28,20 @@
 </details>
 
 ---
+
+## 2026-11-25 · Unknown · FTE · Marketing Analyst · Interview
+
+### Q1. NoBroker Marketing Analyst rounds
+
+On-campus Marketing Analyst rounds (from 1 shared experience):
+
+- Quant
+- SQL
+- A case study round
+
+Exact questions were not given.
+
+<sub>Topics: OA Format, SQL, Guesstimates & Cases · Source: [chat, 25 Nov](../archive/nobroker-oa/2026-11.jsonl#L64)</sub>
 
 ## 2026-11-17 · IIT Madras · FTE
 
@@ -92,4 +108,4 @@ Given two integer arrays, `gas` and `cost`, representing the fuel available at e
 
 Sections: one SQL question, 2 DSA questions, and ML/DL MCQs. Duration: 60 to 90 minutes. Typically 2 to 3 coding questions of medium LeetCode level.
 
-<sub>Topics: OA Format · Source: [chat, 13 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L217), [chat, 14 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L223) · Also asked at: IIT Guwahati ×2 (last 2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 13 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L217), [chat, 14 Oct](../archive/campus-iit-roorkee-placements/2026-10.jsonl#L223) · Also asked at: IIT Guwahati ×2 (last 2026-11-12), Unknown ×2 (last 2026-11-25)</sub>

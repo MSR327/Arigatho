@@ -8,3 +8,5 @@
 {"id": 34192, "group": "cars24-oa", "sent_at": "2026-11-25T05:55:56.187057+00:00", "text": "pl", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 34215, "group": "cars24-oa", "sent_at": "2026-11-25T06:56:59.152906+00:00", "text": "what they ask in DS role ?", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 34260, "group": "cars24-oa", "sent_at": "2026-11-25T08:38:57.472184+00:00", "text": "what is the pattern for cars24 DS role?", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 34337, "group": "cars24-oa", "sent_at": "2026-11-25T12:13:29.797385+00:00", "text": "10 ds mcq, 1 ML coding problem", "author_tag": "IITR", "reply_to": {"id": 34260, "text": "what is the pattern for cars24 DS role?", "author_tag": "IITR"}, "attachment": null, "deleted": false}
+{"id": 34339, "group": "cars24-oa", "sent_at": "2026-11-25T12:17:24.452496+00:00", "text": "cars24 AI/ML role pattern", "author_tag": "BHU", "reply_to": null, "attachment": null, "deleted": false}

@@ -1,13 +1,15 @@
 # Axxela
 
-**8 questions** · 3 drives · latest 13 Nov 2026 · [← all companies](../README.md#companies)
+**9 questions** · 4 drives · latest 25 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 6 · [OA Format](../topics/oa-format.md) 2 · [Math](../topics/math.md) 1  
+**Asks about:** [Aptitude](../topics/aptitude.md) 6 · [OA Format](../topics/oa-format.md) 3 · [Math](../topics/math.md) 1 · [Finance](../topics/finance.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Roorkee, SVNIT Surat
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · Unknown · Unknown · Interview](#2026-11-25--unknown--unknown--interview)
+  - [Axxela interview rounds (summary of 5 experiences)](#q1-axxela-interview-rounds-summary-of-5-experiences)
 - [2026-11-10 · IIT BHU · FTE](#2026-11-10--iit-bhu--fte)
   - [Axxela game round format](#q1-axxela-game-round-format)
 - [2026-10-16 · IIT Guwahati · FTE](#2026-10-16--iit-guwahati--fte)
@@ -23,6 +25,20 @@
 </details>
 
 ---
+
+## 2026-11-25 · Unknown · Unknown · Interview
+
+### Q1. Axxela interview rounds (summary of 5 experiences)
+
+From 5 shared experiences, Axxela interviews are 3 rounds:
+
+- Round 1: gaming round with quick mental math, puzzles, pattern recognition (all 5)
+- Round 2: technical + HR on market events, financial basics, why finance
+- Round 3: senior HR on career goals, risk appetite, situational questions
+
+Specific questions are not given.
+
+<sub>Topics: OA Format, Finance, HR & Behavioral · Source: [chat, 25 Nov](../archive/axxela-oa/2026-11.jsonl#L13)</sub>
 
 ## 2026-11-10 · IIT BHU · FTE
 

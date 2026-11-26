@@ -1,13 +1,15 @@
 # Commonwealth Bank of Australia
 
-**60 questions** · 23 drives · latest 23 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**61 questions** · 24 drives · latest 25 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 22 · [Aptitude](../topics/aptitude.md) 16 · [ML/AI](../topics/ml-ai.md) 13 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [SQL](../topics/sql.md) 2 · +6 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 23 · [Aptitude](../topics/aptitude.md) 16 · [ML/AI](../topics/ml-ai.md) 13 · [Math](../topics/math.md) 10 · [Puzzles](../topics/puzzles.md) 6 · [Arrays](../topics/arrays.md) 5 · [Graphs](../topics/graphs.md) 5 · [DP](../topics/dp.md) 3 · +7 more  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-25 · Unknown · Unknown · Interview](#2026-11-25--unknown--unknown--interview)
+  - [CBA interview topics (summary of 5 experiences)](#q1-cba-interview-topics-summary-of-5-experiences)
 - [2026-11-23 · IIT Guwahati · FTE · Data Scientist · Interview](#2026-11-23--iit-guwahati--fte--data-scientist--interview)
   - [CBA DS interview focus and rounds](#q1-cba-ds-interview-focus-and-rounds)
 - [2026-11-20 · IIT Hyderabad · FTE](#2026-11-20--iit-hyderabad--fte)
@@ -95,6 +97,20 @@
 </details>
 
 ---
+
+## 2026-11-25 · Unknown · Unknown · Interview
+
+### Q1. CBA interview topics (summary of 5 experiences)
+
+From 5 shared experiences, CBA interviews were mostly projects + DSA + behavioral:
+
+- SQL came up in 3, OS and cloud in 2
+- DSA was mostly medium, with one hard DP (knapsack variant) in an IIT Hyderabad round
+- Prepare your resume projects well; they dig into design choices
+
+Specific questions are not given.
+
+<sub>Topics: OA Format, DP, HR & Behavioral · Source: [chat, 25 Nov](../archive/commonwealth-bank-oa/2026-11.jsonl#L3)</sub>
 
 ## 2026-11-23 · IIT Guwahati · FTE · Data Scientist · Interview
 

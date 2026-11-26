@@ -1,9 +1,14 @@
 # Guesstimates & Cases
 
-48 questions from 19 companys, newest first. [← all topics](../README.md#topics)
+53 questions from 22 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-25 | [NoBroker](../companies/nobroker.md) | Unknown | [NoBroker Marketing Analyst rounds](../companies/nobroker.md#q1-nobroker-marketing-analyst-rounds) |
+| 2026-11-25 | [Navi](../companies/navi.md) | Unknown | [Navi interview topics pattern](../companies/navi.md#q1-navi-interview-topics-pattern) |
+| 2026-11-25 | [ICICI](../companies/icici.md) | Unknown | [ICICI Manager I technical and HR rounds](../companies/icici.md#q1-icici-manager-i-technical-and-hr-rounds) |
+| 2026-11-25 | [Meesho](../companies/meesho.md) | IIT Guwahati | [Guesstimate: YouTube users in India](../companies/meesho.md#q1-guesstimate-youtube-users-in-india) |
+| 2026-11-25 | [Meesho](../companies/meesho.md) | IIT Roorkee | [Guesstimate: arranged marriages in India per year](../companies/meesho.md#q1-guesstimate-arranged-marriages-in-india-per-year) |
 | 2026-11-24 | [American Express](../companies/american-express.md) | Unknown | [Guesstimate: daily revenue of a restaurant](../companies/american-express.md#q2-guesstimate-daily-revenue-of-a-restaurant) |
 | 2026-11-24 | [Slice](../companies/slice.md) | IIT Kharagpur | [Case study on user engagement](../companies/slice.md#q2-case-study-on-user-engagement) |
 | 2026-11-24 | [Slice](../companies/slice.md) | IIT Kharagpur | [Product sense and guesstimates (DAU, payment flow)](../companies/slice.md#q1-product-sense-and-guesstimates-dau-payment-flow) |

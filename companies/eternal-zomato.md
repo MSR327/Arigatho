@@ -1,6 +1,6 @@
 # Eternal (Zomato)
 
-**208 questions** · 109 drives · latest 24 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**208 questions** · 109 drives · latest 25 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 81 · [SQL](../topics/sql.md) 28 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 17 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
 **Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +16 more
@@ -378,7 +378,7 @@ Interview asked hard DSA questions and puzzles. No specific questions given.
 
 Secondhand (from a friend): the Zomato SDE DSA questions are very tough, and the OA consists of Codeforces questions rated around 1600. Specific questions were not given.
 
-<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/zomato-sde-1/2026-11.jsonl#L40)</sub>
+<sub>Topics: OA Format · Source: [chat, 20 Nov](../archive/zomato-sde-1/2026-11.jsonl#L40) · Also asked at: IIT Bombay (2026-11-25)</sub>
 
 ## 2026-11-19 · Unknown · FTE · ML Scientist
 
@@ -545,7 +545,7 @@ Excel questions, such as implementing formulas on large data. Exact questions no
 
 OA mainly covers MCQs on aptitude, logical and quant reasoning. (Pattern not fully confirmed.)
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 12 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L369)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 12 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L369) · Also asked at: IIT Guwahati (2026-11-25)</sub>
 
 ## 2026-11-11 · Unknown · FTE
 

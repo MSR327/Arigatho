@@ -1,9 +1,10 @@
 # Python & Pandas
 
-84 questions from 25 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+85 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-25 | [Novartis](../companies/novartis.md) | IIT Hyderabad | [Novartis AI and data OA pattern (hearsay)](../companies/novartis.md#q1-novartis-ai-and-data-oa-pattern-hearsay) | |
 | 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: hex/binary register dump bit-fields](../companies/ibm.md#q5-python-hexbinary-register-dump-bit-fields) | ≈ [LC 405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) Easy |
 | 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: parse logs and count events](../companies/ibm.md#q4-python-parse-logs-and-count-events) | ≈ [LC 811](https://leetcode.com/problems/subdomain-visit-count/) Medium |
 | 2026-11-24 | [Ola](../companies/ola.md) | Unknown | [Ola AI/ML assessment pattern](../companies/ola.md#q1-ola-aiml-assessment-pattern) | |

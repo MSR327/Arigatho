@@ -1,9 +1,11 @@
 # ML/AI
 
-189 questions from 29 companys, newest first. [← all topics](../README.md#topics)
+191 questions from 30 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-25 | [HiLabs](../companies/hilabs.md) | IIT Bombay | [HiLabs AI Engineer question topics](../companies/hilabs.md#q1-hilabs-ai-engineer-question-topics) |
+| 2026-11-25 | [Novartis](../companies/novartis.md) | IIT Hyderabad | [Novartis AI and data OA pattern (hearsay)](../companies/novartis.md#q1-novartis-ai-and-data-oa-pattern-hearsay) |
 | 2026-11-24 | [Ola](../companies/ola.md) | Unknown | [Ola AI/ML assessment pattern](../companies/ola.md#q1-ola-aiml-assessment-pattern) |
 | 2026-11-24 | [Hewlett Packard Enterprise](../companies/hewlett-packard-enterprise.md) | IIT Guwahati | [HPE round 2: LangChain question](../companies/hewlett-packard-enterprise.md#q1-hpe-round-2-langchain-question) |
 | 2026-11-24 | [Hewlett Packard Enterprise](../companies/hewlett-packard-enterprise.md) | Unknown | [HPE OA pattern](../companies/hewlett-packard-enterprise.md#q1-hpe-oa-pattern) |

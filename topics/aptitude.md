@@ -1,9 +1,11 @@
 # Aptitude
 
-276 questions from 39 companys, newest first. [← all topics](../README.md#topics)
+279 questions from 39 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-25 | [ICICI](../companies/icici.md) | Unknown | [ICICI Bank OA pattern](../companies/icici.md#q1-icici-bank-oa-pattern) |
+| 2026-11-25 | [Accenture](../companies/accenture.md) | Unknown | [Accenture OA contents (summary of shared experiences)](../companies/accenture.md#q1-accenture-oa-contents-summary-of-shared-experiences) |
 | 2026-11-24 | [Evernorth](../companies/evernorth.md) | NIT Raipur | [Evernorth OA pattern](../companies/evernorth.md#q1-evernorth-oa-pattern) |
 | 2026-11-24 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Application Engineer OA pattern](../companies/idfc-first-bank.md#q1-application-engineer-oa-pattern) |
 | 2026-11-24 | [Moneyview](../companies/moneyview.md) | IIT BHU | [Business Analyst OA pattern (previous year)](../companies/moneyview.md#q1-business-analyst-oa-pattern-previous-year) |
@@ -35,6 +37,7 @@
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [IQVIA quantitative aptitude questions](../companies/iqvia.md#q4-iqvia-quantitative-aptitude-questions) |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [Logical Reasoning questions](../companies/iqvia.md#q2-logical-reasoning-questions) |
 | 2026-11-10 | [IQVIA](../companies/iqvia.md) | IIT BHU | [Quantitative Aptitude questions](../companies/iqvia.md#q1-quantitative-aptitude-questions) |
+| 2026-11-09 | [ICICI](../companies/icici.md) | Unknown | [ICICI Manager I OA pattern](../companies/icici.md#q1-icici-manager-i-oa-pattern) |
 | 2026-11-09 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal Product Analyst OA pattern](../companies/eternal-zomato.md#q1-eternal-product-analyst-oa-pattern) |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [DA section: business math](../companies/accordion.md#q4-da-section-business-math) |
 | 2026-11-09 | [Accordion](../companies/accordion.md) | MNNIT Allahabad | [Data Science section: recall, handshakes, probability, sampling](../companies/accordion.md#q1-data-science-section-recall-handshakes-probability-sampling) |
