@@ -1,13 +1,15 @@
 # Schlumberger
 
-**8 questions** · 2 drives · latest 18 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 3 drives · latest 26 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Math](../topics/math.md) 3 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · [Arrays](../topics/arrays.md) 2 · [OA Format](../topics/oa-format.md) 1 · [Strings](../topics/strings.md) 1  
-**Seen at:** NIT Kurukshetra
+**Asks about:** [Math](../topics/math.md) 3 · [OA Format](../topics/oa-format.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · [Arrays](../topics/arrays.md) 2 · [Strings](../topics/strings.md) 1  
+**Seen at:** IIT BHU, NIT Kurukshetra
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · IIT BHU · FTE · Software](#2026-11-26--iit-bhu--fte--software)
+  - [SLB software role OA pattern](#q1-slb-software-role-oa-pattern)
 - [2026-11-18 · Unknown · FTE](#2026-11-18--unknown--fte)
   - [Palindrome check](#q1-palindrome-check)
   - [Decimal to binary](#q2-decimal-to-binary)
@@ -22,6 +24,18 @@
 </details>
 
 ---
+
+## 2026-11-26 · IIT BHU · FTE · Software
+
+### Q1. SLB software role OA pattern
+
+- 22 problems in total
+- 2 DSA questions, very easy
+- 20 MCQs related to Java, code snippets or OOP
+
+No individual questions were shared.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L725)</sub>
 
 ## 2026-11-18 · Unknown · FTE
 

@@ -1,6 +1,6 @@
 # ICICI
 
-**56 questions** · 33 drives · latest 25 Nov 2026 · [← all companies](../README.md#companies)
+**56 questions** · 33 drives · latest 26 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 27 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 16 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 7 · [Aptitude](../topics/aptitude.md) 6 · [HR & Behavioral](../topics/hr-behavioral.md) 5 · [SQL](../topics/sql.md) 5 · [OOP](../topics/oop.md) 4 · [Python & Pandas](../topics/python-pandas.md) 2 · +11 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee +9 more
@@ -298,7 +298,7 @@ Practice priority: SQL + DBMS + OOP + Aptitude + Banking Awareness.
 
 Questions are on SQL + DBMS + OOPs + code snippets in Python. All MCQ. The questions come from PYQs and recent OAs from different colleges.
 
-<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/icici-oa/2026-11.jsonl#L60), [chat, 8 Nov](../archive/icici-oa/2026-11.jsonl#L61), [chat, 8 Nov](../archive/icici-oa/2026-11.jsonl#L62)</sub>
+<sub>Topics: OA Format · Source: [chat, 8 Nov](../archive/icici-oa/2026-11.jsonl#L60), [chat, 8 Nov](../archive/icici-oa/2026-11.jsonl#L61), [chat, 8 Nov](../archive/icici-oa/2026-11.jsonl#L62) · Also asked at: IIT Roorkee (2026-11-26)</sub>
 
 ## 2026-11-06 · NIT Trichy · FTE · Manager 1
 

@@ -1,13 +1,15 @@
 # Media.net
 
-**17 questions** · 14 drives · latest 15 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**18 questions** · 15 drives · latest 26 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Arrays](../topics/arrays.md) 4 · [Trees](../topics/trees.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · +9 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 4 · [Trees](../topics/trees.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Heaps](../topics/heaps.md) 1 · [Graphs](../topics/graphs.md) 1 · [Two Pointers](../topics/two-pointers.md) 1 · +9 more  
 **Seen at:** Delhi Technological University, IIT BHU, IIT Delhi, IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal, NIT Patna +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · Unknown · Unknown · SDE](#2026-11-26--unknown--unknown--sde)
+  - [Media.net OA pattern summary from shared experiences](#q1-medianet-oa-pattern-summary-from-shared-experiences)
 - [2026-11-15 · NIT Surathkal · FTE](#2026-11-15--nit-surathkal--fte)
   - [Sync engine: queries affected by writes](#q1-sync-engine-queries-affected-by-writes)
 - [2026-11-15 · IIT BHU · FTE · Senior Product Analyst](#2026-11-15--iit-bhu--fte--senior-product-analyst)
@@ -43,6 +45,20 @@
 </details>
 
 ---
+
+## 2026-11-26 · Unknown · Unknown · SDE
+
+### Q1. Media.net OA pattern summary from shared experiences
+
+OA as per 4 shared experiences:
+
+- MCQs (quant, logical, verbal) + SQL + 2 to 4 coding questions
+- Coding is standard LeetCode style, easy to medium level
+- Arrays, graph theory and matrix come up most (across 75 of their questions on OAHelper)
+
+This is an aggregated summary; no individual questions were shared.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/media-net-oa/2026-11.jsonl#L79)</sub>
 
 ## 2026-11-15 · NIT Surathkal · FTE
 

@@ -2,17 +2,17 @@
  "groups": {
   "inter-nit": {
    "oldest_id": 541,
-   "newest_id": 34574,
+   "newest_id": 34641,
    "backfill_done": true
   },
   "inter-iit": {
    "oldest_id": 543,
-   "newest_id": 34578,
+   "newest_id": 34639,
    "backfill_done": true
   },
   "accenture-oa": {
    "oldest_id": 490,
-   "newest_id": 34557,
+   "newest_id": 34632,
    "backfill_done": true
   },
   "adobe-oa": {
@@ -32,7 +32,7 @@
   },
   "amazon-oa": {
    "oldest_id": 1597,
-   "newest_id": 34566,
+   "newest_id": 34623,
    "backfill_done": true
   },
   "american-express-oa": {
@@ -182,12 +182,12 @@
   },
   "campus-iit-bhu-placements": {
    "oldest_id": 2920,
-   "newest_id": 34568,
+   "newest_id": 34634,
    "backfill_done": true
   },
   "campus-iit-bhubaneswar-placements": {
    "oldest_id": 2965,
-   "newest_id": 34347,
+   "newest_id": 34624,
    "backfill_done": true
   },
   "campus-iit-bombay-placements": {
@@ -212,7 +212,7 @@
   },
   "campus-iit-guwahati-placements": {
    "oldest_id": 2924,
-   "newest_id": 34581,
+   "newest_id": 34633,
    "backfill_done": true
   },
   "campus-iit-hyderabad-placements": {
@@ -222,7 +222,7 @@
   },
   "campus-iit-indore-placements": {
    "oldest_id": 2948,
-   "newest_id": 34537,
+   "newest_id": 34619,
    "backfill_done": true
   },
   "campus-iit-ism-dhanbad-placements": {
@@ -232,7 +232,7 @@
   },
   "campus-iit-jodhpur-placements": {
    "oldest_id": 2974,
-   "newest_id": 34250,
+   "newest_id": 34626,
    "backfill_done": true
   },
   "campus-iit-kanpur-placements": {
@@ -242,12 +242,12 @@
   },
   "campus-iit-kharagpur-placements": {
    "oldest_id": 2928,
-   "newest_id": 34546,
+   "newest_id": 34606,
    "backfill_done": true
   },
   "campus-iit-madras-placements": {
    "oldest_id": 2929,
-   "newest_id": 34518,
+   "newest_id": 34642,
    "backfill_done": true
   },
   "campus-iit-mandi-placements": {
@@ -262,7 +262,7 @@
   },
   "campus-iit-roorkee-placements": {
    "oldest_id": 2927,
-   "newest_id": 34567,
+   "newest_id": 34603,
    "backfill_done": true
   },
   "campus-iit-ropar-placements": {
@@ -302,7 +302,7 @@
   },
   "campus-mnnit-allahabad-placements": {
    "oldest_id": 2921,
-   "newest_id": 34378,
+   "newest_id": 34615,
    "backfill_done": true
   },
   "campus-nit-agartala-placements": {
@@ -487,7 +487,7 @@
   },
   "deloitte-oa": {
    "oldest_id": 1600,
-   "newest_id": 34444,
+   "newest_id": 34617,
    "backfill_done": true
   },
   "deutsche-bank-oa": {
@@ -502,7 +502,7 @@
   },
   "eternal-oa": {
    "oldest_id": 499,
-   "newest_id": 34553,
+   "newest_id": 34616,
    "backfill_done": true
   },
   "exl-oa": {
@@ -572,7 +572,7 @@
   },
   "icici-oa": {
    "oldest_id": 1618,
-   "newest_id": 34249,
+   "newest_id": 34636,
    "backfill_done": true
   },
   "idfc-first-bank-oa": {
@@ -617,7 +617,7 @@
   },
   "juspay-oa": {
    "oldest_id": 1579,
-   "newest_id": 34504,
+   "newest_id": 34627,
    "backfill_done": true
   },
   "kanini-oa": {
@@ -652,7 +652,7 @@
   },
   "media-net-oa": {
    "oldest_id": 21794,
-   "newest_id": 34582,
+   "newest_id": 34588,
    "backfill_done": true
   },
   "meesho-oa": {
@@ -737,7 +737,7 @@
   },
   "paytm-oa": {
    "oldest_id": 498,
-   "newest_id": 34213,
+   "newest_id": 34596,
    "backfill_done": true
   },
   "peoplestrong-oa": {
@@ -847,7 +847,7 @@
   },
   "straive-oa": {
    "oldest_id": 16475,
-   "newest_id": 33681,
+   "newest_id": 34593,
    "backfill_done": true
   },
   "tcs-oa": {
@@ -952,7 +952,7 @@
   },
   "cars24-oa": {
    "oldest_id": 33720,
-   "newest_id": 34339,
+   "newest_id": 34585,
    "backfill_done": true
   },
   "commonwealth-bank-oa": {
@@ -32775,6 +32775,62 @@
   34336,
   34338,
   34360,
-  34514
+  34514,
+  34591,
+  34634,
+  34583,
+  34584,
+  34585,
+  34586,
+  34587,
+  34588,
+  34589,
+  34590,
+  34592,
+  34593,
+  34595,
+  34596,
+  34597,
+  34598,
+  34600,
+  34604,
+  34605,
+  34606,
+  34607,
+  34609,
+  34610,
+  34611,
+  34612,
+  34613,
+  34614,
+  34616,
+  34617,
+  34620,
+  34621,
+  34622,
+  34623,
+  34627,
+  34630,
+  34632,
+  34635,
+  34636,
+  34638,
+  34639,
+  34640,
+  34641,
+  34602,
+  34603,
+  34608,
+  34615,
+  34618,
+  34619,
+  34624,
+  34625,
+  34626,
+  34628,
+  34629,
+  34631,
+  34633,
+  34642
  ]
 }

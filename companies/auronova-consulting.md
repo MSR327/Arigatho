@@ -1,9 +1,9 @@
 # Auronova Consulting
 
-**2 questions** · 2 drives · latest 19 Nov 2026 · [← all companies](../README.md#companies)
+**2 questions** · 2 drives · latest 26 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 2  
-**Seen at:** IIT BHU, IIT Guwahati
+**Seen at:** IIT BHU, IIT Guwahati, IIT Indore
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -37,4 +37,4 @@ The OA was mostly aptitude, about 40-45 questions. It also had ML, statistics an
 
 The exact questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L47), [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L48), [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L50)</sub>
+<sub>Topics: OA Format · Source: [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L47), [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L48), [chat, 28 Oct](../archive/campus-iit-guwahati-placements/2026-10.jsonl#L50) · Also asked at: IIT Indore (2026-11-26)</sub>

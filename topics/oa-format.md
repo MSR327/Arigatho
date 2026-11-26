@@ -1,9 +1,11 @@
 # OA Format
 
-959 questions from 172 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+961 questions from 172 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [Schlumberger](../companies/schlumberger.md) | IIT BHU | [SLB software role OA pattern](../companies/schlumberger.md#q1-slb-software-role-oa-pattern) | |
+| 2026-11-26 | [Media.net](../companies/media-net.md) | Unknown | [Media.net OA pattern summary from shared experiences](../companies/media-net.md#q1-medianet-oa-pattern-summary-from-shared-experiences) | |
 | 2026-11-25 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | Unknown | [CBA interview topics (summary of 5 experiences)](../companies/commonwealth-bank-of-australia.md#q1-cba-interview-topics-summary-of-5-experiences) | |
 | 2026-11-25 | [NoBroker](../companies/nobroker.md) | Unknown | [NoBroker Marketing Analyst rounds](../companies/nobroker.md#q1-nobroker-marketing-analyst-rounds) | |
 | 2026-11-25 | [ICICI](../companies/icici.md) | Unknown | [ICICI Bank OA pattern](../companies/icici.md#q1-icici-bank-oa-pattern) | |
