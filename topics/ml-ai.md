@@ -1,9 +1,13 @@
 # ML/AI
 
-191 questions from 30 companys, newest first. [← all topics](../README.md#topics)
+195 questions from 33 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-27 | [Aspect Ratio](../companies/aspect-ratio.md) | VNIT Nagpur | [Aspect Ratio interview pattern](../companies/aspect-ratio.md#q1-aspect-ratio-interview-pattern) |
+| 2026-11-26 | [Deloitte](../companies/deloitte.md) | IIT Roorkee | [Deloitte OA section 4 (technical) topics](../companies/deloitte.md#q1-deloitte-oa-section-4-technical-topics) |
+| 2026-11-26 | [Fractal](../companies/fractal.md) | IIT Bombay | [Multi-class text classification from scratch](../companies/fractal.md#q3-multi-class-text-classification-from-scratch) |
+| 2026-11-26 | [Hakimo AI](../companies/hakimo-ai.md) | IIT BHU | [Hakimo AI OA pattern](../companies/hakimo-ai.md#q1-hakimo-ai-oa-pattern) |
 | 2026-11-25 | [HiLabs](../companies/hilabs.md) | IIT Bombay | [HiLabs AI Engineer question topics](../companies/hilabs.md#q1-hilabs-ai-engineer-question-topics) |
 | 2026-11-25 | [Novartis](../companies/novartis.md) | IIT Hyderabad | [Novartis AI and data OA pattern (hearsay)](../companies/novartis.md#q1-novartis-ai-and-data-oa-pattern-hearsay) |
 | 2026-11-24 | [Ola](../companies/ola.md) | Unknown | [Ola AI/ML assessment pattern](../companies/ola.md#q1-ola-aiml-assessment-pattern) |

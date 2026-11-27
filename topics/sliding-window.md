@@ -1,9 +1,11 @@
 # Sliding Window
 
-42 questions from 28 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+44 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Sliding window max-min for size k](../companies/walt-disney.md#q1-sliding-window-max-min-for-size-k) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
+| 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | IIT Kharagpur | [Sliding Window k-th Minimum](../companies/de-shaw.md#q2-sliding-window-k-th-minimum) | [LC 2653](https://leetcode.com/problems/sliding-subarray-beauty/) Medium |
 | 2026-11-24 | [KLA](../companies/kla.md) | MNNIT Allahabad | [Sliding window and tree diameter coding](../companies/kla.md#q1-sliding-window-and-tree-diameter-coding) | [LC 543](https://leetcode.com/problems/diameter-of-binary-tree/) Easy |
 | 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 1: sliding window and bit manipulation](../companies/kla.md#q1-kla-round-1-sliding-window-and-bit-manipulation) | |
 | 2026-11-19 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Fruit Into Baskets](../companies/idfc-first-bank.md#q1-fruit-into-baskets) | [LC 904](https://leetcode.com/problems/fruit-into-baskets/) Medium |

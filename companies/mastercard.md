@@ -1,13 +1,15 @@
 # Mastercard
 
-**19 questions** · 10 drives · latest 3 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**20 questions** · 11 drives · latest 26 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Other](../topics/other.md) 4 · [Strings](../topics/strings.md) 2 · [Arrays](../topics/arrays.md) 2 · [SQL](../topics/sql.md) 2 · [Math](../topics/math.md) 2 · [DP](../topics/dp.md) 1 · [Sorting](../topics/sorting.md) 1 · +3 more  
-**Seen at:** IIIT, IIIT Sri City, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Other](../topics/other.md) 4 · [Arrays](../topics/arrays.md) 3 · [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [SQL](../topics/sql.md) 2 · [Math](../topics/math.md) 2 · [Sorting](../topics/sorting.md) 1 · +3 more  
+**Seen at:** IIIT, IIIT Sri City, IIT BHU, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · IIT BHU · FTE](#2026-11-26--iit-bhu--fte)
+  - [Min changes to split array into K equal-value groups](#q1-min-changes-to-split-array-into-k-equal-value-groups)
 - [2026-10-31 · IIT Roorkee · FTE · Data Science](#2026-10-31--iit-roorkee--fte--data-science)
   - [Mastercard DS OA pattern](#q1-mastercard-ds-oa-pattern)
   - [Make graph complete by node operations](#q2-make-graph-complete-by-node-operations)
@@ -42,13 +44,27 @@
 
 ---
 
+## 2026-11-26 · IIT BHU · FTE
+
+### Q1. Min changes to split array into K equal-value groups
+
+Given an array `arr[]` and an integer `K`, the task is to partition the array into `K` non-empty groups where each group is a subarray of the given array and each element of the array is part of only one group. All the elements in a given group must have the same value. You can perform the following operation any number of times:
+
+Choose an element from the array and change its value to any value.
+
+Print the minimum number of such operations required to partition the array.
+
+(Constraints and examples not given.)
+
+<sub>Topics: DP, Arrays · Same idea: [LeetCode 1278. Palindrome Partitioning III](https://leetcode.com/problems/palindrome-partitioning-iii/) (Hard), DP splitting into K segments, minimizing changes · Source: [chat, 26 Nov](../archive/mastercard-oa/2026-11.jsonl#L24)</sub>
+
 ## 2026-10-31 · IIT Roorkee · FTE · Data Science
 
 ### Q1. Mastercard DS OA pattern
 
 15 aptitude questions + 7-8 technical MCQs + 3 DSA problems.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L16), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L18), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L19), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L20) · Also asked at: IIIT (2026-11-03)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L16), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L18), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L19), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L20) · Also asked at: IIIT (2026-11-03), Unknown (2026-11-26)</sub>
 
 ### Q2. Make graph complete by node operations
 

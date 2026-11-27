@@ -1,13 +1,15 @@
 # Paytm
 
-**27 questions** · 11 drives · latest 23 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**29 questions** · 13 drives · latest 26 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Strings](../topics/strings.md) 4 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · +11 more  
-**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIT BHU, IIT Hyderabad, IIT Indore, IIT Kharagpur/Kanpur, MNNIT Allahabad
+**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Strings](../topics/strings.md) 4 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · +11 more  
+**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIIT Delhi, IIT BHU, IIT Hyderabad, IIT Indore, IIT Kanpur +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · Unknown · FTE · SDE · Interview](#2026-11-26--unknown--fte--sde--interview)
+  - [Paytm SDE interview rounds](#q1-paytm-sde-interview-rounds)
 - [2026-11-23 · IIT Kharagpur/Kanpur · FTE](#2026-11-23--iit-kharagpurkanpur--fte)
   - [Paytm OA format](#q1-paytm-oa-format)
 - [2026-11-20 · IIT Indore · FTE · SDE · Interview](#2026-11-20--iit-indore--fte--sde--interview)
@@ -18,6 +20,8 @@
   - [Credit card spends analyzer](#q3-credit-card-spends-analyzer)
 - [2026-11-12 · IIT Indore · FTE · PA · Other round](#2026-11-12--iit-indore--fte--pa--other-round)
   - [Case study round](#q1-case-study-round)
+- [2026-11-01 · IIIT Delhi · FTE](#2026-11-01--iiit-delhi--fte)
+  - [Paytm OA pattern](#q1-paytm-oa-pattern)
 - [2026-10-30 · Delhi Technological University · FTE · SDE](#2026-10-30--delhi-technological-university--fte--sde)
   - [Maximum even subsequence in an array](#q1-maximum-even-subsequence-in-an-array)
   - [Minimum cost to make two strings equal](#q2-minimum-cost-to-make-two-strings-equal)
@@ -26,7 +30,7 @@
 - [2026-10-29 · Unknown · FTE · SDE](#2026-10-29--unknown--fte--sde)
   - [Paytm SQL question on multiple joins](#q1-paytm-sql-question-on-multiple-joins)
 - [2026-10-29 · BIT Mesra · FTE](#2026-10-29--bit-mesra--fte)
-  - [Paytm OA pattern](#q1-paytm-oa-pattern)
+  - [Paytm OA pattern](#q1-paytm-oa-pattern-1)
 - [2026-10-25 · BITS Pilani · FTE](#2026-10-25--bits-pilani--fte)
   - [Number of Steps to Reduce a Number in Binary Representation to One (LC 1404)](#q1-number-of-steps-to-reduce-a-number-in-binary-representation-to-one-lc-1404)
 - [2026-10-22 · BIT Mesra · FTE](#2026-10-22--bit-mesra--fte)
@@ -51,13 +55,27 @@
 
 ---
 
+## 2026-11-26 · Unknown · FTE · SDE · Interview
+
+### Q1. Paytm SDE interview rounds
+
+Summary of 5 shared experiences:
+
+- Mostly 3 rounds (2 to 4): DSA, projects, then HR
+- DSA: medium/hard array, string, graph, DP problems
+- Projects came up in all 5, plus OS, DBMS, basic HLD or LLD
+
+Individual questions not given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/paytm-oa/2026-11.jsonl#L62) · Also asked at: IIIT Delhi (2026-11-26)</sub>
+
 ## 2026-11-23 · IIT Kharagpur/Kanpur · FTE
 
 ### Q1. Paytm OA format
 
 The test had both coding questions and MCQs. The SQL part was very tough and few people solved it. The poster said the questions were exactly the same as those on oahelper.
 
-<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/paytm-oa/2026-11.jsonl#L40), [chat, 23 Nov](../archive/paytm-oa/2026-11.jsonl#L42)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/paytm-oa/2026-11.jsonl#L40), [chat, 23 Nov](../archive/paytm-oa/2026-11.jsonl#L42) · Also asked at: IIT Kharagpur/Kanpur (2026-11-26)</sub>
 
 ## 2026-11-20 · IIT Indore · FTE · SDE · Interview
 
@@ -94,6 +112,20 @@ Case Study 3: Paytm lets users pay credit card bills and apply for cards. Design
 For the PA role there was a case study round. Case details not given.
 
 <sub>Topics: Guesstimates & Cases, OA Format · Source: [chat, 12 Nov](../archive/inter-iit/2026-11.jsonl#L669) · Also asked at: IIT Indore ×2 (last 2026-11-14)</sub>
+
+## 2026-11-01 · IIIT Delhi · FTE
+
+### Q1. Paytm OA pattern
+
+From shared experiences:
+
+- OA was on Nov 1
+- Mainly DSA (3 questions in 1 shared experience)
+- OAHelper has 17 of their questions, mostly MCQ, plus coding and SQL
+
+Exact questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/campus-iiit-delhi-placements/2026-11.jsonl#L41)</sub>
 
 ## 2026-10-30 · Delhi Technological University · FTE · SDE
 
@@ -171,7 +203,7 @@ Paytm OA for the software role consisted of:
 
 The actual questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L113) · Also asked at: Unknown (2026-10-30), MNNIT Allahabad (2026-10-30), IIT BHU ×2 (last 2026-11-12)</sub>
+<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L113) · Also asked at: Unknown (2026-10-30), MNNIT Allahabad (2026-10-30), IIT BHU ×2 (last 2026-11-12), IIT Kharagpur (2026-11-26), IIIT Delhi (2026-11-26), IIT Kanpur (2026-11-26)</sub>
 
 ## 2026-09-21 · Unknown · Unknown · Other round
 

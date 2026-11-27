@@ -1,13 +1,22 @@
 # IDFC First Bank
 
-**18 questions** · 15 drives · latest 25 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**25 questions** · 19 drives · latest 26 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 13 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1 · [Aptitude](../topics/aptitude.md) 1 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · +1 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 15 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [SQL](../topics/sql.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · +5 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · Unknown · Unknown](#2026-11-26--unknown--unknown)
+  - [IDFC First Bank OA contents and shortlist](#q1-idfc-first-bank-oa-contents-and-shortlist)
+- [2026-11-26 · Unknown · Unknown · Interview](#2026-11-26--unknown--unknown--interview)
+  - [Round 2: core CS topics (OS, CN, DBMS)](#q1-round-2-core-cs-topics-os-cn-dbms)
+  - [Round 2: project deep dive, basic LLD and behavioral](#q2-round-2-project-deep-dive-basic-lld-and-behavioral)
+- [2026-11-26 · Unknown · FTE · Associate Data Analyst · Interview](#2026-11-26--unknown--fte--associate-data-analyst--interview)
+  - [Interview: projects, SQL joins/subqueries and probability](#q1-interview-projects-sql-joinssubqueries-and-probability)
+  - [Interview: guesstimates and case studies](#q2-interview-guesstimates-and-case-studies)
+  - [HR round](#q3-hr-round)
 - [2026-11-24 · Unknown · FTE · Application Engineer](#2026-11-24--unknown--fte--application-engineer)
   - [Application Engineer OA pattern](#q1-application-engineer-oa-pattern)
 - [2026-11-24 · Unknown · FTE · Application Engineer · Interview](#2026-11-24--unknown--fte--application-engineer--interview)
@@ -21,6 +30,8 @@
   - [Maximum Number of Strings](#q2-maximum-number-of-strings)
   - [Number of Provinces](#q3-number-of-provinces)
   - [Number of Dice Rolls With Target Sum](#q4-number-of-dice-rolls-with-target-sum)
+- [2026-11-15 · Unknown · FTE · Associate Data Analyst](#2026-11-15--unknown--fte--associate-data-analyst)
+  - [Associate Data Analyst OA pattern](#q1-associate-data-analyst-oa-pattern)
 - [2026-11-12 · NIT Karnataka Surathkal · FTE · Deputy Manager II (Engineer)](#2026-11-12--nit-karnataka-surathkal--fte--deputy-manager-ii-engineer)
   - [IDFC First Bank engineering OA pattern](#q1-idfc-first-bank-engineering-oa-pattern)
 - [2026-11-12 · IIT Kharagpur · FTE](#2026-11-12--iit-kharagpur--fte)
@@ -45,6 +56,63 @@
 </details>
 
 ---
+
+## 2026-11-26 · Unknown · Unknown
+
+### Q1. IDFC First Bank OA contents and shortlist
+
+The OA had aptitude + coding, and shortlisted students went on to interviews.
+
+From 4 shared experiences saying they got shortlisted after the OA: one says around 40 were shortlisted (OA on Nov 15), another says around 50 (OA on Oct 15).
+
+The exact questions are not given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L99)</sub>
+
+## 2026-11-26 · Unknown · Unknown · Interview
+
+### Q1. Round 2: core CS topics (OS, CN, DBMS)
+
+Round 2 is mostly core CS, as per 2 shared experiences:
+- OS: virtual memory, threading vs multiprocessing, deadlock, scheduling
+- CN: OSI vs TCP/IP, DNS
+- DBMS: ACID, indexing, SQL joins
+
+<sub>Topics: OS/DBMS/CN MCQ, SQL · Source: [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L101), [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L102) · Also asked at: IIT Kharagpur/Kanpur (2026-11-26)</sub>
+
+### Q2. Round 2: project deep dive, basic LLD and behavioral
+
+One more experience had a project deep dive, basic LLD and behavioral questions.
+
+The exact questions are not given.
+
+<sub>Topics: Software Engineering, HR & Behavioral · Source: [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L101), [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L102)</sub>
+
+## 2026-11-26 · Unknown · FTE · Associate Data Analyst · Interview
+
+### Q1. Interview: projects, SQL joins/subqueries and probability
+
+Interviews covered projects, SQL joins/subqueries and probability (from 1 shared experience).
+
+The exact questions are not given.
+
+<sub>Topics: SQL, Math · Source: [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L103), [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L106)</sub>
+
+### Q2. Interview: guesstimates and case studies
+
+Then guesstimates + case studies.
+
+The exact questions are not given.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L103), [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L106)</sub>
+
+### Q3. HR round
+
+HR round followed the guesstimate and case study rounds.
+
+The exact questions are not given.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L103), [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L106)</sub>
 
 ## 2026-11-24 · Unknown · FTE · Application Engineer
 
@@ -105,6 +173,16 @@ Number of Provinces (reported as LC 547, Graph / DFS / DSU). Full statement not 
 Number of Dice Rolls With Target Sum (reported as LC 1155, Dynamic Programming). Full statement not given.
 
 <sub>Topics: DP · Similar: [LeetCode 1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) (Medium) · Source: [chat, 19 Nov](../archive/accenture-oa/2026-11.jsonl#L572)</sub>
+
+## 2026-11-15 · Unknown · FTE · Associate Data Analyst
+
+### Q1. Associate Data Analyst OA pattern
+
+OA on 15th Nov had aptitude + basic Python + SQL queries (from 1 shared experience).
+
+CGPA cutoff was 6.0 for the role. The exact questions are not given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L103), [chat, 26 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L106)</sub>
 
 ## 2026-11-12 · NIT Karnataka Surathkal · FTE · Deputy Manager II (Engineer)
 

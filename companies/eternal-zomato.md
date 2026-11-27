@@ -1,13 +1,17 @@
 # Eternal (Zomato)
 
-**208 questions** · 109 drives · latest 25 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**210 questions** · 111 drives · latest 27 Nov 2026 · [60 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 81 · [SQL](../topics/sql.md) 28 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Graphs](../topics/graphs.md) 18 · [Aptitude](../topics/aptitude.md) 17 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 83 · [SQL](../topics/sql.md) 29 · [DP](../topics/dp.md) 24 · [Arrays](../topics/arrays.md) 20 · [Aptitude](../topics/aptitude.md) 18 · [Graphs](../topics/graphs.md) 18 · [Greedy](../topics/greedy.md) 14 · [Math](../topics/math.md) 13 · +23 more  
 **Seen at:** Delhi Technological University, IIIT, IIIT Hyderabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati +16 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · VNIT Nagpur · FTE · APM](#2026-11-27--vnit-nagpur--fte--apm)
+  - [Eternal APM OA pattern](#q1-eternal-apm-oa-pattern)
+- [2026-11-26 · IIT Roorkee · FTE · PA](#2026-11-26--iit-roorkee--fte--pa)
+  - [Eternal PA OA sections: SQL, no Python or coding](#q1-eternal-pa-oa-sections-sql-no-python-or-coding)
 - [2026-11-24 · IIT Dhanbad · FTE · SDE](#2026-11-24--iit-dhanbad--fte--sde)
   - [Eternal SDE OA format: 3 DSA questions and MCQs](#q1-eternal-sde-oa-format-3-dsa-questions-and-mcqs)
 - [2026-11-23 · IIT Roorkee · FTE · Product Analyst](#2026-11-23--iit-roorkee--fte--product-analyst)
@@ -51,7 +55,7 @@
 - [2026-11-12 · IIT Indore · FTE · APM](#2026-11-12--iit-indore--fte--apm)
   - [Eternal APM OA Excel questions](#q1-eternal-apm-oa-excel-questions)
 - [2026-11-12 · IIT BHU · FTE · APM](#2026-11-12--iit-bhu--fte--apm)
-  - [Eternal APM OA pattern](#q1-eternal-apm-oa-pattern)
+  - [Eternal APM OA pattern](#q1-eternal-apm-oa-pattern-1)
 - [2026-11-11 · Unknown · FTE](#2026-11-11--unknown--fte)
   - [Eternal PA OA format](#q1-eternal-pa-oa-format)
 - [2026-11-11 · IIT Roorkee · FTE · Product Analyst](#2026-11-11--iit-roorkee--fte--product-analyst)
@@ -86,7 +90,7 @@
 - [2026-10-31 · Unknown · FTE · Associate Program Manager · Interview](#2026-10-31--unknown--fte--associate-program-manager--interview)
   - [Associate Program Manager interview: case studies](#q1-associate-program-manager-interview-case-studies)
 - [2026-10-30 · Unknown · FTE · Associate Program Manager](#2026-10-30--unknown--fte--associate-program-manager)
-  - [Eternal APM OA pattern](#q1-eternal-apm-oa-pattern-1)
+  - [Eternal APM OA pattern](#q1-eternal-apm-oa-pattern-2)
 - [2026-10-30 · IIT Indore · FTE · SDE](#2026-10-30--iit-indore--fte--sde)
   - [Most negative balance from transactions](#q1-most-negative-balance-from-transactions)
   - [Hash map DSA question (easy)](#q2-hash-map-dsa-question-easy)
@@ -329,6 +333,27 @@
 </details>
 
 ---
+
+## 2026-11-27 · VNIT Nagpur · FTE · APM
+
+### Q1. Eternal APM OA pattern
+
+- Quant and aptitude based questions
+- Some case studies
+
+Exact questions were not given.
+
+<sub>Topics: OA Format, Aptitude, Guesstimates & Cases · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2726)</sub>
+
+## 2026-11-26 · IIT Roorkee · FTE · PA
+
+### Q1. Eternal PA OA sections: SQL, no Python or coding
+
+The OA at IITR had SQL questions; there was no Python or coding section.
+
+The specific questions are not given.
+
+<sub>Topics: OA Format, SQL · Source: [chat, 26 Nov](../archive/eternal-oa/2026-11.jsonl#L266)</sub>
 
 ## 2026-11-24 · IIT Dhanbad · FTE · SDE
 

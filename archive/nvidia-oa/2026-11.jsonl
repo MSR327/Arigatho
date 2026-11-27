@@ -135,3 +135,5 @@
 {"id": 32507, "group": "nvidia-oa", "sent_at": "2026-11-21T14:08:06.887059+00:00", "text": "don;t demand money", "author_tag": "IITB", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 34069, "group": "nvidia-oa", "sent_at": "2026-11-24T20:26:41.51159+00:00", "text": "nvidia shortlist anywhere for system engineer role ?", "author_tag": "IITK", "reply_to": null, "attachment": null, "deleted": false}
 {"id": 34136, "group": "nvidia-oa", "sent_at": "2026-11-25T02:45:11.850822+00:00", "text": "NVIDIA formal verification engineer role OA questions?", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 34710, "group": "nvidia-oa", "sent_at": "2026-11-26T07:35:16.953553+00:00", "text": "Has nvidia sent interview sl to any iit yet?", "author_tag": "IITR", "reply_to": null, "attachment": null, "deleted": false}
+{"id": 34810, "group": "nvidia-oa", "sent_at": "2026-11-26T11:02:14.469243+00:00", "text": "not in iitk as of now", "author_tag": "IITK", "reply_to": {"id": 34710, "text": "Has nvidia sent interview sl to any iit yet?", "author_tag": "IITR"}, "attachment": null, "deleted": false}

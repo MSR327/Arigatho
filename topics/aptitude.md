@@ -1,9 +1,12 @@
 # Aptitude
 
-279 questions from 39 companys, newest first. [← all topics](../README.md#topics)
+282 questions from 39 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | VNIT Nagpur | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) |
+| 2026-11-26 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Deloitte Analyst OA pattern](../companies/deloitte.md#q1-deloitte-analyst-oa-pattern) |
+| 2026-11-26 | [Futures First](../companies/futures-first.md) | Unknown | [Futures First trainee OA pattern: MCQs and coding](../companies/futures-first.md#q1-futures-first-trainee-oa-pattern-mcqs-and-coding) |
 | 2026-11-25 | [ICICI](../companies/icici.md) | Unknown | [ICICI Bank OA pattern](../companies/icici.md#q1-icici-bank-oa-pattern) |
 | 2026-11-25 | [Accenture](../companies/accenture.md) | Unknown | [Accenture OA contents (summary of shared experiences)](../companies/accenture.md#q1-accenture-oa-contents-summary-of-shared-experiences) |
 | 2026-11-24 | [Evernorth](../companies/evernorth.md) | NIT Raipur | [Evernorth OA pattern](../companies/evernorth.md#q1-evernorth-oa-pattern) |
@@ -28,7 +31,7 @@
 | 2026-11-13 | [No Broker](../companies/no-broker.md) | IIT Roorkee | [No Broker Product Analyst OA pattern](../companies/no-broker.md#q1-no-broker-product-analyst-oa-pattern) |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Kharagpur | [Eternal APM process](../companies/eternal-zomato.md#q1-eternal-apm-process) |
 | 2026-11-12 | [Thorogood](../companies/thorogood.md) | MNNIT Allahabad | [OA format: all MCQ](../companies/thorogood.md#q1-oa-format-all-mcq) |
-| 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) |
+| 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern-1) |
 | 2026-11-11 | [Urban Company](../companies/urban-company.md) | IIT Roorkee | [Senior Category Manager OA contents](../companies/urban-company.md#q1-senior-category-manager-oa-contents) |
 | 2026-11-11 | [Urban Company](../companies/urban-company.md) | IIT Kharagpur | [Urban Company OA pattern](../companies/urban-company.md#q1-urban-company-oa-pattern) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Estimate households interested in streaming service in two years](../companies/accordion.md#q2-estimate-households-interested-in-streaming-service-in-two-years) |

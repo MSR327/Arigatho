@@ -1,13 +1,15 @@
 # MathWorks
 
-**15 questions** · 11 drives · latest 24 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**16 questions** · 12 drives · latest 26 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Greedy](../topics/greedy.md) 5 · [Arrays](../topics/arrays.md) 4 · [Strings](../topics/strings.md) 3 · [Hashing](../topics/hashing.md) 2 · [DP](../topics/dp.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 1 · +6 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [Greedy](../topics/greedy.md) 5 · [Arrays](../topics/arrays.md) 4 · [Strings](../topics/strings.md) 3 · [Hashing](../topics/hashing.md) 2 · [DP](../topics/dp.md) 2 · [Graphs](../topics/graphs.md) 2 · [Trees](../topics/trees.md) 1 · +8 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · Unknown · FTE · EDG · Interview](#2026-11-26--unknown--fte--edg--interview)
+  - [MathWorks interview rounds pattern](#q1-mathworks-interview-rounds-pattern)
 - [2026-11-13 · IIT Kharagpur · FTE · Technical Writer](#2026-11-13--iit-kharagpur--fte--technical-writer)
   - [MathWorks Technical Writer OA pattern](#q1-mathworks-technical-writer-oa-pattern)
 - [2026-11-10 · IIT Guwahati · FTE · Interview](#2026-11-10--iit-guwahati--fte--interview)
@@ -38,6 +40,16 @@
 </details>
 
 ---
+
+## 2026-11-26 · Unknown · FTE · EDG · Interview
+
+### Q1. MathWorks interview rounds pattern
+
+Interview rounds were 3 to 5, mostly DSA + OS/OOPs (from 4 shared experiences). The latest drive mentioned was off-campus EDG.
+
+Individual questions are not given.
+
+<sub>Topics: OA Format, OS/DBMS/CN MCQ, OOP · Source: [chat, 26 Nov](../archive/inter-iit/2026-11.jsonl#L1356) · Also asked at: Unknown (2026-11-26)</sub>
 
 ## 2026-11-13 · IIT Kharagpur · FTE · Technical Writer
 

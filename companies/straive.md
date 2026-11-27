@@ -1,6 +1,6 @@
 # Straive
 
-**4 questions** · 2 drives · latest 24 Nov 2026 · [← all companies](../README.md#companies)
+**4 questions** · 2 drives · latest 26 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 1 · [SQL](../topics/sql.md) 1 · [Python & Pandas](../topics/python-pandas.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1 · [Math](../topics/math.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Roorkee, MNNIT Allahabad, NIT Rourkela
@@ -27,7 +27,7 @@ There are 3 rounds after the OA (one experience had 4).
 
 Tech round: SQL on the spot + pandas / list-dict Python.
 
-<sub>Topics: SQL, Python & Pandas · Source: [chat, 24 Nov](../archive/campus-nit-rourkela-placements/2026-11.jsonl#L39)</sub>
+<sub>Topics: SQL, Python & Pandas · Source: [chat, 24 Nov](../archive/campus-nit-rourkela-placements/2026-11.jsonl#L39) · Also asked at: Unknown (2026-11-26)</sub>
 
 ### Q2. Straive second round: guesstimates, probability, ML/stats
 

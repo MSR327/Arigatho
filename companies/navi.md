@@ -1,13 +1,15 @@
 # Navi
 
-**48 questions** · 26 drives · latest 25 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**49 questions** · 27 drives · latest 26 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 13 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 10 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Math](../topics/math.md) 4 · +9 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 14 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 10 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Math](../topics/math.md) 4 · +9 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · IIT Hyderabad · FTE · AI and Strategy](#2026-11-26--iit-hyderabad--fte--ai-and-strategy)
+  - [Navi AI and Strategy OA pattern (hearsay)](#q1-navi-ai-and-strategy-oa-pattern-hearsay)
 - [2026-11-25 · VNIT Nagpur · FTE · Interview](#2026-11-25--vnit-nagpur--fte--interview)
   - [Medium DSA, resume and project questions](#q1-medium-dsa-resume-and-project-questions)
 - [2026-11-25 · Unknown · Unknown · Interview](#2026-11-25--unknown--unknown--interview)
@@ -86,6 +88,16 @@
 </details>
 
 ---
+
+## 2026-11-26 · IIT Hyderabad · FTE · AI and Strategy
+
+### Q1. Navi AI and Strategy OA pattern (hearsay)
+
+For the AI and Strategy role OA, only MCQs and DSA are being asked (second-hand: "i heard they are asking mcqs and dsa only for this role too").
+
+No individual questions were given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L562)</sub>
 
 ## 2026-11-25 · VNIT Nagpur · FTE · Interview
 

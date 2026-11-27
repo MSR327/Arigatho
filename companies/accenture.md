@@ -1,6 +1,6 @@
 # Accenture
 
-**358 questions** · 133 drives · latest 26 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**359 questions** · 134 drives · latest 26 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 99 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +20 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
@@ -8,6 +8,8 @@
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · IIT Roorkee · FTE · Interview](#2026-11-26--iit-roorkee--fte--interview)
+  - [Accenture Elite HR-style interview](#q1-accenture-elite-hr-style-interview)
 - [2026-11-26 · IIT BHU · FTE · ETE](#2026-11-26--iit-bhu--fte--ete)
   - [ETE role OA: DSA in Python, SQL and web dev](#q1-ete-role-oa-dsa-in-python-sql-and-web-dev)
 - [2026-11-25 · Unknown · Unknown](#2026-11-25--unknown--unknown)
@@ -503,6 +505,17 @@
 </details>
 
 ---
+
+## 2026-11-26 · IIT Roorkee · FTE · Interview
+
+### Q1. Accenture Elite HR-style interview
+
+For Elite, the interview was only HR type:
+
+- Explain one project
+- Some behavioral questions
+
+<sub>Topics: HR & Behavioral · Source: [chat, 26 Nov](../archive/inter-nit/2026-11.jsonl#L2720)</sub>
 
 ## 2026-11-26 · IIT BHU · FTE · ETE
 

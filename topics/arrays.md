@@ -1,9 +1,12 @@
 # Arrays
 
-295 questions from 80 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+298 questions from 82 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [Mastercard](../companies/mastercard.md) | IIT BHU | [Min changes to split array into K equal-value groups](../companies/mastercard.md#q1-min-changes-to-split-array-into-k-equal-value-groups) | ≈ [LC 1278](https://leetcode.com/problems/palindrome-partitioning-iii/) Hard |
+| 2026-11-26 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Sliding window max-min for size k](../companies/walt-disney.md#q1-sliding-window-max-min-for-size-k) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
+| 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | IIT Kharagpur | [Interval Coverage XOR](../companies/de-shaw.md#q1-interval-coverage-xor) | ≈ [LC 1943](https://leetcode.com/problems/describe-the-painting/) Medium |
 | 2026-11-24 | [Dassault Systemes](../companies/dassault-systemes.md) | NIT Warangal | [Find min/max](../companies/dassault-systemes.md#q1-find-minmax) | [GfG](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) |
 | 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Search in a row-wise and column-wise sorted matrix](../companies/amazon.md#q5-search-in-a-row-wise-and-column-wise-sorted-matrix) | [LC 240](https://leetcode.com/problems/search-a-2d-matrix-ii/) Medium |
 | 2026-11-24 | [Amazon](../companies/amazon.md) | Unknown | [Maximum consecutive 1s after flipping a substring](../companies/amazon.md#q3-maximum-consecutive-1s-after-flipping-a-substring) | ≈ [LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/) Medium |

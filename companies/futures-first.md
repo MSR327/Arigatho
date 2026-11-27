@@ -1,13 +1,15 @@
 # Futures First
 
-**43 questions** · 14 drives · latest 24 Nov 2026 · [← all companies](../README.md#companies)
+**44 questions** · 15 drives · latest 26 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 38 · [OA Format](../topics/oa-format.md) 8 · [Math](../topics/math.md) 7 · [Puzzles](../topics/puzzles.md) 4 · [Finance](../topics/finance.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
+**Asks about:** [Aptitude](../topics/aptitude.md) 39 · [OA Format](../topics/oa-format.md) 9 · [Math](../topics/math.md) 7 · [Puzzles](../topics/puzzles.md) 4 · [Finance](../topics/finance.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Strings](../topics/strings.md) 1  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Madras, IIT Mandi +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · Unknown · Unknown · International Market Trainee](#2026-11-26--unknown--unknown--international-market-trainee)
+  - [Futures First trainee OA pattern: MCQs and coding](#q1-futures-first-trainee-oa-pattern-mcqs-and-coding)
 - [2026-11-24 · IIT Guwahati · FTE · Trainee (International Market) · Interview](#2026-11-24--iit-guwahati--fte--trainee-international-market--interview)
   - [GD: Impact of AI on global stock markets](#q1-gd-impact-of-ai-on-global-stock-markets)
 - [2026-11-22 · IIT Bombay · FTE](#2026-11-22--iit-bombay--fte)
@@ -69,6 +71,19 @@
 </details>
 
 ---
+
+## 2026-11-26 · Unknown · Unknown · International Market Trainee
+
+### Q1. Futures First trainee OA pattern: MCQs and coding
+
+Summary based on 1 shared experience for the International Market Trainee role:
+
+- MCQs on basic aptitude + some debugging code snippets (easy syntax errors)
+- 2 very basic coding questions, mostly string manipulation
+
+The exact questions are not given.
+
+<sub>Topics: OA Format, Aptitude, Strings · Source: [chat, 26 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L423)</sub>
 
 ## 2026-11-24 · IIT Guwahati · FTE · Trainee (International Market) · Interview
 
@@ -237,7 +252,7 @@ Compute (45.6)^2 − (44.4)^2 = ? (Answer given: 108)
 
 Futures First OA had 2 sections: (1) Aptitude: 51 questions in 35 minutes; (2) Speed math: 15 questions in 5 minutes. No question details were shared.
 
-<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1601) · Also asked at: Unknown (2026-10-27), IIT Guwahati (2026-10-28), IIT BHU ×3 (last 2026-10-30), IIT Roorkee ×6 (last 2026-10-30), MNNIT Allahabad (2026-11-11), IIT Dhanbad (2026-11-18)</sub>
+<sub>Topics: OA Format · Source: [chat, 19 Oct](../archive/inter-nit/2026-10.jsonl#L1601) · Also asked at: Unknown (2026-10-27), IIT Guwahati (2026-10-28), IIT BHU ×3 (last 2026-10-30), IIT Roorkee ×6 (last 2026-10-30), IIT Dhanbad (2026-11-18), MNNIT Allahabad ×2 (last 2026-11-26)</sub>
 
 ## 2026-10-14 · IIT Madras · FTE
 

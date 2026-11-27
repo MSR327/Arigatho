@@ -1,6 +1,6 @@
 # EY: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**1 written experience**, newest first · [OA questions](../companies/ey.md) · [← all companies](README.md)
 
 ## 28 Nov 2024 · Associate Consultant, Business Consulting (Performance Improvement) · IIT Kharagpur · on-campus
 

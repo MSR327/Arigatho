@@ -1,9 +1,11 @@
 # DP
 
-178 questions from 65 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+180 questions from 66 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [Mastercard](../companies/mastercard.md) | IIT BHU | [Min changes to split array into K equal-value groups](../companies/mastercard.md#q1-min-changes-to-split-array-into-k-equal-value-groups) | ≈ [LC 1278](https://leetcode.com/problems/palindrome-partitioning-iii/) Hard |
+| 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | IIT Kharagpur | [Maximum Profit with Power-of-Two Costs](../companies/de-shaw.md#q3-maximum-profit-with-power-of-two-costs) | ≈ [LC 2835](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/) Hard |
 | 2026-11-25 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | Unknown | [CBA interview topics (summary of 5 experiences)](../companies/commonwealth-bank-of-australia.md#q1-cba-interview-topics-summary-of-5-experiences) | |
 | 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [DSA topics in KLA technical rounds](../companies/kla.md#q1-dsa-topics-in-kla-technical-rounds) | |
 | 2026-11-24 | [HCLTech](../companies/hcltech.md) | Unknown | [Technical round 1: DSA, projects and DP dry run](../companies/hcltech.md#q1-technical-round-1-dsa-projects-and-dp-dry-run) | |

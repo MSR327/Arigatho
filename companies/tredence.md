@@ -1,13 +1,15 @@
 # Tredence
 
-**81 questions** · 30 drives · latest 24 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**82 questions** · 31 drives · latest 26 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 27 · [Python & Pandas](../topics/python-pandas.md) 17 · [ML/AI](../topics/ml-ai.md) 17 · [Math](../topics/math.md) 11 · [SQL](../topics/sql.md) 8 · [Arrays](../topics/arrays.md) 7 · [Aptitude](../topics/aptitude.md) 7 · [Hashing](../topics/hashing.md) 5 · +13 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 28 · [Python & Pandas](../topics/python-pandas.md) 17 · [ML/AI](../topics/ml-ai.md) 17 · [Math](../topics/math.md) 11 · [SQL](../topics/sql.md) 8 · [Arrays](../topics/arrays.md) 7 · [Aptitude](../topics/aptitude.md) 7 · [Hashing](../topics/hashing.md) 5 · +13 more  
 **Seen at:** IIIT Hyderabad, IIT BHU, IIT Bhubaneswar, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · IIT Madras · FTE · Data Engineer](#2026-11-26--iit-madras--fte--data-engineer)
+  - [Tredence Data Engineer OA pattern](#q1-tredence-data-engineer-oa-pattern)
 - [2026-11-24 · Unknown · Unknown](#2026-11-24--unknown--unknown)
   - [Tredence OA contents (summary of 5 experiences)](#q1-tredence-oa-contents-summary-of-5-experiences)
 - [2026-11-24 · Unknown · Unknown · Interview](#2026-11-24--unknown--unknown--interview)
@@ -123,6 +125,19 @@
 </details>
 
 ---
+
+## 2026-11-26 · IIT Madras · FTE · Data Engineer
+
+### Q1. Tredence Data Engineer OA pattern
+
+- ~30 MCQs
+- Guesstimate question
+- 2 DSA questions
+- 1 SQL question (confirmed in a follow-up reply)
+
+Individual questions not given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/tredence-oa/2026-11.jsonl#L95), [chat, 26 Nov](../archive/tredence-oa/2026-11.jsonl#L96), [chat, 26 Nov](../archive/tredence-oa/2026-11.jsonl#L97)</sub>
 
 ## 2026-11-24 · Unknown · Unknown
 

@@ -1,9 +1,14 @@
 # OS/DBMS/CN MCQ
 
-160 questions from 38 companys, newest first. [← all topics](../README.md#topics)
+165 questions from 42 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [HSBC](../companies/hsbc.md) | Unknown | [HSBC technical interview topics](../companies/hsbc.md#q1-hsbc-technical-interview-topics) | |
+| 2026-11-26 | [MathWorks](../companies/mathworks.md) | Unknown | [MathWorks interview rounds pattern](../companies/mathworks.md#q1-mathworks-interview-rounds-pattern) | |
+| 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | Unknown | [DE Shaw interview topics](../companies/de-shaw.md#q1-de-shaw-interview-topics) | |
+| 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Round 2: core CS topics (OS, CN, DBMS)](../companies/idfc-first-bank.md#q1-round-2-core-cs-topics-os-cn-dbms) | |
+| 2026-11-26 | [DATOMS](../companies/datoms.md) | IIT Roorkee | [DATOMS technical interview rounds](../companies/datoms.md#q1-datoms-technical-interview-rounds) | |
 | 2026-11-25 | [Dassault Systemes](../companies/dassault-systemes.md) | Unknown | [Dassault Systemes SWE interview rounds and topics](../companies/dassault-systemes.md#q1-dassault-systemes-swe-interview-rounds-and-topics) | |
 | 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [OS: deadlock, paging, semaphores vs mutex](../companies/kla.md#q2-os-deadlock-paging-semaphores-vs-mutex) | |
 | 2026-11-24 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Application Engineer interview topics](../companies/idfc-first-bank.md#q1-application-engineer-interview-topics) | |

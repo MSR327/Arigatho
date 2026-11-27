@@ -1,13 +1,17 @@
 # Tech Mahindra
 
-**11 questions** · 5 drives · latest 14 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**13 questions** · 7 drives · latest 26 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [DP](../topics/dp.md) 3 · [Arrays](../topics/arrays.md) 3 · [OA Format](../topics/oa-format.md) 3 · [Sorting](../topics/sorting.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · [Math](../topics/math.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Strings](../topics/strings.md) 1 · +2 more  
-**Seen at:** Delhi Technological University, IIT Delhi, NIT Karnataka Surathkal, NIT Silchar
+**Asks about:** [OA Format](../topics/oa-format.md) 5 · [DP](../topics/dp.md) 3 · [Arrays](../topics/arrays.md) 3 · [Sorting](../topics/sorting.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · [Math](../topics/math.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Strings](../topics/strings.md) 1 · +2 more  
+**Seen at:** Delhi Technological University, IIT Delhi, NIT Jalandhar, NIT Karnataka Surathkal, NIT Silchar
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · Unknown · FTE · Interview](#2026-11-26--unknown--fte--interview)
+  - [Tech Mahindra interview rounds](#q1-tech-mahindra-interview-rounds)
+- [2026-11-26 · NIT Jalandhar · FTE · Interview](#2026-11-26--nit-jalandhar--fte--interview)
+  - [Tech Mahindra interview topics at NIT Jalandhar](#q1-tech-mahindra-interview-topics-at-nit-jalandhar)
 - [2026-11-14 · NIT Karnataka Surathkal · FTE](#2026-11-14--nit-karnataka-surathkal--fte)
   - [Tech Mahindra aptitude section overview](#q1-tech-mahindra-aptitude-section-overview)
 - [2026-11-14 · Delhi Technological University · FTE](#2026-11-14--delhi-technological-university--fte)
@@ -28,6 +32,30 @@
 </details>
 
 ---
+
+## 2026-11-26 · Unknown · FTE · Interview
+
+### Q1. Tech Mahindra interview rounds
+
+Summary of shared experiences:
+
+- 2 technical rounds + HR
+- Started with projects, then DSA (arrays, linked list, graphs, DP), OOPs, OS, DBMS
+- AI engineer roles also got ML, deep learning and SQL questions (from 1 experience)
+
+Individual questions not given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/tech-mahindra-oa/2026-11.jsonl#L24)</sub>
+
+## 2026-11-26 · NIT Jalandhar · FTE · Interview
+
+### Q1. Tech Mahindra interview topics at NIT Jalandhar
+
+There were different interviewers: a few asked from the resume, others asked DSA and database related questions.
+
+Individual questions not given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/tech-mahindra-oa/2026-11.jsonl#L20), [chat, 26 Nov](../archive/tech-mahindra-oa/2026-11.jsonl#L23)</sub>
 
 ## 2026-11-14 · NIT Karnataka Surathkal · FTE
 

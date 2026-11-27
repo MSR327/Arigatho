@@ -1,9 +1,9 @@
 # EXL
 
-**15 questions** · 6 drives · latest 9 Nov 2026 · [← all companies](../README.md#companies)
+**15 questions** · 6 drives · latest 26 Nov 2026 · [← all companies](../README.md#companies)
 
 **Asks about:** [Other](../topics/other.md) 10 · [OA Format](../topics/oa-format.md) 5  
-**Seen at:** IIT BHU, IIT Dhanbad, IIT Hyderabad, MNNIT Allahabad
+**Seen at:** IIT BHU, IIT Dhanbad, IIT Hyderabad, IIT Madras, MNNIT Allahabad
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -40,7 +40,7 @@
 
 All MCQs: aptitude, visualisation (charts), Python code snippets and outputs, a few basic machine learning questions, and Excel and SQL questions. 60 min test, 50 questions, 3 timed sections (exact count per section not remembered). Overall level easy.
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/campus-nit-surathkal-placements/2026-11.jsonl#L17)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/campus-nit-surathkal-placements/2026-11.jsonl#L17) · Also asked at: IIT Madras (2026-11-26)</sub>
 
 ## 2026-11-07 · Unknown · FTE · Analytics Consultant
 

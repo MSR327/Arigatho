@@ -1,13 +1,15 @@
 # Walt Disney
 
-**6 questions** · 3 drives · latest 20 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**7 questions** · 4 drives · latest 26 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1  
-**Seen at:** MNNIT Allahabad, NIT Kurukshetra, NIT Surathkal
+**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Sliding Window](../topics/sliding-window.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · +1 more  
+**Seen at:** IIT Guwahati, MNNIT Allahabad, NIT Kurukshetra, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · IIT Guwahati · FTE · SDE / Data Engineer](#2026-11-26--iit-guwahati--fte--sde--data-engineer)
+  - [Sliding window max-min for size k](#q1-sliding-window-max-min-for-size-k)
 - [2026-11-20 · NIT Kurukshetra · FTE · SDE](#2026-11-20--nit-kurukshetra--fte--sde)
   - [Walt Disney MCQ topics to prepare](#q1-walt-disney-mcq-topics-to-prepare)
 - [2026-11-19 · NIT Surathkal · FTE · SDE / Data Engineer](#2026-11-19--nit-surathkal--fte--sde--data-engineer)
@@ -21,6 +23,16 @@
 </details>
 
 ---
+
+## 2026-11-26 · IIT Guwahati · FTE · SDE / Data Engineer
+
+### Q1. Sliding window max-min for size k
+
+Sliding window max - min for each window of size `k`.
+
+Only this short description was given; input format and constraints are missing.
+
+<sub>Topics: Sliding Window, Stack/Queue, Arrays · Similar: [LeetCode 239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) (Hard) · Source: [chat, 26 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L707)</sub>
 
 ## 2026-11-20 · NIT Kurukshetra · FTE · SDE
 

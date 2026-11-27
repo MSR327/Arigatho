@@ -1,9 +1,10 @@
 # Other
 
-78 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+79 questions from 30 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [Fractal](../companies/fractal.md) | IIT Bombay | [Russian dolls](../companies/fractal.md#q2-russian-dolls) | |
 | 2026-11-25 | [Navi](../companies/navi.md) | VNIT Nagpur | [Medium DSA, resume and project questions](../companies/navi.md#q1-medium-dsa-resume-and-project-questions) | |
 | 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [Image-processing algorithm explanation](../companies/kla.md#q3-image-processing-algorithm-explanation) | |
 | 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [Technical round 1: CV, project, KLA, semiconductor market, puzzles](../companies/kla.md#q2-technical-round-1-cv-project-kla-semiconductor-market-puzzles) | |

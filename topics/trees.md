@@ -1,9 +1,10 @@
 # Trees
 
-81 questions from 38 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+82 questions from 39 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [Moneyview](../companies/moneyview.md) | Unknown | [Last Number from Completely Filled Levels](../companies/moneyview.md#q1-last-number-from-completely-filled-levels) | ≈ [LC 199](https://leetcode.com/problems/binary-tree-right-side-view/) Medium |
 | 2026-11-24 | [KLA](../companies/kla.md) | MNNIT Allahabad | [Sliding window and tree diameter coding](../companies/kla.md#q1-sliding-window-and-tree-diameter-coding) | [LC 543](https://leetcode.com/problems/diameter-of-binary-tree/) Easy |
 | 2026-11-21 | [Juspay](../companies/juspay.md) | IIT Roorkee | [Employee Removal Order](../companies/juspay.md#q1-employee-removal-order) | ≈ [LC 210](https://leetcode.com/problems/course-schedule-ii/) Medium |
 | 2026-11-15 | [Media.net](../companies/media-net.md) | NIT Surathkal | [Sync engine: queries affected by writes](../companies/media-net.md#q1-sync-engine-queries-affected-by-writes) | |

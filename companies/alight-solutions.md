@@ -1,13 +1,15 @@
 # Alight Solutions
 
-**17 questions** · 8 drives · latest 22 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**18 questions** · 9 drives · latest 24 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Arrays](../topics/arrays.md) 4 · [DP](../topics/dp.md) 4 · [Aptitude](../topics/aptitude.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Other](../topics/other.md) 1 · [Graphs](../topics/graphs.md) 1 · +5 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Arrays](../topics/arrays.md) 4 · [DP](../topics/dp.md) 4 · [Aptitude](../topics/aptitude.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Other](../topics/other.md) 1 · [Graphs](../topics/graphs.md) 1 · +5 more  
 **Seen at:** IIT Delhi, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-10-24 · Unknown · FTE · Interview](#2026-10-24--unknown--fte--interview)
+  - [Alight Solutions interview process (summary of 4 experiences)](#q1-alight-solutions-interview-process-summary-of-4-experiences)
 - [2026-10-22 · IIT Roorkee · FTE](#2026-10-22--iit-roorkee--fte)
   - [Alight OA structure](#q1-alight-oa-structure)
   - [Error log time-window queries](#q2-error-log-time-window-queries)
@@ -37,6 +39,22 @@
 </details>
 
 ---
+
+## 2026-10-24 · Unknown · FTE · Interview
+
+### Q1. Alight Solutions interview process (summary of 4 experiences)
+
+Summary based on 4 shared experiences. Interviews were on campus, held Oct 24 to 30.
+
+- 3 technical rounds.
+- Round 1 usually starts with a project discussion, then a DSA question.
+- Later rounds mix more DSA with DBMS, OS and OOPs questions.
+- DSA came up in all 4 experiences, DBMS and projects in 3, OS in 2.
+- ML and deep learning questions came up only for the AI Engineer role.
+
+The specific questions are not given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/alight-solutions-oa/2026-11.jsonl#L8), [chat, 26 Nov](../archive/alight-solutions-oa/2026-11.jsonl#L10)</sub>
 
 ## 2026-10-22 · IIT Roorkee · FTE
 

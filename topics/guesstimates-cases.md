@@ -1,9 +1,12 @@
 # Guesstimates & Cases
 
-53 questions from 22 companys, newest first. [← all topics](../README.md#topics)
+56 questions from 24 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | VNIT Nagpur | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) |
+| 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Interview: guesstimates and case studies](../companies/idfc-first-bank.md#q2-interview-guesstimates-and-case-studies) |
+| 2026-11-26 | [Auronova Consulting](../companies/auronova-consulting.md) | Unknown | [Auronova analyst interview rounds](../companies/auronova-consulting.md#q1-auronova-analyst-interview-rounds) |
 | 2026-11-25 | [NoBroker](../companies/nobroker.md) | Unknown | [NoBroker Marketing Analyst rounds](../companies/nobroker.md#q1-nobroker-marketing-analyst-rounds) |
 | 2026-11-25 | [Navi](../companies/navi.md) | Unknown | [Navi interview topics pattern](../companies/navi.md#q1-navi-interview-topics-pattern) |
 | 2026-11-25 | [ICICI](../companies/icici.md) | Unknown | [ICICI Manager I technical and HR rounds](../companies/icici.md#q1-icici-manager-i-technical-and-hr-rounds) |

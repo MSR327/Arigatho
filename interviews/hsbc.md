@@ -1,6 +1,6 @@
 # HSBC: interviews
 
-**4 written experiences**, newest first · [← all companies](README.md)
+**4 written experiences**, newest first · [OA questions](../companies/hsbc.md) · [← all companies](README.md)
 
 ## 2025-26 season · Risk Graduate Trainee · IIT Kanpur · on-campus
 

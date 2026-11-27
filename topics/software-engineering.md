@@ -1,9 +1,13 @@
 # Software Engineering
 
-75 questions from 32 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+79 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [InfoEdge](../companies/infoedge.md) | Thapar Institute of Engineering and Technology | [LLD asked in Info Edge interview](../companies/infoedge.md#q1-lld-asked-in-info-edge-interview) | |
+| 2026-11-26 | [Fractal](../companies/fractal.md) | IIT Bombay | [Debugging a DSU (disjoint set union) solution](../companies/fractal.md#q1-debugging-a-dsu-disjoint-set-union-solution) | ≈ [LC 684](https://leetcode.com/problems/redundant-connection/) Medium |
+| 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Round 2: project deep dive, basic LLD and behavioral](../companies/idfc-first-bank.md#q2-round-2-project-deep-dive-basic-lld-and-behavioral) | |
+| 2026-11-26 | [DATOMS](../companies/datoms.md) | IIT Roorkee | [DATOMS technical interview rounds](../companies/datoms.md#q1-datoms-technical-interview-rounds) | |
 | 2026-11-25 | [IBM](../companies/ibm.md) | IIT BHU | [Repo task: implement movie pass checks from architecture.md](../companies/ibm.md#q1-repo-task-implement-movie-pass-checks-from-architecturemd) | |
 | 2026-11-24 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Application Engineer interview topics](../companies/idfc-first-bank.md#q1-application-engineer-interview-topics) | |
 | 2026-11-24 | [Amazon](../companies/amazon.md) | IIT Roorkee | [Development question](../companies/amazon.md#q1-development-question) | |

@@ -1,6 +1,6 @@
 # Ola
 
-**19 questions** · 11 drives · latest 24 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**19 questions** · 11 drives · latest 26 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 7 · [HR & Behavioral](../topics/hr-behavioral.md) 4 · [Arrays](../topics/arrays.md) 3 · [Heaps](../topics/heaps.md) 2 · [Sorting](../topics/sorting.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Strings](../topics/strings.md) 1 · +5 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Guwahati, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Roorkee, NIT Surathkal
@@ -218,7 +218,7 @@ HR round (20 minutes on Zoom):
 
 Second-hand report: the OA had MCQs based on chemical engineering.
 
-<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L551) · Also asked at: IIT Kharagpur/Kanpur (2026-11-23)</sub>
+<sub>Topics: OA Format · Source: [chat, 15 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L551) · Also asked at: IIT Kharagpur/Kanpur (2026-11-23), IIT BHU (2026-11-26)</sub>
 
 ## 2026-11-14 · IIT Kanpur · FTE · GET Product Engineer
 

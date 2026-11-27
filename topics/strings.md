@@ -1,9 +1,10 @@
 # Strings
 
-143 questions from 58 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+144 questions from 59 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [Futures First](../companies/futures-first.md) | Unknown | [Futures First trainee OA pattern: MCQs and coding](../companies/futures-first.md#q1-futures-first-trainee-oa-pattern-mcqs-and-coding) | |
 | 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: hex/binary register dump bit-fields](../companies/ibm.md#q5-python-hexbinary-register-dump-bit-fields) | ≈ [LC 405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) Easy |
 | 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: parse logs and count events](../companies/ibm.md#q4-python-parse-logs-and-count-events) | ≈ [LC 811](https://leetcode.com/problems/subdomain-visit-count/) Medium |
 | 2026-11-24 | [Dassault Systemes](../companies/dassault-systemes.md) | NIT Warangal | [Easy string coding question](../companies/dassault-systemes.md#q3-easy-string-coding-question) | |

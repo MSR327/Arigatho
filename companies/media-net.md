@@ -58,7 +58,7 @@ OA as per 4 shared experiences:
 
 This is an aggregated summary; no individual questions were shared.
 
-<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/media-net-oa/2026-11.jsonl#L79)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/media-net-oa/2026-11.jsonl#L79) · Also asked at: Unknown (2026-11-26)</sub>
 
 ## 2026-11-15 · NIT Surathkal · FTE
 

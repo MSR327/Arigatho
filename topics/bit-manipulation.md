@@ -1,9 +1,11 @@
 # Bit Manipulation
 
-48 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+50 questions from 34 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | IIT Kharagpur | [Maximum Profit with Power-of-Two Costs](../companies/de-shaw.md#q3-maximum-profit-with-power-of-two-costs) | ≈ [LC 2835](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/) Hard |
+| 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | IIT Kharagpur | [Interval Coverage XOR](../companies/de-shaw.md#q1-interval-coverage-xor) | ≈ [LC 1943](https://leetcode.com/problems/describe-the-painting/) Medium |
 | 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: hex/binary register dump bit-fields](../companies/ibm.md#q5-python-hexbinary-register-dump-bit-fields) | ≈ [LC 405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) Easy |
 | 2026-11-22 | [KLA](../companies/kla.md) | IIT Madras | [KLA round 1: sliding window and bit manipulation](../companies/kla.md#q1-kla-round-1-sliding-window-and-bit-manipulation) | |
 | 2026-11-18 | [Schlumberger](../companies/schlumberger.md) | Unknown | [XOR-based single element](../companies/schlumberger.md#q7-xor-based-single-element) | [LC 136](https://leetcode.com/problems/single-number/) Easy |

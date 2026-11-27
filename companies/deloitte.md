@@ -1,13 +1,19 @@
 # Deloitte
 
-**76 questions** · 22 drives · latest 25 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**79 questions** · 25 drives · latest 26 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 22 · [OA Format](../topics/oa-format.md) 14 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 7 · [SQL](../topics/sql.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · +14 more  
+**Asks about:** [Aptitude](../topics/aptitude.md) 23 · [OA Format](../topics/oa-format.md) 17 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [SQL](../topics/sql.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · +14 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, IIT Ropar +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · Unknown · Unknown](#2026-11-26--unknown--unknown)
+  - [Deloitte OA pattern (summary of 4 experiences)](#q1-deloitte-oa-pattern-summary-of-4-experiences)
+- [2026-11-26 · IIT Roorkee · FTE](#2026-11-26--iit-roorkee--fte)
+  - [Deloitte OA section 4 (technical) topics](#q1-deloitte-oa-section-4-technical-topics)
+- [2026-11-26 · IIT BHU · FTE · Analyst](#2026-11-26--iit-bhu--fte--analyst)
+  - [Deloitte Analyst OA pattern](#q1-deloitte-analyst-oa-pattern)
 - [2026-11-24 · NIT Rourkela · Unknown · Interview](#2026-11-24--nit-rourkela--unknown--interview)
   - [SQL joins](#q1-sql-joins)
 - [2026-11-20 · Unknown · FTE · Analyst · Interview](#2026-11-20--unknown--fte--analyst--interview)
@@ -111,6 +117,38 @@
 
 ---
 
+## 2026-11-26 · Unknown · Unknown
+
+### Q1. Deloitte OA pattern (summary of 4 experiences)
+
+Summary based on 4 shared experiences.
+
+- OA = aptitude + verbal + logical + 2 easy coding questions (reverse a number, palindrome).
+
+Full question statements are not given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/deloitte-oa/2026-11.jsonl#L151)</sub>
+
+## 2026-11-26 · IIT Roorkee · FTE
+
+### Q1. Deloitte OA section 4 (technical) topics
+
+Section 4, the technical section, had questions from CS fundamentals, GenAI, ML and more.
+
+The specific questions are not given.
+
+<sub>Topics: OA Format, ML/AI · Source: [chat, 26 Nov](../archive/deloitte-oa/2026-11.jsonl#L162)</sub>
+
+## 2026-11-26 · IIT BHU · FTE · Analyst
+
+### Q1. Deloitte Analyst OA pattern
+
+Aptitude, CS fundamentals, Python.
+
+Individual questions are not given.
+
+<sub>Topics: OA Format, Aptitude, Python & Pandas · Source: [chat, 26 Nov](../archive/inter-nit/2026-11.jsonl#L2661)</sub>
+
 ## 2026-11-24 · NIT Rourkela · Unknown · Interview
 
 ### Q1. SQL joins
@@ -147,7 +185,7 @@ Write a SQL query for the highest salary.
 
 Technical interview (on-campus) covers OOPs, SQL (joins, salary queries), CS fundamentals (OS, DBMS), project discussion, and behavioral/situation-based questions. One experience also had Python-specific questions (args vs kwargs), REST API, Agile and SDLC since the resume was AI/ML based.
 
-<sub>Topics: OOP, SQL, OS/DBMS/CN MCQ · Source: [chat, 12 Nov](../archive/deloitte-oa/2026-11.jsonl#L113) · Also asked at: Unknown ×3 (last 2026-11-22)</sub>
+<sub>Topics: OOP, SQL, OS/DBMS/CN MCQ · Source: [chat, 12 Nov](../archive/deloitte-oa/2026-11.jsonl#L113) · Also asked at: Unknown ×4 (last 2026-11-26)</sub>
 
 ## 2026-11-10 · VNIT Nagpur · FTE · Other round
 
@@ -315,7 +353,7 @@ D. 73:100
 
 Round 1: 60 MCQs on HirePro covering aptitude (verbal, quantitative, logical reasoning), CS fundamentals, SQL and code snippets. Each aptitude section gives 10 minutes for 10 questions; the last technical section gives 30 minutes for 30 questions. The quant section takes the longest. The poster left 4 questions unattempted and still cleared round 1. Round 2 is a vibe coding round (only if round 1 is cleared); the poster says the last 2 questions in the shared PDF are prompt engineering. What exactly was asked in vibe coding is not mentioned.
 
-<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L43), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L45), [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L49), [ChatGPT Image Oct 27, 2026, 04_12_36 PM.pdf](../archive/files/15299-ChatGPT_Image_Oct_27_2026_04_12_36_PM.pdf) · Also asked at: IIT Hyderabad ×2 (last 2026-11-15)</sub>
+<sub>Topics: OA Format · Source: [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L43), [chat, 27 Oct](../archive/deloitte-oa/2026-10.jsonl#L45), [chat, 28 Oct](../archive/deloitte-oa/2026-10.jsonl#L49), [ChatGPT Image Oct 27, 2026, 04_12_36 PM.pdf](../archive/files/15299-ChatGPT_Image_Oct_27_2026_04_12_36_PM.pdf) · Also asked at: IIT Hyderabad ×2 (last 2026-11-15), IIT Ropar (2026-11-26)</sub>
 
 ### Q2. Pseudocode: average marks after adding 5 to those below 40
 

@@ -1,9 +1,15 @@
 # HR & Behavioral
 
-87 questions from 43 companys, newest first. [← all topics](../README.md#topics)
+93 questions from 47 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Aspect Ratio](../companies/aspect-ratio.md) | VNIT Nagpur | [Aspect Ratio interview pattern](../companies/aspect-ratio.md#q1-aspect-ratio-interview-pattern) | |
+| 2026-11-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Accenture Elite HR-style interview](../companies/accenture.md#q1-accenture-elite-hr-style-interview) | |
+| 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [HR round](../companies/idfc-first-bank.md#q3-hr-round) | |
+| 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | Unknown | [DE Shaw interview topics](../companies/de-shaw.md#q1-de-shaw-interview-topics) | |
+| 2026-11-26 | [Capgemini](../companies/capgemini.md) | Unknown | [Capgemini interview rounds (shared experiences summary)](../companies/capgemini.md#q1-capgemini-interview-rounds-shared-experiences-summary) | |
+| 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Round 2: project deep dive, basic LLD and behavioral](../companies/idfc-first-bank.md#q2-round-2-project-deep-dive-basic-lld-and-behavioral) | |
 | 2026-11-25 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | Unknown | [CBA interview topics (summary of 5 experiences)](../companies/commonwealth-bank-of-australia.md#q1-cba-interview-topics-summary-of-5-experiences) | |
 | 2026-11-25 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Accenture ETE interview contents](../companies/accenture.md#q1-accenture-ete-interview-contents) | |
 | 2026-11-25 | [Accenture](../companies/accenture.md) | Unknown | [Accenture interview topics (summary of shared experiences)](../companies/accenture.md#q1-accenture-interview-topics-summary-of-shared-experiences) | |

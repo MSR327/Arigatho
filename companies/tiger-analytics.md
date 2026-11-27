@@ -1,13 +1,16 @@
 # Tiger Analytics
 
-**9 questions** · 5 drives · latest 24 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**11 questions** · 6 drives · latest 26 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 5 · [Python & Pandas](../topics/python-pandas.md) 2 · [Binary Search](../topics/binary-search.md) 1 · [Sliding Window](../topics/sliding-window.md) 1 · [SQL](../topics/sql.md) 1 · [Aptitude](../topics/aptitude.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 7 · [Python & Pandas](../topics/python-pandas.md) 4 · [SQL](../topics/sql.md) 3 · [Binary Search](../topics/binary-search.md) 1 · [Sliding Window](../topics/sliding-window.md) 1 · [Aptitude](../topics/aptitude.md) 1  
 **Seen at:** IIIT Allahabad, IIT BHU
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · IIT BHU · FTE](#2026-11-26--iit-bhu--fte)
+  - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern)
+  - [Tiger Analytics OA pattern](#q2-tiger-analytics-oa-pattern)
 - [2026-11-02 · IIT BHU · FTE](#2026-11-02--iit-bhu--fte)
   - [Binary search problem similar to Koko eating bananas](#q1-binary-search-problem-similar-to-koko-eating-bananas)
   - [Sliding window problem](#q2-sliding-window-problem)
@@ -15,17 +18,33 @@
   - [SQL window function question](#q4-sql-window-function-question)
   - [OA pattern](#q5-oa-pattern)
 - [2026-11-02 · IIIT Allahabad · FTE](#2026-11-02--iiit-allahabad--fte)
-  - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern)
-- [2026-10-31 · IIT BHU · FTE](#2026-10-31--iit-bhu--fte)
   - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern-1)
-- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte)
+- [2026-10-31 · IIT BHU · FTE](#2026-10-31--iit-bhu--fte)
   - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern-2)
-- [2026-10-27 · Unknown · FTE · Trainee Analyst](#2026-10-27--unknown--fte--trainee-analyst)
+- [2026-10-28 · IIT BHU · FTE](#2026-10-28--iit-bhu--fte)
   - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern-3)
+- [2026-10-27 · Unknown · FTE · Trainee Analyst](#2026-10-27--unknown--fte--trainee-analyst)
+  - [Tiger Analytics OA pattern](#q1-tiger-analytics-oa-pattern-4)
 
 </details>
 
 ---
+
+## 2026-11-26 · IIT BHU · FTE
+
+### Q1. Tiger Analytics OA pattern
+
+Tiger Analytics OA (60 minutes): NumPy, Python, Pandas and SQL coding questions, answered as MCQs, plus aptitude.
+
+<sub>Topics: OA Format, Python & Pandas, SQL · Source: [chat, 26 Nov](../archive/inter-nit/2026-11.jsonl#L2684)</sub>
+
+### Q2. Tiger Analytics OA pattern
+
+NumPy, Python, pandas and SQL coding, which had to be done as MCQs, plus aptitude. Duration: 60 minutes.
+
+No individual questions were given.
+
+<sub>Topics: OA Format, Python & Pandas, SQL · Source: [chat, 26 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L565)</sub>
 
 ## 2026-11-02 · IIT BHU · FTE
 

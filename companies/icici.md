@@ -108,7 +108,7 @@
 
 2 rounds: a tech round (projects, SQL joins, a scenario such as customer churn for a bank), then HR. Reported as medium difficulty, from 1 shared experience. Exact questions were not shared.
 
-<sub>Topics: SQL, Guesstimates & Cases, HR & Behavioral · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2575)</sub>
+<sub>Topics: SQL, Guesstimates & Cases, HR & Behavioral · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2575) · Also asked at: Unknown (2026-11-26)</sub>
 
 ## 2026-11-25 · Unknown · Unknown
 
@@ -275,7 +275,7 @@ John wants to delete a stored procedure in BigQuery. Which DDL statement should 
 
 Manager I OA (Nov 9th): aptitude, logical reasoning, verbal + some data/banking technical MCQs, nothing too hard. Individual questions were not shared.
 
-<sub>Topics: OA Format, Aptitude, Verbal · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2575)</sub>
+<sub>Topics: OA Format, Aptitude, Verbal · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2575) · Also asked at: Unknown (2026-11-26), IIT BHU (2026-11-26)</sub>
 
 ## 2026-11-08 · IIT Roorkee · FTE · Manager
 

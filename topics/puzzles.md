@@ -1,9 +1,10 @@
 # Puzzles
 
-34 questions from 14 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+35 questions from 15 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | Unknown | [DE Shaw interview topics](../companies/de-shaw.md#q1-de-shaw-interview-topics) | |
 | 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [Technical round 1: CV, project, KLA, semiconductor market, puzzles](../companies/kla.md#q2-technical-round-1-cv-project-kla-semiconductor-market-puzzles) | |
 | 2026-11-19 | [Takshashila Consulting](../companies/takshashila-consulting.md) | IIT Kharagpur | [Takshashila Consulting OA format](../companies/takshashila-consulting.md#q2-takshashila-consulting-oa-format) | |
 | 2026-11-19 | [Takshashila Consulting](../companies/takshashila-consulting.md) | IIT Kharagpur | [Takshashila Consulting Analyst aptitude test pattern](../companies/takshashila-consulting.md#q1-takshashila-consulting-analyst-aptitude-test-pattern) | |

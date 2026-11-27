@@ -1,9 +1,11 @@
 # Math
 
-229 questions from 64 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+231 questions from 66 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Interview: projects, SQL joins/subqueries and probability](../companies/idfc-first-bank.md#q1-interview-projects-sql-joinssubqueries-and-probability) | |
+| 2026-11-26 | [Auronova Consulting](../companies/auronova-consulting.md) | Unknown | [Auronova analyst interview rounds](../companies/auronova-consulting.md#q1-auronova-analyst-interview-rounds) | |
 | 2026-11-25 | [Nvidia](../companies/nvidia.md) | IIT Bombay | [Nvidia Formal Verification OA: probability and maths](../companies/nvidia.md#q1-nvidia-formal-verification-oa-probability-and-maths) | |
 | 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [Problems on Mean-Range / Median-Range plots](../companies/kla.md#q4-problems-on-mean-range--median-range-plots) | |
 | 2026-11-24 | [Dassault Systemes](../companies/dassault-systemes.md) | NIT Warangal | [Coding question using modulo 3](../companies/dassault-systemes.md#q2-coding-question-using-modulo-3) | |

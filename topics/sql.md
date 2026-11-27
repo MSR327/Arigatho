@@ -1,9 +1,17 @@
 # SQL
 
-131 questions from 33 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+139 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [HSBC](../companies/hsbc.md) | Unknown | [HSBC technical interview topics](../companies/hsbc.md#q1-hsbc-technical-interview-topics) | |
+| 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Interview: projects, SQL joins/subqueries and probability](../companies/idfc-first-bank.md#q1-interview-projects-sql-joinssubqueries-and-probability) | |
+| 2026-11-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal PA OA sections: SQL, no Python or coding](../companies/eternal-zomato.md#q1-eternal-pa-oa-sections-sql-no-python-or-coding) | |
+| 2026-11-26 | [Hakimo AI](../companies/hakimo-ai.md) | IIT BHU | [Hakimo AI OA pattern](../companies/hakimo-ai.md#q1-hakimo-ai-oa-pattern) | |
+| 2026-11-26 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [Tiger Analytics OA pattern](../companies/tiger-analytics.md#q2-tiger-analytics-oa-pattern) | |
+| 2026-11-26 | [Tiger Analytics](../companies/tiger-analytics.md) | IIT BHU | [Tiger Analytics OA pattern](../companies/tiger-analytics.md#q1-tiger-analytics-oa-pattern) | |
+| 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Round 2: core CS topics (OS, CN, DBMS)](../companies/idfc-first-bank.md#q1-round-2-core-cs-topics-os-cn-dbms) | |
+| 2026-11-26 | [Auronova Consulting](../companies/auronova-consulting.md) | Unknown | [Auronova analyst interview rounds](../companies/auronova-consulting.md#q1-auronova-analyst-interview-rounds) | |
 | 2026-11-25 | [NoBroker](../companies/nobroker.md) | Unknown | [NoBroker Marketing Analyst rounds](../companies/nobroker.md#q1-nobroker-marketing-analyst-rounds) | |
 | 2026-11-25 | [Navi](../companies/navi.md) | Unknown | [Navi interview topics pattern](../companies/navi.md#q1-navi-interview-topics-pattern) | |
 | 2026-11-25 | [ICICI](../companies/icici.md) | Unknown | [ICICI Manager I technical and HR rounds](../companies/icici.md#q1-icici-manager-i-technical-and-hr-rounds) | |

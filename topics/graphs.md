@@ -1,9 +1,10 @@
 # Graphs
 
-169 questions from 55 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+170 questions from 56 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [Fractal](../companies/fractal.md) | IIT Bombay | [Debugging a DSU (disjoint set union) solution](../companies/fractal.md#q1-debugging-a-dsu-disjoint-set-union-solution) | ≈ [LC 684](https://leetcode.com/problems/redundant-connection/) Medium |
 | 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [DSA topics in KLA technical rounds](../companies/kla.md#q1-dsa-topics-in-kla-technical-rounds) | |
 | 2026-11-24 | [KLA](../companies/kla.md) | MNNIT Allahabad | [KLA SDE OA pattern](../companies/kla.md#q1-kla-sde-oa-pattern) | |
 | 2026-11-24 | [Urban Company](../companies/urban-company.md) | Unknown | [Urban Company OA coding round (summary of 3 experiences)](../companies/urban-company.md#q1-urban-company-oa-coding-round-summary-of-3-experiences) | [LC 994](https://leetcode.com/problems/rotting-oranges/) Medium |
