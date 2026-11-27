@@ -1,6 +1,6 @@
 # Juspay
 
-**27 questions** · 20 drives · latest 25 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**27 questions** · 20 drives · latest 26 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 14 · [Trees](../topics/trees.md) 5 · [Other](../topics/other.md) 4 · [Graphs](../topics/graphs.md) 4 · [Strings](../topics/strings.md) 2 · [Greedy](../topics/greedy.md) 2 · [Hashing](../topics/hashing.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +3 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Roorkee +5 more
@@ -72,7 +72,7 @@ Summary of shared experiences:
 
 Exact questions were not given.
 
-<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/juspay-oa/2026-11.jsonl#L169)</sub>
+<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/juspay-oa/2026-11.jsonl#L169) · Also asked at: Unknown (2026-11-26)</sub>
 
 ## 2026-11-24 · IIT Roorkee · FTE
 

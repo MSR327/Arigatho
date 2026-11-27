@@ -1,13 +1,15 @@
 # Accenture
 
-**357 questions** · 132 drives · latest 25 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**358 questions** · 133 drives · latest 26 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 98 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +20 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 99 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +20 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-26 · IIT BHU · FTE · ETE](#2026-11-26--iit-bhu--fte--ete)
+  - [ETE role OA: DSA in Python, SQL and web dev](#q1-ete-role-oa-dsa-in-python-sql-and-web-dev)
 - [2026-11-25 · Unknown · Unknown](#2026-11-25--unknown--unknown)
   - [Accenture OA contents (summary of shared experiences)](#q1-accenture-oa-contents-summary-of-shared-experiences)
 - [2026-11-25 · Unknown · Unknown · Interview](#2026-11-25--unknown--unknown--interview)
@@ -501,6 +503,20 @@
 </details>
 
 ---
+
+## 2026-11-26 · IIT BHU · FTE · ETE
+
+### Q1. ETE role OA: DSA in Python, SQL and web dev
+
+The OA for the ETE role had:
+
+- 1 DSA question in Python
+- 1 SQL question
+- 1 web dev question
+
+C++ is not allowed, Python only. The actual questions were not given.
+
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/accenture-oa/2026-11.jsonl#L680), [chat, 26 Nov](../archive/accenture-oa/2026-11.jsonl#L681)</sub>
 
 ## 2026-11-25 · Unknown · Unknown
 

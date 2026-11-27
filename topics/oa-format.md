@@ -1,9 +1,10 @@
 # OA Format
 
-961 questions from 172 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+962 questions from 172 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-26 | [Accenture](../companies/accenture.md) | IIT BHU | [ETE role OA: DSA in Python, SQL and web dev](../companies/accenture.md#q1-ete-role-oa-dsa-in-python-sql-and-web-dev) | |
 | 2026-11-26 | [Schlumberger](../companies/schlumberger.md) | IIT BHU | [SLB software role OA pattern](../companies/schlumberger.md#q1-slb-software-role-oa-pattern) | |
 | 2026-11-26 | [Media.net](../companies/media-net.md) | Unknown | [Media.net OA pattern summary from shared experiences](../companies/media-net.md#q1-medianet-oa-pattern-summary-from-shared-experiences) | |
 | 2026-11-25 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | Unknown | [CBA interview topics (summary of 5 experiences)](../companies/commonwealth-bank-of-australia.md#q1-cba-interview-topics-summary-of-5-experiences) | |
