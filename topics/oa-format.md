@@ -1,9 +1,10 @@
 # OA Format
 
-988 questions from 177 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+989 questions from 178 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Petronet LNG](../companies/petronet-lng.md) | IIT Roorkee | [Petronet chemical OA format](../companies/petronet-lng.md#q1-petronet-chemical-oa-format) | |
 | 2026-11-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | VNIT Nagpur | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) | |
 | 2026-11-26 | [HSBC](../companies/hsbc.md) | Unknown | [HSBC OA pattern](../companies/hsbc.md#q1-hsbc-oa-pattern) | |
 | 2026-11-26 | [Tech Mahindra](../companies/tech-mahindra.md) | Unknown | [Tech Mahindra interview rounds](../companies/tech-mahindra.md#q1-tech-mahindra-interview-rounds) | |

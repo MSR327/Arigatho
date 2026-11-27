@@ -1,13 +1,15 @@
 # Accenture
 
-**359 questions** · 134 drives · latest 26 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**360 questions** · 135 drives · latest 27 Nov 2026 · [57 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 99 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 64 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +20 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 99 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 65 · [SQL](../topics/sql.md) 37 · [Web Dev](../topics/web-dev.md) 31 · [Math](../topics/math.md) 26 · [ML/AI](../topics/ml-ai.md) 26 · [Arrays](../topics/arrays.md) 23 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 21 · +20 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore +20 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Unknown · Unknown · Elite Tech Engineer · Interview](#2026-11-27--unknown--unknown--elite-tech-engineer--interview)
+  - [Accenture Elite Tech Engineer interview summary](#q1-accenture-elite-tech-engineer-interview-summary)
 - [2026-11-26 · IIT Roorkee · FTE · Interview](#2026-11-26--iit-roorkee--fte--interview)
   - [Accenture Elite HR-style interview](#q1-accenture-elite-hr-style-interview)
 - [2026-11-26 · IIT BHU · FTE · ETE](#2026-11-26--iit-bhu--fte--ete)
@@ -505,6 +507,22 @@
 </details>
 
 ---
+
+## 2026-11-27 · Unknown · Unknown · Elite Tech Engineer · Interview
+
+### Q1. Accenture Elite Tech Engineer interview summary
+
+Summary compiled from 5 shared interview experiences:
+
+- Mostly technical interviews, 2 to 3 rounds
+- Projects came up in all 5, with a deep dive on tech stack and challenges
+- DSA: DP, trees, arrays, linked lists, graphs
+- SQL/DBMS in 5 (joins, group by)
+- OOPs in 3, OS (deadlock, paging) in 2, HR in 2
+
+No individual questions were given.
+
+<sub>Topics: HR & Behavioral, OS/DBMS/CN MCQ, OOP · Source: [chat, 27 Nov](../archive/campus-nit-jalandhar-placements/2026-11.jsonl#L16)</sub>
 
 ## 2026-11-26 · IIT Roorkee · FTE · Interview
 

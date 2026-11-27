@@ -1,9 +1,10 @@
 # HR & Behavioral
 
-93 questions from 47 companys, newest first. [← all topics](../README.md#topics)
+94 questions from 47 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Accenture](../companies/accenture.md) | Unknown | [Accenture Elite Tech Engineer interview summary](../companies/accenture.md#q1-accenture-elite-tech-engineer-interview-summary) | |
 | 2026-11-27 | [Aspect Ratio](../companies/aspect-ratio.md) | VNIT Nagpur | [Aspect Ratio interview pattern](../companies/aspect-ratio.md#q1-aspect-ratio-interview-pattern) | |
 | 2026-11-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Accenture Elite HR-style interview](../companies/accenture.md#q1-accenture-elite-hr-style-interview) | |
 | 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [HR round](../companies/idfc-first-bank.md#q3-hr-round) | |
