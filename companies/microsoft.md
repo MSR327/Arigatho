@@ -1,13 +1,15 @@
 # Microsoft
 
-**25 questions** · 17 drives · latest 11 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**26 questions** · 18 drives · latest 27 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 4 · [Greedy](../topics/greedy.md) 4 · [Sorting](../topics/sorting.md) 3 · [Hashing](../topics/hashing.md) 3 · [DP](../topics/dp.md) 3 · [Math](../topics/math.md) 2 · +8 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 4 · [Greedy](../topics/greedy.md) 4 · [Sorting](../topics/sorting.md) 3 · [Hashing](../topics/hashing.md) 3 · [DP](../topics/dp.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · +8 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Unknown · Unknown · Interview](#2026-11-27--unknown--unknown--interview)
+  - [DSA and projects interview after OA](#q1-dsa-and-projects-interview-after-oa)
 - [2026-11-11 · IIT Kharagpur/Kanpur · FTE](#2026-11-11--iit-kharagpurkanpur--fte)
   - [2D prefix sum grid](#q1-2d-prefix-sum-grid)
 - [2026-11-11 · IIT Bombay · FTE](#2026-11-11--iit-bombay--fte)
@@ -54,6 +56,16 @@
 </details>
 
 ---
+
+## 2026-11-27 · Unknown · Unknown · Interview
+
+### Q1. DSA and projects interview after OA
+
+After the OA, interviews were mostly DSA + projects (from 4 experiences). Round 1 is basically the OA + a tech round, not an aptitude round.
+
+Specific questions were not given.
+
+<sub>Topics: Other, HR & Behavioral · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L781)</sub>
 
 ## 2026-11-11 · IIT Kharagpur/Kanpur · FTE
 
@@ -197,7 +209,7 @@ Shared approach: sorting + greedy.
 
 Microsoft OA had 2 DSA questions, easy-medium difficulty. (Question statements not shared.)
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1023)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1023) · Also asked at: Unknown (2026-11-27)</sub>
 
 ## 2026-11-08 · IIT Madras · FTE
 

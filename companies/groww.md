@@ -1,13 +1,15 @@
 # Groww
 
-**10 questions** · 6 drives · latest 22 Nov 2026 · [← all companies](../README.md#companies)
+**11 questions** · 7 drives · latest 27 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 5 · [OA Format](../topics/oa-format.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Finance](../topics/finance.md) 1 · [Other](../topics/other.md) 1  
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 6 · [OA Format](../topics/oa-format.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Finance](../topics/finance.md) 1 · [Other](../topics/other.md) 1  
 **Seen at:** IIT BHU, IIT Bombay, IIT Guwahati, VNIT Nagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · IIT Bombay · FTE · APM · Interview](#2026-11-27--iit-bombay--fte--apm--interview)
+  - [Case study: increase reach for Swiggy](#q1-case-study-increase-reach-for-swiggy)
 - [2026-11-22 · IIT Bombay · FTE · Product Manager · Interview](#2026-11-22--iit-bombay--fte--product-manager--interview)
   - [Product sense: first-time onboarding for Zoho CRM](#q1-product-sense-first-time-onboarding-for-zoho-crm)
 - [2026-11-21 · Unknown · FTE · APM · Interview](#2026-11-21--unknown--fte--apm--interview)
@@ -28,6 +30,14 @@
 </details>
 
 ---
+
+## 2026-11-27 · IIT Bombay · FTE · APM · Interview
+
+### Q1. Case study: increase reach for Swiggy
+
+AI interview case study (described as mostly basic): increasing reach for Swiggy, followed by questions on the case.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 27 Nov](../archive/campus-iit-bombay-placements/2026-11.jsonl#L362)</sub>
 
 ## 2026-11-22 · IIT Bombay · FTE · Product Manager · Interview
 
@@ -62,7 +72,7 @@ Rounds reported for the APM role:
 
 The round is an interview taken by an AI; the candidate's voice is recognised and parsed simultaneously. Questions are mostly behavioural and easy enough to answer. (No specific questions given.)
 
-<sub>Topics: HR & Behavioral · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2143)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 20 Nov](../archive/inter-nit/2026-11.jsonl#L2143) · Also asked at: IIT Bombay (2026-11-27)</sub>
 
 ## 2026-11-19 · Unknown · FTE · APM
 

@@ -1,9 +1,10 @@
 # Arrays
 
-298 questions from 82 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+299 questions from 82 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Sum of max-min over subarrays with length in [a, b]](../companies/walt-disney.md#q1-sum-of-max-min-over-subarrays-with-length-in-a-b) | [LC 2104](https://leetcode.com/problems/sum-of-subarray-ranges/) Medium |
 | 2026-11-26 | [Mastercard](../companies/mastercard.md) | IIT BHU | [Min changes to split array into K equal-value groups](../companies/mastercard.md#q1-min-changes-to-split-array-into-k-equal-value-groups) | ≈ [LC 1278](https://leetcode.com/problems/palindrome-partitioning-iii/) Hard |
 | 2026-11-26 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Sliding window max-min for size k](../companies/walt-disney.md#q1-sliding-window-max-min-for-size-k) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | IIT Kharagpur | [Interval Coverage XOR](../companies/de-shaw.md#q1-interval-coverage-xor) | ≈ [LC 1943](https://leetcode.com/problems/describe-the-painting/) Medium |

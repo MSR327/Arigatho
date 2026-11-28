@@ -1,9 +1,12 @@
 # Guesstimates & Cases
 
-56 questions from 24 companys, newest first. [← all topics](../README.md#topics)
+59 questions from 24 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-27 | [Meesho](../companies/meesho.md) | Unknown | [Guesstimate: mobile app downloads per day](../companies/meesho.md#q3-guesstimate-mobile-app-downloads-per-day) |
+| 2026-11-27 | [Meesho](../companies/meesho.md) | Unknown | [RCA case: students ordering from restaurants outside school](../companies/meesho.md#q2-rca-case-students-ordering-from-restaurants-outside-school) |
+| 2026-11-27 | [Groww](../companies/groww.md) | IIT Bombay | [Case study: increase reach for Swiggy](../companies/groww.md#q1-case-study-increase-reach-for-swiggy) |
 | 2026-11-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | VNIT Nagpur | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) |
 | 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Interview: guesstimates and case studies](../companies/idfc-first-bank.md#q2-interview-guesstimates-and-case-studies) |
 | 2026-11-26 | [Auronova Consulting](../companies/auronova-consulting.md) | Unknown | [Auronova analyst interview rounds](../companies/auronova-consulting.md#q1-auronova-analyst-interview-rounds) |

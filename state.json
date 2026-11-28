@@ -62,7 +62,7 @@
   },
   "axxela-oa": {
    "oldest_id": 18396,
-   "newest_id": 34324,
+   "newest_id": 35636,
    "backfill_done": true
   },
   "being-infinity-oa": {
@@ -122,7 +122,7 @@
   },
   "campus-bits-pilani-placements": {
    "oldest_id": 2934,
-   "newest_id": 34372,
+   "newest_id": 35634,
    "backfill_done": true
   },
   "campus-bmsce-bangalore-placements": {
@@ -142,7 +142,7 @@
   },
   "campus-dtu-placements": {
    "oldest_id": 2937,
-   "newest_id": 34097,
+   "newest_id": 35594,
    "backfill_done": true
   },
   "campus-igdtuw-placements": {
@@ -152,7 +152,7 @@
   },
   "campus-iiit-allahabad-placements": {
    "oldest_id": 2922,
-   "newest_id": 35117,
+   "newest_id": 35593,
    "backfill_done": true
   },
   "campus-iiit-bangalore-placements": {
@@ -162,12 +162,12 @@
   },
   "campus-iiit-delhi-placements": {
    "oldest_id": 2981,
-   "newest_id": 35080,
+   "newest_id": 35390,
    "backfill_done": true
   },
   "campus-iiit-hyderabad-placements": {
    "oldest_id": 2959,
-   "newest_id": 34371,
+   "newest_id": 35404,
    "backfill_done": true
   },
   "campus-iiit-vadodara-placements": {
@@ -182,22 +182,22 @@
   },
   "campus-iit-bhu-placements": {
    "oldest_id": 2920,
-   "newest_id": 35173,
+   "newest_id": 35522,
    "backfill_done": true
   },
   "campus-iit-bhubaneswar-placements": {
    "oldest_id": 2965,
-   "newest_id": 34653,
+   "newest_id": 35652,
    "backfill_done": true
   },
   "campus-iit-bombay-placements": {
    "oldest_id": 2923,
-   "newest_id": 35104,
+   "newest_id": 35600,
    "backfill_done": true
   },
   "campus-iit-delhi-placements": {
    "oldest_id": 2925,
-   "newest_id": 35192,
+   "newest_id": 35665,
    "backfill_done": true
   },
   "campus-iit-dharwad-placements": {
@@ -212,17 +212,17 @@
   },
   "campus-iit-guwahati-placements": {
    "oldest_id": 2924,
-   "newest_id": 35145,
+   "newest_id": 35603,
    "backfill_done": true
   },
   "campus-iit-hyderabad-placements": {
    "oldest_id": 2931,
-   "newest_id": 35101,
+   "newest_id": 35666,
    "backfill_done": true
   },
   "campus-iit-indore-placements": {
    "oldest_id": 2948,
-   "newest_id": 35107,
+   "newest_id": 35443,
    "backfill_done": true
   },
   "campus-iit-ism-dhanbad-placements": {
@@ -33383,6 +33383,97 @@
   35211,
   35212,
   35213,
-  35214
+  35214,
+  35255,
+  35537,
+  35217,
+  35242,
+  35243,
+  35244,
+  35252,
+  35256,
+  35301,
+  35313,
+  35315,
+  35334,
+  35361,
+  35364,
+  35386,
+  35390,
+  35402,
+  35403,
+  35404,
+  35405,
+  35413,
+  35415,
+  35416,
+  35418,
+  35419,
+  35430,
+  35439,
+  35451,
+  35454,
+  35458,
+  35478,
+  35483,
+  35499,
+  35511,
+  35516,
+  35518,
+  35522,
+  35529,
+  35593,
+  35594,
+  35634,
+  35636,
+  35216,
+  35223,
+  35226,
+  35263,
+  35278,
+  35297,
+  35300,
+  35304,
+  35305,
+  35336,
+  35369,
+  35379,
+  35389,
+  35394,
+  35401,
+  35407,
+  35410,
+  35414,
+  35484,
+  35500,
+  35513,
+  35562,
+  35563,
+  35569,
+  35571,
+  35573,
+  35574,
+  35581,
+  35586,
+  35597,
+  35600,
+  35603,
+  35604,
+  35609,
+  35610,
+  35611,
+  35613,
+  35642,
+  35652,
+  35665,
+  35227,
+  35236,
+  35275,
+  35298,
+  35443,
+  35631,
+  35641,
+  35647,
+  35666
  ]
 }

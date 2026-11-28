@@ -1,13 +1,19 @@
 # Point72
 
-**9 questions** · 6 drives · latest 25 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**14 questions** · 7 drives · latest 27 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Greedy](../topics/greedy.md) 4 · [OA Format](../topics/oa-format.md) 4 · [Sorting](../topics/sorting.md) 2 · [Heaps](../topics/heaps.md) 1 · [DP](../topics/dp.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · [Math](../topics/math.md) 1 · +2 more  
+**Asks about:** [Greedy](../topics/greedy.md) 4 · [OA Format](../topics/oa-format.md) 4 · [DP](../topics/dp.md) 2 · [Math](../topics/math.md) 2 · [Sorting](../topics/sorting.md) 2 · [Heaps](../topics/heaps.md) 1 · [Strings](../topics/strings.md) 1 · [ML/AI](../topics/ml-ai.md) 1 · +8 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Madras
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Unknown · Unknown · SDE · Interview](#2026-11-27--unknown--unknown--sde--interview)
+  - [DSA topics: graphs, DP and trees](#q1-dsa-topics-graphs-dp-and-trees)
+  - [OS: threads, deadlocks and memory](#q2-os-threads-deadlocks-and-memory)
+  - [LLD/HLD design](#q3-lldhld-design)
+  - [Probability puzzles](#q4-probability-puzzles)
+  - [HR behavioral round](#q5-hr-behavioral-round)
 - [2026-11-25 · Unknown · Unknown](#2026-11-25--unknown--unknown)
   - [Point72 OA contents (summary of shared experiences)](#q1-point72-oa-contents-summary-of-shared-experiences)
 - [2026-11-23 · Unknown · FTE · Interview](#2026-11-23--unknown--fte--interview)
@@ -28,6 +34,43 @@
 
 ---
 
+## 2026-11-27 · Unknown · Unknown · SDE · Interview
+
+### Q1. DSA topics: graphs, DP and trees
+
+Interviews were mostly DSA:
+- Graphs (shortest path, topological sort)
+- DP
+- Trees
+
+Specific questions were not given.
+
+<sub>Topics: Graphs, DP, Trees · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L779)</sub>
+
+### Q2. OS: threads, deadlocks and memory
+
+OS questions on threads, deadlocks and memory. Specific questions were not given.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L779)</sub>
+
+### Q3. LLD/HLD design
+
+LLD/HLD design questions. Specific problems were not given.
+
+<sub>Topics: Software Engineering · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L779)</sub>
+
+### Q4. Probability puzzles
+
+Probability puzzles (reported in 3 of 5 shared experiences). Specific puzzles were not given.
+
+<sub>Topics: Puzzles, Math · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L779)</sub>
+
+### Q5. HR behavioral round
+
+The HR round was standard behavioral.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L779)</sub>
+
 ## 2026-11-25 · Unknown · Unknown
 
 ### Q1. Point72 OA contents (summary of shared experiences)
@@ -36,7 +79,7 @@ From 5 shared experiences: the OA was DSA + debugging.
 
 Specific questions are not given.
 
-<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/point72-oa/2026-11.jsonl#L48)</sub>
+<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/point72-oa/2026-11.jsonl#L48) · Also asked at: Unknown (2026-11-27)</sub>
 
 ## 2026-11-23 · Unknown · FTE · Interview
 

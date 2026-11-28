@@ -1,9 +1,10 @@
 # OS/DBMS/CN MCQ
 
-166 questions from 42 companys, newest first. [← all topics](../README.md#topics)
+167 questions from 43 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Point72](../companies/point72.md) | Unknown | [OS: threads, deadlocks and memory](../companies/point72.md#q2-os-threads-deadlocks-and-memory) | |
 | 2026-11-27 | [Accenture](../companies/accenture.md) | Unknown | [Accenture Elite Tech Engineer interview summary](../companies/accenture.md#q1-accenture-elite-tech-engineer-interview-summary) | |
 | 2026-11-26 | [HSBC](../companies/hsbc.md) | Unknown | [HSBC technical interview topics](../companies/hsbc.md#q1-hsbc-technical-interview-topics) | |
 | 2026-11-26 | [MathWorks](../companies/mathworks.md) | Unknown | [MathWorks interview rounds pattern](../companies/mathworks.md#q1-mathworks-interview-rounds-pattern) | |

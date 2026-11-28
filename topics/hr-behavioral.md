@@ -1,9 +1,12 @@
 # HR & Behavioral
 
-94 questions from 47 companys, newest first. [← all topics](../README.md#topics)
+97 questions from 48 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Microsoft](../companies/microsoft.md) | Unknown | [DSA and projects interview after OA](../companies/microsoft.md#q1-dsa-and-projects-interview-after-oa) | |
+| 2026-11-27 | [Point72](../companies/point72.md) | Unknown | [HR behavioral round](../companies/point72.md#q5-hr-behavioral-round) | |
+| 2026-11-27 | [Meesho](../companies/meesho.md) | Unknown | [Resume walkthrough and why Meesho](../companies/meesho.md#q1-resume-walkthrough-and-why-meesho) | |
 | 2026-11-27 | [Accenture](../companies/accenture.md) | Unknown | [Accenture Elite Tech Engineer interview summary](../companies/accenture.md#q1-accenture-elite-tech-engineer-interview-summary) | |
 | 2026-11-27 | [Aspect Ratio](../companies/aspect-ratio.md) | VNIT Nagpur | [Aspect Ratio interview pattern](../companies/aspect-ratio.md#q1-aspect-ratio-interview-pattern) | |
 | 2026-11-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Accenture Elite HR-style interview](../companies/accenture.md#q1-accenture-elite-hr-style-interview) | |

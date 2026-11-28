@@ -1,9 +1,10 @@
 # Software Engineering
 
-79 questions from 35 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+80 questions from 36 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Point72](../companies/point72.md) | Unknown | [LLD/HLD design](../companies/point72.md#q3-lldhld-design) | |
 | 2026-11-26 | [InfoEdge](../companies/infoedge.md) | Thapar Institute of Engineering and Technology | [LLD asked in Info Edge interview](../companies/infoedge.md#q1-lld-asked-in-info-edge-interview) | |
 | 2026-11-26 | [Fractal](../companies/fractal.md) | IIT Bombay | [Debugging a DSU (disjoint set union) solution](../companies/fractal.md#q1-debugging-a-dsu-disjoint-set-union-solution) | ≈ [LC 684](https://leetcode.com/problems/redundant-connection/) Medium |
 | 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Round 2: project deep dive, basic LLD and behavioral](../companies/idfc-first-bank.md#q2-round-2-project-deep-dive-basic-lld-and-behavioral) | |

@@ -1,6 +1,6 @@
 # KLA
 
-**20 questions** · 10 drives · latest 25 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**20 questions** · 10 drives · latest 27 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 4 · [Puzzles](../topics/puzzles.md) 4 · [Graphs](../topics/graphs.md) 4 · [HR & Behavioral](../topics/hr-behavioral.md) 4 · [Math](../topics/math.md) 3 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 3 · [Sliding Window](../topics/sliding-window.md) 2 · [Binary Search](../topics/binary-search.md) 2 · +7 more  
 **Seen at:** IIT Bhubaneswar, IIT Indore, IIT Kharagpur, IIT Madras, MNNIT Allahabad, NIT Rourkela
@@ -75,7 +75,7 @@ Technical round 2: two problems involving Mean-Range or Median-Range plots. The 
 
 From 5 shared experiences, tech rounds were mostly DSA: DP, arrays, graphs, binary search. Exact questions were not given.
 
-<sub>Topics: DP, Graphs, Binary Search · Source: [chat, 25 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L648) · Also asked at: NIT Rourkela (2026-11-24)</sub>
+<sub>Topics: DP, Graphs, Binary Search · Source: [chat, 25 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L648) · Also asked at: NIT Rourkela (2026-11-24), Unknown ×2 (last 2026-11-27)</sub>
 
 ### Q2. OS: deadlock, paging, semaphores vs mutex
 
@@ -115,7 +115,7 @@ From 1 shared NIT Allahabad experience (SDE role, selected):
 
 The exact question statements are not given.
 
-<sub>Topics: OA Format, Arrays, Graphs · Source: [chat, 24 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L415) · Also asked at: NIT Rourkela (2026-11-24)</sub>
+<sub>Topics: OA Format, Arrays, Graphs · Source: [chat, 24 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L415) · Also asked at: NIT Rourkela (2026-11-24), Unknown (2026-11-27)</sub>
 
 ## 2026-11-24 · MNNIT Allahabad · FTE · SDE · Interview
 

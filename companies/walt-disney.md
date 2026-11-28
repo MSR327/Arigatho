@@ -1,13 +1,16 @@
 # Walt Disney
 
-**7 questions** · 4 drives · latest 26 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**9 questions** · 5 drives · latest 27 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Sliding Window](../topics/sliding-window.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · [Graphs](../topics/graphs.md) 1 · [DP](../topics/dp.md) 1 · [Stack/Queue](../topics/stack-queue.md) 1 · +1 more  
+**Asks about:** [Sliding Window](../topics/sliding-window.md) 3 · [OA Format](../topics/oa-format.md) 2 · [Graphs](../topics/graphs.md) 2 · [DP](../topics/dp.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [Arrays](../topics/arrays.md) 2 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 1 · [Strings](../topics/strings.md) 1 · +2 more  
 **Seen at:** IIT Guwahati, MNNIT Allahabad, NIT Kurukshetra, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · IIT Guwahati · FTE · SDE](#2026-11-27--iit-guwahati--fte--sde)
+  - [Sum of max-min over subarrays with length in \[a, b\]](#q1-sum-of-max-min-over-subarrays-with-length-in-a-b)
+  - [Total distance travelled by citizens to each tree node](#q2-total-distance-travelled-by-citizens-to-each-tree-node)
 - [2026-11-26 · IIT Guwahati · FTE · SDE / Data Engineer](#2026-11-26--iit-guwahati--fte--sde--data-engineer)
   - [Sliding window max-min for size k](#q1-sliding-window-max-min-for-size-k)
 - [2026-11-20 · NIT Kurukshetra · FTE · SDE](#2026-11-20--nit-kurukshetra--fte--sde)
@@ -23,6 +26,24 @@
 </details>
 
 ---
+
+## 2026-11-27 · IIT Guwahati · FTE · SDE
+
+### Q1. Sum of max-min over subarrays with length in [a, b]
+
+You are given an array and integers `a` and `b`. Find the total sum of (max - min) over all subarrays with length from `a` to `b`.
+
+Constraints and examples were not shared.
+
+<sub>Topics: Arrays, Stack/Queue, Sliding Window · Similar: [LeetCode 2104. Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) (Medium) · Source: [chat, 27 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L714)</sub>
+
+### Q2. Total distance travelled by citizens to each tree node
+
+You are given a tree with edge weights, and the number of citizens in each node. For every node, find the total distance covered by the citizens of all other nodes (to reach that node).
+
+Constraints and examples were not shared.
+
+<sub>Topics: Trees, DP, Graphs · Similar: [LeetCode 834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) (Hard) · Source: [chat, 27 Nov](../archive/campus-iit-guwahati-placements/2026-11.jsonl#L714)</sub>
 
 ## 2026-11-26 · IIT Guwahati · FTE · SDE / Data Engineer
 

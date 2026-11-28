@@ -1,9 +1,10 @@
 # Sliding Window
 
-44 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+45 questions from 29 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Sum of max-min over subarrays with length in [a, b]](../companies/walt-disney.md#q1-sum-of-max-min-over-subarrays-with-length-in-a-b) | [LC 2104](https://leetcode.com/problems/sum-of-subarray-ranges/) Medium |
 | 2026-11-26 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Sliding window max-min for size k](../companies/walt-disney.md#q1-sliding-window-max-min-for-size-k) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | IIT Kharagpur | [Sliding Window k-th Minimum](../companies/de-shaw.md#q2-sliding-window-k-th-minimum) | [LC 2653](https://leetcode.com/problems/sliding-subarray-beauty/) Medium |
 | 2026-11-24 | [KLA](../companies/kla.md) | MNNIT Allahabad | [Sliding window and tree diameter coding](../companies/kla.md#q1-sliding-window-and-tree-diameter-coding) | [LC 543](https://leetcode.com/problems/diameter-of-binary-tree/) Easy |

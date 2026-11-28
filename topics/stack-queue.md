@@ -1,9 +1,10 @@
 # Stack/Queue
 
-43 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+44 questions from 26 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Sum of max-min over subarrays with length in [a, b]](../companies/walt-disney.md#q1-sum-of-max-min-over-subarrays-with-length-in-a-b) | [LC 2104](https://leetcode.com/problems/sum-of-subarray-ranges/) Medium |
 | 2026-11-26 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Sliding window max-min for size k](../companies/walt-disney.md#q1-sliding-window-max-min-for-size-k) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-18 | [Amazon](../companies/amazon.md) | IIT Kharagpur/Kanpur | [Lexicographically largest identifier from key](../companies/amazon.md#q1-lexicographically-largest-identifier-from-key) | |
 | 2026-11-18 | [Prodigal](../companies/prodigal.md) | Unknown | [Min element from a queue](../companies/prodigal.md#q4-min-element-from-a-queue) | [LC 155](https://leetcode.com/problems/min-stack/) Medium |

@@ -1,9 +1,11 @@
 # DP
 
-180 questions from 66 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+182 questions from 66 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Point72](../companies/point72.md) | Unknown | [DSA topics: graphs, DP and trees](../companies/point72.md#q1-dsa-topics-graphs-dp-and-trees) | |
+| 2026-11-27 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Total distance travelled by citizens to each tree node](../companies/walt-disney.md#q2-total-distance-travelled-by-citizens-to-each-tree-node) | [LC 834](https://leetcode.com/problems/sum-of-distances-in-tree/) Hard |
 | 2026-11-26 | [Mastercard](../companies/mastercard.md) | IIT BHU | [Min changes to split array into K equal-value groups](../companies/mastercard.md#q1-min-changes-to-split-array-into-k-equal-value-groups) | ≈ [LC 1278](https://leetcode.com/problems/palindrome-partitioning-iii/) Hard |
 | 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | IIT Kharagpur | [Maximum Profit with Power-of-Two Costs](../companies/de-shaw.md#q3-maximum-profit-with-power-of-two-costs) | ≈ [LC 2835](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/) Hard |
 | 2026-11-25 | [Commonwealth Bank of Australia](../companies/commonwealth-bank-of-australia.md) | Unknown | [CBA interview topics (summary of 5 experiences)](../companies/commonwealth-bank-of-australia.md#q1-cba-interview-topics-summary-of-5-experiences) | |

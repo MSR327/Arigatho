@@ -191,6 +191,7 @@ For each OA coding question, the nearest problem on a practice site (LeetCode, G
 | [LeetCode 203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [Paytm](companies/paytm.md#q10-linked-list-deletion-variant) (Unknown) | 1 |
 | [LeetCode 2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | Medium | [Capital One](companies/capital-one.md#q1-simple-bank-system) (MNNIT Allahabad) | 1 |
 | [LeetCode 2064. Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | Medium | [Accelequant](companies/accelequant.md#q1-minimized-maximum-of-products-distributed-to-any-store) (IIT Hyderabad) | 1 |
+| [LeetCode 2104. Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | Medium | [Walt Disney](companies/walt-disney.md#q1-sum-of-max-min-over-subarrays-with-length-in-a-b) (IIT Guwahati) | 1 |
 | [LeetCode 2165. Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | Medium | [NatWest](companies/natwest.md#q1-smallest-permutation-of-an-integer) (IIT Guwahati) | 1 |
 | [LeetCode 2208. Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | Medium | [BlackRock](companies/blackrock.md#q1-minimize-array-sum-after-k-halving-operations) (IIIT Delhi) | 1 |
 | [LeetCode 221. Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium | [Eternal (Zomato)](companies/eternal-zomato.md#q4-maximal-square-coding-problem) (Unknown) | 1 |
@@ -248,6 +249,7 @@ For each OA coding question, the nearest problem on a practice site (LeetCode, G
 | [LeetCode 752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | [Cars24](companies/cars24.md#q3-open-the-lock) (Unknown) | 1 |
 | [LeetCode 778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [Commotion](companies/commotion.md#q1-cooling-the-foundry-floor) (IIT Madras) | 1 |
 | [LeetCode 802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [PhyAgent](companies/phyagent.md#q1-safe-state-graph-problem) (IIT Madras) | 1 |
+| [LeetCode 834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | Hard | [Walt Disney](companies/walt-disney.md#q2-total-distance-travelled-by-citizens-to-each-tree-node) (IIT Guwahati) | 1 |
 | [LeetCode 870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | Medium | [Eternal (Zomato)](companies/eternal-zomato.md#q1-maximise-score-by-rearranging-b) (IIT Delhi) | 1 |
 | [LeetCode 871. Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | Hard | [NatWest](companies/natwest.md#q1-lc-871-minimum-number-of-refueling-stops) (IIT Delhi) | 1 |
 | [LeetCode 875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [Tiger Analytics](companies/tiger-analytics.md#q1-binary-search-problem-similar-to-koko-eating-bananas) (IIT BHU) | 1 |

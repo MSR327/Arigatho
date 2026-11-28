@@ -1,13 +1,17 @@
 # Meesho
 
-**6 questions** · 6 drives · latest 25 Nov 2026 · [← all companies](../README.md#companies)
+**9 questions** · 7 drives · latest 27 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [OA Format](../topics/oa-format.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 6 · [OA Format](../topics/oa-format.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Roorkee, NIT Surathkal
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Unknown · Unknown · Senior Associate (Business Management) · Interview](#2026-11-27--unknown--unknown--senior-associate-business-management--interview)
+  - [Resume walkthrough and why Meesho](#q1-resume-walkthrough-and-why-meesho)
+  - [RCA case: students ordering from restaurants outside school](#q2-rca-case-students-ordering-from-restaurants-outside-school)
+  - [Guesstimate: mobile app downloads per day](#q3-guesstimate-mobile-app-downloads-per-day)
 - [2026-11-25 · IIT Roorkee · FTE · Interview](#2026-11-25--iit-roorkee--fte--interview)
   - [Guesstimate: arranged marriages in India per year](#q1-guesstimate-arranged-marriages-in-india-per-year)
 - [2026-11-25 · IIT Guwahati · FTE · Interview](#2026-11-25--iit-guwahati--fte--interview)
@@ -24,6 +28,30 @@
 </details>
 
 ---
+
+## 2026-11-27 · Unknown · Unknown · Senior Associate (Business Management) · Interview
+
+### Q1. Resume walkthrough and why Meesho
+
+Resume walkthrough and "Why Meesho?"
+
+(Summarised from 1 shared experience, which reported only one interview round.)
+
+<sub>Topics: HR & Behavioral · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L777)</sub>
+
+### Q2. RCA case: students ordering from restaurants outside school
+
+Case study: an RCA (root cause analysis) on students ordering from 4 restaurants outside school.
+
+The full case statement was not given.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L777)</sub>
+
+### Q3. Guesstimate: mobile app downloads per day
+
+Guesstimate the number of mobile apps downloaded per day.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L777)</sub>
 
 ## 2026-11-25 · IIT Roorkee · FTE · Interview
 
