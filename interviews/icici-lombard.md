@@ -1,6 +1,6 @@
 # ICICI Lombard: interviews
 
-**3 written experiences**, newest first · [← all companies](README.md)
+**3 written experiences**, newest first · [OA questions](../companies/icici-lombard.md) · [← all companies](README.md)
 
 ## 2025-26 season · Data Science · IIT Kanpur · on-campus
 

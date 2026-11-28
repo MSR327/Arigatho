@@ -1,13 +1,15 @@
 # Unknown
 
-**60 questions** · 43 drives · latest 24 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**61 questions** · 44 drives · latest 27 Nov 2026 · [16 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 30 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · +17 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 31 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 5 · [Graphs](../topics/graphs.md) 5 · [Math](../topics/math.md) 4 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [DP](../topics/dp.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · +17 more  
 **Seen at:** IIIT, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur +10 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · IIT Roorkee · FTE](#2026-11-27--iit-roorkee--fte)
+  - [OA pattern: aptitude and Python output questions](#q1-oa-pattern-aptitude-and-python-output-questions)
 - [2026-11-24 · IIT Hyderabad · FTE](#2026-11-24--iit-hyderabad--fte)
   - [Evernorth OA pattern](#q1-evernorth-oa-pattern)
 - [2026-11-22 · IIT Kharagpur/Kanpur · FTE](#2026-11-22--iit-kharagpurkanpur--fte)
@@ -115,6 +117,18 @@
 </details>
 
 ---
+
+## 2026-11-27 · IIT Roorkee · FTE
+
+### Q1. OA pattern: aptitude and Python output questions
+
+Shared in reply to a request for the OA questions/pattern of L&T Finance, Tata AIG and Collins Aerospace (the reply does not say which of these it refers to).
+
+- Mainly aptitude, described as easy
+- Some Python code snippet output-based questions
+- Aptitude: verbal, quantitative (mainly percentage-based questions) and reasoning questions
+
+<sub>Topics: OA Format · Source: [chat, 27 Nov](../archive/campus-iit-roorkee-placements/2026-11.jsonl#L770)</sub>
 
 ## 2026-11-24 · IIT Hyderabad · FTE
 

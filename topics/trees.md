@@ -1,11 +1,12 @@
 # Trees
 
-84 questions from 41 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+86 questions from 43 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-27 | [Point72](../companies/point72.md) | Unknown | [DSA topics: graphs, DP and trees](../companies/point72.md#q1-dsa-topics-graphs-dp-and-trees) | |
 | 2026-11-27 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Total distance travelled by citizens to each tree node](../companies/walt-disney.md#q2-total-distance-travelled-by-citizens-to-each-tree-node) | [LC 834](https://leetcode.com/problems/sum-of-distances-in-tree/) Hard |
+| 2026-11-27 | [Wex](../companies/wex.md) | Unknown | [Medium DSA question in first round](../companies/wex.md#q2-medium-dsa-question-in-first-round) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
 | 2026-11-26 | [Moneyview](../companies/moneyview.md) | Unknown | [Last Number from Completely Filled Levels](../companies/moneyview.md#q1-last-number-from-completely-filled-levels) | ≈ [LC 199](https://leetcode.com/problems/binary-tree-right-side-view/) Medium |
 | 2026-11-24 | [KLA](../companies/kla.md) | MNNIT Allahabad | [Sliding window and tree diameter coding](../companies/kla.md#q1-sliding-window-and-tree-diameter-coding) | [LC 543](https://leetcode.com/problems/diameter-of-binary-tree/) Easy |
 | 2026-11-21 | [Juspay](../companies/juspay.md) | IIT Roorkee | [Employee Removal Order](../companies/juspay.md#q1-employee-removal-order) | ≈ [LC 210](https://leetcode.com/problems/course-schedule-ii/) Medium |
@@ -59,6 +60,7 @@
 | 2026-10-22 | [Alight Solutions](../companies/alight-solutions.md) | IIT Roorkee | [Height of binary tree: find the error](../companies/alight-solutions.md#q3-height-of-binary-tree-find-the-error) | [LC 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) Easy |
 | 2026-10-19 | [Media.net](../companies/media-net.md) | MNNIT Allahabad | [Segment tree problem](../companies/media-net.md#q2-segment-tree-problem) | |
 | 2026-10-18 | [Juspay](../companies/juspay.md) | IIIT Allahabad | [Sync Engine](../companies/juspay.md#q1-sync-engine) | |
+| 2026-10-17 | [NexusOne](../companies/nexusone.md) | IIT BHU | [NexusOne OA pattern (IIT BHU)](../companies/nexusone.md#q1-nexusone-oa-pattern-iit-bhu) | |
 | 2026-10-16 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | [Tree DFS bringing result up](../companies/deutsche-bank.md#q1-tree-dfs-bringing-result-up) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | IIT Delhi | [Codeforces 592D](../companies/harness.md#q1-codeforces-592d) | [CF 592D](https://codeforces.com/problemset/problem/592/D) rated 2200 |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Binary Tree Traversals (MSQ)](../companies/harness.md#q5-binary-tree-traversals-msq) | |

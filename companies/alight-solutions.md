@@ -1,9 +1,9 @@
 # Alight Solutions
 
-**18 questions** · 9 drives · latest 24 Oct 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**18 questions** · 9 drives · latest 28 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 7 · [Arrays](../topics/arrays.md) 4 · [DP](../topics/dp.md) 4 · [Aptitude](../topics/aptitude.md) 2 · [Puzzles](../topics/puzzles.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · [Other](../topics/other.md) 1 · [Graphs](../topics/graphs.md) 1 · +5 more  
-**Seen at:** IIT Delhi, IIT Hyderabad, IIT Roorkee
+**Seen at:** IIT BHU, IIT Delhi, IIT Hyderabad, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -54,7 +54,7 @@ Summary based on 4 shared experiences. Interviews were on campus, held Oct 24 to
 
 The specific questions are not given.
 
-<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/alight-solutions-oa/2026-11.jsonl#L8), [chat, 26 Nov](../archive/alight-solutions-oa/2026-11.jsonl#L10)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/alight-solutions-oa/2026-11.jsonl#L8), [chat, 26 Nov](../archive/alight-solutions-oa/2026-11.jsonl#L10) · Also asked at: IIT BHU ×3 (last 2026-11-28)</sub>
 
 ## 2026-10-22 · IIT Roorkee · FTE
 

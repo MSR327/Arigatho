@@ -1,13 +1,20 @@
 # Mastercard
 
-**20 questions** · 11 drives · latest 26 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**26 questions** · 12 drives · latest 27 Nov 2026 · [5 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Other](../topics/other.md) 4 · [Arrays](../topics/arrays.md) 3 · [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [SQL](../topics/sql.md) 2 · [Math](../topics/math.md) 2 · [Sorting](../topics/sorting.md) 1 · +3 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Other](../topics/other.md) 5 · [SQL](../topics/sql.md) 4 · [Arrays](../topics/arrays.md) 3 · [Math](../topics/math.md) 3 · [DP](../topics/dp.md) 2 · [Strings](../topics/strings.md) 2 · [ML/AI](../topics/ml-ai.md) 2 · +5 more  
 **Seen at:** IIIT, IIIT Sri City, IIT BHU, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Unknown · FTE · Data Scientist · Interview](#2026-11-27--unknown--fte--data-scientist--interview)
+  - [Machine learning fundamentals](#q1-machine-learning-fundamentals)
+  - [SQL joins and GROUP BY queries](#q2-sql-joins-and-group-by-queries)
+  - [Second-highest salary SQL query](#q3-second-highest-salary-sql-query)
+  - [Resume and ML project discussion](#q4-resume-and-ml-project-discussion)
+  - [Probability and basic DSA questions](#q5-probability-and-basic-dsa-questions)
+  - [HR round questions](#q6-hr-round-questions)
 - [2026-11-26 · IIT BHU · FTE](#2026-11-26--iit-bhu--fte)
   - [Min changes to split array into K equal-value groups](#q1-min-changes-to-split-array-into-k-equal-value-groups)
 - [2026-10-31 · IIT Roorkee · FTE · Data Science](#2026-10-31--iit-roorkee--fte--data-science)
@@ -44,6 +51,57 @@
 
 ---
 
+## 2026-11-27 · Unknown · FTE · Data Scientist · Interview
+
+### Q1. Machine learning fundamentals
+
+Explain:
+- Logistic regression
+- Decision trees
+- Random Forest
+- Overfitting and underfitting
+- Bias-variance tradeoff
+- L1 and L2 regularization
+- Precision, recall and confusion matrices
+
+The technical interview also covered Python and statistics.
+
+<sub>Topics: ML/AI · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2764)</sub>
+
+### Q2. SQL joins and GROUP BY queries
+
+Write SQL queries involving joins and GROUP BY. The exact queries were not given.
+
+<sub>Topics: SQL · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2764)</sub>
+
+### Q3. Second-highest salary SQL query
+
+Write a SQL query to find the second-highest salary.
+
+<sub>Topics: SQL · Similar: [LeetCode 176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) (Medium) · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2764)</sub>
+
+### Q4. Resume and ML project discussion
+
+Discussion of resume and machine learning projects: the algorithms used, data preprocessing, missing-value handling, evaluation metrics and possible improvements.
+
+<sub>Topics: ML/AI, HR & Behavioral · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2764)</sub>
+
+### Q5. Probability and basic DSA questions
+
+A few probability-based questions and basic DSA problems. The exact questions were not given.
+
+<sub>Topics: Math, Other · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2764)</sub>
+
+### Q6. HR round questions
+
+- Tell me about yourself.
+- Why Mastercard?
+- Why Data Science?
+- Strengths and weaknesses.
+- Relocation preferences.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2764)</sub>
+
 ## 2026-11-26 · IIT BHU · FTE
 
 ### Q1. Min changes to split array into K equal-value groups
@@ -64,7 +122,7 @@ Print the minimum number of such operations required to partition the array.
 
 15 aptitude questions + 7-8 technical MCQs + 3 DSA problems.
 
-<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L16), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L18), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L19), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L20) · Also asked at: IIIT (2026-11-03), Unknown (2026-11-26)</sub>
+<sub>Topics: OA Format · Source: [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L16), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L18), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L19), [chat, 31 Oct](../archive/mastercard-oa/2026-10.jsonl#L20) · Also asked at: IIIT (2026-11-03), Unknown ×2 (last 2026-11-27)</sub>
 
 ### Q2. Make graph complete by node operations
 

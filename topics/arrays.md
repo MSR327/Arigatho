@@ -1,10 +1,14 @@
 # Arrays
 
-299 questions from 82 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+304 questions from 84 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Microsoft](../companies/microsoft.md) | Unknown | [Maximum product of three numbers](../companies/microsoft.md#q2-maximum-product-of-three-numbers) | [LC 628](https://leetcode.com/problems/maximum-product-of-three-numbers/) Easy |
 | 2026-11-27 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Sum of max-min over subarrays with length in [a, b]](../companies/walt-disney.md#q1-sum-of-max-min-over-subarrays-with-length-in-a-b) | [LC 2104](https://leetcode.com/problems/sum-of-subarray-ranges/) Medium |
+| 2026-11-27 | [Standard Chartered](../companies/standard-chartered.md) | Unknown | [Subarray with given sum](../companies/standard-chartered.md#q2-subarray-with-given-sum) | [LC 560](https://leetcode.com/problems/subarray-sum-equals-k/) Medium |
+| 2026-11-27 | [Standard Chartered](../companies/standard-chartered.md) | Unknown | [Standard Chartered OA pattern](../companies/standard-chartered.md#q1-standard-chartered-oa-pattern) | |
+| 2026-11-27 | [DE Shaw](../companies/de-shaw.md) | IIT Roorkee | [Prefix sum problem](../companies/de-shaw.md#q2-prefix-sum-problem) | |
 | 2026-11-26 | [Mastercard](../companies/mastercard.md) | IIT BHU | [Min changes to split array into K equal-value groups](../companies/mastercard.md#q1-min-changes-to-split-array-into-k-equal-value-groups) | ≈ [LC 1278](https://leetcode.com/problems/palindrome-partitioning-iii/) Hard |
 | 2026-11-26 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Sliding window max-min for size k](../companies/walt-disney.md#q1-sliding-window-max-min-for-size-k) | [LC 239](https://leetcode.com/problems/sliding-window-maximum/) Hard |
 | 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | IIT Kharagpur | [Interval Coverage XOR](../companies/de-shaw.md#q1-interval-coverage-xor) | ≈ [LC 1943](https://leetcode.com/problems/describe-the-painting/) Medium |
@@ -205,6 +209,7 @@
 | 2026-10-17 | [Honda](../companies/honda.md) | IIT Madras | [Square with minimum area enclosing k points](../companies/honda.md#q1-square-with-minimum-area-enclosing-k-points) | |
 | 2026-10-17 | [Media.net](../companies/media-net.md) | Delhi Technological University | [Trapping Rain Water II](../companies/media-net.md#q1-trapping-rain-water-ii) | [LC 407](https://leetcode.com/problems/trapping-rain-water-ii/) Hard |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Count contiguous groups of same-sign elements](../companies/accenture.md#q1-count-contiguous-groups-of-same-sign-elements) | ≈ [LC 1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) Medium |
+| 2026-10-17 | [NexusOne](../companies/nexusone.md) | IIT BHU | [NexusOne OA pattern (IIT BHU)](../companies/nexusone.md#q1-nexusone-oa-pattern-iit-bhu) | |
 | 2026-10-16 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Count contiguous groups of same-sign elements](../companies/accenture.md#q1-count-contiguous-groups-of-same-sign-elements-1) | ≈ [LC 1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) Medium |
 | 2026-10-16 | [Harness](../companies/harness.md) | MNNIT Allahabad | [Count Inversions (MCQ)](../companies/harness.md#q7-count-inversions-mcq) | ≈ [LC 315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) Hard |
 | 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Subarrays with GCD Equal to G](../companies/meltwater.md#q3-subarrays-with-gcd-equal-to-g) | [LC 2447](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) Medium |

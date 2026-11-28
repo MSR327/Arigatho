@@ -1,8 +1,8 @@
 # Meesho
 
-**9 questions** · 7 drives · latest 27 Nov 2026 · [← all companies](../README.md#companies)
+**10 questions** · 8 drives · latest 27 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 6 · [OA Format](../topics/oa-format.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2  
+**Asks about:** [Guesstimates & Cases](../topics/guesstimates-cases.md) 7 · [HR & Behavioral](../topics/hr-behavioral.md) 3 · [OA Format](../topics/oa-format.md) 2 · [SQL](../topics/sql.md) 1  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Roorkee, NIT Surathkal
 
 <details>
@@ -12,6 +12,8 @@
   - [Resume walkthrough and why Meesho](#q1-resume-walkthrough-and-why-meesho)
   - [RCA case: students ordering from restaurants outside school](#q2-rca-case-students-ordering-from-restaurants-outside-school)
   - [Guesstimate: mobile app downloads per day](#q3-guesstimate-mobile-app-downloads-per-day)
+- [2026-11-27 · Unknown · Unknown · Analyst/Business · Interview](#2026-11-27--unknown--unknown--analystbusiness--interview)
+  - [Meesho analyst and business role interview topics](#q1-meesho-analyst-and-business-role-interview-topics)
 - [2026-11-25 · IIT Roorkee · FTE · Interview](#2026-11-25--iit-roorkee--fte--interview)
   - [Guesstimate: arranged marriages in India per year](#q1-guesstimate-arranged-marriages-in-india-per-year)
 - [2026-11-25 · IIT Guwahati · FTE · Interview](#2026-11-25--iit-guwahati--fte--interview)
@@ -52,6 +54,21 @@ The full case statement was not given.
 Guesstimate the number of mobile apps downloaded per day.
 
 <sub>Topics: Guesstimates & Cases · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L777)</sub>
+
+## 2026-11-27 · Unknown · Unknown · Analyst/Business · Interview
+
+### Q1. Meesho analyst and business role interview topics
+
+From 3 shared experiences for analyst/business roles:
+
+- SQL
+- Guesstimates
+- Case study
+- Resume, projects and "why Meesho" HR questions came up too
+
+Specific questions were not given.
+
+<sub>Topics: SQL, Guesstimates & Cases, HR & Behavioral · Source: [chat, 27 Nov](../archive/meesho-oa/2026-11.jsonl#L46)</sub>
 
 ## 2026-11-25 · IIT Roorkee · FTE · Interview
 

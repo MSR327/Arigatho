@@ -1,9 +1,9 @@
 # Moneyview
 
-**11 questions** · 11 drives · latest 26 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**11 questions** · 11 drives · latest 27 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 10 · [Aptitude](../topics/aptitude.md) 4 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Python & Pandas](../topics/python-pandas.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · [Trees](../topics/trees.md) 1  
-**Seen at:** IIT BHU, IIT Kharagpur, IIT Roorkee, NIT Jamshedpur, NIT Surathkal, NIT Trichy
+**Seen at:** IIT BHU, IIT Guwahati, IIT Kharagpur, IIT Roorkee, NIT Jamshedpur, NIT Surathkal, NIT Trichy
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
@@ -81,7 +81,7 @@ Summary based on 5 shared experiences:
 
 Individual questions not given.
 
-<sub>Topics: OA Format, OS/DBMS/CN MCQ, Software Engineering · Source: [chat, 24 Nov](../archive/inter-nit/2026-11.jsonl#L2452) · Also asked at: Unknown ×3 (last 2026-11-26)</sub>
+<sub>Topics: OA Format, OS/DBMS/CN MCQ, Software Engineering · Source: [chat, 24 Nov](../archive/inter-nit/2026-11.jsonl#L2452) · Also asked at: Unknown ×4 (last 2026-11-27)</sub>
 
 ## 2026-11-24 · NIT Trichy · FTE
 
@@ -89,7 +89,7 @@ Individual questions not given.
 
 2 coding questions + some quant/logical MCQs (summary of shared experiences). Individual questions not given.
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 24 Nov](../archive/inter-nit/2026-11.jsonl#L2452) · Also asked at: NIT Trichy ×2 (last 2026-11-26)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 24 Nov](../archive/inter-nit/2026-11.jsonl#L2452) · Also asked at: NIT Trichy ×3 (last 2026-11-26)</sub>
 
 ## 2026-11-24 · NIT Jamshedpur · FTE
 
@@ -97,7 +97,7 @@ Individual questions not given.
 
 3 coding questions + aptitude (summary of shared experiences). Individual questions not given.
 
-<sub>Topics: OA Format, Aptitude · Source: [chat, 24 Nov](../archive/inter-nit/2026-11.jsonl#L2452) · Also asked at: Unknown (2026-11-25), NIT Jamshedpur ×2 (last 2026-11-26)</sub>
+<sub>Topics: OA Format, Aptitude · Source: [chat, 24 Nov](../archive/inter-nit/2026-11.jsonl#L2452) · Also asked at: Unknown (2026-11-25), NIT Jamshedpur ×3 (last 2026-11-26)</sub>
 
 ## 2026-11-24 · IIT BHU · FTE · Business Analyst
 
@@ -108,7 +108,7 @@ Previous year's pattern:
 - Section 1: MCQs on Aptitude and Logical Reasoning, Quant, Data Interpretation; 30 questions, 45 min.
 - Section 2: 8 questions, 15 min, on data-science-related math and Python.
 
-<sub>Topics: OA Format, Aptitude, Python & Pandas · Source: [chat, 24 Nov](../archive/moneyview-oa/2026-11.jsonl#L4), [chat, 24 Nov](../archive/moneyview-oa/2026-11.jsonl#L6)</sub>
+<sub>Topics: OA Format, Aptitude, Python & Pandas · Source: [chat, 24 Nov](../archive/moneyview-oa/2026-11.jsonl#L4), [chat, 24 Nov](../archive/moneyview-oa/2026-11.jsonl#L6) · Also asked at: IIT Guwahati (2026-11-27)</sub>
 
 ## 2026-11-24 · IIT BHU · FTE · Data Scientist
 

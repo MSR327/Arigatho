@@ -1,6 +1,6 @@
 # Deloitte
 
-**79 questions** · 25 drives · latest 26 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**79 questions** · 25 drives · latest 27 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [Aptitude](../topics/aptitude.md) 23 · [OA Format](../topics/oa-format.md) 17 · [Verbal](../topics/verbal.md) 9 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 9 · [ML/AI](../topics/ml-ai.md) 8 · [SQL](../topics/sql.md) 7 · [Math](../topics/math.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 6 · +14 more  
 **Seen at:** IIT BHU, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Indore, IIT Kanpur, IIT Roorkee, IIT Ropar +5 more
@@ -127,7 +127,7 @@ Summary based on 4 shared experiences.
 
 Full question statements are not given.
 
-<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/deloitte-oa/2026-11.jsonl#L151)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/deloitte-oa/2026-11.jsonl#L151) · Also asked at: Unknown (2026-11-27)</sub>
 
 ## 2026-11-26 · IIT Roorkee · FTE
 

@@ -1,9 +1,10 @@
 # Digital Electronics
 
-35 questions from 7 companys, newest first. [← all topics](../README.md#topics)
+36 questions from 8 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-27 | [Qualcomm](../companies/qualcomm.md) | Netaji Subhas University of Technology | [Qualcomm hardware interview topics](../companies/qualcomm.md#q1-qualcomm-hardware-interview-topics) |
 | 2026-11-26 | [DATOMS](../companies/datoms.md) | IIT Roorkee | [DATOMS technical interview rounds](../companies/datoms.md#q1-datoms-technical-interview-rounds) |
 | 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Verilog: overlap-safe memory block copy or shift](../companies/ibm.md#q3-verilog-overlap-safe-memory-block-copy-or-shift) |
 | 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Verilog: sequence detector or bus handshake](../companies/ibm.md#q2-verilog-sequence-detector-or-bus-handshake) |

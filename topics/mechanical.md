@@ -1,10 +1,14 @@
 # Mechanical
 
-58 questions from 4 companys, newest first. [← all topics](../README.md#topics)
+62 questions from 6 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-27 | [Skyroot Aerospace](../companies/skyroot-aerospace.md) | IIT BHU | [Skyroot OA sections and difficulty](../companies/skyroot-aerospace.md#q1-skyroot-oa-sections-and-difficulty) |
+| 2026-11-27 | [Petronet LNG](../companies/petronet-lng.md) | IIT Roorkee | [Work of a pump](../companies/petronet-lng.md#q2-work-of-a-pump) |
+| 2026-11-27 | [Petronet LNG](../companies/petronet-lng.md) | IIT Roorkee | [What is Reynolds number?](../companies/petronet-lng.md#q1-what-is-reynolds-number) |
 | 2026-11-07 | [SEDEMAC](../companies/sedemac.md) | IIT Indore | [SEDEMAC Round 2 technical MCQ test format](../companies/sedemac.md#q1-sedemac-round-2-technical-mcq-test-format) |
+| 2026-10-18 | [Skyroot Aerospace](../companies/skyroot-aerospace.md) | Unknown | [Skyroot Aerospace OA pattern](../companies/skyroot-aerospace.md#q1-skyroot-aerospace-oa-pattern) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Axial thrust in pump shaft](../companies/reliance.md#q89-axial-thrust-in-pump-shaft) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Heat addition at constant volume](../companies/reliance.md#q78-heat-addition-at-constant-volume) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Number of inversions of a mechanism](../companies/reliance.md#q67-number-of-inversions-of-a-mechanism) |

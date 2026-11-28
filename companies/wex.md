@@ -1,13 +1,18 @@
 # Wex
 
-**2 questions** · 1 drive · latest 19 Nov 2026 · [1 practice problem](../practice.md) · [← all companies](../README.md#companies)
+**6 questions** · 2 drives · latest 27 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 1 · [Strings](../topics/strings.md) 1 · [DP](../topics/dp.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 1 · [Strings](../topics/strings.md) 1 · [DP](../topics/dp.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1 · [Graphs](../topics/graphs.md) 1 · [Trees](../topics/trees.md) 1 · [Sorting](../topics/sorting.md) 1 · [Software Engineering](../topics/software-engineering.md) 1 · +1 more  
 **Seen at:** IIT Guwahati, IIT Kharagpur/Kanpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Unknown · FTE · Interview](#2026-11-27--unknown--fte--interview)
+  - [Resume projects discussion](#q1-resume-projects-discussion)
+  - [Medium DSA question in first round](#q2-medium-dsa-question-in-first-round)
+  - [LLD, system design and HLD](#q3-lld-system-design-and-hld)
+  - [OS and DBMS questions](#q4-os-and-dbms-questions)
 - [2026-11-04 · IIT Guwahati · FTE](#2026-11-04--iit-guwahati--fte)
   - [Wex OA pattern](#q1-wex-oa-pattern)
   - [Minimum edit distance](#q2-minimum-edit-distance)
@@ -15,6 +20,38 @@
 </details>
 
 ---
+
+## 2026-11-27 · Unknown · FTE · Interview
+
+### Q1. Resume projects discussion
+
+First round: resume projects. Interviews were mostly tech rounds (from 4 shared experiences).
+
+<sub>Topics: HR & Behavioral · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2744)</sub>
+
+### Q2. Medium DSA question in first round
+
+First round had 1 medium DSA question. Examples given: BFS, all paths in a graph, tree diameter, merge intervals.
+
+Full problem statements are not given.
+
+<sub>Topics: Graphs, Trees, Sorting · Close variant: [LeetCode 56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) (Medium), merge intervals is one of the given examples · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2744)</sub>
+
+### Q3. LLD, system design and HLD
+
+Later rounds covered LLD, system design and HLD.
+
+Specific questions are not given.
+
+<sub>Topics: Software Engineering · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2744)</sub>
+
+### Q4. OS and DBMS questions
+
+Later rounds covered OS (semaphores, mutex) and DBMS.
+
+Specific questions are not given.
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2744)</sub>
 
 ## 2026-11-04 · IIT Guwahati · FTE
 

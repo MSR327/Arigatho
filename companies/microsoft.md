@@ -1,15 +1,19 @@
 # Microsoft
 
-**26 questions** · 18 drives · latest 27 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**30 questions** · 18 drives · latest 27 Nov 2026 · [15 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 7 · [Strings](../topics/strings.md) 4 · [Greedy](../topics/greedy.md) 4 · [Sorting](../topics/sorting.md) 3 · [Hashing](../topics/hashing.md) 3 · [DP](../topics/dp.md) 3 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · +8 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 8 · [Strings](../topics/strings.md) 5 · [Sorting](../topics/sorting.md) 4 · [Greedy](../topics/greedy.md) 4 · [DP](../topics/dp.md) 4 · [Hashing](../topics/hashing.md) 3 · [Math](../topics/math.md) 3 · +11 more  
 **Seen at:** BITS Pilani, IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
 - [2026-11-27 · Unknown · Unknown · Interview](#2026-11-27--unknown--unknown--interview)
-  - [DSA and projects interview after OA](#q1-dsa-and-projects-interview-after-oa)
+  - [Longest palindromic substring](#q1-longest-palindromic-substring)
+  - [Maximum product of three numbers](#q2-maximum-product-of-three-numbers)
+  - [Course order using topological sort](#q3-course-order-using-topological-sort)
+  - [Low-level design such as a parking lot](#q4-low-level-design-such-as-a-parking-lot)
+  - [DSA and projects interview after OA](#q5-dsa-and-projects-interview-after-oa)
 - [2026-11-11 · IIT Kharagpur/Kanpur · FTE](#2026-11-11--iit-kharagpurkanpur--fte)
   - [2D prefix sum grid](#q1-2d-prefix-sum-grid)
 - [2026-11-11 · IIT Bombay · FTE](#2026-11-11--iit-bombay--fte)
@@ -59,13 +63,45 @@
 
 ## 2026-11-27 · Unknown · Unknown · Interview
 
-### Q1. DSA and projects interview after OA
+### Q1. Longest palindromic substring
+
+Longest palindromic substring.
+
+Given as an example question; the full statement was not shared.
+
+<sub>Topics: Strings, DP · Similar: [LeetCode 5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (Medium) · Source: [chat, 27 Nov](../archive/microsoft-oa/2026-11.jsonl#L68)</sub>
+
+### Q2. Maximum product of three numbers
+
+Max product of 3 numbers.
+
+Given as an example question; the full statement was not shared.
+
+<sub>Topics: Arrays, Math, Sorting · Similar: [LeetCode 628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) (Easy) · Source: [chat, 27 Nov](../archive/microsoft-oa/2026-11.jsonl#L68)</sub>
+
+### Q3. Course order using topological sort
+
+Course order (topological sort).
+
+Given as an example question; the full statement was not shared.
+
+<sub>Topics: Graphs · Similar: [LeetCode 210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (Medium) · Source: [chat, 27 Nov](../archive/microsoft-oa/2026-11.jsonl#L68)</sub>
+
+### Q4. Low-level design such as a parking lot
+
+One candidate also got a small LLD question, like parking lot design.
+
+Detailed requirements were not given.
+
+<sub>Topics: OOP, Software Engineering · Source: [chat, 27 Nov](../archive/microsoft-oa/2026-11.jsonl#L68)</sub>
+
+### Q5. DSA and projects interview after OA
 
 After the OA, interviews were mostly DSA + projects (from 4 experiences). Round 1 is basically the OA + a tech round, not an aptitude round.
 
 Specific questions were not given.
 
-<sub>Topics: Other, HR & Behavioral · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L781)</sub>
+<sub>Topics: Other, HR & Behavioral · Source: [chat, 27 Nov](../archive/campus-iit-bhu-placements/2026-11.jsonl#L781) · Also asked at: Unknown (2026-11-27)</sub>
 
 ## 2026-11-11 · IIT Kharagpur/Kanpur · FTE
 
@@ -209,7 +245,7 @@ Shared approach: sorting + greedy.
 
 Microsoft OA had 2 DSA questions, easy-medium difficulty. (Question statements not shared.)
 
-<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1023) · Also asked at: Unknown (2026-11-27)</sub>
+<sub>Topics: OA Format · Source: [chat, 9 Nov](../archive/inter-nit/2026-11.jsonl#L1023) · Also asked at: Unknown ×2 (last 2026-11-27), IIT Guwahati (2026-11-27)</sub>
 
 ## 2026-11-08 · IIT Madras · FTE
 

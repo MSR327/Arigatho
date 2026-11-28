@@ -1,9 +1,31 @@
 # OA Format
 
-989 questions from 178 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+1015 questions from 185 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-28 | [Risa Labs](../companies/risa-labs.md) | IIT Kharagpur | [Risa Labs MTS OA format](../companies/risa-labs.md#q1-risa-labs-mts-oa-format) | |
+| 2026-11-27 | [Cognizant](../companies/cognizant.md) | Unknown | [Cognizant OA pattern summary](../companies/cognizant.md#q1-cognizant-oa-pattern-summary) | |
+| 2026-11-27 | [Capital One](../companies/capital-one.md) | IIT BHU | [Capital One hard question, about CF 1900](../companies/capital-one.md#q1-capital-one-hard-question-about-cf-1900) | |
+| 2026-11-27 | [Capital One](../companies/capital-one.md) | IIT Kharagpur/Kanpur | [Capital One round 2: two questions](../companies/capital-one.md#q1-capital-one-round-2-two-questions) | |
+| 2026-11-27 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Walt Disney DA OA format](../companies/walt-disney.md#q1-walt-disney-da-oa-format) | |
+| 2026-11-27 | [Unknown](../companies/unknown.md) | IIT Roorkee | [OA pattern: aptitude and Python output questions](../companies/unknown.md#q1-oa-pattern-aptitude-and-python-output-questions) | |
+| 2026-11-27 | [Axis Bank](../companies/axis-bank.md) | Unknown | [Axis Bank OA pattern by role](../companies/axis-bank.md#q1-axis-bank-oa-pattern-by-role) | |
+| 2026-11-27 | [IBM](../companies/ibm.md) | Unknown | [IBM SDE interview topics summary](../companies/ibm.md#q1-ibm-sde-interview-topics-summary) | [LC 215](https://leetcode.com/problems/kth-largest-element-in-an-array/) Medium |
+| 2026-11-27 | [Qualcomm](../companies/qualcomm.md) | Netaji Subhas University of Technology | [Qualcomm hardware interview topics](../companies/qualcomm.md#q1-qualcomm-hardware-interview-topics) | |
+| 2026-11-27 | [Skyroot Aerospace](../companies/skyroot-aerospace.md) | IIT BHU | [Skyroot OA sections and difficulty](../companies/skyroot-aerospace.md#q1-skyroot-oa-sections-and-difficulty) | |
+| 2026-11-27 | [InMobi](../companies/inmobi.md) | Unknown | [InMobi interview topics summary](../companies/inmobi.md#q1-inmobi-interview-topics-summary) | |
+| 2026-11-27 | [Standard Chartered](../companies/standard-chartered.md) | Unknown | [Standard Chartered interview rounds and topics](../companies/standard-chartered.md#q1-standard-chartered-interview-rounds-and-topics) | |
+| 2026-11-27 | [Standard Chartered](../companies/standard-chartered.md) | Unknown | [Standard Chartered OA pattern](../companies/standard-chartered.md#q1-standard-chartered-oa-pattern) | |
+| 2026-11-27 | [Paytm](../companies/paytm.md) | NIT Surathkal | [Paytm OA question and topic list](../companies/paytm.md#q1-paytm-oa-question-and-topic-list) | |
+| 2026-11-27 | [Standard Chartered](../companies/standard-chartered.md) | IIT BHU | [Standard Chartered behavioural and reasoning round](../companies/standard-chartered.md#q1-standard-chartered-behavioural-and-reasoning-round) | |
+| 2026-11-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIIT | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern-1) | |
+| 2026-11-27 | [Micron](../companies/micron.md) | Unknown | [Micron OA question and topic list](../companies/micron.md#q1-micron-oa-question-and-topic-list) | |
+| 2026-11-27 | [IDFC First Bank](../companies/idfc-first-bank.md) | IIT Guwahati | [IDFC First Bank round 2 pattern](../companies/idfc-first-bank.md#q1-idfc-first-bank-round-2-pattern) | |
+| 2026-11-27 | [ICICI Lombard](../companies/icici-lombard.md) | IIT Guwahati | [ICICI Lombard Manager-1 OA pattern](../companies/icici-lombard.md#q1-icici-lombard-manager-1-oa-pattern) | |
+| 2026-11-27 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Walt Disney Data Engineer OA sections](../companies/walt-disney.md#q1-walt-disney-data-engineer-oa-sections) | |
+| 2026-11-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Guwahati | [Eternal AM role test format](../companies/eternal-zomato.md#q1-eternal-am-role-test-format) | |
+| 2026-11-27 | [Walt Disney](../companies/walt-disney.md) | IIT Madras | [Data Engineer OA pattern](../companies/walt-disney.md#q1-data-engineer-oa-pattern) | |
 | 2026-11-27 | [Petronet LNG](../companies/petronet-lng.md) | IIT Roorkee | [Petronet chemical OA format](../companies/petronet-lng.md#q1-petronet-chemical-oa-format) | |
 | 2026-11-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | VNIT Nagpur | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) | |
 | 2026-11-26 | [HSBC](../companies/hsbc.md) | Unknown | [HSBC OA pattern](../companies/hsbc.md#q1-hsbc-oa-pattern) | |
@@ -245,7 +267,7 @@
 | 2026-11-12 | [Capital One](../companies/capital-one.md) | IIT BHU | [Capital One Round 2 format](../companies/capital-one.md#q1-capital-one-round-2-format) | |
 | 2026-11-12 | [IDFC First Bank](../companies/idfc-first-bank.md) | IIT Delhi | [IDFC First Bank OA format](../companies/idfc-first-bank.md#q1-idfc-first-bank-oa-format) | |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal APM OA: marketing/sales MCQs on dataset](../companies/eternal-zomato.md#q1-eternal-apm-oa-marketingsales-mcqs-on-dataset) | |
-| 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern-1) | |
+| 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern-2) | |
 | 2026-11-12 | [BlackRock](../companies/blackrock.md) | IIT BHU | [BlackRock AI/ML OA format](../companies/blackrock.md#q1-blackrock-aiml-oa-format) | |
 | 2026-11-12 | [Dell](../companies/dell.md) | IIIT Bangalore | [Dell process summary](../companies/dell.md#q1-dell-process-summary) | |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Indore | [Eternal APM OA Excel questions](../companies/eternal-zomato.md#q1-eternal-apm-oa-excel-questions) | |
@@ -482,6 +504,7 @@
 | 2026-11-04 | [Wex](../companies/wex.md) | IIT Guwahati | [Wex OA pattern](../companies/wex.md#q1-wex-oa-pattern) | |
 | 2026-11-04 | [Capital One](../companies/capital-one.md) | VNIT Nagpur | [Capital One Business Analyst OA overview](../companies/capital-one.md#q1-capital-one-business-analyst-oa-overview) | |
 | 2026-11-04 | [Tech Mahindra](../companies/tech-mahindra.md) | Unknown | [Tech Mahindra Technorise interview topics](../companies/tech-mahindra.md#q1-tech-mahindra-technorise-interview-topics) | |
+| 2026-11-03 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Kharagpur | [WhiteOak Capital interview rounds: topics covered](../companies/whiteoak-capital.md#q1-whiteoak-capital-interview-rounds-topics-covered) | |
 | 2026-11-03 | [Shadowfax](../companies/shadowfax.md) | IIT Guwahati | [Shadowfax OA pattern](../companies/shadowfax.md#q1-shadowfax-oa-pattern) | |
 | 2026-11-03 | [Outreach](../companies/outreach.md) | IIT Bombay | [Outreach AI OA pattern](../companies/outreach.md#q1-outreach-ai-oa-pattern) | |
 | 2026-11-03 | [EXL](../companies/exl.md) | IIT BHU | [EXL Consultant OA format](../companies/exl.md#q1-exl-consultant-oa-format) | |
@@ -604,7 +627,7 @@
 | 2026-10-30 | [Deloitte](../companies/deloitte.md) | IIT Indore | [Vibe coding round: write a prompt](../companies/deloitte.md#q1-vibe-coding-round-write-a-prompt) | |
 | 2026-10-30 | [MathWorks](../companies/mathworks.md) | VNIT Nagpur | [MathWorks OA pattern](../companies/mathworks.md#q1-mathworks-oa-pattern-1) | |
 | 2026-10-30 | [LeadSquared](../companies/leadsquared.md) | IIIT Delhi | [LeadSquared OA pattern](../companies/leadsquared.md#q1-leadsquared-oa-pattern) | |
-| 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern-2) | |
+| 2026-10-30 | [Eternal (Zomato)](../companies/eternal-zomato.md) | Unknown | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern-3) | |
 | 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT BHU | [Plutus OA language restriction](../companies/plutus-research.md#q1-plutus-oa-language-restriction) | |
 | 2026-10-30 | [Plutus Research](../companies/plutus-research.md) | IIT Kharagpur/Kanpur | [Plutus OA language allowed](../companies/plutus-research.md#q1-plutus-oa-language-allowed) | |
 | 2026-10-30 | [Tredence](../companies/tredence.md) | IIT Dhanbad | [Tredence AI-based communication round](../companies/tredence.md#q1-tredence-ai-based-communication-round) | |
@@ -836,6 +859,8 @@
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | [OA pattern (Data Engineer role): SQL + MCQs on ML/GenAI/Core CS/Aptitude](../companies/american-express.md#q2-oa-pattern-data-engineer-role-sql--mcqs-on-mlgenaicore-csaptitude) | |
 | 2026-10-18 | [American Express](../companies/american-express.md) | MNNIT Allahabad | [OA pattern (Data Analytics role): MCQs + SQL, no coding](../companies/american-express.md#q1-oa-pattern-data-analytics-role-mcqs--sql-no-coding) | |
 | 2026-10-18 | [Zscaler](../companies/zscaler.md) | IIIT | [Zscaler OA format](../companies/zscaler.md#q1-zscaler-oa-format) | |
+| 2026-10-18 | [NexusOne](../companies/nexusone.md) | IIT Delhi | [NexusOne OA pattern (IIT Delhi)](../companies/nexusone.md#q1-nexusone-oa-pattern-iit-delhi) | |
+| 2026-10-18 | [Skyroot Aerospace](../companies/skyroot-aerospace.md) | Unknown | [Skyroot Aerospace OA pattern](../companies/skyroot-aerospace.md#q1-skyroot-aerospace-oa-pattern) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | NIT Delhi | [DSA question style: LeetCode-type function](../companies/accenture.md#q1-dsa-question-style-leetcode-type-function) | |
 | 2026-10-17 | [Rystad Energy](../companies/rystad-energy.md) | MNNIT Allahabad | [Rystad video assessment round contents](../companies/rystad-energy.md#q1-rystad-video-assessment-round-contents) | |
 | 2026-10-17 | [NetApp](../companies/netapp.md) | IIT BHU | [Interview: 2 DSA questions with approach in 3 minutes](../companies/netapp.md#q1-interview-2-dsa-questions-with-approach-in-3-minutes) | |
@@ -849,6 +874,7 @@
 | 2026-10-17 | [Accenture](../companies/accenture.md) | IIT Hyderabad | [Accenture OA platform and sections](../companies/accenture.md#q4-accenture-oa-platform-and-sections) | |
 | 2026-10-17 | [Cashfree](../companies/cashfree.md) | IIT BHU | [Cashfree OA topics](../companies/cashfree.md#q1-cashfree-oa-topics) | |
 | 2026-10-17 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [AI & Data Tech Grad OA: DSA + AI/ML MCQs](../companies/accenture.md#q1-ai--data-tech-grad-oa-dsa--aiml-mcqs) | |
+| 2026-10-17 | [NexusOne](../companies/nexusone.md) | IIT BHU | [NexusOne OA pattern (IIT BHU)](../companies/nexusone.md#q1-nexusone-oa-pattern-iit-bhu) | |
 | 2026-10-16 | [Accenture](../companies/accenture.md) | IIT Dhanbad | [Elite Technology Engineer process: OA + communication rounds](../companies/accenture.md#q4-elite-technology-engineer-process-oa--communication-rounds) | |
 | 2026-10-16 | [ICICI](../companies/icici.md) | NIT Silchar | [ICICI Tech OA topics](../companies/icici.md#q1-icici-tech-oa-topics) | |
 | 2026-10-16 | [Straive](../companies/straive.md) | IIT Guwahati | [OA pattern: SQL, Python DSA, ability, GenAI and ML/DL MCQs](../companies/straive.md#q1-oa-pattern-sql-python-dsa-ability-genai-and-mldl-mcqs) | |

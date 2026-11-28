@@ -1,13 +1,15 @@
 # InfoEdge
 
-**40 questions** · 12 drives · latest 26 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**41 questions** · 13 drives · latest 27 Nov 2026 · [12 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Arrays](../topics/arrays.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Math](../topics/math.md) 5 · [ML/AI](../topics/ml-ai.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Strings](../topics/strings.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · +12 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 9 · [Math](../topics/math.md) 6 · [Arrays](../topics/arrays.md) 6 · [ML/AI](../topics/ml-ai.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Aptitude](../topics/aptitude.md) 4 · [Strings](../topics/strings.md) 4 · [Python & Pandas](../topics/python-pandas.md) 4 · +13 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Roorkee, MNNIT Allahabad, NIT Kurukshetra +3 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Unknown · Unknown · AI Scientist · Interview](#2026-11-27--unknown--unknown--ai-scientist--interview)
+  - [InfoEdge AI Scientist interview topics](#q1-infoedge-ai-scientist-interview-topics)
 - [2026-11-26 · Thapar Institute of Engineering and Technology · FTE · Interview](#2026-11-26--thapar-institute-of-engineering-and-technology--fte--interview)
   - [LLD asked in Info Edge interview](#q1-lld-asked-in-info-edge-interview)
 - [2026-11-09 · Unknown · FTE](#2026-11-09--unknown--fte)
@@ -64,6 +66,20 @@
 </details>
 
 ---
+
+## 2026-11-27 · Unknown · Unknown · AI Scientist · Interview
+
+### Q1. InfoEdge AI Scientist interview topics
+
+As per 1 shared AI Scientist experience, interviews after the OA were heavy on:
+
+- ML
+- Probability
+- Your projects
+
+Specific questions were not given.
+
+<sub>Topics: ML/AI, Math, HR & Behavioral · Source: [chat, 27 Nov](../archive/info-edge-oa/2026-11.jsonl#L24)</sub>
 
 ## 2026-11-26 · Thapar Institute of Engineering and Technology · FTE · Interview
 
@@ -179,7 +195,7 @@ MCQs on quant, math and programming. Role: Data Scientist.
 
 OA pattern for the AI Scientist role: MCQs on statistics and probability, ML, DL, and Python or pseudocode-type questions.
 
-<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L48) · Also asked at: VNIT Nagpur (2026-11-06)</sub>
+<sub>Topics: OA Format · Source: [chat, 2 Nov](../archive/campus-mnnit-allahabad-placements/2026-11.jsonl#L48) · Also asked at: VNIT Nagpur (2026-11-06), Unknown (2026-11-27)</sub>
 
 ## 2026-10-26 · MNNIT Allahabad · FTE
 

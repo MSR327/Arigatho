@@ -1,9 +1,11 @@
 # Sorting
 
-82 questions from 43 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+84 questions from 44 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Microsoft](../companies/microsoft.md) | Unknown | [Maximum product of three numbers](../companies/microsoft.md#q2-maximum-product-of-three-numbers) | [LC 628](https://leetcode.com/problems/maximum-product-of-three-numbers/) Easy |
+| 2026-11-27 | [Wex](../companies/wex.md) | Unknown | [Medium DSA question in first round](../companies/wex.md#q2-medium-dsa-question-in-first-round) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
 | 2026-11-26 | [DE Shaw](../companies/de-shaw.md) | IIT Kharagpur | [Interval Coverage XOR](../companies/de-shaw.md#q1-interval-coverage-xor) | ≈ [LC 1943](https://leetcode.com/problems/describe-the-painting/) Medium |
 | 2026-11-24 | [AlgoQuant](../companies/algoquant.md) | IIT Bombay | [Rank songs by popularity](../companies/algoquant.md#q1-rank-songs-by-popularity) | ≈ [LC 692](https://leetcode.com/problems/top-k-frequent-words/) Medium |
 | 2026-11-15 | [Ola](../companies/ola.md) | Unknown | [Merge k sorted arrays](../companies/ola.md#q1-merge-k-sorted-arrays) | [GfG](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) |

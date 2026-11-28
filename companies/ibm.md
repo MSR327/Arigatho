@@ -1,13 +1,15 @@
 # IBM
 
-**35 questions** · 22 drives · latest 25 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**36 questions** · 23 drives · latest 27 Nov 2026 · [7 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 13 · [HR & Behavioral](../topics/hr-behavioral.md) 9 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Digital Electronics](../topics/digital-electronics.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · [Greedy](../topics/greedy.md) 2 · [Python & Pandas](../topics/python-pandas.md) 2 · +8 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 14 · [HR & Behavioral](../topics/hr-behavioral.md) 9 · [Web Dev](../topics/web-dev.md) 5 · [Arrays](../topics/arrays.md) 5 · [Digital Electronics](../topics/digital-electronics.md) 4 · [Software Engineering](../topics/software-engineering.md) 3 · [Heaps](../topics/heaps.md) 2 · [Greedy](../topics/greedy.md) 2 · +9 more  
 **Seen at:** IIIT, IIIT Kottayam, IIT BHU, IIT Bombay, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad +7 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Unknown · Unknown · SDE · Interview](#2026-11-27--unknown--unknown--sde--interview)
+  - [IBM SDE interview topics summary](#q1-ibm-sde-interview-topics-summary)
 - [2026-11-25 · IIT BHU · FTE](#2026-11-25--iit-bhu--fte)
   - [Repo task: implement movie pass checks from architecture.md](#q1-repo-task-implement-movie-pass-checks-from-architecturemd)
 - [2026-11-24 · NIT Karnataka Surathkal · Unknown · Hardware](#2026-11-24--nit-karnataka-surathkal--unknown--hardware)
@@ -70,6 +72,18 @@
 
 ---
 
+## 2026-11-27 · Unknown · Unknown · SDE · Interview
+
+### Q1. IBM SDE interview topics summary
+
+Summary from 3 shared SDE experiences; interviews mostly had DSA + OOPs:
+
+- DSA: kth largest, min-heap, priority queue, string and array problems
+- OOPs: polymorphism, virtual functions, abstract classes
+- DBMS (joins, ACID) and OS (deadlock, scheduling) came up in 2 experiences
+
+<sub>Topics: OA Format, Heaps, OOP · Same problem: [LeetCode 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (Medium), Kth largest using a min-heap, as listed · Source: [chat, 27 Nov](../archive/ibm-oa/2026-11.jsonl#L178)</sub>
+
 ## 2026-11-25 · IIT BHU · FTE
 
 ### Q1. Repo task: implement movie pass checks from architecture.md
@@ -130,7 +144,7 @@ Format: IBM competency round, text-based, 4 questions, 7 min 30 sec per question
 
 The competency round has 4 questions, and you need to type out an answer in 7:30 minutes each. They are mostly about things like problems you faced during projects and critical issues you solved.
 
-<sub>Topics: OA Format, HR & Behavioral · Source: [chat, 7 Nov](../archive/ibm-oa/2026-11.jsonl#L76)</sub>
+<sub>Topics: OA Format, HR & Behavioral · Source: [chat, 7 Nov](../archive/ibm-oa/2026-11.jsonl#L76) · Also asked at: IIT Kharagpur/Kanpur (2026-11-27)</sub>
 
 ## 2026-11-07 · IIT Kharagpur/Kanpur · FTE
 

@@ -1,10 +1,13 @@
 # Math
 
-232 questions from 66 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+235 questions from 66 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Mastercard](../companies/mastercard.md) | Unknown | [Probability and basic DSA questions](../companies/mastercard.md#q5-probability-and-basic-dsa-questions) | |
 | 2026-11-27 | [Point72](../companies/point72.md) | Unknown | [Probability puzzles](../companies/point72.md#q4-probability-puzzles) | |
+| 2026-11-27 | [InfoEdge](../companies/infoedge.md) | Unknown | [InfoEdge AI Scientist interview topics](../companies/infoedge.md#q1-infoedge-ai-scientist-interview-topics) | |
+| 2026-11-27 | [Microsoft](../companies/microsoft.md) | Unknown | [Maximum product of three numbers](../companies/microsoft.md#q2-maximum-product-of-three-numbers) | [LC 628](https://leetcode.com/problems/maximum-product-of-three-numbers/) Easy |
 | 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Interview: projects, SQL joins/subqueries and probability](../companies/idfc-first-bank.md#q1-interview-projects-sql-joinssubqueries-and-probability) | |
 | 2026-11-26 | [Auronova Consulting](../companies/auronova-consulting.md) | Unknown | [Auronova analyst interview rounds](../companies/auronova-consulting.md#q1-auronova-analyst-interview-rounds) | |
 | 2026-11-25 | [Nvidia](../companies/nvidia.md) | IIT Bombay | [Nvidia Formal Verification OA: probability and maths](../companies/nvidia.md#q1-nvidia-formal-verification-oa-probability-and-maths) | |

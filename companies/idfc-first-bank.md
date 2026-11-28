@@ -1,13 +1,15 @@
 # IDFC First Bank
 
-**25 questions** · 19 drives · latest 26 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**26 questions** · 20 drives · latest 27 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 15 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [SQL](../topics/sql.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · +5 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 16 · [SQL](../topics/sql.md) 3 · [OS/DBMS/CN MCQ](../topics/os-dbms-cn-mcq.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [HR & Behavioral](../topics/hr-behavioral.md) 2 · [Sliding Window](../topics/sliding-window.md) 1 · [Strings](../topics/strings.md) 1 · [Greedy](../topics/greedy.md) 1 · +5 more  
 **Seen at:** IIIT Allahabad, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kanpur, IIT Kharagpur, IIT Kharagpur/Kanpur +4 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · IIT Guwahati · FTE · Other round](#2026-11-27--iit-guwahati--fte--other-round)
+  - [IDFC First Bank round 2 pattern](#q1-idfc-first-bank-round-2-pattern)
 - [2026-11-26 · Unknown · Unknown](#2026-11-26--unknown--unknown)
   - [IDFC First Bank OA contents and shortlist](#q1-idfc-first-bank-oa-contents-and-shortlist)
 - [2026-11-26 · Unknown · Unknown · Interview](#2026-11-26--unknown--unknown--interview)
@@ -56,6 +58,19 @@
 </details>
 
 ---
+
+## 2026-11-27 · IIT Guwahati · FTE · Other round
+
+### Q1. IDFC First Bank round 2 pattern
+
+Reply to a request for the IDFC round 2 question or pattern:
+
+- 2 SQL questions
+- 1 hard, 1 medium
+
+The actual question statements were not given.
+
+<sub>Topics: SQL, OA Format · Source: [chat, 27 Nov](../archive/idfc-first-bank-oa/2026-11.jsonl#L108)</sub>
 
 ## 2026-11-26 · Unknown · Unknown
 

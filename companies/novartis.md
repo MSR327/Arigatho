@@ -31,4 +31,4 @@ The poster heard that the OA asks AI-related MCQs (such as RAG and agentic AI) a
 
 The OA had 3 DSA questions and some MCQs. Actual questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1159)</sub>
+<sub>Topics: OA Format · Source: [chat, 11 Nov](../archive/inter-nit/2026-11.jsonl#L1159) · Also asked at: Unknown (2026-10-17)</sub>

@@ -1,6 +1,6 @@
 # Axis Bank: interviews
 
-**2 written experiences**, newest first · [← all companies](README.md)
+**2 written experiences**, newest first · [OA questions](../companies/axis-bank.md) · [← all companies](README.md)
 
 ## 2025-26 season · IIT Kanpur · on-campus
 

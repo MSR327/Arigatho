@@ -1,13 +1,15 @@
 # InMobi
 
-**41 questions** · 23 drives · latest 24 Nov 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**42 questions** · 24 drives · latest 27 Nov 2026 · [28 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 13 · [Graphs](../topics/graphs.md) 11 · [DP](../topics/dp.md) 10 · [OA Format](../topics/oa-format.md) 8 · [Binary Search](../topics/binary-search.md) 6 · [Strings](../topics/strings.md) 6 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Greedy](../topics/greedy.md) 2 · +10 more  
+**Asks about:** [Arrays](../topics/arrays.md) 13 · [Graphs](../topics/graphs.md) 12 · [DP](../topics/dp.md) 10 · [OA Format](../topics/oa-format.md) 9 · [Binary Search](../topics/binary-search.md) 6 · [Strings](../topics/strings.md) 6 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 2 · [Greedy](../topics/greedy.md) 2 · +10 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Indore, IIT Kanpur, IIT Kharagpur/Kanpur, IIT Mandi +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Unknown · Unknown · Interview](#2026-11-27--unknown--unknown--interview)
+  - [InMobi interview topics summary](#q1-inmobi-interview-topics-summary)
 - [2026-11-24 · IIT Roorkee · FTE · Interview](#2026-11-24--iit-roorkee--fte--interview)
   - [InMobi interview rounds](#q1-inmobi-interview-rounds)
 - [2026-11-12 · IIT Guwahati · FTE](#2026-11-12--iit-guwahati--fte)
@@ -76,6 +78,23 @@
 </details>
 
 ---
+
+## 2026-11-27 · Unknown · Unknown · Interview
+
+### Q1. InMobi interview topics summary
+
+Interviews happened both on campus (IIIT Hyderabad, as per 2 shared experiences) and off campus (3 shared experiences).
+
+Rounds were mostly:
+
+- DSA (graphs, DP, arrays, greedy)
+- Projects
+- LLD
+- System design
+
+Specific questions were not given.
+
+<sub>Topics: OA Format, Software Engineering, Graphs · Source: [chat, 27 Nov](../archive/inmobi-oa/2026-11.jsonl#L117)</sub>
 
 ## 2026-11-24 · IIT Roorkee · FTE · Interview
 

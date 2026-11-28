@@ -1,9 +1,17 @@
 # SQL
 
-139 questions from 37 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+148 questions from 40 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Walt Disney DA OA format](../companies/walt-disney.md#q1-walt-disney-da-oa-format) | |
+| 2026-11-27 | [Meesho](../companies/meesho.md) | Unknown | [Meesho analyst and business role interview topics](../companies/meesho.md#q1-meesho-analyst-and-business-role-interview-topics) | |
+| 2026-11-27 | [Navi](../companies/navi.md) | Unknown | [SQL join and aggregate queries](../companies/navi.md#q2-sql-join-and-aggregate-queries) | |
+| 2026-11-27 | [NoBroker](../companies/nobroker.md) | IIT Guwahati | [Basic SQL on user data](../companies/nobroker.md#q2-basic-sql-on-user-data) | |
+| 2026-11-27 | [Mastercard](../companies/mastercard.md) | Unknown | [Second-highest salary SQL query](../companies/mastercard.md#q3-second-highest-salary-sql-query) | [LC 176](https://leetcode.com/problems/second-highest-salary/) Medium |
+| 2026-11-27 | [Mastercard](../companies/mastercard.md) | Unknown | [SQL joins and GROUP BY queries](../companies/mastercard.md#q2-sql-joins-and-group-by-queries) | |
+| 2026-11-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIIT | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern-1) | |
+| 2026-11-27 | [IDFC First Bank](../companies/idfc-first-bank.md) | IIT Guwahati | [IDFC First Bank round 2 pattern](../companies/idfc-first-bank.md#q1-idfc-first-bank-round-2-pattern) | |
 | 2026-11-26 | [HSBC](../companies/hsbc.md) | Unknown | [HSBC technical interview topics](../companies/hsbc.md#q1-hsbc-technical-interview-topics) | |
 | 2026-11-26 | [IDFC First Bank](../companies/idfc-first-bank.md) | Unknown | [Interview: projects, SQL joins/subqueries and probability](../companies/idfc-first-bank.md#q1-interview-projects-sql-joinssubqueries-and-probability) | |
 | 2026-11-26 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Roorkee | [Eternal PA OA sections: SQL, no Python or coding](../companies/eternal-zomato.md#q1-eternal-pa-oa-sections-sql-no-python-or-coding) | |
@@ -45,6 +53,7 @@
 | 2026-11-09 | [Accenture](../companies/accenture.md) | IIT Guwahati | [Accenture operations OA format](../companies/accenture.md#q1-accenture-operations-oa-format) | |
 | 2026-11-05 | [Tredence](../companies/tredence.md) | IIT BHU | [SQL self join and group by](../companies/tredence.md#q2-sql-self-join-and-group-by) | ≈ [LC 181](https://leetcode.com/problems/employees-earning-more-than-their-managers/) Easy |
 | 2026-11-04 | [Accordion](../companies/accordion.md) | IIT Hyderabad | [Accordion Data & AI Analyst pattern](../companies/accordion.md#q1-accordion-data--ai-analyst-pattern) | |
+| 2026-11-03 | [WhiteOak Capital](../companies/whiteoak-capital.md) | IIT Kharagpur | [WhiteOak Capital interview rounds: topics covered](../companies/whiteoak-capital.md#q1-whiteoak-capital-interview-rounds-topics-covered) | |
 | 2026-11-03 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Months with higher cost than previous month (LAG)](../companies/blackrock.md#q2-months-with-higher-cost-than-previous-month-lag) | ≈ [LC 197](https://leetcode.com/problems/rising-temperature/) Easy |
 | 2026-11-03 | [BlackRock](../companies/blackrock.md) | IIT Indore | [Employees earning above department average salary](../companies/blackrock.md#q1-employees-earning-above-department-average-salary) | ≈ [LC 577](https://leetcode.com/problems/employee-bonus/) Easy |
 | 2026-11-03 | [Capital One](../companies/capital-one.md) | Unknown | [Capital One Business Analyst OA topics](../companies/capital-one.md#q1-capital-one-business-analyst-oa-topics) | |

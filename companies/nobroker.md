@@ -1,13 +1,18 @@
 # NoBroker
 
-**8 questions** · 8 drives · latest 25 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**12 questions** · 9 drives · latest 27 Nov 2026 · [2 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [Sorting](../topics/sorting.md) 1 · [SQL](../topics/sql.md) 1 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 1  
+**Asks about:** [OA Format](../topics/oa-format.md) 6 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 3 · [Arrays](../topics/arrays.md) 2 · [Greedy](../topics/greedy.md) 2 · [SQL](../topics/sql.md) 2 · [Sorting](../topics/sorting.md) 1 · [HR & Behavioral](../topics/hr-behavioral.md) 1  
 **Seen at:** IIT BHU, IIT Guwahati, IIT Indore, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · IIT Guwahati · FTE · Marketing Analyst · Interview](#2026-11-27--iit-guwahati--fte--marketing-analyst--interview)
+  - [Guesstimates](#q1-guesstimates)
+  - [Basic SQL on user data](#q2-basic-sql-on-user-data)
+  - [Case study on marketing campaign data](#q3-case-study-on-marketing-campaign-data)
+  - [Grilling on market research project](#q4-grilling-on-market-research-project)
 - [2026-11-25 · Unknown · FTE · Marketing Analyst · Interview](#2026-11-25--unknown--fte--marketing-analyst--interview)
   - [NoBroker Marketing Analyst rounds](#q1-nobroker-marketing-analyst-rounds)
 - [2026-11-17 · IIT Madras · FTE](#2026-11-17--iit-madras--fte)
@@ -29,6 +34,36 @@
 
 ---
 
+## 2026-11-27 · IIT Guwahati · FTE · Marketing Analyst · Interview
+
+### Q1. Guesstimates
+
+Round 1: guesstimates.
+
+Exact guesstimate questions were not shared.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 27 Nov](../archive/nobroker-oa/2026-11.jsonl#L66)</sub>
+
+### Q2. Basic SQL on user data
+
+Round 1: basic SQL on user data.
+
+Exact queries were not shared.
+
+<sub>Topics: SQL · Source: [chat, 27 Nov](../archive/nobroker-oa/2026-11.jsonl#L66)</sub>
+
+### Q3. Case study on marketing campaign data
+
+Round 2: case study on marketing campaign data.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 27 Nov](../archive/nobroker-oa/2026-11.jsonl#L66)</sub>
+
+### Q4. Grilling on market research project
+
+Round 2: grilling on your market research project.
+
+<sub>Topics: HR & Behavioral · Source: [chat, 27 Nov](../archive/nobroker-oa/2026-11.jsonl#L66)</sub>
+
 ## 2026-11-25 · Unknown · FTE · Marketing Analyst · Interview
 
 ### Q1. NoBroker Marketing Analyst rounds
@@ -41,7 +76,7 @@ On-campus Marketing Analyst rounds (from 1 shared experience):
 
 Exact questions were not given.
 
-<sub>Topics: OA Format, SQL, Guesstimates & Cases · Source: [chat, 25 Nov](../archive/nobroker-oa/2026-11.jsonl#L64)</sub>
+<sub>Topics: OA Format, SQL, Guesstimates & Cases · Source: [chat, 25 Nov](../archive/nobroker-oa/2026-11.jsonl#L64) · Also asked at: IIT Guwahati (2026-11-27)</sub>
 
 ## 2026-11-17 · IIT Madras · FTE
 

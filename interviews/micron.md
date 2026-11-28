@@ -1,6 +1,6 @@
 # Micron: interviews
 
-**1 written experience**, newest first · [← all companies](README.md)
+**1 written experience**, newest first · [OA questions](../companies/micron.md) · [← all companies](README.md)
 
 ## 23 Nov 2025 · Package Design Engineer · IIT Kharagpur · on-campus
 

@@ -1,13 +1,15 @@
 # Qualcomm
 
-**7 questions** · 7 drives · latest 22 Nov 2026 · [← all companies](../README.md#companies)
+**8 questions** · 8 drives · latest 27 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 7 · [ML/AI](../topics/ml-ai.md) 1  
-**Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal +1 more
+**Asks about:** [OA Format](../topics/oa-format.md) 8 · [ML/AI](../topics/ml-ai.md) 1 · [Digital Electronics](../topics/digital-electronics.md) 1 · [Aptitude](../topics/aptitude.md) 1  
+**Seen at:** IIIT Hyderabad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Roorkee, MNNIT Allahabad, NIT Karnataka Surathkal +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Netaji Subhas University of Technology · FTE · Hardware · Interview](#2026-11-27--netaji-subhas-university-of-technology--fte--hardware--interview)
+  - [Qualcomm hardware interview topics](#q1-qualcomm-hardware-interview-topics)
 - [2026-11-20 · IIT Kharagpur/Kanpur · FTE · Multimedia](#2026-11-20--iit-kharagpurkanpur--fte--multimedia)
   - [Qualcomm multimedia OA pattern](#q1-qualcomm-multimedia-oa-pattern)
 - [2026-11-09 · IIT Kharagpur/Kanpur · FTE · Software](#2026-11-09--iit-kharagpurkanpur--fte--software)
@@ -26,6 +28,16 @@
 </details>
 
 ---
+
+## 2026-11-27 · Netaji Subhas University of Technology · FTE · Hardware · Interview
+
+### Q1. Qualcomm hardware interview topics
+
+Hardware role interview (NSUT, on-campus, 1 round). Topics: digital electronics, VLSI, aptitude. Rated easy. From 1 shared experience.
+
+Exact questions were not shared.
+
+<sub>Topics: Digital Electronics, Aptitude, OA Format · Source: [chat, 27 Nov](../archive/qualcomm-oa/2026-11.jsonl#L60)</sub>
 
 ## 2026-11-20 · IIT Kharagpur/Kanpur · FTE · Multimedia
 

@@ -1,13 +1,15 @@
 # WhiteOak Capital
 
-**4 questions** · 1 drive · latest 31 Oct 2026 · [← all companies](../README.md#companies)
+**5 questions** · 2 drives · latest 3 Nov 2026 · [← all companies](../README.md#companies)
 
-**Asks about:** [Aptitude](../topics/aptitude.md) 2 · [Math](../topics/math.md) 1 · [Finance](../topics/finance.md) 1 · [Arrays](../topics/arrays.md) 1 · [Hashing](../topics/hashing.md) 1 · [DP](../topics/dp.md) 1  
-**Seen at:** IIT Hyderabad
+**Asks about:** [Aptitude](../topics/aptitude.md) 2 · [Math](../topics/math.md) 1 · [Finance](../topics/finance.md) 1 · [Arrays](../topics/arrays.md) 1 · [Hashing](../topics/hashing.md) 1 · [DP](../topics/dp.md) 1 · [OA Format](../topics/oa-format.md) 1 · [Puzzles](../topics/puzzles.md) 1 · +1 more  
+**Seen at:** IIT Hyderabad, IIT Kanpur, IIT Kharagpur
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-03 · IIT Kharagpur · FTE · Interview](#2026-11-03--iit-kharagpur--fte--interview)
+  - [WhiteOak Capital interview rounds: topics covered](#q1-whiteoak-capital-interview-rounds-topics-covered)
 - [2026-10-31 · IIT Hyderabad · FTE · Other round](#2026-10-31--iit-hyderabad--fte--other-round)
   - [Quantitative aptitude practice questions](#q1-quantitative-aptitude-practice-questions)
   - [Logical reasoning topics](#q2-logical-reasoning-topics)
@@ -17,6 +19,16 @@
 </details>
 
 ---
+
+## 2026-11-03 · IIT Kharagpur · FTE · Interview
+
+### Q1. WhiteOak Capital interview rounds: topics covered
+
+As per 2 IIT Kharagpur experiences, WhiteOak ran 3 rounds after the OA on 31 Oct. Interviews were on 3 Nov and 9 Nov. Rounds 1 and 2 covered probability, puzzles, SQL and projects.
+
+The specific questions are not given.
+
+<sub>Topics: OA Format, Puzzles, SQL · Source: [chat, 27 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L593) · Also asked at: IIT Kanpur (2026-11-03), IIT Kharagpur (2026-11-03)</sub>
 
 ## 2026-10-31 · IIT Hyderabad · FTE · Other round
 

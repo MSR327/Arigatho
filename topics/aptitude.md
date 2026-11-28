@@ -1,9 +1,16 @@
 # Aptitude
 
-282 questions from 39 companys, newest first. [← all topics](../README.md#topics)
+290 questions from 44 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-27 | [Cognizant](../companies/cognizant.md) | Unknown | [Cognizant OA pattern summary](../companies/cognizant.md#q1-cognizant-oa-pattern-summary) |
+| 2026-11-27 | [Axis Bank](../companies/axis-bank.md) | Unknown | [Axis Bank OA pattern by role](../companies/axis-bank.md#q1-axis-bank-oa-pattern-by-role) |
+| 2026-11-27 | [Qualcomm](../companies/qualcomm.md) | Netaji Subhas University of Technology | [Qualcomm hardware interview topics](../companies/qualcomm.md#q1-qualcomm-hardware-interview-topics) |
+| 2026-11-27 | [Skyroot Aerospace](../companies/skyroot-aerospace.md) | IIT BHU | [Skyroot OA sections and difficulty](../companies/skyroot-aerospace.md#q1-skyroot-oa-sections-and-difficulty) |
+| 2026-11-27 | [Standard Chartered](../companies/standard-chartered.md) | Unknown | [Standard Chartered OA pattern](../companies/standard-chartered.md#q1-standard-chartered-oa-pattern) |
+| 2026-11-27 | [Standard Chartered](../companies/standard-chartered.md) | IIT BHU | [Standard Chartered behavioural and reasoning round](../companies/standard-chartered.md#q1-standard-chartered-behavioural-and-reasoning-round) |
+| 2026-11-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIIT | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern-1) |
 | 2026-11-27 | [Eternal (Zomato)](../companies/eternal-zomato.md) | VNIT Nagpur | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern) |
 | 2026-11-26 | [Deloitte](../companies/deloitte.md) | IIT BHU | [Deloitte Analyst OA pattern](../companies/deloitte.md#q1-deloitte-analyst-oa-pattern) |
 | 2026-11-26 | [Futures First](../companies/futures-first.md) | Unknown | [Futures First trainee OA pattern: MCQs and coding](../companies/futures-first.md#q1-futures-first-trainee-oa-pattern-mcqs-and-coding) |
@@ -31,7 +38,7 @@
 | 2026-11-13 | [No Broker](../companies/no-broker.md) | IIT Roorkee | [No Broker Product Analyst OA pattern](../companies/no-broker.md#q1-no-broker-product-analyst-oa-pattern) |
 | 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT Kharagpur | [Eternal APM process](../companies/eternal-zomato.md#q1-eternal-apm-process) |
 | 2026-11-12 | [Thorogood](../companies/thorogood.md) | MNNIT Allahabad | [OA format: all MCQ](../companies/thorogood.md#q1-oa-format-all-mcq) |
-| 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern-1) |
+| 2026-11-12 | [Eternal (Zomato)](../companies/eternal-zomato.md) | IIT BHU | [Eternal APM OA pattern](../companies/eternal-zomato.md#q1-eternal-apm-oa-pattern-2) |
 | 2026-11-11 | [Urban Company](../companies/urban-company.md) | IIT Roorkee | [Senior Category Manager OA contents](../companies/urban-company.md#q1-senior-category-manager-oa-contents) |
 | 2026-11-11 | [Urban Company](../companies/urban-company.md) | IIT Kharagpur | [Urban Company OA pattern](../companies/urban-company.md#q1-urban-company-oa-pattern) |
 | 2026-11-11 | [Accordion](../companies/accordion.md) | IIT Roorkee | [Estimate households interested in streaming service in two years](../companies/accordion.md#q2-estimate-households-interested-in-streaming-service-in-two-years) |
@@ -156,6 +163,7 @@
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Simple interest on ₹75,000 at 8.75% for 2.5 years](../companies/futures-first.md#q3-simple-interest-on-75000-at-875-for-25-years) |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Speed Math: 8750 ÷ 3.5 + 6250 ÷ 2.5](../companies/futures-first.md#q2-speed-math-8750--35--6250--25) |
 | 2026-10-19 | [Futures First](../companies/futures-first.md) | MNNIT Allahabad | [Speed Math: 88888 + 8888 + 888 + 88 + 8](../companies/futures-first.md#q1-speed-math-88888--8888--888--88--8) |
+| 2026-10-18 | [Skyroot Aerospace](../companies/skyroot-aerospace.md) | Unknown | [Skyroot Aerospace OA pattern](../companies/skyroot-aerospace.md#q1-skyroot-aerospace-oa-pattern) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Next term 91, 131, 99, 147, 126, 228, 190, 484, 315](../companies/reliance.md#q88-next-term-91-131-99-147-126-228-190-484-315) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Second word in reverse dictionary order](../companies/reliance.md#q87-second-word-in-reverse-dictionary-order) |
 | 2026-10-17 | [Reliance](../companies/reliance.md) | MNNIT Allahabad | [Kajal's relation to Ashutosh](../companies/reliance.md#q86-kajals-relation-to-ashutosh) |

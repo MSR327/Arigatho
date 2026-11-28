@@ -1,13 +1,18 @@
 # Paytm
 
-**29 questions** · 13 drives · latest 26 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**32 questions** · 15 drives · latest 27 Nov 2026 · [11 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 10 · [Strings](../topics/strings.md) 4 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · +11 more  
-**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIIT Delhi, IIT BHU, IIT Hyderabad, IIT Indore, IIT Kanpur +3 more
+**Asks about:** [OA Format](../topics/oa-format.md) 11 · [Strings](../topics/strings.md) 4 · [Guesstimates & Cases](../topics/guesstimates-cases.md) 4 · [Arrays](../topics/arrays.md) 3 · [SQL](../topics/sql.md) 2 · [Linked List](../topics/linked-list.md) 2 · [Two Pointers](../topics/two-pointers.md) 2 · [OOP](../topics/oop.md) 2 · +12 more  
+**Seen at:** BIT Mesra, BITS Pilani, Delhi Technological University, IIIT Delhi, IIT BHU, IIT Bombay, IIT Hyderabad, IIT Indore +5 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Unknown · Unknown · SDE · Interview](#2026-11-27--unknown--unknown--sde--interview)
+  - [Core CS topics: OS, DBMS, CN](#q1-core-cs-topics-os-dbms-cn)
+  - [Basic HLD/LLD system design](#q2-basic-hldlld-system-design)
+- [2026-11-27 · NIT Surathkal · FTE](#2026-11-27--nit-surathkal--fte)
+  - [Paytm OA question and topic list](#q1-paytm-oa-question-and-topic-list)
 - [2026-11-26 · Unknown · FTE · SDE · Interview](#2026-11-26--unknown--fte--sde--interview)
   - [Paytm SDE interview rounds](#q1-paytm-sde-interview-rounds)
 - [2026-11-23 · IIT Kharagpur/Kanpur · FTE](#2026-11-23--iit-kharagpurkanpur--fte)
@@ -55,6 +60,35 @@
 
 ---
 
+## 2026-11-27 · Unknown · Unknown · SDE · Interview
+
+### Q1. Core CS topics: OS, DBMS, CN
+
+Core CS asked: OS (threads, paging, deadlock), DBMS, CN (TCP vs UDP).
+
+<sub>Topics: OS/DBMS/CN MCQ · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2762)</sub>
+
+### Q2. Basic HLD/LLD system design
+
+Basic HLD/LLD, such as:
+- Payment gateway
+- URL shortener
+- Notification system
+
+<sub>Topics: Software Engineering · Source: [chat, 27 Nov](../archive/inter-nit/2026-11.jsonl#L2762)</sub>
+
+## 2026-11-27 · NIT Surathkal · FTE
+
+### Q1. Paytm OA question and topic list
+
+Paytm online assessment questions consist of: Print All Prime Numbers from 1 to N, Two Sum, Maximum Subarray Sum (Kadane's Algorithm), Product of Array Except Self, Count Number of 1s in an Array, Longest Substring Without Repeating Characters, Reverse an Array, Find Missing Number, Find Duplicate Elements, Move Zeroes, Find Middle of Linked List, GCD and LCM, and Valid Parentheses.
+
+Also prepare Aptitude, Logical Reasoning, C/C++ Output Questions, Python Basics, OOPs, DBMS, OS, Computer Networks, SQL Joins, Data Mining, and Machine Learning MCQs.
+
+Only question names were given, without full statements.
+
+<sub>Topics: OA Format · Source: [chat, 27 Nov](../archive/inter-iit/2026-11.jsonl#L1377)</sub>
+
 ## 2026-11-26 · Unknown · FTE · SDE · Interview
 
 ### Q1. Paytm SDE interview rounds
@@ -67,7 +101,7 @@ Summary of 5 shared experiences:
 
 Individual questions not given.
 
-<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/paytm-oa/2026-11.jsonl#L62) · Also asked at: IIIT Delhi (2026-11-26)</sub>
+<sub>Topics: OA Format · Source: [chat, 26 Nov](../archive/paytm-oa/2026-11.jsonl#L62) · Also asked at: IIIT Delhi (2026-11-26), Unknown (2026-11-27)</sub>
 
 ## 2026-11-23 · IIT Kharagpur/Kanpur · FTE
 
@@ -75,7 +109,7 @@ Individual questions not given.
 
 The test had both coding questions and MCQs. The SQL part was very tough and few people solved it. The poster said the questions were exactly the same as those on oahelper.
 
-<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/paytm-oa/2026-11.jsonl#L40), [chat, 23 Nov](../archive/paytm-oa/2026-11.jsonl#L42) · Also asked at: IIT Kharagpur/Kanpur (2026-11-26)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/paytm-oa/2026-11.jsonl#L40), [chat, 23 Nov](../archive/paytm-oa/2026-11.jsonl#L42) · Also asked at: IIT Kharagpur/Kanpur (2026-11-26), IIT Bombay (2026-11-27)</sub>
 
 ## 2026-11-20 · IIT Indore · FTE · SDE · Interview
 
@@ -203,7 +237,7 @@ Paytm OA for the software role consisted of:
 
 The actual questions were not shared.
 
-<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L113) · Also asked at: Unknown (2026-10-30), MNNIT Allahabad (2026-10-30), IIT BHU ×2 (last 2026-11-12), IIT Kharagpur (2026-11-26), IIIT Delhi (2026-11-26), IIT Kanpur (2026-11-26)</sub>
+<sub>Topics: OA Format · Source: [chat, 21 Oct](../archive/campus-mnnit-allahabad-placements/2026-10.jsonl#L113) · Also asked at: Unknown (2026-10-30), MNNIT Allahabad (2026-10-30), IIT BHU ×2 (last 2026-11-12), IIT Kharagpur (2026-11-26), IIIT Delhi (2026-11-26), IIT Kanpur (2026-11-26), IIT Hyderabad (2026-11-27)</sub>
 
 ## 2026-09-21 · Unknown · Unknown · Other round
 

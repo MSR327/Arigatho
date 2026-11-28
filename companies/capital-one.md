@@ -1,13 +1,17 @@
 # Capital One
 
-**41 questions** · 19 drives · latest 14 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**43 questions** · 21 drives · latest 27 Nov 2026 · [24 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [Arrays](../topics/arrays.md) 12 · [OA Format](../topics/oa-format.md) 10 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Software Engineering](../topics/software-engineering.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 3 · [OOP](../topics/oop.md) 3 · +12 more  
+**Asks about:** [OA Format](../topics/oa-format.md) 12 · [Arrays](../topics/arrays.md) 12 · [Graphs](../topics/graphs.md) 6 · [Math](../topics/math.md) 5 · [Software Engineering](../topics/software-engineering.md) 5 · [Sliding Window](../topics/sliding-window.md) 3 · [DP](../topics/dp.md) 3 · [OOP](../topics/oop.md) 3 · +12 more  
 **Seen at:** IIT BHU, IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +2 more
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · IIT Kharagpur/Kanpur · FTE](#2026-11-27--iit-kharagpurkanpur--fte)
+  - [Capital One round 2: two questions](#q1-capital-one-round-2-two-questions)
+- [2026-11-27 · IIT BHU · FTE](#2026-11-27--iit-bhu--fte)
+  - [Capital One hard question, about CF 1900](#q1-capital-one-hard-question-about-cf-1900)
 - [2026-11-12 · IIT BHU · FTE · Interview](#2026-11-12--iit-bhu--fte--interview)
   - [Capital One Round 2 format](#q1-capital-one-round-2-format)
 - [2026-11-09 · IIT Delhi · FTE](#2026-11-09--iit-delhi--fte)
@@ -72,6 +76,26 @@
 </details>
 
 ---
+
+## 2026-11-27 · IIT Kharagpur/Kanpur · FTE
+
+### Q1. Capital One round 2: two questions
+
+Round 2 had two questions, and many people got both correct. A reply adds that the second one was subjective.
+
+The question statements were not shared.
+
+<sub>Topics: OA Format · Source: [chat, 27 Nov](../archive/capital-one-oa/2026-11.jsonl#L118), [chat, 27 Nov](../archive/capital-one-oa/2026-11.jsonl#L119)</sub>
+
+## 2026-11-27 · IIT BHU · FTE
+
+### Q1. Capital One hard question, about CF 1900
+
+The question was hard (around Codeforces 1900 rating) and very few people could solve it.
+
+The question statement was not shared.
+
+<sub>Topics: OA Format · Source: [chat, 27 Nov](../archive/capital-one-oa/2026-11.jsonl#L120)</sub>
 
 ## 2026-11-12 · IIT BHU · FTE · Interview
 

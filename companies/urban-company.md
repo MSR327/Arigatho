@@ -53,7 +53,7 @@ From 1 shared experience (on campus at IIT Roorkee, Nov 20): case study, guessti
 
 Specific questions are not given.
 
-<sub>Topics: Guesstimates & Cases, HR & Behavioral · Source: [chat, 24 Nov](../archive/urban-company-oa/2026-11.jsonl#L5)</sub>
+<sub>Topics: Guesstimates & Cases, HR & Behavioral · Source: [chat, 24 Nov](../archive/urban-company-oa/2026-11.jsonl#L5) · Also asked at: IIT Roorkee ×2 (last 2026-11-20)</sub>
 
 ## 2026-11-13 · NIT Kurukshetra · FTE
 
@@ -109,7 +109,7 @@ The OA (Nov 11, per calendar) was mostly aptitude + a basic business case.
 
 Specific questions are not given.
 
-<sub>Topics: OA Format, Aptitude, Guesstimates & Cases · Source: [chat, 24 Nov](../archive/urban-company-oa/2026-11.jsonl#L5) · Also asked at: IIT Kharagpur (2026-11-25)</sub>
+<sub>Topics: OA Format, Aptitude, Guesstimates & Cases · Source: [chat, 24 Nov](../archive/urban-company-oa/2026-11.jsonl#L5) · Also asked at: IIT Roorkee (2026-11-11), IIT Kharagpur (2026-11-25)</sub>
 
 ## 2026-11-11 · IIT Kharagpur · FTE
 

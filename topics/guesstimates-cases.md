@@ -1,9 +1,15 @@
 # Guesstimates & Cases
 
-59 questions from 24 companys, newest first. [← all topics](../README.md#topics)
+65 questions from 24 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-27 | [Meesho](../companies/meesho.md) | Unknown | [Meesho analyst and business role interview topics](../companies/meesho.md#q1-meesho-analyst-and-business-role-interview-topics) |
+| 2026-11-27 | [Navi](../companies/navi.md) | Unknown | [Guesstimate: ATMs in Bangalore](../companies/navi.md#q5-guesstimate-atms-in-bangalore) |
+| 2026-11-27 | [Navi](../companies/navi.md) | Unknown | [Case study on user engagement for a financial product](../companies/navi.md#q4-case-study-on-user-engagement-for-a-financial-product) |
+| 2026-11-27 | [Navi](../companies/navi.md) | Unknown | [Product design: a feature for Swiggy](../companies/navi.md#q3-product-design-a-feature-for-swiggy) |
+| 2026-11-27 | [NoBroker](../companies/nobroker.md) | IIT Guwahati | [Case study on marketing campaign data](../companies/nobroker.md#q3-case-study-on-marketing-campaign-data) |
+| 2026-11-27 | [NoBroker](../companies/nobroker.md) | IIT Guwahati | [Guesstimates](../companies/nobroker.md#q1-guesstimates) |
 | 2026-11-27 | [Meesho](../companies/meesho.md) | Unknown | [Guesstimate: mobile app downloads per day](../companies/meesho.md#q3-guesstimate-mobile-app-downloads-per-day) |
 | 2026-11-27 | [Meesho](../companies/meesho.md) | Unknown | [RCA case: students ordering from restaurants outside school](../companies/meesho.md#q2-rca-case-students-ordering-from-restaurants-outside-school) |
 | 2026-11-27 | [Groww](../companies/groww.md) | IIT Bombay | [Case study: increase reach for Swiggy](../companies/groww.md#q1-case-study-increase-reach-for-swiggy) |

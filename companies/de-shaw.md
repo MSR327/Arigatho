@@ -1,13 +1,16 @@
 # DE Shaw
 
-**6 questions** · 4 drives · latest 26 Nov 2026 · [3 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**8 questions** · 5 drives · latest 27 Nov 2026 · [4 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
-**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · [Sorting](../topics/sorting.md) 1 · [Arrays](../topics/arrays.md) 1 · [Sliding Window](../topics/sliding-window.md) 1 · [Heaps](../topics/heaps.md) 1 · [Greedy](../topics/greedy.md) 1 · [DP](../topics/dp.md) 1 · +3 more  
-**Seen at:** IIT BHU, IIT Kharagpur
+**Asks about:** [OA Format](../topics/oa-format.md) 2 · [Bit Manipulation](../topics/bit-manipulation.md) 2 · [Arrays](../topics/arrays.md) 2 · [DP](../topics/dp.md) 2 · [Sorting](../topics/sorting.md) 1 · [Sliding Window](../topics/sliding-window.md) 1 · [Heaps](../topics/heaps.md) 1 · [Greedy](../topics/greedy.md) 1 · +3 more  
+**Seen at:** IIT BHU, IIT Kharagpur, IIT Roorkee
 
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · IIT Roorkee · FTE](#2026-11-27--iit-roorkee--fte)
+  - [0/1 knapsack DP problem](#q1-01-knapsack-dp-problem)
+  - [Prefix sum problem](#q2-prefix-sum-problem)
 - [2026-11-26 · Unknown · Unknown · Interview](#2026-11-26--unknown--unknown--interview)
   - [DE Shaw interview topics](#q1-de-shaw-interview-topics)
 - [2026-11-26 · IIT Kharagpur · FTE](#2026-11-26--iit-kharagpur--fte)
@@ -22,6 +25,24 @@
 </details>
 
 ---
+
+## 2026-11-27 · IIT Roorkee · FTE
+
+### Q1. 0/1 knapsack DP problem
+
+0/1 knapsack DP problem (40 mins).
+
+Only the problem type was given; the full statement is missing.
+
+<sub>Topics: DP · Same problem: [GeeksforGeeks: 0 - 1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1), classic 0/1 knapsack DP · Source: [chat, 27 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L588)</sub>
+
+### Q2. Prefix sum problem
+
+One prefix sum problem (20 mins).
+
+Only the problem type was given; the full statement is missing.
+
+<sub>Topics: Arrays · Source: [chat, 27 Nov](../archive/campus-iit-kharagpur-placements/2026-11.jsonl#L588)</sub>
 
 ## 2026-11-26 · Unknown · Unknown · Interview
 
@@ -59,7 +80,7 @@ Constraints:
 - `1 <= k <= m <= n`
 - `-10^9 <= nums[i] <= 10^9`
 
-<sub>Topics: Sliding Window, Heaps · Similar: [LeetCode 2653. Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) (Medium) · Source: [chat, 26 Nov](../archive/inter-nit/2026-11.jsonl#L2699)</sub>
+<sub>Topics: Sliding Window, Heaps · Similar: [LeetCode 2653. Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/) (Medium) · Source: [chat, 26 Nov](../archive/inter-nit/2026-11.jsonl#L2699) · Also asked at: IIT Roorkee (2026-11-27)</sub>
 
 ### Q3. Maximum Profit with Power-of-Two Costs
 
@@ -96,4 +117,4 @@ Summary compiled from shared experiences:
 
 The actual questions are not given.
 
-<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2560) · Also asked at: Unknown ×2 (last 2026-11-26)</sub>
+<sub>Topics: OA Format · Source: [chat, 25 Nov](../archive/inter-nit/2026-11.jsonl#L2560) · Also asked at: Unknown ×3 (last 2026-11-27)</sub>

@@ -1,9 +1,12 @@
 # OOP
 
-50 questions from 31 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+53 questions from 34 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [IBM](../companies/ibm.md) | Unknown | [IBM SDE interview topics summary](../companies/ibm.md#q1-ibm-sde-interview-topics-summary) | [LC 215](https://leetcode.com/problems/kth-largest-element-in-an-array/) Medium |
+| 2026-11-27 | [Microsoft](../companies/microsoft.md) | Unknown | [Low-level design such as a parking lot](../companies/microsoft.md#q4-low-level-design-such-as-a-parking-lot) | |
+| 2026-11-27 | [Standard Chartered](../companies/standard-chartered.md) | Unknown | [Standard Chartered interview rounds and topics](../companies/standard-chartered.md#q1-standard-chartered-interview-rounds-and-topics) | |
 | 2026-11-27 | [Accenture](../companies/accenture.md) | Unknown | [Accenture Elite Tech Engineer interview summary](../companies/accenture.md#q1-accenture-elite-tech-engineer-interview-summary) | |
 | 2026-11-26 | [HSBC](../companies/hsbc.md) | Unknown | [HSBC technical interview topics](../companies/hsbc.md#q1-hsbc-technical-interview-topics) | |
 | 2026-11-26 | [MathWorks](../companies/mathworks.md) | Unknown | [MathWorks interview rounds pattern](../companies/mathworks.md#q1-mathworks-interview-rounds-pattern) | |

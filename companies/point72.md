@@ -94,7 +94,7 @@ Interviews went 3 to 4 rounds (summary of 4 shared experiences):
 
 Individual questions not given.
 
-<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/inter-nit/2026-11.jsonl#L2410) · Also asked at: Unknown (2026-11-25)</sub>
+<sub>Topics: OA Format · Source: [chat, 23 Nov](../archive/inter-nit/2026-11.jsonl#L2410) · Also asked at: Unknown ×2 (last 2026-11-27)</sub>
 
 ## 2026-11-04 · IIT BHU · FTE
 

@@ -1,9 +1,12 @@
 # ML/AI
 
-195 questions from 33 companys, newest first. [← all topics](../README.md#topics)
+198 questions from 34 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-27 | [Mastercard](../companies/mastercard.md) | Unknown | [Resume and ML project discussion](../companies/mastercard.md#q4-resume-and-ml-project-discussion) |
+| 2026-11-27 | [Mastercard](../companies/mastercard.md) | Unknown | [Machine learning fundamentals](../companies/mastercard.md#q1-machine-learning-fundamentals) |
+| 2026-11-27 | [InfoEdge](../companies/infoedge.md) | Unknown | [InfoEdge AI Scientist interview topics](../companies/infoedge.md#q1-infoedge-ai-scientist-interview-topics) |
 | 2026-11-27 | [Aspect Ratio](../companies/aspect-ratio.md) | VNIT Nagpur | [Aspect Ratio interview pattern](../companies/aspect-ratio.md#q1-aspect-ratio-interview-pattern) |
 | 2026-11-26 | [Deloitte](../companies/deloitte.md) | IIT Roorkee | [Deloitte OA section 4 (technical) topics](../companies/deloitte.md#q1-deloitte-oa-section-4-technical-topics) |
 | 2026-11-26 | [Fractal](../companies/fractal.md) | IIT Bombay | [Multi-class text classification from scratch](../companies/fractal.md#q3-multi-class-text-classification-from-scratch) |

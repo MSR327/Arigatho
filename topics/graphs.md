@@ -1,11 +1,14 @@
 # Graphs
 
-172 questions from 57 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+176 questions from 60 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
 | 2026-11-27 | [Point72](../companies/point72.md) | Unknown | [DSA topics: graphs, DP and trees](../companies/point72.md#q1-dsa-topics-graphs-dp-and-trees) | |
+| 2026-11-27 | [Microsoft](../companies/microsoft.md) | Unknown | [Course order using topological sort](../companies/microsoft.md#q3-course-order-using-topological-sort) | [LC 210](https://leetcode.com/problems/course-schedule-ii/) Medium |
 | 2026-11-27 | [Walt Disney](../companies/walt-disney.md) | IIT Guwahati | [Total distance travelled by citizens to each tree node](../companies/walt-disney.md#q2-total-distance-travelled-by-citizens-to-each-tree-node) | [LC 834](https://leetcode.com/problems/sum-of-distances-in-tree/) Hard |
+| 2026-11-27 | [InMobi](../companies/inmobi.md) | Unknown | [InMobi interview topics summary](../companies/inmobi.md#q1-inmobi-interview-topics-summary) | |
+| 2026-11-27 | [Wex](../companies/wex.md) | Unknown | [Medium DSA question in first round](../companies/wex.md#q2-medium-dsa-question-in-first-round) | [LC 56](https://leetcode.com/problems/merge-intervals/) Medium |
 | 2026-11-26 | [Fractal](../companies/fractal.md) | IIT Bombay | [Debugging a DSU (disjoint set union) solution](../companies/fractal.md#q1-debugging-a-dsu-disjoint-set-union-solution) | ≈ [LC 684](https://leetcode.com/problems/redundant-connection/) Medium |
 | 2026-11-25 | [KLA](../companies/kla.md) | Unknown | [DSA topics in KLA technical rounds](../companies/kla.md#q1-dsa-topics-in-kla-technical-rounds) | |
 | 2026-11-24 | [KLA](../companies/kla.md) | MNNIT Allahabad | [KLA SDE OA pattern](../companies/kla.md#q1-kla-sde-oa-pattern) | |
@@ -127,6 +130,7 @@
 | 2026-10-18 | [NPCI](../companies/npci.md) | IIT BHU | [Rogue Packet Filters](../companies/npci.md#q1-rogue-packet-filters) | ≈ [LC 2360](https://leetcode.com/problems/longest-cycle-in-a-graph/) Hard |
 | 2026-10-18 | [Flipkart](../companies/flipkart.md) | IIT BHU | [KCONNECT (CodeChef)](../companies/flipkart.md#q4-kconnect-codechef) | [CodeChef KCONNECT](https://www.codechef.com/problems/KCONNECT) rated 2843 |
 | 2026-10-18 | [Flipkart](../companies/flipkart.md) | IIT BHU | [Subgraphs](../companies/flipkart.md#q3-subgraphs) | |
+| 2026-10-18 | [NexusOne](../companies/nexusone.md) | IIT Delhi | [NexusOne OA pattern (IIT Delhi)](../companies/nexusone.md#q1-nexusone-oa-pattern-iit-delhi) | |
 | 2026-10-17 | [Media.net](../companies/media-net.md) | Delhi Technological University | [Trapping Rain Water II](../companies/media-net.md#q1-trapping-rain-water-ii) | [LC 407](https://leetcode.com/problems/trapping-rain-water-ii/) Hard |
 | 2026-10-16 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | [Standard BFS on a graph](../companies/deutsche-bank.md#q2-standard-bfs-on-a-graph) | |
 | 2026-10-16 | [Harness](../companies/harness.md) | IIT Delhi | [Codeforces 592D](../companies/harness.md#q1-codeforces-592d) | [CF 592D](https://codeforces.com/problemset/problem/592/D) rated 2200 |

@@ -620,7 +620,7 @@ Candidate reported:
 
 The interviewer encouraged the candidate to speak at length about their background.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531) · Also asked at: NIT Delhi (2026-11-25)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531) · Also asked at: NIT Delhi ×2 (last 2026-11-27)</sub>
 
 ### Q2. ETE interview experience 2 (selected, Oct 2026)
 
@@ -633,7 +633,7 @@ A candidate from an IIT reported:
 
 The interview lasted approximately 15 minutes with no technical questions.
 
-<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531) · Also asked at: Unknown (2026-11-19), NIT Delhi (2026-11-25)</sub>
+<sub>Topics: HR & Behavioral · Source: [chat, 18 Nov](../archive/accenture-oa/2026-11.jsonl#L531) · Also asked at: NIT Delhi (2026-11-25), Unknown ×2 (last 2026-11-27)</sub>
 
 ### Q3. ETE interview experience 3
 
@@ -2027,7 +2027,7 @@ Written email: the topic can be anything related to office/work, e.g. taking a l
 
 A wired earphone/mic is required; the Accenture team said communication attempted without a mic leads to elimination.
 
-<sub>Topics: OA Format, Verbal · Source: [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L133), [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L136), [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L147)</sub>
+<sub>Topics: OA Format, Verbal · Source: [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L133), [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L136), [chat, 26 Oct](../archive/accenture-oa/2026-10.jsonl#L147) · Also asked at: Unknown (2026-11-27)</sub>
 
 ## 2026-10-25 · IIT Roorkee · FTE
 

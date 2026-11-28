@@ -1,6 +1,6 @@
 # Amazon
 
-**34 questions** · 26 drives · latest 25 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**34 questions** · 26 drives · latest 27 Nov 2026 · [6 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 21 · [Arrays](../topics/arrays.md) 6 · [Greedy](../topics/greedy.md) 3 · [Hashing](../topics/hashing.md) 2 · [Software Engineering](../topics/software-engineering.md) 2 · [Binary Search](../topics/binary-search.md) 2 · [Stack/Queue](../topics/stack-queue.md) 2 · [Strings](../topics/strings.md) 2 · +8 more  
 **Seen at:** BITS, BITS Pilani, IIT BHU, IIT Delhi, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur +7 more
@@ -100,7 +100,7 @@ As per 5 shared experiences:
 
 Exact questions were not given.
 
-<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/amazon-oa/2026-11.jsonl#L237)</sub>
+<sub>Topics: OA Format · Source: [chat, 24 Nov](../archive/amazon-oa/2026-11.jsonl#L237) · Also asked at: Unknown ×2 (last 2026-11-27)</sub>
 
 ## 2026-11-24 · Unknown · Unknown
 

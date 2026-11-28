@@ -1,9 +1,10 @@
 # Verbal
 
-54 questions from 10 companys, newest first. [← all topics](../README.md#topics)
+55 questions from 11 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question |
 |---|---|---|---|
+| 2026-11-27 | [Cognizant](../companies/cognizant.md) | Unknown | [Cognizant OA pattern summary](../companies/cognizant.md#q1-cognizant-oa-pattern-summary) |
 | 2026-11-25 | [Accenture](../companies/accenture.md) | Unknown | [Accenture OA contents (summary of shared experiences)](../companies/accenture.md#q1-accenture-oa-contents-summary-of-shared-experiences) |
 | 2026-11-12 | [Capgemini](../companies/capgemini.md) | MNNIT Allahabad | [Round 1: email, verbal, video recording](../companies/capgemini.md#q1-round-1-email-verbal-video-recording) |
 | 2026-11-12 | [Accenture](../companies/accenture.md) | MNNIT Allahabad | [Communication round format](../companies/accenture.md#q1-communication-round-format) |

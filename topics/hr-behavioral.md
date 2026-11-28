@@ -1,12 +1,20 @@
 # HR & Behavioral
 
-97 questions from 48 companys, newest first. [← all topics](../README.md#topics)
+105 questions from 53 companys, newest first. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
-| 2026-11-27 | [Microsoft](../companies/microsoft.md) | Unknown | [DSA and projects interview after OA](../companies/microsoft.md#q1-dsa-and-projects-interview-after-oa) | |
+| 2026-11-27 | [Meesho](../companies/meesho.md) | Unknown | [Meesho analyst and business role interview topics](../companies/meesho.md#q1-meesho-analyst-and-business-role-interview-topics) | |
+| 2026-11-27 | [Navi](../companies/navi.md) | Unknown | [Discussion on projects (fintech)](../companies/navi.md#q1-discussion-on-projects-fintech) | |
+| 2026-11-27 | [NoBroker](../companies/nobroker.md) | IIT Guwahati | [Grilling on market research project](../companies/nobroker.md#q4-grilling-on-market-research-project) | |
+| 2026-11-27 | [Microsoft](../companies/microsoft.md) | Unknown | [DSA and projects interview after OA](../companies/microsoft.md#q5-dsa-and-projects-interview-after-oa) | |
+| 2026-11-27 | [Mastercard](../companies/mastercard.md) | Unknown | [HR round questions](../companies/mastercard.md#q6-hr-round-questions) | |
+| 2026-11-27 | [Mastercard](../companies/mastercard.md) | Unknown | [Resume and ML project discussion](../companies/mastercard.md#q4-resume-and-ml-project-discussion) | |
 | 2026-11-27 | [Point72](../companies/point72.md) | Unknown | [HR behavioral round](../companies/point72.md#q5-hr-behavioral-round) | |
+| 2026-11-27 | [InfoEdge](../companies/infoedge.md) | Unknown | [InfoEdge AI Scientist interview topics](../companies/infoedge.md#q1-infoedge-ai-scientist-interview-topics) | |
 | 2026-11-27 | [Meesho](../companies/meesho.md) | Unknown | [Resume walkthrough and why Meesho](../companies/meesho.md#q1-resume-walkthrough-and-why-meesho) | |
+| 2026-11-27 | [Standard Chartered](../companies/standard-chartered.md) | IIT BHU | [Standard Chartered behavioural and reasoning round](../companies/standard-chartered.md#q1-standard-chartered-behavioural-and-reasoning-round) | |
+| 2026-11-27 | [Wex](../companies/wex.md) | Unknown | [Resume projects discussion](../companies/wex.md#q1-resume-projects-discussion) | |
 | 2026-11-27 | [Accenture](../companies/accenture.md) | Unknown | [Accenture Elite Tech Engineer interview summary](../companies/accenture.md#q1-accenture-elite-tech-engineer-interview-summary) | |
 | 2026-11-27 | [Aspect Ratio](../companies/aspect-ratio.md) | VNIT Nagpur | [Aspect Ratio interview pattern](../companies/aspect-ratio.md#q1-aspect-ratio-interview-pattern) | |
 | 2026-11-26 | [Accenture](../companies/accenture.md) | IIT Roorkee | [Accenture Elite HR-style interview](../companies/accenture.md#q1-accenture-elite-hr-style-interview) | |

@@ -1,6 +1,6 @@
 # Navi
 
-**49 questions** · 27 drives · latest 26 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
+**54 questions** · 28 drives · latest 27 Nov 2026 · [13 practice problems](../practice.md) · [← all companies](../README.md#companies)
 
 **Asks about:** [OA Format](../topics/oa-format.md) 14 · [Arrays](../topics/arrays.md) 11 · [Aptitude](../topics/aptitude.md) 10 · [Graphs](../topics/graphs.md) 7 · [Strings](../topics/strings.md) 6 · [Code Output (C/C++/Java/Python)](../topics/code-output-c-c-java-python.md) 5 · [Recursion/Backtracking](../topics/recursion-backtracking.md) 4 · [Math](../topics/math.md) 4 · +9 more  
 **Seen at:** IIT BHU, IIT Delhi, IIT Dhanbad, IIT Guwahati, IIT Hyderabad, IIT Kharagpur, IIT Kharagpur/Kanpur, IIT Madras +4 more
@@ -8,6 +8,12 @@
 <details>
 <summary><b>Contents</b>: every drive and question, newest first</summary>
 
+- [2026-11-27 · Unknown · FTE · APM · Interview](#2026-11-27--unknown--fte--apm--interview)
+  - [Discussion on projects (fintech)](#q1-discussion-on-projects-fintech)
+  - [SQL join and aggregate queries](#q2-sql-join-and-aggregate-queries)
+  - [Product design: a feature for Swiggy](#q3-product-design-a-feature-for-swiggy)
+  - [Case study on user engagement for a financial product](#q4-case-study-on-user-engagement-for-a-financial-product)
+  - [Guesstimate: ATMs in Bangalore](#q5-guesstimate-atms-in-bangalore)
 - [2026-11-26 · IIT Hyderabad · FTE · AI and Strategy](#2026-11-26--iit-hyderabad--fte--ai-and-strategy)
   - [Navi AI and Strategy OA pattern (hearsay)](#q1-navi-ai-and-strategy-oa-pattern-hearsay)
 - [2026-11-25 · VNIT Nagpur · FTE · Interview](#2026-11-25--vnit-nagpur--fte--interview)
@@ -89,6 +95,40 @@
 
 ---
 
+## 2026-11-27 · Unknown · FTE · APM · Interview
+
+### Q1. Discussion on projects (fintech)
+
+Round 1: discussion on your projects (the fintech one).
+
+<sub>Topics: HR & Behavioral · Source: [chat, 27 Nov](../archive/navi-oa/2026-11.jsonl#L15)</sub>
+
+### Q2. SQL join and aggregate queries
+
+Round 1: 2 SQL queries (a join and an aggregate).
+
+Exact query statements were not shared.
+
+<sub>Topics: SQL · Source: [chat, 27 Nov](../archive/navi-oa/2026-11.jsonl#L15) · Also asked at: Unknown (2026-11-27)</sub>
+
+### Q3. Product design: a feature for Swiggy
+
+Round 1: product design, like a feature for Swiggy.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 27 Nov](../archive/navi-oa/2026-11.jsonl#L15) · Also asked at: Unknown (2026-11-27)</sub>
+
+### Q4. Case study on user engagement for a financial product
+
+Round 2: case study on user engagement for a financial product.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 27 Nov](../archive/navi-oa/2026-11.jsonl#L15) · Also asked at: Unknown (2026-11-27)</sub>
+
+### Q5. Guesstimate: ATMs in Bangalore
+
+Round 2: guesstimate, like how many ATMs are in Bangalore.
+
+<sub>Topics: Guesstimates & Cases · Source: [chat, 27 Nov](../archive/navi-oa/2026-11.jsonl#L15) · Also asked at: Unknown (2026-11-27)</sub>
+
 ## 2026-11-26 · IIT Hyderabad · FTE · AI and Strategy
 
 ### Q1. Navi AI and Strategy OA pattern (hearsay)
@@ -120,7 +160,7 @@ Summary of 5 shared experiences:
 
 Exact questions were not given.
 
-<sub>Topics: OA Format, Guesstimates & Cases, SQL · Source: [chat, 25 Nov](../archive/navi-oa/2026-11.jsonl#L2)</sub>
+<sub>Topics: OA Format, Guesstimates & Cases, SQL · Source: [chat, 25 Nov](../archive/navi-oa/2026-11.jsonl#L2) · Also asked at: Unknown (2026-11-27)</sub>
 
 ## 2026-11-06 · IIT Hyderabad · FTE
 
@@ -328,7 +368,7 @@ Aptitude + CS MCQs (OOP, DBMS, OS) + 2–3 coding questions (Arrays, Strings, Gr
 
 The OA was 30 minutes long with 25 aptitude-based questions. It was held at IIT Roorkee.
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L31), [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L32) · Also asked at: IIT Roorkee ×2 (last 2026-11-03)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L31), [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L32) · Also asked at: IIT Roorkee ×2 (last 2026-11-03), Unknown (2026-11-04)</sub>
 
 ## 2026-11-01 · IIT Roorkee · FTE · SDE
 
@@ -434,7 +474,7 @@ Given a grid of characters, find the count of a specific word in the grid, searc
 
 30 minute test, marking +3 / -1, 25 questions: 6-7 DI/LR, 2-3 permutation and combination, and the rest basic aptitude.
 
-<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L15) · Also asked at: IIT Madras (2026-11-10), IIT Roorkee (2026-11-10)</sub>
+<sub>Topics: OA Format · Source: [chat, 1 Nov](../archive/campus-iit-delhi-placements/2026-11.jsonl#L15) · Also asked at: Unknown (2026-11-04), IIT Madras (2026-11-10), IIT Roorkee (2026-11-10)</sub>
 
 ### Q2. Arrangements of 10 letters with gap between A and B and CD together
 

@@ -1,9 +1,10 @@
 # Strings
 
-144 questions from 59 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
+146 questions from 60 companys, newest first. ≈ marks a practice problem with the same idea rather than the same problem. [← all topics](../README.md#topics)
 
 | Date | Company | College | Question | Practise |
 |---|---|---|---|---|
+| 2026-11-27 | [Microsoft](../companies/microsoft.md) | Unknown | [Longest palindromic substring](../companies/microsoft.md#q1-longest-palindromic-substring) | [LC 5](https://leetcode.com/problems/longest-palindromic-substring/) Medium |
 | 2026-11-26 | [Futures First](../companies/futures-first.md) | Unknown | [Futures First trainee OA pattern: MCQs and coding](../companies/futures-first.md#q1-futures-first-trainee-oa-pattern-mcqs-and-coding) | |
 | 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: hex/binary register dump bit-fields](../companies/ibm.md#q5-python-hexbinary-register-dump-bit-fields) | ≈ [LC 405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) Easy |
 | 2026-11-24 | [IBM](../companies/ibm.md) | NIT Karnataka Surathkal | [Python: parse logs and count events](../companies/ibm.md#q4-python-parse-logs-and-count-events) | ≈ [LC 811](https://leetcode.com/problems/subdomain-visit-count/) Medium |
@@ -105,6 +106,7 @@
 | 2026-10-21 | [InMobi](../companies/inmobi.md) | IIT Delhi | [Word Ladder II](../companies/inmobi.md#q1-word-ladder-ii) | [LC 126](https://leetcode.com/problems/word-ladder-ii/) Hard |
 | 2026-10-20 | [Capgemini](../companies/capgemini.md) | IIT Delhi | [Run-length compression of a string](../companies/capgemini.md#q2-run-length-compression-of-a-string) | [LC 443](https://leetcode.com/problems/string-compression/) Medium |
 | 2026-10-18 | [Flipkart](../companies/flipkart.md) | IIT BHU | [Sorted word position differences and letter (string simulation)](../companies/flipkart.md#q5-sorted-word-position-differences-and-letter-string-simulation) | ≈ [LC 1051](https://leetcode.com/problems/height-checker/) Easy |
+| 2026-10-18 | [NexusOne](../companies/nexusone.md) | IIT Delhi | [NexusOne OA pattern (IIT Delhi)](../companies/nexusone.md#q1-nexusone-oa-pattern-iit-delhi) | |
 | 2026-10-17 | [NetApp](../companies/netapp.md) | IIT BHU | [Interview: 2 DSA questions with approach in 3 minutes](../companies/netapp.md#q1-interview-2-dsa-questions-with-approach-in-3-minutes) | |
 | 2026-10-16 | [Deutsche Bank](../companies/deutsche-bank.md) | IIT Kanpur | [Single pass over a string checking a condition](../companies/deutsche-bank.md#q3-single-pass-over-a-string-checking-a-condition) | |
 | 2026-10-16 | [Meltwater](../companies/meltwater.md) | IIT Hyderabad | [Kth Character of Concatenated Sorted Unique Substrings](../companies/meltwater.md#q2-kth-character-of-concatenated-sorted-unique-substrings) | ≈ [LC 1698](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/) Medium |
